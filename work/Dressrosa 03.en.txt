@@ -1,0 +1,433 @@
+1|Darkness will consume you, Straw Hat!
+2|I won't lose! I'll find One Piece. I'm gonna be the Pirate King!
+3|Hey, what's with that shrimp?!
+4|Spartan got beat!
+5|No way!
+6|He's one of the star gladiators of this Colosseum!
+7|Maybe, he just tripped over himself.
+8|That wouldn't lodge someone in the ground!
+9|Now, where should I sit?
+10|Did you just start that fight?!
+11|That isn't allowed! You're disqualified!
+12|What?!
+13|We don't need hooligans like you causing scuffles before a match...
+14|Whoa-whoa!
+15|Flower Country Gang Chinjao Family
+16|Hold it right there, you idiot!
+17|Above: Don Chinjao
+18|Right: Sai
+19|That big one started it! If you're gonna throw someone out, it's gonna to be him!
+20|Left: Boo
+21|He's unconscious though.
+22|Oh! It's Sai and Boo from Flower Country!
+23|Even Don Chinjao is here!
+24|He's a legend!
+25|You saved me! Thank you!
+26|Nah, don't mention it.
+27|Honestly, you don't have to mention it...
+28|You don't have to say "Thank you"...
+29|Don't say the words "Thank you."
+30|Take back your "Thank you," you bastard!
+31|You don't have to refuse his thanks that much, brother!
+32|Don't ever say those words to me, idiot!
+33|Sorry. He's really excitable.
+34|There are all kinds of people in the world.
+35|You... Stop ganging up with other powerhouses from your block, Dagama!
+36|Hey hey, look at them.
+37|Yeah, there are a whole bunch of big names from each and every country!
+38|Assassins from a neighboring country Funk Brothers
+39|It's an international war for the devil fruit!
+40|Older Brother Kelly Funk
+41|Ganging up and paying people off?
+42|You make me sick!
+43|Younger Brother Bobby Funk
+44|It's a one-on-one fight.
+45|Even if you cheat like that, only one contestant per block can go to the next round.
+46|Prodense Kingdom - Military Tactician Dagama
+47|Cut the crap!
+48|I know you two are here on your country's orders, too!
+49|Any country that has the Flame Fruit,
+50|which is more powerful than any weapon,
+51|King of the Prodense Kingdom · The Fighting King Elizabello II
+52|would give any country an advantage in diplomatic relations.
+53|Look around you. See those faces?
+54|There! He is a Class-A war criminal who was involved in the Sea Battle of Dias - Suleiman the Beheader!
+55|They're the former bounty hunters who bombed a government institution - Abdullah and Jeet.
+56|A fake adventurer - "The Surmounter" Orlumbus.
+57|Sponsored by the Donquixote Family...
+58|a sadistic pirate who's worth over 100 million - Bellamy the Hyena.
+59|And the "Pirate Noble" Cavendish is here...
+60|...as well as the crazy rookie Bartolomeo who became infamous a year ago.
+61|Now, do you really think that none of these ill-famed people are plotting anything?!
+62|It's crazy to think they don't have a plan!
+63|I'm sure you guys have something! Don't you?
+64|The first round is a battle royale!
+65|Only one winner per block will go to the next round.
+66|Yeah!
+67|Block A's match will start soon!
+68|Followed by blocks B, C, and D.
+69|There are over 550 competitors here.
+70|And only four of us will win the first round!
+71|It won't be so easy.
+72|So I guess...
+73|...you brothers are in the same block because of paying somebody off, am I right?
+74|It's just a coincidence.
+75|It's a coincidence.
+76|Which block am I in?
+77|I'm sure the receptionist told you already.
+78|Your number is 556 so you're in Block C.
+79|I know everybody has different goals...
+80|but the world could fall into chaos depending on who gets the Flame Fruit.
+81|Let's cut the crap and do our best, everybody!
+82|Armor! Helmets!
+83|The Colosseum Armory
+84|This is awesome! Can we use anything here?!
+85|You can use anything except projectile weapons.
+86|A half-naked statue of an old warrior man!
+87|Cool!
+88|I want it!
+89|I will wear this armor!
+90|And a helmet that's cooler than that old man's!
+91|So cool!
+92|I want to show this to Usopp and the others!
+93|Hey, what's wrong?!
+94|Th-The nobleman is so...
+95|Nobleman?!
+96|All of the women are fainting.
+97|What?!
+98|No, its too much!
+99|Look, that's Cavendish!
+100|The Pirate Noble?! He's alive?!
+101|I can't believe how beautiful he is!
+102|This is the dressing room, huh?
+103|Hey you, right there.
+104|That won't do.
+105|Gladiator Lucy
+106|There is a weight limit for gear.
+107|Well, whatever you do, you have no chance.
+108|I will win the Flame Fruit.
+109|Captain of the Beautiful Pirates "White Horse Cavendish" Bounty: 280,000,000 Belly
+110|Yes! With that beautiful power that belongs only to me.
+111|You're overweight.
+112|What?!
+113|I told you earlier! Come here!
+114|Tsk! But I look so cool in this!
+115|That explains why everybody's half-naked.
+116|Gladiators are just part of a show for them.
+117|People get excited seeing a loser's blood.
+118|At the Colosseum, people show their true colors.
+119|How is watching a match between two heavily-armored competitors any fun?
+120|For them, this battle is just a show.
+121|I wonder if I have to take off this cape too?
+122|It looks so cool!
+123|Hey you.
+124|I watched you take down that big guy earlier.
+125|Who are you?
+126|I'm Luffy!
+127|What?!
+128|Lu...
+129|I'm gonna become the Pirate King!
+130|Lu...
+131|You mean Lucy!
+132|Oh yeah, I'm Lucy.
+133|Don't confuse us!
+134|Oh, you're Lucy!
+135|I thought Straw Hat Luffy was here!
+136|There's no way!
+137|I heard the real one is a eight-meter-tall giant!
+138|This is nice!
+139|If you were really...
+140|Straw Hat Luffy, I would have...
+141|killed you here and now.
+142|What?
+143|I came to the New World three years ago.
+144|The whole world was talking about this beautiful rookie who was worth over 200 million.
+145|I was in the newspapers everyday.
+146|Girls went nuts over my wanted posters.
+147|They would steal all of the posters in town.
+148|Everybody was going crazy over me.
+149|"Hey, big star!"
+150|"Who? Me?"
+151|"Of course!"
+152|But...
+153|...one year later,
+154|Whitebeard's War drew their attention away from me!
+155|The whole world's attention was on Straw Hat Luffy and Whitebeard!
+156|On top of that,
+157|new rookies kept coming up one after another, became known as the Worst Generation,
+158|and wreaked havoc like crazy!
+159|Reporters won't pay attention to me anymore!
+160|That's why I'm gonna kill them! Every one of those annoying newcomers!
+161|All of them!
+162|What you're saying is absurd.
+163|Say whatever you like!
+164|To recapture world attention again,
+165|I would kill as many newcomers as it takes!
+166|To do so, I'm gonna win the Flame Fruit today!
+167|Your good to go.
+168|You're taking the same attitude as them!
+169|Are you a competitor?
+170|You look weak but you're a cutie!
+171|Hm... Interesting.
+172|I ended up looking like this old man.
+173|Are you interested in him?
+174|Who are you?
+175|Rebecca. I'm a gladiator.
+176|Corrida Colosseum Gladiator Rebecca
+177|Thank you for what you did earlier.
+178|I didn't like Spartan.
+179|This statue is cast after a legendary man.
+180|He was the strongest gladiator in the history of Corrida Colosseum, Kyros.
+181|He won 3000 out of 3000 matches.
+182|The only wound he ever received was a single slash.
+183|Wow! He was that strong?!
+184|He used to fight here up until 20 years ago.
+185|But no one in this country knows about him.
+186|Huh?
+187|None of elders or gladiators in this country have ever seen him.
+188|It's the most mysterious statue in Dressrosa.
+189|We don't know if Kyros the Gladiator actually existed...
+190|or if somebody made up the story and put a statue here.
+191|All we know is what's written on this plaque.
+192|Although nobody knows about him,
+193|nobody wants to remove it.
+194|That's also strange.
+195|Hm... I don't get it at all but...
+196|I like this statue! It's so manly!
+197|I like it, too.
+198|Hey, Great Warrior Rebecca-chan!
+199|The undefeated girl! We know you'll do it today, too!
+200|I'm sure you were relieved earlier...
+201|That Spartan guy who bullied you for a long time got his ass kicked.
+202|Stop it, idiot! Let's go!
+203|What's with them?
+204|Ignore them.
+205|I...
+206|I'm gonna fight for the last time today.
+207|I'm gonna win the Flame Fruit and...
+208|I'm gonna kill Doflamingo!
+209|What?! Mingo?!
+210|What block are you in?
+211|C.
+212|Good. I'm in D.
+213|I hope we both survive the first round.
+214|Lucy.
+215|The winner of Block A is the masked man!
+216|Mr. Store!
+217|That was so fast!
+218|Oh? Is he going to take his mask off?! For real?!
+219|He took it off!
+220|What?!
+221|I can't believe this! We all know him!
+222|What an interesting start! And an unexpected competitor!
+223|The winner of the Block A battle royale is...
+224|Oh, he's...
+225|the captain of the first ship of the fearful Emperor Blackbeard's pirate crew.
+226|it's Jesus Burgess!
+227|He's...
+228|That champion from way back then!
+229|Burgess! Burgess! Burgess! Burgess!
+230|Burgess! Burgess! Burgess! Burgess!
+231|Scene 1 "Corrida Colosseum"
+232|The Blackbeard Pirates, huh?
+233|I was expecting Luffy to win this thing pretty easily but...
+234|it looks like it might be a bit harder to do.
+235|I hope no one finds out who he is.
+236|Now, I've got work to do.
+237|Hey! Wait a minute!
+238|I'll come with you!
+239|What?! You're in the way!
+240|I don't need a guy who doesn't know where the factory is!
+241|I'm gonna beat the hell out of some high-ranking guy in the Doflamingo Family...
+242|Whoa-whoa! Wait! Be quiet!
+243|and make him cough up where it is.
+244|What is it now?!
+245|Let's go someplace else to talk!
+246|Such radical speech here is taboo!
+247|Who the hell are you?
+248|Same location "Audience Seating"
+249|"Pirate Mercenary" Hajrudin...
+250|Cavendish!?
+251|Even "The Missionary" Gambia?!
+252|Let's go!
+253|Hey hey, you don't have to rush like that.
+254|Yeah, there are a bunch of bad guys.
+255|I was surprised about Burgess, too.
+256|I'll talk to Issho-san right away.
+257|Okay.
+258|Hey hey!
+259|Sonny, are you talking to yourself?!
+260|Staff officer of the "Barto Club" pirate crew Bounty: 67,000,000 Belly
+261|"The Missionary" Gambia
+262|Or were you talking with someone on the outside?
+263|You're strange!
+264|Am I right? Am I right?
+265|What's that note?!
+266|You were whispering those cool guys' names!
+267|Don't tell me...
+268|are you a...
+269|Are you all right, sir? Please respond.
+270|Everything's fine.
+271|I'll call you back in ten minutes.
+272|The Colosseum is still excited from the battle of Block A!
+273|I wonder how it's going to go for Block B!
+274|Shall we go out?
+275|There are so many familiar names, aren't there?
+276|So what should we do now?
+277|Oh, your coat.
+278|Navy Headquarters Admiral
+279|Fujitora (Issho)
+280|We need, maybe, three warships.
+281|And in the meantime, let's head for... uh...
+282|What was the name?
+283|It's Green Bit.
+284|Yes, let's go there.
+285|And um...
+286|We'll need as many medics as we can get.
+287|We can't have any casualties.
+288|I also want to know how many spectators there are in the Colosseum...
+289|and the population of this town.
+290|Okay... Instead of the enemy numbers?
+291|Is it necessary?
+292|What we have to consider first is not the number of enemies...
+293|...but the number of people we have to protect, don't you think?
+294|Yes, sir!
+295|This is Maynard.
+296|Excuse me for hanging up earlier.
+297|Everything is okay here.
+298|Toilets / Garbage dump
+299|Fighter 0429 Capman
+300|Oh, and earlier, I mentioned a name; "The Missionary" Gambia...
+301|who works under Bartolomeo.
+302|You can cross that out.
+303|It wasn't him that I saw after all.
+304|D-Damn! That Marine.
+305|Navy Headquarters Vice Admiral Maynard the Pursuer
+306|I'll continue with the plan we have for here, also.
+307|At a café in the northeast
+308|Scene 2 Caesar exchange team
+309|Green Bit?
+310|It wouldn't be wise to go there.
+311|Are you people some kind of researchers or explorers?
+312|You better not go unless you have a purpose that's worth risking your life for.
+313|That bridge looks very strong...
+314|Yes, it's made of iron.
+315|But look at the entrance. Nobody is crossing it nowadays.
+316|A school of Fighting Fish inhabit the area around Green Bit.
+317|Before they came, people used to come and go freely,
+318|but that was 200 years ago.
+319|Mister, what's a Fighting Fish?
+320|It's a savage fish with horns.
+321|If you approach them by ship, they'll capsize you.
+322|That's why they reinforced the bridge with iron, but it doesn't help.
+323|No use?! What do you mean?!
+324|Are you saying they can take down an iron bridge?!
+325|Well, I don't know the current condition of the bridge.
+326|Only people who crossed it know, but I don't know anyone who's came back.
+327|What?!
+328|Hey, Tra-guy!
+329|You have to change the hand-over spot now!
+330|He's right!
+331|Think what it's like to be handed over at such a place, fool!
+332|You fool!
+333|We'll stick with the plan.
+334|We're already here, so stop making a fuss.
+335|More importantly,
+336|I'm worried about the situation of this country.
+337|Their king suddenly abdicated.
+338|How come they are so calm?
+339|There's something strange going on here.
+340|That's what worries me!
+341|W-What are you doing, Robi-
+342|What's going on?
+343|CP-0.
+344|What?! "CP"?
+345|The strongest intelligence organization in the world.
+346|Cipher Pol Aigis 0!
+347|D-Don't tell me they're related to CP-9!
+348|They're the strongest of all of those organizations!
+349|When they're on the move, bad things follow.
+350|Indeed.
+351|Scene 3 The fairy and Zoro
+352|Gotcha!
+353|I'll be taking my sword!
+354|Oh no!
+355|Ow, ow, ow... This is no good!
+356|I'm so dumb! This human will see me!
+357|I have to run! Otherwise, the human will...
+358|Scene 4 Kin'emon, alone and astray
+359|Who are you people?
+360|I'm just an old man out for a walk!
+361|Don't lie! Isn't that a topknot under your hat?
+362|You're the samurai, Foxfire Kin'emon, aren't you?!
+363|We saw you in the video from Punk Hazard.
+364|And we figured you would come back here,
+365|samurai.
+366|Am I right?
+367|Now now, just come along quietly!
+368|If you care about the life of that Kanjuro you're after!
+369|Scene 5 Sanji, in love
+370|Target confirmed.
+371|Violet-chan!
+372|Dear Nami-san and Robin-chan.
+373|How is the weather there?
+374|I can't believe it! You're so strong!
+375|It was nothing! Anybody can detect a sniper sitting 16 meters above the ground!
+376|It was nothing!
+377|How reliable!
+378|I'm in the middle of a hurricane called love!
+379|I'm...
+380|...in love!
+381|I'm here for you!
+382|Scene 6 Sunny safety and security team
+383|All wrong! You shouldn't drink it all up!
+384|Listen! The taster's role is to try just a little of the shogun's food to check for poison!
+385|Understood?!
+386|Yes, sir!
+387|Try again!
+388|Get me a cup of tea, Choppa'emon.
+389|Retainer: Choppa'emon
+390|Yes, sir!
+391|I'll bring it to you right away, sir!
+392|Maid: O-Nami
+393|How are you feeling now, sir?
+394|Ah, this is so comfortable.
+395|I'm feeling great.
+396|Yeah? That's good.
+397|I'm feeling great, too!
+398|Th-That hurt, Nami-san!
+399|I thought it was a sleeping-in-your-lap party!
+400|What kind of party is that?!
+401|He's playing shogun.
+402|Playing shogun?
+403|Whenever we leave Momo alone, he gets very serious and depressed.
+404|He's not gonna share it with us, but...
+405|maybe he has had some kind of trauma at a young age.
+406|What?!
+407|I see. It was something like that.
+408|Hey, Bone-kichi!
+409|Yes?
+410|Do something to warm the place up.
+411|No. Luffy-san is the only one I take orders fro-
+412|Just do it!
+413|Thank you, everybody!
+414|Huh?
+415|I don't like it...
+416|What?!
+417|I thought it was just the four of us on the ship.
+418|So did I... I wonder what's making that noise.
+419|Creepy!
+420|I'm scared!
+421|O-Nami!
+422|I don't like it... Honestly...
+423|I-I-It's from the men's dormitory.
+424|Oh, I don't like it!
+425|There is somebody in there!
+426|Who is it?
+427|Corrida Colosseum
+428|Competitors of Block B! Is Capman here?!
+429|And Bartolomeo?!
+430|You're Bartolomeo, aren't you?
+431|Block B's match will start soon!
+432|And did you see a competitor named Capman?
+433|Well...

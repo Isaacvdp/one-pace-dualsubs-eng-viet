@@ -1,0 +1,290 @@
+1|Darkness will consume you, Straw Hat!
+2|I won't lose! I'll find One Piece. I'm gonna be the Pirate King!
+3|Who is that guy?
+4|Was that a devil fruit ability?
+5|Probably, but what type of ability was it?
+6|I'm very sorry for the trouble.
+7|You can send the request for compensation to this address.
+8|Uh, I see...
+9|What?!
+10|Sir, are you...?!
+11|Excuse me.
+12|You're really strong, old guy! Who are you?
+13|It would seem... that it'd be better for the both of us if I didn't tell you.
+14|Hey! Why don't you watch where you're going?!
+15|I-I'm very sorry. Are you hurt?
+16|Better for the both of us? Is he like, some really infamous guy?
+17|Whoever he is, he's definitely trouble.
+18|My bag's gone!
+19|And my watch!
+20|Where'd my wallet go?!
+21|Damn it! My jacket's been stolen!
+22|Even though it's midday, they still managed to sneak in through the dust!
+23|Did the old guy pickpocket everyone, or something?
+24|One of them is missing!
+25|What do you mean?
+26|One of my swords is gone!
+27|Shuusui was right here!
+28|What?! The treasure of the Wano Country?!
+29|It seems everyone's been had.
+30|The fairies stole them.
+31|What's that supposed to mean?! Is it some sort of criminal organization?
+32|Fairies are fairies. You just have to laugh and accept what they do.
+33|The fairies cannot be seen, but they have been the guardians of Dressrosa for generations.
+34|We must turn a blind eye to whatever they do.
+35|Guess there's nothing for it.
+36|You gotta be kidding me!
+37|Indeed! That is a national treasure of the Wano Country!
+38|What?! It's my sword!
+39|It does not belong to you!
+40|Sooner or later I will fight you for the blade and return it to its rightful home!
+41|Suits me fine! I'll just take you down!
+42|Your greed was your downfall, fairies!
+43|You're not getting away from me!
+44|Hey Zoro, Where are you going!?
+45|Hold it!
+46|We don't have time to let you wander off on your own!
+47|Looks like fun.
+48|Not so fast, Luffy.
+49|Have you found the culprit?!
+50|I will not let you run off with one of the Wano Country's treasures!
+51|Let go of me! I want to go too!
+52|I've got a great idea.
+53|Idea?
+54|I've come to realize that, in this group, I have to take the lead or nothing will get done.
+55|Just leave it to me, the bro-meister.
+56|You're one of Doflamingo's men, aren't you?
+57|Is that supposed to scare us?
+58|We asked you a question, mister. Better spill the beans.
+59|I-I already told you!
+60|Yeah, I remember chasing the samurai, but I have no idea how he was captured or where he is now.
+61|And I've never heard of this Smile-thing before.
+62|Not even the letter S in Smile?
+63|Nothing at all! And that goes for this factory of yours too!
+64|What are you talking about?!
+65|Well, this ain't good. Even his own men don't know, huh?
+66|Then tell us where we can find someone who gives you orders!
+67|This guy might just be too low in their ranks.
+68|I have no idea where anybody is today. Everyone's too busy.
+69|Even I've been called to the colosseum.
+70|Look.
+71|People from all over the country are heading to the colosseum today.
+72|The Corrida Colosseum. If you wanna find the higher-ups, go there.
+73|Today's a special event.
+74|The Family's commanders are probably gonna be there.
+75|I dunno the details, but the young master's prepared a spectacular prize.
+76|I couldn't believe it when I found out.
+77|It's something anyone would want.
+78|You don't mean...
+79|that ultra-delicious meat that Mingo was talking about?!
+80|He only said that it was something you'd want.
+81|Dressrosa's Corrida Colosseum
+82|Ow!
+83|It's him! The Thunder Soldier!
+84|Ladies, gentlemen and toys...
+85|That hurts!
+86|We wanna see too!
+87|Let us in!
+88|Children are not allowed to watch people fight to the death!
+89|Go home!
+90|The event today...
+91|will be a truly special occasion!
+92|For this day, the King has granted us...
+93|a priceless gem!
+94|Two years ago, at the Great War at Marineford...
+95|a man lost his life.
+96|He was second commander of the legendary Whitebeard Pirates, and the son of the Pirate King.
+97|Ace!
+98|They say his fists of flame could pierce warships...
+99|or burn cities to the ground and turn them into a living hell!
+100|This formidable power has returned to the world. Reborn in the form of a new Devil Fruit!
+101|R-Reborn?
+102|Seriously?!
+103|Behold!
+104|This forbidden fruit will be given to the victor of today's battle!
+105|One of the Logia Devil Fruits, the strongest of the three varieties!
+106|The Flame Fruit!
+107|Is that true?
+108|The young master would never lie about something like this!
+109|Ace's...
+110|Flame Fruit?
+111|Today our colosseum will be host to...
+112|great men from all parts of the New World who have been summoned by our King.
+113|However! This gem will not be handed over easily.
+114|If anyone thinks they can steal it, I'd like to see them try!
+115|It is being guarded by people far more powerful than our usual combatants.
+116|Namely...
+117|members of the esteemed Donquixote Family!
+118|Senor Pink!
+119|Dellinger!
+120|Lao G!
+121|Machvise!
+122|Vise!
+123|And last but not least, the hero of our colosseum...
+124|Mr. Diamante!
+125|Diamante-sama!
+126|Diamante!
+127|Let's get this thing started!
+128|Let's see some blood!
+129|What... is Ace's Flame Fruit doing here?
+130|Each devil fruit is unique and no two have the same power.
+131|But when a devil fruit user dies,
+132|the fruit that holds that power will reappear again somewhere in the world.
+133|And whoever eats the new fruit will become the next holder of its power.
+134|After Fire Fist Ace died, the Flame Fruit reappeared somewhere unnoticed.
+135|Until the young master managed to find it!
+136|He's giving away a Logia devil fruit as a prize for his business.
+137|The young master is much more generous than he needs to be.
+138|I'm sure my life would be changed if I could gain that amazing power.
+139|Like hell I'd let you eat it!
+140|Oh yeah, Ace was your...
+141|I want that Flame Fruit!
+142|Oh, I know! Why don't you eat it, Franky?
+143|I'd rather not become an anchor.
+144|I've already eaten the Rubber Fruit, so I can't eat another one...
+145|but I don't want some random stranger to run off with Ace's power!
+146|So it's like a memento for you?
+147|Thinking of what Doflamingo said, this is probably a trap.
+148|All I'll say is...
+149|Don't let this chance slip away!
+150|You'd just end up regretting it.
+151|Besides, we've got business at the colosseum anyway.
+152|So let's go.
+153|You fools.
+154|If wanting it was all it took, nobody would lose their lives there.
+155|You underestimate the danger of the colosseum.
+156|Mysterious Fairy Pursuit
+157|Fairy, my ass! He's just some thief!
+158|I keep telling you to wait!
+159|Surely you can lose a sword. Or two!
+160|Like hell I can, you damned idiot!
+161|Dammit! Where did he go?
+162|What's that?
+163|Did you find the fairy?
+164|Dancer Violet
+165|Such sweetness!
+166|Such passion!
+167|No one in the world can match your dancing!
+168|What?
+169|Sh-
+170|She's so beautiful!
+171|Have you forgotten that women in this country stab men to death?
+172|You're just gonna wind up dead.
+173|I'd gladly let her stab me!
+174|Shit! I lost sight of him!
+175|That Moss-Head got himself lost!
+176|Right, this is an excellent opportunity.
+177|Let's just leave him here. He's nothing but trouble anyway.
+178|I did everything I could.
+179|Looks like this place is filled with couples. I'm really jealous.
+180|I wonder if this place would make Nami-san and Robin-chan hopelessly fall for me?
+181|Hello, you there!
+182|You're the one who was looking at me earlier, right?
+183|Please...
+184|hold me in your arms!
+185|Whaaat?!
+186|Where did she run off to?
+187|She must have snuck out the back door into Lovers' Avenue. She can't be far!
+188|Don't let her get out of the city!
+189|Yes sir!
+190|Thank you. It looks like they're gone.
+191|Umm...
+192|you can let go now.
+193|Oh, you are very welcome.
+194|I'm so sorry! Did you hit your head?
+195|No, the only thing that has hit me is the impact of our meeting.
+196|But there's so much blood!
+197|No... it's nothing.
+198|Poor you.
+199|It's no use! I cannot resist this passion!
+200|No, you mustn't look at me like that!
+201|I have forsaken love.
+202|Every man I've gotten involved with-
+203|I know!
+204|They were all in paradise!
+205|You were being chased, right? Who were those people?
+206|If there's anything I can do to help, just tell me!
+207|That was the police.
+208|I... stabbed a man to death...
+209|because our love had turned sour.
+210|What?!
+211|You mean it's true?! Women in this country really are passionate enough to kill?!
+212|Okay!
+213|You're okay with that?!
+214|What's wrong?
+215|No, you can't just forgive a demonic woman like me!
+216|Or I might...
+217|fall in love with you.
+218|My name is Violet.
+219|Would you be so kind as to escort me to the next town?
+220|And once there...
+221|will you kill a man for me?
+222|Corrida Colosseum
+223|The colosseum is enormous!
+224|Just listen to those cheers! Suddenly, I wanna participate too.
+225|They're really getting fired up.
+226|You've caused so much trouble!
+227|Just give up already!
+228|Criminal toy soldier!
+229|No good! You can't hit me!
+230|Jet Walk!
+231|Look, my dear slugs!
+232|I have entered the colosseum!
+233|One-legged soldier Alternate Name: The Mad Thunder Soldier
+234|You know the law, don't you?
+235|Cops and marines are forbidden to enter the colosseum!
+236|Even if you see criminals within the colosseum, you have no authority here!
+237|The only law that applies in here is the law of the Donquixote Family!
+238|Pull those triggers, and you will be the criminals!
+239|Now get out of my sight!
+240|Dammit.
+241|Oh, pardon me old man! Shall I carry your luggage for you?
+242|What's this? He sure got real polite all of a sudden.
+243|What a funny soldier!
+244|You find me funny?
+245|How about this? How about this?
+246|Could you step aside, pops?
+247|Oh, am I in your way? How terribly rude of me!
+248|You're blushing like crazy!
+249|You're really serious, huh?
+250|N-Not at all!
+251|Making people smile is a toy's duty!
+252|As if there could ever be such a thing as a serious toy!
+253|He's taking it personally!
+254|The open sign-up for today's battle is about to close.
+255|Not that any commoners would want to participate, anyway.
+256|They're too scared.
+257|Hey, Luffy. Looks like that's your entrance over there.
+258|Oh, I see.
+259|Alright, I'm participating! Sign me up!
+260|I'll fight!
+261|Huh? Does that old man want to enter?
+262|Is he nuts?
+263|Does he have any idea what he's doing?!
+264|Hey Luffy, listen. Promise me just one thing.
+265|You can go all out if you want but don't ever let them know who you are.
+266|Okay!
+267|Sign your name.
+268|Luf...
+269|You idiot!
+270|Fighter Number 556 - Lucy
+271|This is the dressing room for the competitors.
+272|You're free until we call you.
+273|Wow! It's so exciting!
+274|The Flame Fruit is mine!
+275|No, it's mine, idiot!
+276|Hey, who's the little guy?
+277|I see.
+278|Can we use any weapons we like?
+279|Hey, who is he?
+280|Oh, he's the last participant to sign up.
+281|What's this shrimp doing here?
+282|Spartan Corrida Colosseum Gladiator (51 Time Winner of the Monthly Tournament)
+283|This is the worst kind of joke!
+284|Hey, fake-bearded brat! This is a fighting arena!
+285|Don't, Spartan!
+286|It's no fun seeing a weakling get pummeled!
+287|The spectators only get excited when the strong go head-to-head!
+288|This is not a place for you! Go home!
+289|Go home now!
+290|Nice to meet ya'!

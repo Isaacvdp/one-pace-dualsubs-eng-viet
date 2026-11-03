@@ -1,0 +1,436 @@
+1|Cora-san.
+2|Nó chẳng được gì từ anh cả, một đứa con thực thụ của hủy diệt!
+3|Để nó yên đi!
+4|Nó được tự do rồi!
+5|Tôi sẽ không thật sự tự do...
+6|cho đến khi thực hiện được ước nguyện của anh!
+7|Room!
+8|Chừng nào chưa chặn được Doflamingo!
+9|Ngươi nghĩ gì về Monkey D. Luffy?!
+10|Đến tận hôm nay tao mới biết...
+11|mày là Thiên Long Nhân!
+12|Chambres!
+13|Ngươi nghĩ gì về chữ "D"?!
+14|Chuyện đó...
+15|không liên quan đến mày!
+16|Thì sao? Ý ngươi là Luffy Mũ Rơm được định mệnh dẫn đến đây...
+17|để giết ta, vì trong người ta chảy dòng máu thần linh à?!
+18|Ngu xuẩn!
+19|Và ở một vùng đất nọ, có những người gọi Gia tộc "D" là...
+20|"kẻ thù truyền kiếp của thần linh"!
+21|Tao cũng là một "D"!
+22|Chiến sự thế nào rồi, Viola?
+23|Ở trận quyết chiến trên tầng cao nhất Cung điện,
+24|Mũ Rơm đã bị hất xuống tầng dưới,
+25|còn Law thì không địch nổi Doflamingo.
+26|Chiến sự ở đất nước này chia làm ba mặt trận chính.
+27|Khu Cung điện Hoàng gia
+28|Khu Cung điện Hoàng gia.
+29|Khu Cung điện Hoàng gia
+30|Khu Cung điện Hoàng gia
+31|Khu Cung điện Hoàng gia
+32|Khu Cung điện Hoàng gia
+33|Khu Cung điện Hoàng gia
+34|Khu Cung điện Hoàng gia
+35|Khu Cung điện Hoàng gia
+36|Khu Cung điện Hoàng gia
+37|Khu Cung điện Hoàng gia
+38|Khu Cung điện Hoàng gia
+39|Khu Cung điện Hoàng gia
+40|Khu Cung điện Hoàng gia
+41|Khu Cung điện Hoàng gia
+42|Tượng Pica
+43|Tượng Pica.
+44|Tượng Pica
+45|Tượng Pica
+46|Tượng Pica
+47|Tượng Pica
+48|Tượng Pica
+49|Tượng Pica
+50|Tượng Pica
+51|Tượng Pica
+52|Tượng Pica
+53|Tượng Pica
+54|Tượng Pica
+55|Tượng Pica
+56|Tượng Pica
+57|Tượng Pica
+58|Tượng Pica
+59|Nhà máy SMILE
+60|Nhà máy SMILE.
+61|Dập lửa đi!
+62|Đừng làm vậy!
+63|Khống chế những kẻ đang nổi loạn!
+64|Chừng nào chiến sự còn tiếp diễn...
+65|Số nạn nhân sẽ còn tăng lên.
+66|V-Viola.
+67|Gia tộc Donquixote còn lại bao nhiêu cán bộ?
+68|Vẫn còn khá nhiều ạ.
+69|Một trong những mặt trận chính,
+70|Nhà máy SMILE, do một cán bộ canh giữ,
+71|Nhà máy SMILE
+72|Người bơi tự do, Senor Pink!
+73|Ở mặt trận thứ hai, tượng Pica, là cán bộ cấp cao nhất,
+74|Tượng Pica
+75|Người đồng hóa đá, Pica!
+76|Và mặt trận thứ ba, Khu Cung điện Hoàng gia.
+77|Trên tầng cao nhất có...
+78|vị vua hiện tại của Dressrosa,
+79|Người sợi chỉ, Doflamingo!
+80|Cùng tham mưu trưởng, Người nước nhầy, Trebol!
+81|Ở Cánh đồng Hướng Dương trên tầng bốn,
+82|Cung điện Hoàng gia
+83|Tầng bốn
+84|là anh hùng của Đấu trường, Người lá cờ,
+85|Diamante!
+86|Còn ở tầng ba là Người nổ tung, kẻ chỉ huy toàn bộ thuộc hạ,
+87|Tầng bốn
+88|Tầng ba
+89|Tầng ba
+90|Tầng ba
+91|Tầng ba
+92|Tầng ba
+93|Tầng ba
+94|Tầng ba
+95|Tầng ba
+96|Tầng ba
+97|Tầng ba
+98|Tầng ba
+99|Tầng ba
+100|Tầng ba
+101|Tầng ba
+102|Tầng ba
+103|Tầng ba
+104|Tầng ba
+105|Tầng ba
+106|Tầng ba
+107|Tầng ba
+108|Tầng ba
+109|Tầng ba
+110|Tầng ba
+111|Tầng ba
+112|Tầng ba
+113|Tầng ba
+114|Tầng ba
+115|Tầng ba
+116|Tầng ba
+117|Tầng ba
+118|Tầng ba
+119|Tầng ba
+120|Tầng ba
+121|Tầng ba
+122|Tầng ba
+123|Tầng ba
+124|Tầng ba
+125|Tầng ba
+126|Tầng ba
+127|Tầng ba
+128|Tầng ba
+129|Tầng ba
+130|Tầng ba
+131|Tầng ba
+132|Tầng ba
+133|Gladius!
+134|Tầng hai
+135|Ở tầng hai có bốn cán bộ.
+136|Bán ngư nhân Cá Chọi, Dellinger!
+137|Người dùng Địa Quyền,
+138|Lao G!
+139|Người siêu trọng lượng,
+140|Machvise!
+141|Người phụ nữ vũ khí toàn thân,
+142|Baby 5!
+143|Vẫn còn mười kẻ từ cấp cán bộ trở lên.
+144|Đừng nói là...
+145|Gió làm cay mắt thôi.
+146|Ồ! Ngầu quá!
+147|Ở hầu hết các trận đánh,
+148|ai cũng bị thương nặng!
+149|Cao trào của trận chiến không còn xa nữa!
+150|Cao nguyên Cung điện, bậc 4
+151|Lũ nhãi láo xược...
+152|Army Bandera!
+153|Mặt đất...
+154|Thế nào hả?! Mặt đất gợn sóng như lá cờ!
+155|Có vẻ các ngươi chật vật lắm mới đứng vững được nhỉ!
+156|Clutch!
+157|Rebecca.
+158|Tôi hiểu cảm giác của cô. Chỗ này cứ để tôi.
+159|Gà Trống-kun!
+160|Đi đi!
+161|Vâng.
+162|Pierna Fleur!
+163|Thật tình! Đòn của ngươi làm ta buồn ngủ quá!
+164|Chuẩn bị đi, Gladius!
+165|Tầng ba
+166|Tầng ba
+167|Tầng ba
+168|Tầng ba
+169|Tầng ba
+170|Tầng ba
+171|Tầng ba
+172|Tầng ba
+173|Tầng ba
+174|Tầng ba
+175|Tầng ba
+176|Tầng ba
+177|Tầng ba
+178|Tầng ba
+179|Tầng ba
+180|Tầng ba
+181|Tầng ba
+182|Tầng ba
+183|Tầng ba
+184|Tầng ba
+185|Tầng ba
+186|Tầng ba
+187|Tầng ba
+188|Tầng ba
+189|Tầng ba
+190|Tầng ba
+191|Tầng ba
+192|Tầng ba
+193|Tầng ba
+194|Tầng ba
+195|Tầng ba
+196|Tầng ba
+197|Tầng ba
+198|Tầng hai
+199|Tầng ba
+200|Tầng hai
+201|Tầng ba
+202|Tầng hai
+203|Tầng ba
+204|Tầng hai
+205|Tầng ba
+206|Tầng hai
+207|Tầng ba
+208|Tầng hai
+209|Tầng ba
+210|Tầng hai
+211|Tầng ba
+212|Tầng hai
+213|Tầng ba
+214|Tầng hai
+215|Tầng ba
+216|Tầng hai
+217|Tầng hai
+218|Tầng hai
+219|Tầng hai
+220|Tầng hai
+221|Tầng hai
+222|Tầng hai
+223|Tầng hai
+224|Tầng hai
+225|Tầng hai
+226|Tầng hai
+227|Tầng hai
+228|Tầng hai
+229|Tầng hai
+230|Tầng hai
+231|Tầng hai
+232|Tầng hai
+233|Tầng hai
+234|Tầng hai
+235|Tầng hai
+236|Tầng hai
+237|Tầng hai
+238|Tầng hai
+239|Tầng hai
+240|Tầng hai
+241|Tầng hai
+242|Tầng hai
+243|Tầng hai
+244|Tầng hai
+245|Tầng hai
+246|Tầng hai
+247|Tầng hai
+248|Tầng hai
+249|Tầng hai
+250|Tầng hai
+251|Tầng hai
+252|Tầng hai
+253|Tầng hai
+254|Tầng hai
+255|Tầng hai
+256|Tầng hai
+257|Pháo Hủy Diệt!
+258|Trượt rồi!
+259|Ê Tô...
+260|Mười Tấn!
+261|Đúng như tao nghĩ!
+262|Mày vừa...
+263|lại làm thế nữa rồi!
+264|Bên trong Cung điện Hoàng gia
+265|Chúng tôi đang đến đây!
+266|Công chúa Mansherry!
+267|Trước Khu Cung điện Hoàng gia
+268|Có sao không?
+269|Vâng. Cảm ơn rất nhiều!
+270|Mau đến nơi nào an toàn đi!
+271|Dù chẳng còn nơi nào an toàn cả.
+272|Nếu họ không hạ được Doflamingo,
+273|tất cả chúng ta sẽ bỏ mạng trong cái Lồng Chim này.
+274|Ý anh là phải phó mặc vận mệnh đất nước cho lũ hải tặc đó sao?!
+275|Ngươi là một "D"?!
+276|Tên bí mật của ngươi à?!
+277|Ý ngươi là định mệnh đưa ngươi đến đây sao?!
+278|Ngươi tưởng mình chặn được ta chỉ vì là một "D" à?!
+279|Gia tộc "D" là kẻ thù truyền kiếp của thần linh?!
+280|Chỉ là mê tín thôi!
+281|Ê ê, Doffy, coi chừng!
+282|Ngài đang trong phạm vi năng lực của Law đấy!
+283|Injection...
+284|Shot!
+285|Cora-san cũng hiểu rõ điều đó.
+286|Nếu chỉ một cái tên mà hạ được mày thì đã quá dễ rồi.
+287|Nó chỉ là ngòi nổ thôi.
+288|Tao ở đây...
+289|...vì hôm đó Cora-san tốt bụng đã không thể bóp cò!
+290|Tao đến để bóp cò thay anh ấy!
+291|Doffy!
+292|Không ổn rồi...
+293|Room!
+294|Ta thật sự thất vọng về ngươi.
+295|Tact!
+296|Doffy! Tháp tường thành...
+297|Này! Nó đang bay về phía mình kìa!
+298|Mạng Nhện!
+299|Chambres!
+300|Mes!
+301|Scalpel
+302|Thôi mấy đòn vô ích đó đi!
+303|Ngươi đúng là đã thành một tên khốn nhiệt huyết và tự tin...
+304|Ngươi không nhìn được toàn cục.
+305|Lúc nào cũng bận tâm chuyện vô nghĩa.
+306|Thế nên ngươi chẳng bao giờ nắm được thời cơ.
+307|Kẻ càng yếu càng để tâm đến nỗi đau của người khác,
+308|và chính điều đó dẫn chúng đến diệt vong.
+309|Nếu thật sự muốn giết ta,
+310|ngươi nên bám theo kế hoạch khiến ta đụng độ với Kaido.
+311|Có nhiều cách để hạ một kẻ thù mạnh hơn mình.
+312|Nhưng ngươi nghĩ đến Corazón, để cảm xúc lấn át,
+313|và lúc ngươi quyết định tự tay đánh ta,
+314|cái chết của ngươi đã được định sẵn!
+315|Ngươi còn nhớ lá thư hồi đó chứ?
+316|Gói nhỏ này sẽ cứu...
+317|một vương quốc xa xôi tên là Dressrosa.
+318|Một vương quốc?
+319|Có người nhờ cháu đưa cái này cho chú, phải không?
+320|Cảm ơn cháu.
+321|Chú sẽ giữ nó. Đừng lo.
+322|Corazón đã cố cứu Dressrosa.
+323|Giá mà hôm đó ngươi không làm hỏng chuyện...
+324|Nói cho cùng, ngươi cũng có phần trách nhiệm trong cái chết của Corazón!
+325|Nếu có lá thư đó,
+326|vô số bi kịch giáng xuống đất nước này...
+327|có lẽ đã không xảy ra.
+328|Mày thật sự nghĩ thế à?
+329|Ngươi vẫn giữ được bình tĩnh. Khôn đấy.
+330|Ngươi nói đúng!
+331|Theo ta thấy, dù lá thư đó có đến nơi,
+332|ta cũng chỉ việc đổi kế hoạch, chiếm ngai vàng đất nước này bằng cách khác!
+333|Mọi thứ Corazón liều mạng vì nó đều vô ích.
+334|Chuyện đó để tao quyết định!
+335|Mọi thứ tao làm được trong đời đều là nhờ Cora-san!
+336|Thế à? Cảm động rơi nước mắt quá!
+337|Đúng thế!
+338|Dù là bi kịch hay sai lầm, chỉ những gì thực sự xảy ra mới được khắc vào đá!
+339|Như việc ngươi ăn Trái Phẫu Thuật rồi bỏ trốn,
+340|hay việc ngươi có mặt ở đây sau khi giương nanh vuốt ở Punk Hazard!
+341|Ngài làm được rồi!
+342|Cưa Chỉ! Cưa Chỉ!
+343|Ta không biết ngươi có bị gã "D" kia ảnh hưởng hay không,
+344|nhưng việc ngươi tự mình đến đây thách thức ta,
+345|giờ cũng đã được khắc vào đá!
+346|Vì thế ta tha thứ cho ngươi!
+347|Như ta đã tha thứ cho cha và em trai ta...
+348|ngươi sẽ được tha thứ bằng cái chết!
+349|Cao Su...
+350|Chết tiệt!
+351|Phản Lực...
+352|Gatling!
+353|Đạn chì đúng là cách hành quyết tốt nhất.
+354|Bản sao của Doffy!
+355|Mingo!
+356|Ra đây!
+357|Mũ Rơm!
+358|Bản sao của Doffy vỡ tan rồi!
+359|Có vẻ cái lồng hơi nhỏ...
+360|để nhốt được nó.
+361|Cậu không nghe tôi nói à?!
+362|Bellamy...
+363|Cậu!
+364|Này, Mingo!
+365|Mau ngăn Bellamy lại! Cậu ấy sẽ chết mất!
+366|Ngươi vẫn còn sống à...
+367|Cũng tốt.
+368|À, Bellamy!
+369|D-Doflamingo!
+370|Đủ rồi, Bellamy. Ta trả tự do cho ngươi.
+371|Như ngươi vẫn luôn tự do vậy.
+372|Các ngươi từ đâu đến?
+373|Bọn tôi đều đến từ Nortis.
+374|Thị trấn giàu có đấy chứ. Có gì không vừa ý à?
+375|Thị trấn đó chán ngắt!
+376|Gia tộc Donquixote là niềm tự hào của North Blue!
+377|Bọn tôi muốn thành băng hải tặc giống các anh!
+378|Bọn ta chẳng giống lũ hải tặc mơ mộng ngươi thấy dạo này đâu.
+379|Nếu muốn thì ta cho phép các ngươi treo cờ của bọn ta.
+380|Doffy!
+381|Nhưng nếu bị đánh bại, quyền đó sẽ bị tước.
+382|Thật sao?! Tuyệt!
+383|Ta không cần thuộc hạ yếu đuối.
+384|Bọn tôi sẽ không thua! Không thua ai hết!
+385|Này, Bellamy!
+386|Cậu không sao chứ?!
+387|Không ổn lắm nhỉ...
+388|Thời đại hải tặc mơ mộng đã hết rồi!
+389|Không ai thoát được năng lực Trái Lò Xo của tao!
+390|Lò Xo...
+391|Bật Nhảy!
+392|Tôi đã lên Đảo Trên Trời, Mũ Rơm.
+393|Tôi mất cả băng, nhưng thế giới của tôi đã hoàn toàn đảo lộn.
+394|Tôi không thù hận gì cậu.
+395|Tôi sẽ không cười nhạo cậu nữa.
+396|Bellamy.
+397|Cậu thay đổi rồi, Bellamy.
+398|Này, đừng cố quá!
+399|Cậu nên nằm yên đi.
+400|Joker muốn tôi giết Mũ Rơm à?
+401|Doffy mềm lòng quá rồi.
+402|Tôi thấy anh chẳng đáng được thêm cơ hội sau khi thua ở giải đấu.
+403|Coi như anh may đấy, Bellamy.
+404|Chà, ta đoán ngươi sẽ chùn tay, không giết nổi hắn đâu.
+405|Ồ? Lại động đất lớn nữa à?
+406|Đừng bắt ta phải nói thẳng, Bellamy.
+407|Ngươi và ta xưa nay vốn khác đích đến.
+408|Tôi không làm thế được!
+409|Cậu là bạn tôi mà!
+410|Này, Bellamy!
+411|Xin lỗi, nhưng cậu đợi ở đây nhé. Tôi lo cho Traf quá!
+412|Mingo với Thò Lò đang ở trên đó.
+413|Tôi phải lên giúp, không thì Traf gặp nguy mất!
+414|Tôi sẽ đánh Mingo nhừ tử giùm cậu luôn!
+415|Đứng lại!
+416|Cậu còn nhớ chiêu này chứ?
+417|Tôi tới đây, Mũ Rơm!
+418|Lò Xo...
+419|Bật Nhảy!
+420|Cậu mạnh lên, nhưng tôi cũng thế!
+421|Chiêu này giờ có sức hủy diệt hơn xưa nhiều!
+422|Này! Cứ cử động thế thì cậu chết mất!
+423|Im đi!
+424|Đừng có lo cho kẻ thù nữa!
+425|Giờ thì tôi hiểu rồi!
+426|Rằng tôi đã ngưỡng mộ nhầm người! Và tôi thảm hại đến mức nào!
+427|Chuyện đó...
+428|để kẻ thắng quyết định!
+429|Tên ngốc này tự đến chỗ ta để chịu chết.
+430|Phải không, Bellamy?
+431|Nhưng tôi không muốn làm chuyện thảm hại là quay lưng với người mình ngưỡng mộ...
+432|chỉ vì không nhận được câu trả lời mình muốn!
+433|Tôi biết mình là thằng ngốc...
+434|Nhưng thằng ngốc cũng có nguyên tắc phải giữ!
+435|Mũ Rơm, đây sẽ là trận chiến cuối cùng của tôi!
+436|Giờ đấu với tôi đi!

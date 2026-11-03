@@ -1,0 +1,382 @@
+1|Này, tiếng nổ với tiếng súng vừa rồi là gì vậy?!
+2|Traf bị sao rồi?!
+3|Nghe tôi nói không, Luffy?!
+4|Bên đó đang có chuyện gì vậy?!
+5|Xin lỗi vì đã gây náo loạn.
+6|Hải tặc kiêm Thất Vũ Hải, Trafalgar Law.
+7|Hắn chính là kẻ đứng sau tin ta thoái vị sáng nay.
+8|Hắn đã định ép ta rời ngai vàng.
+9|Đừng lo, ta vừa xử lý hắn xong rồi.
+10|Ra là chuyện như vậy.
+11|Suýt nữa thì Dressrosa bị hắn làm cho tan nát.
+12|May quá!
+13|Này, Mingo!
+14|Sao mày dám làm thế với Traf!
+15|Mũ Rơm, ngươi không có quyền lên án ta.
+16|Law vốn là thuộc hạ của ta.
+17|Ta sẽ là người dạy dỗ hắn.
+18|Kin, ông cõng Traf đi!
+19|Rõ!
+20|Phó Đô đốc-dono, Thợ Săn Hải Tặc đang tấn công. Có bắt hắn không ạ?
+21|Bắt.
+22|Khoan đã.
+23|Này, giải thích cho bọn tôi đi!
+24|Chuyện gì đang xảy ra vậy?!
+25|Law-dono đã bị Doflamingo bắn ngay trước mắt bọn ta.
+26|Nghe thấy chưa?
+27|Thợ Săn Hải Tặc và Hồ Hỏa Kin'emon...
+28|Lúc nãy ta thấy một đứa nhóc giống Momonosuke trên tàu.
+29|Đừng để hắn khích ông.
+30|Bọn ta sẽ không để hắn bắt Momo.
+31|Khỏi phải nói.
+32|Cậu ấy là...
+33|Xem ra... tại hạ không nói thì tốt hơn cho cả đôi bên.
+34|Zoro!
+35|Zoro-dono.
+36|Zoro bị sao rồi, Kin'emon?!
+37|Zoro-dono biến mất rồi.
+38|Kin'emon!
+39|Tới ngay đây!
+40|À phải, cái này làm bằng Hải Lâu Thạch.
+41|Kin'emon-san, ông có sao không?
+42|Ông chưa bị giết đấy chứ?!
+43|Đô đốc-dono!
+44|Một nhát chém bay.
+45|Gã này khá mạnh đấy.
+46|Ra lão mù mê cờ bạc là Đô đốc Hải Quân. Thú vị đấy.
+47|Đô đốc?!
+48|Cảm ơn các cậu chuyện lúc trước.
+49|Các cậu đã giúp tôi,
+50|vậy mà có vẻ tôi lại lấy oán báo ân.
+51|Nghề này hay mang nghiệp chướng lắm.
+52|Ôi chà, người đi cùng Doflamingo là...
+53|m... một Đô đốc Hải Quân!
+54|Có Đô đốc ở Dressrosa ngay lúc này sao?
+55|Có thể Doflamingo đã bắt tay với Hải Quân.
+56|Nếu vậy thì không biết ta sẽ phải đối đầu bao nhiêu kẻ thù.
+57|Law-dono! Law-dono!
+58|Sao cả hai lại bay được vậy?!
+59|Cậu còn sống không? Trả lời đi!
+60|Ta sẽ bàn tiếp ở cung điện, Fujitora.
+61|Nếu ngươi hợp tác, ta sẽ dâng đầu lũ nhãi đó cho ngươi.
+62|Tôi sẽ nghe ông nói, Thiên Dạ Xoa.
+63|Nhưng làm gì thì để tôi quyết sau.
+64|Bắt Roronoa Zoro!
+65|Xem ra chúng biết bọn ta là ai.
+66|Có vẻ là vậy.
+67|Giờ thì chạy đã!
+68|Traf!
+69|Kin'emon đây, Law-dono đã bị chúng bắt đi rồi!
+70|Này Luffy, mau tìm lối ra đi!
+71|Bọn tôi sẽ chạy vòng quanh đây chờ cậu!
+72|Được, tôi sẽ nhanh lên.
+73|Tôi vẫn cảm nhận được Traf. Cậu ấy còn sống.
+74|Là Brook với mọi người.
+75|Lại chuyện gì nữa đây?
+76|C-C-C-Cái này...
+77|Trên tàu Sunny có chuyện gì vậy?
+78|Chúng bám theo sau bọn mình!
+79|Chết tiệt, bị phát hiện rồi.
+80|Gay go rồi!
+81|Là tàu hải tặc...
+82|...của Big Mom!
+83|Tàu của một Tứ Hoàng làm gì ở đây chứ?!
+84|Mũi tàu đang hát à?
+85|Thật á?!
+86|Tàu của Big Mom?!
+87|Chết chắc rồi!
+88|Sao rồi, Big Mom có trên tàu đó không?
+89|Không biết, nhưng hai gã gặp ở đảo Người Cá đang ở trên đó.
+90|Mama, đã thấy Caesar rồi -gao!
+91|Đúng như ta nghĩ, hắn đi cùng bọn chúng -bon.
+92|Đánh chìm tàu rồi vớt Caesar lên thôi -soir.
+93|Big Mom?!
+94|Tôi đã bảo rồi mà.
+95|Tại cậu gây sự với bà ta đấy, Luffy!
+96|Có vẻ chúng nhắm vào Caesar.
+97|Mày đắt khách thật đấy, tên khoa học gia độc ác!
+98|Tàu đó cũng tới cứu mày à?!
+99|Cứu tôi với!
+100|Đừng để Big Mom bắt tôi!
+101|Tiền nghiên cứu của tôi...
+102|là lừa bà ta mà có đấy!
+103|Mày nói cái gì?
+104|À... t-thôi, khỏi nói chi tiết!
+105|Tóm lại nếu bị bắt, chúng sẽ biết tôi trộm tiền rồi giết tôi mất!
+106|Mạng mày thì tao cần gì quan tâm!
+107|Nhưng đằng nào tao cũng không để chúng bắt mày, nên im đi!
+108|Chúng sắp bắn bọn mình kìa!
+109|Chết tiệt, càng lúc càng xa Dressrosa. Xuất hiện đúng lúc tệ nhất!
+110|Cắt đuôi chúng được không?
+111|Cậu ổn chứ, Sanji?
+112|Đừng có dẫn một Tứ Hoàng tới đất nước này đấy.
+113|Cả nước sẽ hoảng loạn, kế hoạch của anh lính đổ bể hết.
+114|Mà sao Caesar lại ở trên tàu?
+115|Chắc đàm phán đổ vỡ rồi.
+116|Không thì sao Traf lại ra nông nỗi đó?
+117|Law bảo bọn tôi đưa Caesar tới đảo kế tiếp, nên hắn mới ở đây.
+118|Sanji-kun, tôi nghĩ ta không nên quay lại Dressrosa.
+119|Không phải vì tôi sợ đâu nhé.
+120|Nghe này, Luffy.
+121|Ta đang tranh với Doflamingo ba lá bài.
+122|Caesar, nhà máy SMILE, và không hiểu sao, cả Momonosuke.
+123|Ta vẫn chưa phá được nhà máy SMILE.
+124|Nhưng hai lá bài kia thì đang ở ngay đây.
+125|Traf chiến đấu để làm mồi nhử, kéo Doflamingo ra xa mấy lá bài này.
+126|Có khi cậu ta còn đang câu giờ để phá nhà máy nữa.
+127|Nếu ta tới đó và giao nộp những lá bài mà Traf liều mạng bảo vệ...
+128|thì mọi công sức của cậu ta sẽ đổ sông đổ biển.
+129|Cậu nói đúng.
+130|Được, bọn tôi nhất định sẽ cứu Traf về!
+131|Đảo kế tiếp tên gì nhỉ?
+132|Tên là Zou.
+133|Sanji.
+134|Nami.
+135|Chopper.
+136|Brook.
+137|Momo.
+138|Mọi người đi trước tới Zou đi.
+139|Nếu cậu đã nói vậy... Rõ, Thuyền trưởng!
+140|Nhưng cho tôi xin phép một chuyện.
+141|Xin phép?
+142|Cho tôi...
+143|tấn công tàu của Big Mom!
+144|Ừ, được.
+145|Đùa à.
+146|Đằng nào bọn mình cũng gây sự với bà ta rồi.
+147|Chuẩn luôn.
+148|Nguy hiểm quá!
+149|Xin đừng mà!
+150|Được, bọn tôi sẽ chờ mọi người ở Zou.
+151|Rõ.
+152|Cứ để vụ phá nhà máy cho bọn tôi!
+153|Mọi người cẩn thận nhé.
+154|Bọn tôi sẽ tới cung điện.
+155|Tôi sẽ đấm Doflamingo bay luôn!
+156|Rào chắn!
+157|Thế này là sao hả?!
+158|Bartolomeo?
+159|Chuyện này không liên quan đến mày!
+160|Đúng. Tao chỉ tự dưng thích dựng rào chắn thôi.
+161|Đây là chuyện của gia tộc! Tao giết luôn cả mày!
+162|Cứ thử đi. Không ai phá nổi rào chắn của tao đâu.
+163|Gì đấy? Tôi đang bận!
+164|Ta đây, Dellinger.
+165|Nghe nói ngươi vẫn chưa xử xong Bellamy.
+166|Chậm chạp quá.
+167|Im đi! Có kẻ chen vào.
+168|Thôi bỏ đi, chuyện đó tính sau.
+169|Doffy có lệnh mới cho ngươi.
+170|Đi giúp Lao G và mấy người kia bảo vệ Nhà Đồ Chơi. Ngay lập tức.
+171|Khoan đã, Diamante! Tôi xong ngay đây mà!
+172|Im lặng! Ngươi định cãi lệnh Doffy à?!
+173|"Lệnh mới"?
+174|Vậy là tao...
+175|thật sự đã...
+176|Đùa nhau à...
+177|Không thể nào!
+178|Tránh ra.
+179|Tao sẽ... đá cho Bellamy chết!
+180|Tránh ra mau!
+181|Không đời nào. Tao không gỡ rào chắn đâu.
+182|Tao nghe hết cuộc gọi vừa rồi.
+183|Nên biến đi!
+184|Thằng khốn rào chắn!
+185|Mày nhớ mặt tao đấy!
+186|Mày đừng hòng sống sót rời khỏi Dressrosa!
+187|Cút đi, thằng nhãi!
+188|Đúng là giọng Diamante, không sai được.
+189|Vậy lệnh đó là thật sao?
+190|Doflamingo thật sự...
+191|ra lệnh giết tao?
+192|Vậy nếu thắng giải này, tôi sẽ thành chỉ huy trong gia tộc ạ?
+193|Đương nhiên.
+194|Cố lên.
+195|Ta kỳ vọng nhiều ở ngươi đấy.
+196|Tao đưa mày tới phòng y tế.
+197|Tao không cần mày giúp!
+198|Tao mất mục tiêu sống rồi.
+199|Mà sao mày lại giúp tao?
+200|Trong trận hỗn chiến lúc nãy...
+201|tao đã định giết hết bọn mày đấy!
+202|Bọn mình đã đấu chung một võ đài!
+203|Hả?
+204|Hai thằng đàn ông đã từng đấu với nhau trên chiến trường,
+205|thì là chiến hữu rồi!
+206|Tao không bao giờ bỏ rơi chiến hữu, dù hắn có tệ cỡ nào!
+207|Dressrosa "Đồi Hoa"
+208|Tình hình là như tôi đã giải thích.
+209|Dưới lòng đất - Căn cứ của Quân Cách Mạng Riku
+210|Kế hoạch phơi bày những bi kịch
+211|bị chôn vùi trong bóng tối của chúng ta,
+212|tôi đã đặt cho nó cái tên như sau.
+213|Chiến dịch SOP Dressrosa.
+214|SOP? Nghĩa là gì?
+215|Đất nước này có một thế giới ngầm khổng lồ.
+216|Trong đó có cảng giao dịch để làm ăn bí mật,
+217|và cả nhà máy bí ẩn kia.
+218|Những người bạn Tontatta của chúng tôi
+219|Nhà máy & cảng giao dịch
+220|và tất cả những người bị biến thành đồ chơi
+221|đang bị bắt làm việc ở đó.
+222|Ra vậy! Thế SOP nghĩa là gì?
+223|Chúng ta sẽ đột nhập qua đường hầm đã mất cả năm qua để đào,
+224|Lén đột nhập qua đường hầm
+225|và giải cứu tất cả mọi người ở đó!
+226|Rồi phá hủy cơ sở, hạ gia tộc Doflamingo, và đưa vua Riku trở lại ngai vàng!
+227|Đó là mục tiêu của kế hoạch.
+228|Nói cứ như dễ lắm ấy.
+229|Đương nhiên, kế hoạch này cực kỳ lý tưởng.
+230|Không ai biết vài phút nữa Dressrosa sẽ ra sao.
+231|Trước hết, có một nhiệm vụ chúng ta bắt buộc phải làm.
+232|Thuộc hạ của Doflamingo, kẻ đã biến chúng tôi thành đồ chơi...
+233|Phải làm kẻ dùng Trái Hobby Hobby đó bất tỉnh!
+234|Trái Hobby Hobby?
+235|Các cậu nghĩ khi đó sẽ thế nào?
+236|Lời nguyền sẽ bị phá giải à?
+237|Đúng vậy! Tất cả đồ chơi ở Dressrosa...
+238|sẽ trở lại thành người cùng một lúc!
+239|Đồng thời, mọi người sẽ lấy lại những ký ức đã mất.
+240|Chuyện sau đó thì không đoán được.
+241|Bao nhiêu người sẽ chiến đấu cùng ta, dân chúng sẽ nghĩ gì, họ sẽ làm gì.
+242|Doflamingo sẽ ra nước cờ nào.
+243|Hải Quân sẽ ra nước cờ nào.
+244|Điều duy nhất có thể chắc chắn,
+245|là cả nước sẽ rơi vào hỗn loạn.
+246|Vậy kẻ dùng Trái Hobby Hobby đó ở đâu?
+247|Mà hắn mạnh lắm đúng không?
+248|Theo đội trinh sát Tontatta,
+249|ả hiện đang ở cảng giao dịch.
+250|Ả là chỉ huy đặc biệt của quân Trébol thuộc gia tộc Donquixote.
+251|Sugar!
+252|Một cô bé có thể biến bất cứ ai mình chạm vào thành đồ chơi.
+253|Trông ả như trẻ con, vì ai ăn trái này đều ngừng già đi.
+254|Ả được xem là một trong những thuộc hạ quý giá nhất của Doflamingo,
+255|nên một trong các cán bộ cấp cao là Trébol luôn canh gác ả.
+256|Vậy chỉ cần làm ả bất tỉnh là đồ chơi sẽ trở lại bình thường?
+257|Chính xác!
+258|Ta sẽ dọa Sugar sợ chết khiếp cho ả ngất xỉu.
+259|Đó chính là...
+260|Sugar
+261|Sugar Oversurprise (Sugar Kinh Hãi)
+262|Chiến dịch Sugar Oversurprise Panic (Dọa Sugar Hoảng Loạn)!
+263|Tôi ghép chữ cái đầu của mỗi từ thành cái tên SOP.
+264|Tên chiến dịch hay quá!
+265|Nếu kẻ địch chỉ là một cô bé thì cứ để tôi lo!
+266|Được, tôi máu lên rồi đây!
+267|Tiệm tóc Franky!
+268|Tóc Chiến Đấu!
+269|Fraland!
+270|Usoland!
+271|Các ngài thật đáng tin cậy!
+272|Đúng vậy! Đã có bọn ta đây!
+273|Trận này không đời nào thua được!
+274|Dẫn bọn ta tới đường hầm đi, mấy nhóc!
+275|Usolanders!
+276|Trong lúc đó, Luffy đang tìm lối ra khỏi Đấu trường Corrida.
+277|Hả?
+278|Chẳng thấy lối ra nào cả.
+279|Mình đang ở đâu thế này?
+280|Một ngày nào đó, tao sẽ làm việc dưới trướng Luffy-senpai.
+281|Đó là ước mơ của tao.
+282|Ít ra cũng đóng cửa lại chứ!
+283|Nhà vệ sinh à?
+284|Ồ, cậu là gã đầu mào gà!
+285|Gặp cậu mừng quá!
+286|L-L-Luffy-senpai!
+287|Không được!
+288|Bình tĩnh lại, Bartolomeo!
+289|Mày định bỏ lỡ cơ hội nói chuyện với Vua Hải Tặc thật à?
+290|Ồ, Bellamy.
+291|Chết tiệt! Anh ấy tỏa sáng quá, mình không dám nhìn thẳng!
+292|Luffy-senpai!
+293|Anh gặp được Zoro-senpai chưa ạ?
+294|Ừ, nói chuyện rồi. Cảm ơn nhé!
+295|Ôi, có gì đâu ạ!
+296|Tự dưng tôi có việc phải làm, nên phải đi...
+297|mà lại không tìm được lối ra.
+298|Đấu trường này không có lối ra đâu.
+299|Hả?
+300|Tôi tưởng tượng...
+301|hay vết thương của cậu nặng thêm rồi?
+302|Một khi đấu sĩ đã vào đấu trường thì không bao giờ ra được.
+303|Tìm lối ra chỉ phí thời gian thôi.
+304|Hả? Thế là sao?
+305|Thật á?
+306|Thật sự không có à?!
+307|Cậu là thuộc hạ của Doflamingo mà đúng không?
+308|Thế thì chắc phải biết gì đó chứ!
+309|Thuộc hạ á? Đến cái đó tôi còn không làm nổi!
+310|Làm ơn đi! Bạn tôi đang gặp nguy!
+311|Tôi đi đây.
+312|Nếu đi theo tôi, có khi cậu cũng ra được... Có khi thôi.
+313|Được, cảm ơn nhé!
+314|Cậu sẽ dẫn tôi ra à?
+315|Tôi chỉ nói, đi theo tôi thì biết đâu cậu tình cờ ra được.
+316|Cậu muốn tôi phản bội ông chủ à?
+317|Tôi...
+318|không thể phản bội Doflamingo!
+319|Tôi kính trọng ông ấy quá nhiều.
+320|Này, chẳng phải hắn vừa mới...
+321|Im đi!
+322|Tôi có nguyên tắc của riêng mình.
+323|Hiểu rồi. Vậy tôi lẽo đẽo theo sau cậu.
+324|Nhưng mà, Luffy-senpai...
+325|Còn Trái Lửa thì sao?
+326|Có người tôi thật sự không muốn để có nó, nhưng hết cách rồi.
+327|Mạng của bạn bè quan trọng hơn.
+328|Đừng lo, cứ để tôi!
+329|Đó là di vật của Ace-sama. Tôi vốn định trao nó cho anh mà, Luffy-senpai!
+330|Hả? Cậu cho tôi á?
+331|Đương nhiên! Nếu có ai xứng đáng có nó thì chỉ có anh thôi!
+332|Giọng địa phương của cậu càng lúc càng nặng đấy.
+333|Tui nhứt định lấy Trái Lửa về cho anh!
+334|Anh cứ dề lo chuyện anh cần làm đi!
+335|Đang nói với ai vậy hả?
+336|Được, thế thì giúp tôi nhiều lắm.
+337|Anh sẽ không để em lấy Trái Lửa đâu...
+338|Luffy Mũ Rơm.
+339|Mày là ai?
+340|Sao mày dám nói chuyện tỉnh bơ với Luffy-senpai như thế?
+341|Anh ấy là em trai của hải tặc huyền thoại Hỏa Quyền Ace-sama,
+342|và là Vua Hải Tặc tương lai đấy, đồ ngu!
+343|Tôi biết điều đó từ lâu rồi.
+344|Giờ mới là trận đấu thật đây!
+345|Anh nhớ vào được trận chung kết đấy nhé!
+346|Ừ!
+347|Hắn làm gì vậy? Sao dám thân mật với Luffy-senpai thế hả?!
+348|Thấy chưa? Làm hắn nổi điên rồi kìa!
+349|Quảng trường bên ngoài Đấu trường Corrida
+350|Sao lại khóc lóc chạy ra đây hả?!
+351|Không tìm được Thợ Săn Hải Tặc à?!
+352|Ta đã bảo phải cảnh giác cơ mà?!
+353|Gọi Phó Đô đốc!
+354|Rõ, thưa ngài!
+355|Hải Quân hoàn toàn mắc lừa cách cải trang của chúng ta. Họ tin chúng ta là đồ chơi.
+356|Thế này vẫn sát nút quá!
+357|Mà sao ông lại chọn mấy con vật này?
+358|Tại hạ thấy mấy con này ngầu ghê! Nhất là cá chép?
+359|Im đi! Có muốn cứu Traf hay không hả?!
+360|Bọn mình sẽ cứu Traf! Tôi sẽ đấm Mingo bay luôn!
+361|Mà chuyện Trái Lửa cũng không cần lo nữa.
+362|Nhưng cậu ổn chứ?
+363|Hình như Robin-san cũng đang ở đâu đó trong nước này.
+364|Quân Cách Mạng - Trợ giảng Karate Người Cá Koala
+365|Tôi thật sự muốn gặp lại chị ấy.
+366|Mừng là cậu gặp lại được người ấy.
+367|Ừ... Tôi cứ tưởng nó sẽ đấm tôi chứ.
+368|Cậu khóc đấy à?
+369|Làm gì có!
+370|Nếu hồi đó cậu có mặt, liệu có thay đổi được gì không?
+371|Không ai nói chắc được.
+372|Cậu nói đúng.
+373|Khi nào nắm được tình hình dưới lòng đất thì báo tôi.
+374|Đương nhiên.
+375|Dù thế nào, tôi cũng sẽ lấy Trái Lửa của Ace.
+376|Chúng ta sẽ tiếp nối ý chí của cậu ấy!
+377|Tui hổng nghỉ ảnh còn sống...
+378|Mày đang nói ai vậy hả?!
+379|Tao tưởng...
+380|a-a-anh ấy...
+381|Băng Mũ Rơm đã trở lại
+382|đã chết hồi đó rồi chứ!

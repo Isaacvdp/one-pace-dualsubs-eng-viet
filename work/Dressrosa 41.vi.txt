@@ -1,0 +1,303 @@
+1|Sao ngươi lại cản ta?
+2|Ta chỉ định đập nát đầu Law thôi mà!
+3|Haki Bá Vương va chạm nhau!
+4|Hắn cũng dùng được sao?!
+5|Mũ Rơm-ya...
+6|Biết ngay là cậu ta có mà!
+7|C-Cái...
+8|Cái gì?!
+9|Tất cả đều ngất xỉu hết rồi?!
+10|Chắc chắn đó là Haki!
+11|"Haki"?
+12|Hơn nữa, đó là Haki Bá Vương!
+13|Đó là bằng chứng cậu có tố chất của một vị vua.
+14|Doflamingo!
+15|Cậu là người được trời cao lựa chọn!
+16|Giờ thì...
+17|Nếu thật sự là đàn ông, hãy tự thử thách bản thân đi.
+18|Có ai ngoài kia mà cậu muốn giết không?
+19|Cậu có muốn bọn ta cho cậu... sức mạnh để báo thù không?
+20|Những kẻ ta muốn giết à...
+21|Nhiều lắm!
+22|Doffy khác hẳn! Tầm cỡ hoàn toàn khác!
+23|Xuất thân nuôi dưỡng sự điên loạn trong cậu ấy! Số phận nuôi lớn cơn giận!
+24|Những thứ đó đã biến người này thành một ác quỷ hoàn hảo!
+25|Cậu ấy chính là cái ác tối thượng!
+26|Tao cóc quan tâm!
+27|Mingo!
+28|Ăn này!
+29|Mingo!
+30|Cao su...
+31|Sự điên loạn của Doffy sẽ...
+32|hủy diệt tất cả!
+33|Eagle...
+34|Bazooka!
+35|Athlete String!
+36|Sticky Stick!
+37|Cái quái gì đây?!
+38|Đồ ngốc! Đừng tưởng thứ yếu ớt như mày đánh được Doffy!
+39|Chết tiệt, buông tao ra!
+40|Nào, Doffy, ta sẽ cầm chân Mũ Rơm.
+41|Cậu cứ nhân cơ hội giẫm nát đầu Law đi.
+42|Này! Đừng làm thế, Mingo!
+43|Đánh với tao đây! Traf còn không nhúc nhích nổi!
+44|Ta đã bảo "chờ đến lượt"-
+45|Im đi! Thằng này nhớp nháp ghê quá!
+46|Là dính dính, không phải nhớp nháp!
+47|Vô ích thôi!
+48|Hả?! Chuyện gì vậy?!
+49|Nếu hắn là người dùng Logia thì Haki Vũ Trang phải có tác dụng chứ!
+50|Vậy thì, năng lực của ta có thật là hệ Logia không?
+51|Dù sao thì mấy trò đó cũng vô dụng với ta!
+52|Đồ ngốc cao su!
+53|Mũ Rơm-ya!
+54|Hắn nói đúng, chiêu đó không có tác dụng với thằng bù nhìn giấy như hắn đâu.
+55|B-B-Bù nhìn giấy?!
+56|Lý do chính khiến tao không muốn ngồi ghế Heart...
+57|là vì tao không muốn bị xếp chung với lũ ngu như bọn mày!
+58|Vậy là cái miệng của ngươi vẫn còn cử động được.
+59|Mày nói cái gì hả, cái xác biết nói kia?!
+60|Bọn ta, các cán bộ cấp cao, là nền móng của gia tộc!
+61|Ta sẽ không bao giờ tha cho kẻ nào chế giễu bọn ta!
+62|Sticky-Stick...
+63|Launcher!
+64|Dừng lại! Traf còn không cử động được!
+65|Law, thằng khốn!
+66|Ta phải dạy cho thằng nhãi này một bài học!
+67|Tránh ra, Doffy!
+68|Nghe cho kỹ đây, Law!
+69|Doffy mãi mãi là vị vua chân chính duy nhất.
+70|Tuy nhiên...
+71|Bọn ta, các cán bộ cấp cao hiện tại, hoàn toàn ngang hàng với cậu ấy!
+72|Bởi vì...
+73|vào một ngày, khoảng ba mươi năm trước,
+74|bốn người bọn ta đã có được món quà vĩ đại từ trên trời rơi xuống!
+75|Bọn ta trao cho cậu ấy sức mạnh, nuôi dạy cậu ấy thành biểu tượng tà ác đầy sức hút!
+76|Cậu suýt bị giết ở Thánh địa Mariejoa sao?
+77|Dù đã mang đầu cha mình đến cho chúng?
+78|Dù vậy, ta mừng vì cậu sống sót trở về! Đúng là kỳ tích!
+79|Doffy, cậu có tố chất của một vị vua.
+80|Doffy. Bọn ta thề sẽ ủng hộ cậu trong mọi chuyện.
+81|Doffy, đổi lại, hãy cho bọn ta thấy giấc mơ của cậu.
+82|Sao vậy, Doffy?
+83|Vết thương đó ở đâu ra?
+84|Một tên côn đồ làm đấy. Hắn chết đi là vừa.
+85|Được. Ta hiểu rồi.
+86|Mày muốn cái quái gì?
+87|Này, này, là mày làm Doffy bị thương à?
+88|À, thằng nhãi đó. Tao chỉ trêu nó chút thôi!
+89|Sao vậy? Lại có ai làm cậu bị thương à?
+90|Không, ta chỉ ngã vì đường gồ ghề thôi.
+91|Con đường à? Ở thị trấn nào?
+92|À, ra vậy. Chỗ này cần phải sửa lại.
+93|Hiểu chưa, Doffy?
+94|Cậu là vua.
+95|Không ai được phép chống lại cậu.
+96|Cậu là người mà một ngày nào đó...
+97|sẽ trị vì làm vua của biển cả!
+98|Bọn ta tôn Doffy lên làm vua, và chứng minh giá trị của cậu ấy với mọi thuộc hạ!
+99|Nhưng năm người bọn ta, Doffy và các cán bộ cấp cao,
+100|đều trân trọng gia tộc như nhau,
+101|và đã đưa nó lên vị thế như ngày nay!
+102|Như một gia đình thực thụ!
+103|Hiểu chưa, Law?
+104|Ngươi còn nhớ nước nhầy của ta dễ cháy chứ?
+105|Ta có thể khóa cái miệng phiền phức của ngươi ngay lập-
+106|"Gia đình" à?
+107|Chỉ có bọn mày nghĩ thế thôi, Trébol.
+108|Hắn cóc quan tâm gì đến bọn mày đâu.
+109|M-Mày nói cái gì?!
+110|Thảm hại thật.
+111|Mày làm như mình là tham mưu trưởng của hắn, nhưng với tao, mày chỉ là tên hề ngu ngốc của Doflamingo!
+112|H-H-Hề ngu ngốc?!
+113|Không thể tha thứ!
+114|Này, đừng mắc bẫy, Trébol!
+115|Room!
+116|Ngươi đang ở trong Room của nó đấy!
+117|Thằng nhãi này vốn đã thoi thóp... mà ta còn dùng nước nhầy trói chặt nó lại!
+118|Trong tình cảnh này thì nó làm được gì chứ?
+119|Nào, há miệng ra!
+120|Dừng lại!
+121|Thằng nhãi láo xược!
+122|Ta sẽ tống cái này vào họng mà xiên chết ngươi!
+123|Dừng lại!
+124|Tao cũng là thuyền trưởng đấy!
+125|Nếu để cả mày lẫn Doflamingo cho Mũ Rơm-ya lo hết,
+126|thì tao còn mặt mũi nào nữa!
+127|Mày còn chẳng cử động được! Làm được gì chứ?
+128|Đồ sâu bọ chết tiệt!
+129|Chết đi!
+130|Tact!
+131|Mày định-
+132|Cánh tay của nó?!
+133|Sterben!
+134|Lưỡi dao Tử thần
+135|Cánh đồng hoa tầng 4
+136|Có chuyện gì vậy, Leo?
+137|Nhà máy SMILE
+138|Sao thế các cậu? Tự dưng ai cũng quay về phía thị trấn vậy.
+139|T-Tôi không biết tại sao, nhưng...
+140|tôi thấy như vừa trút được gánh nặng trong lòng...
+141|Này! Không có thời gian cho mấy chuyện đó đâu!
+142|Phá xong nhà máy rồi!
+143|Phải tránh xa cái Lồng Chim đang co lại thôi!
+144|Cung điện Hoàng gia
+145|Cái gì thế kia?!
+146|Một lão già gầy nhom chui ra từ đống nhớt nhầy đó!
+147|Thảo nào cú đấm của tôi cứ xuyên qua người lão!
+148|Đáng nguyền rủa, Law...
+149|Thằng ngu chết tiệt!
+150|Law...
+151|Mày cũng chết đi!
+152|Ôi chết! Lão định đốt bọn mình!
+153|Tao sẽ kéo mày chết chung!
+154|Cung điện Hoàng gia bốc cháy rồi!
+155|Luffy! Doflamingo đang...
+156|Luffyland!
+157|Anh ấy có ổn không? Chúng ta phải hỗ trợ anh ấy mới được!
+158|Đừng làm vậy. Nói thật, có khi lại thành vướng chân cậu ấy.
+159|Nhìn kìa! Ngay cả Trafalgar Law, Thất Vũ Hải giống như Doflamingo,
+160|cũng bị thương nặng!
+161|Lawland!
+162|Luffy!
+163|Luffy! Đưa Traf-kun sang đây!
+164|Robin! Cảm ơn nhé!
+165|Lo cho cậu ấy nhé! Traf đã dồn Mingo vào đường cùng rồi!
+166|Không thể nào... cánh tay cậu ấy!
+167|Cien Fleur: Spider Net!
+168|Trăm Hoa: Lưới Nhện
+169|Tay của Lawland...
+170|Kinh khủng quá... Traf-kun, cố lên!
+171|Nico Robin!
+172|Đừng làm chuyện thừa thãi!
+173|Nó vẫn còn thở.
+174|Ta vẫn chưa tha cho nó đâu.
+175|Doflamingo!
+176|Thằng khốn đó vẫn nhắm vào Traf!
+177|Ta sẽ kết liễu ngươi!
+178|Cao su...
+179|Bullet String!
+180|...Hawk Whip!
+181|Chết tiệt!
+182|Robiland!
+183|Traf! Robin!
+184|Precious Metal Axe!
+185|Cabbage-kun!
+186|Xin lỗi. Ta vừa mới tỉnh dậy.
+187|Ngươi vẫn chưa giải quyết xong sao, Mũ Rơm?!
+188|Cabbage!
+189|Đưa mọi người rời khỏi cao nguyên này đi!
+190|Đừng có vô lý!
+191|Doflamingo đang đứng ngay trước mặt ta!
+192|Ít nhất cũng để ta đánh một đòn!
+193|Tôi giao mọi người cho cậu đấy!
+194|G-Giao cho ta?
+195|Tin tưởng...
+196|Tôn trọng...
+197|Nổi tiếng!
+198|Giờ Mũ Rơm là fan của ta rồi.
+199|Fan đã nhờ vả ta...
+200|thì ta không thể từ chối!
+201|Bartolomeo chắc đang ở tầng dưới.
+202|Dùng năng lực của hắn để xuống khỏi đây thôi!
+203|Leo, cậu chữa cho cậu ấy được không?
+204|Vết cắt nham nhở quá.
+205|Nếu tôi khâu lại được...
+206|Nếu cậu làm được vậy,
+207|tôi có thể chữa cho anh ấy bằng Bình Tưới của tôi.
+208|Dù sao thì cứ làm như Lucy nói, xuống dưới thôi.
+209|Này, Bartolomeo!
+210|Dùng kết giới làm cầu thang đi!
+211|Zoro-senpai!
+212|Muôn năm!
+213|Mày có nghe không đấy, thằng khốn?!
+214|Đủ rồi đấy,
+215|Mũ Rơm.
+216|Law đang đau đớn vì không chết được.
+217|Tốt hơn là giải thoát cho nó.
+218|Muốn thế thì đánh bại tao trước đã!
+219|Trông ngươi cũng kiệt sức lắm rồi.
+220|Mày cũng vậy thôi!
+221|Ăn ngần ấy đòn của Traf, không đời nào mày không trầy xước gì!
+222|Bazooka!
+223|Ngươi nhanh thật đấy, nhưng...
+224|đòn của ngươi chẳng có chút sức nặng nào.
+225|Overheat!
+226|Gợi lại kỷ niệm ghê!
+227|Crocodile bị đánh bại?
+228|Bởi một thuyền trưởng của Tổng bộ Hải Quân?
+229|Bọn dối trá. Chắc chắn có uẩn khúc.
+230|Thấy chưa? Chắc chắn là nó.
+231|Tiền truy nã của nó tăng vọt.
+232|Điều tra băng này đi. Ta chưa nghe tên bao giờ.
+233|Monkey... "D."?
+234|Rồi cả Chiến tranh Thượng đỉnh, nơi ngươi từ trên trời rơi xuống!
+235|Không ngờ ngươi sống sót và đi được đến tận đây!
+236|Khoan đã!
+237|Ngươi tỉnh rồi à, Trafalgar!
+238|Để tôi... lại đây!
+239|Cậu nói gì vậy?!
+240|Suốt mười ba năm qua...
+241|tôi sống chỉ để giết Doflamingo.
+242|Tôi đã làm... mọi thứ có thể.
+243|Phần còn lại tôi phải giao cho Mũ Rơm-ya.
+244|Nếu cậu ta thắng,
+245|tôi muốn tận mắt chứng kiến, ngay tại đây!
+246|Nếu cậu ta thua, tôi phải ở đây
+247|để chết cùng cậu ta!
+248|Chính tôi...
+249|đã kéo cậu ta vào trận chiến này.
+250|Tôi muốn thấy nó đến cùng, ngay tại đây. Cứ bỏ tôi lại!
+251|Trafalgar...
+252|Traf-kun...
+253|Thuyền trưởng trong liên minh phải ngang hàng nhau.
+254|Luffy ở đây là do cậu ta tự nguyện.
+255|Không có ý chí thì cậu ta đã chẳng chiến đấu.
+256|Để tôi ở lại đây...
+257|Tôi xin các người!
+258|Xem ra không thể thuyết phục ngươi được rồi nhỉ?
+259|Nico Robin, ngươi đi trước đi.
+260|Cabbage-kun!
+261|Ta không chấp nhận kẻ muốn chết.
+262|Ta cũng sẽ ở lại đây.
+263|Ngươi đành chịu thôi.
+264|Nếu ngươi có chết,
+265|thì cũng phải chết sau ta.
+266|Robin-senpai!
+267|Robin-san!
+268|Bartolomeo làm cầu thang cho chúng ta rồi!
+269|Đi đi.
+270|Này, cầm lấy.
+271|Gear Third!
+272|Cao su...
+273|Grizzly Magnum!
+274|Sơ hở rồi!
+275|Không muốn phí công đòn tấn công của Law à?
+276|Ngươi sẽ mất bao lâu...
+277|để hạ được ta?
+278|Ngươi biết không, giới hạn một tiếng đó...
+279|là thời gian còn lại cho đến khi Lồng Chim co lại hoàn toàn.
+280|Chắc chắn có những người què chân.
+281|Rồi còn người già nằm liệt giường và trẻ còn đang bú mẹ.
+282|Ai sẽ là nạn nhân đầu tiên đây?
+283|Sau 30 phút, thương vong sẽ bắt đầu xuất hiện.
+284|Sau 40 phút, ta sẽ bắt đầu nghe thấy tiếng thét của chúng từ đây.
+285|Và sau 50 phút,
+286|cả đất nước sẽ nhuộm đỏ, như cà chua bị giẫm nát.
+287|Sau một tiếng, sẽ chẳng còn nghe thấy một giọng nói nào nữa.
+288|Ta biết chuyện của Dressrosa chẳng liên quan gì đến ngươi. Nhưng...
+289|Những kẻ bỏ mạng hôm nay sẽ oán hận tất cả bọn ngươi.
+290|Giá mà bọn ngươi không đến đây, Dressrosa đã có thể yên bình!
+291|Dối trá! Chỉ là trông có vẻ thế thôi!
+292|Đi đâu trên thế giới này cũng có những kẻ bất hạnh.
+293|Muốn cứu hết bọn chúng thì chẳng bao giờ hết.
+294|Ngươi chỉ là tên hải tặc đi ngang qua, mà định đóng vai anh hùng sao?
+295|Ngươi dám cản đường ta!
+296|Sai rồi! Mày mới là kẻ cản đường tao!
+297|Mày làm bạn bè tao khóc, làm đồng đội tao nổi giận!
+298|Mà mày vẫn chưa gục,
+299|nên tao sẽ gánh hết mọi thứ!
+300|Tao sẽ không để ai phải chết hết!
+301|Mày và cái Lồng Chim của mày đang cản đường tao!
+302|Gear...
+303|Fourth!

@@ -1,0 +1,402 @@
+1|Không ai đến cứu các ngươi đâu.
+2|Không ai thoát được khỏi Lồng Chim này.
+3|A lô? A lô?
+4|Cũng không thể liên lạc với bên ngoài hòn đảo.
+5|Các ngươi sẽ chết hết mà người bên ngoài chẳng hề hay biết.
+6|Những người hàng xóm phát điên sẽ tiếp tục...
+7|tấn công mọi người không chút thương tiếc.
+8|Ai đó ngăn tôi lại!
+9|Xin đừng làm hại bọn trẻ!
+10|Dù đó là gia đình, bạn bè, hay cả những người dân các ngươi ra sức bảo vệ.
+11|Dừng lại!
+12|Cơ thể tôi tự cử động.
+13|Ai đó ngăn tôi lại!
+14|Mọi người, tránh xa tôi ra!
+15|Isshou-san...
+16|Các ngươi có thể chạy, có thể trốn,
+17|nhưng trong lồng này chẳng có nơi nào an toàn.
+18|Nỗi kinh hoàng của Lồng Chim sẽ kéo dài nhiều ngày liền.
+19|Tất cả sẽ chết trước? Hay các ngươi sẽ kết thúc trò chơi trước?
+20|Thằng khốn Doflamingo, hắn định giở trò gì vậy?!
+21|Chuyện gì thế?!
+22|Nhà máy trồi lên rồi biến đi đâu mất!
+23|Nhưng đây là cơ hội của chúng ta!
+24|Ta có thể ra ngoài rồi!
+25|Ngày ta thoát khỏi địa ngục dưới lòng đất này đã đến!
+26|Cảm ơn ngài, Thần Usopp!
+27|Đi thôi!
+28|Robin-dono!
+29|Kin'emon!
+30|B-Băng ngực bằng thép.
+31|Chắc là phong tục ngoại quốc.
+32|Thích thật.
+33|R-Robin-senpai, xin nhận tôi làm người hầu...
+34|Không, tôi lỡ lời.
+35|Tôi có chuyện muốn hỏi senpai.
+36|C-Cái mũi của người đó...
+37|Y hệt mũi của người đã bắn lá cờ trên Tháp Tư Pháp, Sogeking-senpai.
+38|Chính là cậu ấy. Tên cậu ấy là Usopp.
+39|Đúng là anh ấy!
+40|Robin-senpai đã cảm động trước hành động của băng này,
+41|những người dám đối đầu cả thế giới vì một người đồng đội.
+42|Hai người họ là bộ đôi ngôi sao của Enies Lobby!
+43|Phải, phải, phải!
+44|Mày phấn khích cái gì vậy, đồ điên? Im đi!
+45|Một kẻ như thế mà bẻ gãy tay mình...
+46|Tại hạ giao họ lại cho các vị.
+47|Tuy nhỏ bé nhưng họ là những chiến binh vĩ đại.
+48|Cảm ơn ngài, ngài Búi Tóc-land.
+49|Họ nằm bất tỉnh ở hành lang hoàng cung.
+50|Họ đã liều mạng vì đội trưởng.
+51|Kabu-san, Rampo, các cậu làm tốt lắm.
+52|Ai đó ngăn tôi lại! Cơ thể tôi không nghe lời!
+53|Giống hệt đêm đó mười năm trước.
+54|Cuối cùng tôi đã hiểu.
+55|Vua Riku và quân đội hoàng gia đã bị...
+56|Doflamingo điều khiển!
+57|Gào thét, căm hận, đau khổ đi.
+58|Các ngươi đều là nạn nhân vô tội.
+59|Cứu với...
+60|Dừng lại đi, Doflamingo!
+61|Hãy suy nghĩ đi.
+62|Các ngươi sẽ đến giết ta?
+63|Hay sát cánh cùng ta trừng phạt mười hai kẻ ngu ngốc dám chống lại ta?
+64|Nếu chọn sai, trò chơi sẽ không kết thúc.
+65|Mỗi ngôi sao là 100 triệu.
+66|100 triệu Beri?!
+67|Chúng là những tội đồ của Dressrosa!
+68|Đấu sĩ tù nhân Đấu trường Corrida (cháu gái vua Riku) Rebecca
+69|Hải tặc băng Mũ Rơm "Đứa con của Quỷ" Nico Robin
+70|Samurai đất nước Wano "Kin'emon Lửa Cáo"
+71|Cựu công chúa Dressrosa Viola
+72|Hải tặc băng Mũ Rơm "Cyborg Franky"
+73|Hải tặc băng Mũ Rơm "Thợ Săn Hải Tặc Zoro"
+74|Cựu chỉ huy quân đội Dressrosa Kyros
+75|Tham mưu trưởng Quân Cách Mạng Sabo
+76|Cựu vua Dressrosa Riku Dold Đệ Tam
+77|Thuyền trưởng băng hải tặc Mũ Rơm "Luffy Mũ Rơm"
+78|Thuyền trưởng băng hải tặc Heart, Thất Vũ Hải (tạm thời) "Bác sĩ Tử thần" Trafalgar Law
+79|C-Chỉ huy Kyros!
+80|Tôi quên mất ông ấy.
+81|Đấu sĩ bất bại.
+82|Còn có cả hải tặc nữa.
+83|Băng hải tặc Mũ Rơm.
+84|Cán bộ Violet của gia tộc... là công chúa Viola sao?!
+85|Còn những kẻ cầm đầu mỗi tổ chức...
+86|đều là ba sao!
+87|300 triệu!
+88|Law và Mũ Rơm.
+89|Chính là liên minh vừa làm chấn động thế giới.
+90|V-Vua Riku?
+91|Vua Riku, ngài còn sống!
+92|Có cả một tay cộm cán của Quân Cách Mạng nữa!
+93|Là tham mưu trưởng đấy.
+94|Tin tức lan nhanh thật.
+95|Cả tôi nữa á?!
+96|M-May mà hắn không phát hiện ra mình.
+97|Ngoài ra, còn có kẻ đã chọc giận ta nhất hôm nay.
+98|Chính hắn đã đẩy các ngươi vào trò chơi tàn khốc này.
+99|Kẻ nào giết được hắn...
+100|sẽ nhận 500 triệu!
+101|Hải tặc băng Mũ Rơm "Thần" Usopp
+102|500 triệu!
+103|Đủ cho ta sống sung sướng cả đời!
+104|N...
+105|T-Tệ rồi, ngài Usoland...
+106|Năm sao!
+107|Ở đó còn vài tên một sao và một tên ba sao nữa.
+108|Sabo-kun, chúng ta làm gì đây?
+109|Chúng ta thoát lên mặt đất.
+110|Mọi người, nhanh lên!
+111|Thần Usopp! Xin lỗi, nhưng làm ơn chết đi!
+112|Năm sao là 500 triệu!
+113|M-Mới nãy bọn họ còn tôn thờ mình mà!
+114|Chết tiệt, chạy thôi.
+115|Rõ.
+116|Có một tên ở đằng kia.
+117|Là tên samurai một sao.
+118|Một trăm triệu Beri!
+119|Phiền phức thật.
+120|T-Theo lời người lùn, đây là bãi phế liệu.
+121|Kanjuro, các hạ thật sự ở dưới này sao?
+122|100 triệu là của tao!
+123|Mặc kệ!
+124|Hắn rơi rồi!
+125|Tên samurai rơi xuống hố rồi!
+126|Không có thời gian do dự đâu.
+127|Thời gian đang trôi, người ta đang chết, thị trấn đang cháy.
+128|Chúng ta nên làm gì?
+129|Chúng ta chỉ vừa mới biết Vua Riku vô tội...
+130|Nếu tất cả cùng xông lên, có lẽ sẽ giết được Doflamingo.
+131|Nhưng hắn đâu có một mình.
+132|Muốn hạ Doflamingo, phải vượt qua hai nghìn thành viên gia tộc Donquixote.
+133|Vậy chúng ta phải làm sao?
+134|Vua Riku nằm trong số mười hai người đó.
+135|Ta không cần phải giết họ.
+136|Chỉ cần khống chế là được. Họ chỉ có mười hai người.
+137|Không còn cách nào khác.
+138|Ta phải chiến đấu.
+139|Cyborg Franky biến đi đâu rồi?
+140|Barrier!
+141|Đừng hòng đuổi theo.
+142|Cứ đi lên mặt đất!
+143|Zoro?
+144|Ừ.
+145|Cậu đang ở đâu?
+146|Robin à?
+147|Tôi đang ở cùng Luffy và mọi người.
+148|Chỗ này gọi là "Vùng đất Hoàng gia".
+149|Bọn tôi bị đẩy vào tình thế bực mình lắm.
+150|Robin? Cậu thấy chưa?
+151|Mingo phiền thật.
+152|Nhưng màn của Usopp buồn cười quá.
+153|Luffy, cậu nói gì vậy!
+154|Rebecca cũng có tên trong danh sách, cô bé có ổn không?
+155|Rebecca thì...
+156|Tôi ở đây, Lucy.
+157|Ồ, đúng lúc lắm.
+158|Chú lính ở ngay đây...
+159|Chú lính đâu rồi?
+160|Đừng nói là ông ấy...
+161|Là tội đồ, giết hắn!
+162|Ngài lính...
+163|Ngài lính đã trở lại làm người rồi sao?
+164|Lucy, ông ấy là người thế nào?
+165|Người thế nào á?
+166|Cậu nói gì vậy?
+167|Ông lính một chân đó là...
+168|cha của cậu đấy!
+169|Chính là người trong bức tượng ở Đấu trường!
+170|T-Tôi đã không bảo vệ được con bé.
+171|Quả nhiên...
+172|Ngài lính rất dũng cảm...
+173|... và sẽ luôn dõi theo con.
+174|Mừng cho cậu.
+175|Chú lính đi đâu mất rồi, nhưng nghe này, Rebecca.
+176|Đừng khóc vội.
+177|Tôi sẽ không để chú lính chết đâu.
+178|Cậu nhớ giữ an toàn nhé.
+179|Xin lỗi vì không lấy được Trái Lửa mà cậu muốn ăn.
+180|Nhưng bù lại, tôi sẽ đánh Doflamingo một trận nhừ tử!
+181|Nên hãy ở cùng đồng đội của tôi.
+182|Tôi sẽ kết thúc trò chơi này ngay.
+183|Sống sót nhé!
+184|Hiểu chưa?!
+185|Ừ!
+186|Luffy, cho tôi biết bên đó có những ai.
+187|Bên này có...
+188|Cậu hiểu chứ, Mũ Rơm-ya?
+189|Kế hoạch là phá nhà máy SMILE để Doflamingo và Kaido đụng độ.
+190|Nếu cậu hạ Doflamingo bây giờ, cơn giận của Kaido khi mất SMILE sẽ đổ lên đầu chúng ta.
+191|Nghĩa là phải đánh với một Tứ Hoàng đang nổi điên!
+192|Chuyện đó tính sau.
+193|Nhìn đất nước này đi! Tôi phải làm gì đó!
+194|Tìm bọn tội đồ!
+195|Muốn sống sót thì phải bắt được chúng!
+196|Thấy tội đồ nào thì báo cho mọi người ngay!
+197|Ai đó làm ơn ngăn tôi lại!
+198|Suýt nữa thì nguy. Đừng lơ là.
+199|Đi tiếp đi.
+200|Isshou-san, ngài không định bắt Doflamingo sao?
+201|Phải khống chế càng nhiều người đang mất kiểm soát càng tốt.
+202|Hơn nữa, mục tiêu của chúng ta ở đây là liên minh giữa Mũ Rơm và Law.
+203|Liên lạc với tất cả các đội.
+204|Khoan, tôi vẫn còn bị còng.
+205|Sẽ sớm tháo được thôi.
+206|Làm như dễ lắm!
+207|Tôi sẽ đi lấy chìa khóa.
+208|Tôi hứa sẽ tìm ra nó, và-
+209|Chúng ta đi đường nào?
+210|Thẳng phía trước!
+211|Cậu ta không định nhảy xuống đấy chứ?!
+212|Cứ chờ đấy, Doflamingo!
+213|Từng đoàn người đang tràn ra từ dưới Đấu trường!
+214|Có vẻ biến động đã khiến lòng đất và mặt đất nhập làm một!
+215|Chắc đây là những người bị bắt làm việc ở cảng ngầm đó!
+216|Binh lính...
+217|Quan chức...
+218|Hải tặc!
+219|T-Thật không thể tin nhiều người bị bắt làm nô lệ mà không ai hay biết!
+220|Maynard, ai bảo cậu trà trộn vào giải đấu hả?
+221|Đừng tự ý hành động như thế.
+222|Cậu may mà còn sống đấy.
+223|Nhưng Bastille-san,
+224|nhờ vậy tôi mới thấy được toàn cảnh giải đấu.
+225|Phó Đô đốc Tổng bộ Hải Quân, Maynard Kẻ Truy Đuổi (người tham gia giải đấu)
+226|Nếu bắt được Doflamingo,
+227|cán cân thế giới có thể thay đổi!
+228|Cảng giao dịch ngầm
+229|Đây là...
+230|tàu buôn của Vương quốc Biggschots, ngụy trang thành tàu hải tặc.
+231|Thế lực ngầm của nhiều quốc gia tụ hội tại cảng này.
+232|Làm ơn, dừng lại!
+233|T-Tôi xin lỗi!
+234|Anh yêu!
+235|Mọi người, chạy đi!
+236|Tại sao vậy, Isshou-san?!
+237|Không thể để Doflamingo làm Thất Vũ Hải thêm nữa!
+238|Ta phải bắt hắn ngay bây giờ!
+239|Tôi chắc Hải Quân cũng đã làm y như vậy suốt bao lâu nay.
+240|Cậu ở tổ chức này lâu rồi phải không, Phó Đô đốc?
+241|Cậu có luôn làm ngơ...
+242|những tiếng gào thét phẫn nộ này không?
+243|Họ không khóc. Họ đang phẫn nộ!
+244|Cậu nghĩ Chính phủ Thế giới...
+245|là thần thánh sao?!
+246|Cậu sẽ tuân theo quyết định của tôi.
+247|Law và bọn chúng nhắm vào SMILE đúng không?
+248|Này, Doffy, không cần bảo vệ nhà máy à?
+249|Vùng đất có Hoàng cung (Cánh đồng Hoa Hướng Dương)
+250|Đằng nào chúng cũng không vào được. Nó làm bằng Hải Lâu Thạch.
+251|Mà chìa khóa thì ta giữ ngay đây.
+252|Thiếu chủ?!
+253|Ngài chắc chứ?!
+254|Sao lại cho kẻ thù hy vọng?
+255|Ngươi yếu quá. Đến một cô bé cũng không bảo vệ nổi,
+256|Trébol.
+257|Im đi, lão già G! Nó đâu thật sự là cô bé!
+258|Này này, Doffy!
+259|Tôi thật sự xin lỗi về Sugar.
+260|Làm sao tôi biết một kẻ bị trói cả tay lẫn chân lại khiến con bé ngất xỉu chứ?
+261|Không thể tưởng tượng nổi!
+262|Trái Lửa cũng vậy.
+263|Tôi đâu biết nhân vật số hai của Quân Cách Mạng lại tham gia giải đấu.
+264|Không thể tưởng tượng nổi!
+265|Đừng bào chữa, lũ gàn dở đáng xấu hổ!
+266|G, trong chữ Gàn dở!
+267|Chuyện qua rồi.
+268|Trách các ngươi cũng chẳng thay đổi được gì.
+269|Thấy chưa? Thủ lĩnh của chúng ta là nhất!
+270|Nghe chưa, Lao G!
+271|Nếu ngài đã khăng khăng thì tôi xin nhận sự tha thứ.
+272|Nhưng Doffy, giờ Hải Quân sẽ gây rắc rối cho chúng ta.
+273|Ta xử lý Fujitora thế nào đây?
+274|Ta đã dàn xếp với hắn rồi. Hải Quân sẽ không truy đuổi chúng ta.
+275|Nhưng khi Fujitora hết giá trị lợi dụng,
+276|ta sẽ phải loại bỏ hắn.
+277|Hắn muốn xóa sổ hoàn toàn hệ thống Thất Vũ Hải.
+278|Để hắn sống chẳng có lợi gì.
+279|Dù vậy, trừ khử hắn không dễ đâu.
+280|Hải Quân và đám hải tặc...
+281|Cứ để ta ra tay hết sức...
+282|Giọng đó!
+283|Nó thật là...
+284|...thì một mình ta cũng quét sạch bọn chúng!
+285|Cán bộ cấp cao gia tộc Donquixote Pica♠
+286|Giọng hắn cao quá!
+287|Sao thân hình đó lại phát ra giọng đó được?
+288|Không... không tài nào quen nổi giọng đó!
+289|Nhưng chỉ cần bật cười là chết chắc!
+290|Không cần vội.
+291|Nghe đây. Trò chơi này giống như một cuộc bầu vua.
+292|Ta đã hỏi dân chúng xem nhà Riku hay nhà Donquixote xứng đáng trị vì hơn.
+293|Dân chúng sẽ chọn vua của họ. Họ có quyền đó.
+294|Ta chỉ cần nghiền nát kẻ nào xông đến, rồi ngồi xem số còn lại giết lẫn nhau.
+295|Nhưng thế thì lâu lắm!
+296|Doffy, tôi-
+297|T-Tôi xin lỗi, Pica-sama!
+298|Xin tha cho cậu ta. Cậu ta là người mới!
+299|Cậu ta chỉ không ngờ giọng ngài lại...
+300|Tôi xin lỗi! Tôi thật sự xin lỗi!
+301|Cậu đang bị chôn sống trong đá kìa!
+302|Khoan, Pica-sama!
+303|Gatling Girl!
+304|Nếu ngài giết hắn, đến xác cũng chẳng còn!
+305|Gia đình hắn sẽ không vui đâu.
+306|Xin lỗi nhé, Baby 5.
+307|Mẹ ta mất khi ta lên tám.
+308|Ta giết cha mình khi lên mười.
+309|Các cán bộ là gia đình ta, đã cùng ta vào sinh ra tử suốt bao năm.
+310|Họ là tất cả những gì ta có.
+311|Ta không bao giờ cho phép ai cười nhạo gia đình ta. Hiểu chưa?
+312|V-Vâng, thưa ngài!
+313|Khống chế tất cả những ai đang mất kiểm soát!
+314|Tìm băng Mũ Rơm và Trafalgar Law!
+315|Rõ, thưa ngài!
+316|Có vẻ Hải Quân không định đánh với chúng ta -in.
+317|Vậy là họ vẫn khăng khăng đối xử với Thiếu chủ như Thất Vũ Hải.
+318|Chẳng phải hơi chu đáo quá sao?
+319|Chắc họ cũng sợ Lồng Chim!
+320|Mà không ngờ tên biến thái đó vẫn còn sức chạy trốn.
+321|Hắn đi đâu rồi?
+322|Kia hẳn là nhà máy SMILE.
+323|Lồ lộ thế kia. Cứ như nó đang chờ ăn tia laser của tôi vậy!
+324|Có quả bóng bay đang rơi xuống -in.
+325|Bóng bay?
+326|Law!
+327|Mày còn dám vác mặt đến đây à, thằng nhãi!
+328|Anh Law? Suýt nữa tôi quên mất anh tồn tại.
+329|Luffy Mũ Rơm!
+330|Trafalgar Law!
+331|Thợ Săn Hải Tặc!
+332|Hạ cánh đúng chỗ ghê chưa!
+333|Mũ Rơm-ya! Được thả ra là tôi giết cậu đầu tiên!
+334|Hạ cánh ở đâu thì cũng gặp rắc rối thôi.
+335|Cả đất nước này là kẻ thù của chúng ta.
+336|Dù sao thì chạy thôi!
+337|Ừ!
+338|Đuổi theo!
+339|Zoro, không phải hướng đó!
+340|Hướng này cũng sai luôn, Mũ Rơm-ya!
+341|Tội đồ!
+342|Có hai tên ba sao và một tên hai sao!
+343|Bị tóm rồi! Gã kỳ quặc này vừa bơi trong lòng đất!
+344|Ngay bây giờ, Vise!
+345|Chạy đi! Hắn là người siêu nặng!
+346|Chết tiệt! Buông chân tôi ra!
+347|Ton-Ton! Vise Mười Tấn!
+348|Không thoát được! Chân tôi kẹt rồi!
+349|Lần này tao không trượt đâu!
+350|Pistol High-Heel!
+351|Nặng quá!
+352|Á!
+353|Được rồi! Chân tôi thoát rồi!
+354|Tỉnh táo lên! Giờ đi thôi!
+355|Bọn tao sẽ lấy tổng tiền truy nã tám trăm triệu của bọn mày!
+356|Chuẩn bị đi!
+357|Bắn!
+358|Ba sao và hai sao!
+359|Phiền phức thật! Chém luôn bọn chúng à?
+360|Có dân thường trong đó!
+361|Được, tôi sẽ dùng Haki để...
+362|Thôi đi.
+363|Bắn bao nhiêu viên đạn yếu ớt như thế cũng chẳng trúng được họ đâu.
+364|Đô đốc Hải Quân...
+365|Lão con bạc!
+366|Usopp, tên năm sao, đang ở Đấu trường!
+367|Hắn kia! Đuổi theo!
+368|Bắt lấy hắn!
+369|Để tôi yên đi mà!
+370|Địa hình thay đổi nên tường Đấu trường bị đẩy sát vào Vùng đất Hoàng gia.
+371|Ta có thể trèo lên đó để hội họp với mọi người.
+372|Tìm thấy rồi!
+373|Rebecca, đi trước đi.
+374|Robin-san!
+375|Mày là của tao!
+376|Bartolomeo!
+377|Được Robin-senpai gọi tên, tôi vinh hạnh quá!
+378|T-Tôi sẽ chặn kẻ thù ở đây.
+379|Hãy đi trước cùng Sogeking-senpai.
+380|Cảm ơn cậu.
+381|Robin-senpai cảm ơn mình!
+382|Giờ tôi hừng hực khí thế rồi! Không ai được đuổi theo các vị nữa!
+383|Giờ hắn định làm gì nữa đây?
+384|L-Lại nữa rồi!
+385|K-Không thể nào...
+386|Kia là...
+387|Cuối cùng hắn cũng...
+388|Một khi gã đó xuất hiện là hết đường!
+389|Không ai đánh lại hắn đâu!
+390|Cái quái gì thế kia?!
+391|Một gã khổng lồ...
+392|To quá mức rồi!
+393|Đó là...
+394|Pica!
+395|Pica-sama!
+396|Giờ thì, tất cả những kẻ dám chống lại gia tộc ta...
+397|Ta sẽ tiếp các ngươi!
+398|Giọng đó! Cao quá!
+399|Thôi nào!
+400|Chẳng hợp với hắn chút nào!
+401|Giọng kỳ cục quá!
+402|Mũ Rơm!

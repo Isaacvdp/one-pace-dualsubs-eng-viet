@@ -1,0 +1,305 @@
+1|Công chúa Mansherry, xin người hãy bình an.
+2|Tuyệt quá!
+3|Từ đây cô nhìn được vào trong Cung điện à?
+4|Phải, nhờ Thiên Lý Nhãn. Tôi có thể phóng tầm mắt đến bất cứ đâu.
+5|Sanji chắc sẽ liều mạng để có năng lực đó.
+6|Không biết Công chúa Mansherry là người thế nào nhỉ.
+7|Nếu tôi nhớ không nhầm, Leo bảo cô ấy thất thường, ích kỷ và nóng tính.
+8|Ngươi là ai hả?!
+9|Dừng lại!
+10|K-Kin'emon!
+11|--Ồ, Usopp-dono! --Ông quen hắn à?
+12|Ừ, thả ông ấy ra được rồi...
+13|Có một gã quái dị kìa!
+14|Đây là Kanjuro, người tại hạ vẫn đang tìm.
+15|Cái sinh vật thảm hại kia là gì vậy...?
+16|Dù sao thì, lúc nãy bọn tại hạ trồi lên và giật cả mình.
+17|Hàng đống người đang kéo về cao nguyên này nên tại hạ tự hỏi có chuyện gì.
+18|Đúng vậy!
+19|Tôi không nghĩ họ leo lên cao thế này được, nhưng...
+20|Đừng lo, anh tengu mũi dài! Thấy họ leo khó khăn quá nên...
+21|tại hạ đã làm cho họ một tấm lưới!
+22|Hả?
+23|Họ sẽ lên tới đây ngay thôi.
+24|Sao ông lại làm thế hả, đồ ngốc?!
+25|Bắt lấy Thần Usopp!
+26|Dây này dở tệ!
+27|--Họ đến bắt tôi kìa! --Thừa thãi lắm sao?!
+28|Tại hạ thật ngu muội...
+29|Tại hạ đã phạm sai lầm! Đã phụ ân nhân!
+30|Giờ chỉ còn cách mổ bụng tạ tội.
+31|Đừng, Kanjuro!
+32|Vâng, tại hạ không làm nữa.
+33|Im đi! Làm luôn đi!
+34|Thế giờ tính sao với đám đang leo lên kia hả?!
+35|Có lẽ...
+36|Mình chưa nhìn vào căn phòng đó!
+37|Leo lên trên tầng thứ hai
+38|Đội Rebecca & Robin
+39|--Leo! Cậu nghe thấy tôi không? --Vâng, Viola-sama!
+40|Tôi tìm thấy Công chúa Mansherry rồi!
+41|Cung điện! Công chúa Mansherry ở trong Cung điện!
+42|Tuyệt! Ở chỗ nào trong Cung điện ạ?
+43|Căn phòng nhỏ phía sau nhà nguyện...
+44|Nhớ không?
+45|Căn phòng...
+46|...nhỏ?
+47|Phòng phạt!
+48|Đúng! Chính nó!
+49|Tôi vừa nhớ đến Scarlet-sama.
+50|Mẹ tôi á?
+51|Vâng...
+52|Hồi chúng tôi còn hay đến Cung điện,
+53|chúng tôi cùng Viola-sama nghịch ngợm lắm.
+54|Rồi bị Vua Riku-sama mắng!
+55|--Chị ơi! --Scarlet-sama!
+56|Lại bị mắng nữa à? Chẳng chừa gì cả.
+57|Không phải lỗi em! Leo với hai bạn kia làm vỡ đĩa!
+58|Viola-sama bảo chúng tôi "đập" được mà!
+59|Không! Tôi bảo là "sờ" được thôi!
+60|Hả?!
+61|Lát nữa chị sẽ đi xin lỗi cùng em.
+62|Thật ạ?!
+63|Ừ. Mà này, các em không đói à?
+64|Đói ạ!
+65|Chúng tôi ai cũng quý Scarlet-sama lắm!
+66|Vâng! Người lúc nào cũng tốt bụng, dịu dàng với chúng tôi...
+67|Tôi vẫn nhớ rõ phòng phạt lắm!
+68|Cảm ơn vì thông tin!
+69|Giờ Cung điện là tổng hành dinh của địch.
+70|Cẩn thận nhé, Leo.
+71|Rõ! Chúng tôi sẽ cứu công chúa bằng mọi giá!
+72|Cạch.
+73|Bọn chúng là...!
+74|Ta đang bay qua tầng ba rồi, Rebecca!
+75|Vâng, Robin-san! Cánh đồng Hoa ở tầng tiếp theo!
+76|Có thứ gì bay về phía ta từ bên dưới!
+77|Băng Mũ Rơm thật đúng là vượt xa tưởng tượng của tôi...
+78|Gà Trống-kun, cẩn thận!
+79|Pop Baller!
+80|Gà Trống-kun!
+81|Đây là năng lực Trái Nổ!
+82|Ôi không! Lũ gà con vàng của tôi...
+83|Robin-san!
+84|Không ngờ có một nhóm định lên Cung điện theo kiểu đó!
+85|Là Gladius!
+86|Pop...
+87|Diez Fleurs!
+88|Mười bông hoa
+89|Rebecca, mang chìa khóa đến Cánh đồng Hoa đi!
+90|Tôi sẽ ổn thôi!
+91|Robin-san!
+92|Mấy món đồ chơi đó...! Lẽ nào...!
+93|Cao nguyên Hoàng gia cũ
+94|Cả hai đều có lỗi.
+95|Đó là...
+96|Sao vậy? Cô vẫn đang tìm gì à, Viola?
+97|Sugar tỉnh lại rồi!
+98|Cái gì?!
+99|Này! Cô nói gì vậy?! Sugar đã bị...
+100|...hạ gục hoàn toàn bằng Hộp Hề Mặt Quỷ Đặc Chế của tôi,
+101|và có vẻ con bé sẽ không tỉnh lại trong vài ngày...
+102|Băng Mũ Rơm và mọi người... Họ không biết con bé, đúng không?!
+103|Cả năng lực của nó nữa.
+104|Sugar hồi phục hoàn toàn rồi! Mũ Rơm và mọi người gặp nguy rồi!
+105|Cái gì?!
+106|Cung điện
+107|Gì cơ?
+108|Đ-Đứa nào mũi dài thì tránh xa ra! Đứa nào mũi dài thì chết hết đi!
+109|Hả?! Tôi tưởng cô đói nên mang...
+110|Chỉ là xúc xích thôi mà.
+111|Đừng mang mấy thứ hình que đến cho ta!
+112|Đồ ăn vặt phải là nho! Ngươi ngốc à?!
+113|Biến thành búp bê Bổ Đầu như mấy đứa kia rồi đi đánh nhau đi!
+114|Tội nghiệp Thiếu chủ-sama...
+115|Ta sẽ biến tất cả mọi người trong nước này...
+116|...thành đồ chơi lần nữa!
+117|Trước hết là tên mũi dài đáng ghét kia và đồng bọn!
+118|Băng Mũ Rơm!
+119|Cao nguyên - Nơi đặt Cung điện Hoàng gia
+120|Đội Luffy
+121|Né đi, Farul!
+122|Ngựa!
+123|Đồ khốn!
+124|Súng Phản Lực Cao Su!
+125|Farul!
+126|Gắng lên!
+127|Hàm khỏe thật! Nó nghiến nát đầu con ngựa!
+128|Đừng chết, Farul!
+129|Gì vậy... Tôi đấm thủng bụng nó rồi mà!
+130|Đồ quái vật! Sao ngươi dám làm thế với Farul?!
+131|Mỹ Kiếm! Bàn Tròn!
+132|Cái gì?!
+133|Chúng bất tử à?!
+134|Cao Su...
+135|...UFO!
+136|Chết tiệt! Giá mà có chìa khóa cái còng này,
+137|Gì vậy? Có thứ gì rơi từ trên xuống!
+138|Ui da!
+139|Tôi lơ là quá...
+140|--Đầu Mào Gà! --Chắc là Luffy-senpai!
+141|Robin!
+142|Luffy! Traf-kun! Các cậu tới rồi!
+143|Nico-ya, chìa khóa đâu?! Đưa đây mau!
+144|Con nhỏ chạy mất rồi...
+145|Thôi, chỉ là một đứa con gái hèn mọn.
+146|Dù có lên được Cung điện, nó cũng chẳng làm được gì.
+147|Lát nữa ta sẽ đuổi theo giết nó.
+148|Ta là Gladius.
+149|Ta sẽ xử các ngươi trước.
+150|Cứ để họ cho tôi.
+151|Phải!
+152|Cái gì?
+153|Luffy! Traf-kun! Cả anh lính nữa!
+154|Đi ngay đi! Đến Cánh đồng Hoa ở tầng bốn!
+155|Đúng vậy!
+156|Robin?!
+157|Rebecca đang đợi các cậu! Đi đi!
+158|Cánh đồng Hoa - Tầng thứ tư của Cung điện
+159|Tầng bốn rồi! Tới nơi rồi!
+160|Robin-san và mọi người... Họ có ổn không?
+161|Chắc chắn là ổn! Bạn của ngài Usoland mạnh lắm!
+162|Ừ! Cậu nói đúng!
+163|Rebecca-sama! Chúng tôi phải đi cứu Công chúa Mansherry ngay!
+164|Ừ!
+165|Để cô ở đây một mình có ổn không?
+166|Tôi sẽ ổn mà! Lucy và mọi người sẽ tới ngay thôi!
+167|Đi cứu cô ấy đi!
+168|Vâng! Rebecca-sama cũng bảo trọng nhé!
+169|Ừ!
+170|Cha chắc cũng đang ở đâu đó trên chiến trường này...
+171|Có kẻ lên được tới đây cơ à?
+172|Là ngươi...
+173|Tầng thứ ba của Ngọn núi đỡ Cung điện
+174|Cao Su...
+175|--Luffy-senpai, để tôi! --Đầu Mào Gà!
+176|Barrier!
+177|Đó là bom đấy! Chúng sẽ nổ trước khi anh kịp đánh bật ra!
+178|Oa! Ngầu quá!
+179|Ôi không! Tôi không xứng được khen thế đâu!
+180|Bartolomeo...
+181|Barrier-bility: Cầu Thang!
+182|Tuyệt! Đỡ mất bao nhiêu công!
+183|Xin hãy dùng nó, Luffy-senpai!
+184|Sao lại nhìn chỗ khác thế?
+185|Cảm ơn nhé, Đầu Mào Gà!
+186|Không dám đâu!
+187|Tôi mới phải cảm ơn anh vì đã sinh ra trên đời!
+188|Được rồi!
+189|Đi lối này là lên thẳng tầng bốn! Đi thôi, Traf!
+190|Đi!
+191|Anh lính!
+192|Tôi đi trước đây!
+193|Ơ, khoan đã, anh lính!
+194|Bắp Cải!
+195|Ta sẽ cầm chân chúng ở đây! Đi đi, Mũ Rơm!
+196|Con ngựa yêu quý của ta bị hại ngay ở tầng này!
+197|Chưa trả thù lũ khốn này thì ta không đi tiếp được!
+198|Luffy, né đi! Là bom đấy!
+199|Để tôi lo!
+200|Sao không dùng rào chắn của ngươi?!
+201|Này, Bartolomeo!
+202|Kích thước rào chắn... tôi tạo được cùng lúc có giới hạn...
+203|Và tôi dùng hết vào cái cầu thang đó rồi!
+204|Nhưng không sao!
+205|Nếu giúp được Luffy-senpai...
+206|thì có chết tôi cũng vui!
+207|Cái tên này...
+208|Ta sẽ chiến đấu cùng ngươi tới khi ngươi dựng lại được rào chắn, nên ráng lên!
+209|Mấy con búp bê này chẳng tế nhị gì cả!
+210|Cinco Mano! Spank!
+211|Năm bàn tay
+212|Tôi hiểu cảm giác của cậu...
+213|Gà Trống-kun.
+214|Thuyền trưởng của chúng tôi...
+215|...đáng để đánh cược...
+216|...cả mạng sống!
+217|Luffy luôn là con át chủ bài đưa chúng tôi đến chiến thắng!
+218|Mil Fleurs! Gigantesco Mano!
+219|Ngàn hoa: Bàn tay khổng lồ
+220|--Không để các ngươi động đến Luffy đâu! --Đúng vậy!
+221|Thị trấn Acacia - Sabo vs. Đô đốc Fujitora
+222|Cậu đúng là người kỳ lạ.
+223|Tôi tưởng cậu muốn cầm chân Hải Quân bọn tôi.
+224|Ông còn định diễn kịch đến bao giờ?
+225|Ôi trời...
+226|Như cậu thấy đấy, lão cần người ta nương tay cho...
+227|Tôi không phân biệt đối xử.
+228|Cậu làm lão sợ đấy.
+229|Quả không hổ danh người số hai của Quân Cách Mạng.
+230|Nhưng vị trí của lão buộc lão phải làm thế này.
+231|Mong cậu hiểu cho.
+232|Trọng Lực Đao!
+233|Mãnh Hổ!
+234|Trọng lực theo phương ngang?!
+235|Đúng rồi! Đúng như mình đoán về ông ta!
+236|Tên này! Hắn định làm gì vậy?!
+237|Đây là canh bạc được ăn cả, ngã về không.
+238|Lão đã quyết đặt cược cả mạng sống.
+239|Tuy nhiên...
+240|Mất xúc xắc thì chưa kịp gieo đã thua rồi.
+241|Cao nguyên - Nơi đặt Cung điện Hoàng gia - Tầng 4 - Cánh đồng Hoa Hướng Dương
+242|Nhục nhã chưa, Rebecca!
+243|Sao thế?! Sao lại chạy?!
+244|Sao không chiến đấu?!
+245|Ngươi là đấu sĩ cơ mà!
+246|Ta tưởng ngươi đến để giết ta chứ!
+247|Ở Đấu trường, nhờ ngươi mà ta dựng được vài màn diễn hay, nhưng...
+248|...nếu ngươi không đánh được nữa,
+249|thì ngươi hết giá trị rồi!
+250|Ta sẽ... kết liễu ngươi ngay bây giờ.
+251|Không, khoan...
+252|Ngươi thích súng hơn, phải không?
+253|Vì Scarlet...
+254|...đã chết vì súng mà!
+255|Cứu với!
+256|Ngài lính!!
+257|Rebecca!!
+258|Ngươi...
+259|Kyros!
+260|Tao sẽ không để mày cướp đi...
+261|...thêm một người thân nào của tao nữa!!
+262|Người đàn ông này từng là một huyền thoại.
+263|Đấu sĩ mạnh nhất trong lịch sử Đấu trường.
+264|Dù cha đã không bảo vệ được mẹ con,
+265|cha sẽ bảo vệ con đến cùng, bằng cả mạng sống!
+266|Để tao dạy mày thế nào là chiến đấu.
+267|Rebecca!
+268|Cha...
+269|Cha xin lỗi, Rebecca.
+270|Là món đồ chơi chẳng có tương lai, cha chỉ biết dạy con cầm kiếm...
+271|...dù con hiền lành như mẹ con!
+272|Nhưng hôm nay mọi chuyện sẽ chấm dứt!
+273|Hả?
+274|Con...
+275|...không phải chiến đấu nữa.
+276|Dạ! Dạ!
+277|Dạ!
+278|Ý ngươi là sao, Kyros?!
+279|Nghĩa là hôm nay,
+280|tao sẽ thanh toán hết nợ nần với cả lũ bọn mày!
+281|Đồ quái vật!
+282|Rebecca!
+283|Đây là...!
+284|Rebecca!!
+285|Lucy!
+286|Rebecca!!
+287|Chìa khóa!
+288|Lucy!
+289|Tuyệt! Cả hai ta đều tới kịp!
+290|Chìa khóa!
+291|Đưa đây mau!
+292|Đây!
+293|Nhanh lên!
+294|Rebecca!
+295|Lũ khốn!
+296|Cuối cùng cũng đuổi kịp rồi!
+297|Cuối cùng... tôi cũng được tự do!
+298|Tới rồi! Tầng bốn - nơi Mingo ở!
+299|Hắn ở đó à?
+300|Ừ.
+301|Law! Mũ Rơm!
+302|Diamante.
+303|Xin lỗi hai cậu... Tôi đang bận đối phó gã này.
+304|Hai cậu lo Doflamingo giúp tôi được chứ?!
+305|Tất nhiên!

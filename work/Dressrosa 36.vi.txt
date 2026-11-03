@@ -1,0 +1,327 @@
+1|Dừng lại, Bellamy!
+2|Im đi!
+3|Đây là...
+4|Đây là cách tôi giải quyết mọi chuyện!
+5|Tôi chẳng có lý do gì để nhận trận này cả!
+6|Nhưng...
+7|Không có lý do thì thôi!
+8|Cứ đứng yên đó!
+9|Nếu cậu vẫn cho rằng...
+10|quyết tâm của tôi rẻ rúng!
+11|Chết tiệt!
+12|Tượng Pica
+13|Cứ tưởng chết rồi chứ!
+14|Khu Cung điện Hoàng gia - Tầng hai
+15|Ngài ấy còn sống!
+16|Pica-sama!
+17|Tên đá khốn kiếp đó lì thật!
+18|Ngươi tưởng biết năng lực của ta là hạ được ta sao?
+19|Đúng là đồ đầu óc đơn giản!
+20|Đứng lại!
+21|Hạ hắn đi!
+22|Đứng yên, Thợ Săn Hải Tặc!
+23|Bọn tao không để mày qua đây đâu!
+24|Phiền phức thật!
+25|Uy Nghiêm Đề Đốc!
+26|Nghiêm!
+27|Đừng làm thế!
+28|Không! Không! Đừng!
+29|Hả? Sao bọn mình lại đứng xếp hàng thế này?
+30|Bowling Sát Thủ!
+31|Khá lắm!
+32|Cậu cứ đi trước đi.
+33|Ừ, ông là người ở Đấu trường, phải không?
+34|Chính xác! Tôi tên là Orlumbus!
+35|Nếu đây là biển, tôi đã yểm trợ cậu bằng Hạm đội Yonta Maria rồi.
+36|Xin lỗi vì không giúp được nhiều! Con quái vật đá giao cho cậu đấy!
+37|Được!
+38|Tên đó đi đâu rồi?!
+39|Khuôn mặt trên tường kìa!
+40|Pica-sama đã nhập vào cả cao nguyên!
+41|Giờ thì, ngươi né được đòn của ta không?
+42|Giờ thì, ngươi né được đòn của ta không?
+43|Thế mà gọi là tiếng cười à?!
+44|Ta cười thế thì sao?
+45|Tao chỉ bất ngờ vì nó nghe ngớ ngẩn quá thôi!
+46|Mày mới là đồ ngớ ngẩn, Thợ Săn Hải Tặc!
+47|Đừng chọc giận Pica-sama!
+48|Charlestone!
+49|Mừng là mày to xác thế.
+50|Chém mày làm đôi chắc sướng tay lắm đây.
+51|Này, Pica!
+52|Đừng quên bọn tao cũng đang đánh ở đây!
+53|Pháo Hủy Diệt!
+54|Tập trung vào đi chứ!
+55|Vì chúng ta là kẻ thù sao?!
+56|Sao anh không nói thẳng ra?!
+57|Cô nói cái gì vậy?!
+58|Đừng giả vờ không biết!
+59|Tao sẽ đâm xuyên tim mày!
+60|Anh đã nói "Anh sẽ nhắm vào trái tim em"...
+61|Tao sẽ không buông tay mày đâu!
+62|Rồi "Anh sẽ mãi nắm tay em"!
+63|Mày theo kịp tao không?!
+64|Rồi "Em có theo anh được không"!
+65|Nếu anh muốn em đến thế...
+66|Em chẳng quan tâm ta đứng ở hai phía nào!
+67|Anh...
+68|cần em, phải không?!
+69|Ngài ấy hoàn toàn không nương tay!
+70|Ngay cả chiến binh Elbaf cũng chẳng làm gì nổi Vise-sama!
+71|Tốt lắm-in! Chỗ đặt chân tốt lắm-in!
+72|Ta đã hạ gã Khổng lồ Hajrudin-in, mục tiêu tiếp theo là...
+73|Roronoa Zoro kìa!
+74|Mày cản đường đấy, đồ siêu yếu!
+75|Ước mơ của ta là trở thành vua của mọi người khổng lồ.
+76|Nhưng nhìn ta xem.
+77|Ta thua trong giải đấu.
+78|Ta bị biến thành đồ chơi.
+79|Ta được cứu, vậy mà không trả được ơn!
+80|Thật thảm hại!
+81|Nếu ta sẵn sàng hy sinh mạng sống để trả ơn...
+82|thì sao thất bại rồi ta vẫn còn sống?!
+83|Ton-Ton!
+84|Lòng biết ơn của ta...
+85|nông cạn đến thế sao?!
+86|Ta tới đây, Roronoa!
+87|Hắn...
+88|Ê Tô Hủy Diệt 1.000 Tấn!
+89|Không, nó...
+90|Nó sâu nặng hơn thế nhiều!
+91|Hắn đứng dậy rồi!
+92|Xin lỗi... nhưng để tên đó cho ta.
+93|Hajrudin!
+94|Này, này-in! Không ngờ ngươi vẫn còn sống-in!
+95|Vậy ta sẽ làm nó nặng hơn-in!
+96|Ê Tô Địa Ngục 10.000 Tấn!
+97|Mong là vẫn còn xương cho ta nghiền! Hây-in!
+98|Người chết thì vô dụng, nhưng...
+99|chỉ cần còn một cánh tay cử động, ta có thể bứt cả đầu tướng địch.
+100|Nhận lấy! Ta đặt cược mạng sống vào đòn này!
+101|Gungnir!
+102|Vô ích-in! Đây là 10.000 tấn đấy!
+103|Bẹp dí đi, Hajrudin!
+104|Bay đi! Đến vương quốc của thần linh!
+105|Cái gì?!
+106|Vise-sama!
+107|Không xong! Phía trên kìa!
+108|Ngài ấy sẽ đâm vào Lồng Chim mất!
+109|Dừng lại, Vise-sama!
+110|Ngài ấy sẽ bị cắt nát mất!
+111|Chắc là hắn không bay ra khỏi đó được rồi...
+112|Đâu phải chim.
+113|Vise-sama!
+114|Nghỉ đi.
+115|Khi ông tỉnh dậy, cái lồng này sẽ biến mất.
+116|Charlestone!
+117|Mày nhắm ai thế?
+118|Chết tiệt, hắn thoát rồi.
+119|Dễ đoán như mọi khi!
+120|Khó chịu thật.
+121|Cần ta giúp không, Thợ Săn Hải Tặc?
+122|Ông là ai?
+123|Ta là Elizabello.
+124|Vua Riku là bạn lâu năm của ta.
+125|Nên đất nước này cũng là của bạn ta.
+126|Cú Đấm Vua của ta là át chủ bài, mỗi giờ chỉ dùng được một lần.
+127|Cậu đã đoán ra năng lực của gã người đá chưa?
+128|Ừ, từ lâu rồi.
+129|Vậy để hắn cho ta.
+130|Cảm ơn, nhưng tôi sẽ tự xử hắn.
+131|Ông nên để dành "át chủ bài" thì hơn.
+132|Chưa biết chuyện gì sẽ đến đâu.
+133|Cậu đã nói vậy thì được thôi!
+134|Tên đá chết tiệt... Hắn đang giở trò gì vậy?
+135|Ui, ui, ui, ui, ui...
+136|Ui, ui, ui, ui... Ô! Ô! Ô! Ô!
+137|Ô!
+138|Xem đây! Của Lao G-sama...
+139|Thế Đau Lưng!
+140|Tên ngốc đó...
+141|Nhận lấy!
+142|Địa Quyền!
+143|Mỏi Mắt Kim Châm!
+144|Vai Đông Cứng!
+145|Đau Khớp Của Chiến Binh Bất Tử!
+146|Đúng là Lao G-sama của chúng ta!
+147|Ngài ấy đang áp đảo gã 500 triệu, Don Chinjao!
+148|Càng già, càng thấu hiểu nỗi đau, đòn càng sắc bén!
+149|Địa Quyền!
+150|Đây chính là...
+151|G!
+152|Cháu phản đối cuộc hôn nhân này!
+153|Giờ mà nói chuyện đó à?!
+154|Ông có nghe không, ông nội?! Cháu không cưới cô ta đâu!
+155|Cháu nói gì?!
+156|Sao ông ngạc nhiên thế?! Sao cháu phải cưới chứ?!
+157|Sai! Cháu phải cưới Oohlicia, con gái thủ lĩnh Thủy quân Nihou!
+158|Sai!
+159|Cháu biết! Ai làm vợ cháu cũng được, cháu chẳng quan tâm!
+160|Cứ việc gả cháu đi...
+161|để sáp nhập Thủy quân Nihou với Happou thành Thủy quân Juppou hay gì đó!
+162|Chú thích: Nihou: "Nhị Bảo", Happou: "Bát Bảo", Juppou: "Thập Bảo"
+163|Gay rồi. Lao G-sama đang bị phớt lờ!
+164|Ngài ấy sắp nổi điên rồi!
+165|Hả?
+166|Ngài ấy chẳng nghe thấy gì cả!
+167|Khoan, ngài ấy đang giận thật!
+168|Nhìn kìa! Hơi nóng giận dữ đang bốc lên từ đỉnh đầu ngài ấy!
+169|Không, ngài ấy sắp chết!
+170|Sao lại chết già đúng vào hôm nay chứ?!
+171|Trận đấu đâu thể kết thúc thế này được!
+172|Cái gì?! Không thể nào!
+173|Lao G, đừng chết!
+174|Lao G-sama!
+175|Quay lại đi!
+176|Lại đi... Lại đi... Lại đi...
+177|Gì cơ?!
+178|Hả?
+179|Ngài ấy nghe không rõ, nhưng vẫn quay lại rồi!
+180|Mừng quá!
+181|Don Chinjao khét tiếng giờ cũng già rồi nhỉ.
+182|Cháu bị làm sao thế, Sai?!
+183|Họ đâu có nói cùng một chuyện!
+184|Hả?!
+185|Ngài ấy đúng là chẳng nghe được gì!
+186|Ta bị làm sao à?
+187|Cổ áo anh bị lệch.
+188|Này, đừng sửa cổ áo tao! Mày là vợ tao à?!
+189|Tránh xa tao ra, gia tộc Donquixote!
+190|Đồ quái gở! Mày là kẻ thù của tao!
+191|Sao tự nhiên lại nói chuyện cưới xin?!
+192|Sao lại không? Anh cần em mà, phải không?
+193|Anh muốn em làm gì? Em làm gì cũng được!
+194|Ờ, phải rồi! Vậy giúp tao một việc nhé?
+195|Chết đi!
+196|Nếu để mày thoát, có khi mày sẽ cản đường Mũ Rơm.
+197|Thế thì tao chẳng bao giờ trả được ơn!
+198|Ít nhất bọn tao cũng phải hạ được đám cán bộ!
+199|Chuẩn bị đi!
+200|Được thôi. Em sẵn lòng chết.
+201|Nếu điều đó giúp được anh...
+202|Hả? K-Không...
+203|Không gì em thích bằng được người khác cần đến.
+204|Dừng lại, đồ ngốc! Mày làm gì thế?!
+205|Tao chỉ nói đốp lại thôi mà!
+206|Thắng nhờ mày tự sát kiểu đó thì khó chịu lắm!
+207|Kệ cô ta đi, Sai!
+208|Sao lại muốn ngăn kẻ thù chết?
+209|Cháu điên rồi à?
+210|Thủ lĩnh một đạo quân phải lạnh lùng hơn nhiều!
+211|Im đi, ông già!
+212|Đừng ra lệnh cho cháu như thể ông vẫn là sư phụ!
+213|Này, cô kia!
+214|Ôi, em hạnh phúc quá...
+215|Chỉ cần chết thôi, em cũng có ích cho ai đó...
+216|Sao lại đẻ ra nó chứ?
+217|Trẻ con đã vô dụng lại còn ăn nhiều.
+218|Phải bớt miệng ăn thôi. Đem nó bỏ lên núi đi.
+219|Mẹ ơi, mình đi đâu thế?
+220|Đừng đi theo tao.
+221|Không, mẹ ơi! Con muốn đi với mẹ!
+222|Mày vô dụng.
+223|Đồ vô dụng như mày...
+224|chẳng ai cần đâu!
+225|Cả mẹ cũng không cần con sao?
+226|Đến mẹ cũng không cần con sao, mẹ?
+227|Giờ có người cần mình...
+228|Dừng lại đi, đồ ngốc này!
+229|Cháu mới là đồ ngốc!
+230|Ông nội?!
+231|Mạnh quá!
+232|Đó là...
+233|Sai!
+234|Cháu làm nhục Thủy quân Happou!
+235|Thủy quân Happou không cần thằng hề như cháu!
+236|Đây là chuyện của cháu! Đừng xen vào!
+237|Đồ ngốc!
+238|Bát Xung Quyền, bí kỹ...
+239|Đừng nói là cú húc đầu có thể phá vỡ cả lục địa băng đó?!
+240|Ông sẽ đập nát cả hai đứa bằng cái đầu khoan này!
+241|Rồng Khoan...
+242|Vuốt Khoan!
+243|Bujaogen Heel!
+244|Giờ có người cần mình...
+245|Đừng có ngốc như thế!
+246|Sao...
+247|Sao anh lại ngăn em?
+248|Em chỉ muốn giúp anh thôi mà!
+249|Em muốn chết để có ích cho ai đó!
+250|Cô sống trong một thế giới mà chưa ai từng nói với cô...
+251|rằng cô sai hết rồi sao?
+252|Đầu khoan của Don Chinjao bị cong rồi!
+253|Không thể tin được...
+254|Mình làm thế này sao?
+255|Sai! Không ngờ cháu làm cong được đầu khoan của ông!
+256|Họ định đánh nhau nội bộ à?!
+257|Cuối cùng sức mạnh của cháu đã thức tỉnh!
+258|Bao năm khổ luyện đổ máu, mồ hôi và nước mắt cuối cùng đã đơm hoa kết trái!
+259|Ông nội?
+260|Cháu làm được rồi!
+261|Bí kỹ Bát Xung Quyền đã có người kế thừa!
+262|Sai, ông sẽ ban cho cú đá của cháu...
+263|cái tên Rồng Khoan, Vuốt Khoan!
+264|Giờ chân cháu chắc chắn đập vỡ được cả lục địa băng.
+265|Thủy quân Happou giờ là của cháu.
+266|Ông sẽ hủy hôn ước của cháu!
+267|Cháu được tự do làm điều mình muốn!
+268|Thật ra, sau trận đấu với Mũ Rơm,
+269|ông bị đau mãn tính, không thể chiến đấu như ý.
+270|Ông già rồi. Ông mừng vì giờ cháu đã-
+271|Phong Ấn G!
+272|Ông nội!
+273|Lao G-sama!
+274|Lao G-sama đã hạ Don Chinjao!
+275|Tuyệt kỹ của Địa Quyền!
+276|Quyền Bảo Hiểm Chiến Đấu!
+277|Để phòng khi bệnh tật, chấn thương hay tuổi già,
+278|ta để dành sức mạnh cơ bắp từ thời trẻ và tích lũy lại.
+279|Đó là kỹ thuật tiết kiệm sinh lực!
+280|Ta có cả kỹ năng chiến đấu lão luyện lẫn sức mạnh thời đỉnh cao!
+281|Ai có thể đánh bại ta chứ?!
+282|Con khỉ từ Hoa Quốc, ngươi muốn gì ở ta?
+283|Tao sẽ báo thù cho ông nội,
+284|và trả ơn Mũ Rơm cùng mọi người!
+285|Ngươi thật sự tin Mũ Rơm có thể hạ được Thiếu chủ sao?!
+286|Tao tin!
+287|Nghe đây!
+288|Dressrosa thuộc về Thiếu chủ!
+289|Và người dân đất nước này đều là...
+290|nô lệ của Thiếu chủ!
+291|Dù ngươi tin Mũ Rơm đến đâu, ngươi cũng chẳng bao giờ thoát khỏi Lồng Chim!
+292|G là Giam trong Lồng Chim!
+293|Ngươi nhanh đấy, ta công nhận.
+294|Nhưng Baby 5 thì ta sẽ không...
+295|giao cho ngươi đâu!
+296|Cái gì?! Lao G!
+297|Đợi đó, Baby 5!
+298|G là Giết tên ngốc này để hắn khỏi cướp mất cô!
+299|Phải làm sao đây? Họ đang tranh giành mình...
+300|Nguy hiểm đấy! Tránh ra!
+301|Khỉ vẫn là khỉ!
+302|Nếu dùng Baby 5 làm khiên, ngươi đã chiếm thế thượng phong rồi!
+303|Baby 5 là người của bọn ta!
+304|Nó sẵn sàng tự sát nếu cần.
+305|Còn cô gái nào tiện lợi như nó nữa chứ?!
+306|Tiện lợi?
+307|Ta sẽ tiễn ngươi xuống địa ngục bằng tuyệt kỹ bí truyền này!
+308|Này, thế này thì sao?
+309|Cô gái đó...
+310|Nếu tao đánh bại mày, tao sẽ cưới cô ấy làm vợ!
+311|T h ì n h
+312|Rồng Khoan...
+313|Vuốt Khoan!
+314|Thiếu chủ... thứ lỗi cho tôi!
+315|Khốn kiếp, con khỉ non!
+316|G là Gã khỉ non!
+317|Gọi tao là Don!
+318|Trong trận chiến với các cán bộ ở tầng hai Khu Cung điện Hoàng gia...
+319|Lao G
+320|Lao G...
+321|đã gục ngã.
+322|Lao G gục ngã
+323|Baby 5...
+324|Baby 5
+325|đã đổ gục.
+326|Baby 5 đổ gục
+327|...đổ vì tình

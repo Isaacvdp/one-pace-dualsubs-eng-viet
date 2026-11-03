@@ -1,0 +1,355 @@
+1|Đội Kin'emon
+2|Tháp cán bộ
+3|Bãi phế liệu
+4|Có người ở trong tường sao?!
+5|May quá các hạ vẫn bình an!
+6|Kanjuro!
+7|Ồ, Kin'emon!
+8|Tuyệt quá!
+9|Thật đấy!
+10|Xin lỗi. Hình như tại hạ làm các hạ phải đi tìm hơi lâu.
+11|Hết chuyện kỳ lạ này tới chuyện kỳ lạ khác xảy ra...
+12|nên tại hạ định trốn trong tường một thời gian.
+13|Samurai đất nước Wano - "Mưa Chiều" Kanjuro
+14|Nhưng ngủ quên lúc nào không hay.
+15|Mà Kin'emon, không ngờ các hạ quay lại thật!
+16|Xin lỗi đã để các hạ đợi lâu như vậy!
+17|Tại hạ tin các hạ nên chẳng bận tâm chút nào. Đừng khách sáo thế, bạn hiền.
+18|Nhờ phép thuật của tại hạ, chuyện ăn uống chẳng thành vấn đề.
+19|Chà, tại hạ không đói chút nào, nhưng...
+20|Ăn chút rau diếp không?
+21|Không, cảm ơn.
+22|Đồ ăn của các hạ chưa bao giờ hợp bụng tại hạ.
+23|Chà, miễn là các hạ và Momonosuke bình an...
+24|Phải, nhờ có các hạ cả đấy!
+25|Tốt. Mong sớm được gặp Momonosuke.
+26|Ừ, Momonosuke cũng mong được gặp các hạ lắm!
+27|Từ lần cuối gặp nhau đã xảy ra bao nhiêu chuyện, khó mà nói gọn được!
+28|Có nhiều chuyện phải kể lắm! Để sau tại hạ kể!
+29|Được, hiểu rồi! Ra khỏi đây thôi!
+30|Ra ngoài sao?
+31|Có cách ra khỏi đây à?
+32|Ông ta đang...?
+33|Vẽ gì đó à?
+34|Ra đây nào!
+35|Chim Sẻ Mùa Xuân!
+36|Cái gì?!
+37|Không thể nào!
+38|Bức vẽ của ông ta cử động kìa!
+39|Ông ta là người dùng Trái Ác Quỷ à?
+40|Hình con chim đó sống dậy rồi!
+41|Nhưng vẽ xấu quá...
+42|Năng lực thì đáng kinh ngạc,
+43|nhưng vì tay nghề vẽ, con chim sẻ đó có vẻ bay không giỏi lắm...
+44|Nào, Kin'emon, đi thôi!
+45|Ừm.
+46|Khoan đã!
+47|Bọn tôi là cựu binh của quân đội vua Riku và người dân từng sống dưới dạng đồ chơi...
+48|Bọn tôi không hiểu chuyện gì đang xảy ra, nhưng vua Riku có ổn không?!
+49|Gia đình bọn tôi đang ở trong thị trấn!
+50|Xin hãy đưa bọn tôi đi cùng! Tôi van các ngài!
+51|Quân Đấu trường
+52|Cung điện Hoàng gia
+53|Tầng 4
+54|Tầng 3
+55|Tầng 2
+56|Tầng 1
+57|Chặn Mũ Rơm và đồng bọn lại!
+58|Sao không nhắm vào bọn tao hả?!
+59|Máy Chém Gót Cao!
+60|Ồ, tên Chân Dài bị hạ rồi!
+61|Đừng ngoảnh lại, Mũ Rơm!
+62|Ta phải tới được Cung điện, nơi Doflamingo ở, bằng mọi giá!
+63|Nghe bài phát biểu của Doflamingo là tôi biết ngay!
+64|Đó là trò chơi để giết tôi.
+65|Giết hoặc bị giết.
+66|Mọi người trong đất nước này sẽ thành thợ săn!
+67|Cách duy nhất để sống sót là...
+68|...giết một ai đó!
+69|Trò chơi Lồng Chim này hoàn toàn là giả dối!
+70|Ngay khi vụ buôn lậu vũ khí và bí mật về đồ chơi bị lộ,
+71|tôi nghĩ mọi người đang ở đất nước này đều đã bị kết án tiêu diệt.
+72|Doflamingo sẽ không để bất kỳ thông tin nào lọt ra ngoài.
+73|Vì vậy hắn mới nhốt cả hòn đảo trong Lồng Chim.
+74|Nghĩa là giờ đây Dressrosa là...
+75|...một hòn đảo biệt lập, bị cắt đứt khỏi thế giới bên ngoài!
+76|Tin vào phép màu rồi chờ trò chơi kết thúc thì tất cả sẽ chết!
+77|Cách duy nhất để sống sót rời khỏi đảo là tiến lên và giết Doflamingo.
+78|Đất nước này đầy rẫy rắc rối...
+79|Bao nhiêu chuyện bất ngờ xảy ra quanh hắn,
+80|vậy mà có vẻ Doflamingo lại đang tận hưởng.
+81|Tôi chưa từng biết ai xảo quyệt hơn Doflamingo.
+82|Doflamingo hơn hẳn người khác về mọi mặt, nhưng hắn đã phạm một sai lầm!
+83|Hắn đã gom đám chiến binh kỳ quặc, cứng cựa từ khắp thế giới về cho sự kiện ở Đấu trường.
+84|Bọn ta sẽ không thua đâu!
+85|Vì dù sao thì, ta mới là người hạ Doflamingo!
+86|Cậu nói gì thế?! Tôi đã bảo tôi sẽ đánh cho Mingo một trận rồi mà!
+87|Tôi đã bảo là tôi mà, Mũ Rơm-ya!
+88|Rất đáng khen, nhưng người làm là ta!
+89|Ông lính! Ông bảo muốn giết một tên cán bộ mà!
+90|Đó là chuyện riêng! Giành lại đất nước cho vua Riku là bổn phận không thể chối bỏ của tôi!
+91|Tôi phải chấm dứt bi kịch bắt đầu từ 10 năm trước!
+92|Nói về thời gian thì tôi có mối hận từ 13 năm trước!
+93|Vậy thì của tôi là từ 30 năm trước!
+94|Xạo! Làm gì có chuyện cậu lớn tuổi hơn tôi!
+95|Các ngươi, xuống hết đi!
+96|Cậu xuống thì có!
+97|Hết đường rồi!
+98|Sắp tới rồi! Tầng ba!
+99|Được! Cứ thế lên thẳng tầng bốn!
+100|Ngựa ơi!
+101|Mấy con búp bê khổng lồ kia là gì vậy?!
+102|Trên đỉnh tượng Pica
+103|Zoro đấu Pica
+104|Sao mày dám nghĩ mình đủ sức giết Mũ Rơm?
+105|Thằng khốn!
+106|Chết tiệt!
+107|Chắc hắn chạy mất rồi!
+108|Pulpostone!
+109|Cái gì?!
+110|Sao mấy người lại đang bay vậy?!
+111|Zo-!
+112|Z-Z-Z-Z-Zoro-senpai!
+113|Ồ! A-Anh còn nhớ đã hứa cho tôi chữ ký không?!
+114|Đó là... Pica!
+115|Rebecca!
+116|Ai thế?
+117|Hắn là một trong các cán bộ cấp cao của gia tộc Donquixote, cùng với Trébol và Diamante!
+118|Zoro! Giữ chân kẻ địch giúp bọn tôi!
+119|Bọn tôi phải vượt qua bức tượng đá này!
+120|Cánh đồng hoa
+121|Vị trí hiện tại
+122|Làm được thôi, nhưng...
+123|Mà sao mấy người lại đang bay vậy...?
+124|Ồ? Kẻ địch chạy mất rồi à?!
+125|Không, hắn không chạy đâu!
+126|Ta sẽ không để các ngươi tới Cung điện!
+127|Hắn chui vào trong đó...
+128|Cái gì?!
+129|H-Hắn đang nhắm vào chúng ta!
+130|Phải rồi! Kết giới của cậu!
+131|Tôi không dựng nổi kết giới đỡ được cú đấm khổng lồ đó!
+132|Không! Nhưng nếu không làm gì thì ta sẽ...
+133|...bị thổi bay mất!
+134|Tam Kiếm Phái!
+135|Phượng Hoàng 1080 Pound!
+136|Tao bắt đầu hiểu năng lực của mày rồi đấy!
+137|Tao quên nói với mày một chuyện.
+138|Băng Mũ Rơm...
+139|...không chỉ có Luffy Mũ Rơm và Thần Usopp.
+140|Đừng có quên!
+141|Tao là người được định sẵn sẽ trở thành kiếm sĩ mạnh nhất thế giới!
+142|Zoro-senpai!
+143|Sâu dưới cảng giao thương
+144|Tháp cán bộ
+145|Bãi phế liệu
+146|Tuyệt quá!
+147|Cảm ơn ngài, samurai!
+148|Cuối cùng cũng ra khỏi đây được rồi!
+149|Lần lượt từng người trèo ra!
+150|Thang vẽ nên dễ gãy lắm!
+151|Nét vẽ không thẳng nên khó trèo quá!
+152|Đừng có than nữa! Mặt dày thật đấy!
+153|Bên trong nhà máy SMILE
+154|Lũ tí hon nổi loạn rồi!
+155|Trấn áp chúng!
+156|Không được! Bọn tôi không khống chế nổi chúng!
+157|Đừng bỏ cuộc! Cứ bắn tiếp đi!
+158|Bọn tôi sẽ không trúng đạn của kẻ xấu đâu!
+159|K-Khoan! Bọn mày không lo cho công chúa Mansherry à?!
+160|Hả?
+161|Nếu bọn mày ra khỏi đây, công chúa Mansherry sẽ không bao giờ khỏi bệnh!
+162|N-Như vậy thì không được!
+163|Không! Đừng nghe chúng, Chao!
+164|Được rồi, hiểu rồi thì thôi đánh đi, ngoan ngoãn nghe lời bọn tao...
+165|Hả?!
+166|Tôi nhét nút tai rồi nên chẳng nghe thấy lời dối trá ngu ngốc của các người nữa đâu!
+167|Đòn Vung Tontatta!
+168|Báo cho Thiếu chủ-sama!
+169|R-Rõ!
+170|Không được đâu!
+171|Đuôi Tontatta...
+172|Búa Bốn Người!
+173|Mọi người! Thả hết ốc sên truyền tin của chúng đi để chúng không gọi viện binh được!
+174|Có nghe không đấy?!
+175|Hả?
+176|Nút tai!
+177|Cận vệ của công chúa - Mouji
+178|May là bệnh của công chúa chỉ là lời nói dối!
+179|Nhưng suốt thời gian qua công chúa phải ở một mình trong nhà máy...
+180|Tôi hiểu mà!
+181|Mouji... Mouji tôi hiểu cảm giác của các cậu!
+182|Khoan đã!
+183|Tôi biết giờ công chúa đang khóc!
+184|Công chúa đang khóc và gọi tên tôi!
+185|Hả?
+186|Mouji!
+187|Kia là phòng cách ly! Công chúa Mansherry chắc chắn ở trong đó!
+188|Tôi sẽ cứu công chúa ngay đây!
+189|Ồ, khoan một chút!
+190|Sao lại cản tôi?!
+191|Nhìn tấm biển kia kìa!
+192|Ghi là "Cấm vào"! Chúng ta không được vào!
+193|Hả?! Thế thì phải nói sớm chứ!
+194|Giờ tôi không dừng lại được nữa!
+195|Mouji phá tung cánh cửa có biển "Cấm vào" rồi!
+196|Tôi thất vọng về cậu quá!
+197|Biển đó nghĩa là không được tự ý vào mà!
+198|Tôi xin lỗi...
+199|Trong này không có ai! Chỉ là nhà kho thôi à?
+200|Sẵn sàng chưa?!
+201|Bắt đầu nào!
+202|Nhanh lên!
+203|Trước nhà máy SMILE
+204|Ồ! Senor dai dẳng quá!
+205|Sắp được rồi!
+206|Tai Franky
+207|Tai Franky.
+208|Franky sinh ra đã có đôi tai thính.
+209|Này, gã bơi lội...
+210|Không phải chuyện của mày, nhưng...
+211|...lúc nãy...
+212|tao thấy một bà cụ yếu ớt đang gặp khó khăn ở con hẻm bên phải...
+213|Thế à? Tội nghiệp thật.
+214|Xoay bánh xe mở cửa ra!
+215|Đứng lại đó! Lũ tép riu!
+216|Quản đốc nhà máy SMILE - Kuween (20 tuổi, nữ)
+217|Bọn mày được đằng chân lân đằng đầu rồi đấy!
+218|Tao không để bọn mày ra ngoài đâu!
+219|Không! Là quản đốc nhà máy!
+220|Ngay từ đầu bọn mày đã là nô lệ để sản xuất SMILE rồi!
+221|Giờ mới nhận ra à?!
+222|Đừng có làm loạn như lũ ngốc nữa!
+223|Không làm gì thì chúng ta sẽ bị bắt hết!
+224|Mở cửa ra mau!
+225|Làm tốt lắm. Mọi người!
+226|Là robot!
+227|Một con robot đến cứu chúng ta!
+228|Cảm ơn!
+229|Robot!
+230|Ngầu quá!
+231|Mọi người có sao không?!
+232|Mọi người thế nào rồi?!
+233|Bọn tôi đến cứu mọi người đây!
+234|Cứu... chúng tôi sao?
+235|T-Tôi mừng cho mọi người quá!
+236|Cảm ơn, Robot-san!
+237|Anh ấy không phải robot!
+238|Anh ấy là ân nhân của chúng ta, một người to lớn - Fraland!
+239|Người to lớn sao?!
+240|Công chúa Mansherry là người thế nào?
+241|Công chúa Mansherry là...
+242|Lũ ngốc!
+243|Dám lờ tao đi lâu như vậy!
+244|Nhà máy
+245|chính là
+246|sinh mạng của tao!
+247|Tao là quản đốc nhà máy. Tao là người quyền lực nhất ở đây!
+248|Mày là Cyborg Franky của băng Mũ Rơm, phải không?
+249|Mày chỉ là tội phạm một sao. Sao sống sót tới được đây?
+250|Mày đã làm gì Pink-sama?
+251|Gã ngốc đó à?
+252|Dù sao thì tao cũng không để mày muốn làm gì thì làm trong nhà máy này!
+253|Tao sẽ lấy mạng mày!
+254|Cẩn thận! Chạy đi, Fraland!
+255|Fraland ôm chầm lấy quản đốc nhà máy!
+256|N-Này, chuyện gì thế?! Mày làm gì vậy?! Buông tao ra!
+257|Fraland phải lòng cô ta rồi à?!
+258|Tên cyborg ngốc đó, dám lừa ta!
+259|Chẳng có bà cụ nào gặp khó khăn cả.
+260|Chà, biết vậy ta cũng yên tâm.
+261|Ồ! Rắn rỏi quá!
+262|Senor Pink! Tao sẵn sàng rồi! Lúc nào cũng được!
+263|Này, đừng có làm loạn thuần phong mỹ tục trong nhà máy!
+264|Tên khốn đó cứ quật tao bằng suplex!
+265|Hắn định lấy gáy tao đào suối nước nóng hay sao?!
+266|Mày nói cái gì vậy?!
+267|Chết đi!
+268|Đấm Tai Mèo!
+269|Franky Southland Suplex!
+270|Không! Quản đốc...
+271|Đau đấy, thằng khốn! Sao dám dùng đầu tao làm búa?!
+272|Dám đối xử với tao tàn nhẫn thế à!
+273|Tao là quản đốc nhà máy! Tao là người quyền lực nhất ở đây!
+274|Một khi cô ta nổi điên thì không ai cản nổi!
+275|Chạy đi, Fraland!
+276|Tao sẽ băm xác mày, hút ruột gan mày bằng máy hút bụi rồi nện nát ra!
+277|Sao mày không khóc như con nít đi, đồ...
+278|Fraland hôn quản đốc nhà máy rồi!
+279|A-Anh ấy hôn...
+280|Thằng này vừa cướp nụ hôn của tao...
+281|Giờ thì đứng dậy đi, đồ bơi lội ngốc nghếch!
+282|N-Này!
+283|Khoan đã! Mày nghĩ cái gì vậy hả?!
+284|Sao mày lại làm thế?!
+285|L-Là đàn ông thì chịu trách nhiệm đi, làm bạn trai tao đi!
+286|Đồ ngốc!
+287|Quản đốc vừa nữ tính hơn một chút...
+288|Đừng trách hắn, quản đốc.
+289|Hả?
+290|Cô đã xen vào. Là lỗi của cô.
+291|Pink-sama! Nhưng...
+292|Cô xen vào trận đấu giữa những người đàn ông.
+293|Phụ nữ làm thế thì còn cách nào khác để khóa miệng cô ta chứ?
+294|Làm ầm lên vì một hai nụ hôn chỉ cho thấy cô là một con nhóc non nớt.
+295|Nên đừng có nói chuyện yêu đương hay mấy thứ đó!
+296|Đúng vậy.
+297|Yêu đương với một con nhóc như thế...
+298|...chắc tao phát điên mất!
+299|Rắn rỏi quá!
+300|Senor! Franky!
+301|Hai người đúng là rắn rỏi!
+302|Ta sẽ không để mày phá nhà máy!
+303|Chứng minh bằng nắm đấm đi! Nếu là đàn ông!
+304|Bắt đầu rồi! Trận đấu của những người đàn ông!
+305|Bom Tã Lót!
+306|Đèn Đầu Ti Đặc Biệt!
+307|Trước tượng Pica trên cao nguyên Cung điện
+308|Hết trốn trong đá rồi à?
+309|Dám để Rebecca và đám kia chạy thoát!
+310|Cảm ơn! Không có anh thì không làm được.
+311|Đừng tưởng lũ khốn như các ngươi thoát được khỏi đất nước này!
+312|Sắp tới tầng hai rồi! Cẩn thận chỗ đáp nhé!
+313|Reng reng reng... Reng reng reng... Cạch.
+314|A lô, Leo đây.
+315|Mouji đây!
+316|Mouji! Mừng quá khi nghe tin cậu!
+317|Vậy là bạn bè ta được giải thoát rồi!
+318|Nhưng Leo, có chuyện lớn rồi...
+319|Chuyện gì thế?
+320|Công chúa... Công chúa Mansherry...
+321|...không có ở đâu trong nhà máy cả!
+322|Cái gì?!
+323|Tội nghiệp công chúa...
+324|Chắc là đang bị nhốt ở đâu đó, khóc gọi "Mouji! Mouji!"
+325|Không...
+326|Tới Cao nguyên của Lão Vương!
+327|Yeah!!
+328|Bắt vua Riku và Thần Usopp!
+329|Cao nguyên của Cựu vương
+330|Đ-Đừng sợ. Chúng không trèo lên đây dễ vậy đâu...
+331|Giết Thần Usopp!
+332|Phụ vương, con vừa nhận được cuộc gọi từ người Tontatta trong nhà máy!
+333|Ồ, họ ổn chứ?!
+334|Vâng.
+335|Nhưng họ nói không tìm thấy công chúa Mansherry ở đâu cả.
+336|Cái gì?!
+337|Mấy người đang nói gì vậy?!
+338|Cả đất nước đang truy lùng bọn mình đấy!
+339|Chạy ngay thôi!
+340|Cả đất nước đang truy lùng cậu thì cậu định chạy đi đâu?
+341|Sẽ ổn thôi.
+342|Họ đã biết sự thật về quá khứ.
+343|Họ sẽ không làm hại Phụ vương đâu.
+344|Thế còn tôi?
+345|Nếu chúng giấu công chúa Mansherry ở chỗ khác, chắc chắn là trong Cung điện.
+346|Cô ấy phải ở đâu đó. Lục tung mọi ngóc ngách đi.
+347|Tôi không nghĩ Doflamingo đã giết Mansherry.
+348|Tôi biết hắn cần năng lực của cô ấy.
+349|Dù giờ chúng ta còn cần năng lực đó hơn hắn...
+350|Cung điện Hoàng gia
+351|Một căn phòng nọ
+352|Đây. Đồ ăn của cô.
+353|Tôi muốn về Green Bit!
+354|Đến cứu tôi ngay đi!
+355|Leo!

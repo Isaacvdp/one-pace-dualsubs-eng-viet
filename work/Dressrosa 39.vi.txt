@@ -1,0 +1,3406 @@
+1|Dressrosa - Nhà máy SMILE
+2|Nào, các cậu!
+3|Sẵn sàng chưa?!
+4|Rồi!
+5|Cái nhà máy đê tiện đã gây bao đau khổ cho người Tontatta các cậu...
+6|...đập sập nó đi!
+7|Đi thôi!
+8|Cảm ơn anh, Fraland!
+9|Người Tontatta, chúc may mắn...
+10|Chuyện rối ren trên đó giao cho cậu đấy...
+11|Luffy.
+12|Cứu người bị thương trước! Gọi đội cứu hộ!
+13|Rõ!
+14|Khuôn viên Hoàng cung
+15|Showtime!
+16|Bán Nguyệt...
+17|Trảm!
+18|Bậc thứ tư - Cánh đồng hoa hướng dương
+19|Kyros!
+20|Kyros vs. Diamante
+21|Vừa nãy ngươi còn nổi điên lao vào ta.
+22|Ngươi quên thân phận mình rồi à?
+23|Ngươi tưởng ta chỉ là một đấu sĩ bò tót tài năng biết làm mọi thứ gợn sóng thôi à?!
+24|Ngươi đâu thể mãi là đấu sĩ mạnh nhất Đấu trường!
+25|Tài năng của ta là không thể chối cãi.
+26|Người hùng hiện tại của Đấu trường là ta, Diamante-sama!
+27|Ta chẳng quan tâm danh hiệu đó!
+28|Tất nhiên, gợn sóng cũng giúp được phần nào.
+29|Cha!
+30|Khá lắm! Suýt nữa thì trúng ta rồi!
+31|Chà, tất nhiên là phải thế này rồi.
+32|Ngươi đã chạy khắp đất nước cả ngày,
+33|rồi đấu với ta trên đấu trường gợn sóng này mà vẫn phải bảo vệ con gái!
+34|Lại còn chỉ có một chân nữa chứ!
+35|Người thường thì đã gục từ lâu rồi.
+36|Đừng bận tâm về cái chân của ta.
+37|Nếu muốn lấy nó làm cớ, ta đã chẳng đến chiến trường này!
+38|Ta tự hào về cái chân đã mất! Ta hy sinh nó vì người đã cứu mạng ta!
+39|Ra vậy. Thế thì ta sẽ vui vẻ nhắm vào điểm yếu của ngươi.
+40|Ngươi đã kiệt sức thế này, giết theo kiểu thông thường thì chán lắm.
+41|Chơi một trò chơi nhé?!
+42|Màn trình diễn cuối cùng!
+43|Đó là...
+44|Hoa giấy?
+45|Đúng vậy!
+46|Thứ trông như giấy, nhờ năng lực gợn sóng của ta.
+47|Và giờ, ta sẽ giải trừ năng lực.
+48|Giải Trừ Gợn Sóng!
+49|Những quả cầu sắt gai!
+50|Ngắm vẻ đẹp của chúng đi! Như bụi sao vậy!
+51|Robin-san!
+52|Có vẻ không tránh được rồi.
+53|Robiland, hãy bảo vệ Rebecca!
+54|Chỉ huy-san, ông cũng đang gặp nguy mà!
+55|Tôi sẽ ổn thôi!
+56|Hoảng rồi à. Nhạy bén đấy.
+57|Phải, bụi sao này có thể tàn sát cả một đạo quân!
+58|Sống sót được thì đúng là phép màu.
+59|May mà chúng ta đang ở Cánh đồng hoa hướng dương.
+60|Mil Fleur!
+61|Nghìn Hoa
+62|Xin lỗi vì phải hái những bông hoa tuyệt đẹp này.
+63|Cứ vùng vẫy tùy thích!
+64|Adios!
+65|Death Enjambre!
+66|Bầy Tử Thần
+67|Ô Hoa!
+68|Suýt nữa thì nguy!
+69|Ồ? Ấn tượng đấy.
+70|Chú ý vào!
+71|Kyros!
+72|Một đạo quân mà gục trước đòn thế này thì đúng là thảm hại!
+73|Điên thật!
+74|Ông ấy gạt từng quả cầu sắt gai một!
+75|Không lẽ ông ấy đi qua cơn mưa mà chẳng ướt chút nào?!
+76|Chết tiệt!
+77|Cha!
+78|Coi chừng phía trên, Kyros!
+79|Đồ hậu đậu! Sao lại vấp ngã lúc này?
+80|Diamante khốn kiếp! Tao sẽ giết mày!
+81|Không được, Rebecca! Chúng vẫn đang rơi!
+82|Cha!
+83|Mày sẽ phải trả giá!
+84|Mày sẽ phải trả giá cho tất cả, Diamante!
+85|Nói hay lắm, Rebecca! Nào, bắt ta trả giá đi!
+86|Đấu với ta! Ta sẽ tự tay giết ngươi!
+87|Giống như ta đã giết mẹ ngươi!
+88|Buông tôi ra, Robin-san! Tôi sẽ giết hắn!
+89|Còn kéo dài tới bao giờ nữa?! Ô Hoa không chịu nổi nữa rồi!
+90|Diamante!
+91|Đây là trận đấu của cha, Rebecca!
+92|Buông...
+93|...kiếm xuống!
+94|Suốt cả một thập kỷ...
+95|Cha! Vào dưới ô đi! Cha sẽ chết mất!
+96|...con đã làm theo ước nguyện của mẹ con!
+97|Mẹ nói làm người khác đau là xấu.
+98|Ta dạy con điều này để con không bị thương.
+99|Cô ấy chưa từng làm ai bị thương,
+100|và thắng mọi trận bằng cách đẩy đối thủ ra khỏi võ đài!
+101|Người phụ nữ bất bại!
+102|Không chém nổi kẻ thù mà dám tự xưng là người thắng à?!
+103|Đổ máu đi chứ, Rebecca!
+104|Đồ hèn!
+105|Trận đó đúng là nỗi ô nhục!
+106|Mày là nỗi nhục của tất cả đấu sĩ!
+107|Chết quách đi, Rebecca!
+108|Cả nhà mày là lũ quái vật!
+109|Con ả mang dòng máu dơ bẩn!
+110|Con đã chiến đấu ở Đấu trường, nhưng vẫn chưa làm ai bị thương!
+111|Đôi tay con vẫn còn trong sạch!
+112|Đó là đôi tay...
+113|...mang linh hồn của mẹ con, Scarlett!
+114|Mẹ...
+115|Sau bao nỗ lực của con, không cần phải nhuốm chúng bằng máu của một con quỷ như hắn.
+116|Rebecca!
+117|Cha sẽ đảm bảo con không bao giờ phải vung kiếm nữa!
+118|Kyros!
+119|Ngươi làm bằng sắt à?!
+120|Không, gã này điên vượt mức rồi...
+121|Nỗi đau...
+122|Nỗi đau là bằng chứng ta là con người!
+123|Lũ các ngươi sẽ không bao giờ hiểu...
+124|Nỗi tuyệt vọng khi bị chính người mình yêu lãng quên!
+125|Scarlett!
+126|Tại sao? Sao em không đợi anh?!
+127|Phải rồi.
+128|Hẳn anh cũng đã biến mất khỏi tâm trí em.
+129|Cả lời hứa của chúng ta... lẫn quãng thời gian bên nhau...
+130|Tôi không biết anh là ai...
+131|Là anh đây! Kyros đây!
+132|Làm ơn...
+133|Với đôi tay thiếc này, anh còn chẳng cảm nhận được hơi ấm đang tàn phai của em!
+134|Lũ các ngươi không hiểu đâu...
+135|Nỗi đau đớn khi không cảm nhận được bất cứ thứ gì mình chạm vào!
+136|Hay những bi kịch đã giáng xuống Dressrosa... So với chúng,
+137|thì thế này chẳng là đau đớn gì cả!
+138|Nếu ngươi muốn nói ta làm bằng thứ gì,
+139|thì ta sẽ trở thành hiện thân cơn thịnh nộ của đất nước này...
+140|...và hạ gục ngươi!
+141|Sao hắn lại mạnh thế này?!
+142|Thời hoàng kim của ngươi là hai mươi năm trước rồi!
+143|Đừng xem thường kiếm thuật thật sự của ta!
+144|Ngươi vẫn chưa chết à?! Đồ quái vật khốn kiếp!
+145|Vừa đúng lúc cơn mưa sắt tạnh.
+146|Ta sẽ tự tay giết ngươi để kết thúc chuyện này.
+147|Giống như Scarlett mà hai người yêu thương!
+148|Diamante, đồ ác quỷ!
+149|Sao ngươi dám nhắc tới chị ta lần nữa!
+150|Diamante khốn kiếp!
+151|Thần xin lỗi, Vua Riku!
+152|Chúng thần đã tìm hết sức nhưng vô ích! Một kẻ tên Diamante đã tới trước,
+153|và chúng thần thấy Scarlett-sama nằm giữa đường,
+154|bị bắn chết!
+155|Ngươi đã giết chị ta?!
+156|À phải, nó là chị gái ngươi!
+157|Nó đang mua thức ăn ở chợ trong thị trấn.
+158|Nếu con ngốc đó nhịn được cơn đói thì đã chẳng phải chết!
+159|Buông ta ra, Tank!
+160|Xin dừng lại! Đừng làm gì liều lĩnh!
+161|Ta không chịu nổi nữa!
+162|Chúng tôi cũng sẽ ở lại hoàng cung.
+163|Để bảo vệ người!
+164|Diamante!
+165|Đòn của ta xé toạc cả mặt đất!
+166|Đỡ này, và này!
+167|Đây!
+168|Mong là ngươi né được đòn của ta...
+169|...với một cái chân bị bắn nát!
+170|Ta không có ý định né!
+171|Không né thì ngươi chỉ là thằng ngốc!
+172|Ta sẽ mang hòa bình trở lại!
+173|Bán Nguyệt Trảm!
+174|Trueno...
+175|Sấm Sét
+176|Bastardo!
+177|Khốn Kiếp
+178|Tôi nợ cô một lần, Robiland.
+179|Cha!
+180|Cha, phải chữa vết thương cho cha đã!
+181|Cha đã không bảo vệ được mẹ con, nhưng cha sẽ bảo vệ con bằng cả mạng sống.
+182|Cho đến ngày con tìm được hạnh phúc thật sự, cha sẽ luôn ở bên con.
+183|Ông ấy hạ được Diamante rồi!
+184|Ông ấy hạ được cả Diamante sao?
+185|Thật vậy sao, Viola-sama?!
+186|Đúng vậy! Kyros thắng rồi!
+187|Rebecca cũng không sao.
+188|Nico Robin đã bảo vệ con bé.
+189|Không ngờ ông ấy hạ được một trong các cán bộ cấp cao của gia tộc Donquixote!
+190|Ông ấy hạ được người hùng của Đấu trường...
+191|Thật vô lý!
+192|Kyros mới là người hùng bất bại đầu tiên của Đấu trường!
+193|Bọn mình cứ tưởng không ai đánh bại được gia tộc Donquixote...
+194|...nhưng chúng đang lần lượt gục ngã!
+195|Kyros.
+196|Quân đoàn trưởng Kyros!
+197|Senor Pink đã thua trận ở nhà máy...
+198|và nhiều kẻ khác của gia tộc Donquixote đã bị các chiến binh phe Luffy Mũ Rơm đánh bại.
+199|Gia tộc Donquixote chỉ còn lại bốn đối thủ lớn!
+200|Linh Cẩu Bellamy...
+201|Và hai cán bộ cấp cao, Pica và Trébol!
+202|Và...
+203|...đương kim quốc vương, một trong Thất Vũ Hải, Doflamingo!
+204|Bộ Tứ Cuối Cùng!
+205|Không ngờ họ lại tiến xa đến thế!
+206|Băng Mũ Rơm đúng là phi thường!
+207|Không ngờ chúng ta lại định giết họ để tự cứu mình!
+208|Chà, như người ta nói, ai cũng có lúc sai lầm!
+209|Miễn các ngươi biết lỗi, ta sẽ tha thứ!
+210|Lão vương Riku, ngài định đi đâu vậy?
+211|Ta nghĩ giờ sẽ chẳng ai định giết ta nữa.
+212|Ta sẽ xuống thị trấn.
+213|Chắc hẳn vẫn còn việc ta làm được.
+214|Thần xin đi theo ngài!
+215|Ta không muốn trông cậy vào Chính phủ hay Hải Quân!
+216|Mọi người đều mất hết hy vọng rồi.
+217|Họ nghĩ không có lối thoát khỏi cái lồng chim này, trò chơi chết chóc này!
+218|Chúng ta cũng nên đi!
+219|Hãy nói với mọi người trong thị trấn rằng vẫn còn hy vọng!
+220|Có vẻ thế cờ đã bắt đầu xoay chuyển.
+221|Đô đốc Hải Quân đi đâu rồi?
+222|Cậu không để ý sao?
+223|Ngài ấy đã xuống mặt đất từ lâu rồi.
+224|Hãy tập hợp toàn bộ người dân vào một chỗ.
+225|Nơi chúng ta có thể bảo vệ họ.
+226|Rõ, thưa ngài!
+227|Cao nguyên Hoàng cung
+228|Hắn...
+229|Thằng khốn đó...
+230|Bậc thứ tư - Cánh đồng hoa hướng dương
+231|Cha, mấy chấn động này là gì vậy?
+232|Rebecca!
+233|Đó là...
+234|Chẳng phải Zoro đang cầm chân hắn sao? Pica!
+235|Diamante...
+236|Thảm hại quá cho một cán bộ cấp cao của gia tộc.
+237|Cha!
+238|Đáng lẽ ta phải đoán được.
+239|Bọn ta tới đây đâu phải để đấu tay đôi!
+240|Chừng nào kẻ thù còn đứng vững, trận chiến chưa kết thúc!
+241|Đừng cố quá, Cha! Cha còn không cử động được.
+242|Lùi lại, Rebecca!
+243|Ta phải hỏi điều này.
+244|Vua Riku là gì đối với các ngươi?
+245|Rebecca, ngươi đã phải chịu sự chế giễu không ngớt vì lão.
+246|Nếu không có lão...
+247|Nói nhảm! Chính các ngươi đã gài bẫy ngài ấy!
+248|Vua Riku là cha vợ của ta,
+249|người đã đứng về phía ta từ hồi ta còn là kẻ côn đồ!
+250|Gia tộc Riku được cả thế giới kính trọng là gia tộc hiểu ý nghĩa thật sự của hòa bình!
+251|Bầu trời trong xanh, hoa nở rộ...
+252|Một đất nước tuyệt vời tràn đầy những trái tim hiền hậu!
+253|Đó mới là Dressrosa thật sự!
+254|Đuổi lũ thú vật các ngươi đi và đưa ngài trở lại ngai vàng là nguyện vọng của cả đất nước lúc này!
+255|Ta hiểu rồi.
+256|Hả? Hắn biến mất rồi?
+257|Charlestone!
+258|C-Cái quái gì vậy?! Làm tao hết hồn!
+259|Giờ hắn ở tầng ba rồi!
+260|Bậc thứ hai
+261|Thằng khốn đó! Đáng lẽ mày phải đánh với tao chứ!
+262|Hắn có muốn đánh hay không vậy?!
+263|Dù sao thì hắn cứ di chuyển trong cao nguyên thế này, mình không với tới được.
+264|Vào tầm rồi thì chuẩn bị chết đi!
+265|Charlestone!
+266|Pica-sama, xin dừng lại!
+267|Pica-sama!
+268|Cứu với!
+269|Thằng khốn đó! Hắn tấn công cả người bị thương!
+270|Ngươi đã phản bội bọn ta, Baby 5!
+271|Cối Xay Thép!
+272|Coi chừng!
+273|Sai!
+274|Charlestone!
+275|Thằng khốn đó!
+276|Thằng khốn bằng đá!
+277|Đủ rồi đấy! Đừng nhắm vào người bị thương nữa!
+278|Roronoa.
+279|Đá Cắn!
+280|Nhất Kiếm Phái... Quỷ Mã!
+281|Này, Roronoa Zoro...
+282|Ngươi có biết ai đang ở Cao nguyên Hoàng gia cũ không?
+283|Vua của đất nước này!
+284|Cựu vương!
+285|Mày định nói gì hả?!
+286|Ở Cao nguyên Hoàng gia cũ,
+287|có các cựu quan chức cấp cao của đất nước này,
+288|cùng với đám samurai và Thần Usopp.
+289|Ta nghe nói cả nước đều mong Vua Riku phục vị.
+290|Thì sao?!
+291|Điều đó làm ta ngứa mắt! Doffy mới là vị vua duy nhất!
+292|Cái gì...
+293|Thằng khốn!
+294|Nó lại cử động rồi!
+295|H-Hắn định làm gì vậy?!
+296|Đây là đất nước của Donquixote!
+297|Nó đang đi kìa!
+298|Chạy đi!
+299|Bức tượng cử động rồi! Chạy! Chạy mau!
+300|Khoan khoan, đừng nói là...
+301|Thằng khốn đó!
+302|Vậy là hắn định xử lão vua à?!
+303|Khốn kiếp!
+304|Thì ra đó là lý do hắn dụ mình ra tận đây!
+305|Mình không đuổi kịp hắn!
+306|Bị hắn chơi một vố rồi! Phải làm gì đó, không thì...
+307|Chỉ một cú đấm là hắn đập nát Cao nguyên Hoàng gia!
+308|Usopp và lão vua sẽ bị đè chết!
+309|Có cách nào ngăn nó không?
+310|Thợ Săn Hải Tặc!
+311|Bọn tao không để mày cản đường Pica-sama đâu!
+312|Phiền phức!
+313|Zoro!
+314|Không ổn rồi!
+315|Nếu để hắn đi, hắn sẽ...
+316|Ông ngoại!
+317|Usopp!
+318|Thằng khốn đó!
+319|KẾ HOẠCH 1
+320|Kế hoạch 1.
+321|KẾ HOẠCH 1
+322|KẾ HOẠCH 1
+323|KẾ HOẠCH 1
+324|CHÉM TỪ XA
+325|KẾ HOẠCH 1
+326|CHÉM TỪ XA
+327|KẾ HOẠCH 1
+328|CHÉM TỪ XA
+329|KẾ HOẠCH 1
+330|CHÉM TỪ XA
+331|KẾ HOẠCH 1
+332|CHÉM TỪ XA
+333|KẾ HOẠCH 1
+334|CHÉM TỪ XA
+335|KẾ HOẠCH 1
+336|CHÉM TỪ XA
+337|KẾ HOẠCH 1
+338|CHÉM TỪ XA
+339|KẾ HOẠCH 1
+340|CHÉM TỪ XA
+341|KẾ HOẠCH 1
+342|CHÉM TỪ XA
+343|KẾ HOẠCH 1
+344|CHÉM TỪ XA
+345|KẾ HOẠCH 1
+346|CHÉM TỪ XA
+347|KẾ HOẠCH 1
+348|CHÉM TỪ XA
+349|KẾ HOẠCH 1
+350|CHÉM TỪ XA
+351|KẾ HOẠCH 1
+352|CHÉM TỪ XA
+353|KẾ HOẠCH 1
+354|CHÉM TỪ XA
+355|KẾ HOẠCH 1
+356|CHÉM TỪ XA
+357|KẾ HOẠCH 1
+358|CHÉM TỪ XA
+359|KẾ HOẠCH 1
+360|CHÉM TỪ XA
+361|KẾ HOẠCH 1
+362|CHÉM TỪ XA
+363|KẾ HOẠCH 1
+364|CHÉM TỪ XA
+365|KẾ HOẠCH 1
+366|CHÉM TỪ XA
+367|KẾ HOẠCH 1
+368|CHÉM TỪ XA
+369|KẾ HOẠCH 1
+370|CHÉM TỪ XA
+371|KẾ HOẠCH 1
+372|CHÉM TỪ XA
+373|KẾ HOẠCH 1
+374|CHÉM TỪ XA
+375|KẾ HOẠCH 1
+376|CHÉM TỪ XA
+377|KẾ HOẠCH 1
+378|CHÉM TỪ XA
+379|Chém từ xa.
+380|KẾ HOẠCH 1
+381|CHÉM TỪ XA
+382|KẾ HOẠCH 1
+383|CHÉM TỪ XA
+384|KẾ HOẠCH 1
+385|CHÉM TỪ XA
+386|KẾ HOẠCH 1
+387|CHÉM TỪ XA
+388|KẾ HOẠCH 1
+389|CHÉM TỪ XA
+390|KẾ HOẠCH 1
+391|CHÉM TỪ XA
+392|KẾ HOẠCH 1
+393|CHÉM TỪ XA
+394|KẾ HOẠCH 1
+395|CHÉM TỪ XA
+396|KẾ HOẠCH 1
+397|CHÉM TỪ XA
+398|KẾ HOẠCH 1
+399|CHÉM TỪ XA
+400|KẾ HOẠCH 1
+401|CHÉM TỪ XA
+402|KẾ HOẠCH 1
+403|CHÉM TỪ XA
+404|KẾ HOẠCH 1
+405|CHÉM TỪ XA
+406|KẾ HOẠCH 1
+407|CHÉM TỪ XA
+408|KẾ HOẠCH 1
+409|CHÉM TỪ XA
+410|KẾ HOẠCH 1
+411|CHÉM TỪ XA
+412|KẾ HOẠCH 1
+413|CHÉM TỪ XA
+414|KẾ HOẠCH 1
+415|CHÉM TỪ XA
+416|KẾ HOẠCH 1
+417|CHÉM TỪ XA
+418|KẾ HOẠCH 1
+419|CHÉM TỪ XA
+420|KẾ HOẠCH 1
+421|CHÉM TỪ XA
+422|KẾ HOẠCH 1
+423|CHÉM TỪ XA
+424|KẾ HOẠCH 1
+425|CHÉM TỪ XA
+426|KẾ HOẠCH 1
+427|CHÉM TỪ XA
+428|KẾ HOẠCH 1
+429|CHÉM TỪ XA
+430|KẾ HOẠCH 1
+431|CHÉM TỪ XA
+432|KẾ HOẠCH 1
+433|CHÉM TỪ XA
+434|KẾ HOẠCH 1
+435|CHÉM TỪ XA
+436|KẾ HOẠCH 1
+437|CHÉM TỪ XA
+438|KẾ HOẠCH 1
+439|CHÉM TỪ XA
+440|KẾ HOẠCH 1
+441|CHÉM TỪ XA
+442|KẾ HOẠCH 1
+443|CHÉM TỪ XA
+444|KẾ HOẠCH 1
+445|CHÉM TỪ XA
+446|KẾ HOẠCH 1
+447|CHÉM TỪ XA
+448|KẾ HOẠCH 1
+449|CHÉM TỪ XA
+450|KẾ HOẠCH 1
+451|CHÉM TỪ XA
+452|KẾ HOẠCH 1
+453|CHÉM TỪ XA
+454|KẾ HOẠCH 1
+455|CHÉM TỪ XA
+456|KẾ HOẠCH 1
+457|CHÉM TỪ XA
+458|KẾ HOẠCH 1
+459|CHÉM TỪ XA
+460|KẾ HOẠCH 1
+461|CHÉM TỪ XA
+462|KẾ HOẠCH 1
+463|CHÉM TỪ XA
+464|KẾ HOẠCH 1
+465|CHÉM TỪ XA
+466|KẾ HOẠCH 1
+467|CHÉM TỪ XA
+468|KẾ HOẠCH 1
+469|CHÉM TỪ XA
+470|KẾ HOẠCH 1
+471|CHÉM TỪ XA
+472|KẾ HOẠCH 1
+473|CHÉM TỪ XA
+474|KẾ HOẠCH 1
+475|CHÉM TỪ XA
+476|KẾ HOẠCH 1
+477|CHÉM TỪ XA
+478|KẾ HOẠCH 1
+479|CHÉM TỪ XA
+480|KẾ HOẠCH 1
+481|CHÉM TỪ XA
+482|KẾ HOẠCH 1
+483|CHÉM TỪ XA
+484|KẾ HOẠCH 1
+485|CHÉM TỪ XA
+486|KẾ HOẠCH 1
+487|CHÉM TỪ XA
+488|KẾ HOẠCH 1
+489|CHÉM TỪ XA
+490|KẾ HOẠCH 1
+491|CHÉM TỪ XA
+492|KẾ HOẠCH 1
+493|CHÉM TỪ XA
+494|KẾ HOẠCH 1
+495|CHÉM TỪ XA
+496|KẾ HOẠCH 1
+497|CHÉM TỪ XA
+498|KẾ HOẠCH 1
+499|CHÉM TỪ XA
+500|KẾ HOẠCH 1
+501|CHÉM TỪ XA
+502|KẾ HOẠCH 1
+503|CHÉM TỪ XA
+504|KẾ HOẠCH 1
+505|CHÉM TỪ XA
+506|KẾ HOẠCH 1
+507|CHÉM TỪ XA
+508|KẾ HOẠCH 1
+509|CHÉM TỪ XA
+510|KẾ HOẠCH 1
+511|CHÉM TỪ XA
+512|KẾ HOẠCH 1
+513|CHÉM TỪ XA
+514|KẾ HOẠCH 1
+515|CHÉM TỪ XA
+516|KẾ HOẠCH 1
+517|CHÉM TỪ XA
+518|Không, ở tầm đó thì quá yếu.
+519|Không hạ được hắn.
+520|LÊN
+521|NHẢY
+522|KẾ HOẠCH 2
+523|NGƯỜI HẮN
+524|Kế hoạch 2.
+525|Nhảy lên người hắn.
+526|Ừ, không ổn.
+527|KẾ HOẠCH 3
+528|KẾ HOẠCH 3
+529|KẾ HOẠCH 3
+530|KẾ HOẠCH 3
+531|KẾ HOẠCH 3
+532|KẾ HOẠCH 3
+533|HÉT THẬT TO
+534|KẾ HOẠCH 3
+535|ĐỂ BÁO USOPP
+536|VÀ
+537|ĐỂ BÁO USOPP
+538|HÉT THẬT TO
+539|KẾ HOẠCH 3
+540|MỌI NGƯỜI
+541|VÀ
+542|ĐỂ BÁO USOPP
+543|HÉT THẬT TO
+544|KẾ HOẠCH 3
+545|MỌI NGƯỜI
+546|VỀ
+547|MỌI NGƯỜI
+548|VÀ
+549|ĐỂ BÁO USOPP
+550|HÉT THẬT TO
+551|KẾ HOẠCH 3
+552|NGUY HIỂM
+553|VỀ
+554|MỌI NGƯỜI
+555|VÀ
+556|ĐỂ BÁO USOPP
+557|HÉT THẬT TO
+558|KẾ HOẠCH 3
+559|NGUY HIỂM
+560|VỀ
+561|MỌI NGƯỜI
+562|VÀ
+563|ĐỂ BÁO USOPP
+564|HÉT THẬT TO
+565|KẾ HOẠCH 3
+566|NGUY HIỂM
+567|VỀ
+568|MỌI NGƯỜI
+569|VÀ
+570|ĐỂ BÁO USOPP
+571|HÉT THẬT TO
+572|KẾ HOẠCH 3
+573|NGUY HIỂM
+574|VỀ
+575|MỌI NGƯỜI
+576|VÀ
+577|ĐỂ BÁO USOPP
+578|HÉT THẬT TO
+579|KẾ HOẠCH 3
+580|NGUY HIỂM
+581|VỀ
+582|MỌI NGƯỜI
+583|VÀ
+584|ĐỂ BÁO USOPP
+585|HÉT THẬT TO
+586|KẾ HOẠCH 3
+587|NGUY HIỂM
+588|VỀ
+589|MỌI NGƯỜI
+590|VÀ
+591|ĐỂ BÁO USOPP
+592|HÉT THẬT TO
+593|KẾ HOẠCH 3
+594|NGUY HIỂM
+595|VỀ
+596|MỌI NGƯỜI
+597|VÀ
+598|ĐỂ BÁO USOPP
+599|HÉT THẬT TO
+600|KẾ HOẠCH 3
+601|NGUY HIỂM
+602|VỀ
+603|MỌI NGƯỜI
+604|VÀ
+605|ĐỂ BÁO USOPP
+606|HÉT THẬT TO
+607|KẾ HOẠCH 3
+608|NGUY HIỂM
+609|VỀ
+610|MỌI NGƯỜI
+611|VÀ
+612|ĐỂ BÁO USOPP
+613|HÉT THẬT TO
+614|KẾ HOẠCH 3
+615|NGUY HIỂM
+616|VỀ
+617|MỌI NGƯỜI
+618|VÀ
+619|ĐỂ BÁO USOPP
+620|HÉT THẬT TO
+621|KẾ HOẠCH 3
+622|NGUY HIỂM
+623|VỀ
+624|MỌI NGƯỜI
+625|VÀ
+626|ĐỂ BÁO USOPP
+627|HÉT THẬT TO
+628|KẾ HOẠCH 3
+629|NGUY HIỂM
+630|VỀ
+631|MỌI NGƯỜI
+632|VÀ
+633|ĐỂ BÁO USOPP
+634|HÉT THẬT TO
+635|KẾ HOẠCH 3
+636|NGUY HIỂM
+637|VỀ
+638|MỌI NGƯỜI
+639|VÀ
+640|ĐỂ BÁO USOPP
+641|HÉT THẬT TO
+642|KẾ HOẠCH 3
+643|NGUY HIỂM
+644|VỀ
+645|MỌI NGƯỜI
+646|VÀ
+647|ĐỂ BÁO USOPP
+648|HÉT THẬT TO
+649|KẾ HOẠCH 3
+650|NGUY HIỂM
+651|VỀ
+652|MỌI NGƯỜI
+653|VÀ
+654|ĐỂ BÁO USOPP
+655|HÉT THẬT TO
+656|KẾ HOẠCH 3
+657|NGUY HIỂM
+658|VỀ
+659|MỌI NGƯỜI
+660|VÀ
+661|ĐỂ BÁO USOPP
+662|HÉT THẬT TO
+663|KẾ HOẠCH 3
+664|NGUY HIỂM
+665|VỀ
+666|MỌI NGƯỜI
+667|VÀ
+668|ĐỂ BÁO USOPP
+669|HÉT THẬT TO
+670|KẾ HOẠCH 3
+671|NGUY HIỂM
+672|VỀ
+673|MỌI NGƯỜI
+674|VÀ
+675|ĐỂ BÁO USOPP
+676|HÉT THẬT TO
+677|KẾ HOẠCH 3
+678|NGUY HIỂM
+679|VỀ
+680|MỌI NGƯỜI
+681|VÀ
+682|ĐỂ BÁO USOPP
+683|HÉT THẬT TO
+684|KẾ HOẠCH 3
+685|NGUY HIỂM
+686|VỀ
+687|MỌI NGƯỜI
+688|VÀ
+689|ĐỂ BÁO USOPP
+690|HÉT THẬT TO
+691|KẾ HOẠCH 3
+692|NGUY HIỂM
+693|VỀ
+694|MỌI NGƯỜI
+695|VÀ
+696|ĐỂ BÁO USOPP
+697|HÉT THẬT TO
+698|KẾ HOẠCH 3
+699|NGUY HIỂM
+700|VỀ
+701|MỌI NGƯỜI
+702|VÀ
+703|ĐỂ BÁO USOPP
+704|HÉT THẬT TO
+705|KẾ HOẠCH 3
+706|NGUY HIỂM
+707|VỀ
+708|MỌI NGƯỜI
+709|VÀ
+710|ĐỂ BÁO USOPP
+711|HÉT THẬT TO
+712|KẾ HOẠCH 3
+713|NGUY HIỂM
+714|VỀ
+715|MỌI NGƯỜI
+716|VÀ
+717|ĐỂ BÁO USOPP
+718|HÉT THẬT TO
+719|KẾ HOẠCH 3
+720|NGUY HIỂM
+721|VỀ
+722|MỌI NGƯỜI
+723|VÀ
+724|ĐỂ BÁO USOPP
+725|HÉT THẬT TO
+726|KẾ HOẠCH 3
+727|NGUY HIỂM
+728|Kế hoạch 3.
+729|VỀ
+730|MỌI NGƯỜI
+731|VÀ
+732|ĐỂ BÁO USOPP
+733|HÉT THẬT TO
+734|KẾ HOẠCH 3
+735|NGUY HIỂM
+736|MỌI NGƯỜI
+737|VÀ
+738|ĐỂ BÁO USOPP
+739|HÉT THẬT TO
+740|KẾ HOẠCH 3
+741|NGUY HIỂM
+742|VỀ
+743|VỀ
+744|MỌI NGƯỜI
+745|VÀ
+746|ĐỂ BÁO USOPP
+747|HÉT THẬT TO
+748|KẾ HOẠCH 3
+749|NGUY HIỂM
+750|VỀ
+751|MỌI NGƯỜI
+752|VÀ
+753|ĐỂ BÁO USOPP
+754|HÉT THẬT TO
+755|KẾ HOẠCH 3
+756|NGUY HIỂM
+757|VỀ
+758|MỌI NGƯỜI
+759|VÀ
+760|ĐỂ BÁO USOPP
+761|HÉT THẬT TO
+762|KẾ HOẠCH 3
+763|NGUY HIỂM
+764|VỀ
+765|MỌI NGƯỜI
+766|VÀ
+767|ĐỂ BÁO USOPP
+768|HÉT THẬT TO
+769|KẾ HOẠCH 3
+770|NGUY HIỂM
+771|VỀ
+772|MỌI NGƯỜI
+773|VÀ
+774|ĐỂ BÁO USOPP
+775|HÉT THẬT TO
+776|KẾ HOẠCH 3
+777|NGUY HIỂM
+778|VỀ
+779|MỌI NGƯỜI
+780|VÀ
+781|ĐỂ BÁO USOPP
+782|HÉT THẬT TO
+783|KẾ HOẠCH 3
+784|NGUY HIỂM
+785|VỀ
+786|MỌI NGƯỜI
+787|VÀ
+788|ĐỂ BÁO USOPP
+789|HÉT THẬT TO
+790|KẾ HOẠCH 3
+791|NGUY HIỂM
+792|VỀ
+793|MỌI NGƯỜI
+794|VÀ
+795|ĐỂ BÁO USOPP
+796|HÉT THẬT TO
+797|KẾ HOẠCH 3
+798|NGUY HIỂM
+799|VỀ
+800|MỌI NGƯỜI
+801|VÀ
+802|ĐỂ BÁO USOPP
+803|HÉT THẬT TO
+804|KẾ HOẠCH 3
+805|NGUY HIỂM
+806|VỀ
+807|MỌI NGƯỜI
+808|VÀ
+809|ĐỂ BÁO USOPP
+810|HÉT THẬT TO
+811|KẾ HOẠCH 3
+812|NGUY HIỂM
+813|VỀ
+814|MỌI NGƯỜI
+815|VÀ
+816|ĐỂ BÁO USOPP
+817|HÉT THẬT TO
+818|KẾ HOẠCH 3
+819|NGUY HIỂM
+820|VỀ
+821|MỌI NGƯỜI
+822|VÀ
+823|ĐỂ BÁO USOPP
+824|HÉT THẬT TO
+825|KẾ HOẠCH 3
+826|NGUY HIỂM
+827|VỀ
+828|MỌI NGƯỜI
+829|VÀ
+830|ĐỂ BÁO USOPP
+831|HÉT THẬT TO
+832|KẾ HOẠCH 3
+833|NGUY HIỂM
+834|VỀ
+835|MỌI NGƯỜI
+836|VÀ
+837|ĐỂ BÁO USOPP
+838|HÉT THẬT TO
+839|KẾ HOẠCH 3
+840|NGUY HIỂM
+841|VỀ
+842|MỌI NGƯỜI
+843|VÀ
+844|ĐỂ BÁO USOPP
+845|HÉT THẬT TO
+846|KẾ HOẠCH 3
+847|NGUY HIỂM
+848|VỀ
+849|MỌI NGƯỜI
+850|VÀ
+851|ĐỂ BÁO USOPP
+852|HÉT THẬT TO
+853|KẾ HOẠCH 3
+854|NGUY HIỂM
+855|VỀ
+856|MỌI NGƯỜI
+857|VÀ
+858|ĐỂ BÁO USOPP
+859|HÉT THẬT TO
+860|KẾ HOẠCH 3
+861|NGUY HIỂM
+862|VỀ
+863|MỌI NGƯỜI
+864|VÀ
+865|ĐỂ BÁO USOPP
+866|HÉT THẬT TO
+867|KẾ HOẠCH 3
+868|NGUY HIỂM
+869|VỀ
+870|MỌI NGƯỜI
+871|VÀ
+872|ĐỂ BÁO USOPP
+873|HÉT THẬT TO
+874|KẾ HOẠCH 3
+875|NGUY HIỂM
+876|VỀ
+877|MỌI NGƯỜI
+878|VÀ
+879|ĐỂ BÁO USOPP
+880|HÉT THẬT TO
+881|KẾ HOẠCH 3
+882|NGUY HIỂM
+883|VỀ
+884|MỌI NGƯỜI
+885|VÀ
+886|ĐỂ BÁO USOPP
+887|HÉT THẬT TO
+888|KẾ HOẠCH 3
+889|NGUY HIỂM
+890|VỀ
+891|MỌI NGƯỜI
+892|VÀ
+893|ĐỂ BÁO USOPP
+894|HÉT THẬT TO
+895|KẾ HOẠCH 3
+896|NGUY HIỂM
+897|VỀ
+898|MỌI NGƯỜI
+899|VÀ
+900|ĐỂ BÁO USOPP
+901|HÉT THẬT TO
+902|KẾ HOẠCH 3
+903|NGUY HIỂM
+904|VỀ
+905|MỌI NGƯỜI
+906|VÀ
+907|ĐỂ BÁO USOPP
+908|HÉT THẬT TO
+909|KẾ HOẠCH 3
+910|NGUY HIỂM
+911|VỀ
+912|MỌI NGƯỜI
+913|VÀ
+914|ĐỂ BÁO USOPP
+915|HÉT THẬT TO
+916|KẾ HOẠCH 3
+917|NGUY HIỂM
+918|VỀ
+919|MỌI NGƯỜI
+920|VÀ
+921|ĐỂ BÁO USOPP
+922|HÉT THẬT TO
+923|KẾ HOẠCH 3
+924|NGUY HIỂM
+925|VỀ
+926|MỌI NGƯỜI
+927|VÀ
+928|ĐỂ BÁO USOPP
+929|HÉT THẬT TO
+930|KẾ HOẠCH 3
+931|NGUY HIỂM
+932|VỀ
+933|MỌI NGƯỜI
+934|VÀ
+935|ĐỂ BÁO USOPP
+936|HÉT THẬT TO
+937|KẾ HOẠCH 3
+938|NGUY HIỂM
+939|VỀ
+940|MỌI NGƯỜI
+941|VÀ
+942|ĐỂ BÁO USOPP
+943|HÉT THẬT TO
+944|KẾ HOẠCH 3
+945|NGUY HIỂM
+946|VỀ
+947|MỌI NGƯỜI
+948|VÀ
+949|ĐỂ BÁO USOPP
+950|HÉT THẬT TO
+951|KẾ HOẠCH 3
+952|NGUY HIỂM
+953|VỀ
+954|MỌI NGƯỜI
+955|VÀ
+956|ĐỂ BÁO USOPP
+957|HÉT THẬT TO
+958|KẾ HOẠCH 3
+959|NGUY HIỂM
+960|VỀ
+961|MỌI NGƯỜI
+962|VÀ
+963|ĐỂ BÁO USOPP
+964|HÉT THẬT TO
+965|KẾ HOẠCH 3
+966|NGUY HIỂM
+967|VỀ
+968|MỌI NGƯỜI
+969|VÀ
+970|ĐỂ BÁO USOPP
+971|HÉT THẬT TO
+972|KẾ HOẠCH 3
+973|NGUY HIỂM
+974|VỀ
+975|MỌI NGƯỜI
+976|VÀ
+977|ĐỂ BÁO USOPP
+978|HÉT THẬT TO
+979|KẾ HOẠCH 3
+980|NGUY HIỂM
+981|VỀ
+982|MỌI NGƯỜI
+983|VÀ
+984|ĐỂ BÁO USOPP
+985|HÉT THẬT TO
+986|KẾ HOẠCH 3
+987|NGUY HIỂM
+988|VỀ
+989|MỌI NGƯỜI
+990|VÀ
+991|ĐỂ BÁO USOPP
+992|HÉT THẬT TO
+993|KẾ HOẠCH 3
+994|NGUY HIỂM
+995|VỀ
+996|MỌI NGƯỜI
+997|VÀ
+998|ĐỂ BÁO USOPP
+999|HÉT THẬT TO
+1000|KẾ HOẠCH 3
+1001|NGUY HIỂM
+1002|NGUY HIỂM
+1003|VỀ
+1004|MỌI NGƯỜI
+1005|VÀ
+1006|ĐỂ BÁO USOPP
+1007|HÉT THẬT TO
+1008|KẾ HOẠCH 3
+1009|Hét thật to để báo cho Usopp và mọi người về nguy hiểm.
+1010|VỀ
+1011|MỌI NGƯỜI
+1012|VÀ
+1013|ĐỂ BÁO USOPP
+1014|HÉT THẬT TO
+1015|KẾ HOẠCH 3
+1016|NGUY HIỂM
+1017|VỀ
+1018|MỌI NGƯỜI
+1019|VÀ
+1020|ĐỂ BÁO USOPP
+1021|HÉT THẬT TO
+1022|KẾ HOẠCH 3
+1023|NGUY HIỂM
+1024|VỀ
+1025|MỌI NGƯỜI
+1026|VÀ
+1027|ĐỂ BÁO USOPP
+1028|HÉT THẬT TO
+1029|KẾ HOẠCH 3
+1030|NGUY HIỂM
+1031|VỀ
+1032|MỌI NGƯỜI
+1033|VÀ
+1034|ĐỂ BÁO USOPP
+1035|HÉT THẬT TO
+1036|KẾ HOẠCH 3
+1037|NGUY HIỂM
+1038|VỀ
+1039|MỌI NGƯỜI
+1040|VÀ
+1041|ĐỂ BÁO USOPP
+1042|HÉT THẬT TO
+1043|KẾ HOẠCH 3
+1044|NGUY HIỂM
+1045|VỀ
+1046|MỌI NGƯỜI
+1047|VÀ
+1048|ĐỂ BÁO USOPP
+1049|HÉT THẬT TO
+1050|KẾ HOẠCH 3
+1051|NGUY HIỂM
+1052|VỀ
+1053|MỌI NGƯỜI
+1054|VÀ
+1055|ĐỂ BÁO USOPP
+1056|HÉT THẬT TO
+1057|KẾ HOẠCH 3
+1058|NGUY HIỂM
+1059|VỀ
+1060|MỌI NGƯỜI
+1061|VÀ
+1062|ĐỂ BÁO USOPP
+1063|HÉT THẬT TO
+1064|KẾ HOẠCH 3
+1065|NGUY HIỂM
+1066|VỀ
+1067|MỌI NGƯỜI
+1068|VÀ
+1069|ĐỂ BÁO USOPP
+1070|HÉT THẬT TO
+1071|KẾ HOẠCH 3
+1072|NGUY HIỂM
+1073|VỀ
+1074|MỌI NGƯỜI
+1075|VÀ
+1076|ĐỂ BÁO USOPP
+1077|HÉT THẬT TO
+1078|KẾ HOẠCH 3
+1079|NGUY HIỂM
+1080|VỀ
+1081|MỌI NGƯỜI
+1082|VÀ
+1083|ĐỂ BÁO USOPP
+1084|HÉT THẬT TO
+1085|KẾ HOẠCH 3
+1086|NGUY HIỂM
+1087|VỀ
+1088|MỌI NGƯỜI
+1089|VÀ
+1090|ĐỂ BÁO USOPP
+1091|HÉT THẬT TO
+1092|KẾ HOẠCH 3
+1093|NGUY HIỂM
+1094|VỀ
+1095|MỌI NGƯỜI
+1096|VÀ
+1097|ĐỂ BÁO USOPP
+1098|HÉT THẬT TO
+1099|KẾ HOẠCH 3
+1100|NGUY HIỂM
+1101|VỀ
+1102|MỌI NGƯỜI
+1103|VÀ
+1104|ĐỂ BÁO USOPP
+1105|HÉT THẬT TO
+1106|KẾ HOẠCH 3
+1107|NGUY HIỂM
+1108|VỀ
+1109|MỌI NGƯỜI
+1110|VÀ
+1111|ĐỂ BÁO USOPP
+1112|HÉT THẬT TO
+1113|KẾ HOẠCH 3
+1114|NGUY HIỂM
+1115|VỀ
+1116|MỌI NGƯỜI
+1117|VÀ
+1118|ĐỂ BÁO USOPP
+1119|HÉT THẬT TO
+1120|KẾ HOẠCH 3
+1121|NGUY HIỂM
+1122|VỀ
+1123|MỌI NGƯỜI
+1124|VÀ
+1125|ĐỂ BÁO USOPP
+1126|HÉT THẬT TO
+1127|KẾ HOẠCH 3
+1128|NGUY HIỂM
+1129|VỀ
+1130|MỌI NGƯỜI
+1131|VÀ
+1132|ĐỂ BÁO USOPP
+1133|HÉT THẬT TO
+1134|KẾ HOẠCH 3
+1135|NGUY HIỂM
+1136|VỀ
+1137|MỌI NGƯỜI
+1138|VÀ
+1139|ĐỂ BÁO USOPP
+1140|HÉT THẬT TO
+1141|KẾ HOẠCH 3
+1142|NGUY HIỂM
+1143|VỀ
+1144|MỌI NGƯỜI
+1145|VÀ
+1146|ĐỂ BÁO USOPP
+1147|HÉT THẬT TO
+1148|KẾ HOẠCH 3
+1149|NGUY HIỂM
+1150|VỀ
+1151|MỌI NGƯỜI
+1152|VÀ
+1153|ĐỂ BÁO USOPP
+1154|HÉT THẬT TO
+1155|KẾ HOẠCH 3
+1156|NGUY HIỂM
+1157|VỀ
+1158|MỌI NGƯỜI
+1159|VÀ
+1160|ĐỂ BÁO USOPP
+1161|HÉT THẬT TO
+1162|KẾ HOẠCH 3
+1163|NGUY HIỂM
+1164|VỀ
+1165|MỌI NGƯỜI
+1166|VÀ
+1167|ĐỂ BÁO USOPP
+1168|HÉT THẬT TO
+1169|KẾ HOẠCH 3
+1170|NGUY HIỂM
+1171|VỀ
+1172|MỌI NGƯỜI
+1173|VÀ
+1174|ĐỂ BÁO USOPP
+1175|HÉT THẬT TO
+1176|KẾ HOẠCH 3
+1177|NGUY HIỂM
+1178|VỀ
+1179|MỌI NGƯỜI
+1180|VÀ
+1181|ĐỂ BÁO USOPP
+1182|HÉT THẬT TO
+1183|KẾ HOẠCH 3
+1184|NGUY HIỂM
+1185|VỀ
+1186|MỌI NGƯỜI
+1187|VÀ
+1188|ĐỂ BÁO USOPP
+1189|HÉT THẬT TO
+1190|KẾ HOẠCH 3
+1191|NGUY HIỂM
+1192|VỀ
+1193|MỌI NGƯỜI
+1194|VÀ
+1195|ĐỂ BÁO USOPP
+1196|HÉT THẬT TO
+1197|KẾ HOẠCH 3
+1198|NGUY HIỂM
+1199|VỀ
+1200|MỌI NGƯỜI
+1201|VÀ
+1202|ĐỂ BÁO USOPP
+1203|HÉT THẬT TO
+1204|KẾ HOẠCH 3
+1205|NGUY HIỂM
+1206|VỀ
+1207|MỌI NGƯỜI
+1208|VÀ
+1209|ĐỂ BÁO USOPP
+1210|HÉT THẬT TO
+1211|KẾ HOẠCH 3
+1212|NGUY HIỂM
+1213|VỀ
+1214|MỌI NGƯỜI
+1215|VÀ
+1216|ĐỂ BÁO USOPP
+1217|HÉT THẬT TO
+1218|KẾ HOẠCH 3
+1219|NGUY HIỂM
+1220|VỀ
+1221|MỌI NGƯỜI
+1222|VÀ
+1223|ĐỂ BÁO USOPP
+1224|HÉT THẬT TO
+1225|KẾ HOẠCH 3
+1226|NGUY HIỂM
+1227|VỀ
+1228|MỌI NGƯỜI
+1229|VÀ
+1230|ĐỂ BÁO USOPP
+1231|HÉT THẬT TO
+1232|KẾ HOẠCH 3
+1233|NGUY HIỂM
+1234|VỀ
+1235|MỌI NGƯỜI
+1236|VÀ
+1237|ĐỂ BÁO USOPP
+1238|HÉT THẬT TO
+1239|KẾ HOẠCH 3
+1240|NGUY HIỂM
+1241|VỀ
+1242|MỌI NGƯỜI
+1243|VÀ
+1244|ĐỂ BÁO USOPP
+1245|HÉT THẬT TO
+1246|KẾ HOẠCH 3
+1247|NGUY HIỂM
+1248|VỀ
+1249|MỌI NGƯỜI
+1250|VÀ
+1251|ĐỂ BÁO USOPP
+1252|HÉT THẬT TO
+1253|KẾ HOẠCH 3
+1254|NGUY HIỂM
+1255|VỀ
+1256|MỌI NGƯỜI
+1257|VÀ
+1258|ĐỂ BÁO USOPP
+1259|HÉT THẬT TO
+1260|KẾ HOẠCH 3
+1261|NGUY HIỂM
+1262|VỀ
+1263|MỌI NGƯỜI
+1264|VÀ
+1265|ĐỂ BÁO USOPP
+1266|HÉT THẬT TO
+1267|KẾ HOẠCH 3
+1268|NGUY HIỂM
+1269|VỀ
+1270|MỌI NGƯỜI
+1271|VÀ
+1272|ĐỂ BÁO USOPP
+1273|HÉT THẬT TO
+1274|KẾ HOẠCH 3
+1275|NGUY HIỂM
+1276|VỀ
+1277|MỌI NGƯỜI
+1278|VÀ
+1279|ĐỂ BÁO USOPP
+1280|HÉT THẬT TO
+1281|KẾ HOẠCH 3
+1282|NGUY HIỂM
+1283|VỀ
+1284|MỌI NGƯỜI
+1285|VÀ
+1286|ĐỂ BÁO USOPP
+1287|HÉT THẬT TO
+1288|KẾ HOẠCH 3
+1289|NGUY HIỂM
+1290|VỀ
+1291|MỌI NGƯỜI
+1292|VÀ
+1293|ĐỂ BÁO USOPP
+1294|HÉT THẬT TO
+1295|KẾ HOẠCH 3
+1296|NGUY HIỂM
+1297|VỀ
+1298|MỌI NGƯỜI
+1299|VÀ
+1300|ĐỂ BÁO USOPP
+1301|HÉT THẬT TO
+1302|KẾ HOẠCH 3
+1303|NGUY HIỂM
+1304|VỀ
+1305|MỌI NGƯỜI
+1306|VÀ
+1307|ĐỂ BÁO USOPP
+1308|HÉT THẬT TO
+1309|KẾ HOẠCH 3
+1310|NGUY HIỂM
+1311|VỀ
+1312|MỌI NGƯỜI
+1313|VÀ
+1314|ĐỂ BÁO USOPP
+1315|HÉT THẬT TO
+1316|KẾ HOẠCH 3
+1317|NGUY HIỂM
+1318|VỀ
+1319|MỌI NGƯỜI
+1320|VÀ
+1321|ĐỂ BÁO USOPP
+1322|HÉT THẬT TO
+1323|KẾ HOẠCH 3
+1324|NGUY HIỂM
+1325|VỀ
+1326|MỌI NGƯỜI
+1327|VÀ
+1328|ĐỂ BÁO USOPP
+1329|HÉT THẬT TO
+1330|KẾ HOẠCH 3
+1331|NGUY HIỂM
+1332|VỀ
+1333|MỌI NGƯỜI
+1334|VÀ
+1335|ĐỂ BÁO USOPP
+1336|HÉT THẬT TO
+1337|KẾ HOẠCH 3
+1338|NGUY HIỂM
+1339|VỀ
+1340|MỌI NGƯỜI
+1341|VÀ
+1342|ĐỂ BÁO USOPP
+1343|HÉT THẬT TO
+1344|KẾ HOẠCH 3
+1345|NGUY HIỂM
+1346|VỀ
+1347|MỌI NGƯỜI
+1348|VÀ
+1349|ĐỂ BÁO USOPP
+1350|HÉT THẬT TO
+1351|KẾ HOẠCH 3
+1352|NGUY HIỂM
+1353|VỀ
+1354|MỌI NGƯỜI
+1355|VÀ
+1356|ĐỂ BÁO USOPP
+1357|HÉT THẬT TO
+1358|KẾ HOẠCH 3
+1359|NGUY HIỂM
+1360|VỀ
+1361|MỌI NGƯỜI
+1362|VÀ
+1363|ĐỂ BÁO USOPP
+1364|HÉT THẬT TO
+1365|KẾ HOẠCH 3
+1366|NGUY HIỂM
+1367|VỀ
+1368|MỌI NGƯỜI
+1369|VÀ
+1370|ĐỂ BÁO USOPP
+1371|HÉT THẬT TO
+1372|KẾ HOẠCH 3
+1373|NGUY HIỂM
+1374|VỀ
+1375|MỌI NGƯỜI
+1376|VÀ
+1377|ĐỂ BÁO USOPP
+1378|HÉT THẬT TO
+1379|KẾ HOẠCH 3
+1380|NGUY HIỂM
+1381|VỀ
+1382|MỌI NGƯỜI
+1383|VÀ
+1384|ĐỂ BÁO USOPP
+1385|HÉT THẬT TO
+1386|KẾ HOẠCH 3
+1387|NGUY HIỂM
+1388|VỀ
+1389|MỌI NGƯỜI
+1390|VÀ
+1391|ĐỂ BÁO USOPP
+1392|HÉT THẬT TO
+1393|KẾ HOẠCH 3
+1394|NGUY HIỂM
+1395|VỀ
+1396|MỌI NGƯỜI
+1397|VÀ
+1398|ĐỂ BÁO USOPP
+1399|HÉT THẬT TO
+1400|KẾ HOẠCH 3
+1401|NGUY HIỂM
+1402|VỀ
+1403|MỌI NGƯỜI
+1404|VÀ
+1405|ĐỂ BÁO USOPP
+1406|HÉT THẬT TO
+1407|KẾ HOẠCH 3
+1408|NGUY HIỂM
+1409|VỀ
+1410|MỌI NGƯỜI
+1411|VÀ
+1412|ĐỂ BÁO USOPP
+1413|HÉT THẬT TO
+1414|KẾ HOẠCH 3
+1415|NGUY HIỂM
+1416|VỀ
+1417|MỌI NGƯỜI
+1418|VÀ
+1419|ĐỂ BÁO USOPP
+1420|HÉT THẬT TO
+1421|KẾ HOẠCH 3
+1422|NGUY HIỂM
+1423|VỀ
+1424|MỌI NGƯỜI
+1425|VÀ
+1426|ĐỂ BÁO USOPP
+1427|HÉT THẬT TO
+1428|KẾ HOẠCH 3
+1429|NGUY HIỂM
+1430|VỀ
+1431|MỌI NGƯỜI
+1432|VÀ
+1433|ĐỂ BÁO USOPP
+1434|HÉT THẬT TO
+1435|KẾ HOẠCH 3
+1436|NGUY HIỂM
+1437|VỀ
+1438|MỌI NGƯỜI
+1439|VÀ
+1440|ĐỂ BÁO USOPP
+1441|HÉT THẬT TO
+1442|KẾ HOẠCH 3
+1443|NGUY HIỂM
+1444|VỀ
+1445|MỌI NGƯỜI
+1446|VÀ
+1447|ĐỂ BÁO USOPP
+1448|HÉT THẬT TO
+1449|KẾ HOẠCH 3
+1450|NGUY HIỂM
+1451|VỀ
+1452|MỌI NGƯỜI
+1453|VÀ
+1454|ĐỂ BÁO USOPP
+1455|HÉT THẬT TO
+1456|KẾ HOẠCH 3
+1457|NGUY HIỂM
+1458|VỀ
+1459|MỌI NGƯỜI
+1460|VÀ
+1461|ĐỂ BÁO USOPP
+1462|HÉT THẬT TO
+1463|KẾ HOẠCH 3
+1464|NGUY HIỂM
+1465|VỀ
+1466|MỌI NGƯỜI
+1467|VÀ
+1468|ĐỂ BÁO USOPP
+1469|HÉT THẬT TO
+1470|KẾ HOẠCH 3
+1471|NGUY HIỂM
+1472|VỀ
+1473|MỌI NGƯỜI
+1474|VÀ
+1475|ĐỂ BÁO USOPP
+1476|HÉT THẬT TO
+1477|KẾ HOẠCH 3
+1478|NGUY HIỂM
+1479|VỀ
+1480|MỌI NGƯỜI
+1481|VÀ
+1482|ĐỂ BÁO USOPP
+1483|HÉT THẬT TO
+1484|KẾ HOẠCH 3
+1485|NGUY HIỂM
+1486|VỀ
+1487|MỌI NGƯỜI
+1488|VÀ
+1489|ĐỂ BÁO USOPP
+1490|HÉT THẬT TO
+1491|KẾ HOẠCH 3
+1492|NGUY HIỂM
+1493|VỀ
+1494|MỌI NGƯỜI
+1495|VÀ
+1496|ĐỂ BÁO USOPP
+1497|HÉT THẬT TO
+1498|KẾ HOẠCH 3
+1499|NGUY HIỂM
+1500|VỀ
+1501|MỌI NGƯỜI
+1502|VÀ
+1503|ĐỂ BÁO USOPP
+1504|HÉT THẬT TO
+1505|KẾ HOẠCH 3
+1506|NGUY HIỂM
+1507|VỀ
+1508|MỌI NGƯỜI
+1509|VÀ
+1510|ĐỂ BÁO USOPP
+1511|HÉT THẬT TO
+1512|KẾ HOẠCH 3
+1513|NGUY HIỂM
+1514|VỀ
+1515|MỌI NGƯỜI
+1516|VÀ
+1517|ĐỂ BÁO USOPP
+1518|HÉT THẬT TO
+1519|KẾ HOẠCH 3
+1520|NGUY HIỂM
+1521|VỀ
+1522|MỌI NGƯỜI
+1523|VÀ
+1524|ĐỂ BÁO USOPP
+1525|HÉT THẬT TO
+1526|KẾ HOẠCH 3
+1527|NGUY HIỂM
+1528|VỀ
+1529|MỌI NGƯỜI
+1530|VÀ
+1531|ĐỂ BÁO USOPP
+1532|HÉT THẬT TO
+1533|KẾ HOẠCH 3
+1534|NGUY HIỂM
+1535|VỀ
+1536|MỌI NGƯỜI
+1537|VÀ
+1538|ĐỂ BÁO USOPP
+1539|HÉT THẬT TO
+1540|KẾ HOẠCH 3
+1541|NGUY HIỂM
+1542|VỀ
+1543|MỌI NGƯỜI
+1544|VÀ
+1545|ĐỂ BÁO USOPP
+1546|HÉT THẬT TO
+1547|KẾ HOẠCH 3
+1548|NGUY HIỂM
+1549|VỀ
+1550|MỌI NGƯỜI
+1551|VÀ
+1552|ĐỂ BÁO USOPP
+1553|HÉT THẬT TO
+1554|KẾ HOẠCH 3
+1555|NGUY HIỂM
+1556|VỀ
+1557|MỌI NGƯỜI
+1558|VÀ
+1559|ĐỂ BÁO USOPP
+1560|HÉT THẬT TO
+1561|KẾ HOẠCH 3
+1562|NGUY HIỂM
+1563|VỀ
+1564|MỌI NGƯỜI
+1565|VÀ
+1566|ĐỂ BÁO USOPP
+1567|HÉT THẬT TO
+1568|KẾ HOẠCH 3
+1569|NGUY HIỂM
+1570|VỀ
+1571|MỌI NGƯỜI
+1572|VÀ
+1573|ĐỂ BÁO USOPP
+1574|HÉT THẬT TO
+1575|KẾ HOẠCH 3
+1576|NGUY HIỂM
+1577|VỀ
+1578|MỌI NGƯỜI
+1579|VÀ
+1580|ĐỂ BÁO USOPP
+1581|HÉT THẬT TO
+1582|KẾ HOẠCH 3
+1583|NGUY HIỂM
+1584|VỀ
+1585|MỌI NGƯỜI
+1586|VÀ
+1587|ĐỂ BÁO USOPP
+1588|HÉT THẬT TO
+1589|KẾ HOẠCH 3
+1590|NGUY HIỂM
+1591|VỀ
+1592|MỌI NGƯỜI
+1593|VÀ
+1594|ĐỂ BÁO USOPP
+1595|HÉT THẬT TO
+1596|KẾ HOẠCH 3
+1597|NGUY HIỂM
+1598|VỀ
+1599|MỌI NGƯỜI
+1600|VÀ
+1601|ĐỂ BÁO USOPP
+1602|HÉT THẬT TO
+1603|KẾ HOẠCH 3
+1604|NGUY HIỂM
+1605|VỀ
+1606|MỌI NGƯỜI
+1607|VÀ
+1608|ĐỂ BÁO USOPP
+1609|HÉT THẬT TO
+1610|KẾ HOẠCH 3
+1611|NGUY HIỂM
+1612|VỀ
+1613|MỌI NGƯỜI
+1614|VÀ
+1615|ĐỂ BÁO USOPP
+1616|HÉT THẬT TO
+1617|KẾ HOẠCH 3
+1618|NGUY HIỂM
+1619|VỀ
+1620|MỌI NGƯỜI
+1621|VÀ
+1622|ĐỂ BÁO USOPP
+1623|HÉT THẬT TO
+1624|KẾ HOẠCH 3
+1625|NGUY HIỂM
+1626|VỀ
+1627|MỌI NGƯỜI
+1628|VÀ
+1629|ĐỂ BÁO USOPP
+1630|HÉT THẬT TO
+1631|KẾ HOẠCH 3
+1632|NGUY HIỂM
+1633|VỀ
+1634|MỌI NGƯỜI
+1635|VÀ
+1636|ĐỂ BÁO USOPP
+1637|HÉT THẬT TO
+1638|KẾ HOẠCH 3
+1639|NGUY HIỂM
+1640|VỀ
+1641|MỌI NGƯỜI
+1642|VÀ
+1643|ĐỂ BÁO USOPP
+1644|HÉT THẬT TO
+1645|KẾ HOẠCH 3
+1646|NGUY HIỂM
+1647|VỀ
+1648|MỌI NGƯỜI
+1649|VÀ
+1650|ĐỂ BÁO USOPP
+1651|HÉT THẬT TO
+1652|KẾ HOẠCH 3
+1653|NGUY HIỂM
+1654|VỀ
+1655|MỌI NGƯỜI
+1656|VÀ
+1657|ĐỂ BÁO USOPP
+1658|HÉT THẬT TO
+1659|KẾ HOẠCH 3
+1660|NGUY HIỂM
+1661|VỀ
+1662|MỌI NGƯỜI
+1663|VÀ
+1664|ĐỂ BÁO USOPP
+1665|HÉT THẬT TO
+1666|KẾ HOẠCH 3
+1667|NGUY HIỂM
+1668|VỀ
+1669|MỌI NGƯỜI
+1670|VÀ
+1671|ĐỂ BÁO USOPP
+1672|HÉT THẬT TO
+1673|KẾ HOẠCH 3
+1674|NGUY HIỂM
+1675|VỀ
+1676|MỌI NGƯỜI
+1677|VÀ
+1678|ĐỂ BÁO USOPP
+1679|HÉT THẬT TO
+1680|KẾ HOẠCH 3
+1681|NGUY HIỂM
+1682|VỀ
+1683|MỌI NGƯỜI
+1684|VÀ
+1685|ĐỂ BÁO USOPP
+1686|HÉT THẬT TO
+1687|KẾ HOẠCH 3
+1688|NGUY HIỂM
+1689|VỀ
+1690|MỌI NGƯỜI
+1691|VÀ
+1692|ĐỂ BÁO USOPP
+1693|HÉT THẬT TO
+1694|KẾ HOẠCH 3
+1695|NGUY HIỂM
+1696|VỀ
+1697|MỌI NGƯỜI
+1698|VÀ
+1699|ĐỂ BÁO USOPP
+1700|HÉT THẬT TO
+1701|KẾ HOẠCH 3
+1702|NGUY HIỂM
+1703|VỀ
+1704|MỌI NGƯỜI
+1705|VÀ
+1706|ĐỂ BÁO USOPP
+1707|HÉT THẬT TO
+1708|KẾ HOẠCH 3
+1709|NGUY HIỂM
+1710|VỀ
+1711|MỌI NGƯỜI
+1712|VÀ
+1713|ĐỂ BÁO USOPP
+1714|HÉT THẬT TO
+1715|KẾ HOẠCH 3
+1716|NGUY HIỂM
+1717|VỀ
+1718|MỌI NGƯỜI
+1719|VÀ
+1720|ĐỂ BÁO USOPP
+1721|HÉT THẬT TO
+1722|KẾ HOẠCH 3
+1723|NGUY HIỂM
+1724|VỀ
+1725|MỌI NGƯỜI
+1726|VÀ
+1727|ĐỂ BÁO USOPP
+1728|HÉT THẬT TO
+1729|KẾ HOẠCH 3
+1730|NGUY HIỂM
+1731|VỀ
+1732|MỌI NGƯỜI
+1733|VÀ
+1734|ĐỂ BÁO USOPP
+1735|HÉT THẬT TO
+1736|KẾ HOẠCH 3
+1737|NGUY HIỂM
+1738|VỀ
+1739|MỌI NGƯỜI
+1740|VÀ
+1741|ĐỂ BÁO USOPP
+1742|HÉT THẬT TO
+1743|KẾ HOẠCH 3
+1744|NGUY HIỂM
+1745|VỀ
+1746|MỌI NGƯỜI
+1747|VÀ
+1748|ĐỂ BÁO USOPP
+1749|HÉT THẬT TO
+1750|KẾ HOẠCH 3
+1751|NGUY HIỂM
+1752|VỀ
+1753|MỌI NGƯỜI
+1754|VÀ
+1755|ĐỂ BÁO USOPP
+1756|HÉT THẬT TO
+1757|KẾ HOẠCH 3
+1758|NGUY HIỂM
+1759|VỀ
+1760|MỌI NGƯỜI
+1761|VÀ
+1762|ĐỂ BÁO USOPP
+1763|HÉT THẬT TO
+1764|NGUY HIỂM
+1765|VỀ
+1766|MỌI NGƯỜI
+1767|VÀ
+1768|ĐỂ BÁO USOPP
+1769|HÉT THẬT TO
+1770|NGUY HIỂM
+1771|Usopp!
+1772|Xa thế này thì cậu ta không nghe thấy đâu.
+1773|VÀ BẢO
+1774|VÀ BẢO
+1775|BẰNG ốc sên truyền tin
+1776|"CHUỒN KHỎI
+1777|VÀ BẢO
+1778|BẰNG ốc sên truyền tin
+1779|"CHUỒN KHỎI
+1780|"CHUỒN KHỎI
+1781|VÀ BẢO
+1782|BẰNG ốc sên truyền tin
+1783|GỌI CẬU TA
+1784|ĐÓ NGAY"
+1785|"CHUỒN KHỎI
+1786|VÀ BẢO
+1787|BẰNG ốc sên truyền tin
+1788|GỌI CẬU TA
+1789|ĐÓ NGAY"
+1790|"CHUỒN KHỎI
+1791|VÀ BẢO
+1792|BẰNG ốc sên truyền tin
+1793|GỌI CẬU TA
+1794|KẾ HOẠCH 4
+1795|ĐÓ NGAY"
+1796|"CHUỒN KHỎI
+1797|VÀ BẢO
+1798|BẰNG ốc sên truyền tin
+1799|GỌI CẬU TA
+1800|KẾ HOẠCH 4
+1801|ĐÓ NGAY"
+1802|"CHUỒN KHỎI
+1803|VÀ BẢO
+1804|BẰNG ốc sên truyền tin
+1805|GỌI CẬU TA
+1806|KẾ HOẠCH 4
+1807|ĐÓ NGAY"
+1808|"CHUỒN KHỎI
+1809|VÀ BẢO
+1810|BẰNG ốc sên truyền tin
+1811|GỌI CẬU TA
+1812|KẾ HOẠCH 4
+1813|ĐÓ NGAY"
+1814|"CHUỒN KHỎI
+1815|VÀ BẢO
+1816|BẰNG ốc sên truyền tin
+1817|GỌI CẬU TA
+1818|KẾ HOẠCH 4
+1819|ĐÓ NGAY"
+1820|"CHUỒN KHỎI
+1821|VÀ BẢO
+1822|BẰNG ốc sên truyền tin
+1823|GỌI CẬU TA
+1824|KẾ HOẠCH 4
+1825|ĐÓ NGAY"
+1826|"CHUỒN KHỎI
+1827|VÀ BẢO
+1828|BẰNG ốc sên truyền tin
+1829|GỌI CẬU TA
+1830|KẾ HOẠCH 4
+1831|ĐÓ NGAY"
+1832|"CHUỒN KHỎI
+1833|VÀ BẢO
+1834|BẰNG ốc sên truyền tin
+1835|GỌI CẬU TA
+1836|KẾ HOẠCH 4
+1837|ĐÓ NGAY"
+1838|"CHUỒN KHỎI
+1839|VÀ BẢO
+1840|BẰNG ốc sên truyền tin
+1841|GỌI CẬU TA
+1842|KẾ HOẠCH 4
+1843|ĐÓ NGAY"
+1844|"CHUỒN KHỎI
+1845|VÀ BẢO
+1846|BẰNG ốc sên truyền tin
+1847|GỌI CẬU TA
+1848|KẾ HOẠCH 4
+1849|ĐÓ NGAY"
+1850|"CHUỒN KHỎI
+1851|VÀ BẢO
+1852|BẰNG ốc sên truyền tin
+1853|GỌI CẬU TA
+1854|KẾ HOẠCH 4
+1855|ĐÓ NGAY"
+1856|"CHUỒN KHỎI
+1857|VÀ BẢO
+1858|BẰNG ốc sên truyền tin
+1859|GỌI CẬU TA
+1860|KẾ HOẠCH 4
+1861|ĐÓ NGAY"
+1862|ĐÓ NGAY"
+1863|"CHUỒN KHỎI
+1864|VÀ BẢO
+1865|BẰNG ốc sên truyền tin
+1866|GỌI CẬU TA
+1867|KẾ HOẠCH 4
+1868|Kế hoạch 4.
+1869|"CHUỒN KHỎI
+1870|VÀ BẢO
+1871|BẰNG ốc sên truyền tin
+1872|GỌI CẬU TA
+1873|KẾ HOẠCH 4
+1874|ĐÓ NGAY"
+1875|"CHUỒN KHỎI
+1876|VÀ BẢO
+1877|BẰNG ốc sên truyền tin
+1878|GỌI CẬU TA
+1879|KẾ HOẠCH 4
+1880|ĐÓ NGAY"
+1881|"CHUỒN KHỎI
+1882|VÀ BẢO
+1883|BẰNG ốc sên truyền tin
+1884|GỌI CẬU TA
+1885|KẾ HOẠCH 4
+1886|ĐÓ NGAY"
+1887|"CHUỒN KHỎI
+1888|VÀ BẢO
+1889|BẰNG ốc sên truyền tin
+1890|GỌI CẬU TA
+1891|KẾ HOẠCH 4
+1892|ĐÓ NGAY"
+1893|"CHUỒN KHỎI
+1894|VÀ BẢO
+1895|BẰNG ốc sên truyền tin
+1896|GỌI CẬU TA
+1897|KẾ HOẠCH 4
+1898|ĐÓ NGAY"
+1899|"CHUỒN KHỎI
+1900|VÀ BẢO
+1901|BẰNG ốc sên truyền tin
+1902|GỌI CẬU TA
+1903|KẾ HOẠCH 4
+1904|ĐÓ NGAY"
+1905|"CHUỒN KHỎI
+1906|VÀ BẢO
+1907|BẰNG ốc sên truyền tin
+1908|GỌI CẬU TA
+1909|KẾ HOẠCH 4
+1910|ĐÓ NGAY"
+1911|"CHUỒN KHỎI
+1912|VÀ BẢO
+1913|BẰNG ốc sên truyền tin
+1914|GỌI CẬU TA
+1915|KẾ HOẠCH 4
+1916|ĐÓ NGAY"
+1917|"CHUỒN KHỎI
+1918|VÀ BẢO
+1919|BẰNG ốc sên truyền tin
+1920|GỌI CẬU TA
+1921|KẾ HOẠCH 4
+1922|ĐÓ NGAY"
+1923|"CHUỒN KHỎI
+1924|VÀ BẢO
+1925|BẰNG ốc sên truyền tin
+1926|GỌI CẬU TA
+1927|KẾ HOẠCH 4
+1928|ĐÓ NGAY"
+1929|"CHUỒN KHỎI
+1930|VÀ BẢO
+1931|BẰNG ốc sên truyền tin
+1932|GỌI CẬU TA
+1933|KẾ HOẠCH 4
+1934|ĐÓ NGAY"
+1935|"CHUỒN KHỎI
+1936|VÀ BẢO
+1937|BẰNG ốc sên truyền tin
+1938|GỌI CẬU TA
+1939|KẾ HOẠCH 4
+1940|ĐÓ NGAY"
+1941|"CHUỒN KHỎI
+1942|VÀ BẢO
+1943|BẰNG ốc sên truyền tin
+1944|GỌI CẬU TA
+1945|KẾ HOẠCH 4
+1946|ĐÓ NGAY"
+1947|"CHUỒN KHỎI
+1948|VÀ BẢO
+1949|BẰNG ốc sên truyền tin
+1950|GỌI CẬU TA
+1951|KẾ HOẠCH 4
+1952|ĐÓ NGAY"
+1953|"CHUỒN KHỎI
+1954|VÀ BẢO
+1955|BẰNG ốc sên truyền tin
+1956|GỌI CẬU TA
+1957|KẾ HOẠCH 4
+1958|ĐÓ NGAY"
+1959|"CHUỒN KHỎI
+1960|VÀ BẢO
+1961|BẰNG ốc sên truyền tin
+1962|GỌI CẬU TA
+1963|KẾ HOẠCH 4
+1964|ĐÓ NGAY"
+1965|"CHUỒN KHỎI
+1966|VÀ BẢO
+1967|BẰNG ốc sên truyền tin
+1968|GỌI CẬU TA
+1969|KẾ HOẠCH 4
+1970|ĐÓ NGAY"
+1971|"CHUỒN KHỎI
+1972|VÀ BẢO
+1973|BẰNG ốc sên truyền tin
+1974|GỌI CẬU TA
+1975|KẾ HOẠCH 4
+1976|ĐÓ NGAY"
+1977|"CHUỒN KHỎI
+1978|VÀ BẢO
+1979|BẰNG ốc sên truyền tin
+1980|GỌI CẬU TA
+1981|KẾ HOẠCH 4
+1982|ĐÓ NGAY"
+1983|"CHUỒN KHỎI
+1984|VÀ BẢO
+1985|BẰNG ốc sên truyền tin
+1986|GỌI CẬU TA
+1987|KẾ HOẠCH 4
+1988|ĐÓ NGAY"
+1989|"CHUỒN KHỎI
+1990|VÀ BẢO
+1991|BẰNG ốc sên truyền tin
+1992|GỌI CẬU TA
+1993|KẾ HOẠCH 4
+1994|ĐÓ NGAY"
+1995|"CHUỒN KHỎI
+1996|VÀ BẢO
+1997|BẰNG ốc sên truyền tin
+1998|GỌI CẬU TA
+1999|KẾ HOẠCH 4
+2000|ĐÓ NGAY"
+2001|"CHUỒN KHỎI
+2002|VÀ BẢO
+2003|BẰNG ốc sên truyền tin
+2004|GỌI CẬU TA
+2005|KẾ HOẠCH 4
+2006|ĐÓ NGAY"
+2007|"CHUỒN KHỎI
+2008|VÀ BẢO
+2009|BẰNG ốc sên truyền tin
+2010|GỌI CẬU TA
+2011|KẾ HOẠCH 4
+2012|ĐÓ NGAY"
+2013|"CHUỒN KHỎI
+2014|VÀ BẢO
+2015|BẰNG ốc sên truyền tin
+2016|GỌI CẬU TA
+2017|KẾ HOẠCH 4
+2018|ĐÓ NGAY"
+2019|"CHUỒN KHỎI
+2020|VÀ BẢO
+2021|BẰNG ốc sên truyền tin
+2022|GỌI CẬU TA
+2023|KẾ HOẠCH 4
+2024|ĐÓ NGAY"
+2025|"CHUỒN KHỎI
+2026|VÀ BẢO
+2027|BẰNG ốc sên truyền tin
+2028|GỌI CẬU TA
+2029|KẾ HOẠCH 4
+2030|ĐÓ NGAY"
+2031|"CHUỒN KHỎI
+2032|VÀ BẢO
+2033|BẰNG ốc sên truyền tin
+2034|GỌI CẬU TA
+2035|KẾ HOẠCH 4
+2036|ĐÓ NGAY"
+2037|"CHUỒN KHỎI
+2038|VÀ BẢO
+2039|BẰNG ốc sên truyền tin
+2040|GỌI CẬU TA
+2041|KẾ HOẠCH 4
+2042|ĐÓ NGAY"
+2043|"CHUỒN KHỎI
+2044|VÀ BẢO
+2045|BẰNG ốc sên truyền tin
+2046|GỌI CẬU TA
+2047|KẾ HOẠCH 4
+2048|ĐÓ NGAY"
+2049|"CHUỒN KHỎI
+2050|VÀ BẢO
+2051|BẰNG ốc sên truyền tin
+2052|GỌI CẬU TA
+2053|KẾ HOẠCH 4
+2054|ĐÓ NGAY"
+2055|"CHUỒN KHỎI
+2056|VÀ BẢO
+2057|BẰNG ốc sên truyền tin
+2058|GỌI CẬU TA
+2059|KẾ HOẠCH 4
+2060|ĐÓ NGAY"
+2061|"CHUỒN KHỎI
+2062|VÀ BẢO
+2063|BẰNG ốc sên truyền tin
+2064|GỌI CẬU TA
+2065|KẾ HOẠCH 4
+2066|ĐÓ NGAY"
+2067|"CHUỒN KHỎI
+2068|VÀ BẢO
+2069|BẰNG ốc sên truyền tin
+2070|GỌI CẬU TA
+2071|KẾ HOẠCH 4
+2072|ĐÓ NGAY"
+2073|"CHUỒN KHỎI
+2074|VÀ BẢO
+2075|BẰNG ốc sên truyền tin
+2076|GỌI CẬU TA
+2077|KẾ HOẠCH 4
+2078|ĐÓ NGAY"
+2079|"CHUỒN KHỎI
+2080|VÀ BẢO
+2081|BẰNG ốc sên truyền tin
+2082|GỌI CẬU TA
+2083|KẾ HOẠCH 4
+2084|ĐÓ NGAY"
+2085|"CHUỒN KHỎI
+2086|VÀ BẢO
+2087|BẰNG ốc sên truyền tin
+2088|GỌI CẬU TA
+2089|KẾ HOẠCH 4
+2090|ĐÓ NGAY"
+2091|"CHUỒN KHỎI
+2092|VÀ BẢO
+2093|BẰNG ốc sên truyền tin
+2094|GỌI CẬU TA
+2095|KẾ HOẠCH 4
+2096|ĐÓ NGAY"
+2097|"CHUỒN KHỎI
+2098|VÀ BẢO
+2099|BẰNG ốc sên truyền tin
+2100|GỌI CẬU TA
+2101|KẾ HOẠCH 4
+2102|ĐÓ NGAY"
+2103|"CHUỒN KHỎI
+2104|VÀ BẢO
+2105|BẰNG ốc sên truyền tin
+2106|GỌI CẬU TA
+2107|KẾ HOẠCH 4
+2108|ĐÓ NGAY"
+2109|"CHUỒN KHỎI
+2110|VÀ BẢO
+2111|BẰNG ốc sên truyền tin
+2112|GỌI CẬU TA
+2113|KẾ HOẠCH 4
+2114|ĐÓ NGAY"
+2115|"CHUỒN KHỎI
+2116|VÀ BẢO
+2117|BẰNG ốc sên truyền tin
+2118|GỌI CẬU TA
+2119|KẾ HOẠCH 4
+2120|ĐÓ NGAY"
+2121|"CHUỒN KHỎI
+2122|VÀ BẢO
+2123|BẰNG ốc sên truyền tin
+2124|GỌI CẬU TA
+2125|KẾ HOẠCH 4
+2126|ĐÓ NGAY"
+2127|ĐÓ NGAY"
+2128|"CHUỒN KHỎI
+2129|VÀ BẢO
+2130|BẰNG ốc sên truyền tin
+2131|GỌI CẬU TA
+2132|KẾ HOẠCH 4
+2133|"CHUỒN KHỎI
+2134|VÀ BẢO
+2135|BẰNG ốc sên truyền tin
+2136|GỌI CẬU TA
+2137|KẾ HOẠCH 4
+2138|ĐÓ NGAY"
+2139|"CHUỒN KHỎI
+2140|VÀ BẢO
+2141|BẰNG ốc sên truyền tin
+2142|GỌI CẬU TA
+2143|KẾ HOẠCH 4
+2144|ĐÓ NGAY"
+2145|"CHUỒN KHỎI
+2146|VÀ BẢO
+2147|BẰNG ốc sên truyền tin
+2148|GỌI CẬU TA
+2149|KẾ HOẠCH 4
+2150|ĐÓ NGAY"
+2151|"CHUỒN KHỎI
+2152|VÀ BẢO
+2153|BẰNG ốc sên truyền tin
+2154|GỌI CẬU TA
+2155|KẾ HOẠCH 4
+2156|ĐÓ NGAY"
+2157|"CHUỒN KHỎI
+2158|VÀ BẢO
+2159|BẰNG ốc sên truyền tin
+2160|GỌI CẬU TA
+2161|KẾ HOẠCH 4
+2162|ĐÓ NGAY"
+2163|"CHUỒN KHỎI
+2164|VÀ BẢO
+2165|BẰNG ốc sên truyền tin
+2166|GỌI CẬU TA
+2167|KẾ HOẠCH 4
+2168|ĐÓ NGAY"
+2169|"CHUỒN KHỎI
+2170|VÀ BẢO
+2171|BẰNG ốc sên truyền tin
+2172|GỌI CẬU TA
+2173|KẾ HOẠCH 4
+2174|ĐÓ NGAY"
+2175|"CHUỒN KHỎI
+2176|VÀ BẢO
+2177|BẰNG ốc sên truyền tin
+2178|GỌI CẬU TA
+2179|KẾ HOẠCH 4
+2180|ĐÓ NGAY"
+2181|"CHUỒN KHỎI
+2182|VÀ BẢO
+2183|BẰNG ốc sên truyền tin
+2184|GỌI CẬU TA
+2185|KẾ HOẠCH 4
+2186|ĐÓ NGAY"
+2187|"CHUỒN KHỎI
+2188|VÀ BẢO
+2189|BẰNG ốc sên truyền tin
+2190|GỌI CẬU TA
+2191|KẾ HOẠCH 4
+2192|ĐÓ NGAY"
+2193|"CHUỒN KHỎI
+2194|VÀ BẢO
+2195|BẰNG ốc sên truyền tin
+2196|GỌI CẬU TA
+2197|KẾ HOẠCH 4
+2198|ĐÓ NGAY"
+2199|"CHUỒN KHỎI
+2200|VÀ BẢO
+2201|BẰNG ốc sên truyền tin
+2202|GỌI CẬU TA
+2203|KẾ HOẠCH 4
+2204|ĐÓ NGAY"
+2205|"CHUỒN KHỎI
+2206|VÀ BẢO
+2207|BẰNG ốc sên truyền tin
+2208|GỌI CẬU TA
+2209|KẾ HOẠCH 4
+2210|ĐÓ NGAY"
+2211|"CHUỒN KHỎI
+2212|VÀ BẢO
+2213|BẰNG ốc sên truyền tin
+2214|GỌI CẬU TA
+2215|KẾ HOẠCH 4
+2216|ĐÓ NGAY"
+2217|"CHUỒN KHỎI
+2218|VÀ BẢO
+2219|BẰNG ốc sên truyền tin
+2220|GỌI CẬU TA
+2221|KẾ HOẠCH 4
+2222|ĐÓ NGAY"
+2223|"CHUỒN KHỎI
+2224|VÀ BẢO
+2225|BẰNG ốc sên truyền tin
+2226|GỌI CẬU TA
+2227|KẾ HOẠCH 4
+2228|ĐÓ NGAY"
+2229|"CHUỒN KHỎI
+2230|VÀ BẢO
+2231|BẰNG ốc sên truyền tin
+2232|GỌI CẬU TA
+2233|KẾ HOẠCH 4
+2234|ĐÓ NGAY"
+2235|"CHUỒN KHỎI
+2236|VÀ BẢO
+2237|BẰNG ốc sên truyền tin
+2238|GỌI CẬU TA
+2239|KẾ HOẠCH 4
+2240|ĐÓ NGAY"
+2241|"CHUỒN KHỎI
+2242|VÀ BẢO
+2243|BẰNG ốc sên truyền tin
+2244|GỌI CẬU TA
+2245|KẾ HOẠCH 4
+2246|ĐÓ NGAY"
+2247|"CHUỒN KHỎI
+2248|VÀ BẢO
+2249|BẰNG ốc sên truyền tin
+2250|GỌI CẬU TA
+2251|KẾ HOẠCH 4
+2252|ĐÓ NGAY"
+2253|"CHUỒN KHỎI
+2254|VÀ BẢO
+2255|BẰNG ốc sên truyền tin
+2256|GỌI CẬU TA
+2257|KẾ HOẠCH 4
+2258|ĐÓ NGAY"
+2259|"CHUỒN KHỎI
+2260|VÀ BẢO
+2261|BẰNG ốc sên truyền tin
+2262|GỌI CẬU TA
+2263|KẾ HOẠCH 4
+2264|ĐÓ NGAY"
+2265|"CHUỒN KHỎI
+2266|VÀ BẢO
+2267|BẰNG ốc sên truyền tin
+2268|GỌI CẬU TA
+2269|KẾ HOẠCH 4
+2270|ĐÓ NGAY"
+2271|"CHUỒN KHỎI
+2272|VÀ BẢO
+2273|BẰNG ốc sên truyền tin
+2274|GỌI CẬU TA
+2275|KẾ HOẠCH 4
+2276|ĐÓ NGAY"
+2277|"CHUỒN KHỎI
+2278|VÀ BẢO
+2279|BẰNG ốc sên truyền tin
+2280|GỌI CẬU TA
+2281|KẾ HOẠCH 4
+2282|ĐÓ NGAY"
+2283|"CHUỒN KHỎI
+2284|VÀ BẢO
+2285|BẰNG ốc sên truyền tin
+2286|GỌI CẬU TA
+2287|KẾ HOẠCH 4
+2288|ĐÓ NGAY"
+2289|"CHUỒN KHỎI
+2290|VÀ BẢO
+2291|BẰNG ốc sên truyền tin
+2292|GỌI CẬU TA
+2293|KẾ HOẠCH 4
+2294|ĐÓ NGAY"
+2295|"CHUỒN KHỎI
+2296|VÀ BẢO
+2297|BẰNG ốc sên truyền tin
+2298|GỌI CẬU TA
+2299|KẾ HOẠCH 4
+2300|ĐÓ NGAY"
+2301|"CHUỒN KHỎI
+2302|VÀ BẢO
+2303|BẰNG ốc sên truyền tin
+2304|GỌI CẬU TA
+2305|KẾ HOẠCH 4
+2306|ĐÓ NGAY"
+2307|"CHUỒN KHỎI
+2308|VÀ BẢO
+2309|BẰNG ốc sên truyền tin
+2310|GỌI CẬU TA
+2311|KẾ HOẠCH 4
+2312|ĐÓ NGAY"
+2313|"CHUỒN KHỎI
+2314|VÀ BẢO
+2315|BẰNG ốc sên truyền tin
+2316|GỌI CẬU TA
+2317|KẾ HOẠCH 4
+2318|ĐÓ NGAY"
+2319|"CHUỒN KHỎI
+2320|VÀ BẢO
+2321|BẰNG ốc sên truyền tin
+2322|GỌI CẬU TA
+2323|KẾ HOẠCH 4
+2324|ĐÓ NGAY"
+2325|"CHUỒN KHỎI
+2326|VÀ BẢO
+2327|BẰNG ốc sên truyền tin
+2328|GỌI CẬU TA
+2329|KẾ HOẠCH 4
+2330|ĐÓ NGAY"
+2331|"CHUỒN KHỎI
+2332|VÀ BẢO
+2333|BẰNG ốc sên truyền tin
+2334|GỌI CẬU TA
+2335|KẾ HOẠCH 4
+2336|ĐÓ NGAY"
+2337|"CHUỒN KHỎI
+2338|VÀ BẢO
+2339|BẰNG ốc sên truyền tin
+2340|GỌI CẬU TA
+2341|KẾ HOẠCH 4
+2342|ĐÓ NGAY"
+2343|"CHUỒN KHỎI
+2344|VÀ BẢO
+2345|BẰNG ốc sên truyền tin
+2346|GỌI CẬU TA
+2347|KẾ HOẠCH 4
+2348|ĐÓ NGAY"
+2349|"CHUỒN KHỎI
+2350|VÀ BẢO
+2351|BẰNG ốc sên truyền tin
+2352|GỌI CẬU TA
+2353|KẾ HOẠCH 4
+2354|ĐÓ NGAY"
+2355|"CHUỒN KHỎI
+2356|VÀ BẢO
+2357|BẰNG ốc sên truyền tin
+2358|GỌI CẬU TA
+2359|KẾ HOẠCH 4
+2360|ĐÓ NGAY"
+2361|"CHUỒN KHỎI
+2362|VÀ BẢO
+2363|BẰNG ốc sên truyền tin
+2364|GỌI CẬU TA
+2365|KẾ HOẠCH 4
+2366|ĐÓ NGAY"
+2367|"CHUỒN KHỎI
+2368|VÀ BẢO
+2369|BẰNG ốc sên truyền tin
+2370|GỌI CẬU TA
+2371|KẾ HOẠCH 4
+2372|ĐÓ NGAY"
+2373|"CHUỒN KHỎI
+2374|VÀ BẢO
+2375|BẰNG ốc sên truyền tin
+2376|GỌI CẬU TA
+2377|KẾ HOẠCH 4
+2378|ĐÓ NGAY"
+2379|"CHUỒN KHỎI
+2380|VÀ BẢO
+2381|BẰNG ốc sên truyền tin
+2382|GỌI CẬU TA
+2383|KẾ HOẠCH 4
+2384|ĐÓ NGAY"
+2385|"CHUỒN KHỎI
+2386|VÀ BẢO
+2387|BẰNG ốc sên truyền tin
+2388|GỌI CẬU TA
+2389|KẾ HOẠCH 4
+2390|ĐÓ NGAY"
+2391|"CHUỒN KHỎI
+2392|VÀ BẢO
+2393|BẰNG ốc sên truyền tin
+2394|GỌI CẬU TA
+2395|KẾ HOẠCH 4
+2396|ĐÓ NGAY"
+2397|"CHUỒN KHỎI
+2398|VÀ BẢO
+2399|BẰNG ốc sên truyền tin
+2400|GỌI CẬU TA
+2401|KẾ HOẠCH 4
+2402|ĐÓ NGAY"
+2403|"CHUỒN KHỎI
+2404|VÀ BẢO
+2405|BẰNG ốc sên truyền tin
+2406|GỌI CẬU TA
+2407|KẾ HOẠCH 4
+2408|ĐÓ NGAY"
+2409|"CHUỒN KHỎI
+2410|VÀ BẢO
+2411|BẰNG ốc sên truyền tin
+2412|GỌI CẬU TA
+2413|KẾ HOẠCH 4
+2414|ĐÓ NGAY"
+2415|"CHUỒN KHỎI
+2416|VÀ BẢO
+2417|BẰNG ốc sên truyền tin
+2418|GỌI CẬU TA
+2419|KẾ HOẠCH 4
+2420|ĐÓ NGAY"
+2421|"CHUỒN KHỎI
+2422|VÀ BẢO
+2423|BẰNG ốc sên truyền tin
+2424|GỌI CẬU TA
+2425|KẾ HOẠCH 4
+2426|ĐÓ NGAY"
+2427|"CHUỒN KHỎI
+2428|VÀ BẢO
+2429|BẰNG ốc sên truyền tin
+2430|GỌI CẬU TA
+2431|KẾ HOẠCH 4
+2432|ĐÓ NGAY"
+2433|"CHUỒN KHỎI
+2434|VÀ BẢO
+2435|BẰNG ốc sên truyền tin
+2436|GỌI CẬU TA
+2437|KẾ HOẠCH 4
+2438|ĐÓ NGAY"
+2439|"CHUỒN KHỎI
+2440|VÀ BẢO
+2441|BẰNG ốc sên truyền tin
+2442|GỌI CẬU TA
+2443|KẾ HOẠCH 4
+2444|ĐÓ NGAY"
+2445|"CHUỒN KHỎI
+2446|VÀ BẢO
+2447|BẰNG ốc sên truyền tin
+2448|GỌI CẬU TA
+2449|KẾ HOẠCH 4
+2450|ĐÓ NGAY"
+2451|"CHUỒN KHỎI
+2452|VÀ BẢO
+2453|BẰNG ốc sên truyền tin
+2454|GỌI CẬU TA
+2455|KẾ HOẠCH 4
+2456|ĐÓ NGAY"
+2457|"CHUỒN KHỎI
+2458|VÀ BẢO
+2459|BẰNG ốc sên truyền tin
+2460|GỌI CẬU TA
+2461|KẾ HOẠCH 4
+2462|ĐÓ NGAY"
+2463|"CHUỒN KHỎI
+2464|VÀ BẢO
+2465|BẰNG ốc sên truyền tin
+2466|GỌI CẬU TA
+2467|KẾ HOẠCH 4
+2468|ĐÓ NGAY"
+2469|"CHUỒN KHỎI
+2470|VÀ BẢO
+2471|BẰNG ốc sên truyền tin
+2472|GỌI CẬU TA
+2473|KẾ HOẠCH 4
+2474|ĐÓ NGAY"
+2475|"CHUỒN KHỎI
+2476|VÀ BẢO
+2477|BẰNG ốc sên truyền tin
+2478|GỌI CẬU TA
+2479|KẾ HOẠCH 4
+2480|ĐÓ NGAY"
+2481|"CHUỒN KHỎI
+2482|VÀ BẢO
+2483|BẰNG ốc sên truyền tin
+2484|GỌI CẬU TA
+2485|KẾ HOẠCH 4
+2486|ĐÓ NGAY"
+2487|"CHUỒN KHỎI
+2488|VÀ BẢO
+2489|BẰNG ốc sên truyền tin
+2490|GỌI CẬU TA
+2491|KẾ HOẠCH 4
+2492|ĐÓ NGAY"
+2493|"CHUỒN KHỎI
+2494|VÀ BẢO
+2495|BẰNG ốc sên truyền tin
+2496|GỌI CẬU TA
+2497|KẾ HOẠCH 4
+2498|ĐÓ NGAY"
+2499|"CHUỒN KHỎI
+2500|VÀ BẢO
+2501|BẰNG ốc sên truyền tin
+2502|GỌI CẬU TA
+2503|KẾ HOẠCH 4
+2504|ĐÓ NGAY"
+2505|"CHUỒN KHỎI
+2506|VÀ BẢO
+2507|BẰNG ốc sên truyền tin
+2508|GỌI CẬU TA
+2509|KẾ HOẠCH 4
+2510|ĐÓ NGAY"
+2511|"CHUỒN KHỎI
+2512|VÀ BẢO
+2513|BẰNG ốc sên truyền tin
+2514|GỌI CẬU TA
+2515|KẾ HOẠCH 4
+2516|ĐÓ NGAY"
+2517|"CHUỒN KHỎI
+2518|VÀ BẢO
+2519|BẰNG ốc sên truyền tin
+2520|GỌI CẬU TA
+2521|KẾ HOẠCH 4
+2522|ĐÓ NGAY"
+2523|"CHUỒN KHỎI
+2524|VÀ BẢO
+2525|BẰNG ốc sên truyền tin
+2526|GỌI CẬU TA
+2527|KẾ HOẠCH 4
+2528|ĐÓ NGAY"
+2529|"CHUỒN KHỎI
+2530|VÀ BẢO
+2531|BẰNG ốc sên truyền tin
+2532|GỌI CẬU TA
+2533|KẾ HOẠCH 4
+2534|ĐÓ NGAY"
+2535|"CHUỒN KHỎI
+2536|VÀ BẢO
+2537|BẰNG ốc sên truyền tin
+2538|GỌI CẬU TA
+2539|KẾ HOẠCH 4
+2540|ĐÓ NGAY"
+2541|"CHUỒN KHỎI
+2542|VÀ BẢO
+2543|BẰNG ốc sên truyền tin
+2544|GỌI CẬU TA
+2545|KẾ HOẠCH 4
+2546|ĐÓ NGAY"
+2547|"CHUỒN KHỎI
+2548|VÀ BẢO
+2549|BẰNG ốc sên truyền tin
+2550|GỌI CẬU TA
+2551|KẾ HOẠCH 4
+2552|ĐÓ NGAY"
+2553|"CHUỒN KHỎI
+2554|VÀ BẢO
+2555|BẰNG ốc sên truyền tin
+2556|GỌI CẬU TA
+2557|KẾ HOẠCH 4
+2558|ĐÓ NGAY"
+2559|"CHUỒN KHỎI
+2560|VÀ BẢO
+2561|BẰNG ốc sên truyền tin
+2562|GỌI CẬU TA
+2563|KẾ HOẠCH 4
+2564|ĐÓ NGAY"
+2565|"CHUỒN KHỎI
+2566|VÀ BẢO
+2567|BẰNG ốc sên truyền tin
+2568|GỌI CẬU TA
+2569|KẾ HOẠCH 4
+2570|ĐÓ NGAY"
+2571|"CHUỒN KHỎI
+2572|VÀ BẢO
+2573|BẰNG ốc sên truyền tin
+2574|GỌI CẬU TA
+2575|KẾ HOẠCH 4
+2576|ĐÓ NGAY"
+2577|"CHUỒN KHỎI
+2578|VÀ BẢO
+2579|BẰNG ốc sên truyền tin
+2580|GỌI CẬU TA
+2581|KẾ HOẠCH 4
+2582|ĐÓ NGAY"
+2583|"CHUỒN KHỎI
+2584|VÀ BẢO
+2585|BẰNG ốc sên truyền tin
+2586|GỌI CẬU TA
+2587|KẾ HOẠCH 4
+2588|ĐÓ NGAY"
+2589|"CHUỒN KHỎI
+2590|VÀ BẢO
+2591|BẰNG ốc sên truyền tin
+2592|GỌI CẬU TA
+2593|KẾ HOẠCH 4
+2594|ĐÓ NGAY"
+2595|"CHUỒN KHỎI
+2596|VÀ BẢO
+2597|BẰNG ốc sên truyền tin
+2598|GỌI CẬU TA
+2599|KẾ HOẠCH 4
+2600|ĐÓ NGAY"
+2601|"CHUỒN KHỎI
+2602|VÀ BẢO
+2603|BẰNG ốc sên truyền tin
+2604|GỌI CẬU TA
+2605|KẾ HOẠCH 4
+2606|ĐÓ NGAY"
+2607|"CHUỒN KHỎI
+2608|VÀ BẢO
+2609|BẰNG ốc sên truyền tin
+2610|GỌI CẬU TA
+2611|KẾ HOẠCH 4
+2612|ĐÓ NGAY"
+2613|"CHUỒN KHỎI
+2614|VÀ BẢO
+2615|BẰNG ốc sên truyền tin
+2616|GỌI CẬU TA
+2617|KẾ HOẠCH 4
+2618|ĐÓ NGAY"
+2619|"CHUỒN KHỎI
+2620|VÀ BẢO
+2621|BẰNG ốc sên truyền tin
+2622|GỌI CẬU TA
+2623|KẾ HOẠCH 4
+2624|ĐÓ NGAY"
+2625|"CHUỒN KHỎI
+2626|VÀ BẢO
+2627|BẰNG ốc sên truyền tin
+2628|GỌI CẬU TA
+2629|KẾ HOẠCH 4
+2630|ĐÓ NGAY"
+2631|"CHUỒN KHỎI
+2632|VÀ BẢO
+2633|BẰNG ốc sên truyền tin
+2634|GỌI CẬU TA
+2635|KẾ HOẠCH 4
+2636|ĐÓ NGAY"
+2637|"CHUỒN KHỎI
+2638|VÀ BẢO
+2639|BẰNG ốc sên truyền tin
+2640|GỌI CẬU TA
+2641|KẾ HOẠCH 4
+2642|ĐÓ NGAY"
+2643|"CHUỒN KHỎI
+2644|VÀ BẢO
+2645|BẰNG ốc sên truyền tin
+2646|GỌI CẬU TA
+2647|KẾ HOẠCH 4
+2648|ĐÓ NGAY"
+2649|"CHUỒN KHỎI
+2650|VÀ BẢO
+2651|BẰNG ốc sên truyền tin
+2652|GỌI CẬU TA
+2653|KẾ HOẠCH 4
+2654|ĐÓ NGAY"
+2655|"CHUỒN KHỎI
+2656|VÀ BẢO
+2657|BẰNG ốc sên truyền tin
+2658|GỌI CẬU TA
+2659|KẾ HOẠCH 4
+2660|ĐÓ NGAY"
+2661|"CHUỒN KHỎI
+2662|VÀ BẢO
+2663|BẰNG ốc sên truyền tin
+2664|GỌI CẬU TA
+2665|KẾ HOẠCH 4
+2666|ĐÓ NGAY"
+2667|"CHUỒN KHỎI
+2668|VÀ BẢO
+2669|BẰNG ốc sên truyền tin
+2670|GỌI CẬU TA
+2671|KẾ HOẠCH 4
+2672|ĐÓ NGAY"
+2673|"CHUỒN KHỎI
+2674|VÀ BẢO
+2675|BẰNG ốc sên truyền tin
+2676|GỌI CẬU TA
+2677|KẾ HOẠCH 4
+2678|ĐÓ NGAY"
+2679|"CHUỒN KHỎI
+2680|VÀ BẢO
+2681|BẰNG ốc sên truyền tin
+2682|GỌI CẬU TA
+2683|KẾ HOẠCH 4
+2684|ĐÓ NGAY"
+2685|"CHUỒN KHỎI
+2686|VÀ BẢO
+2687|BẰNG ốc sên truyền tin
+2688|GỌI CẬU TA
+2689|KẾ HOẠCH 4
+2690|ĐÓ NGAY"
+2691|"CHUỒN KHỎI
+2692|VÀ BẢO
+2693|BẰNG ốc sên truyền tin
+2694|GỌI CẬU TA
+2695|KẾ HOẠCH 4
+2696|ĐÓ NGAY"
+2697|"CHUỒN KHỎI
+2698|VÀ BẢO
+2699|BẰNG ốc sên truyền tin
+2700|GỌI CẬU TA
+2701|KẾ HOẠCH 4
+2702|ĐÓ NGAY"
+2703|"CHUỒN KHỎI
+2704|VÀ BẢO
+2705|BẰNG ốc sên truyền tin
+2706|GỌI CẬU TA
+2707|KẾ HOẠCH 4
+2708|ĐÓ NGAY"
+2709|"CHUỒN KHỎI
+2710|VÀ BẢO
+2711|BẰNG ốc sên truyền tin
+2712|GỌI CẬU TA
+2713|KẾ HOẠCH 4
+2714|ĐÓ NGAY"
+2715|Gọi cậu ta bằng ốc sên truyền tin và bảo: "Chuồn khỏi đó ngay."
+2716|À, mình đâu có cái nào.
+2717|Đừng lại gần đây!
+2718|Mà dù có báo được, cũng không đủ thời gian cho mọi người chạy thoát!
+2719|Lên đi!
+2720|Pica-sama!
+2721|Hắn đang nhắm vào Vua Riku!
+2722|Không phải chuyện của bọn tao, nhưng tao vẫn thấy ngứa mắt!
+2723|Dừng lại, đồ quái vật đá!
+2724|Sogeking-senpai đang ở trên cao nguyên đó!
+2725|Thằng đá kia! Quay lại đây!
+2726|Tao sẽ đấu với mày!
+2727|Không!
+2728|Giờ ta hiểu rồi!
+2729|Thợ Săn Hải Tặc đã đúng khi bảo ta để dành King Punch!
+2730|Ta sẽ cứu ngài, Vua Riku, bạn già của ta!
+2731|Khoan đã, ông vua xứ nào đó!
+2732|"Xứ nào đó"?!
+2733|Phải gọi là "Vua Elizabello của Prodence", Thợ Săn Hải Tặc!
+2734|Tôi nói rồi, chỉ phá hắn ra thì vô ích.
+2735|Hắn sẽ quay lại mãi nếu không đánh bại được thân thật của hắn!
+2736|Vậy chúng ta nên làm gì đây?
+2737|Cứu với!
+2738|Thợ Săn Hải Tặc!
+2739|Này!
+2740|Cho tôi hai phút.
+2741|Vua Riku có ở đó không?
+2742|KẾ HOẠCH 5
+2743|Kế hoạch 5!
+2744|BAY
+2745|Bay lên trời và băm thằng này thành trăm mảnh!
+2746|LÊN
+2747|TẬN
+2748|TRỜI
+2749|RỒI
+2750|BĂM
+2751|THẰNG
+2752|NÀY
+2753|THÀNH
+2754|TRĂM MẢNH
+2755|RỒI BĂM HẮN
+2756|BAY LÊN TRỜI
+2757|5
+2758|KẾ HOẠCH 5
+2759|THÀNH TRĂM MẢNH!!!
+2760|RỒI BĂM HẮN
+2761|BAY LÊN TRỜI
+2762|5
+2763|KẾ HOẠCH 5
+2764|THÀNH TRĂM MẢNH!!!
+2765|RỒI BĂM HẮN
+2766|BAY LÊN TRỜI
+2767|5
+2768|KẾ HOẠCH 5
+2769|THÀNH TRĂM MẢNH!!!
+2770|RỒI BĂM HẮN
+2771|BAY LÊN TRỜI
+2772|5
+2773|KẾ HOẠCH 5
+2774|THÀNH TRĂM MẢNH!!!
+2775|RỒI BĂM HẮN
+2776|BAY LÊN TRỜI
+2777|5
+2778|KẾ HOẠCH 5
+2779|THÀNH TRĂM MẢNH!!!
+2780|RỒI BĂM HẮN
+2781|BAY LÊN TRỜI
+2782|5
+2783|KẾ HOẠCH 5
+2784|THÀNH TRĂM MẢNH!!!
+2785|RỒI BĂM HẮN
+2786|BAY LÊN TRỜI
+2787|5
+2788|KẾ HOẠCH 5
+2789|THÀNH TRĂM MẢNH!!!
+2790|RỒI BĂM HẮN
+2791|BAY LÊN TRỜI
+2792|5
+2793|KẾ HOẠCH 5
+2794|THÀNH TRĂM MẢNH!!!
+2795|RỒI BĂM HẮN
+2796|BAY LÊN TRỜI
+2797|5
+2798|KẾ HOẠCH 5
+2799|THÀNH TRĂM MẢNH!!!
+2800|RỒI BĂM HẮN
+2801|BAY LÊN TRỜI
+2802|5
+2803|KẾ HOẠCH 5
+2804|THÀNH TRĂM MẢNH!!!
+2805|RỒI BĂM HẮN
+2806|BAY LÊN TRỜI
+2807|5
+2808|KẾ HOẠCH 5
+2809|THÀNH TRĂM MẢNH!!!
+2810|RỒI BĂM HẮN
+2811|BAY LÊN TRỜI
+2812|5
+2813|KẾ HOẠCH 5
+2814|THÀNH TRĂM MẢNH!!!
+2815|RỒI BĂM HẮN
+2816|BAY LÊN TRỜI
+2817|5
+2818|KẾ HOẠCH 5
+2819|THÀNH TRĂM MẢNH!!!
+2820|RỒI BĂM HẮN
+2821|BAY LÊN TRỜI
+2822|5
+2823|KẾ HOẠCH 5
+2824|THÀNH TRĂM MẢNH!!!
+2825|RỒI BĂM HẮN
+2826|BAY LÊN TRỜI
+2827|5
+2828|KẾ HOẠCH 5
+2829|THÀNH TRĂM MẢNH!!!
+2830|RỒI BĂM HẮN
+2831|BAY LÊN TRỜI
+2832|5
+2833|KẾ HOẠCH 5
+2834|THÀNH TRĂM MẢNH!!!
+2835|RỒI BĂM HẮN
+2836|BAY LÊN TRỜI
+2837|5
+2838|KẾ HOẠCH 5
+2839|THÀNH TRĂM MẢNH!!!
+2840|RỒI BĂM HẮN
+2841|BAY LÊN TRỜI
+2842|5
+2843|KẾ HOẠCH 5
+2844|THÀNH TRĂM MẢNH!!!
+2845|RỒI BĂM HẮN
+2846|BAY LÊN TRỜI
+2847|5
+2848|KẾ HOẠCH 5
+2849|THÀNH TRĂM MẢNH!!!
+2850|RỒI BĂM HẮN
+2851|BAY LÊN TRỜI
+2852|5
+2853|KẾ HOẠCH 5
+2854|THÀNH TRĂM MẢNH!!!
+2855|RỒI BĂM HẮN
+2856|BAY LÊN TRỜI
+2857|5
+2858|KẾ HOẠCH 5
+2859|THÀNH TRĂM MẢNH!!!
+2860|RỒI BĂM HẮN
+2861|BAY LÊN TRỜI
+2862|5
+2863|KẾ HOẠCH 5
+2864|THÀNH TRĂM MẢNH!!!
+2865|RỒI BĂM HẮN
+2866|BAY LÊN TRỜI
+2867|5
+2868|KẾ HOẠCH 5
+2869|THÀNH TRĂM MẢNH!!!
+2870|RỒI BĂM HẮN
+2871|BAY LÊN TRỜI
+2872|5
+2873|KẾ HOẠCH 5
+2874|THÀNH TRĂM MẢNH!!!
+2875|RỒI BĂM HẮN
+2876|BAY LÊN TRỜI
+2877|5
+2878|KẾ HOẠCH 5
+2879|THÀNH TRĂM MẢNH!!!
+2880|RỒI BĂM HẮN
+2881|BAY LÊN TRỜI
+2882|5
+2883|KẾ HOẠCH 5
+2884|THÀNH TRĂM MẢNH!!!
+2885|RỒI BĂM HẮN
+2886|BAY LÊN TRỜI
+2887|5
+2888|KẾ HOẠCH 5
+2889|THÀNH TRĂM MẢNH!!!
+2890|RỒI BĂM HẮN
+2891|BAY LÊN TRỜI
+2892|5
+2893|KẾ HOẠCH 5
+2894|THÀNH TRĂM MẢNH!!!
+2895|RỒI BĂM HẮN
+2896|BAY LÊN TRỜI
+2897|5
+2898|KẾ HOẠCH 5
+2899|THÀNH TRĂM MẢNH!!!
+2900|RỒI BĂM HẮN
+2901|BAY LÊN TRỜI
+2902|5
+2903|KẾ HOẠCH 5
+2904|THÀNH TRĂM MẢNH!!!
+2905|RỒI BĂM HẮN
+2906|BAY LÊN TRỜI
+2907|5
+2908|KẾ HOẠCH 5
+2909|THÀNH TRĂM MẢNH!!!
+2910|RỒI BĂM HẮN
+2911|BAY LÊN TRỜI
+2912|5
+2913|KẾ HOẠCH 5
+2914|THÀNH TRĂM MẢNH!!!
+2915|RỒI BĂM HẮN
+2916|BAY LÊN TRỜI
+2917|5
+2918|KẾ HOẠCH 5
+2919|THÀNH TRĂM MẢNH!!!
+2920|RỒI BĂM HẮN
+2921|BAY LÊN TRỜI
+2922|5
+2923|KẾ HOẠCH 5
+2924|THÀNH TRĂM MẢNH!!!
+2925|RỒI BĂM HẮN
+2926|BAY LÊN TRỜI
+2927|5
+2928|KẾ HOẠCH 5
+2929|THÀNH TRĂM MẢNH!!!
+2930|RỒI BĂM HẮN
+2931|BAY LÊN TRỜI
+2932|5
+2933|KẾ HOẠCH 5
+2934|THÀNH TRĂM MẢNH!!!
+2935|RỒI BĂM HẮN
+2936|BAY LÊN TRỜI
+2937|5
+2938|KẾ HOẠCH 5
+2939|THÀNH TRĂM MẢNH!!!
+2940|RỒI BĂM HẮN
+2941|BAY LÊN TRỜI
+2942|5
+2943|KẾ HOẠCH 5
+2944|THÀNH TRĂM MẢNH!!!
+2945|RỒI BĂM HẮN
+2946|BAY LÊN TRỜI
+2947|5
+2948|KẾ HOẠCH 5
+2949|THÀNH TRĂM MẢNH!!!
+2950|RỒI BĂM HẮN
+2951|BAY LÊN TRỜI
+2952|5
+2953|KẾ HOẠCH 5
+2954|THÀNH TRĂM MẢNH!!!
+2955|RỒI BĂM HẮN
+2956|BAY LÊN TRỜI
+2957|5
+2958|KẾ HOẠCH 5
+2959|THÀNH TRĂM MẢNH!!!
+2960|RỒI BĂM HẮN
+2961|BAY LÊN TRỜI
+2962|5
+2963|KẾ HOẠCH 5
+2964|THÀNH TRĂM MẢNH!!!
+2965|RỒI BĂM HẮN
+2966|BAY LÊN TRỜI
+2967|5
+2968|KẾ HOẠCH 5
+2969|THÀNH TRĂM MẢNH!!!
+2970|RỒI BĂM HẮN
+2971|BAY LÊN TRỜI
+2972|5
+2973|KẾ HOẠCH 5
+2974|THÀNH TRĂM MẢNH!!!
+2975|RỒI BĂM HẮN
+2976|BAY LÊN TRỜI
+2977|5
+2978|KẾ HOẠCH 5
+2979|THÀNH TRĂM MẢNH!!!
+2980|RỒI BĂM HẮN
+2981|BAY LÊN TRỜI
+2982|5
+2983|KẾ HOẠCH 5
+2984|THÀNH TRĂM MẢNH!!!
+2985|RỒI BĂM HẮN
+2986|BAY LÊN TRỜI
+2987|5
+2988|KẾ HOẠCH 5
+2989|THÀNH TRĂM MẢNH!!!
+2990|RỒI BĂM HẮN
+2991|BAY LÊN TRỜI
+2992|5
+2993|KẾ HOẠCH 5
+2994|THÀNH TRĂM MẢNH!!!
+2995|RỒI BĂM HẮN
+2996|BAY LÊN TRỜI
+2997|5
+2998|KẾ HOẠCH 5
+2999|THÀNH TRĂM MẢNH!!!
+3000|RỒI BĂM HẮN
+3001|BAY LÊN TRỜI
+3002|5
+3003|KẾ HOẠCH 5
+3004|THÀNH TRĂM MẢNH!!!
+3005|RỒI BĂM HẮN
+3006|BAY LÊN TRỜI
+3007|5
+3008|KẾ HOẠCH 5
+3009|THÀNH TRĂM MẢNH!!!
+3010|RỒI BĂM HẮN
+3011|BAY LÊN TRỜI
+3012|5
+3013|KẾ HOẠCH 5
+3014|THÀNH TRĂM MẢNH!!!
+3015|RỒI BĂM HẮN
+3016|BAY LÊN TRỜI
+3017|5
+3018|KẾ HOẠCH 5
+3019|THÀNH TRĂM MẢNH!!!
+3020|RỒI BĂM HẮN
+3021|BAY LÊN TRỜI
+3022|5
+3023|KẾ HOẠCH 5
+3024|THÀNH TRĂM MẢNH!!!
+3025|RỒI BĂM HẮN
+3026|BAY LÊN TRỜI
+3027|5
+3028|KẾ HOẠCH 5
+3029|THÀNH TRĂM MẢNH!!!
+3030|RỒI BĂM HẮN
+3031|BAY LÊN TRỜI
+3032|5
+3033|KẾ HOẠCH 5
+3034|THÀNH TRĂM MẢNH!!!
+3035|RỒI BĂM HẮN
+3036|BAY LÊN TRỜI
+3037|5
+3038|KẾ HOẠCH 5
+3039|THÀNH TRĂM MẢNH!!!
+3040|RỒI BĂM HẮN
+3041|BAY LÊN TRỜI
+3042|5
+3043|KẾ HOẠCH 5
+3044|THÀNH TRĂM MẢNH!!!
+3045|RỒI BĂM HẮN
+3046|BAY LÊN TRỜI
+3047|5
+3048|KẾ HOẠCH 5
+3049|THÀNH TRĂM MẢNH!!!
+3050|RỒI BĂM HẮN
+3051|BAY LÊN TRỜI
+3052|5
+3053|KẾ HOẠCH 5
+3054|THÀNH TRĂM MẢNH!!!
+3055|RỒI BĂM HẮN
+3056|BAY LÊN TRỜI
+3057|5
+3058|KẾ HOẠCH 5
+3059|THÀNH TRĂM MẢNH!!!
+3060|RỒI BĂM HẮN
+3061|BAY LÊN TRỜI
+3062|5
+3063|KẾ HOẠCH 5
+3064|THÀNH TRĂM MẢNH!!!
+3065|RỒI BĂM HẮN
+3066|BAY LÊN TRỜI
+3067|5
+3068|KẾ HOẠCH 5
+3069|THÀNH TRĂM MẢNH!!!
+3070|RỒI BĂM HẮN
+3071|BAY LÊN TRỜI
+3072|5
+3073|KẾ HOẠCH 5
+3074|THÀNH TRĂM MẢNH!!!
+3075|RỒI BĂM HẮN
+3076|BAY LÊN TRỜI
+3077|5
+3078|KẾ HOẠCH 5
+3079|THÀNH TRĂM MẢNH!!!
+3080|RỒI BĂM HẮN
+3081|BAY LÊN TRỜI
+3082|5
+3083|KẾ HOẠCH 5
+3084|THÀNH TRĂM MẢNH!!!
+3085|RỒI BĂM HẮN
+3086|BAY LÊN TRỜI
+3087|5
+3088|KẾ HOẠCH 5
+3089|THÀNH TRĂM MẢNH!!!
+3090|RỒI BĂM HẮN
+3091|BAY LÊN TRỜI
+3092|5
+3093|KẾ HOẠCH 5
+3094|THÀNH TRĂM MẢNH!!!
+3095|RỒI BĂM HẮN
+3096|BAY LÊN TRỜI
+3097|5
+3098|KẾ HOẠCH 5
+3099|THÀNH TRĂM MẢNH!!!
+3100|RỒI BĂM HẮN
+3101|BAY LÊN TRỜI
+3102|5
+3103|KẾ HOẠCH 5
+3104|THÀNH TRĂM MẢNH!!!
+3105|RỒI BĂM HẮN
+3106|BAY LÊN TRỜI
+3107|5
+3108|KẾ HOẠCH 5
+3109|THÀNH TRĂM MẢNH!!!
+3110|RỒI BĂM HẮN
+3111|BAY LÊN TRỜI
+3112|5
+3113|KẾ HOẠCH 5
+3114|THÀNH TRĂM MẢNH!!!
+3115|RỒI BĂM HẮN
+3116|BAY LÊN TRỜI
+3117|5
+3118|KẾ HOẠCH 5
+3119|THÀNH TRĂM MẢNH!!!
+3120|RỒI BĂM HẮN
+3121|BAY LÊN TRỜI
+3122|5
+3123|KẾ HOẠCH 5
+3124|THÀNH TRĂM MẢNH!!!
+3125|RỒI BĂM HẮN
+3126|BAY LÊN TRỜI
+3127|5
+3128|KẾ HOẠCH 5
+3129|THÀNH TRĂM MẢNH!!!
+3130|RỒI BĂM HẮN
+3131|BAY LÊN TRỜI
+3132|5
+3133|KẾ HOẠCH 5
+3134|THÀNH TRĂM MẢNH!!!
+3135|RỒI BĂM HẮN
+3136|BAY LÊN TRỜI
+3137|5
+3138|KẾ HOẠCH 5
+3139|THÀNH TRĂM MẢNH!!!
+3140|RỒI BĂM HẮN
+3141|BAY LÊN TRỜI
+3142|5
+3143|KẾ HOẠCH 5
+3144|THÀNH TRĂM MẢNH!!!
+3145|RỒI BĂM HẮN
+3146|BAY LÊN TRỜI
+3147|5
+3148|KẾ HOẠCH 5
+3149|THÀNH TRĂM MẢNH!!!
+3150|RỒI BĂM HẮN
+3151|BAY LÊN TRỜI
+3152|5
+3153|KẾ HOẠCH 5
+3154|THÀNH TRĂM MẢNH!!!
+3155|RỒI BĂM HẮN
+3156|BAY LÊN TRỜI
+3157|5
+3158|KẾ HOẠCH 5
+3159|THÀNH TRĂM MẢNH!!!
+3160|RỒI BĂM HẮN
+3161|BAY LÊN TRỜI
+3162|5
+3163|KẾ HOẠCH 5
+3164|THÀNH TRĂM MẢNH!!!
+3165|RỒI BĂM HẮN
+3166|BAY LÊN TRỜI
+3167|5
+3168|KẾ HOẠCH 5
+3169|THÀNH TRĂM MẢNH!!!
+3170|RỒI BĂM HẮN
+3171|BAY LÊN TRỜI
+3172|5
+3173|KẾ HOẠCH 5
+3174|THÀNH TRĂM MẢNH!!!
+3175|RỒI BĂM HẮN
+3176|BAY LÊN TRỜI
+3177|5
+3178|KẾ HOẠCH 5
+3179|THÀNH TRĂM MẢNH!!!
+3180|RỒI BĂM HẮN
+3181|BAY LÊN TRỜI
+3182|5
+3183|KẾ HOẠCH 5
+3184|THÀNH TRĂM MẢNH!!!
+3185|RỒI BĂM HẮN
+3186|BAY LÊN TRỜI
+3187|5
+3188|KẾ HOẠCH 5
+3189|THÀNH TRĂM MẢNH!!!
+3190|RỒI BĂM HẮN
+3191|BAY LÊN TRỜI
+3192|5
+3193|KẾ HOẠCH 5
+3194|THÀNH TRĂM MẢNH!!!
+3195|RỒI BĂM HẮN
+3196|BAY LÊN TRỜI
+3197|5
+3198|KẾ HOẠCH 5
+3199|THÀNH TRĂM MẢNH!!!
+3200|RỒI BĂM HẮN
+3201|BAY LÊN TRỜI
+3202|5
+3203|KẾ HOẠCH 5
+3204|THÀNH TRĂM MẢNH!!!
+3205|RỒI BĂM HẮN
+3206|BAY LÊN TRỜI
+3207|5
+3208|KẾ HOẠCH 5
+3209|THÀNH TRĂM MẢNH!!!
+3210|RỒI BĂM HẮN
+3211|BAY LÊN TRỜI
+3212|5
+3213|KẾ HOẠCH 5
+3214|THÀNH TRĂM MẢNH!!!
+3215|RỒI BĂM HẮN
+3216|BAY LÊN TRỜI
+3217|5
+3218|KẾ HOẠCH 5
+3219|THÀNH TRĂM MẢNH!!!
+3220|RỒI BĂM HẮN
+3221|BAY LÊN TRỜI
+3222|5
+3223|KẾ HOẠCH 5
+3224|THÀNH TRĂM MẢNH!!!
+3225|RỒI BĂM HẮN
+3226|BAY LÊN TRỜI
+3227|5
+3228|KẾ HOẠCH 5
+3229|THÀNH TRĂM MẢNH!!!
+3230|RỒI BĂM HẮN
+3231|BAY LÊN TRỜI
+3232|5
+3233|KẾ HOẠCH 5
+3234|THÀNH TRĂM MẢNH!!!
+3235|RỒI BĂM HẮN
+3236|BAY LÊN TRỜI
+3237|5
+3238|KẾ HOẠCH 5
+3239|THÀNH TRĂM MẢNH!!!
+3240|RỒI BĂM HẮN
+3241|BAY LÊN TRỜI
+3242|5
+3243|KẾ HOẠCH 5
+3244|THÀNH TRĂM MẢNH!!!
+3245|RỒI BĂM HẮN
+3246|BAY LÊN TRỜI
+3247|5
+3248|KẾ HOẠCH 5
+3249|THÀNH TRĂM MẢNH!!!
+3250|RỒI BĂM HẮN
+3251|BAY LÊN TRỜI
+3252|5
+3253|KẾ HOẠCH 5
+3254|THÀNH TRĂM MẢNH!!!
+3255|RỒI BĂM HẮN
+3256|BAY LÊN TRỜI
+3257|5
+3258|KẾ HOẠCH 5
+3259|THÀNH TRĂM MẢNH!!!
+3260|RỒI BĂM HẮN
+3261|BAY LÊN TRỜI
+3262|5
+3263|KẾ HOẠCH 5
+3264|THÀNH TRĂM MẢNH!!!
+3265|RỒI BĂM HẮN
+3266|BAY LÊN TRỜI
+3267|5
+3268|KẾ HOẠCH 5
+3269|THÀNH TRĂM MẢNH!!!
+3270|RỒI BĂM HẮN
+3271|BAY LÊN TRỜI
+3272|5
+3273|KẾ HOẠCH 5
+3274|THÀNH TRĂM MẢNH!!!
+3275|RỒI BĂM HẮN
+3276|BAY LÊN TRỜI
+3277|5
+3278|KẾ HOẠCH 5
+3279|THÀNH TRĂM MẢNH!!!
+3280|RỒI BĂM HẮN
+3281|BAY LÊN TRỜI
+3282|5
+3283|KẾ HOẠCH 5
+3284|THÀNH TRĂM MẢNH!!!
+3285|RỒI BĂM HẮN
+3286|BAY LÊN TRỜI
+3287|5
+3288|KẾ HOẠCH 5
+3289|THÀNH TRĂM MẢNH!!!
+3290|RỒI BĂM HẮN
+3291|BAY LÊN TRỜI
+3292|5
+3293|KẾ HOẠCH 5
+3294|THÀNH TRĂM MẢNH!!!
+3295|RỒI BĂM HẮN
+3296|BAY LÊN TRỜI
+3297|5
+3298|KẾ HOẠCH 5
+3299|THÀNH TRĂM MẢNH!!!
+3300|Được đấy!
+3301|Nếu không làm gì đó...
+3302|Ông ngoại và mọi người sẽ...
+3303|Sogeking-senpai! Chạy đi!
+3304|Thợ Săn Hải Tặc!
+3305|Định bắt chờ đến bao giờ nữa hả?!
+3306|Này, Giám đốc!
+3307|Hả? Nếu ý cậu là "Đề đốc" thì là ta đây.
+3308|Sao cũng được!
+3309|Lúc nãy ông có ném ai đó như đạn pháo đúng không?
+3310|Chuẩn bị đi, Vua Riku!
+3311|Bắn! Bắn đi!
+3312|Mục tiêu của ngươi là ta, phải không?!
+3313|Xin hãy ngừng tàn phá nữa!
+3314|Mọi người, ra khỏi đây ngay! Sơ tán khỏi cao nguyên!
+3315|Vua Riku, ngài cũng phải đi!
+3316|Nhanh lên, Cha!
+3317|Viola, Tank! Đưa mọi người xuống ngay!
+3318|Mục tiêu của hắn là ta! Đi đi!
+3319|Chính vì thế ngài mới cần chạy, Vua Riku!
+3320|Xin ngài hãy nhanh lên!
+3321|Không! Nếu mọi người chạy thoát được trong lúc hắn nhắm vào ta,
+3322|thì cứ để vậy!
+3323|Ra vậy! Thế thì ta sẽ làm như ngươi muốn!
+3324|Cái quái gì vậy?
+3325|Thợ Săn Hải Tặc, Orlumbus! Hai người đang làm gì vậy?
+3326|Cậu chắc chứ?
+3327|Chiêu này đâu phải để ném người một cách an toàn!
+3328|Cứ làm đi! Không có thời gian đâu!
+3329|Thằng khốn đó!
+3330|Hắn chỉ nhắm vào những người không muốn chiến đấu!
+3331|Sẵn sàng chưa?
+3332|Rồi!
+3333|Vua Riku! Ngươi chẳng phải vua gì cả!
+3334|Ngươi còn không xứng làm vua!
+3335|Đề đốc...
+3336|Bệ hạ, nếu ngài không chạy thì chúng thần cũng không!
+3337|Vua Riku, ngươi đã giải được hiểu lầm suốt mười năm và lấy lại lòng dân rồi sao?
+3338|Một kẻ theo chủ nghĩa hòa bình như ngươi...
+3339|...còn không bảo vệ nổi đất nước mình! Hay ngươi quên rồi?
+3340|Đất nước là ở sức mạnh vũ trang!
+3341|Kẻ không thể tiêu diệt kẻ thù của đất nước...
+3342|...thì không có tư cách làm vua!
+3343|Ta sẽ nghiền nát ngươi cùng cái lý tưởng rẻ tiền đó!
+3344|Vua Riku!
+3345|Th-Thị trấn đang sụp xuống!
+3346|Killer...
+3347|Bowling!
+3348|Ngươi nói đúng!
+3349|Ta không bảo vệ được đất nước, nên ta bất tài! Ta không có ý định ngồi lên ngai vàng lần nữa!
+3350|Vua Riku!
+3351|Tuy nhiên...
+3352|Ta đã cố hết sức để làm một người tốt!
+3353|Chín núi tám biển...
+3354|...hợp thành một thế giới!
+3355|Chú thích: Tiểu thiên thế giới - thuật ngữ Phật giáo chỉ một cụm một nghìn thế giới.
+3356|Một nghìn thế giới hợp thành một tiểu thiên thế giới!
+3357|Và khi gom lại rồi nhân lên lập phương tiểu thiên thế giới ấy, chẳng có gì tao không chém được!
+3358|Tam Kiếm Phái Bí Kỹ!
+3359|"Làm người tốt"?
+3360|Nếu ngươi nói ta không được sống mà không giết chóc,
+3361|thì ta chọn cái chết!
+3362|Một quốc gia giết người hàng loạt chẳng có tương lai!
+3363|Bệ hạ! Ngài là vị vua đích thực duy nhất của chúng thần!
+3364|Đây là lý do người tốt chẳng bao giờ làm nên lịch sử!
+3365|Vì tất cả bọn chúng đều chết như ngươi!
+3366|Tam Thiên Đại Thiên...
+3367|Một Tỉ Thế Giới!
+3368|Tốt! Hắn chạy lên phần thân trên rồi!
+3369|Roronoa!
+3370|Zoro!
+3371|Đá chết...
+3372|Đá sống...
+3373|Dù mình chém hắn ra bao nhiêu mảnh, thân thật của hắn chắc chắn phải nằm trong một mảnh!
+3374|Hắn không thể ở trong hai mảnh cùng lúc!
+3375|Háaa?!
+3376|Trên không trung chẳng có mặt đất nào cho hắn trốn!
+3377|Ra mặt đi, Pica!
+3378|Mày định trốn tới bao giờ?!
+3379|Dồn được ta vào đường cùng,
+3380|ngươi tưởng mình thắng rồi sao?!
+3381|Ngươi nghĩ chém được đá là thắng được ta, đúng không?
+3382|Khi bọc Haki, ta không thể bị chém!
+3383|Haki à?
+3384|Nếu ta hất ngươi văng ra, ngươi thua!
+3385|Chỉ khi Haki của mày mạnh hơn của tao!
+3386|Tao không có thời gian để vấp vào mày ở đây!
+3387|Câm miệng!
+3388|Chín núi tám biển...
+3389|Chẳng có gì tao không chém được!
+3390|Chết đi!
+3391|Roronoa Zoro!
+3392|Tam Thiên Thế Giới!
+3393|Đừng làm khổ người vô tội nữa!
+3394|Zoro-senpai!
+3395|Doro!
+3396|Thợ Săn Hải Tặc... đã cứu bạn ta, Vua Riku sao?
+3397|Nó vẫn đang sụp xuống!
+3398|Chết mất!
+3399|Cứu bọn tôi với, Boro!
+3400|Tới lượt cậu!
+3401|King...
+3402|Punch!
+3403|Thằng nhóc đó... Dùng King Punch của ta...
+3404|...để dọn đá! Vô lễ quá!
+3405|Ta sẽ không quên chuyện này đâu!
+3406|Xong chuyện!

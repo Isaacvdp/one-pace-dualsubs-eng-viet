@@ -1,0 +1,455 @@
+1|Room!
+2|Chambres!
+3|Ồ! Cậu ấy được cứu rồi!
+4|Lucy!
+5|Bến cảng giao dịch ngầm
+6|Nhìn kìa! Trên đó không còn ai nữa!
+7|Sao rồi?!
+8|Chuyện gì vừa xảy ra vậy?
+9|Nói cho bọn tôi biết đi, Gatz!
+10|Gatz-san!
+11|Anh không hét được nữa đâu!
+12|Đừng cố quá sức!
+13|Đồ ngốc!
+14|Bình luận viên mà không công bố được kẻ thắng người thua thì còn ra gì?
+15|Nhìn đi, hai người!
+16|Hãy nhìn lên trời, Dressrosa!
+17|Thứ gì đang tan biến?
+18|Lồng Chim?
+19|Hay sự thống trị của Doflamingo?
+20|Nhà máy vừa...
+21|Lồng Chim...
+22|Mấy sợi chỉ...
+23|Biến mất rồi!
+24|Tôi thấy bầu trời rồi! Bầu trời!
+25|Bầu trời!
+26|K-Khung cảnh bên ngoài lồng là...
+27|một thị trấn bị cắt nát thành từng mảnh?
+28|Hay là...
+29|một vùng đất không còn ai điều khiển chúng ta nữa - một vùng đất tự do?
+30|Lồng Chim biến mất rồi!
+31|Thế có nghĩa là...
+32|"Đại chiến Bảo vệ Dressrosa"!
+33|Hai ngàn hải tặc của gia tộc Donquixote...
+34|đối đầu
+35|những chiến binh định mệnh tình cờ có mặt ở đây!
+36|Và trận quyết đấu giữa hai thủ lĩnh!
+37|Thất Vũ Hải kiêm Quốc vương, Donquixote Doflamingo...
+38|đối đầu
+39|đấu sĩ Lucy!
+40|Ngừ thắn...
+41|Hả?
+42|Ngừ thắn...
+43|Anh ta nói gì vậy?
+44|Là "người thắng"!
+45|Ngừ thắn nà...
+46|Cố lên, Gatz-san!
+47|Ngừ thắn...
+48|Tỉnh lại đi, Gatz!
+49|Ai đó?!
+50|Đừng la. Đừng gọi ai cả.
+51|Ta là Donquixote Doflamingo.
+52|Ta là vị vua chính danh của vương quốc này.
+53|Nhà vua đã trở về!
+54|Có phải do chúng ta đã làm gì sai không?
+55|Không có lời bào chữa nào cho chuyện này.
+56|Đất nước tiêu rồi!
+57|Đây là bẫy của Doflamingo!
+58|Ngừ thắn...
+59|Tỉnh táo lại đi chứ!
+60|Nói rõ ra đi!
+61|Nghe này, Rebecca.
+62|Đừng khóc vội.
+63|Tôi sẽ không để ngài lính chết đâu.
+64|Cô nhớ giữ an toàn nhé.
+65|Tôi sẽ đánh cho Doflamingo một trận nhừ tử!
+66|Lucy...
+67|Người chiến thắng là...
+68|...Lucy!
+69|Lucy!
+70|Cảm ơn cậu, Lucy!
+71|Tuyệt nhất luôn!
+72|Cậu ấy làm được rồi!
+73|Siêu đỉnh!
+74|Luffyland!
+75|Luffy!
+76|Robiland!
+77|Luffy!
+78|Cuối cùng cậu ấy cũng làm được!
+79|Giỏi lắm, chàng trai!
+80|Thật phi thường!
+81|Quả không hổ danh Luffy-dono!
+82|Công chúa!
+83|Mừng quá đi!
+84|Fraland!
+85|Tất cả các cậu cũng làm tốt lắm!
+86|Đau bọn tôi đấy!
+87|Bọn ta, những món đồ chơi, từng là con người!
+88|Đội trưởng!
+89|Họ sẽ chiến đấu cùng chúng ta.
+90|Họ là người lùn của Vương quốc Tontatta.
+91|Ngài thật sự chắc chắn muốn bỏ cô bé lại sao?
+92|Cô bé đã khóc đấy!
+93|Đồ chơi cũng có thứ muốn bảo vệ!
+94|Dù đôi mắt thiếc này không thể rơi lệ.
+95|Vì thế mà Đội trưởng đã một mình chiến đấu suốt mười năm.
+96|Ngươi đã làm gì đất nước này và nhà vua, tên hải tặc kia?!
+97|Nhà vua đã phóng hỏa thành phố. Ngươi không thấy sao?
+98|Bệ hạ sẽ không bao giờ làm thế!
+99|Trận chiến này là để khôi phục danh dự cho Vua Riku, người bị phế truất trong ô nhục mười năm trước,
+100|và giành lại tự do cho chúng ta!
+101|Ngài lính!
+102|Ta sẽ không để ngươi cướp đi...
+103|thêm một người thân nào của ta nữa!
+104|Một đất nước đổ nát chưa chắc đã bất hạnh.
+105|Ngày hôm nay, giữa đống đổ nát, người dân của chính đất nước này...
+106|đã reo hò vui sướng.
+107|Hoan hô!
+108|Doflamingo bị hạ rồi!
+109|Từ giờ chúng ta được tự do rồi!
+110|Mẹ ơi! Bố ơi!
+111|Tạ ơn trời!
+112|Gatz-san!
+113|Phải, cậu ấy làm được rồi!
+114|Thế không định kết liễu tao à?
+115|Không cần.
+116|Có vẻ mọi chuyện kết thúc rồi.
+117|Anh em nhà mày mềm yếu quá!
+118|Sau khi thua thuyền trưởng bọn tao ở đảo Banaro,
+119|trước khi bị giao cho Hải Quân, Ace đã nói một câu.
+120|Muốn nghe không?
+121|Cảng ngầm
+122|Này, nhanh lên! Trận đấu giữa Mũ Rơm và Doflamingo kết thúc rồi!
+123|Hải Quân sắp tới đây rồi!
+124|Biết rồi!
+125|Gọi được sếp chưa?
+126|Đang gọi đây!
+127|Anh ấy không nghe máy.
+128|Anh ấy chỉ nghe khi nào thích thôi.
+129|Nghe xong mày sẽ cười bể bụng!
+130|Biết mình sắp bị xử tử, nó đã nói...
+131|Đừng nói với em trai tôi.
+132|Trời, đúng là thằng ngu!
+133|Nó chẳng biết mình đáng giá bao nhiêu!
+134|Hỏa Quyền Ace mà bị Hải Quân bắt thì tin sẽ lan khắp thế giới!
+135|Hải Quân sẽ tận dụng 120% cái mạng thảm hại của nó-
+136|Đủ rồi.
+137|Im đi.
+138|Cảm giác của Ace lúc ra đi...
+139|Hỏa Quyền Ace qua đời
+140|Từ ngày đó, đêm nào tao cũng nghĩ về nó không ngừng.
+141|Mày không cần nói. Tao hiểu rõ mà!
+142|Vậy thì thấm cho kỹ đi, đồ ngu!
+143|Còn Trái Ác Quỷ mày đang có...
+144|Không cướp được ở đây thì danh tiếng thợ săn người dùng Trái Ác Quỷ của tao sẽ mất sạch.
+145|Mày đừng hòng thoát, Trái Lửa!
+146|Mày hối hận lắm, đúng không?!
+147|Dù có danh hiệu và sức mạnh,
+148|mày vẫn chẳng cứu được anh em mình!
+149|Mày còn chẳng có mặt ở đó, đúng không?!
+150|Hay mày đang ngủ trưa?
+151|Lúc nó cần mày nhất, mày lại không ở đó.
+152|Thế mà cũng gọi là anh em!
+153|Tao hối hận đủ rồi!
+154|Hỏa Quyền!
+155|Chết tiệt!
+156|Tao đã chấp nhận rồi, nhưng Ace bảo không thể tha thứ cho mày.
+157|A! Alo, Sabo-kun?
+158|Rốt cuộc cậu đang ở đâu vậy?!
+159|Lúc nãy tôi thấy Burgess đuổi theo Luffy-kun,
+160|nên đã cuống cuồng liên lạc với cậu, mà cậu chẳng thèm nghe máy!
+161|Vậy à? Tôi không để ý.
+162|Cậu không cái gì cơ?!
+163|Đừng lo, tôi xử lý xong rồi.
+164|Mà này, Koala, cô tìm được danh sách chưa?
+165|Trời ạ... Rồi, tôi tìm được rồi!
+166|Vậy thì gọi tàu tới và-
+167|Gọi rồi!
+168|Được, vậy gặp Hack dưới lòng đất nhé.
+169|Tôi đang ở dưới lòng đất với Hack và mọi người đây!
+170|Sao lại cúp máy?! Đồ ích kỷ!
+171|Đừng trút giận lên tôi chứ, Koala-san!
+172|Hắn kia rồi!
+173|Gia tộc Donquixote!
+174|Tám cán bộ và...
+175|...ba cán bộ cấp cao đều có mặt đủ cả!
+176|Cẩn thận!
+177|Phần lớn cán bộ là người dùng Trái Ác Quỷ!
+178|Khóa chúng bằng Hải Lâu Thạch!
+179|Rõ, thưa ngài!
+180|Cứ ở bên tôi là được.
+181|Vâng.
+182|Oa! C-Cô làm gì vậy?!
+183|Anh bảo "cứ ở bên tôi" mà!
+184|Vậy là mình sẽ bên nhau mãi mãi!
+185|Buông tôi ra!
+186|Đã liên lạc với Tổng bộ Hải Quân chưa?
+187|À, thật ra thì...
+188|Isshou-san bảo "đừng báo cáo vội".
+189|Phó Đô đốc Maynard! Ốc Sên Giám Sát đã sẵn sàng!
+190|Được, để ta nói.
+191|Mang thêm một con Ốc Sên Giám Sát và đi theo Isshou-san, đúng như lệnh!
+192|Rõ, thưa ngài!
+193|Applenine - Một nước láng giềng
+194|Đây là đảo Applenine, một đất nước gần Dressrosa.
+195|Gì thế này?
+196|Sao vậy?
+197|Nghe nói sắp có buổi phát sóng từ Dressrosa!
+198|Là bài phát biểu của Vua Doflamingo à?
+199|Đáng sợ nhỉ?
+200|Đây là Dressrosa...
+201|Một nước láng giềng khác
+202|Chúng tôi đang phát sóng tới ba quốc đảo láng giềng trong tầm phủ sóng của Ốc Sên Giám Sát.
+203|Thêm một nước láng giềng nữa
+204|Tôi là Phó Đô đốc Tổng bộ Hải Quân Maynard!
+205|Hải Quân à?
+206|Đây là Dressrosa.
+207|Chúng tôi đang phát sóng tới ba quốc đảo láng giềng trong tầm phủ sóng của Ốc Sên Giám Sát.
+208|Nhưng sao lại thế?
+209|Mong mọi người hãy xem những hình ảnh này!
+210|Sao lại toàn đống đổ nát thế kia?
+211|Những gì các bạn đang thấy là tình trạng hiện tại của Dressrosa!
+212|Ông ta nói vậy là sao?
+213|Xin mọi người giữ bình tĩnh khi tôi kể lại...
+214|toàn bộ chi tiết những gì Thất Vũ Hải Donquixote Doflamingo đã làm hôm nay ở chính đất nước này!
+215|Isshou-san, tôi sẽ làm như ngài yêu cầu.
+216|Bọn thần cầu xin ngài, Bệ hạ!
+217|Biết bao người dân bị biến thành đồ chơi mà không thể lên tiếng!
+218|Không! Xin các con... đừng như vậy.
+219|Dù hiểu lầm về ta đã được giải tỏa, ta cũng không thể trở lại làm vua của các con.
+220|Không! Ngài mới là vị vua thật sự của đất nước này!
+221|Đúng vậy!
+222|Bọn thần chán ngấy bạo lực rồi!
+223|Bệ hạ!
+224|Nếu cả vương quốc đều cùng chung lý tưởng với ngài thì sao?
+225|Khoan.
+226|Lập trường của gia tộc Riku sẽ sụp đổ khi đối mặt với biến loạn.
+227|Sự việc lần này đã chứng minh điều đó.
+228|Bọn thần không quan tâm nếu phải lụi tàn!
+229|Chỉ cần có hy vọng sống hòa bình cùng ngài, bọn thần sẵn lòng lụi tàn!
+230|Bọn thần muốn ngài từ bỏ chiến tranh, làm vị vua yêu hòa bình của chúng thần!
+231|Đúng vậy!
+232|Dù đất nước có suy vong, bọn thần cũng chấp nhận!
+233|Nghèo cũng không sao! Chỉ cần Dressrosa lại là một đất nước hòa bình!
+234|Bệ hạ!
+235|Bệ hạ, bọn thần cầu xin ngài!
+236|Là một vị vua chiến đấu, những lời này thật chói tai!
+237|Elizabello!
+238|Bệ hạ! Ngài phải về cung ngay!
+239|Vua các nước láng giềng cứ liên tục gọi tới!
+240|Ngươi nói gì?
+241|Thần đã phải báo cho họ ngay...
+242|rằng Vua Riku sắp trở lại. Ai nghe xong cũng vui mừng khôn xiết!
+243|Vua của Prodence!
+244|Mới chỉ mười năm thôi. Sao ngài lại già đi nhiều thế?
+245|Người đàn ông dám đối đầu cả thế giới để tránh chiến tranh đâu rồi?
+246|Thần dân của ngài đang chờ đợi.
+247|Trở về đi...
+248|Vua Phép Màu, Riku Dold!
+249|Ngài ấy nói đúng, Vua Riku!
+250|Mọi rắc rối Doflamingo gây ra...
+251|tôi mong ngài đừng nhận trách nhiệm.
+252|Tên hải tặc tàn ác đó được công nhận làm vua một nước theo chế độ Thất Vũ Hải,
+253|và được phép cai trị hòn đảo này bởi chính...
+254|Chính phủ Thế giới!
+255|Gửi tới mọi người dân trên đất nước này...
+256|và mọi thành viên hoàng tộc...
+257|Thay mặt Chính phủ,
+258|tôi thành thật xin lỗi!
+259|Chúng tôi vô cùng hối hận về những gì đã xảy ra!
+260|Ông đang...
+261|Đô đốc Hải Quân quỳ rạp xuống sao?
+262|Đùa à...
+263|Chính phủ điều khiển Hải Quân!
+264|Và một Đô đốc Hải Quân, chiến lực mạnh nhất của họ...
+265|đang cúi đầu xin lỗi Vua Riku và đất nước của ngài!
+266|Rốt cuộc chuyện gì đang xảy ra ở Dressrosa vậy?
+267|Liên minh hải tặc Law - Mũ Rơm
+268|Liên minh hải tặc đó đã hạ Thiên Dạ Xoa Doflamingo?
+269|Chụp ảnh đi! In ra mau!
+270|Chuyện này chưa từng có tiền lệ!
+271|Vinh quang giả dối của cường quốc Dressrosa, và sự thật đằng sau nó.
+272|Sự sụp đổ của tay môi giới ngầm số một thế giới, Doflamingo.
+273|Và cái quỳ rạp của Đô đốc Tổng bộ Hải Quân Fujitora.
+274|Những biến cố lớn từng bị giam trong lồng...
+275|giờ đã được công bố cho cả thế giới.
+276|Một Đô đốc Tổng bộ Hải Quân quỳ rạp xuống sao?!
+277|Ốc Sên Giám Sát còn đang quay nữa!
+278|Đ-Đó là Đô đốc Hải Quân đúng không?
+279|C-Chuyện gì vậy?
+280|Có chuyện gì đó đang xảy ra ở Dressrosa!
+281|Ngẩng đầu lên đi, Fujitora.
+282|Fujitora, ngài không lo cả thế giới nhìn thấy cảnh này sao?
+283|Lẽ nào ngài...
+284|Chẳng lẽ...
+285|ngài tránh mặt Doflamingo là để làm việc này?
+286|Fujitora!
+287|Thế giới phải biết sự thật!
+288|Tôi đã để mọi trận chiến cho họ. Tôi đã đặt cược vào họ.
+289|Chính chúng tôi đã để Thất Vũ Hải muốn làm gì thì làm.
+290|Vậy chúng tôi lấy tư cách gì mà chĩa kiếm vào họ,
+291|rồi còn rao giảng về công lý mà không biết xấu hổ?
+292|Đất nước này giành được chiến thắng nhờ hải tặc, chiến binh và chính người dân!
+293|Cuộc chiến dài đằng đẵng của chúng ta cuối cùng đã kết thúc.
+294|Ta thật sự...
+295|Ta thật sự biết ơn công sức của các ngươi.
+296|Tiểu quân đoàn của Vua Riku, Lực lượng Đặc biệt Chống Doflamingo!
+297|Vâng, Chỉ huy!
+298|Kể từ hôm nay, tất cả các ngươi...
+299|...được giải tán!
+300|Chỉ huy!
+301|Tank!
+302|Hải Quân vẫn còn phải giữ lập trường của họ.
+303|Hãy giấu những hải tặc và chiến binh đã chiến đấu vì chúng ta trong cung điện.
+304|Đưa cả những người không còn chỗ ở tới đó. Ta ngại nhờ, nhưng trông cậy vào ngươi được chứ?
+305|Tất nhiên, thần rất vinh hạnh, thưa Bệ hạ!
+306|Red Line
+307|Thánh địa Mariejois
+308|Vậy...
+309|Báo tin Doflamingo rút lui, rồi lại tiết lộ đó là tin giả...
+310|Tất cả là lệnh của những kẻ bên trên các ông sao?
+311|Quyền lực Tối cao Chính phủ Thế giới - Ngũ Lão Tinh
+312|Thủy sư Đô đốc Tổng bộ Hải Quân Sakazuki (Akainu)
+313|Tại sao phải lừa dối cả thế giới
+314|chỉ vì một kẻ như Doflamingo?!
+315|Nếu chuyện này còn xảy ra lần nữa, tôi sẽ mất mặt với tư cách Thủy sư Đô đốc!
+316|Đừng bao giờ làm thế nữa, dù trong bất kỳ hoàn cảnh nào!
+317|Đừng hỗn láo với chúng ta, Sakazuki.
+318|Danh dự của ngươi hoàn toàn chẳng quan trọng.
+319|Hải Quân chỉ là bộ mặt công khai của Chính phủ.
+320|Vụ này chúng ta đã giao hết cho Cipher Pol.
+321|Hừ! Cipher Pol à?
+322|Nói đơn giản thì,
+323|chúng đã qua mặt các ông.
+324|Lũ con rối chết tiệt của Thiên Long Nhân!
+325|Cẩn thận lời nói, Sakazuki!
+326|Còn hành động của Kuzan thì sao?
+327|Khó tin một kẻ mạnh như hắn giờ lại theo phe Râu Đen.
+328|Chuyện đó chắc chắn sẽ làm ô danh Hải Quân!
+329|Thằng ngốc đó đã rời Hải Quân rồi!
+330|Hắn ở đâu, làm gì không phải trách nhiệm của chúng tôi!
+331|Ngũ Lão Tinh! Thủy sư Đô đốc Sakazuki!
+332|Xin báo cáo!
+333|Thất Vũ Hải Donquixote Doflamingo và gia tộc của hắn đã bị liên minh hải tặc Law - Mũ Rơm đánh bại.
+334|Và Dressrosa đã bị tàn phá. Chẳng còn lại gì cả!
+335|Ngươi nói gì?!
+336|Lại...
+337|...là thằng nhóc đó sao?
+338|Và còn một chuyện nữa...
+339|Các nước khắp Tân Thế Giới
+340|Đoạn phim và câu chuyện gửi tới các nước láng giềng của Dressrosa lan từ đảo này sang đảo khác.
+341|Báo đây! Báo đây!
+342|Tin tức lan nhanh như cháy rừng khắp thế giới, kéo theo hậu quả nghiêm trọng.
+343|Doflamingo sụp đổ!!
+344|Joker bị đánh bại rồi!
+345|Bệ hạ! Chúng ta không còn cách nào khác để có vũ khí!
+346|Tuyên bố đầu hàng đi.
+347|Chiến tranh kết thúc rồi!
+348|Bọn tao trả tiền rồi! Đã thỏa thuận rồi mà!
+349|Thằng khốn Joker!
+350|Tao biết ở Dressrosa vẫn còn vũ khí!
+351|Đừng! Ở đó vẫn còn một Đô đốc Hải Quân!
+352|Vụ giao dịch Trái Ác Quỷ của bọn ta!
+353|Giờ vụ SMILE sẽ ra sao đây?!
+354|Giá như không có lũ ngốc đó!
+355|Thôi nào, Tsuru-chan! Bà đâu cần đi theo bọn tôi!
+356|Câu đó phải để tôi nói mới đúng, Tổng Thanh tra!
+357|Chà, đó là băng hải tặc bà truy đuổi bấy lâu nay mà, đúng không?
+358|Phải, theo lệnh của ông.
+359|Ăn bánh gạo không?
+360|Ở một thị trấn nọ
+361|Thế nào? Đây là pizza thập cẩm đặc biệt hôm nay.
+362|Hả? Trộm!
+363|Này, bà già! Đứng lại!
+364|Chết tiệt, bà ta đi đâu rồi?
+365|Chậc, chỉ là một con bé. Bà già, bà đi đâu rồi?!
+366|Ồ, họ hạ được Doflamingo rồi.
+367|Không tệ. Cùng thế hệ với họ cũng thấy vui.
+368|Từ South Blue - Thuyền trưởng băng hải tặc Bonney "Kẻ Háu Ăn" Jewelry Bonney
+369|Trên một bầu trời nọ
+370|Đại Tư tế Urouge!
+371|Đại Tư tế Urouge!
+372|C-Có ai đó ở đây! Đại Tư tế!
+373|Từ Đảo Trời - Thuyền trưởng băng hải tặc Phá Giới Tăng "Tu Sĩ Điên" Urouge
+374|Vớ vẩn! Chúng ta đang ở Đảo Trời.
+375|Lại còn là một đảo mây hoang vắng, cô lập nữa.
+376|Ngoài chúng ta thì không thể nào có ai-
+377|Trên một vùng biển nọ
+378|Chà, chà, không tệ, liên minh hải tặc đó.
+379|Có vẻ đồng nghiệp hải tặc của ta làm ăn cũng không tồi.
+380|Từ West Blue - Thuyền trưởng băng hải tặc Fire Tank, Capone "Gang" Bege
+381|Bắt Caesar bằng mọi giá, các con!
+382|Vâng, Bố già!
+383|Sào huyệt của băng hải tặc Kid
+384|Chúng ra tay trước khi ta kịp biết.
+385|Đúng là một chiến thắng lớn!
+386|Doflamingo chắc chắn có quan hệ ngầm với Kaidou.
+387|Chà, thế thì Kaidou sẽ nổi điên lắm đây, nhỉ?
+388|Từ South Blue - Thuyền trưởng băng hải tặc Kid "Thuyền Trưởng" Eustass Kid
+389|Nếu chúng đã tính trước cả rồi, thì mục tiêu hẳn là...
+390|Từ North Blue - Thuyền trưởng băng hải tặc Hawkins "Pháp Sư" Basil Hawkins
+391|...một trong Tứ Hoàng, như ta đã nghĩ.
+392|Từ Grand Line (tộc Tay Dài) - Thuyền trưởng băng hải tặc On-Air "Thủy Triều Gầm" Scratchmen Apoo
+393|"Bách Thú" Kaidou à?
+394|Từ South Blue - Chiến đấu viên băng hải tặc Kid "Chiến Binh Tàn Sát" Killer
+395|May là mục tiêu của ta không trùng với chúng.
+396|Sẽ không phải đánh nhau, phí phạm binh lực.
+397|Mục tiêu của bọn ta là một Tứ Hoàng khác, "Tóc Đỏ" Shanks!
+398|Giờ hãy chuyển sang Drake, kẻ từng gây chiến trên lãnh địa của Kaidou...
+399|Một hòn đảo nọ
+400|Cha ngươi bị giết sao? Bởi Doflamingo?
+401|Chuyện từ lâu rồi. Ta chẳng thù hằn gì.
+402|Từ North Blue - Thuyền trưởng băng hải tặc Drake "Cờ Đỏ" X-Drake
+403|Gì chứ? Ngươi lạnh lùng thật đấy.
+404|Này, phụ một tay đi!
+405|Chuyện khẩn cấp! Không báo ngay là ngài ấy nổi điên mất!
+406|Kaidou-sama! Ngài ở đâu?
+407|Tên ngốc Joker hỏng việc to rồi!
+408|Chúng ta sẽ không nhận được SMILE nữa!
+409|Đừng giả ngu với ta, Isshou!
+410|Dressrosa
+411|Ngươi thừa biết một Đô đốc Hải Quân thừa nhận sai sót nghiêm trọng đến mức nào!
+412|Sao không báo cáo về Tổng bộ trước?!
+413|Nếu tôi báo cáo, chắc ngài lại sửa nội dung báo cáo lần nữa, phải không?
+414|Ngươi vừa nói gì?!
+415|Tôi cũng thấy chế độ Thất Vũ Hải phải chấm dứt.
+416|Hai năm trước, tôi đã ở đó khi Crocodile lộ bộ mặt thật.
+417|Hải Quân chẳng làm được gì cả!
+418|Nếu không có băng Mũ Rơm,
+419|Alabasta đã thành một đất nước bị hải tặc cai trị, giống hệt Dressrosa.
+420|Vậy mà Chính phủ lại báo rằng đó là công của Hải Quân!
+421|Giá mà hồi đó tôi có cấp bậc cao hơn!
+422|Không ngờ Fujitora làm thật.
+423|Nó khiến tôi nhớ lại nỗi uất ức ở Vương quốc Alabasta hai năm trước.
+424|Hồi đó chiến công của băng Mũ Rơm bị che giấu.
+425|Cứ như ông ta đã trả nợ thay chúng ta vậy.
+426|Dù có cùng cấp bậc với ông ta, tôi cũng không làm nổi chuyện đó.
+427|Cảm giác này đủ để tôi no cả mấy ngày.
+428|Ồ, có bánh muffin này! Uống chút cà phê nhé?
+429|Ý đâu phải là muốn ăn, đồ ngốc!
+430|Cô ơi, cháu đói!
+431|Bọn cháu cũng đói!
+432|Có bánh muffin đấy! Uống chút cà phê nhé?
+433|Không được cho trẻ con uống cà phê!
+434|Cháu muốn bánh muffin!
+435|Tới chỗ Megapants chưa ạ?
+436|Là "Vegapunk".
+437|Còn vài ngày nữa mới tới phòng thí nghiệm của Tiến sĩ Vegapunk.
+438|Dễ thương quá! Đại tá-chan hiền với bọn trẻ ghê!
+439|Ước gì mình là trẻ con!
+440|Này, mấy người! Còn cả đống việc phải làm đấy!
+441|Rõ, thưa sếp!
+442|Mắng bọn em thêm đi, Đại tá-chan!
+443|Che đậy là chuyện thường ngày!
+444|Tôi không muốn làm anh hùng dựng trên dối trá.
+445|Chính chủ thuê của chúng ta, Chính phủ Thế giới, đã thuê hải tặc để giữ cân bằng thế giới.
+446|Đây là vấn đề uy tín và phẩm giá của Hải Quân!
+447|I-Isshou-san, ng-ngài đang nói chuyện với...
+448|Hành động tùy tiện của ngươi làm nhục chính cái tên công lý!
+449|Nếu ngài coi trọng công lý của mình đến thế, thì hãy trông chừng nó cho kỹ!
+450|Nếu chỉ vì nhận lỗi mà mất uy tín, thì ngay từ đầu ta đã chẳng có uy tín gì!
+451|Vậy thì tự dọn dẹp hậu quả đi, Fujitora!
+452|Mũ Rơm và Law... Chừng nào chưa mang đầu chúng về cho ta,
+453|ngươi bị cấm đặt chân vào bất kỳ căn cứ Hải Quân nào trên thế giới!
+454|Tốt, đó đúng là điều tôi muốn nghe.
+455|Thịt...

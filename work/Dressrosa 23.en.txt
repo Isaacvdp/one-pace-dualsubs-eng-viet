@@ -1,0 +1,305 @@
+1|The arena has been completely destroyed!
+2|And is it just me, or is the water level sinking?!
+3|I can't guarantee that the Colosseum is safe any longer!
+4|Everyone, please evacuate as fast as you can!
+5|I give up, I give up!
+6|Watch what you're holding on to, you're gonna choke me!
+7|The water...
+8|My strength's...
+9|Stop!
+10|We weren't going to actually give that prize to anyone!
+11|They're all outside the arena! I win!
+12|The one who gets the fruit wins, right?
+13|The Mera Mera Fruit?!
+14|I can eat it, right?
+15|A winner! We have a winner!
+16|This might not be the best time...
+17|but the one who managed to take advantage of the chaos to claim the Mera Mera Fruit...
+18|is this tournament's ultimate dark horse, Lucy!
+19|He has won!
+20|Yuck!
+21|Ah... can't hold on... any more...
+22|Grand master... Save me too...
+23|You're a man, right? Save yourself!
+24|I thought you'd say that.
+25|Here comes another shot, so watch out!
+26|What?!
+27|Dammit, he ate the Mera Mera Fruit!
+28|Isn't that the Revolutionary Army's...
+29|Hot! The flames really did appear!
+30|I've got his clothes!
+31|No wait, it's just my imagination. It's not hot at all.
+32|I've become fire!
+33|Ace!
+34|I'm using your technique!
+35|Fire!
+36|The Underground Trading Port
+37|Curse you, Straw Hats and Tontattans!
+38|I'm not letting you out of here!
+39|Everyone, take care of Usopp.
+40|Understood!
+41|We're getting out of here!
+42|Don't let them lay one finger on Usoland!
+43|You're out to destroy the Smile factory.
+44|Right, Nico Robin?
+45|Beta Beta Chain!
+46|Hold it!
+47|A giant?!
+48|Are you guys dwarves? I'll be taking your friend for a bit.
+49|U-Usoland!
+50|You fought for us, until you were half dead.
+51|From what I hear, there are people here who were toys for a decade.
+52|I can't even imagine your suffering.
+53|Ow. Don't move me.
+54|If it weren't for you, we would have remained toys forever.
+55|We had been turned into slaves, and you saved our lives.
+56|Have a good look, warriors!
+57|This man...
+58|is the hero who lifted the curse on us!
+59|His name is...
+60|Captain Usopp!
+61|Thank you!
+62|What's that?!
+63|The ceiling is collapsing?!
+64|A light from the heavens!
+65|D-Don't tell me... this man...
+66|is a servant of God?!
+67|Are we... seeing...
+68|a miracle?!
+69|He's divine! Truly a god!
+70|I ... just want to rest, you bastard!
+71|Will ... you just stop?
+72|You're so annoying!
+73|See my face ...
+74|b ... leed ... ing all over.
+75|You ... piece of shit!
+76|"I will lead you"?
+77|"I will lead you"!
+78|You... really are...
+79|our savior, sent from Heaven!
+80|God Usopp! God Usopp! God Usopp!
+81|Please guide us, God Usopp!
+82|God Usopp! God Usopp! God Usopp!
+83|What must we do?!
+84|Alright... Then destroy that factory behind me...
+85|and rescue my tiny friends.
+86|As you wish!
+87|Yeah!
+88|Usopp...
+89|Usoland! Usoland! Usoland!
+90|Dammit!
+91|That guy wasn't Straw Hat!
+92|And he ate the Mera Mera Fruit that I wanted!
+93|God dammit, now how am I supposed to explain all this to Doffy?
+94|Who are those guys?
+95|I'll make you pay for turning us into toys.
+96|Let's take him out along with the factory!
+97|Oh, they used to be toys working underground.
+98|That scared me...
+99|It just caught fire.
+100|This is hard to control.
+101|Um...
+102|Wait up, leaving me behind like that was mean, grand master!
+103|Sure, I am a man, and I can put up barriers...
+104|He's...
+105|Who are you?
+106|Me?
+107|My name is Sabo.
+108|Revolutionary Army Chief of Staff Sabo
+109|Revolutionary Army Hack
+110|We're warriors from the revolutionary army.
+111|Then the first Lucy...
+112|The first Lucy was the man who will one day become the Pirate King, with a bounty of 400 million,
+113|Straw Hat Luffy.
+114|A pirate?!
+115|Yeah, he's my little brother.
+116|Take care of him.
+117|Luffy is a nice guy, isn't he?
+118|He hasn't gotten any less reckless either. He's exactly the same.
+119|You're pretty reckless yourself, Sabo-kun.
+120|Really?
+121|Why is the revolutionary army in this country?
+122|That's...
+123|The weapons shipped from this port are prolonging wars all around the world.
+124|We... came to stop it.
+125|The revolutionary army has sent soldiers to this country several times,
+126|but since they were all turned into toys, we could never unveil this black market.
+127|Hey, that guy's dangerous.
+128|Yeah, that's Sabo, isn't it?!
+129|What's the revolutionary army's number two doing here?
+130|We've gotta tell the young master.
+131|But it looks like the weapons are being made somewhere else.
+132|Where are these weapons being made?
+133|If we could find out, it'd make a great gift to Dragon-san.
+134|Royal Palace
+135|Damn you, how dare you kill the young master?!
+136|I'm gonna blow you away!
+137|Buffalo!
+138|Traf!
+139|I came to save you!
+140|Straw Hat?!
+141|I'm glad you're alive!
+142|You shouldn't have any business up here, Straw Hat!
+143|What happened to the factory?
+144|Did you destroy it?
+145|This is the key to his handcuffs.
+146|You've prepared for everything.
+147|Wait right there, Straw Hat! Violet!
+148|I won't let you lay a finger on the young ma-
+149|Young master...
+150|King Riku, sorry to have kept you waiting.
+151|Just wait a sec, I'll get you out right away.
+152|Sorry you've come all this way, but our alliance is over.
+153|Get out of here.
+154|Well you're pretty selfish. I'm the one who decides those things, so shut up!
+155|Who's the selfish one?!
+156|Hurry up and unlock the cuffs.
+157|Oh yeah.
+158|Our alliance is over. That means we're enemies again.
+159|If you let me go, I'll kill you.
+160|Don't move!
+161|I can't touch Sea Stone, so unlocking this is tricky.
+162|Stay steady.
+163|Are you guys even listening to me?!
+164|It's the stone guy.
+165|It's Pica!
+166|You've screwed me over far beyond my imagination.
+167|Mingo's alive!
+168|Young master!
+169|Young master!
+170|What kind of body does he have?!
+171|Thanks to the release of the toys, the country is in a state of chaos.
+172|And I don't know why, but the revolutionary army also seems to have invaded.
+173|This is a bad situation.
+174|I'll have to use the bird cage.
+175|The bird cage?!
+176|Right, Law?
+177|Smile Factory
+178|What are we gonna do? The guys who were toys...
+179|are attacking the factory!
+180|Don't worry.
+181|Nobody can get in here without the keys.
+182|This factory is as important as life itself to the young master.
+183|And it's made of Sea Stone. Even the ceiling caving in wouldn't damage it.
+184|And last, but not least...
+185|We've got two top commanders protecting us!
+186|Nobody can defeat those two!
+187|This factory's protection is impenetrable!
+188|In the Trading Port
+189|Koala!
+190|Robin-san!
+191|I knew it was you.
+192|Are you doing well?
+193|Yeah.
+194|Sabo and Hack, you haven't changed.
+195|Hey.
+196|Did you meet up with Luffy?
+197|Yeah.
+198|It's that guy.
+199|He's our crewmate, Usopp.
+200|Just let him lie down.
+201|Outside the Lift
+202|It's Doflamingo!
+203|Excuse me, let me through.
+204|The King's Land In front of the Rampart Tower
+205|What's with the noise?
+206|I guess something's going on down there.
+207|Anyway, where the hell did that rock guy go?
+208|The Royal Palace
+209|I must deal with this right away.
+210|You freak!
+211|How can you still be alive, Doflamingo?!
+212|Want me to teach you how to kill people?
+213|Soldier!
+214|Kyros!
+215|This is how.
+216|Kyros!
+217|Straw Hat!
+218|There are two of him?!
+219|Forgive me, I let my guard down.
+220|Gomu Gomu no...
+221|Arming!
+222|Jet Gatling!
+223|Luffyland!
+224|What is that clone?!
+225|That hurt...
+226|It looks like a marionette made of strings.
+227|I've never seen him do that before!
+228|King Riku.
+229|Do you remember how you felt that night ten years ago?
+230|The night you had to kill your beloved citizens and burn this peaceful city to the ground?
+231|Please stop this!
+232|It still keeps me up at night.
+233|What of it?!
+234|The tragedy that is coming will be infinitely worse.
+235|You're not serious! What are you planning to do?!
+236|That tragedy can never-
+237|I'll let you go.
+238|Pica.
+239|Get these pests out of here.
+240|Doflamingo...
+241|please...
+242|don't cause any more...
+243|damage to this country!
+244|Gomu Gomu no...
+245|Balloon!
+246|He threw us all the way out to the garden by the Rampart Tower.
+247|As long as Pica is here, we can't get near Doflamingo.
+248|It's started...
+249|The bird cage!
+250|Captain, what's that?!
+251|How should I know?! Anyway, we gotta get off the island!
+252|There's no point trying to fight Doflamingo, he'll just kill us!
+253|Captain, there's something in front of you!
+254|Ow!
+255|B-Blades?
+256|Huh? What's with this fence?
+257|Doflamingo doesn't want the truth about this island to get out.
+258|So he's going to...
+259|kill every single person on the island.
+260|The fence has us completely surrounded.
+261|Where is the exit?!
+262|What's that?
+263|Vice-admiral Bastille. We can't contact HQ.
+264|Huh?!
+265|Likewise! We're not getting through to our base!
+266|We haven't reported in to them yet.
+267|Hey! What are you doing to the people?!
+268|I-It's not me! My body's moving on its own!
+269|Hey, stop it!
+270|W-Why did I...
+271|No!
+272|Stop! Get out of the way, everyone!
+273|Parasite String.
+274|Reporting in!
+275|All across Dressrosa, people are indiscriminately attacking others!
+276|Even some of the marines have started going mad!
+277|If this goes on, countless civilians will die!
+278|What now?!
+279|T-The Royal Grounds are sinking!
+280|H-Hey, the ground's lowering itself! What's happening?!
+281|It's Pica.
+282|He can change the whole terrain, as long as it's made of stone!
+283|The palace is going off somewhere!
+284|Wait, palace!
+285|The factory is rising!
+286|What's going on here?!
+287|Somebody...
+288|Please, stop me!
+289|Flower Hill...
+290|is growing and swallowing the city!
+291|The Royal Palace
+292|Citizens of Dressrosa and visiting guests.
+293|I could simply have ruled you with fear from the start.
+294|Now that you know everything, I'm sure many of you want to kill me.
+295|So I've prepared a little game.
+296|A game to kill me.
+297|I'm in the royal palace.
+298|I won't run, nor will I hide.
+299|If you can take my life, naturally the game will end.
+300|But there is one other way to end it.
+301|That is, if you take down every last one of the people I'm about to identify.
+302|Furthermore, I will put a hefty bounty on each of their heads.
+303|Kill, or be killed.
+304|Everyone in this country will become hunters.
+305|There is no way out, except for you to kill!

@@ -1,0 +1,305 @@
+1|Sàn đấu bị phá hủy hoàn toàn rồi!
+2|Là tôi tưởng tượng hay mực nước đang rút xuống vậy?!
+3|Tôi không thể đảm bảo Đấu trường còn an toàn nữa!
+4|Mọi người, xin hãy sơ tán càng nhanh càng tốt!
+5|Tao chịu thua, tao chịu thua!
+6|Coi chừng chỗ mày bám vào, tao nghẹt thở bây giờ!
+7|Nước...
+8|Sức lực của tôi...
+9|Dừng lại!
+10|Bọn ta vốn đâu định trao giải thưởng đó cho ai!
+11|Tất cả bọn chúng văng ra khỏi sàn đấu rồi! Tôi thắng!
+12|Ai lấy được trái đó là thắng, đúng không?
+13|Trái Mera Mera?!
+14|Tôi ăn được chứ?
+15|Có người thắng! Chúng ta đã có người chiến thắng!
+16|Có lẽ giờ không phải lúc thích hợp lắm...
+17|nhưng người đã tận dụng hỗn loạn để giành lấy Trái Mera Mera...
+18|chính là con ngựa ô của giải đấu, Lucy!
+19|Cậu ấy đã chiến thắng!
+20|Eo ơi!
+21|A... không bám... nổi nữa...
+22|Sư phụ... Cứu tôi với...
+23|Cậu là đàn ông mà? Tự cứu mình đi!
+24|Biết ngay sư phụ sẽ nói vậy mà.
+25|Thêm một phát nữa đấy, coi chừng!
+26|Cái gì?!
+27|Chết tiệt, hắn ăn Trái Mera Mera rồi!
+28|Kia chẳng phải là... của Quân Cách Mạng sao...
+29|Nóng! Lửa hiện ra thật rồi!
+30|Tóm được áo hắn rồi!
+31|À không, chắc tưởng tượng thôi. Chẳng nóng tí nào.
+32|Mình hóa thành lửa rồi!
+33|Ace!
+34|Mượn chiêu của cậu nhé!
+35|Hỏa Quyền!
+36|Cảng giao dịch ngầm
+37|Lũ Mũ Rơm và bọn Tontatta khốn kiếp!
+38|Ta không để các ngươi thoát khỏi đây đâu!
+39|Mọi người, nhờ chăm sóc Usopp nhé.
+40|Rõ!
+41|Rời khỏi đây thôi!
+42|Đừng để chúng động đến ngài Usoland dù chỉ một ngón tay!
+43|Các ngươi định phá nhà máy SMILE.
+44|Phải không, Nico Robin?
+45|Beta Beta Chain!
+46|Đứng lại!
+47|Người khổng lồ?!
+48|Các người là người lùn à? Tôi mượn bạn các người một lát nhé.
+49|N-Ngài Usoland!
+50|Cậu đã chiến đấu vì bọn tôi đến mức thừa sống thiếu chết.
+51|Nghe nói ở đây có người đã làm đồ chơi suốt mười năm.
+52|Tôi còn không tưởng tượng nổi họ đã khổ thế nào.
+53|Ui. Đừng lay tôi.
+54|Nếu không có cậu, bọn tôi đã mãi mãi là đồ chơi.
+55|Bọn tôi bị biến thành nô lệ, và cậu đã cứu mạng bọn tôi.
+56|Hãy nhìn cho kỹ, hỡi các chiến binh!
+57|Người này...
+58|chính là người hùng đã giải lời nguyền cho chúng ta!
+59|Tên cậu ấy là...
+60|Thuyền trưởng Usopp!
+61|Cảm ơn cậu!
+62|Gì vậy?!
+63|Trần sập rồi sao?!
+64|Ánh sáng từ trời cao!
+65|Đ-Đừng nói là... người này...
+66|là sứ giả của Thần sao?!
+67|Chúng ta... đang chứng kiến...
+68|một phép màu sao?!
+69|Thật thiêng liêng! Đúng là thần thánh!
+70|Tao... chỉ muốn nghỉ thôi, đồ khốn!
+71|Bọn mày... thôi đi được không?
+72|Phiền chết đi được!
+73|Nhìn mặt tao đi...
+74|m... áu... chảy... khắp nơi.
+75|Lũ... chết tiệt!
+76|"Ta sẽ dẫn dắt các ngươi"?
+77|"Ta sẽ dẫn dắt các ngươi"!
+78|Ngài... đúng là...
+79|vị cứu tinh trời cao phái xuống!
+80|Thần Usopp! Thần Usopp! Thần Usopp!
+81|Xin hãy dẫn dắt chúng tôi, Thần Usopp!
+82|Thần Usopp! Thần Usopp! Thần Usopp!
+83|Chúng tôi phải làm gì đây?!
+84|Được rồi... Vậy hãy phá cái nhà máy sau lưng ta...
+85|và giải cứu những người bạn tí hon của ta.
+86|Tuân lệnh!
+87|Ồ!
+88|Usopp...
+89|Usoland! Usoland! Usoland!
+90|Chết tiệt!
+91|Tên đó không phải Mũ Rơm!
+92|Lại còn ăn mất Trái Mera Mera ta muốn nữa!
+93|Chết tiệt, giờ ta biết giải thích với Doffy thế nào đây?
+94|Bọn đó là ai vậy?
+95|Tao sẽ bắt mày trả giá vì đã biến bọn tao thành đồ chơi.
+96|Hạ hắn cùng với nhà máy luôn!
+97|À, họ từng là đồ chơi làm việc dưới lòng đất.
+98|Hết hồn...
+99|Tự dưng bốc cháy.
+100|Khó điều khiển thật.
+101|Ừm...
+102|Đợi đã, bỏ tôi lại thế thì ác quá, sư phụ!
+103|Phải, tôi là đàn ông, và tôi biết dựng rào chắn...
+104|Anh ta là...
+105|Anh là ai?
+106|Tôi á?
+107|Tên tôi là Sabo.
+108|Tham mưu trưởng Quân Cách Mạng Sabo
+109|Hack, Quân Cách Mạng
+110|Bọn tôi là chiến binh của Quân Cách Mạng.
+111|Vậy Lucy đầu tiên...
+112|Lucy đầu tiên là người sau này sẽ trở thành Vua Hải Tặc, tiền truy nã 400 triệu,
+113|Luffy Mũ Rơm.
+114|Hải tặc sao?!
+115|Ừ, em trai tôi đấy.
+116|Nhờ mọi người chăm sóc nó.
+117|Luffy dễ mến thật nhỉ?
+118|Nó vẫn liều lĩnh y như xưa. Chẳng thay đổi gì cả.
+119|Cậu cũng liều lĩnh lắm đấy, Sabo-kun.
+120|Vậy à?
+121|Sao Quân Cách Mạng lại ở đất nước này?
+122|Chuyện đó...
+123|Vũ khí xuất ra từ cảng này đang kéo dài chiến tranh khắp thế giới.
+124|Bọn tôi... đến để chấm dứt chuyện đó.
+125|Quân Cách Mạng đã nhiều lần cử người đến đây,
+126|nhưng ai cũng bị biến thành đồ chơi, nên chưa thể vạch trần chợ đen này.
+127|Này, tên đó nguy hiểm đấy.
+128|Ừ, là Sabo, phải không?!
+129|Nhân vật số hai của Quân Cách Mạng làm gì ở đây?
+130|Phải báo cho Thiếu chủ.
+131|Nhưng có vẻ vũ khí được sản xuất ở chỗ khác.
+132|Số vũ khí này được làm ở đâu nhỉ?
+133|Nếu tìm ra được, đó sẽ là món quà tuyệt vời cho Dragon-san.
+134|Hoàng cung
+135|Thằng khốn, sao mày dám giết Thiếu chủ?!
+136|Tao sẽ thổi bay mày!
+137|Buffalo!
+138|Traf!
+139|Tôi đến cứu cậu đây!
+140|Mũ Rơm-ya?!
+141|Mừng là cậu còn sống!
+142|Cậu đâu có việc gì ở trên này, Mũ Rơm-ya!
+143|Nhà máy sao rồi?
+144|Các cậu phá được chưa?
+145|Đây là chìa khóa còng tay của cậu ấy.
+146|Cô chuẩn bị chu đáo thật.
+147|Đứng lại, Mũ Rơm! Violet!
+148|Ta không để các ngươi động đến Thiếu ch-
+149|Thiếu chủ...
+150|Vua Riku, xin lỗi đã để ngài phải đợi.
+151|Chờ chút, tôi thả cậu ra ngay.
+152|Xin lỗi vì cậu cất công đến tận đây, nhưng liên minh của chúng ta kết thúc rồi.
+153|Đi đi.
+154|Cậu ích kỷ thật đấy. Chuyện đó là tôi quyết, nên im đi!
+155|Ai mới là kẻ ích kỷ hả?!
+156|Mau mở còng đi.
+157|À đúng rồi.
+158|Liên minh kết thúc. Nghĩa là chúng ta lại là kẻ thù.
+159|Nếu cậu thả tôi ra, tôi sẽ giết cậu.
+160|Đừng cựa quậy!
+161|Tôi không chạm được Hải Lâu Thạch, nên mở cái này khó lắm.
+162|Giữ yên nào.
+163|Mấy người có nghe tôi nói không vậy?!
+164|Tên người đá kìa.
+165|Là Pica!
+166|Ngươi chơi ta một vố vượt xa tưởng tượng đấy.
+167|Mingo còn sống!
+168|Thiếu chủ!
+169|Thiếu chủ!
+170|Cơ thể hắn là cái gì vậy?!
+171|Vì đồ chơi được giải thoát, cả nước đang hỗn loạn.
+172|Không hiểu sao, Quân Cách Mạng cũng có vẻ đã xâm nhập.
+173|Tình hình tệ thật.
+174|Ta sẽ phải dùng đến Lồng Chim thôi.
+175|Lồng Chim?!
+176|Phải không, Law?
+177|Nhà máy SMILE
+178|Làm sao đây? Đám từng là đồ chơi...
+179|đang tấn công nhà máy!
+180|Đừng lo.
+181|Không có chìa khóa thì không ai vào được đây.
+182|Nhà máy này quan trọng như mạng sống của Thiếu chủ vậy.
+183|Lại còn làm bằng Hải Lâu Thạch. Trần có sập cũng chẳng hề hấn gì.
+184|Và cuối cùng, quan trọng nhất...
+185|Có hai cán bộ cấp cao đang bảo vệ chúng ta!
+186|Không ai đánh bại được hai người đó!
+187|Nhà máy này được bảo vệ không kẽ hở!
+188|Trong cảng giao dịch
+189|Koala!
+190|Robin-san!
+191|Tôi biết ngay là cô mà.
+192|Cô vẫn khỏe chứ?
+193|Ừ.
+194|Sabo và Hack, hai người vẫn chẳng thay đổi gì.
+195|Chào.
+196|Cô gặp Luffy chưa?
+197|Rồi.
+198|Là cậu ta đấy.
+199|Đó là đồng đội của tôi, Usopp.
+200|Cứ để cậu ấy nằm nghỉ đi.
+201|Bên ngoài thang máy
+202|Là Doflamingo!
+203|Xin lỗi, cho tôi qua.
+204|Vùng đất của Vua - Trước Tháp Thành Lũy
+205|Ồn ào gì vậy?
+206|Chắc dưới kia có chuyện gì rồi.
+207|Mà tên người đá đó đi đâu mất rồi?
+208|Hoàng cung
+209|Ta phải giải quyết chuyện này ngay.
+210|Đồ quái vật!
+211|Sao mày vẫn còn sống được, Doflamingo?!
+212|Muốn ta dạy ngươi cách giết người không?
+213|Chú lính!
+214|Kyros!
+215|Như thế này này.
+216|Kyros!
+217|Mũ Rơm!
+218|Có hai tên hắn sao?!
+219|Thứ lỗi, tôi đã mất cảnh giác.
+220|Gomu Gomu no...
+221|Vũ Trang!
+222|Jet Gatling!
+223|Luffyland!
+224|Phân thân đó là gì vậy?!
+225|Đau đấy...
+226|Trông như một con rối làm bằng chỉ.
+227|Tôi chưa từng thấy hắn làm thế bao giờ!
+228|Vua Riku.
+229|Ngươi có nhớ cảm giác đêm đó, mười năm trước không?
+230|Cái đêm ngươi phải giết thần dân yêu quý và thiêu rụi thành phố yên bình này?
+231|Xin hãy dừng lại!
+232|Đến giờ ta vẫn mất ngủ vì nó.
+233|Thì sao chứ?!
+234|Bi kịch sắp tới sẽ còn khủng khiếp hơn gấp vạn lần.
+235|Ngươi không đùa đấy chứ! Ngươi định làm gì?!
+236|Bi kịch như thế không bao giờ được-
+237|Ta sẽ tha cho các ngươi.
+238|Pica.
+239|Tống khứ lũ sâu bọ này đi.
+240|Doflamingo...
+241|làm ơn...
+242|đừng gây thêm...
+243|tổn hại gì cho đất nước này nữa!
+244|Gomu Gomu no...
+245|Balloon!
+246|Hắn ném chúng ta văng ra tận khu vườn cạnh Tháp Thành Lũy.
+247|Chừng nào còn Pica, ta không thể đến gần Doflamingo.
+248|Bắt đầu rồi...
+249|Lồng Chim!
+250|Thuyền trưởng, cái gì vậy?!
+251|Sao tao biết được?! Dù sao cũng phải rời khỏi đảo đã!
+252|Đánh với Doflamingo chẳng ích gì, hắn sẽ giết hết chúng ta!
+253|Thuyền trưởng, có gì đó phía trước!
+254|Á!
+255|L-Lưỡi dao?
+256|Hả? Hàng rào gì đây?
+257|Doflamingo không muốn sự thật về hòn đảo này lộ ra ngoài.
+258|Nên hắn sẽ...
+259|giết sạch mọi người trên đảo.
+260|Hàng rào đã bao vây chúng ta hoàn toàn.
+261|Lối ra ở đâu?!
+262|Cái gì thế kia?
+263|Phó Đô đốc Bastille. Không liên lạc được với Tổng bộ.
+264|Hả?!
+265|Bên này cũng vậy! Không liên lạc được với căn cứ!
+266|Ta vẫn chưa báo cáo với họ mà.
+267|Này! Mày làm gì người ta vậy?!
+268|K-Không phải tôi! Cơ thể tôi tự cử động!
+269|Này, dừng lại!
+270|S-Sao tôi lại...
+271|Không!
+272|Dừng lại! Mọi người tránh ra!
+273|Sợi Chỉ Ký Sinh.
+274|Báo cáo!
+275|Khắp Dressrosa, người dân đang tấn công nhau bừa bãi!
+276|Thậm chí vài lính Hải Quân cũng bắt đầu phát điên!
+277|Cứ thế này, vô số dân thường sẽ chết!
+278|Giờ sao đây?!
+279|V-Vùng đất Hoàng gia đang chìm xuống!
+280|N-Này, mặt đất đang hạ xuống! Chuyện gì vậy?!
+281|Là Pica.
+282|Hắn có thể thay đổi cả địa hình, miễn là làm bằng đá!
+283|Hoàng cung đang di chuyển đi đâu kìa!
+284|Khoan, hoàng cung ơi!
+285|Nhà máy đang trồi lên!
+286|Chuyện gì đang xảy ra vậy?!
+287|Ai đó...
+288|Làm ơn, ngăn tôi lại!
+289|Đồi Hoa...
+290|đang lớn dần và nuốt chửng thành phố!
+291|Hoàng cung
+292|Hỡi người dân Dressrosa và các vị khách.
+293|Lẽ ra ngay từ đầu ta có thể cai trị các ngươi bằng nỗi sợ.
+294|Giờ các ngươi đã biết tất cả, chắc nhiều kẻ muốn giết ta.
+295|Nên ta đã chuẩn bị một trò chơi nhỏ.
+296|Trò chơi giết ta.
+297|Ta đang ở trong hoàng cung.
+298|Ta sẽ không chạy, cũng không trốn.
+299|Nếu lấy được mạng ta, dĩ nhiên trò chơi sẽ kết thúc.
+300|Nhưng còn một cách khác để kết thúc nó.
+301|Đó là hạ gục toàn bộ những kẻ mà ta sắp nêu tên.
+302|Hơn nữa, ta sẽ treo thưởng hậu hĩnh cho đầu từng kẻ.
+303|Giết, hoặc bị giết.
+304|Mọi người trên đất nước này sẽ trở thành thợ săn.
+305|Không có lối thoát nào, trừ khi các ngươi giết!

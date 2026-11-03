@@ -1,0 +1,287 @@
+1|C-Cậu ta làm được rồi!
+2|Cậu ta hạ được Doflamingo thật rồi!
+3|Làm được rồi!
+4|Dressrosa được cứu rồi!
+5|Nhờ một quả bóng cao su!
+6|Không, cậu ta đâu phải quả bóng cao su bình thường.
+7|Theo lời vua Riku, cậu ta là...
+8|hải tặc Luffy Mũ Rơm!
+9|Cảm ơn cậu, Mũ Rơm!
+10|Không, khoan đã...
+11|Mặt gã này dữ hơn, người lại tròn hơn gã trên báo.
+12|Có thật là cậu ta không?
+13|Cậu là Luffy Mũ Rơm à?
+14|Hả? Ừ.
+15|Nghe nói hắn là quái vật cao tám mét cơ.
+16|Gã này cùng lắm là bốn mét.
+17|Vậy là đồ giả à?
+18|Này, quả bóng cao su. Cậu có thật là Mũ Rơm không?
+19|Mấy người phiền quá đi!
+20|Sao cậu cứ nảy lên nảy xuống vậy?
+21|Không dừng được à?
+22|Không.
+23|Này, cái gì vậy? Tôi vừa nghe tiếng động lớn!
+24|Viola?
+25|Mũ Rơm...
+26|...thắng rồi!
+27|Thật sao?!
+28|Tuyệt quá!
+29|Sức hủy diệt khủng khiếp! Không đời nào hắn còn sống!
+30|Này. Nhìn lên trời kìa!
+31|Không ổn rồi!
+32|Lồng Chim vẫn chưa biến mất!
+33|Chết tiệt! Chỉ cần thêm một đòn nữa!
+34|Cao su...
+35|Này, sao thế, Luffy Mũ Rơm?
+36|Jesus Burgess! Sao hắn lại ở Hoàng cung chứ?!
+37|Đùa à!
+38|Hắn nhảy xuống kìa! Không ngờ hắn nhảy xa được thế!
+39|A lô, Sabo-kun?
+40|Trả lời đi! A lô?!
+41|Thằng khốn Mũ Rơm đó sống dở chết dở rồi!
+42|Cơ hội của tao đây!
+43|Đó là...
+44|Thuyền trưởng tàu số một của băng hải tặc Tứ Hoàng Râu Đen...
+45|"Nhà Vô Địch" Burgess!
+46|Cứ chờ đó!
+47|Tao sẽ giết mày, rồi cướp lấy...
+48|Trái Cao Su!
+49|Cậu có sao không?
+50|Đừng!
+51|Đừng tự tiện lại gần cậu ta. Cậu ta cũng là hải tặc đấy!
+52|Chẳng biết bọn họ đang nghĩ gì đâu.
+53|Nói gì mà tệ vậy! Cậu ấy đã đánh với Doflamingo vì chúng ta mà!
+54|Cô ấy nói đúng!
+55|Ít ra cậu ta không phải kẻ thù của chúng ta.
+56|Dù vậy, tôi vẫn không tin cậu ta được!
+57|Nhưng...
+58|vua Riku đã nói cậu ấy là hy vọng duy nhất của chúng ta!
+59|Này, cậu kia! Trận chiến kết thúc chưa?
+60|Doflamingo sao rồi?
+61|Doflamingo vẫn còn sống!
+62|Tránh xa thị trấn ra!
+63|Trận chiến giữa đám hải tặc vẫn chưa kết thúc!
+64|Chúng ta sẽ bị vạ lây mất! Chạy khỏi đây đi!
+65|Ngay cả khu trung tâm cũng nguy hiểm!
+66|Lồng Chim đang khép lại! Không còn chỗ nào để chạy!
+67|Min... go...
+68|L-Luffy Mũ Rơm...
+69|C-Cậu ta không đánh được nữa rồi...
+70|Lại gần cậu ta là bị cuốn vào trận chiến mà chết đấy! Đừng dính vào!
+71|Tránh xa tên hải tặc đó ra!
+72|Hải tặc Mũ Rơm!
+73|Cậu có nhận ra tôi không?
+74|Tôi là Gatz đây!
+75|Gatz, bình luận viên của Đấu trường đây!
+76|Danh tính thật sự của đấu sĩ bí ẩn Lucy...
+77|chính là cậu, phải không?
+78|Ừ-Ừ...
+79|Biết ngay mà!
+80|Đâu có mấy gã nhỏ con mà mạnh như thế!
+81|Doflamingo đang tới đây!
+82|Trận đấu tay đôi của cậu thì tính sao?
+83|Tôi có giúp được gì không?
+84|Tôi cần mười phút...
+85|Sau khi dùng Bound-Man, tôi không dùng được Haki trong mười phút.
+86|B-Boun...
+87|Tôi phải giữ khoảng cách,
+88|nhưng không biết trong lúc đó hắn sẽ làm gì.
+89|Nếu lấy lại được Haki,
+90|chắc chắn tôi sẽ kết thúc trong một đòn!
+91|Vậy là ách cai trị tàn bạo của hắn sẽ chấm dứt?
+92|Này, nếu bọn tôi cho cậu mười phút, cậu sẽ giải thoát bọn tôi khỏi Lồng Chim chứ?!
+93|Này, Mũ Rơm!
+94|Tôi hứa!
+95|Được rồi!
+96|Mười phút! Cứ giao cho bọn này!
+97|Cứ tin bọn tôi! Mười phút trôi qua nhanh thôi!
+98|Mau quay lại hạ thằng Dofla khốn kiếp đó đi, Lucy!
+99|Bọn tôi sẽ cầm cự!
+100|Toàn là đấu sĩ của giải đấu!
+101|Những kẻ lúc nãy không chịu giúp cậu!
+102|Xin lỗi nhé, Lucy!
+103|Bọn tôi bị lòng tham tiền truy nã của các cậu làm mờ mắt!
+104|Bọn tôi chưa từng mơ Doflamingo lại bị dồn vào đường cùng!
+105|Xin lỗi!
+106|Để chuộc lỗi, bọn tôi sẽ tin cậu và liều cái mạng này!
+107|Lỡ bọn tôi hạ hắn trước thì xin lỗi nhé!
+108|Cảm ơn vì tất cả nhé, ngài Thiên Dạ Xoa!
+109|Sao không chơi với bọn này một lúc nhỉ?
+110|Hắn tới rồi, hắn tới rồi!
+111|Đập hắn đi!
+112|Được rồi, cơ hội đây rồi!
+113|Một nửa còn lại, theo tôi!
+114|Có ai đó...
+115|Chết đi, Mũ Rơm!
+116|B-Burgess?!
+117|Sabo!
+118|G-Gã đó...
+119|Ồ, tên tội phạm ba sao!
+120|C-Cái gì?!
+121|Tham mưu trưởng Quân Cách Mạng!
+122|Ta là Sabo của Quân Cách Mạng!
+123|Luffy Mũ Rơm là em trai ta!
+124|Ngươi muốn gì ở nó hả, Burgess?
+125|Mũ Rơm là em mày?
+126|Hình như tao từng nghe câu đó ở đâu rồi.
+127|Hỏa Quyền Ace cũng nói thế, phải không? Ba người bọn ta là anh em.
+128|Sau trận đấu tay đôi ở đảo Banaro, bọn ngươi, băng hải tặc Râu Đen, đã bắt Ace.
+129|Đó là ngòi nổ cho cuộc Chiến tranh Thượng đỉnh chết tiệt đó.
+130|Ace đã sống cuộc đời theo cách cậu ấy chọn. Ta chẳng thù hằn gì ngươi cả...
+131|nhưng từ giờ ta sẽ bảo vệ sau lưng Luffy!
+132|Nhớ lấy!
+133|Tao chẳng quan tâm mày với nó là gì!
+134|Đừng cản đường tao. Tao không có việc gì với mày hay Quân Cách Mạng!
+135|Tao chỉ có việc với...
+136|Không có việc gì với ta? Kể cả chuyện riêng?
+137|Ra vậy. Hóa ra là mày.
+138|Hả? Lửa à?
+139|Này, Luffy.
+140|Em bị thương nặng đấy.
+141|Doflamingo đang tới, còn anh chắc sẽ bận tay với Burgess.
+142|Em ổn mà.
+143|Cats và mọi người sẽ câu giờ giúp em.
+144|Là Gatz!
+145|Dù thế nào em cũng sẽ hạ Mingo!
+146|Em trở nên đáng tin cậy quá rồi!
+147|Để tên này cho anh!
+148|Sabo.
+149|Anh ăn Trái Ác Quỷ của Ace rồi phải không?
+150|Anh không thể để ai khác có nó. Đó là kỷ vật của Ace!
+151|Tuyệt quá!
+152|Tao sẽ lấy sức mạnh đó!
+153|Nhờ ông đấy, Pets!
+154|Là Gatz! Cứ giao cho tôi!
+155|Galleon...
+156|Lariat!
+157|Burning Dragon Claw Fist!
+158|Nóng quá!
+159|Flame Dragon King!
+160|K-Không thể tin được! Cậu ấy thổi bay thuộc hạ của một Tứ Hoàng!
+161|Mạnh quá! Đúng là người đứng thứ hai của Quân Cách Mạng!
+162|Vừa thấy sức mạnh của Trái Lửa, hắn liền chuyển mục tiêu sang ta.
+163|Vậy mục đích của hắn là...
+164|...đúng như lời đồn.
+165|Hắn đang săn lùng người dùng Trái Ác Quỷ.
+166|Này, Lucy! Chuyện gì thế?
+167|Tôi tưởng cậu thắng giải và lấy được Trái Lửa rồi chứ...
+168|Lucy ở trận chung kết không phải tôi.
+169|Tôi có việc phải đi, nên Sabo thế chỗ tôi.
+170|Ồ, ra là vậy. Thế là phạm luật đấy!
+171|Nhưng mọi chuyện ổn cả rồi.
+172|Kế thừa năng lực của người anh quá cố, đúng là câu chuyện hấp dẫn.
+173|Thôi, sao cũng được!
+174|Dù sao thì, cậu hồi phục là hy vọng cuối cùng của Dressrosa!
+175|Thằng khốn đó bị sao vậy? Hắn vẫn còn sức làm thế này à?
+176|Đừng chần chừ! Phải cầm chân hắn càng lâu càng tốt!
+177|Lũ yếu ớt phiền phức! Ta chẳng cần tốn sức để quét sạch các ngươi!
+178|Ra mặt đi, Mũ Rơm!
+179|Ta sẽ khiến ngươi hối hận về tất cả.
+180|Mũ Rơm!
+181|Thằng khốn Doflamingo đó! Hắn sẽ làm mọi thứ!
+182|Hắn còn định làm gì nữa đây?!
+183|Đầu tiên là tạo Lồng Chim, giờ lại biến thị trấn thành dây!
+184|Dressrosa tiêu rồi!
+185|Cứ chạy đi! Cách duy nhất để sống là tránh xa khu trung tâm!
+186|Cả khu đó là chiến trường rồi! Bị cuốn vào là chết chắc!
+187|Tao không muốn bị cái Lồng Chim chết tiệt đó cắt vụn đâu!
+188|Mau đến khu trung tâm!
+189|Này, đừng đẩy!
+190|Cẩn thận! Tôi bị đè bẹp mất!
+191|Tôi còn con nhỏ!
+192|Dừng lại! Dừng lại!
+193|Này, sao lại chạy ngược chiều vậy?! Phải đến khu trung tâm chứ!
+194|Khu trung tâm giờ thành chiến trường rồi!
+195|Cái gì?!
+196|Hả? Vậy thì...
+197|Chúng ta chạy đi đâu đây?!
+198|Vua Riku, chúng tôi phải làm gì đây?
+199|Vũ Trang...
+200|Các hạ làm gì vậy, Zoro-dono? Định dùng kiếm chặn nó sao?!
+201|Thứ đó đâu phải cứ đẩy là chặn được!
+202|Sao ông biết?
+203|Có thời gian lải nhải là không thể thì phụ một tay đi, lũ ngốc chậm chạp!
+204|Chỉ là năng lực của một người thôi!
+205|Chẳng có lý do gì để tôi tin là mình không chặn được!
+206|Làm chứ, Kin'emon?
+207|Làm thôi!
+208|Trước nhà máy SMILE
+209|Sẵn sàng chưa?!
+210|Sẵn sàng!
+211|Nhà máy làm bằng Hải Lâu Thạch! Không bị phá được đâu!
+212|Cho tôi xem sức mạnh quái vật của các cậu nào!
+213|Được rồi! Sẵn sàng!
+214|Đẩy nhà máy đi!
+215|Đẩy, đẩy!
+216|Đẩy!
+217|Chưa đâu, chưa đâu! Đẩy, đẩy!
+218|Đẩy!
+219|Khu Hoàng cung - Tầng 2
+220|Zoro và mọi người đang đẩy ngược Lồng Chim sao?
+221|Đúng vậy.
+222|Có chặn được thật không?
+223|Tôi không biết. Tôi chưa bao giờ nghĩ ra cách đó.
+224|Rõ rồi! Đúng là kiểu của cậu ta.
+225|Phía nam khu Hoàng cung
+226|Đây là ý của Thiếu chủ!
+227|Cái gì?! Tránh đường cho bọn tao!
+228|Vô lễ quá.
+229|Không được lại gần! Đây là Hoàng cung Mới!
+230|Chỉ thành viên gia tộc Donquixote mới được vào!
+231|"Gia tộc" gì chứ? Đến cán bộ cũng chẳng còn!
+232|Nhưng đây là nơi an toàn nhất! Cho bọn tôi trèo lên đi!
+233|Im đi! Lũ ngu chúng mày là tội đồ bị kết án cả rồi!
+234|Thiếu chủ đã ra lệnh thanh trừng sạch sẽ đất nước này!
+235|Barrier...
+236|Pistol!
+237|Tránh đường, lũ tàn dư!
+238|Là các đấu sĩ của Đấu trường!
+239|Bartolomeo!
+240|Hajrudin!
+241|Don Chinjao!
+242|Cả Tư lệnh Kyros cũng ở đây!
+243|Sao ta lại cử động được nhỉ?
+244|Ta cũng đang thắc mắc. Bị thương như thế, ta tưởng không cử động nổi.
+245|Đừng vội lơ là!
+246|Theo quyết định của Công chúa Mansherry, Dressrosa đang được hồi sức cấp cứu!
+247|Hồi sức cấp cứu?
+248|Ý ngươi là sao, người lùn?
+249|Dù sao thì, mọi người! Hãy cố leo lên cao nguyên!
+250|Tâm của Lồng Chim đang dịch về phía này!
+251|Hoan hô!
+252|Ngài đã cứu chúng tôi, Kyros-sama!
+253|Này, đàn ông thì không dựa dẫm vào người khác!
+254|Ai còn khỏe mạnh thì đi với bọn ta!
+255|Hả? "Đi với ta" á?!
+256|Này, đi đâu vậy?!
+257|Doflamingo!
+258|Nếu hắn không chịu ra, ta sẽ lôi hắn ra!
+259|Này, kia là...
+260|Chẳng phải nó đang di chuyển nhanh hơn lúc nãy sao?!
+261|Chắc chắn rồi!
+262|Lồng Chim đang khép lại còn nhanh hơn nữa!
+263|Xin hãy cứu chúng tôi, Bệ hạ!
+264|Chúng ta không kịp mất!
+265|Dừng lại đi, Doflamingo!
+266|Không kịp mất!
+267|Đẩy! Dồn thêm sức vào!
+268|Cố lên!
+269|Đẩy!
+270|Đẩy!
+271|Sao vậy?
+272|Chúng ta đang bị đẩy lùi!
+273|Nó đang tăng tốc... Đừng để nó lấn át!
+274|Đẩy mạnh hơn bao giờ hết!
+275|Được!
+276|Đẩy!
+277|Đẩy!
+278|Được rồi, đến lúc chúng ta thể hiện rồi!
+279|Yeah!
+280|Ra đây đi, Mũ Rơm...
+281|Cứu chúng tôi với!
+282|Nhanh lên! Nó co lại nhanh hơn rồi!
+283|Còn ba phút nữa là Lồng Chim chạm tới khu trung tâm và cuộc tắm máu bắt đầu.
+284|Đùa à!
+285|Không kịp mất!
+286|Còn bốn phút nữa Luffy mới hồi phục Haki.
+287|Chênh lệch một phút giữa lúc Lồng Chim khép hoàn toàn và lúc Luffy tỉnh lại.

@@ -1,0 +1,349 @@
+1|Điểm hẹn của Corazón và gia tộc Donquixote - Đảo Swallow
+2|Đừng lơ là. Kẻ thù của chúng ta là Doflamingo.
+3|Sengoku, cái lão ngốc đó...
+4|Phó Đô đốc Tổng bộ Hải Quân Tsuru
+5|Rốt cuộc ông ta lấy được tin này từ đâu chứ?
+6|Phó Đô đốc Tsuru!
+7|Hửm?
+8|Có liên lạc từ tàu trinh sát ở đảo Minion!
+9|Hòn đảo nơi hải tặc Barrels ẩn náu - Đảo Minion
+10|Sào huyệt của Barrels đang cháy?
+11|Vâng! Chúng tôi đang cử người đi điều tra.
+12|Ngốc!
+13|Nếu chúng thấy các ngươi, giao dịch sẽ đổ bể!
+14|Kiểm tra vùng ven biển ngay, thấy ai khả nghi thì báo lại.
+15|Rõ, thưa bà!
+16|Thị trấn ma - Sào huyệt hải tặc
+17|Mau dập lửa đi!
+18|Thuyền trưởng Barrels!
+19|Cố lên!
+20|Tránh ra!
+21|Kệ vết thương của tao!
+22|Đây là vụ làm ăn năm tỉ Belly đấy!
+23|Lấy lại Trái Phẫu Thuật!
+24|Cora-san...
+25|Tốt. Cháu không sao.
+26|Silent.
+27|Nhìn này!
+28|Trái Phẫu Thuật đây!
+29|Tòa nhà cháy, rồi tôi nghe có tiếng súng...
+30|nên tôi tưởng ông gặp chuyện gì rồi...
+31|Này! Chuyện đó không quan trọng!
+32|Cháu phải ăn mừng chứ!
+33|Trái Ác Quỷ này sẽ cứu mạng cháu!
+34|Nhưng dù tôi có ăn, ông cũng đâu biết...
+35|nó có chữa được bệnh của tôi không...
+36|Cháu nói gì vậy?! Chắc chắn được!
+37|Nào, ăn đi! Đây! Ăn nhanh lên!
+38|Ông làm gì vậy?!
+39|Ghê quá!
+40|Đấy! Nhai thế này này!
+41|Nhai rồi nuốt xuống!
+42|N-Này, Cora-san! Tôi chưa sẵn sàng làm người dùng Trái Ác Quỷ...
+43|Cora-san?
+44|N-Này!
+45|Thế là đủ rồi.
+46|Giờ cháu... tự chữa cho mình được rồi...
+47|Ta đã qua mặt Doflamingo... Ta thắng rồi...
+48|Ông sao vậy, Cora-san?
+49|Ông mệt à?
+50|Khoan đã!
+51|Người ông toàn là máu!
+52|Cora-san, ông trúng đạn à?!
+53|Ừ, ta sơ suất một chút...
+54|Chết tiệt! Ông làm cái gì vậy, Cora-san?!
+55|À phải rồi!
+56|Khỏi đi! Khỏi đi!
+57|Khỏi đi!
+58|Máu ơi, ngừng chảy đi! Ngừng đi!
+59|Năng lực Phẫu Thuật! Chữa cho ông ấy đi!
+60|Đồ ngốc...
+61|Ta đã bảo năng lực đó đâu phải phép thuật.
+62|Thế tôi phải làm gì đây?!
+63|Ông... trúng đạn là vì tôi, đúng không?!
+64|Law... Ta sẽ ổn thôi.
+65|Mấy vết thương này không giết được ta đâu...
+66|Cora-san!
+67|Nhưng ta muốn cầm máu một lát...
+68|Nghe kỹ đây, Law.
+69|Chúng ta đã cướp được Trái Phẫu Thuật.
+70|Nhưng Doffy vẫn sẽ đuổi theo chúng ta.
+71|Xin lỗi phải nhờ cháu lúc cháu đang yếu, nhưng ta cần cháu giúp một việc.
+72|Có một tàu trinh sát Hải Quân ngoài bờ biển phía tây đảo...
+73|Ta muốn cháu giao cái này cho họ...
+74|Lính Hải Quân nào thấy cái ống này cũng sẽ biết nó là gì.
+75|Gói nhỏ này sẽ cứu...
+76|một vương quốc xa xôi tên là Dressrosa.
+77|Một vương quốc?
+78|Nhưng tôi ghét Hải Quân...
+79|Cháu là con trai một bác sĩ, đúng không?
+80|Giao xong cái này, chúng ta sẽ rời khỏi đảo!
+81|Rồi cùng đi khắp thế giới, chỉ cháu và ta thôi.
+82|Hải Quân...
+83|Ông ta chỉ có một mình!
+84|Này, cầm lấy!
+85|Ồ, chắc là mật thư.
+86|Có người nhờ nhóc đưa ta cái này, phải không?
+87|Cảm ơn nhóc.
+88|Ta sẽ giữ nó. Đừng lo.
+89|Mà này nhóc, giọng nhóc yếu quá...
+90|Tôi... tin ông được không?
+91|Ừ, nếu là chuyện lá thư thì ta sẽ chịu trách nhiệm và...
+92|Tôi cần ông cứu một người!
+93|Ông ấy b-bị bắn và sắp chết rồi!
+94|Làm ơn! Cứu ông ấy!
+95|Tôi không muốn ông ấy chết!
+96|Ông ấy bị bắn... là vì tôi!
+97|Cora-san!
+98|Ông này nói sẽ sơ cứu cho ông!
+99|Cora-san!
+100|Vergo!
+101|Corazón?! Ngươi làm gì ở đây?!
+102|Hả? Ngươi vừa nói đấy à?!
+103|Không lẽ nào! Đừng nói nhiệm vụ bí mật của hắn là...
+104|Hai người quen nhau sao?
+105|Vergo... Khoan...
+106|Vergo?
+107|Một thành viên mạnh của gia tộc, hiện đang một mình làm nhiệm vụ bí mật nào đó.
+108|Chi tiết nhiệm vụ được giữ kín, kể cả với người trong gia tộc.
+109|Hắn chẳng liên quan gì tới cháu.
+110|Đừng! Đó là...
+111|Vậy nhiệm vụ của Vergo là trà trộn vào Hải Quân!
+112|Xui xẻo thật!
+113|Hải Quân có hàng ngàn người, thế mà lá thư lại rơi vào tay hắn!
+114|Hiểu rồi, Rosinante!
+115|Trả đây!
+116|Cora-san!
+117|Cora-san!
+118|Rosinante!
+119|Dừng lại!
+120|Mày... Mày đồ khốn!
+121|Mày! Mày-Mày! Mày!
+122|Mày là cái tên Vergo đó à?!
+123|"Cái tên Vergo đó"?
+124|Vậy chắc ngươi là Law đến từ Thị trấn Trắng.
+125|Ta có nghe về ngươi. Nghe nói hai đứa mất tích.
+126|Ngươi chẳng biết phép tắc gì cả.
+127|Nếu đã biết ta là cấp trên...
+128|Thì phải gọi là "Vergo-san"!
+129|Law!
+130|Trong này nhiều thông tin đấy.
+131|Nếu Hải Quân nhận được lá thư thế này thì gia tộc tiêu đời!
+132|Mọi kế hoạch tương lai sẽ đổ bể hết.
+133|Thằng nhóc đó quan trọng với ngươi hơn cả gia tộc sao...
+134|Corazón đời thứ hai?!
+135|Không ngờ gia tộc lại có một con chuột như ngươi!
+136|Năm tám tuổi, ngươi đột nhiên mất tích.
+137|Rồi mười bốn năm sau quay lại!
+138|Thế đã đủ đáng ngờ rồi!
+139|Nhưng chỉ vì ngươi là em trai, Doffy đã tin ngươi!
+140|Rosinante!
+141|Làm ơn dừng lại... Cora-san... Ông ấy sẽ chết mất!
+142|Này này, ngươi chưa giết họ đấy chứ?
+143|Tình hình sao rồi?
+144|Corazón là gián điệp của Hải Quân.
+145|Nó ở trong gia tộc để hạ anh.
+146|Cẩn thận. Chắc chúng biết hết kế hoạch của anh rồi.
+147|Giờ anh đang ở đâu, Doffy?
+148|Ta đang theo dõi điểm hẹn, đảo Swallow, thì thấy hai chiến hạm kéo tới.
+149|Thế là đủ để ngay cả ta cũng phải tin...
+150|rằng đứa em trai yêu quý đã giương nanh vuốt với ta.
+151|Và nó nhắc ta nhớ...
+152|rằng các ngươi...
+153|là gia đình duy nhất của ta!
+154|Buồn thay, linh cảm của ta đã đúng.
+155|Bọn ta vừa cập đảo Minion, chỗ các ngươi đang ở.
+156|Nhưng hơi muộn một chút...
+157|Tới nơi thì thấy thuộc hạ của Barrels chạy toán loạn, la lên rằng Trái Ác Quỷ bị cướp.
+158|Chắc chắn là Corazón!
+159|Nếu nó ở đó, đừng để nó đi đâu cả! Nó đang giữ Trái Phẫu Thuật!
+160|Ừ, tôi đã...
+161|Khốn kiếp!
+162|Ồ, chúng chạy rồi à?
+163|Thôi, không sao.
+164|Chừng nào chúng còn trong thị trấn...
+165|ta sẽ không để chúng thoát.
+166|Cái gì thế kia?! Có thứ gì đang rơi xuống!
+167|Cái quái gì vậy?!
+168|Chuyện gì đang xảy ra trên đảo vậy?!
+169|Á!
+170|Mấy sợi chỉ này sắc quá!
+171|Cứng nữa!
+172|Chết tiệt! Không ra được!
+173|Cái gì vậy?
+174|Chắc là một năng lực của Doffy.
+175|Ta chưa thấy nó bao giờ, nhưng có một điều ta biết.
+176|Chúng ta không còn đường chạy.
+177|Dùng Parasite String trong lồng à...
+178|Ừ, thế này đúng là địa ngục...
+179|Cora-san, chuyện gì vậy?
+180|Ít ra ta có thể đưa Law ra khỏi đây.
+181|Giờ ta chẳng còn cơ hội sống, nhưng...
+182|Cháu sẽ nhớ đến ta cả khi ta chết chứ?
+183|Ta sẽ chết với nụ cười...
+184|Vì... nếu một ngày nào đó cháu nghĩ về ta,
+185|ta muốn cháu nhớ nụ cười của ta hơn.
+186|Law, ta phải đi thôi.
+187|Đi nào!
+188|Doffy. Đây là thủ lĩnh của chúng ta.
+189|Mọi người ngất hết rồi?!
+190|Chắc chắn là Haki!
+191|Anh ơi, đừng!
+192|Anh ơi!
+193|Sao cha lại tước mất quyền lực của con?!
+194|Cậu có muốn bọn ta cho cậu... sức mạnh để trả thù không?
+195|Những gì cha đã làm giờ không thể vãn hồi được nữa!
+196|Con sẽ mang đầu cha về Thánh địa!
+197|Doflamingo. Rosinante.
+198|Cha xin lỗi vì các con phải có...
+199|một người cha như thế này.
+200|Không! Đừng làm vậy!
+201|Tôi không biết chuyện gì đang xảy ra!
+202|Thị trấn đột nhiên bị một cái lồng khổng lồ bao quanh!
+203|Chúng tôi không vào được!
+204|Và nghe thì khó tin, nhưng bên trong đám hải tặc trở mặt với nhau
+205|và đang chém giết lẫn nhau!
+206|Dray!
+207|Mày đi đâu đấy? Giúp tao với!
+208|Mày không làm gì được cái lồng này à?!
+209|Này! Đừng đi!
+210|Sào huyệt của băng hải tặc Barrels
+211|Là gia tộc Donquixote!
+212|Dray!
+213|Chết tiệt! Thằng nhóc đó đi đâu rồi?!
+214|Lúc cần thì chẳng bao giờ thấy mặt nó!
+215|Mạnh nhất băng mà lại là đồ nhát cáy!
+216|Doflamingo!
+217|Chính bọn mày đã cướp Trái Phẫu Thuật, phải không?!
+218|Nếu bọn ta cướp thì đâu phải mất công thế này!
+219|Dám để nó bị cướp hả, đồ bợm rượu ngu ngốc!
+220|Cả một kho báu đây này!
+221|Này, khuân chiến lợi phẩm ra cẩn thận vào!
+222|Tuyệt vời!
+223|Khá lắm, khá lắm! Chúng có cả đống!
+224|Đừng đùa nữa! Tìm Corazón đi!
+225|Buffalo!
+226|Trên đó tìm thấy gì không?!
+227|Không ai sống nổi ở bãi tro cháy này đâu-dasuyan!
+228|Tôi bắt được một tin nhắn!
+229|Chúng tôi đã đưa một cậu bé ở bờ biển vào diện bảo hộ.
+230|Vẫn đang tìm kiếm các nạn nhân khác.
+231|Họ nói Hải Quân vừa bảo hộ một người!
+232|Mày!
+233|Doffy!
+234|Có vẻ họ tìm ra Corazón rồi!
+235|Law. Đây là điểm mù của bọn hải tặc.
+236|Chúng sẽ không tìm ra cháu đâu. Ngồi yên nhé!
+237|Corazón đi lối này!
+238|Lối này, Lao G!
+239|Hả? Không mở được!
+240|Có gì chặn bên trên!
+241|Bắt được rồi!
+242|Đau...
+243|Đồ hèn hạ!
+244|Sao mày giả vờ không nói được hả?!
+245|Vì giữa tôi và các người... chẳng có gì để nói.
+246|Khốn nạn!
+247|Mày dám coi Thiếu chủ như thằng ngốc!
+248|Đủ rồi, Gladius!
+249|Nó sẽ chết trước khi Thiếu chủ tới mất.
+250|Không sao!
+251|Hôm nay nó định ép bọn ta khai chiến toàn diện với Hải Quân!
+252|Đồ khốn tội lỗi!
+253|Này! Thiếu chủ đến rồi!
+254|Đã sáu tháng rồi...
+255|Corazón.
+256|Không còn nơi nào để đi à?
+257|Vậy có muốn đi theo ta không?
+258|Mã số Hải Quân 01746.
+259|Trung tá Rosinante thuộc Tổng bộ Hải Quân.
+260|Thuyền trưởng gia tộc Donquixote, Doflamingo.
+261|Tôi đã nằm vùng để ngăn chặn thảm kịch mà anh sẽ gây ra.
+262|Tôi là lính Hải Quân!
+263|Tôi xin lỗi vì đã nói dối anh...
+264|Tôi nói dối vì không muốn anh ghét tôi.
+265|Sao giờ mới nói chuyện đó?!
+266|Ta...
+267|đã biết từ trước rồi!
+268|Đồ ngốc! Tưởng giờ xin lỗi là được tha à?!
+269|Đừng nói mấy câu đùa nhạt nhẽo nữa mà...
+270|trả lời ta hai câu!
+271|Trái Phẫu Thuật đâu?! Law đâu?!
+272|Trái Phẫu Thuật... tôi đã cho Law ăn rồi!
+273|Giờ nó là người dùng Trái Ác Quỷ!
+274|Nó đã thoát ra khỏi lồng.
+275|Chắc giờ nó đã được tàu trinh sát của Tổng bộ Hải Quân bảo hộ rồi.
+276|Anh không động được vào nó nữa đâu!
+277|Thiếu chủ!
+278|Lúc nãy bọn tôi nghe Hải Quân nói trên radio là họ bảo hộ một cậu bé!
+279|Sao không báo sớm hơn?!
+280|Tôi thề, tôi đã chạy hết tốc lực tới đây-dasuyan!
+281|Tôi xin lỗi!
+282|Một cậu bé?
+283|Trùng hợp kỳ lạ thật!
+284|Law đang ở đây mà!
+285|Kiểm tra ngay! Ta sẽ gỡ Lồng Chim!
+286|Đúng như ta nghĩ, Law, có điều gì đó muốn cháu được sống.
+287|Những vị cứu tinh cứ lần lượt đến với cháu.
+288|Chuẩn bị ra khơi!
+289|Nếu lời nó là thật, ta sẽ đánh chìm tàu trinh sát của Hải Quân...
+290|và đưa Law về!
+291|Đừng.
+292|Sao anh lại muốn đuổi theo Law?
+293|Sao ta lại muốn đuổi theo Law ư?
+294|Nếu nó đã ăn Trái Phẫu Thuật...
+295|ta cần dạy dỗ nó để một ngày nó chết vì ta!
+296|Thật tình... Mọi việc em làm đều thừa thãi!
+297|Sao em cứ muốn cản đường ta?!
+298|Sao ta lại phải giết thêm một người ruột thịt nữa chứ?!
+299|Cora-san, ông chắc mình sẽ ổn chứ?!
+300|Tôi biết anh không bắn tôi được đâu...
+301|Anh giống cha chúng ta quá!
+302|Ông đã nói với tôi là ông sẽ ổn mà?!
+303|Nghe này, Law.
+304|Hải tặc mà thấy rương báu là không cưỡng được, thế nào cũng mang về tàu.
+305|Nghĩa là nếu cháu ở trong này, chắc chắn sẽ có cơ hội thoát khỏi lồng.
+306|Đừng bỏ lỡ nhé.
+307|Còn ông thì sao, Cora-san?!
+308|Ngốc ạ...
+309|Doffy muốn có cháu và năng lực Phẫu Thuật.
+310|Ta và Doffy là anh em ruột.
+311|Tất nhiên anh ấy sẽ nổi điên với ta, nhưng chắc chắn sẽ không giết ta đâu.
+312|Calm.
+313|Chiêu này làm câm lặng mọi âm thanh của thứ cháu chạm vào.
+314|Được rồi, gặp lại ở thị trấn tiếp theo.
+315|Này, Law.
+316|Ta thương cháu!
+317|Thế này đâu giống lời ông nói, Cora-san!
+318|Ông đã nói hắn sẽ không giết ông mà?!
+319|Law sẽ không nghe lời anh đâu... Doffy!
+320|Mắc bệnh Chì Trắng,
+321|nó đã bị định sẵn phải chết trong ba năm.
+322|Nhưng nó đã chiến thắng căn bệnh đó.
+323|Nó không còn là Law...
+324|lạc lối và tìm đến một tên hải tặc điên rồ ngày đó nữa.
+325|Nó chẳng có gì để nhận từ anh, một đứa con thực thụ của sự hủy diệt!
+326|Hãy để nó yên!
+327|Nó được tự do rồi!
+328|Nói lại lần nữa xem! Mày gọi ai là quái vật hả?!
+329|Oa! Vừa vấp ngã vừa bốc cháy cùng lúc!
+330|Thấy chưa? Cháu ngủ yên giấc rồi nhé?!
+331|Im đi được không!
+332|Chưa được...
+333|Ta phải sống thêm chút nữa...
+334|Kéo tàu lại đây!
+335|Vì nếu giờ ta chết...
+336|phép ta yểm lên cháu sẽ tan biến ngay lập tức...
+337|Giọng nói, và mọi tiếng động cháu tạo ra...
+338|sẽ vang khắp hòn đảo.
+339|Đi đi, Law...
+340|thật khẽ... đừng để ai thấy...
+341|đi thật xa, thật xa...
+342|Không còn gì trói buộc cháu nữa...
+343|dù là biên giới sắt của Thị trấn Trắng...
+344|hay căn bệnh nan y...
+345|Không gì và không ai giới hạn được cháu.
+346|Là chiến hạm của Tsuru! Chết tiệt!
+347|Cháu...
+348|được tự do rồi.
+349|Bắn!

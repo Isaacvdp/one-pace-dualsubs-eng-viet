@@ -1,0 +1,415 @@
+1|Has your sword ever broken?
+2|Huh?
+3|Yeah, it's happened a few times, I guess.
+4|Including by you.
+5|Were it clad in Haki,
+6|that same sword would not have shattered.
+7|The slightest nick to your blades is a shame to you.
+8|Every sword can become a Black Blade.
+9|Until you master it, drinking is forbidden.
+10|Huh?!
+11|No nicks.
+12|Behind the Former Royal Plateasu
+13|Was anyone harmed?
+14|No, sir. It's all thanks to you, Isshou-san.
+15|Because you temporarily levitated those stones, there are no casualties.
+16|Luckily, we already set up downtown as an evacuation zone.
+17|Well done.
+18|Port town Acacia
+19|Did you see that?!
+20|That giant statue was sliced completely in half!
+21|Does that mean the top commander was done in?
+22|Royal Plateau
+23|Pica-sama's down!
+24|He's that strong, and yet he didn't enter the competition?
+25|What a humble guy.
+26|That power, yet he's merely Garp's grandson's subordinate?
+27|He's good!
+28|We managed to protect King Riku in the end, so I'll let it go. But still...
+29|The factory...!
+30|The factory that rose from the ground exploded!
+31|What's going on?!
+32|Inside the SMILE factory
+33|One more time!
+34|Yeah!
+35|Heave-ho!
+36|Blow the factory to bits for making us suffer!
+37|We'll never be fooled or forced to work again!
+38|Hey, hey! Pica has been defeated and the factory just exploded, Doffy.
+39|But the defeated will be brought back. The factory will be restored.
+40|Celebrate while you can!
+41|We still have the Healing Fruit power user, Mansherry, on our side!
+42|Rebecca-sama!
+43|Robiland!
+44|Are you alright?
+45|The Fourth Level Outside the Palace The Sunflower Field
+46|Commander! You're Commander Kyros, right?
+47|Yup! I see you rescued the princess, Leo!
+48|You look so gallant! A spitting image of the statue!
+49|It's the other way around.
+50|Oh, you're badly injured. I'll heal you right away.
+51|Actually, hold on.
+52|You must be Princess Mansherry.
+53|I heard a lot about your power, but there must be some limit to it.
+54|Don't use it on me.
+55|But you're bleeding everywhere!
+56|I'm fine. I'm still conscious.
+57|More importantly, I'm glad that you're okay. It must have been tough.
+58|If you're willing to use your power, there are people all over the country in need of it!
+59|What? This is...
+60|This is Dressrosa?
+61|Leo and the others explained the situation to me,
+62|but I didn't expect it to be this bad...
+63|Still, it looks like they succeeded in destroying the factory.
+64|The battle has come to a crucial point!
+65|This country was entrapped by Doflamingo.
+66|Whether we can return it to the hands of King Riku...
+67|or fall once again and become a land of despair...
+68|Our hope now rests with a certain band of pirates!
+69|Pirates?
+70|In the royal palace...
+71|On the top floor...
+72|Luffyland... Lawland...
+73|Those two are our last resort.
+74|Luffy... Traf-kun...
+75|Lucy...
+76|Beneath the Palace Inside the Outer Wall Tower
+77|I've just entered the rampart tower.
+78|Looks like something bad's about to go down.
+79|Sabo-kun, can't you get here? Where are you?
+80|I'm helping trapped prisoners escape from the Colosseum.
+81|You're too far away.
+82|You can handle pretty much anything on your own, right?
+83|If I thought I could handle this, I wouldn't be calling you! This might affect Luffy-kun!
+84|I'll be right there!
+85|Jeez!
+86|Former Royal Plateau
+87|Zoro! Do you need a hand?
+88|I'm okay! Ain't a scratch on me!
+89|Zoro, thank you! I thought I was done for!
+90|Zoro-dono, very well done!
+91|Pirate, thank you!
+92|When I saw you cut that giant statue with your swords, I could hardly believe my eyes!
+93|Hold it, you guys!
+94|Hold off on the excitement until that suffocating cage disappears!
+95|It's still there, which means the key man hasn't been defeated yet.
+96|Royal Palace
+97|First Floor
+98|Stop, Bellamy!
+99|Stop!
+100|That bastard isn't worth risking your life for!
+101|That's for me to decide!
+102|Your body's in tatters already...
+103|If you keep fighting, you really will die!
+104|Even if I die, if I can take you down...
+105|Doflamingo might at least remember me a little!
+106|He said he set you free, but...
+107|That's enough, Bellamy. I set you free.
+108|Like you have always been.
+109|...you didn't run, and now you're fighting me to the death...
+110|He must have known you'd do this.
+111|I'm sure he did! But so what?!
+112|I respect him!
+113|If I can at least die in a way that would impress him...
+114|I'll be content!
+115|Don't lie! This is the only option you have left, right?!
+116|Because you're a man!
+117|If you understand that much, shut up and fight!
+118|But you'll die for nothing!
+119|No, this is what I want.
+120|If I'm to meet my end, it should be...
+121|by another man that I admire!
+122|Where are you going, Straw Hat?!
+123|The sky!
+124|What are you saying?! Bellamy has changed!
+125|You've changed, Bellamy.
+126|You're my friend!
+127|Thank you, Straw Hat!
+128|Straw Hat!
+129|If you refuse to fight me...
+130|I'll just...
+131|kill you!
+132|Why're you just standing there?! Put 'em up, coward!
+133|If you know how to throw a punch, that is!
+134|Die!
+135|So long, Straw Hat!
+136|Thank you for calling me your friend!
+137|I get it now!
+138|That I admired the wrong man! And how pathetic I am!
+139|I know I'm an idiot...
+140|but even an idiot has principles he must stick to!
+141|Doflamingo!
+142|The beast is roaring.
+143|He should hurry on up here.
+144|I'm sure he'll be surprised, Law...
+145|When he sees your dead body.
+146|A few minutes ago
+147|The Royal Palace
+148|Sticky Launcher!
+149|He's still alive.
+150|Hey, hey, hey, Law. Why don't you just accept defeat already?
+151|You really should rest, Law.
+152|You're not even a match for me on my own.
+153|Why would you want to challenge both of us at the same time?
+154|Straw Hat won't make it up here that easily.
+155|If he had the guts to kill his "friend" right off the bat,
+156|he might have been able to save you, but...
+157|He's such a naive idiot!
+158|Born in the hell that was White Town...
+159|Spending your entire childhood with no hope whatsoever for your future...
+160|But then you met my younger brother, Corazón.
+161|He extended your life expectancy,
+162|and you carried on resenting me, as if you were a ghost of him...
+163|Living only for revenge, what an astounding obsession!
+164|However...
+165|it ends now.
+166|What a waste of thirteen years.
+167|I feel sorry for you.
+168|Your death is inevitable.
+169|You will die a completely meaningless death!
+170|But, if you're going to die anyway...
+171|Wouldn't you rather make something of it?
+172|I have an idea we'd both benefit from.
+173|I'm only going to say this once, so listen carefully, Trafalgar D. Water Law.
+174|Perform the ultimate Operation Fruit technique on me... the Eternal Youth Operation... and die.
+175|In exchange, I'll grant your wish, whatever it is.
+176|Whatever it is?
+177|If you really mean it...
+178|it's a brilliant idea. We'd both benefit from it.
+179|Alright, I'm in!
+180|You're a very understanding man! Doffy will finally have eternal life!
+181|Then...
+182|Bring Cora-san back to life, right now!
+183|When you're finished doing that, go lick the asses of everyone in the country!
+184|"No match for" you? "No use pinning my hopes"?
+185|Don't make me laugh!
+186|You're the one not seeing the whole picture, Doflamingo!
+187|The Straw Hats have caused all sorts of miracles in the past.
+188|You can't beat Straw Hatter!
+189|You won't be able to reclaim Caesar from him, either!
+190|Law, how dare you say that to Doffy!
+191|It's your future that's hanging by a thread-
+192|The letters on your back, "Corazón"?
+193|Are you trying to mock me?
+194|And then there's the name of your crew, the "Heart Pirates"!
+195|Are you trying to mock me?!
+196|You won't even sit on the Seat of Hearts!
+197|So why do you bear the Heart crest?!
+198|Law!
+199|So irritating!
+200|Law, Corazón... This is it.
+201|There's no one left to carry on your ridiculous tenacity!
+202|The curse you've cast on me is broken!
+203|Present time
+204|Former Royal Plateau
+205|Straw Hat just took down Bellamy.
+206|That leaves two major enemies in the Donquixote Family.
+207|The only ones left are the top commander and chief of staff, Trebol,
+208|and the Family boss, Donquixote Doflamingo!
+209|It can't be!
+210|What's the matter, Viola-sama?
+211|Viola?
+212|Our ranks have shrunk as well!
+213|"Our ranks"? You mean out of us was taken out?
+214|Trafalgar Law!
+215|Your majesty?
+216|In a situation where we can't let our guard down at any time,
+217|it's all the more important to keep our people out of harm's way.
+218|Yes, Sir! Let's go!
+219|M-Me, too!
+220|I'll go with you, too!
+221|Me, too!
+222|Alright! Let's go down to the city right now!
+223|It's not too late to minimize casualties!
+224|Yeah! Even though we can't fight, there are still things we can do!
+225|Yeah! Let's go!
+226|Then, all that's left is...
+227|To put an end...
+228|to everything.
+229|Doflamingo!
+230|You're late, Straw Hat.
+231|Now that I've emancipated him,
+232|Bellamy has become "free", right?
+233|Don't play dumb! You knew full well...
+234|that he wasn't gonna run away!
+235|Rubber...
+236|Elephant Gun!
+237|Spiderweb!
+238|I see. So Bellamy didn't run away.
+239|What's so funny?!
+240|Rubber...
+241|Hawk Gatling!
+242|Break White!
+243|That's dangerous!
+244|Hey, Traf! Why're you bleeding so much?
+245|What happened to your arm?
+246|Hey!
+247|Stay with me, Traf! Hey!
+248|Traf!
+249|He's dead. Obviously.
+250|That's not true!
+251|It is.
+252|He seemed to have a great deal of faith in you, too.
+253|He said you can work miracles. Can you, Straw Hat?
+254|I didn't think you were that strong when I fought you, though...
+255|Now, bring it on! There's only two of us left.
+256|How dare you bastards!
+257|Wait! Stay where you are!
+258|No way...
+259|The wall of strings...
+260|is shrinking!
+261|I'll have you follow Law in death shortly.
+262|Let's end this game, shall we?
+263|Mingo!
+264|Wait.
+265|Listen carefully, Straw Hatter.
+266|Look!
+267|It really is moving.
+268|The string wall's moving!
+269|Run for it!
+270|Not even the outskirts of town are safe!
+271|Hurry up and make a break for it!
+272|Get to downtown!
+273|It's the same in the west!
+274|Reporting in! Eastern district, Carta!
+275|Per other reports, the bird cage appears to be shrinking!
+276|The islanders are all headed toward downtown!
+277|The Royal Palace
+278|Sooner or later...
+279|everyone dies, correct?
+280|Straw Hat, haven't you noticed?
+281|The rules of the game have changed.
+282|Game? What are you on about now?!
+283|Just listen.
+284|The bird cage that surrounds this town is shrinking, bit by bit.
+285|It's like an umbrella, slowly closing.
+286|It'll shred apart everything in this country.
+287|In about...
+288|an hour, give or take.
+289|There's nowhere to run.
+290|Save the people on the outskirts of the country, on the double!
+291|Aye!
+292|The weaker citizens have been evacuated to the edges of the city, so hurry and get them!
+293|Run to the center part of town!
+294|Run! Here come the strings!
+295|Hey! Somebody, help me!
+296|Just freeing my legs would work!
+297|Untie me! I don't wanna die!
+298|T-T-The bird cage is shrinking?!
+299|Former Royal Grounds
+300|What's going on?! The bird cage... The bird cage...
+301|Is this truly happening?
+302|My word...
+303|What do we do?! What can we do?!
+304|Hey, Zoro!
+305|The cage is heading toward us! What's gonna happen to us?!
+306|We finally busted out from behind bars, only to be put behind them again?
+307|Where are we supposed to run?!
+308|How can he stoop so low?
+309|Are you not yet satisfied, Doflamingo?
+310|If the cage keeps shrinking like this...
+311|That's it for Dressrosa!
+312|The Royal Palace Grounds - Second Level
+313|What's all that smoke and rumbling?
+314|What in the world's going on?!
+315|Luffy, hurry up! Kick Doflamingo's ass already!
+316|You're our last hope!
+317|That is right! Indeed! Certainly!
+318|But that is too much to ask. The lives of everyone are in Luffy-dono's hands.
+319|We are counting on you, Luffy-dono!
+320|I am counting on you, too!
+321|I'm not planning on sparing anyone.
+322|What advantage would I gain in allowing people that have learned this country's secrets survive?
+323|Towns, people, animals...
+324|Even your allies...
+325|And you! Everyone dies!
+326|In other words, your friends just died a little earlier than they otherwise would have.
+327|Right, Straw Hatter?
+328|Isn't that what he used to call you?
+329|Oh, you needn't worry.
+330|I'll build another country.
+331|Mingo, all I have to do to fix this is kick your ass!
+332|I've been trying to tell you, you can't do that.
+333|You never learn!
+334|Bullet String!
+335|Rubber...
+336|Join Law in death!
+337|Chambres!
+338|Law!
+339|You're the one that's going to perish, Doflamingo!
+340|Do it!
+341|This operation will destroy you from the inside out!
+342|Gamma Knife!
+343|Doffy!
+344|Law! How are you still alive?!
+345|How are you using your Operation abilities without creating a Room?!
+346|No, this is a Room!
+347|It's at the cost of some of my lifespan, but I created a Room so big you can't even see it!
+348|What?!
+349|I did it all for this moment... to set up this attack!
+350|He missed my vital organs!
+351|Chambres!
+352|Mingo!
+353|Wait.
+354|I'm alive.
+355|Listen carefully, Straw Hatter.
+356|Don't turn around. I have a plan.
+357|Nobody can defend against an attack from inside their body!
+358|Even you can't counteract this technique!
+359|Doffy, you're a king! Don't prostrate yourself!
+360|Now you've really done it!
+361|It's no use!
+362|Even if you kill me, it's too late for you!
+363|I won't let you live...
+364|Law!
+365|Rubber...
+366|Jet Stamp!
+367|Doffy!
+368|Doffy! Are you alright?
+369|You bastard!
+370|Wait, Straw Hatter!
+371|Traf...
+372|That bastard... is mine!
+373|Room!
+374|You're finished, Doflamingo!
+375|Law!
+376|Damn you! What have you done to Doffy?!
+377|Don't get in his way!
+378|You just...
+379|gathered people that were convenient to you and called it a "family".
+380|And when your real brother, Cora-san, tried to end your rampage, you...
+381|He's free!
+382|Yeah, that was a shame...
+383|He betrayed me... even pointed a gun at me...
+384|But you knew!
+385|You knew Cora-san couldn't pull the trigger!
+386|I would have pulled it.
+387|I bet you would have.
+388|You're the same as me.
+389|I wanna destroy everything before my eyes!
+390|Towns, houses, people... I wanna destroy them all!
+391|Yeah... That's fine by me.
+392|But on that day...
+393|You should have died, not him!
+394|Law, I'm sure you'll love to hear this...
+395|Corazón was a drag and an eyesore to me.
+396|He acquired this silly sense of justice and wore that worthless heart of his on his sleeve.
+397|He was an incompetent man.
+398|When I killed him that day, it was a huge load off my-
+399|Counter Shock!
+400|Go to hell you demonic bastard!
+401|Doffy!
+402|As expected of our king!
+403|H-How the hell...
+404|Given enough time, I can mend myself.
+405|As we speak, the strings within my body are repairing my internal organs.
+406|What?!
+407|It's all about how you use your ability.
+408|It's a bit different from recovery, though.
+409|Good job on the suicide attack.
+410|Sticky Chain!
+411|Stop!
+412|Sticky Stick!
+413|I'll put you out of your misery. It's the least I can do.
+414|Dammit!
+415|Dammit...

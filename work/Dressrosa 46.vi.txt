@@ -1,0 +1,423 @@
+1|Dressrosa - Một ngọn đồi ở thị trấn phía đông Carta
+2|Nhà của Kyros
+3|Vậy hai người quen nhau ở Quân Cách Mạng à?
+4|Phải.
+5|Luffy...
+6|Robin, cô không cần đánh thức nó đâu.
+7|Tôi chỉ đến nhìn mặt nó trước khi đi thôi.
+8|Anh rời khỏi đất nước này luôn sao?
+9|Ừ. Rắc rối đang kéo tới đây.
+10|Rắc rối gì?
+11|CP-0.
+12|Chúng có dính líu tới màn lừa bịp của Doflamingo.
+13|Và chúng đang nhắm vào bọn tôi.
+14|Một hai ngày nữa Dressrosa sẽ náo loạn đấy.
+15|Các cậu cũng nên rời đi càng sớm càng tốt.
+16|Cảm ơn anh đã báo cho chúng tôi.
+17|Mà nữa, tôi đâu biết cậu ấy còn một người anh khác ngoài Ace.
+18|Thật đấy, giờ tôi mới nghe lần đầu.
+19|Chắc vậy.
+20|Tôi nghĩ người bất ngờ nhất là Luffy.
+21|Ý anh là sao?
+22|Suốt một thời gian dài, tôi bị coi là đã chết.
+23|Hồi nhỏ, tôi lúc nào cũng ở cùng Luffy và Ace.
+24|Chạy nhảy tung tăng chẳng lo nghĩ, bị lão già Garp dạy dỗ,
+25|mơ ước trở thành hải tặc...
+26|Rồi bọn tôi uống chung chén rượu và kết nghĩa anh em.
+27|Nhưng một ngày nọ, tôi gặp phải một tai nạn.
+28|À không, một vụ việc.
+29|Ace! Luffy!
+30|Thị trấn này có gì đó không ổn! Ai cũng điên hết rồi!
+31|Ai cũng biết sẽ có người chết, vậy mà vẫn làm như chẳng có gì. Họ còn cười nữa!
+32|Tớ không muốn ở thị trấn này!
+33|Phải báo cho hai cậu ấy càng sớm càng tốt!
+34|Ace! Luffy! Chạy đi!
+35|Cháu bị sao vậy, cậu bé?
+36|Thị trấn này còn hôi hơn cả Gray Terminal!
+37|Là mùi hôi thối kinh tởm của những con người mục rữa!
+38|Ở lại đây thì tớ sẽ không bao giờ được tự do!
+39|Ace... Luffy...
+40|Tớ thật sự muốn gặp hai cậu...
+41|Nơi này như một cái lồng chim...
+42|Tớ không chắc mình chịu nổi khi sống ở vương quốc này, hít thứ không khí tù đọng này.
+43|Tự do... rốt cuộc là gì?
+44|Mình có thể tìm nó ở đâu?
+45|Ace... Luffy...
+46|Ai đó... cứu với...
+47|Cứu...
+48|Ngươi tới trễ quá đấy, Dragon!
+49|Ngươi định bắt bọn ta chờ đến bao giờ hả?!
+50|Xin lỗi.
+51|Ngươi... Cái gì thế kia?
+52|K-Kinh khủng quá!
+53|Ngươi kia! Mau gọi bác sĩ! Khẩn cấp đấy!
+54|Gọi bác sĩ trên tàu tới, nhanh lên!
+55|Cậu bé tỉnh rồi!
+56|Xin đừng làm cậu bé hoảng sợ.
+57|Ta đâu có định làm thế!
+58|Ôi, ngươi thô lỗ quá đi!
+59|Hả?
+60|Đây là đâu?
+61|Cháu đang ở trên tàu của chúng ta.
+62|Đồ của cháu có ghi chữ "Sabo". Đó là tên cháu à?
+63|Sabo?
+64|Không biết.
+65|"Không biết"? Vậy rốt cuộc tên ngươi là gì?
+66|Không nhớ...
+67|Chẳng lẽ cậu bé...
+68|Rất có thể.
+69|Cậu bé vẫn chưa nhớ lại gì sao?
+70|Đúng vậy, kể cả tên mình.
+71|Ta gặp cậu bé lần đầu ở Khu Phố Cao, Vương quốc Goa.
+72|Chắc chắn nó là con nhà quý tộc ở đó.
+73|Vậy thì đưa nó về nhà thôi. Tìm cha mẹ nó...
+74|Không...
+75|Cháu không muốn quay về!
+76|Tại sao?
+77|Cháu không biết!
+78|Nhưng...
+79|đó là điều cháu không muốn nhất!
+80|Vậy là anh bị mất trí nhớ cho tới tận hai năm trước?
+81|Ừ.
+82|Nghiêm trọng đến thế, vậy làm sao anh lấy lại được trí nhớ?
+83|Ace đã giúp tôi.
+84|Ít nhất là tôi nghĩ vậy.
+85|Hỏa Quyền Ace qua đời
+86|Thời điểm không thể tệ hơn, nhưng...
+87|Đó là cách...
+88|...cậu ấy đánh thức tôi.
+89|Baltigo - Tổng hành dinh Quân Cách Mạng
+90|Bận rộn quá.
+91|Ồ, sếp Sabo! Anh tới đúng lúc lắm!
+92|Mau tới phòng tác chiến đi!
+93|Chiến tranh Thượng Đỉnh giữa Hải Quân và băng hải tặc Râu Trắng đã kết thúc!
+94|Râu Trắng thua rồi sao?!
+95|Iva-san có ổn không?!
+96|Ông ấy không có trong danh sách thương vong.
+97|Những người tử trận gồm...
+98|Tứ Hoàng Râu Trắng...
+99|và...
+100|Hỏa Quyền Ace!
+101|Nhưng quan trọng hơn, Dragon-san, chuyện này...
+102|Có thật không? Luffy Mũ Rơm là con trai ngài?
+103|Hửm?
+104|Phải.
+105|Tớ sẽ trở thành hải tặc...
+106|...đánh bại mọi kẻ cản đường, và nổi danh khắp thế giới!
+107|Thế là đủ chứng minh tớ đã từng sống!
+108|Sabo-kun, cậu sao vậy?
+109|Trông cậu lạ lắm!
+110|Nghe tin chưa?
+111|Nghe nói Akainu đấm xuyên thủng cả người cậu ta!
+112|Khi uống chung chén rượu, chúng ta sẽ thành anh em.
+113|Dù ở đâu hay làm gì, mối liên kết của chúng ta cũng không bao giờ đứt!
+114|Vậy từ giờ, chúng ta là...
+115|anh em!
+116|Ừ!
+117|Cậu ổn chứ, Sabo?
+118|Sabo-kun!
+119|Sabo!
+120|Đúng rồi...
+121|Người đã chết này không chỉ là một tên hải tặc bất kỳ...
+122|Cậu ấy không chỉ là một mối đe dọa của Thời Đại Hải Tặc cần bị loại bỏ!
+123|Ace là...
+124|anh em của tôi!
+125|Tớ sẽ không chạy trốn, cũng không thua bất kỳ ai!
+126|Tham mưu trưởng tỉnh rồi!
+127|Thật sao? May quá!
+128|Tôi cứ tưởng cậu sắp chết rồi, Sabo-kun!
+129|Cậu sốt cao lắm đấy, Sabo.
+130|Cậu ngủ li bì suốt ba ngày liền!
+131|Tôi lo lắm đấy!
+132|Hả? Cậu nhớ lại rồi à?
+133|Ừ, giờ tôi nhớ hết rồi.
+134|Cả việc tôi là ai và vì sao tôi bỏ nhà ra khơi.
+135|Vậy à. Tốt quá.
+136|Vậy cậu định rời Quân Cách Mạng à?!
+137|Không, đời nào.
+138|Dragon-san còn ở đây chứ?
+139|Ừ.
+140|Tôi có chuyện muốn nói.
+141|Lúc đó, tôi cảm thấy như Ace nói với tôi,
+142|"Cậu là Sabo. Cậu là anh em của tôi và Luffy."
+143|Cuối cùng... tôi cũng đi được đến đây rồi, Ace.
+144|Xem này.
+145|Luffy lại lên đường trở thành Vua Hải Tặc rồi.
+146|Đúng là em trai của chúng ta!
+147|Tiêu đề: Băng Mũ Rơm đã trở lại
+148|Sabo-kun?
+149|Tôi muốn nhờ toàn bộ Quân Cách Mạng một việc.
+150|Có một Trái Ác Quỷ mà tôi phải có được bằng mọi giá.
+151|Nhưng, nhưng Luffy-senpai...
+152|Dressrosa
+153|Còn Trái Lửa thì sao?
+154|Có người mà tôi thật sự không muốn để nó có được, nhưng không còn cách nào.
+155|Mạng sống của bạn bè tôi quan trọng hơn.
+156|Tôi nhất định sẽ lấy Trái Lửa về cho senpai!
+157|Senpai cứ đi làm việc của mình đi!
+158|Thật hả? Cảm ơn nhiều nhé!
+159|Tôi sẽ không để cậu có Trái Lửa đâu...
+160|Luffy Mũ Rơm.
+161|Này, này, này! Mày là ai?
+162|Sao mày dám nói chuyện tùy tiện với Luffy-senpai như thế hả?
+163|Anh ấy là em trai của hải tặc huyền thoại Hỏa Quyền Ace-sama,
+164|và là Vua Hải Tặc tương lai đấy, đồ ngu!
+165|Chuyện đó tôi biết từ lâu rồi.
+166|Mày bị sao vậy hả?!
+167|Tự dưng xuất hiện rồi bảo không để tao có Trái Lửa!
+168|Là anh đây, Luffy.
+169|"Là anh đây" là sao?!
+170|Nghe đây! Trái Lửa là di vật của Ace!
+171|Nếu mày muốn nó thì chúng ta là kẻ thù!
+172|Còn việc mày gọi tao là "Luffy"...
+173|Thấy bộ râu này không?
+174|Tao là Lucy!
+175|Em nghĩ anh không nhận ra mặt em trai mình sau lớp cải trang đó sao?
+176|"Em trai"?
+177|Nghe đây, người duy nhất được gọi tao là "em trai"...
+178|là Ace, người đã chết, và...
+179|một người đã chết từ lâu hơn nữa...
+180|Sabo!
+181|Không thể nào là anh được!
+182|Bọn mình đã trộm một chai rượu của Dadan để cụng ly...
+183|Sabo!
+184|Cái quái gì vậy?! Suốt thời gian qua anh đã ở đâu?!
+185|Em cứ tưởng anh chết rồi!
+186|Cảm ơn em, Luffy!
+187|Anh mừng vì em còn sống!
+188|Nhưng Sabo, em...
+189|Em đã để Ace bị giết ngay trước mắt mình...
+190|Anh biết. Dù Ace đã chết, anh vẫn...
+191|rất vui vì em còn sống!
+192|Anh suýt mất cả hai người anh em mà chẳng làm được gì!
+193|Nếu em cũng chết, anh sẽ chỉ còn lại một mình!
+194|Nên, cảm ơn em!
+195|Cảm ơn em vì đã sống sót, Luffy!
+196|Anh ăn Trái Lửa được chứ?
+197|Ừm!
+198|Thế thì tuyệt! Không ai khác được có nó!
+199|Cái tên Luffy này... Cậu ta đang cười kìa!
+200|Không biết cậu ấy đang mơ gì nhỉ.
+201|Thôi, tôi đi đây.
+202|Sớm vậy sao?
+203|Tôi được nhìn mặt nó rồi, nên...
+204|Đây, tôi có làm một tấm Vivre Card từ Luffy, phòng khi cần.
+205|Ồ? Cô làm lúc nào vậy?
+206|Tôi xin một mẩu nhé.
+207|Được rồi. Luffy có thể hơi khó trị,
+208|nhưng mong các cậu chăm sóc nó thật tốt.
+209|Ừ! Cứ tin ở bọn tôi!
+210|Anh ấy và Ace đã nói cùng một câu.
+211|Sabo, cậu đấy à? Hack đây.
+212|Ừ, tôi vừa rời đi. Sắp về rồi.
+213|Rõ.
+214|Vậy, thế nào rồi? Luffy-kun có vẻ...
+215|Sao lại cúp máy?!
+216|Đồ ích kỷ!
+217|Bình tĩnh nào, Hack-san!
+218|Mọi thứ đã sẵn sàng khởi hành rồi chứ?
+219|Ừ, lúc nào cũng được.
+220|Được!
+221|Về đến Baltigo, có biết bao chuyện về Luffy tôi phải kể với Dragon-san!
+222|Tôi thật sự...
+223|rất mừng vì được gặp lại nó.
+224|Xuất phát thôi!
+225|Dressrosa
+226|Ra mặt gì vậy? Cậu xem giúp tôi được không?
+227|Là mặt "một".
+228|Ra vậy. Mặt duy nhất có lợi cho Mũ Rơm...
+229|Chúng ta đã thỏa thuận vậy, phải không?
+230|Vâng, đúng vậy, nhưng...
+231|Vậy thì ván này cậu ta thắng.
+232|Đêm nay ta sẽ không bắt cậu ta.
+233|Không thể chỉ dựa vào một lần đổ xúc xắc mà quyết định được, Isshou-san!
+234|Chúng ta đã chạy khắp cả nước mới tìm ra chỗ hắn!
+235|Sau tất cả sự vô lễ ngài đã thể hiện với Thủy sư Đô đốc Sakazuki...
+236|Nếu muốn hạ Law và Mũ Rơm, giờ là cơ hội!
+237|Maynard-san!
+238|Đàn ông đã gieo xúc xắc thì không nên than vãn.
+239|Thật đáng thất vọng đấy.
+240|Cung điện Hoàng gia
+241|Sau chuyện đó có ai thấy Lucy không?
+242|Không, chẳng ai thấy cả.
+243|Tôi chỉ muốn cảm ơn cậu ấy thôi!
+244|Bên ngoài đã náo nhiệt lắm rồi.
+245|Dù họ thật sự là hải tặc hay tội phạm,
+246|thì chắc chắn họ là ân nhân của chúng ta.
+247|Ông ơi!
+248|Rebecca.
+249|Cha, Lucy và mọi người không có ở Cung điện!
+250|À, đừng lo chuyện đó. Kyros đã gọi về rồi.
+251|Họ đều đang ở cùng nhau.
+252|Ra vậy.
+253|Mà này...
+254|Rebecca.
+255|Nếu ta trở lại làm vua,
+256|thì cháu sẽ là công chúa đấy.
+257|Ngày hôm sau - Tân Thế Giới (băng hải tặc Mũ Xoắn)
+258|Chết tiệt!
+259|Vất vả lắm mới cắt đuôi được tàu của Big Mom...
+260|Thế sao các ngươi lại kéo bọn ta vào thêm rắc rối nữa?!
+261|Ngươi không có quyền lên tiếng!
+262|Bảo gì thì làm nấy!
+263|Ta nói thế là vì các ngươi đấy!
+264|Đừng có chõ mũi vào chuyện của họ!
+265|Lẽ ra nên kiên nhẫn chờ trên tàu. Các ngươi ngu thật mới lao đầu vào thế này!
+266|Im đi và làm theo lời tao!
+267|Mày có làm không?!
+268|Hay muốn tao bóp nát tim mày?!
+269|Được thôi! Nhưng ta sẽ không quên chuyện này đâu.
+270|Lên bờ đúng là quyết định đúng đắn!
+271|Vẫn còn cứu được họ! Bọn tao cần mày giúp!
+272|Nếu vậy thì sao không đối xử với ta tử tế hơn chút...
+273|Mày nói gì?!
+274|Đừng có lấy cái đó ra dọa ta nữa!
+275|Nhanh lên, Caesar!
+276|Đừng có ra lệnh cho ta, đồ lửng chó chết tiệt!
+277|Tao là tuần lộc!
+278|Thì khác gì nhau?!
+279|Im đi! Nhanh lên!
+280|Nếu họ chết vì mày, tao sẽ bắt mày trả giá!
+281|Bọn tao cần mày giúp!
+282|Khó chạy quá!
+283|Không ngờ chúng ta lại lạc mất Sanji-san và mọi người.
+284|Gay go rồi!
+285|Chúng ta mải đuổi theo cô bé bí ẩn quá.
+286|Ồ, cẩn thận, Nami-san!
+287|Cẩn thận nào, tôi ơi!
+288|Không, sao lại thế được?! Sao lại thế?! Sao lại thế?!
+289|Onami, chúng tới rồi!
+290|Yahoo!
+291|Đây là lũ xâm nhập à?
+292|Này! Các ngươi giấu con bé đó ở đâu?
+293|Sao các ngươi lên được hòn đảo này?
+294|Trả lời đi! Nơi này rất khó để-
+295|Gì... chuyện gì vậy?!
+296|Lần này lại là gì nữa đây?!
+297|Là Mưa Phun Trào!
+298|Lại nữa à?
+299|Nằm xuống!
+300|Cái gì vậy?!
+301|"Mưa"?
+302|Sai bét! Đây là đại hồng thủy!
+303|Tôi sẽ bảo vệ cô bằng mọi giá!
+304|Không!
+305|Nami-san!
+306|Momonosuke-san!
+307|Cứu ta với!
+308|Cứu cả tôi nữa!
+309|Trời ạ!
+310|Mấy người dùng Trái Ác Quỷ đúng là phiền phức!
+311|Xin lỗi vì tôi không bảo vệ được cô!
+312|Các ngươi không thoát khỏi ta đâu, lũ xâm nhập chết tiệt!
+313|Nào, tỉnh táo lại đi!
+314|Cảm ơn cô, như mọi khi.
+315|Cả cậu nữa, Momo!
+316|Ta nợ ngươi một ân tình.
+317|Khi phân vân...
+318|Cứ giết!
+319|Brook!
+320|Ngài Xương!
+321|Cuối cùng tôi cũng bảo vệ được cô!
+322|Phần còn lại xin cứ để tôi lo!
+323|Chậc! Ngạo mạn thật!
+324|Sừng Cừu!
+325|Cái gì?!
+326|Mấy cánh tay đó là gì vậy?
+327|Ngài Xương!
+328|Đỡ này!
+329|Soul Parade!
+330|Ngài Xương, tuyệt quá!
+331|Đó là năng lực gì vậy?
+332|Brook!
+333|Cứ cầm chân hắn tiếp đi!
+334|Diable Mouton...
+335|Shot!
+336|Sheepshead-sama!
+337|Sanji-kun!
+338|Ồ, Nami-swan!
+339|Các ngươi là ai?!
+340|Còn các người là ai...
+341|Gì vậy? Ghê quá!
+342|Ginrummy-sama!
+343|Các ngươi kia! Rút lui!
+344|Sheepshead-sama bị hạ rồi!
+345|Cái gì?!
+346|Nhưng ta vẫn chưa tìm thấy samurai!
+347|Dồn chúng đến mức này mà hắn vẫn chưa ló mặt!
+348|"Samurai không có ở đây." Báo lại đúng như vậy!
+349|Rõ, thưa cô!
+350|Nước đang rút dần...
+351|Chuyện vừa rồi là sao nhỉ?
+352|Đúng là một hòn đảo kỳ lạ.
+353|Mong cô bé đó cũng không sao...
+354|Cô bé nhanh nhẹn hơn chúng ta. Sẽ ổn thôi.
+355|Cậu nói đúng.
+356|Này, mọi người!
+357|Qua đây ngay!
+358|Đó là Chop'emon, ở khu rừng phía dưới!
+359|Vậy đi thôi! Không còn thời gian đâu!
+360|Nơi trú ẩn của băng hải tặc Kid
+361|Tiếng gì vậy?
+362|Chuyện gì thế?
+363|Thuyền trưởng, có một cái hố khổng lồ!
+364|Hố á?
+365|Có thứ gì đó rơi xuống!
+366|Cầm vũ khí lên!
+367|Yeah!
+368|Đó kìa!
+369|Đúng là to thật.
+370|Nó rơi từ đâu xuống vậy?
+371|Thằng quái nào gây ra chuyện này?!
+372|Này, trông nó giống hình người không?
+373|Nếu tôi nhớ không nhầm...
+374|Có truyền thuyết về một đảo trời nơi có quái vật sống...
+375|Ở đâu đó trên trời, quanh đây, đúng không?
+376|Ý mày là nó bị đẩy rơi từ đảo trời xuống à?!
+377|Thuyền trưởng Kid!
+378|Một tàu của ta bị lật vì chấn động!
+379|Mày nói gì?!
+380|Chết tiệt! Đứa nào làm chuyện này?!
+381|Kẻ mạnh thì sống, kẻ yếu thì chết.
+382|Thế giới vốn là như vậy.
+383|Vài phút trước...
+384|Đảo Trời - Tàn tích Balloon Terminal
+385|Rốt cuộc ngươi đang làm gì vậy?
+386|Cứ mặc kệ hắn đi, Đại Tư tế!
+387|Hắn điên rồi!
+388|Chúng ta đang ở độ cao mười ngàn mét đấy.
+389|Người này đang tìm chỗ để chết.
+390|Nếu hắn nghiêm túc, việc gì phải ngăn?
+391|Tóm tắt cuộc đời hắn,
+392|hắn đã bại trận bảy lần với tư cách hải tặc,
+393|và bị Hải Quân hoặc kẻ thù bắt mười tám lần.
+394|Hắn bị tra tấn hết lần này đến lần khác, sống như một tội phạm.
+395|Hắn muốn tự sát...
+396|theo một cách phi thường: nhảy xuống từ đảo trời.
+397|Và đó là chuyện đang xảy ra.
+398|Xin nhắc lại:
+399|Một mình hắn thách thức Hải Quân và Tứ Hoàng,
+400|bị bắt mười tám lần, bị kết án tử bốn mươi lần.
+401|Khi treo cổ, sợi xích đứt.
+402|Khi lên máy chém, lưỡi dao vỡ vụn.
+403|Khi bị xử đâm cọc, ngọn giáo gãy nát.
+404|Kết quả là hắn đã đánh chìm chín tàu ngục.
+405|Nói ngắn gọn, không ai giết được hắn.
+406|Kể cả chính hắn.
+407|Lại gì nữa đây?
+408|Con quái vật đó là cái quái gì vậy?
+409|Chết tiệt, đầu đau quá.
+410|Xem ra muốn chết cũng khó.
+411|Lại sống sót nữa rồi.
+412|Thật nể ông ta làm được...
+413|Lão già Râu Trắng ấy.
+414|Kẻ đi tìm nơi để chết:
+415|Bách Thú Kaidou
+416|Người ta nói: "Nếu đấu tay đôi, Kaidou sẽ thắng."
+417|Dù trên đất liền, biển cả hay bầu trời, hắn là hải tặc được gọi là "sinh vật mạnh nhất thế giới".
+418|Ta không còn lựa chọn nào khác, phải không?!
+419|Chết tiệt!
+420|Nhanh lên, Joker!
+421|Chuẩn bị cho trận chiến cuối cùng!
+422|Thế giới nhàm chán này có tan hoang cũng chẳng sao!
+423|Hãy bắt đầu cuộc chiến vĩ đại nhất mà thế giới từng thấy!

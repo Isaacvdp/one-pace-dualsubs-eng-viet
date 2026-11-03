@@ -1,0 +1,574 @@
+1|Hey! What happened to the eastern port reinforcements?!
+2|Sir!
+3|Well, most of our units have been incapacitated...
+4|What do you mean?
+5|The bullets and gunpowder have vanished from their rifles!
+6|And all their other weapons - swords, pistols, axes, spears, and knives...
+7|...went missing, too!
+8|They must have been stolen.
+9|And at the port,
+10|the warships are stuck together as if they were sewn to each other,
+11|so they can't set sail!
+12|How do you even sew iron together?!
+13|Just cut the string! Cut it!
+14|But we don't have any knives!
+15|Meanwhile, the soldiers who suddenly collapsed are still paralyzed...
+16|What are you doing, you incompetents?!
+17|I apologize, sir!
+18|Entrance to the Eastern Port
+19|So you're just gonna let the Straw Hats and the other criminals walk away?!
+20|Do something!
+21|W-We'll do our best, sir!
+22|Is it really okay to take this much healing power from them today, Mousey?
+23|The donors will be paralyzed if we take too much out of them.
+24|It's fine, we have permission!
+25|From Kyros-sama.
+26|Just do as I say, Princess!
+27|Okay! Then I won't hesitate!
+28|There are still so many heavily-injured people!
+29|I know you're in the middle of taking donations, but we have to go...
+30|We'll be all done soon!
+31|Oh, I'll just wait then!
+32|According to the locals,
+33|all these strange occurrences are the work of fairies.
+34|Cut the fairy crap, you imbecile!
+35|I-I-I-I'm sorry, sir!
+36|B-Barrier!
+37|Can your barrier even hold him back?!
+38|If it were breakable, it wouldn't be called a barrier!
+39|Just hold him off until Luffy-senpai and Trafalgar get here!
+40|Yeah!
+41|Are they fighting?!
+42|Want some rice crackers?
+43|I don't want any. Just get on with it.
+44|A boy with White Lead Disease?!
+45|So there was a survivor from White Town?!
+46|He hates everything about the world.
+47|Feels like I'm watching my older brother when he was a kid.
+48|I feel sorry for him, but there's no way to cure White Lead Disease.
+49|Don't get too involved, or you'll give yourself away.
+50|Yes, sir. Understood.
+51|I'm just here to stop my brother.
+52|Doflamingo is a savage man.
+53|I won't let him reach Dressrosa.
+54|On that day, a Marine died.
+55|Near the Eastern Port
+56|That Marine was someone special to me.
+57|I met him when he was a kid, and I thought of him as my son.
+58|He was very honest, and he had a stronger sense of justice than anyone I know.
+59|He was a most trustworthy subordinate.
+60|But only once in his lifetime did he ever lie to me.
+61|Landing party, reporting in.
+62|There is a commander of the Donquixote Family among the dead.
+63|Code name: Corazón.
+64|Photo transmitted. Please confirm.
+65|Rocinante!
+66|Why were you there on the island?!
+67|I was betrayed.
+68|However, there must have been a reason.
+69|Four things were lost during that incident:
+70|The Barrels Pirates.
+71|My subordinate.
+72|The Ope Ope Fruit.
+73|And who was residing with the Donquixote Family at the time...
+74|a boy suffering from White Lead Disease!
+75|Yeah.
+76|It was me.
+77|As I thought.
+78|So you're the reason why Rocinante took a half-year break from his mission?
+79|Yeah, he took me to quite a few hospitals.
+80|And then he went after the Ope Ope Fruit,
+81|sacrificing himself to save you in the process?
+82|I just want to know what exactly it was he died for.
+83|Yeah, alright.
+84|Actually, we were gonna escape together.
+85|He gave me back my life and my humanity.
+86|I'm forever in his debt.
+87|And it's solely for that reason I've remained alive. I wanted to kill Doflamingo on his behalf!
+88|But...
+89|I don't know if this is how he wanted me to live, as a bearer of the name "D".
+90|"D"?
+91|Just like Straw Hat, I also have that secret name.
+92|You're the former Fleet Admiral.
+93|You wouldn't happen to know something about the meaning behind "D", would you?
+94|Who knows?
+95|Hey, don't play dumb!
+96|At the very least,
+97|I know Rocinante had no idea.
+98|In other words, that wasn't the reason he saved you.
+99|Don't search for a reason...
+100|for somebody to love you!
+101|I love you!
+102|So he's another one of them.
+103|Those that bear the name "D" always lead unfortunate lives.
+104|If I were still on active duty,
+105|I would've imprisoned you to have more time to talk, but...
+106|Ironically, you're the only person who I can share the memory of Rocinante with - a pirate, at that.
+107|If we really want to do something in his memory, both you and I...
+108|should never forget him.
+109|That's good enough. You live your life as you like.
+110|That's what...
+111|...he would say.
+112|What?!
+113|This must be...
+114|What the, what the?!
+115|Oh, the rubble...
+116|Get away from it!
+117|What in the world is going on?
+118|The broken buildings are rising up into the air!
+119|All the rubble in the country is flying toward the east port!
+120|What in the world is...
+121|going on here?!
+122|Is this the work of a god? Or perhaps some mysterious birds?
+123|There's only one person who's capable of this on the island now!
+124|This is the doing of the Navy Admiral, Fujitora!
+125|Well...
+126|I suppose nobody's using any of this.
+127|This is all that's left after those hideous pirates fought!
+128|Don't tell me he's gonna use that as a weapon!
+129|A barrier that only covers a limited area won't stand a chance against this!
+130|Is he crazy?!
+131|That ain't fair!
+132|What is happening?!
+133|We don't have time to be surprised!
+134|We gotta go help the Usolanders!
+135|Is he planning on bringing down the pirates with that?
+136|No one will survive that!
+137|This is unbelievable!
+138|Does this mean their escape plan failed?!
+139|Lucy!
+140|Vice Admiral Bastille.
+141|Bastille!
+142|Huh? Oh, oh, Tsuru-san!
+143|My sincere apologies.
+144|I couldn't believe my eyes, so I...
+145|Still need... reinforcements?
+146|No, ma'am!
+147|All Navy units!
+148|Reinforcements are no longer required in the east!
+149|All units, fall back from the eastern port!
+150|Evacuate all personnel and lead civilians somewhere safe!
+151|Do not interfere with Isshou-san... I mean, the Navy Admiral!
+152|Hey, guys!
+153|We're in danger no matter where we are! Head to the port on the double and set sail!
+154|Got it, Trafal...
+155|Gah!
+156|Law!
+157|We've been waiting on you and Straw Hat! Where the hell were you?!
+158|Everybody, head for the ship! Prepare to cast off!
+159|Aye, aye!
+160|Over there! Here he comes!
+161|Luffy!
+162|Luffy-senpai! Hurry up!
+163|Straw Hat!
+164|Everybody's here! Run for the ship!
+165|Luffy-senpai! Watch out for Fujitora, he's right there!
+166|Luffy-senpai, hurry up! Just dodge him somehow!
+167|Dodge?
+168|Hey, old gambler guy! Do you remember me?!
+169|I've been expecting you, Straw Hat!
+170|Gonna punch you!
+171|Gomu Gomu no...
+172|Elephant Gun!
+173|Luffy-senpai!
+174|He's a Navy Admiral! Whaddya think yer doin'?!
+175|"We'll beat them someday" isn't good enough anymore!
+176|He may be a Navy Admiral, but why should I run?!
+177|I would've done that two years ago, but not now!
+178|Even if they're a Navy Admiral or an Emperor,
+179|I gotta beat 'em all!
+180|Or else...
+181|There's no way I'll be Pirate King!
+182|Gonna punch you!
+183|Gomu Gomu no...
+184|Hawk Bullet!
+185|Why's he gotta be so serious about fightin' at a time like this?
+186|Are you out of your mind, Straw Hat?!
+187|Should we help?
+188|Gonna stomp you!
+189|Gomu Gomu no...
+190|Hawk Axe!
+191|I'm totally on board with what Luffy said,
+192|but why's he fighting strangely?
+193|Gonna kick you!
+194|Oh, crap! I meant "punch"!
+195|Sorry, old man!
+196|No worries.
+197|Here I go, old man!
+198|Gonna punch you!
+199|Gonna kick and punch you!
+200|A whole buncha punches!
+201|Push you!
+202|Head!
+203|Stomp you!
+204|My body's getting lighter and heavier... What's going on?!
+205|Straw Hat!
+206|That's why I told ya to run, Luffy-senpai!
+207|I'm not gonna...
+208|run anymore!
+209|Indeed. You appear strong enough to back those words.
+210|I like your tenacity, however...
+211|Gonna punch you!
+212|What exactly have you been doing all this time?
+213|Announcing you're going to "kick" or "punch" me...
+214|Are you taking pity on me?!
+215|I'm a Navy Headquarters Admiral! Everyone says I'm like a monster!
+216|I don't want anybody going easy on me after all these years!
+217|Does it bother you that a blind man is on the battlefield?!
+218|If you wanted to anger me, you succeeded!
+219|I'll chop off your head before you know it!
+220|Shut up!
+221|I just can't hit a blind man like you without saying something!
+222|Because I don't hate you, old man!
+223|What's so funny?!
+224|Gonna kick you!
+225|Your sympathy!
+226|What purpose does it serve?
+227|A whole buncha punches!
+228|How very disappointing! You make no sense!
+229|Gonna punch you...
+230|...with everything I've got!
+231|When men fight,
+232|they should fight in a way befitting their position.
+233|You cannot...
+234|show pity, nor tell someone you like or hate them in such a straightforward manner!
+235|You're such a fool!
+236|I fight as befits my position, even though I don't want to!
+237|Gravity Sword!
+238|Raging Tiger!
+239|There's Straw Hat, Hajrudin!
+240|Hey! Leggo of me, giant!
+241|Take him to the ship!
+242|Alright, Luffy! It's my turn!
+243|Don't, don't! Please stop, Zoro-senpai!
+244|We've already made arrangements!
+245|"Arrangements"?
+246|Hey, you said you had a ship for us at the port, but there are probably too many-
+247|Look around you! No one would want to moor their ship in such a dangerous port!
+248|Wha?!
+249|I-Is this...
+250|Th-These ships are all lined up! There's so many!
+251|You've got that right! The others' ships are in the fog, five kilometers ahead!
+252|Cross the sea by taking this connecting bridge, courtesy of our Great Yonta Maria Fleet!
+253|Hey! I'm still fighting!
+254|Let go!
+255|Stop it already! I beg you!
+256|Hey, lemme go! I wanna fight!
+257|Some other time. We have things to do.
+258|It's much too late for you, Straw Hat.
+259|What do you think, Straw Hat?
+260|Though I cannot see it myself, I know it is right before your eyes.
+261|The dark sky is telling you that you have nowhere to run.
+262|As you set sail, rubble shall rain upon you without end.
+263|Your entire armada will sink.
+264|Can you not see?
+265|If by some chance you escape me, the Four Emperors will take action.
+266|By taking down Joker, you'll be targeted for execution.
+267|And your future will be nothing short of hell.
+268|You may have pitied me for my blindness, but...
+269|I asked for this.
+270|I blinded myself because there are so many things I wish I had not seen.
+271|Well, then.
+272|At least permit me to guide you to hell!
+273|Give us back Rebecca, Lucy!
+274|Weren't you a hero, Lucy?!
+275|Is that...
+276|This country has done a lot of harm to her!
+277|Don't further her misery!
+278|Citizens, halt your advance!
+279|Past this point are only criminals!
+280|Come no further! I shall put an end to-
+281|Move it, Navy!
+282|We don't need your help!
+283|We'll shake off the pirates ourselves!
+284|What is it? It's pretty noisy back there!
+285|It's the people of Dress Rosa! What do they want now?
+286|Prepare yourself, Lucy!
+287|Lucy!
+288|We'll catch you no matter what!
+289|Get ships under way! Let's chase him out to sea!
+290|They're...
+291|Lucy!
+292|You won't get away, you jerk!
+293|There is not a single trace of resentment in their voices.
+294|Lucy, wait! Give us back Rebecca-sama!
+295|Hey, everybody!
+296|I saw Rebecca-sama at the house on the top of the hill with Kyros-sama!
+297|That so? But everyone already knew that.
+298|Huh?!
+299|If Kyros-sama gives in, they'll stay together...
+300|because they're actually father and daughter.
+301|We adults have known that for sixteen years.
+302|We knew about Scarlett-sama and her family of three,
+303|living happily on the top of the hill.
+304|We've known about the true identity of the fairies, too! We've all been watching them.
+305|Really?
+306|Anyway, we gotta run faster!
+307|We need to help the saviors of our country escape!
+308|If we follow Lucy, Fujitora won't be able to drop the rubble from the sky!
+309|Wait, Lucy! Give us back, Rebecca-sama!
+310|Wait, you bastard!
+311|You are truly honest to a fault, Straw Hat Luffy.
+312|I suppose everyone here wants to help you.
+313|What kind of person are you, exactly?
+314|What color is your hair? What shape are your eyes?
+315|What do you look like?
+316|I wish I hadn't closed these eyes.
+317|I'd have liked to see your face.
+318|I wager you have the face of someone kind.
+319|Now, what shall I do with this weapon I've raised?
+320|How embarrassing of me.
+321|Straw Hat, that bastard!
+322|All our dealings with Doflamingo came to nothing now!
+323|Don't let him get away from Dressrosa!
+324|If King Riku has returned to the throne,
+325|we want him to pay the price for that, too!
+326|After we wipe out Straw Hat Luffy and all of his allies...
+327|We'll rampage all over Dressrosa!
+328|All right! From now on,
+329|let's form an allied fleet built on our mutual hate of Straw Hat!
+330|Cut off his head at any cost!
+331|All soldiers have retreated! However, citizens are running to the port!
+332|What's Isshou-san doing?
+333|How long does he plan to keep all that rubble in the sky?
+334|Well, wouldja look at that!
+335|Whoa, it's huge!
+336|Great Yonta Maria Fleet Flagship "The Yonta Maria"
+337|Ain't she a beauty?
+338|She's not yours!
+339|Right, make it quick and climb aboard!
+340|This's a state of emergency!
+341|I'll show you my ship later! It'll knock yer socks off!
+342|Straw Hat! I have four fellow mercenary giants!
+343|I eventually want to unify all the Giant tribes with them.
+344|Together, we'll revive the Giant Pirates that once terrorized the world!
+345|The Giant Pirates! Those were the glory days of Masters Dorry and Brogy, Luffy!
+346|Oh yeah? You'll be a tough enemy to fight!
+347|Well, I guess we'll see you again someday, somewhere!
+348|I wanna go to Elbaf!
+349|Our Great Yonta Maria Fleet numbers 56 ships! I just know we'll be able to help you out!
+350|Help us?
+351|Luffyland, we got permission from Chief Tonta!
+352|We wanna join you, too!
+353|"Join"?
+354|We won't lose in a fair fight,
+355|but we can't call ourselves champions without fighting pirates!
+356|So, Ideo and I joined forces and decided to set out to sea!
+357|Hey, we're with you guys, too! Don't forget about us, bros!
+358|This guy's allowing me to join his crew.
+359|I'm doing you a favor, so you'd better call me Captain!
+360|And as for you! Don't forget that I'm more experienced than you!
+361|Even if I go along with you, I'll be the most popular!
+362|What're you guys talking about? You're free to do whatever you want!
+363|Well, the fact is we totally hit it off while we were staying at the Palace for two days!
+364|Huh?
+365|I shall explain! Just so you know, we decided the order by lot.
+366|Class-A War Criminal from the Naval Battle at Dias, Suleiman
+367|The Pirate Noble Cavendish the White Horse
+368|First, the Beautiful Pirates, 75 members!
+369|Their representative is their captain, Cavendish the White Horse!
+370|Captain of the Barto Club Bartolomeo the Cannibal
+371|Next, the Barto Club, 56 members!
+372|Their captain: Bartolomeo the Cannibal!
+373|13th Leader of the Happou Navy Don Sai
+374|The Happou Navy, about 1,000 men strong!
+375|And their thirteenth leader...
+376|Don Sai!
+377|Long Leg Tribe Jiao Kung Do Practitioner, Blue Gilly
+378|Long Arm Tribe XXX-Class Boxer, Ideo
+379|The XXX Gym Martial Arts Alliance, four members!
+380|Former Bounty Hunters, Abdullah & Jeet
+381|Their representative, "Destruction Cannon" Ideo!
+382|Gnome Tribe (Tontatta) Leo
+383|The Tontattan Tonta Corps, 200 in number!
+384|Their leader is the warrior, Leo!
+385|Mercenary Giant, Hajrudin
+386|Only five members at the moment,
+387|the soon-to-be Giant Pirates!
+388|Their captain: Hajrudin!
+389|The Massacre Ruler Orlumbus
+390|And as for me...
+391|Commodore of the Great Yonta Maria Fleet, 4,300 strong!
+392|Pioneer and adventurer, Orlumbus!
+393|H-Hey...
+394|That makes a large battalion of about 5,600 people in total!
+395|Luffy-senpai!
+396|Will you exchange cups of sake with us seven representatives, as father and sons?
+397|"Father and sons"?
+398|That's right!
+399|You be the boss, and we'll be your followers!
+400|Will you take us under the flag of the Straw Hat Pirates?
+401|Big boss
+402|Alright, we'll exchange father-and-son vows
+403|to inaugurate Luffy-senpai as our boss
+404|and us seven as his followers...
+405|I'm not gonna drink this!
+406|What?!
+407|I thought so.
+408|I don't like this sake much.
+409|No, it's not about the taste! It's about the vow!
+410|From now on, you'll be targeted by big names because of the incident on this island!
+411|When that happens,
+412|it doesn't matter how strong you all are, it's gonna be a tough battle!
+413|But since you saved us, we can help you at those times!
+414|Yes! Yes!
+415|But if I drink this,
+416|I'll become the grand captain of this grand fleet, right?
+417|That's right.
+418|With 5,600 followers in total, you'll finally be counted among the greatest pirates!
+419|You are the man who will become the Pirate King someday!
+420|If you wanna conquer the world, this won't be enough though.
+421|You'd better stop!
+422|That line of reasoning won't work on him.
+423|Anyway, pour this into a beer mug.
+424|I'll drink it.
+425|Like I said we're not doing this to enjoy the taste!
+426|Why, Straw Hat?!
+427|Why aren't you happy to amass such a great military force?!
+428|Doesn't matter how strong your enemy is -
+429|he can't compete against the force of numbers!
+430|I'm sure you'll need our help someday like we needed you!
+431|I need my space!
+432|What?! He looks so annoyed!
+433|That aside, aren't they preparing for a banquet in the back?
+434|He's interested in eating at a time like this?!
+435|Screw you, Straw Hat!
+436|I'm a star and more experienced than you but I'm saying I'll fly under your flag!
+437|Let's force him to drink it!
+438|You don't know how strong we are, you damn liberator!
+439|You can't talk to him like that if you're his follower!
+440|And I'm tellin' you guys, I just wanna be Pirate King!
+441|That doesn't mean I wanna be important!
+442|Hey, what's he going on about?
+443|This is pretty good stuff.
+444|Use a cup! You have bad manners!
+445|Oh! Let me try! Give me some!
+446|Guys!
+447|When we think we're in danger, we'll shout for you
+448|so come save us!
+449|I don't have to be the boss or a great pirate, do I?
+450|When you guys are in trouble, call us! We'll come help you no matter what!
+451|I'll never forget that we fought together against Mingo!
+452|I think I'm startin' to understand what he's saying,
+453|and what it means to him to be the Pirate King!
+454|It ain't about being important... but about bein' free!
+455|What's going on?!
+456|--Somebody's firing at us! --Is it the Navy?!
+457|It can't be! We've sewn their warships together tightly!
+458|Let Columbus take command! We're still busy here!
+459|--Whoever it is, get rid of them! --Yes, sir!
+460|I know you have Monkey D. Luffy,
+461|a rookie who's worth over 100 million, on your ship!
+462|Hand him over to us without a fight!
+463|People of Dressrosa! Get back to the land!
+464|It's dangerous!
+465|But if we're not here, Fujitora will attack!
+466|Fire back!
+467|Shoot! Let them sink!
+468|The rubble's only falling where the enemy ships are!
+469|What's going on?!
+470|This is my farewell gift to you, Straw Hat.
+471|Freedom... Freedom... That's what Luffy-senpai wants...
+472|In that case, I admire you even more, Luffy-senpai!
+473|So do I!
+474|Hey, Bartolomeo! Make the oath!
+475|He doesn't have to drink out of the parent's cup.
+476|He's right.
+477|You can do whatever you want - so can we.
+478|You can't take away our freedom, either!
+479|Oh yeah?
+480|Luffy-senpai! Allow me to make a brief oath!
+481|An oath?
+482|Here it goes, Luffy-senpai.
+483|We now become Straw Hat Luffy-senpai's followers,
+484|and we'll be his shield or pike in all weather!
+485|To repay him for what he did this time, we seven will...
+486|...drink out of these Sons' Cups of our own volition,
+487|devoting our lives and souls!
+488|What are you guys doing?!
+489|This makes it official!
+490|Hurry up and prepare for the banquet!
+491|It's all ready!
+492|Celebrate the formation of the Straw Hat Fleet with over 5,600 crew in total!
+493|Yeah!
+494|They just do whatever they like!
+495|Sons' Cups?! What the hell is that?!
+496|Big Boss Straw Hat! Thank you in advance!
+497|What?!
+498|Hey! I didn't drink that, okay?!
+499|Although it's empty for some reason!
+500|Man, that was good!
+501|Yeah, that's okay!
+502|Nothing has changed for you.
+503|We just decided to go ahead and swear our loyalty to you.
+504|And when something happens to you, we'll be there risking our lives of our own will.
+505|You'll lose nothing by having us, right?
+506|Now, why don't you remember our names and faces...
+507|Honey!
+508|Look.
+509|Luffy! The main dish is Fighting Fish Steak!
+510|Looks good!
+511|Hey, that's dirty! Don't climb on food!
+512|Hey, stop crying already.
+513|No, I can't bear to get up... I'm so moved...
+514|Leo, we're gonna leave the port and start the banquet.
+515|What are you guys gonna do?
+516|We're gonna attend the banquet!
+517|And we'll get home by Yellow Cubs afterwards.
+518|Don't worry about us!
+519|Are we sailing out?
+520|Okay! An order from the boss! Hoist the sails!
+521|Happo
+522|Vice Admiral Bastille! I have a report!
+523|The rubble's finally raining down, huh?
+524|Have Straw Hat and the others been wiped out?!
+525|No, it's all missing the target!
+526|What do you mean-dara?!
+527|Rubble, then sunny skies.
+528|Quite unusual weather was observed off the coast of Dressrosa this day.
+529|I actually had no right to chase you all.
+530|I shouldn't say this out loud but...
+531|...thank you very much for cleaning up the Government's mess!
+532|I heard you!
+533|Alright, guys!
+534|In the battle against the Mingo Family,
+535|we...
+536|...won!
+537|Yeah!
+538|We did it!
+539|Good job, guys!
+540|Fraland!
+541|--Zoroland, thank you! --No problem!
+542|Crest Head!
+543|Luffy-senpai!
+544|Honey!
+545|--Let's make a toast! --Okay!
+546|Cheers!
+547|Seems like they managed to set sail.
+548|I'm glad. Lucy...
+549|Do you think we'll see them again?
+550|Isn't this warmer?
+551|Yes!
+552|It's much warmer!
+553|Oh? You're crying again!
+554|I-I'm not crying! Don't be ridiculous!
+555|Wait!
+556|Hey, come here!
+557|Stop it!
+558|Having enough?
+559|Oh, thanks!
+560|Dammit!
+561|Press and hold for more than three seconds.
+562|Cheers!
+563|Say, Robiland, we can see you again, can't we?
+564|Of course! Along with everyone else!
+565|Yeah!
+566|--Good for you! --Oh, when did you get in there?
+567|After the hard fight in Dressrosa,
+568|the very unconventional Sons' Cups were exchanged in secrecy.
+569|By a quirk of fate or by chance,
+570|these seven extraordinary men gathered together
+571|and insisted on becoming Straw Hat Luffy's followers.
+572|They will develop themselves individually hereafter
+573|and will eventually cause a major incident that will go down in history, but...
+574|...that's a story no one could have known at this time.

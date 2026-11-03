@@ -1,0 +1,285 @@
+1|Đầu của Pica-sama rơi ra rồi, ngài ấy không cử động nữa!
+2|Chuyện gì vậy?!
+3|Cơ hội của chúng ta đây!
+4|Tao sẽ hạ Doflamingo!
+5|Tao mới là người hạ hắn!
+6|Không, là tao!
+7|Chúng lại tới nữa kìa!
+8|Chặn chúng lại! Đừng để chúng tới được cung điện!
+9|V-Vô vọng rồi. Đám đấu sĩ của Đấu trường không chịu dừng.
+10|Nhìn chúng lao lên kìa!
+11|Không ngờ chúng vẫn dám chống lại Thiếu chủ.
+12|Bọn chúng điên rồi -in.
+13|Đúng thế. Fujitora và đám lính Hải Quân đang ở ngay ngoài cung điện.
+14|G, là G trong "lính Hải Quân"!
+15|Quả nhiên chính băng Mũ Rơm đã chặn Pica lại.
+16|Ngay lúc này có bốn kẻ địch khác nhau đang tiến về cung điện.
+17|Được rồi, ta tới đây!
+18|Biến hình!
+19|Nhà máy SMILE!
+20|Giờ là lúc đập tan cổng nhà máy!
+21|Radical Beam!
+22|Đòn của mày còn chẳng làm xước nổi nhà máy, nhưng...
+23|Tao vẫn đến để thanh toán với mày, cho chắc ăn.
+24|Mày vẫn muốn đánh à?!
+25|Đàn ông là thế đấy, nhóc.
+26|Senor!
+27|Làm ơn đi, Kyros! Ra mặt và đầu hàng đi!
+28|Nếu ông không ra, bọn tôi sẽ tới bắt ông!
+29|Bọn tôi không cần tiền, nhưng cuộc tàn sát sẽ không dừng cho tới khi tất cả chết hết!
+30|Bọn tôi hết cách rồi! Bọn tôi muốn chấm dứt cơn ác mộng này!
+31|Ta cũng muốn kết thúc trận chiến này càng nhanh càng tốt.
+32|Ta không trách các người, nhưng các người đã nhắc ta nhớ vì sao ta phải tiếp tục!
+33|Bắn! Đừng để hắn thoát!
+34|Ta cũng có việc mình phải làm!
+35|Hả?! Luffy-senpai không có ở đây!
+36|Đương nhiên rồi.
+37|Chị biết sao?!
+38|Luffy không thể ngồi yên một chỗ quá năm phút đâu.
+39|Tự do!
+40|Đúng là Vua Hải Tặc có khác!
+41|Robin-san, chúng vẫn đang đuổi theo ta.
+42|Lên được tới đỉnh là ta thắng rồi!
+43|Dùng xong thì phải gỡ tấm lưới xuống.
+44|Làm được rồi!
+45|Xin thứ lỗi.
+46|Chị ơi!
+47|Vua Riku, con quái vật đá kia là gì vậy?
+48|Sao cung điện lại ở đằng kia?
+49|Con tìm thấy rồi.
+50|Viola-san!
+51|Viola!
+52|Con tìm thấy rồi, thưa cha.
+53|Chìa khóa còng tay của Trafalgar Law.
+54|Cuối cùng con cũng tìm ra nhờ năng lực Thiên Lý Nhãn.
+55|Ta phải tìm cách mang nó đến cho cậu ấy.
+56|Khoan đã, Viola! Sao con lại lo cho bọn họ đến vậy?
+57|Chúng là hải tặc đấy!
+58|Đúng vậy. Họ là những kẻ ngoài vòng pháp luật sẽ xé toạc vỏ bọc hòa bình giả tạo của đất nước này!
+59|Cha, con đặt cược tất cả vào họ, vào băng Mũ Rơm.
+60|Tên hải tặc Doflamingo, kẻ được Chính phủ Thế giới phong làm Thất Vũ Hải,
+61|đã thống trị đất nước này và gây cho chúng ta biết bao đau khổ.
+62|Con không cần Chính phủ Thế giới hay Hải Quân, lũ giả vờ chính nghĩa, giúp đỡ!
+63|Họ không nghe thấy...
+64|Tiếng nói của các nạn nhân...
+65|Tiếng gào thét phẫn nộ của đất nước này.
+66|Kẻ cầm quyền chỉ nghe những gì họ muốn nghe.
+67|Ít ra băng Mũ Rơm nói bằng nhiệt huyết, và hành động theo trái tim mình!
+68|Tôi sẽ đánh cho Doflamingo một trận nhừ tử!
+69|Nên hãy ở lại với đồng đội của tôi.
+70|Vua Riku. Vua Riku!
+71|Hãy nhìn người này.
+72|Chẳng phải đây là kẻ năm sao sao?
+73|Đúng vậy! Ngài ấy là Thần Usopp, còn gọi là Usoland!
+74|Người này đã chiến đấu bất chấp an nguy của bản thân...
+75|Và phá bỏ lời nguyền trên đám đồ chơi suốt mười năm qua!
+76|Ngài ấy là anh hùng của chúng tôi!
+77|Usoland!
+78|Usoland! Usoland!
+79|Và Luffyland là thuyền trưởng của vị siêu anh hùng đó!
+80|Vua Riku, nhóm Usoland, tức băng Mũ Rơm, là ngôi sao hy vọng của đất nước này!
+81|Dù họ là hải tặc, chúng tôi cũng sẽ tin họ đến cùng!
+82|Viola-san, để cháu mang chìa khóa đến cho Lucy.
+83|Rebecca?!
+84|Cháu không thể chờ ở đây được. Xin hãy để cháu đi.
+85|Rebecca...
+86|Được, ý hay lắm! Đi tới chỗ Luffy-senpai thôi!
+87|Tất nhiên tôi đi cùng rồi! Cứ giao cho tôi!
+88|Rebecca, nếu con xuống đó, con sẽ bị săn đuổi như tội phạm trong trò chơi của Doflamingo.
+89|Sẽ không dễ dàng gì đâu.
+90|Cháu sẽ ổn thôi.
+91|Vậy thì cô có thể đi đường mái nhà!
+92|Tôi và Kabu-san sẽ đi cùng, nên đừng lo!
+93|Đường mái nhà?!
+94|Đúng vậy! Inhel, tôi giao nhà máy cho cậu được chứ?
+95|Tất nhiên!
+96|Theo đội trinh sát, Fraland đang đánh nhau với Señor Pink.
+97|Chúng ta sẽ giúp Fraland giải cứu bạn bè bị bắt và công chúa Mancherie!
+98|Tốt.
+99|Hẹn gặp lại nhé!
+100|Mọi người, không có thời gian nghỉ đâu! Gặp lại nhau ở khu đất hoàng gia này nhé!
+101|Đi thôi!
+102|Luffy Mũ Rơm... Đúng là một người kỳ lạ.
+103|Doflamingo!
+104|Lạ thật!
+105|A! Lạ quá đi mất!
+106|Làm sao đám ngốc ở Đấu trường leo được tận lên đây?!
+107|Tưởng dưới đó có cả ngàn lính Hải Quân chứ!
+108|Tôi cũng tưởng vậy -in!
+109|Cả Phó Đô đốc Bastille và Đô đốc Fujitora của Tổng bộ Hải Quân nữa!
+110|Sao chúng vượt qua được?!
+111|Này! Gia tộc Donquixote chỉ có thế thôi à?!
+112|Bọn tao sắp tới chỗ trùm của chúng rồi!
+113|Có báo cáo!
+114|Luffy Mũ Rơm đã lên tới tầng th-
+115|Súng Gatling Cao Su!
+116|Tránh đường!
+117|Không thể... đ-đọ lại hắn...
+118|Mũ Rơm!
+119|Chúng gục như ruồi vậy!
+120|Đ-Đám đấu sĩ của Đấu trường cũng đang lên kìa!
+121|Mũ Rơm!
+122|Tao thấy rồi, Dellinger!
+123|Hải Quân đang bị cầm chân.
+124|Cái gì?!
+125|Không có cách nào khiến cậu tránh đường sao?
+126|Đúng vậy.
+127|Băng Mũ Rơm và những chiến binh đang giúp họ...
+128|Tôi không thể để kẻ nào định làm hại họ...
+129|Tiến thêm bước nào nữa!
+130|Quân Cách Mạng mà lại đi bảo vệ hải tặc à?
+131|Đúng thế.
+132|Với tư cách thành viên Quân Cách Mạng, tôi sẽ không để ông qua.
+133|Không, tôi nói sai rồi.
+134|Với tư cách một người anh, tôi không thể để ông qua!
+135|Ồ?
+136|Vậy rốt cuộc cậu là anh của ai thế?
+137|Thằng khốn!
+138|Thế không làm tôi đau được đâu.
+139|Tôi có sức mạnh của Trái Mera Mera.
+140|Đùa tao à?!
+141|Hải Quân không thể thua một tên Quân Cách Mạng được!
+142|Khoan! Đừng làm vậy!
+143|Bắn!
+144|Tôi đã bảo "Đừng" mà!
+145|Ngón tay thằng này khỏe kinh khủng!
+146|Là móng vuốt!
+147|Lùi lại!
+148|Các cậu không thắng nổi cậu ta đâu!
+149|Ngón tay tôi là...
+150|Móng Vuốt Rồng!
+151|Móng vuốt xé nát lũ cầm quyền cố chấp!
+152|Hắn bẻ gãy đại đao Chém Cá Mập của Phó Đô đốc Bastille!
+153|Thằng nhãi...
+154|Móng vuốt này có thể...
+155|bóp nát sọ người như bóp trứng!
+156|Có chuyện rồi đây.
+157|Cái lồng chim kia chắn đường, thiên thạch của tôi sẽ bị cắt vụn mất nhỉ?
+158|Chạy đi!
+159|Thiên thạch kìa!
+160|Ối! Rắc rối to rồi!
+161|Văng tung tóe khắp nơi...
+162|Mong là không có thường dân nào bị thương.
+163|Định thả thiên thạch thì báo bọn tôi một tiếng chứ, Isshou-san!
+164|Ồ, xin lỗi nhé! Tôi thả một cái rồi!
+165|Báo trước khi làm ấy!
+166|Ngài có biết vị trí của mình không hả?
+167|Tôi vẫn chưa quen với sức mạnh của mình...
+168|Nên tôi đã thử gạt nó đi.
+169|Phó Đô đốc Bastille!
+170|Phó Đô đốc!
+171|Lúc nãy cậu nói phải làm vậy "với tư cách một người anh", đúng không?
+172|Phải.
+173|Chủ nhân trước của Trái Mera Mera, Hỏa Quyền Ace, người đã chết ở Marineford,
+174|từng nói mình là anh nuôi của Mũ Rơm.
+175|Ý cậu là cậu cũng là anh của cậu ta?
+176|Bọn tôi đã uống rượu kết nghĩa huynh đệ.
+177|Bọn tôi gắn kết bằng một sợi dây không gì cắt đứt được.
+178|Đúng là một lũ anh em phiền phức.
+179|Anh em kiểu gì thế này?!
+180|Anh em của Mũ Rơm...
+181|Một người là đội trưởng của Râu Trắng,
+182|Người còn lại là nhân vật số hai của Quân Cách Mạng?!
+183|Hãy nhớ lấy...
+184|Nếu Luffy cần tôi giúp,
+185|Tôi sẽ vứt bỏ chức vị mà đến giúp em ấy, dù ở bất cứ đâu trên thế giới này.
+186|Tôi không bao giờ...
+187|Báo: Ace đã chết
+188|Sabo-kun!
+189|Sabo!
+190|...muốn trải qua chuyện đó lần nữa!
+191|Xem ra có hỏi thêm cũng vô ích.
+192|Dù sao cậu cũng chẳng bận tâm, phải không?
+193|Tôi không có rượu sake để nhâm nhi cùng câu chuyện của cậu.
+194|Tôi sẽ...
+195|bảo vệ Luffy!
+196|Cung điện Hoàng gia mới - Bậc thứ nhất
+197|Đi! Đi! Đi!
+198|Là Thần Chết của Đấu trường!
+199|Hạ con bò xuống cho hắn ngã, rồi hắn chỉ còn là con mồi trong trò chơi thôi!
+200|Đừng coi thường Ucy!
+201|Ucy! Xông lên! Xông lên!
+202|Hắn là Thần Chết! Quỳ xuống!
+203|Tránh đường!
+204|Bọn mình sẽ lao thẳng tới cung điện!
+205|A! Bắp Cải!
+206|Mũ Rơm! Ta đi trước ngươi đây!
+207|Chết tiệt! Tưởng mình đang đi đường tắt chứ!
+208|Phải chạy nhanh hơn nữa, Ucy!
+209|Chết tiệt, ai cũng đuổi kịp rồi!
+210|Là Hajrudin!
+211|Tránh đường! Ta không rảnh với lũ tép riu các ngươi!
+212|Mình phải đi tiếp!
+213|Ôi không! Chúng sắp vượt mình rồi!
+214|Bắn, bắn đi!
+215|Chúng lại tới nữa kìa!
+216|Đừng có nhát! Bắn con bò đi!
+217|Ngã mất!
+218|Đừng có gây sự với Luffy Mũ Rơm! Lũ ngốc!
+219|Ra-Ra-Ra-Rampage!
+220|Ai vậy?
+221|Này, đừng lạnh lùng thế chứ.
+222|Tôi cũng là đấu sĩ khối C giống cậu mà.
+223|Sát thủ đến từ Mogaro, anh cả nhà Funk: Kelly (hợp nhất với em trai Bobby)
+224|Tôi là Kelly Funk!
+225|Thế à?
+226|Này, này, này!
+227|Bọn tôi cũng được Thần Usopp cứu như mọi người!
+228|Tôi tìm được lối tắt lên các tầng trên.
+229|Cậu có thể đi thẳng tới Cánh đồng Hướng Dương, ngay trước cung điện!
+230|Hả? Thật à?!
+231|Tôi muốn giúp cậu!
+232|Được! Bọn mình sẽ vượt mặt Bắp Cải và đám kia một mạch luôn!
+233|Này, Mũ Rơm-ya!
+234|Khi nào tôi mới tháo được cái còng này?
+235|Đeo còng Hải Lâu Thạch thế này, tới đó chẳng khác gì để Doflamingo giết.
+236|Thôi, rồi sẽ ổn cả! Cứ đi đã!
+237|Sao cậu chắc thế được?!
+238|Vậy thì quay lại cao nguyên chỗ bọn mình lúc nãy đi!
+239|Hả? Sao lại thế?
+240|Tôi sẽ đi tìm chìa khóa!
+241|Trận này là thắng hoặc chết!
+242|Thấy chưa? Có lối tắt đấy!
+243|Giờ đi trước đi, Mũ Rơm. Bọn tôi sẽ canh lối vào!
+244|Được, cảm ơn nhé!
+245|Ucy, đi thôi!
+246|Bảo trọng.
+247|Giỏi lắm, Kelly Funk!
+248|Nhớ canh lối vào nhé! Cảm ơn nhiều!
+249|Chúng rơi xuống rồi... Rốt cuộc chúng muốn gì vậy?
+250|Được rồi! Đừng lo, cứ chạy tiếp đi, Ucy!
+251|Thẳng tới Cánh đồng Hướng Dương!
+252|M-Mũ Rơm-san...
+253|C-Chúc ngài chiến thắng!
+254|Ốc sên truyền tin của cậu...
+255|Nghe máy đi.
+256|A lô?
+257|Luffy đây!
+258|Người sẽ trở thành Vua Hải Tặc!
+259|Luffy. Là tôi đây.
+260|Robin!
+261|Bọn tôi vẫn đang ở cao nguyên chỗ cậu lúc nãy.
+262|Cậu đang ở đâu?
+263|Bọn tôi ở tầng một của cao nguyên bên kia, đang tới Cánh đồng Hướng Dương.
+264|Cánh đồng Hướng Dương ở tầng bốn.
+265|Viola tìm được chìa khóa còng tay của Traf-kun rồi.
+266|Thật à?!
+267|Nico-ya, mang nó tới cho tôi càng sớm càng tốt!
+268|Tôi phải làm sao đây?!
+269|A lô, tôi là Leo của tộc người lùn.
+270|Chúng tôi sẽ hộ tống Rebecca-sama, anh người gà trống và Robiland đi với tốc độ siêu nhanh!
+271|Gặp nhau ở Cánh đồng Hướng Dương tầng bốn nhé.
+272|Hả? Các người đuổi kịp bọn tôi kiểu gì?
+273|Giải thích sau! Hẹn gặp ở Cánh đồng Hướng Dương!
+274|Thấy chưa? Tôi đã bảo là ổn mà!
+275|Chỉ là trùng hợp thôi!
+276|Được rồi! Ucy, chạy đi!
+277|Dừng lại! Nó lao xuống nước kìa!
+278|Hả?! Đường cụt rồi!
+279|Quay lại! Nhanh lên!
+280|Ucy! Đừng hoảng!
+281|Có người đang tới.
+282|Đây chỉ là một cái giếng nước nghiêng thôi.
+283|Ở đây làm gì có lối tắt nào.
+284|Là mày!
+285|Doflamingo!

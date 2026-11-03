@@ -1,0 +1,513 @@
+1|Dressrosa - South Shore
+2|Three days after the battle between the Straw Hats and the Donquixote Family...
+3|Is Straw Hat Luffy still here in this country?
+4|Confirmed, ma'am. He's badly wounded.
+5|I see.
+6|Isshou, I heard what you did!
+7|Navy Headquarters Inspector General Sengoku the Buddha
+8|The prostration and that spat with Sakazuki!
+9|I'm glad I'm not fleet admiral anymore!
+10|Cut it out, you expired rice cracker.
+11|Navy Headquarters Vice Admiral Great Advisor Tsuru
+12|It must be nice to be an inspector general with barely any responsibilities.
+13|Admiral Fujitora, why haven't you apprehended that pirate?
+14|You know where Straw Hat's hiding, do you not?
+15|"The gravely-wounded pirate who saved the country."
+16|Should I consider him an enemy?
+17|Or ought I let him go, being that he's a hero to this country?
+18|I can't quite decide for myself.
+19|A die?
+20|This is no laughing matter!
+21|A die!
+22|That's enough from you!
+23|Oh, how scary.
+24|My word!
+25|You've been using that to decide?
+26|Still, Tsuru-san...
+27|If he is merely some ordinary person,
+28|would he have been saved by providence two days in a row?
+29|Today marks the third day, and I haven't been cheating.
+30|You! I want soba noodles, too.
+31|Aye aye, sir! Coming right up, sir!
+32|I thank you for assisting with the transportation of the Celestial Yaksha.
+33|However, I'm still in charge here.
+34|So you'll allow me to handle this situation as I see fit.
+35|Right, but the Navy can't leave a pirate with a bounty at large forever.
+36|Please become Dande-donors!
+37|People of the Navy, please become Dande-donors!
+38|Ah, you're here again today.
+39|Yes, I am.
+40|Oh my, look how cute she is!
+41|If it isn't a dwarf!
+42|I'm Mansherry from the Tontatta Tribe!
+43|She's cute!
+44|Oh, how rare!
+45|Ouch! Wh-What the...
+46|Show due respect, you lot!
+47|Princess Mansherry is the Tonta Chief's daughter!
+48|She's a princess!
+49|Why aren't you bowing your heads?!
+50|It's fine, Mousey.
+51|Oh, how merciful she is!
+52|To tell you the truth, we mustn't show ourselves in Dressrosa...
+53|to anyone but members of the royal family.
+54|So I wanted to heal everybody's wounds without being seen.
+55|Hmm, but how?
+56|Town Center
+57|The time has come!
+58|Yeah! I've been waiting for this moment!
+59|Me too!
+60|Take it away, Gatz!
+61|Gatz!
+62|Dear ladies and gentlemen!
+63|Today, our dream will finally come true!
+64|For on this very day, the king shall return!
+65|That's right! After a decade, King Riku will announce...
+66|his return to the throne today!
+67|King Riku! King Riku! King Riku! King Riku!
+68|The entire nation is excited.
+69|They were fooled by a pirate, held a grudge against their king,
+70|and praised wealth and violence at one point.
+71|But ever since they came face-to-face with death,
+72|they now wish with all their hearts for a peaceful country.
+73|It's absolutely absurd, but I can't laugh at it.
+74|No one would find that funny. I'm truly happy that they survived.
+75|But will I be able to make them happy?
+76|I wish I could become an omnipotent king, capable of fending off even natural disasters.
+77|Come now! Don't get too ahead of yourself!
+78|I'm kidding!
+79|We'll continue on as we have before. What else are we to do?
+80|You're right.
+81|Until the day Rebecca inherits the throne...
+82|Never mind that. Are you sure about this?
+83|I remember how stubborn Scarlett was when she was young.
+84|Rebecca will follow in her footsteps before long, I'm sure.
+85|What do you mean by that?
+86|Inside the Palace
+87|There! You're all set.
+88|Oh, how lovely!
+89|Indeed, girls look better in dresses than armor!
+90|You think so?
+91|You look incredible, Rebecca-sama!
+92|Thank you.
+93|When you wear that dress, you look exactly like Scarlett-sama!
+94|Oh yes, we've heard about your father!
+95|They say that Scarlett-sama ran away with a prince of a far-off foreign land.
+96|And that left King Riku no choice but to announce that she was dead.
+97|It's like something out of a romance novel!
+98|I can only dream about it!
+99|City Center
+100|A prince from where?
+101|I heard he was from a lush country with beautiful lakes.
+102|But the country was in a war at that time.
+103|She fell for someone she shouldn't have and had a baby. That was Rebecca.
+104|Eh?
+105|But sadly, the prince died in the war and...
+106|Scarlett-sama and Rebecca- I mean, Rebecca-sama, were left behind,
+107|so they were living in hiding in this country.
+108|I see. So she only has pure noble blood in her veins.
+109|Quite the odd rumor.
+110|Kyros-dono is the father of Rebecca-dono, is he not?
+111|Hm, I know not. Do you want some lettuce?
+112|No thank you.
+113|Soldier-san is valiant...
+114|and he will always watch over you!
+115|Soldier
+116|Soldier
+117|Soldier
+118|Soldier
+119|Soldier
+120|Soldier
+121|Soldier
+122|Soldier
+123|Soldier
+124|Soldier
+125|Hooray!
+126|Ah, they are distributing Mansherry-dono's medicinal flowers!
+127|Such wonderful things! She is doing an excellent job today as well.
+128|Get in line and wait your turn, please.
+129|One per person!
+130|Thank you.
+131|This medication works really well! It heals wounds instantly!
+132|Here.
+133|Thank you!
+134|Dad! I got one for you!
+135|Today, I'll use this one for the wound on my head.
+136|Wow! It healed completely!
+137|It's like magic!
+138|I'm so grateful!
+139|Navy Camp
+140|Here.
+141|Here ya go.
+142|Thank you!
+143|So cute!
+144|I see. We can donate our healing properties like giving blood.
+145|What a wonderful ability granted by the Heal-Heal Fruit.
+146|Alright, take some from me, too!
+147|You'll get enough to cure ten heavily-injured people!
+148|Oh, we can always count on you!
+149|Then, I'll donate enough for fifteen people!
+150|What's that?
+151|Then, I'll donate enough for twenty people!
+152|I'll donate enough for twenty-five people!
+153|Alright already!
+154|Enough for a hundred people, then!
+155|Thank you, but I don't think that's possible.
+156|Tsuru-san.
+157|Would you do me the honor of rolling today?
+158|If it is anything other than "one," we shall go after Straw Hat and Law at once.
+159|Kyros' House
+160|Sorry to have kept you waiting!
+161|Food?!
+162|My, my... and they all kept mentioning how Rebecca-dono's father...
+163|is a prince of some country.
+164|Aye?
+165|Aye.
+166|What's that all about?
+167|That's a weird story!
+168|And I'm sad because
+169|Sabo's gone!
+170|We gotta hurry
+171|and catch up with
+172|Sanji's group, too!
+173|Be mad, cry, hurry, sleep, or eat!
+174|Just pick one!
+175|So damned irritating!
+176|Rebecca's father is the old soldier-
+177|You're not fully recovered!
+178|Quit being a pig and go back to sleep!
+179|Just who the hell
+180|made up that lie?!
+181|I started the rumor.
+182|The only people who know about Rebecca's birth are some people in the royal family,
+183|and some people in the Donquixote Family.
+184|Countrywide, people only know of her mother.
+185|I started the rumor before they could find out I was her father.
+186|Why?
+187|I have a criminal record.
+188|I was ill-bred, too.
+189|I was never worthy of marrying into the royal family.
+190|And that's why...
+191|This is how it should be.
+192|No it ain't!
+193|Does Rebecca know that?!
+194|She must've received the letter by now.
+195|I wrote the truth about everything I've done in my life.
+196|I've caused her suffering for a long time.
+197|I want her to cut her connections to people like me,
+198|and live happily ever after, openly.
+199|That's the only way I can make it up to her as a father.
+200|I'm thinking about leaving this country when you guys do.
+201|Rebecca's still a child.
+202|I don't want her to ruin her chance at being happy by being caught up in the moment!
+203|I've also convinced his majesty!
+204|He's so not okay with this...
+205|What now?
+206|Commander!
+207|Uh, I mean, Kyros-sama! Leo here!
+208|Zoro-senpai!
+209|Oh, Luffy-senpai! You've awoken!
+210|Good morning!
+211|When five members of the Straw Hats are gathered,
+212|they're too bright to even gaze upon!
+213|It's like a laser beam of epicness!
+214|If I see all the stars of the Straw Hats someday, I'll turn to dust!
+215|Just spit out what you're here for already!
+216|Oh, yeah!
+217|There's a lotta commotion at the Navy camp!
+218|They're gonna be here any minute!
+219|The Great Advisor, Vice Admiral Tsuru, and the former Fleet Admiral, Sengoku, have arrived!
+220|Tsuru and Sengoku?!
+221|What are those heavyweights doing here?! They need to get lost!
+222|Sengoku...
+223|Leo, what did you call me for?
+224|Oh, the Navy is making their move right now!
+225|It's a six.
+226|And so heaven wills it!
+227|All naval units! Apprehend the Straw Hats, Trafalgar Law,
+228|and all felons hidden at the Palace at once!
+229|Yes, sir!
+230|Admiral! Do we have permission to enter the Palace, sir?
+231|You needn't worry about anything. I will take full responsibility!
+232|Roger!
+233|The Navy's on the move. Hurry up and get ready!
+234|They're finally coming for us!
+235|You need not tell us that.
+236|We have been prepared to escape at a moment's notice.
+237|We were merely waiting for Luffy-dono to awaken.
+238|Aye, if anything, I am baffled as to why they have not yet attempted to apprehend us.
+239|But we have a problem. We are without a vessel.
+240|You're right!
+241|Where're we gonna find a ship so we can escape?!
+242|Leo, did you do what I asked of you?
+243|Absolutely. I did everything you asked.
+244|It's dangerous here! Stay out of our way!
+245|We're in pursuit of pirates!
+246|Clear the way!
+247|Huh? They're after Lucy, too?!
+248|No way...
+249|Rooster-san, they look like they're headed to the Palace as well!
+250|The warriors are in danger!
+251|Gotcha! Thanks for lookin' out for us, little guy!
+252|We've been keepin' an eye on the Navy the whole time ourselves.
+253|Luffy-senpai and the rest of you, I'll lead the way!
+254|Run straight to the eastern port!
+255|Don't worry!
+256|Our allies've been standing by at strategic points for quite a while,
+257|to help y'all to escape from this country whenever you woke up!
+258|We'll clear the way for ya!
+259|We have a ship for you at the east port!
+260|Thanks tons!
+261|We let Nami and the others take the Sunny, so we didn't know what to do.
+262|Aww, don't mention it!
+263|We all fought together as a team!
+264|We can't let 'em capture our king now!
+265|Bellamy! Can you get up?
+266|Yeah. I can even run.
+267|Okay, that's good.
+268|Trafalgar, why didn't you leave me to my fate?
+269|That place was supposed to be my deathbed.
+270|Straw Hatter insisted you were his friend, so I brought you along, just in case.
+271|Feel free to die here if you want.
+272|I've fully recovered, thanks to that dwarf.
+273|Why do I have to die fighting the Navy?!
+274|Just find some way to die, idiot.
+275|The hell did you say?!
+276|You haven't even thanked me.
+277|Hey, hey now! We don't have time to think!
+278|Let's just get running, my comrades in arms!
+279|Alright, let's go!
+280|They're leaving!
+281|Capture every last one of them!
+282|Open fire!
+283|Oops! Let me handle this!
+284|Barrier!
+285|Don't stop! Fire, fire, fire!
+286|Okay, this way, everybody!
+287|You'll be in deep trouble if you run into Fujitora!
+288|Whatever you do, don't get separated!
+289|Huh? Luffy-senpai?!
+290|There's something I've gotta do, so just go on ahead!
+291|What?!
+292|Luffy, we don't have much time!
+293|Do what you gotta do, but do it fast!
+294|We'll be waiting at the eastern port!
+295|Got it!
+296|Let's hurry!
+297|Zoro-senpai, you're heading south!
+298|But even that aspect of you is so cool!
+299|Huh? Lucy?!
+300|Yes, he's being chased by marines. I suppose he'll be setting sail soon.
+301|Oh no... I haven't even thanked him properly!
+302|Shall we see if he's run out of luck?
+303|Let's put it to the test...
+304|with all my might!
+305|Naval tent near the center of Dressrosa
+306|Going forward, I'm assuming command of all units...
+307|on behalf of Isshou-san!
+308|Continue pursuit of the criminals that were hidden at the Palace!
+309|Yes, sir!
+310|How are we faring with Straw Hat's party on the hill in Carta?
+311|Hey, this way, everybody!
+312|Sogeking-senpai!
+313|Even when you trip and fall, you look so cool!
+314|Is it really safe to run through town like this?!
+315|Don't worry! Let's hurry up!
+316|We're currently chasing after the pirates!
+317|They appear to be heading toward the eastern port!
+318|Very well. Put me through to the eastern port!
+319|Yes, this is the Navy lookout unit at the eastern port, over!
+320|Nothing to report, over!
+321|"Nothing to report"?!
+322|How dare you respond so nonchalantly?!
+323|The pirates are headed your way!
+324|Oh no, sir, it's quite peaceful out here.
+325|Eastern Port
+326|We don't need any more backup, over!
+327|You...
+328|State your names and Marine codes.
+329|Sir?
+330|Oh, ummm...
+331|Dammit all!
+332|Bartolomeo's Group
+333|The eastern port has been seized! Send reinforcements east!
+334|Yes, sir!
+335|Go on ahead, straight to the port!
+336|Thanks!
+337|Don't waste my time by telling me how grateful you are!
+338|Debt upon debt! We already have far too much to repay!
+339|I-I-Is that a roadblock ahead?
+340|Go!
+341|Thanks!
+342|Th-The criminals that were supposed to be at the Palace...
+343|have appeared in the ruins of the eastern town!
+344|What?!
+345|So is the Palace empty?!
+346|We're in front of the Palace!
+347|S-Straw Hat is...
+348|Rubber Rubber..
+349|Fireworks!
+350|Flower Field Outside the Palace
+351|Rebecca!
+352|Rebecca! Where are you?!
+353|Why is Straw Hat in front of the Palace?!
+354|You had better not let him get away!
+355|Yes, sir!
+356|Rebecca!
+357|Hey, Rebecca!
+358|Somebody's calling for me!
+359|Lucy?!
+360|Lucy! I'm up here!
+361|Lucy!
+362|Palace Courtyard
+363|You mustn't, Rebecca-sama! You shouldn't be talking to a pirate!
+364|There she is!
+365|Tank.
+366|Would you fetch Viola and Rebecca?
+367|At once.
+368|Let's go down into the town.
+369|We shall declare to the nation the return of the Riku Family to the throne.
+370|Yes, right away!
+371|I have been looking forward to this moment for so long!
+372|Rebecca!
+373|Lucy!
+374|Lucy!
+375|Straw Hat! What are you doing here?
+376|Please stand back, Rebecca-sama!
+377|Lucy!
+378|I'm so glad! I really wanted to thank you...
+379|Shut up!
+380|I ain't here for that!
+381|Are you really sure?!
+382|About the soldier?!
+383|You'll never see him again!
+384|Lucy... I received a letter from him.
+385|Soldier-san is trying his best to distance himself from me.
+386|He's trying to make me a stranger.
+387|Quit talking like you're my father!
+388|Why is that?
+389|Is it because I was mean to him?
+390|There's no way you can beat Doflamingo!
+391|You're just a one-legged toy!
+392|Does he just not want to live with me?
+393|Am I just a nuisance?
+394|How would I know?! Think for yourself!
+395|I gotta get out of this country right now!
+396|I only came here to ask if you were okay leaving things like this!
+397|Of course I'm not!
+398|I don't want this!
+399|Then you wanna come with me?
+400|Yeah, let's go!
+401|What? Rebecca-sama...
+402|Rebecca, Straw Hat! Please wait!
+403|Viola-san!
+404|I have a favor to ask!
+405|We're outta here!
+406|Hang on tight!
+407|Got it!
+408|He's escaping!
+409|My king!
+410|What's the matter?
+411|Rebecca-sama has been kidnapped by a pirate!
+412|What did you say?
+413|What pirate from where?! What did he look like?!
+414|Was it one of the competitors from the Colosseum?!
+415|S-St-Straw...
+416|It was Straw Hat Luffy!
+417|Rebecca-sama has been abducted from the Palace!
+418|Straw Hat Luffy did it!
+419|You're kidding!
+420|He's gotta be holding her for ransom!
+421|I can't believe Lucy did that!
+422|How audacious!
+423|Even so...
+424|I still...
+425|like ya!
+426|What are you talking about, Gatz?!
+427|See?! This is what happens when you place your trust in pirates and allow them safe harbor!
+428|Capture Straw Hat as quickly as possible and rescue Princess Rebecca!
+429|There he is!
+430|Special sniper unit. Take aim and shoot him down!
+431|Naval Tent
+432|The Marines just suddenly...
+433|Our men collapsed?
+434|Was it Conqueror's Haki?
+435|Negative, sir, they seem to still be conscious...
+436|Well, whatever it was, they're going to escape from the eastern port!
+437|Send warships as well! All units, head east for Carta!
+438|Yes, sir!
+439|Oh, there he is!
+440|Stop!
+441|Catch Lucy!
+442|Catch this!
+443|Whoa! What's going on?!
+444|Lucy?!
+445|That's my meat!
+446|I'm sorry!
+447|Rebecca!
+448|I'll leave you behind the hill and lure them away.
+449|The rest is on you!
+450|The whole nation is trying to protect you.
+451|If you're caught, they'll take you back to the Palace.
+452|Okay, I got it!
+453|You better hurry or he'll be gone.
+454|Thank you.
+455|Thank you for everything, Lucy!
+456|Sure, don't mention it!
+457|You're such a cutie...
+458|You're crying again.
+459|Scarlett...
+460|I've fulfilled my duty.
+461|Forgive me for lying about not being your other half.
+462|I did it all so that Rebecca can live a happy life.
+463|I'm gonna teach you how to fight.
+464|Mother said that it's bad to hurt people.
+465|I'm teaching you this so that you don't get hurt.
+466|On your feet, Rebecca!
+467|Be strong!
+468|Because you were a member of the royal family, you've had to flee from place to place,
+469|and endured endless scorn for a decade.
+470|That's why, this time...
+471|I want you to have your chance at happiness as a member of the royal family.
+472|I can't stay here, either.
+473|Rebecca!
+474|Don't go making up lies!
+475|Oh, is this about the letter?
+476|I wasn't lying!
+477|In the past, I really was just some worthless guy who did nothing but fight.
+478|And whatever my reasons may have been...
+479|the fact is, I did kill.
+480|So that's why...
+481|I'm not the daughter of some prince!
+482|I don't know anyone like that!
+483|It doesn't matter if he killed hundreds of people or how tainted his hands are.
+484|I only have one father!
+485|I'm the daughter of Kyros!
+486|So don't go making up lies!
+487|Until the day you can find true happiness,
+488|I'll always be by your side.
+489|Stay by my side like you promised, Soldier-san!
+490|Y-You're fine with me being your father?
+491|Yeah! Let's live together!
+492|Father!
+493|Yeah... Yeah!
+494|Rebecca will not be returning to the Palace, Father.
+495|Viola... I thought as much.
+496|Indeed. That's what she wants.
+497|I'm sorry, Viola-san, but could you take my place and become princess?
+498|I'm sorry, Viola, but could you take my place and become princess?
+499|Sister?
+500|This is the second time in my life that someone has asked me for such an odd favor.
+501|I see. Like mother, like daughter.
+502|Luffy still isn't here?
+503|Trafalgar Law's not here, either!
+504|Ruins of the Forest Town, Carta, Eastern Port
+505|What are both of our bosses doing?
+506|We can't hold back everything that comes our way...
+507|That guy must be...
+508|Fujitora!
+509|Fujitora!
+510|And there's a dangerous one!
+511|Luffy-senpai, hurry up!
+512|Wh-Wh-Wh-Wh-What're we gonna do?!
+513|Ain't it obvious?

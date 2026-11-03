@@ -1,0 +1,436 @@
+1|Cora-san.
+2|There is nothing he can gain from you, a veritable child of destruction!
+3|Leave him alone!
+4|He's free!
+5|I won't truly become free...
+6|until I fulfill your dream!
+7|Room!
+8|Not until I stop Doflamingo!
+9|What do you think of Monkey D. Luffy?!
+10|I didn't know that you were...
+11|a Celestial Dragon until today!
+12|Chambres!
+13|What do you make of "D"?!
+14|That's...
+15|none of your concern!
+16|So what? Are you saying Straw Hat Luffy was led here by destiny...
+17|to kill me, since I have the blood of the gods in my veins?!
+18|How idiotic!
+19|And in a certain land, there are people who call the Family of "D"...
+20|"the sworn enemy of the gods"!
+21|I'm a "D" too!
+22|How are the battles going, Viola?
+23|In the decisive battle on the top floor of the Palace,
+24|Straw Hat has been thrown down to the lower level,
+25|and Law cannot measure up against Doflamingo.
+26|The fighting in this country can be divided into three major fronts.
+27|Royal Palace Grounds
+28|The Royal Palace Grounds.
+29|Royal Palace Grounds
+30|Royal Palace Grounds
+31|Royal Palace Grounds
+32|Royal Palace Grounds
+33|Royal Palace Grounds
+34|Royal Palace Grounds
+35|Royal Palace Grounds
+36|Royal Palace Grounds
+37|Royal Palace Grounds
+38|Royal Palace Grounds
+39|Royal Palace Grounds
+40|Royal Palace Grounds
+41|Royal Palace Grounds
+42|The statue of Pica
+43|The statue of Pica.
+44|The statue of Pica
+45|The statue of Pica
+46|The statue of Pica
+47|The statue of Pica
+48|The statue of Pica
+49|The statue of Pica
+50|The statue of Pica
+51|The statue of Pica
+52|The statue of Pica
+53|The statue of Pica
+54|The statue of Pica
+55|The statue of Pica
+56|The statue of Pica
+57|The statue of Pica
+58|The statue of Pica
+59|Smile Factory
+60|The Smile Factory.
+61|Put out the fire!
+62|Don't do it!
+63|Restrain anyone running wild!
+64|As long as the fighting continues...
+65|The number of victims will keep rising.
+66|V-Viola.
+67|How many commanders of the Donquixote Family are left?
+68|There are still quite a few left.
+69|One of the major battlefronts,
+70|the Smile Factory, is protected by one of the commanders,
+71|Smile Factory
+72|the free-swimming man, Senor Pink!
+73|In the second battlefront, the statue of Pica, there is the top commander,
+74|The statue of Pica
+75|the stone assimilation man, Pica!
+76|And the third front, the Royal Palace Grounds.
+77|On its top floor, there are...
+78|the current king of Dressrosa,
+79|the string man, Doflamingo!
+80|And chief of staff, the mucus man, Trebol!
+81|In the Sunflower Field on the fourth level,
+82|Royal Palace
+83|Fourth Level
+84|there's the hero of the Colosseum, the flag man,
+85|Diamante!
+86|And on the third level, there's the rupture man in charge of all the underlings,
+87|Fourth Level
+88|Third Level
+89|Third Level
+90|Third Level
+91|Third Level
+92|Third Level
+93|Third Level
+94|Third Level
+95|Third Level
+96|Third Level
+97|Third Level
+98|Third Level
+99|Third Level
+100|Third Level
+101|Third Level
+102|Third Level
+103|Third Level
+104|Third Level
+105|Third Level
+106|Third Level
+107|Third Level
+108|Third Level
+109|Third Level
+110|Third Level
+111|Third Level
+112|Third Level
+113|Third Level
+114|Third Level
+115|Third Level
+116|Third Level
+117|Third Level
+118|Third Level
+119|Third Level
+120|Third Level
+121|Third Level
+122|Third Level
+123|Third Level
+124|Third Level
+125|Third Level
+126|Third Level
+127|Third Level
+128|Third Level
+129|Third Level
+130|Third Level
+131|Third Level
+132|Third Level
+133|Gladius!
+134|Second Level
+135|There are four commanders on the second level.
+136|The Fighting Fish half-fishman, Dellinger!
+137|The Geo-Fist user,
+138|Lao G!
+139|The super-weight man,
+140|Machvise!
+141|The full-body weapon woman,
+142|Baby 5!
+143|There are still ten who are ranked commander and higher.
+144|Don't tell me you...
+145|The breeze is clouding my eyes.
+146|Oh! So hard-boiled!
+147|In most of the battles,
+148|everyone's heavily injured!
+149|The climax of the fighting is not too far away!
+150|Palace Plateau 4th step
+151|You insolent little...
+152|Army Bandera!
+153|The ground is...
+154|How do you like it?! The ground ripples like a flag!
+155|Looks like you're struggling just to stay upright!
+156|Clutch!
+157|Rebecca.
+158|I know how you feel. Leave this place in my hands.
+159|Rooster-kun!
+160|Now, go on!
+161|Yes.
+162|Pierna Fleur!
+163|Honestly! Your attacks are putting me to sleep!
+164|Get ready, Gladius!
+165|Third Level
+166|Third Level
+167|Third Level
+168|Third Level
+169|Third Level
+170|Third Level
+171|Third Level
+172|Third Level
+173|Third Level
+174|Third Level
+175|Third Level
+176|Third Level
+177|Third Level
+178|Third Level
+179|Third Level
+180|Third Level
+181|Third Level
+182|Third Level
+183|Third Level
+184|Third Level
+185|Third Level
+186|Third Level
+187|Third Level
+188|Third Level
+189|Third Level
+190|Third Level
+191|Third Level
+192|Third Level
+193|Third Level
+194|Third Level
+195|Third Level
+196|Third Level
+197|Third Level
+198|Second Level
+199|Third Level
+200|Second Level
+201|Third Level
+202|Second Level
+203|Third Level
+204|Second Level
+205|Third Level
+206|Second Level
+207|Third Level
+208|Second Level
+209|Third Level
+210|Second Level
+211|Third Level
+212|Second Level
+213|Third Level
+214|Second Level
+215|Third Level
+216|Second Level
+217|Second Level
+218|Second Level
+219|Second Level
+220|Second Level
+221|Second Level
+222|Second Level
+223|Second Level
+224|Second Level
+225|Second Level
+226|Second Level
+227|Second Level
+228|Second Level
+229|Second Level
+230|Second Level
+231|Second Level
+232|Second Level
+233|Second Level
+234|Second Level
+235|Second Level
+236|Second Level
+237|Second Level
+238|Second Level
+239|Second Level
+240|Second Level
+241|Second Level
+242|Second Level
+243|Second Level
+244|Second Level
+245|Second Level
+246|Second Level
+247|Second Level
+248|Second Level
+249|Second Level
+250|Second Level
+251|Second Level
+252|Second Level
+253|Second Level
+254|Second Level
+255|Second Level
+256|Second Level
+257|Destructive Cannon!
+258|Missed me!
+259|Ten-Ton...
+260|Vise!
+261|I was right!
+262|You just...
+263|did it again!
+264|Inside the Royal Palace
+265|We're on our way!
+266|Princess Mansherry!
+267|In Front of the Royal Palace Grounds
+268|Are you okay?
+269|Yes. Thank you very much!
+270|Hurry, get to somewhere safe!
+271|Although nowhere is safe.
+272|If they can't take down Doflamingo,
+273|we will all meet our end within this bird cage.
+274|Are you saying we must leave the fate of this country to those pirates?!
+275|You're a "D"?!
+276|Your secret name?!
+277|Do you mean to say you were destined to be here?!
+278|You think you can stop me because you're a "D"?!
+279|The Family of "D" is the sworn enemy of the gods?!
+280|That's just a superstition!
+281|Whoa-whoa, Doffy, watch out!
+282|You're within range of Law's power!
+283|Injection...
+284|Shot!
+285|Cora-san was fully aware of that.
+286|If I could defeat you with just my name, it would've been so easy.
+287|That was the catalyst.
+288|I'm here...
+289|...because the kindhearted Cora-san couldn't pull the trigger that day!
+290|I'm here to pull it on his behalf!
+291|Doffy!
+292|I don't like it...
+293|Room!
+294|I'm really disappointed in you.
+295|Tact!
+296|Doffy! The rampart tower...
+297|Hey! It's flying toward us!
+298|Spiderweb!
+299|Chambres!
+300|Mes!
+301|Scalpel
+302|Just quit with the pointless attacks already!
+303|You really have become one passionate, confident bastard...
+304|You can't see the big picture.
+305|You're always worrying about meaningless things.
+306|That's why you can't seize the moment.
+307|The weaker a person is, the more they care about other people's pain,
+308|which leads to their demise.
+309|If you really wanted to kill me,
+310|you should've stuck to the plan of making me clash with Kaidou.
+311|There's a lot of ways to defeat an enemy stronger than you.
+312|But you thought of Corazón, got emotional,
+313|and the moment you decided to strike me yourself,
+314|your death was guaranteed!
+315|Do you remember the letter from back then?
+316|This small package will save...
+317|a far-off kingdom called Dressrosa.
+318|A kingdom?
+319|Someone asked you to give me this, right?
+320|Thank you.
+321|I'll keep it. Don't worry.
+322|Corazón was trying to save Dressrosa.
+323|If only you hadn't blown it that day...
+324|After all, you're partly responsible for Corazón's death!
+325|With that letter,
+326|the countless tragedies that fell upon this country...
+327|might never have happened.
+328|Is that what you really think?
+329|You've kept your cool. That's smart.
+330|You're right!
+331|The way I see it, even if that letter had been delivered,
+332|I would've just changed plans and taken this country's throne some other way!
+333|Everything that Corazón risked his life for was in vain.
+334|That's for me to decide!
+335|Whatever I accomplish in my life is because of Cora-san!
+336|Oh yeah? What a tear-jerking sentiment!
+337|That's right!
+338|Whatever the tragedy or mistake, only the things that actually happened are written in stone!
+339|Like how you ate the Operation Fruit and ran away,
+340|or the fact that you are here now after baring your fangs at Punk Hazard!
+341|He did it!
+342|String Saw! String Saw!
+343|I don't know if you were influenced by the other "D" or not,
+344|but you coming here to challenge me yourself,
+345|is now also written in stone!
+346|That's why I forgive you!
+347|Like I forgave my father and brother...
+348|you will be forgiven through your death!
+349|Rubber...
+350|Damn!
+351|Jet...
+352|Gatling!
+353|Lead bullets really are the best way to execute someone.
+354|Doffy's double!
+355|Mingo!
+356|Show yourself!
+357|Straw Hatter!
+358|Doffy's double has broken apart!
+359|I guess the cage was a bit too small...
+360|to keep it locked up.
+361|Didn't you hear me?!
+362|Bellamy...
+363|You!
+364|Hey, Mingo!
+365|Stop Bellamy! He's gonna die!
+366|You're still alive...
+367|That's fine.
+368|Ah, Bellamy!
+369|D-Doflamingo!
+370|That's enough, Bellamy. I set you free.
+371|Like you have always been.
+372|Where are you from?
+373|We're all from Nortis.
+374|It's a wealthy town. What's your problem with it?
+375|That town is such a bore!
+376|The Donquixote Family is the pride of North Blue!
+377|We wanna become a pirate crew like yours!
+378|We're nothing like the dreamer pirates you see around these days.
+379|I'll let you fly our flag if that's what you want.
+380|Doffy!
+381|However, if you're ever defeated, that right will be revoked.
+382|Really?! Alright!
+383|I have no need for weak underlings.
+384|We won't lose! Not to anyone!
+385|Hey, Bellamy!
+386|Are you alright?!
+387|Not so much, huh...
+388|The era where pirates dream is over!
+389|There's no escaping my Spring Fruit ability!
+390|Spring...
+391|Hopper!
+392|I went to Sky Island, Straw Hat.
+393|I lost my crew, but it turned my world around completely.
+394|I bear you no grudge.
+395|I won't laugh at you anymore.
+396|Bellamy.
+397|You've changed, Bellamy.
+398|Hey, don't push yourself!
+399|You better stay down.
+400|Joker wants me to kill Straw Hat?
+401|Doffy is far too soft.
+402|I don't think you deserve another chance after failing in the tournament.
+403|A lucky break for you, Bellamy.
+404|Well, I figured you'd lose your nerve and be unable to kill him.
+405|Oh? A big quake again!
+406|Don't make me say it straight, Bellamy.
+407|You and I always had different goals.
+408|I can't do that!
+409|You're my friend!
+410|Hey, Bellamy!
+411|I'm sorry, but wait here. I'm worried about Traf!
+412|Mingo and Snot are up there.
+413|I gotta go help or Traf'll be in trouble!
+414|I'll kick Mingo's ass for you, too!
+415|Wait!
+416|Do you remember this technique?
+417|Here I go, Straw Hat!
+418|Spring...
+419|Hopper!
+420|You got stronger, but so did I!
+421|This technique is far more destructive than it used to be!
+422|Hey! You'll die if you keep moving around like that!
+423|Shut up!
+424|Stop worrying about your enemy!
+425|I get it now!
+426|That I admired the wrong man! And how pathetic I am!
+427|That's...
+428|up to the winner to decide!
+429|This fool came to me to get killed.
+430|Right, Bellamy?
+431|But I don't want to do something so pathetic as to turn my back on the man I admired...
+432|just because I didn't get the answer I wanted!
+433|I know I'm an idiot...
+434|But even an idiot has principles he must stick to!
+435|Straw Hat, this'll be my last fight!
+436|Now fight me!

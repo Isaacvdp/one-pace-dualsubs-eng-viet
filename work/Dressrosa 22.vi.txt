@@ -1,0 +1,377 @@
+1|Kyros đang đấu với đấu sĩ bí ẩn Ricky, người bỗng dưng xuất hiện!
+2|Kyros thắng!
+3|Sau chín năm, cuối cùng cậu ta đã thắng ba nghìn trận liên tiếp! Bất bại!
+4|Kyros, huyền thoại sống, chính là định nghĩa của từ "vô địch"!
+5|Sao ngài lại ra đấu mà không báo tôi...
+6|Vua Riku?
+7|Ta muốn dạy cậu một bài học. Ta cũng mạnh lắm đấy chứ?
+8|Dù vậy, cậu đã nương tay vì biết là ta. Làm dã thú thì cậu thất bại rồi.
+9|Thế này chưa đủ sao?
+10|Cậu đã tự nhốt cuộc đời mình trong cái lồng này suốt chín năm.
+11|Ra ngoài đi. Ta có việc muốn giao cho cậu.
+12|Kyros, thay vì hối hận về quá khứ, cậu có thể bước tiếp và bảo vệ sinh mạng người khác.
+13|Sống như thế chẳng phải tốt hơn sao?
+14|Vâng!
+15|Kyros, trông cậy vào anh đấy!
+16|Một năm sau
+17|Kyros, cảm ơn anh vì tất cả!
+18|Đội trưởng Quân đội Hoàng gia Riku của Dressrosa, Kyros (25 tuổi)
+19|Kyros-sama!
+20|Ngươi được hâm mộ quá nhỉ, Kyros-sama?
+21|Nhưng ngươi vẫn là kẻ sát nhân.
+22|Ta không hiểu sao cha lại cho ngươi vào cung!
+23|C-Công chúa!
+24|Chị ơi, đừng khơi lại vết thương cũ của anh ấy!
+25|Rồi cha còn phong ngươi làm đội trưởng quân đội, lo giữ gìn luật pháp...
+26|Cha điên rồi!
+27|Chị...
+28|Ngươi lừa được cả nước, nhưng không lừa được ta đâu!
+29|Công chúa kế vị Dressrosa, Scarlett (15 tuổi)
+30|Sẽ có ngày ta vạch trần bộ mặt thật của ngươi!
+31|Tránh xa bọn ta ra! Hiểu chưa?
+32|Nhưng chị ơi, thật ra anh ấy rất...
+33|Người kế vị thứ hai (em gái), Viola (10 tuổi)
+34|Này, đừng nhìn!
+35|Đầu óc hắn rõ ràng toàn thứ bẩn thỉu!
+36|Nhưng... tôi có nhiệm vụ bảo vệ công chúa...
+37|Không cần, cảm ơn.
+38|Scarlett-sama bị bắt cóc rồi!
+39|Là hải tặc!
+40|Đội hộ tống của công chúa đâu?
+41|Bị giết hết rồi!
+42|Cái gì?!
+43|Thật kinh khủng!
+44|T-Tôi thật sự xin lỗi!
+45|Tôi không cố ý chạm vào công chúa!
+46|Kyros! Sợ quá đi mất!
+47|Tôi xin lỗi! Tôi thật sự xin lỗi!
+48|Con bé đang nấu ăn sao?
+49|Có chuyện gì vậy nhỉ?
+50|Ôi, tôi không dám...
+51|Cái gì?! Cậu xin thôi làm cận vệ cho các con gái ta?
+52|Không lẽ cậu yêu Scarlett rồi chứ?
+53|Hả?!
+54|K-Không, tất nhiên là không. Không bao giờ!
+55|Có thể một số người dân sẽ chúc phúc, nhưng chuyện này trái với luân thường của đất nước.
+56|Dân chúng nói chung là vậy mà.
+57|Cha! Nếu không được cưới anh ấy thì...
+58|con sẽ chết!
+59|Scarlett-sama!
+60|Công chúa đã mất vì bạo bệnh. Hẳn sau này cô ấy sẽ là một nữ hoàng tuyệt vời.
+61|Scarlett.
+62|Từ hôm nay, con không còn là công chúa nữa.
+63|Mọi người sẽ tin rằng con đã chết.
+64|Vâng.
+65|Tôi thấy như mình đang phụ lòng tất cả những gì ngài đã làm cho tôi, bệ hạ.
+66|Đúng vậy, chuyện này không thể tha thứ...
+67|Nếu là ai khác chứ không phải cậu.
+68|Kyros, chuyện này chưa từng có tiền lệ.
+69|Tên con bé sẽ là Rebecca.
+70|Kyros, bế con đi anh.
+71|Con gái anh đấy.
+72|Tôi không thể chạm vào thứ thuần khiết như vậy!
+73|Tay tôi nhơ bẩn lắm! Tôi không muốn làm vấy bẩn con bé!
+74|Cha con buồn cười thật, Rebecca nhỉ.
+75|Rebecca, con như thiên thần vậy.
+76|Cha sẽ ở bên con. Cha sẽ luôn dõi theo con!
+77|Ta là ông ngoại của con đây!
+78|Ông ngoại!
+79|Rebecca, con lớn quá rồi!
+80|Cha ơi, cha bỏ cái mặt nạ đó ra được không?
+81|Kyros.
+82|Găng tay! Phải đeo găng tay!
+83|Con dễ thương quá...
+84|Anh lại khóc rồi.
+85|Cung điện... đang cháy.
+86|Đất nước này bị sao vậy?
+87|Anh sẽ đến cung điện.
+88|Scarlett, Rebecca, nghe này.
+89|Cha?
+90|Nếu nguy hiểm lan tới đây thì hãy chờ ở cánh đồng hoa đỏ.
+91|Anh thề sẽ đến đón hai mẹ con.
+92|Không!
+93|Ngươi đã làm gì đất nước này và nhà vua, tên hải tặc kia?!
+94|Chính nhà vua đã đốt thành phố. Ngươi không thấy sao?
+95|Bệ hạ không bao giờ làm chuyện đó!
+96|Kyros!
+97|Tháo xích Hải Lâu Thạch này ra cho ta! Ta có phải người dùng Trái Ác Quỷ đâu.
+98|Kyros, ta nghe danh ngươi đã lâu.
+99|Theo ta đi.
+100|Nhà vua sẽ bị thay thế, và hoàng tộc cũ sẽ bị tiêu diệt.
+101|Người của ta chắc đang truy đuổi vợ con ngươi, những kẻ mang dòng máu nhà vua.
+102|Nhìn cho kỹ đi.
+103|Thời đại của gia tộc Riku ở Dressrosa đã chấm dứt.
+104|Hắn tự chặt chân mình sao?!
+105|Kyros!
+106|Đồ chơi?
+107|Món đồ chơi đó vừa chạy mất cùng nhà vua -dasuyan!
+108|Mình bị biến thành đồ chơi rồi!
+109|Chuyện gì thế này? Mình đang mơ sao?
+110|Vua Riku! Là tôi, Kyros đây!
+111|Xin lỗi. Ta chưa từng nghe cái tên đó.
+112|Ta mãi mang ơn ngươi, món đồ chơi nhỏ kỳ lạ.
+113|Chạy đi, Scarlett, Rebecca!
+114|Hãy chờ anh ở nơi đã hẹn!
+115|Không ai biết tên mình nữa.
+116|Mình phải đến cánh đồng hoa đỏ.
+117|Scarlett và Rebecca đang chờ mình!
+118|Scarlett?
+119|Scarlett!
+120|Scarlett!
+121|Có người bị bắn!
+122|Lại là Quân đội Hoàng gia Riku à?!
+123|Tại sao? Sao em không chờ anh?!
+124|Phải rồi.
+125|Chắc anh cũng đã biến mất khỏi tâm trí em.
+126|Cả lời hứa của chúng ta...
+127|lẫn quãng thời gian bên nhau...
+128|Scarlett!
+129|Scarlett, cố lên!
+130|Scarlett! Scarlett!
+131|Scarlett, cố lên em!
+132|Tôi không biết ông là ai...
+133|nhưng con gái tôi đang chờ, con bé đói lắm...
+134|Làm ơn...
+135|Là anh đây! Là Kyros đây!
+136|Làm ơn...
+137|Scarlett...
+138|Scarlett!
+139|Scarlett!
+140|Sao chúng ta lại phải chia ly thế này?
+141|Đây là địa ngục! Quá tàn nhẫn!
+142|Với đôi tay thiếc này, anh còn không cảm nhận được hơi ấm đang tắt dần của em!
+143|Scarlett!
+144|Ngài lính.
+145|Ngài lính!
+146|Ngài lính!
+147|Ồ, Viola-sama.
+148|Ông không sao chứ?
+149|Nguy rồi. Tôi thấy kẻ địch từ tầng một đang kéo lên.
+150|Không thể chấp nhận được! Vậy ra chỉ là kẻ giả mạo Thiếu chủ?
+151|Mũ Rơm và bọn chúng chắc ở tầng hai trở lên!
+152|Máu của Violet còn trên tường!
+153|Nguy rồi.
+154|Nếu sắp bị dồn vào thế phải đánh,
+155|có lẽ mình nên đánh úp Doflamingo ngay bây giờ thì hơn.
+156|Usoland và mọi người có thể không kịp.
+157|Các cậu đều là hải tặc nhỉ.
+158|Một lúc sau tôi mới nhận ra Fraland và Usoland là hải tặc.
+159|Ông có vấn đề gì à?
+160|Bản thân tôi cũng từng là kẻ ngoài vòng pháp luật.
+161|Chỉ cần chung mục tiêu, tôi sẵn lòng chiến đấu cùng các cậu.
+162|Đấu trường Corrida
+163|Trần tầng hầm Đấu trường đang nứt ra!
+164|Ngay cả trước trận chung kết, hàng trăm quái vật đã chiến đấu ở đây.
+165|Ngày hôm nay đã khiến công trình chịu quá sức.
+166|Đòn tấn công của Burgess là giọt nước tràn ly! Cả nơi này có thể sập mất!
+167|Cùi Chỏ Cuộn Trào!
+168|Thằng khốn đó!
+169|Đừng bắn vào bọn tao!
+170|Tốt.
+171|Ta sẽ nói bao nhiêu lần cũng được, Rebecca.
+172|Chính ta đã bắn chết mẹ ngươi, Scarlett.
+173|Này! Rào chắn của tao không chặn được công kích bằng lời đâu!
+174|Ngài lính, tôi không thể...
+175|Mẹ ơi, con đói.
+176|Mẹ đi kiếm gì cho hai mẹ con ăn nhé.
+177|Vâng.
+178|Tức quá mà không thể nhúc nhích nổi!
+179|Nhà Đồ Chơi
+180|Cyborg Franky đã bị hạ gục!
+181|U... Usopp... cậu làm được mà.
+182|Mau gây hỗn loạn đi!
+183|Usoland! Usoland!
+184|Cảng Giao Dịch Ngầm
+185|Có một trận chiến khốc liệt ở Tháp Cán Bộ.
+186|Cố lên, Usopp của băng Mũ Rơm!
+187|Tôi chưa từng thấy mặt cậu, nhưng cố lên, Usopp!
+188|Nếu cậu thắng, tôi sẽ mang ơn cậu suốt đời!
+189|Cố lên!
+190|Cố lên!
+191|Tôi không muốn làm đồ chơi suốt đời đâu!
+192|Nếu cậu biến tôi trở lại được, tôi sẽ không săn Mũ Rơm nữa!
+193|Làm thuộc hạ hay gì của cậu tôi cũng sẵn lòng!
+194|Cố lên!
+195|Cậu muốn bao nhiêu tiền tôi cũng cho! Cứu tôi với!
+196|Trébol, mau đưa Sugar về cung điện.
+197|Không sao đâu, Doffy. Chẳng có chuyện gì đâu.
+198|Kẻ địch còn chẳng tỉnh táo nữa kìa.
+199|Usoland!
+200|Trả lại ngươi quả nho độc này.
+201|Tatababasco...
+202|Đó là hy vọng duy nhất của chúng ta!
+203|Ngươi ăn nó...
+204|rồi chết đi.
+205|Sugar! Sao thế?!
+206|Tỉnh lại đi!
+207|S-Sugar...
+208|ngất rồi!
+209|Su-
+210|Sugar ngất rồi!
+211|Mình trở lại bình thường rồi!
+212|Đồ chơi đang...
+213|Nó cứ to ra mãi!
+214|Tôi trở lại rồi!
+215|Sugar!
+216|Này! Này!
+217|Nguy to rồi!
+218|Ồn ào gì thế?
+219|Hả?
+220|Chuyện gì đang xảy ra vậy?
+221|Cái gì?!
+222|Nó biến thành một ông già kỳ quặc!
+223|Mình bị sao thế này?!
+224|Mình trở lại bình thường rồi!
+225|Khoan đã!
+226|S-Sugar bị... Doffy, tôi xin lỗi!
+227|Im đi, Trébol!
+228|Sugar thì sao?
+229|C-Con bé...
+230|bị đánh...
+231|ngất rồi!
+232|Này...
+233|Đùa ta à?!
+234|Tất cả công nhân chúng ta gom được suốt mười năm qua...
+235|đang trở lại thành người!
+236|Lời nguyền Hobby Hobby đang được hóa giải!
+237|Mình nhớ ra rồi!
+238|Chuyện quái gì đang xảy ra thế này?!
+239|Ờ, ý tôi là...
+240|Chuyện gì vậy?! Đồ chơi...
+241|Đồ chơi đang biến thành người!
+242|Có cái còn chẳng phải người nữa!
+243|Đừng nói là Sugar đã...
+244|Mười năm công sức của chúng ta...
+245|Sugar đã bị ai đó hạ gục rồi!
+246|Con nhóc đó thật thảm hại.
+247|Nhưng...
+248|mong là con bé không bị thương.
+249|Đúng chất hard-boiled!
+250|Cung điện Hoàng gia, xin trả lời!
+251|Chỗ nào cũng gọi đến báo khẩn!
+252|Báo cáo khẩn từ quận phía nam, Sebio!
+253|Đồ chơi làm việc ở cảng biến thành hải tặc hết rồi!
+254|Đây là quận phía đông, Carta!
+255|Đồ chơi biến thành cựu binh lính Dressrosa!
+256|Quan chức Chính phủ!
+257|Hải Quân!
+258|Quan chức nước ngoài!
+259|Thú khổng lồ!
+260|Báo cáo từ quận Primula!
+261|Họ là người thật!
+262|Cố lên, Usopp!
+263|Usoland!
+264|Usoland!
+265|Nhờ có cậu, chúng tôi mới trở lại làm người được.
+266|Chúng ta làm được rồi...
+267|Chiến dịch SOP thành công rồi!
+268|Ai cũng vui vì được làm người trở lại.
+269|Sao thế, Onepoco?
+270|Mẹ ơi, Onepoco lạ lắm.
+271|Onepoco!
+272|One... poco?
+273|Không, anh là...
+274|Anh về rồi!
+275|Anh ơi!
+276|Bố ơi! Bố đâu phải Onepoco!
+277|Đúng rồi, bố đây!
+278|Bố ơi!
+279|Sao chúng ta lại quên anh suốt thời gian qua chứ?
+280|Là lời nguyền. Anh cứ sợ cả đời phải làm đồ chơi!
+281|Bố ơi, bế con lên!
+282|Lên nào!
+283|Chết tiệt, hắn lại trốn nữa rồi!
+284|Mày đi đâu rồi, gã đá kia?!
+285|Mọi người!
+286|Ờ...
+287|Tôi... vẫn sống...
+288|Người anh hùng còn sống!
+289|Usopp!
+290|Usoland, chúng tôi biết ơn ngài vô cùng!
+291|Mọi chuyện... đều đúng như kế hoạch.
+292|Ngầu quá!
+293|Giờ... đồng đội tôi sẽ lo phần còn lại.
+294|Trận chiến... chỉ mới bắt đầu thôi.
+295|Được lắm!
+296|Hạ Doflamingo!
+297|Doflamingo đã lừa tất cả chúng ta!
+298|Họ nói gì vậy? Ngài ấy là vị vua vĩ đại mà.
+299|Các người không biết bộ mặt thật của hắn đâu.
+300|Hắn chính là ác quỷ!
+301|Giết Doflamingo!
+302|Ra đây, Doflamingo!
+303|Bọn ta sẽ cho hắn biết mười năm qua bọn ta khổ sở thế nào!
+304|Chuyện gì thế này, Issho-san?
+305|Có vẻ thế cục đã đảo chiều rồi.
+306|Đất nước này chìm trong bóng tối sâu hơn lão tưởng nhiều.
+307|Hạ Doflamingo!
+308|Ai thế kia?!
+309|Kyros!
+310|Mình đã quên mất ông ấy.
+311|Cậu nói gì vậy?
+312|Hả? Chú lính thiếc đâu rồi?
+313|Là ông ấy đó.
+314|Hả? Nhưng đó là người mà!
+315|Tất cả đồ chơi từng là người. Họ đã bị xóa khỏi ký ức của chúng ta!
+316|Giờ Sugar bị hạ rồi, ký ức của chúng ta đã trở lại!
+317|Ông ấy là cựu đội trưởng Quân đội Hoàng gia Riku...
+318|Kyros!
+319|Chiến binh mạnh nhất trong lịch sử Đấu trường!
+320|Không phải là người trên bức tượng đó sao?
+321|Đúng vậy, chính là ông ấy. Và ông ấy còn là...
+322|cha của Rebecca!
+323|Hả? Nhưng cô ấy nói chưa từng gặp cha mà!
+324|Suốt những năm bị lãng quên,
+325|ông ấy chẳng có cách nào cho con bé biết mình thật sự là ai!
+326|Ông ấy đã dõi theo cô con gái yêu quý suốt mười năm!
+327|Ngày nào ông ấy cũng ở bên con bé trong hình dạng lính đồ chơi!
+328|Ngươi là ai?!
+329|Là ngươi!
+330|Kyros?!
+331|Phải!
+332|Xin lỗi đã để ngài chờ suốt mười năm!
+333|Tôi đến cứu ngài đây!
+334|Tôi đến để khôi phục Dressrosa thật sự!
+335|Mười năm.
+336|Bọn ta đã phải chịu đựng sự cai trị của ngươi suốt mười năm!
+337|Doflamingo-sama!
+338|Thiếu chủ!
+339|Khốn kiếp!
+340|Mingo chết rồi!
+341|Nhưng tôi muốn tự tay đấm bay hắn cơ...
+342|Thấy chúng rồi!
+343|Đằng kia! Khốn kiếp!
+344|Bị phát hiện rồi.
+345|Bắn!
+346|Đi cứu Traf thôi!
+347|Đấu trường Corrida
+348|Sao lại có con khỉ đột trên khán đài vậy?!
+349|Chạy đi!
+350|Thảm họa rồi.
+351|Trébol, ngươi phải trông chừng Sugar chứ!
+352|Đồ ngu.
+353|Này, khóc xong chưa?
+354|Tao đâu phải vú em của mày.
+355|Anh không hiểu đâu...
+356|Tôi...
+357|Tôi có cha!
+358|Có vẻ đó là bí mật của đất nước này, Rebecca.
+359|Mọi thứ đều có lõi.
+360|Chỉ cần đào đủ sâu.
+361|Giờ đến anh cũng nói mấy thứ khó hiểu à, đại senpai?
+362|Đấu trường này cũng vậy.
+363|Nó có lõi.
+364|Kết thúc trận này thôi nhỉ?
+365|Long Trảo Quyền...
+366|Hơi Thở Rồng!
+367|Tuyệt vời! Đòn tấn công của Lucy mạnh không tưởng!
+368|Võ đài đang lún xuống!
+369|Võ đài nổ tung rồi!
+370|Tôi mất thăng bằng rồi!
+371|Ngươi đã làm gì vậy?!
+372|Có việc gấp. Giờ tôi sẽ thắng.
+373|Ồ.
+374|Tôi nghe thấy tiếng động lớn lắm từ trên đó.
+375|Hack?
+376|Cậu ấy lại làm gì điên rồ nữa à?!
+377|Cậu ấy đang xuống lòng đất rồi.

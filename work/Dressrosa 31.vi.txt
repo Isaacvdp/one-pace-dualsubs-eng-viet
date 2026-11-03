@@ -1,0 +1,280 @@
+1|Này? Cậu có nghe không đấy, Sabo-kun?!
+2|Trước Bậc thang Cung điện
+3|Có nghe mà!
+4|Xạo! Cậu chẳng nghe gì cả!
+5|Nãy giờ cậu cứ lơ đãng!
+6|Nghe này! Giờ cậu có chức vụ rồi đấy!
+7|Không được để cảm xúc chi phối mà đi đánh với một gã như Đô đốc Hải Quân!
+8|Cậu muốn kéo Quân Cách Mạng vào chiến tranh à?
+9|Em tôi đang gặp nguy! Tôi mặc kệ!
+10|Phải để tâm chứ!
+11|Không!
+12|Tôi không muốn bị cuốn vào rắc rối vì sự liều lĩnh của cậu đâu!
+13|Mặk kệ!
+14|Hả?!
+15|Còn ghã đó...
+16|Chúng ta cũng như nhau cả thôi.
+17|Hải Quân bọn tôi và Doflamingo đều lạc lõng ở đây.
+18|Hải Quân sẽ không bao giờ là anh hùng ở đất nước này.
+19|Nếu có ai nhận ra ông đang nghĩ vậy...
+20|Không.
+21|Lão chỉ bị cậu cản đường thôi...
+22|Cũng giống một canh bạc.
+23|Lão cũng là người khá may mắn.
+24|Hiểu chưa?! Rõ chưa?! Có nghe không đấy?!
+25|Thôi nào!
+26|Tôi với Hack lúc nào cũng bị mắng vì cậu tự ý hành động!
+27|Cao nguyên Hoàng gia cũ
+28|Bọn ta sẽ dùng mấy tên tội phạm này để dụ đám còn lại.
+29|Xin lỗi!
+30|Thật lòng xin lỗi!
+31|Không! Cứu với!
+32|Hả?
+33|Ồ! Tôi được tự do rồi!
+34|Mọi người, thả bọn tôi ra có ổn không?
+35|Lẽ ra chúng tôi không nên làm thế.
+36|Suốt mười năm, chúng tôi oán hận Vua Riku-sama, người chỉ bị
+37|Doflamingo thao túng trong một đêm.
+38|Chúng tôi tôn sùng một vị vua là hải tặc...
+39|Và ngay cả khi đã biết sự thật...
+40|Và ngay cả khi đã biết sự thật...!
+41|Chúng tôi vẫn tìm sự cứu rỗi trong trò chơi do hắn bày ra!
+42|Chúng tôi chẳng còn biết mình đang làm gì nữa...
+43|Đất nước này rồi sẽ ra sao, Vua Riku-sama?!
+44|Xin hãy cứu chúng tôi!
+45|C-Cái gì...
+46|Họ bị sao vậy?!
+47|Chuyện gì đang xảy ra?!
+48|Vua Riku-sama! Chúng tôi phải làm gì đây?!
+49|Nếu ngài bảo chiến đấu, chúng tôi sẽ cầm vũ khí!
+50|Vua Riku-sama!
+51|Chúng tôi sẽ theo ngài!
+52|Hay ta cứ đợi... thêm một lúc?
+53|Hả? Đợi sao?
+54|Chọn cái chết lúc đó cũng chưa muộn.
+55|Ta đã tin vào chiến thắng của Luffy-kun và mọi người lúc nào không hay...
+56|Dressrosa từng là biểu tượng của hòa bình.
+57|Ta sẽ không để các con bị cuốn vào chiến tranh.
+58|S-S-S-Sao hắn lại ở đây?!
+59|Vua Riku.
+60|Lão cũng cược giống ngài.
+61|Cửa "Mũ Rơm".
+62|Bậc thang Cung điện Hoàng gia
+63|Tầng 4
+64|Tầng cao nhất của Cung điện
+65|Thấy sao hả, tên khốn?!
+66|Cú đó ra trò đấy!
+67|Thấy chưa?! Có chết đâu!
+68|Chiêu đó không có tác dụng lần nữa đâu!
+69|Tao không rảnh với Mingo giả!
+70|Law! Ta biết hết về năng lực của ngươi!
+71|Vì năng lực Trái Phẫu Thuật vốn là thứ bọn ta tìm kiếm ngay từ đầu!
+72|Dù có bị chặt vụn, ta cũng sẽ trở lại như cũ!
+73|Sẵn sàng phản đòn!
+74|Ồ?
+75|Radio Knife là cách cắt khác với kiểu cắt rời thông thường của ta.
+76|Trong vài phút, dù có chữa trị hay dùng năng lực gì, cơ thể ngươi...
+77|...cũng không thể ráp lại được!
+78|Cái gì?! Gay rồi!
+79|Không cầm được nước mũi!
+80|Ơ, khoan, khoan, khoan!
+81|Chết tiệt!
+82|Room!
+83|Dừng lại! Đồ phản bội!
+84|Injection!
+85|Nhận lấy này!
+86|Bắt Kiếm Bằng Nước Mũi!
+87|Shot!
+88|Đòn kết liễu đây!
+89|Fullbright!
+90|Traf!
+91|Còn nhớ thứ ta ghét nhất là gì không, Law?
+92|Là bị coi thường!
+93|Traf!
+94|Tránh ra!
+95|Tránh ra, Mũ Rơm!
+96|Né đi!
+97|Bellamy...
+98|Chết tiệt!!
+99|Mũ Rơm-ya!
+100|Ngươi tưởng hạ được ta sao?
+101|Việc lũ nhãi ranh khốn kiếp như các ngươi tự mãn
+102|và nghĩ, dù chỉ một giây, rằng có thể đánh bại ta...
+103|...là nỗi nhục không thể chịu nổi với ta!
+104|Nghe đây.
+105|Ta là hậu duệ của dòng máu cao quý nhất thế giới...
+106|Thiên Long Nhân!
+107|Cái gì?!
+108|Chỉ riêng việc được sinh ra, bọn ta đã đáng được tôn sùng.
+109|Ta từng nắm giữ quyền lực khó với tới nhất thế giới.
+110|Thế nhưng...
+111|Một ngày nọ, cha ta vứt bỏ quyền lực lớn nhất thế giới
+112|mà bọn ta có từ khi sinh ra
+113|và cả bốn người trong gia đình...
+114|...rơi xuống cái thế giới đống phân này!
+115|Cái trò "sống như con người" khốn kiếp đó!
+116|Cha ta là một kẻ ngu xuẩn!
+117|Cha! Bọn nô lệ đâu-eh?! Đi mua vài đứa đi-eh!
+118|Cha, sao chúng không quỳ xuống-eh?
+119|Cha! Sao chúng đuổi theo ta-eh?!
+120|Chúng là gia đình Thiên Long Nhân!
+121|Đừng giết chúng... Bắt chúng đau khổ suốt phần đời còn lại!
+122|Đến năm mười tuổi, ta đã thấy cả thiên đường lẫn địa ngục trần gian.
+123|Rồi ta giết người cha đã gây ra tất cả
+124|và mang đầu ông ta trở về Mariejois!
+125|Nhưng...
+126|...Thiên Long Nhân trên thiên đường không bao giờ chấp nhận một gia đình phản bội!
+127|Ta biết chẳng có cách nào thoát khỏi địa ngục này.
+128|Khi đó ta đã thề...
+129|Ta sẽ phá hủy mọi thứ trên thế giới...
+130|...mà bọn chúng thống trị!
+131|Cuộc đời ta đã sống ở một đẳng cấp hoàn toàn khác các ngươi!
+132|Ta không rảnh để đùa giỡn...
+133|...với lũ nhãi các ngươi!
+134|Thị trấn Tây Bắc - Primula
+135|Đ-Đừng! Tôi van anh!
+136|Làm ơn!
+137|Tôi không muốn làm thế này!
+138|Nhưng tôi không... không điều khiển được cơ thể!
+139|Xin lỗi! Thật sự xin lỗi! Tha cho tôi!
+140|Với từng này đồ, ta dựng lại tàu được rồi-yashi!
+141|Deshi, deshi!
+142|Đứng lại, lũ hải tặc khốn kiếp!
+143|Bọn mày nhân lúc cháy nhà để làm gì hả?!
+144|Tao không để bọn mày thoát đâu!
+145|Không ngăn lại thì nó chết mất!
+146|Đạn gây mê! Còn không?!
+147|Chúng ta thiếu cả đạn gây mê lẫn binh lính.
+148|Phải làm sao đây?
+149|Nếu cứ để vậy...
+150|Phó Đô đốc Maynard!
+151|Chuyện gì?
+152|Trận đấu giữa Sabo của Quân Cách Mạng và Issho-san ở Acacia
+153|đã kết thúc hòa vì cả hai bị thương!
+154|Cái gì?! Đừng có đùa!
+155|Các Đô đốc của Tổng bộ là chiến lực mạnh nhất của Hải Quân!
+156|Tại sao, Issho-san?!
+157|Chính phủ Thế giới...
+158|...định làm Chúa trời hay sao?!
+159|Những lời đó... cứ ám ảnh tôi...
+160|Phải làm sao đây?!
+161|Nhưng giờ không phải lúc nghĩ chuyện đó!
+162|Bọn hải tặc kéo đến chỗ Doflamingo tính sau!
+163|Dù thế nào, ta cũng phải cố kiểm soát tình trạng hỗn loạn khắp cả nước!
+164|Cố hết sức đừng làm hại dân thường hay động vật!
+165|Dùng đạn gây mê với những ai mất kiểm soát!
+166|Không sao chứ?
+167|Cung điện Hoàng gia
+168|Khoan, khoan, khoan, khoan!
+169|Cao Su...
+170|Bạch Tuộc Dậm!
+171|Suýt nữa thì toi!
+172|Sau lưng kìa!
+173|Các ngươi không biết gì đâu...
+174|Các ngươi có tưởng tượng nổi người ta sẽ làm gì với một Thiên Long Nhân sa cơ không?
+175|Con người ai cũng...
+176|Tàn nhẫn.
+177|Mày nói cái gì vậy, Mingo giả?!
+178|Được rồi, bắt đầu hành quyết thôi.
+179|Ngươi là kẻ đầu tiên, Law...
+180|Này!
+181|Có một điều ta vẫn chưa rõ.
+182|Hửm?
+183|Ngươi là cựu Thiên Long Nhân, bị trục xuất khỏi Mariejois.
+184|Sao vẫn còn nắm được quyền lực lớn đến thế?
+185|CP-0 làm việc trực tiếp dưới lệnh Chính phủ Thế giới, vậy mà sáng nay ngươi điều động được chúng!
+186|Sắp chết đến nơi rồi mà ngươi vẫn muốn biết à?
+187|Đó là vì ta biết về quốc bảo quan trọng...
+188|...mà chúng cất giữ trong Thánh địa Mariejois!
+189|Quốc bảo ở Mariejois?
+190|Phải.
+191|Một thứ mà chỉ riêng sự tồn tại của nó cũng đủ làm rung chuyển thế giới.
+192|Giết Doflamingo đi-eh!
+193|Không thể để thằng nhóc đó sống-eh!
+194|Với chúng, ta là kẻ đào tẩu nắm trong tay quân bài nguy hiểm nhất.
+195|Chúng định giết ta, nhưng ta không chết, nên Thiên Long Nhân trở nên rất biết hợp tác.
+196|Hơn nữa, nếu hôm đó ta có được năng lực Trái Phẫu Thuật của ngươi,
+197|ta đã nắm quyền chèo lái thế giới nhờ quốc bảo ở Mariejois rồi!
+198|Năng lực của ngươi giá trị đến thế đấy.
+199|Ngoài "Phẫu thuật Hoán đổi Nhân cách", nó còn một công dụng khác!
+200|Ngươi biết chứ?
+201|Nếu người khôn ngoan dùng Trái Phẫu Thuật, cả giấc mơ từ thời cổ đại của loài người cũng có thể thành hiện thực.
+202|Vì thế mà nhiều kẻ gọi nó là Trái Ác Quỷ tối thượng.
+203|Ừ, ta biết...
+204|Dù ta chẳng hứng thú gì.
+205|Sức mạnh lớn nhất của trái này là ban cho người khác sự sống vĩnh cửu...
+206|...bằng "Phẫu thuật Trường Sinh Bất Lão"!
+207|Nhưng một khi thực hiện, chính người phẫu thuật sẽ chết.
+208|Đúng vậy!
+209|Chính vì thế ta đã không định để ngươi ăn nó!
+210|Ngươi dám lấy oán báo ân!
+211|Ồ, xin lỗi nhé!
+212|Kiếm thuật của Diamante!
+213|Đạn Chỉ!
+214|Võ thuật của Lao G!
+215|Room!
+216|Injection Shot!
+217|Tài bắn súng của Gladius!
+218|Mọi kỹ năng chiến đấu của ngươi đều học từ bọn ta!
+219|Phải!
+220|Và ta còn sống đến giờ là nhờ Cora-san!
+221|Ta biết ơn lắm!
+222|Vì nhờ sức mạnh này ta có thể hạ hết các ngươi!
+223|16 năm trước, North Blue - Thị trấn cảng Spider Miles
+224|Nhóc nghiêm túc đấy à?
+225|Gia tộc Donquixote ♦Cán bộ♣ Diamante & Trébol
+226|Đừng cười! Tôi nghiêm túc đấy!
+227|Chỉ có quyết tâm thì không giết được ai đâu!
+228|Tôi nói rồi! Tôi có thuốc nổ!
+229|Đừng có đùa với hải tặc!
+230|Khoan! Khoan, khoan!
+231|Nhà máy Xử lý Rác thải
+232|Không-dasuyan!
+233|Thuyền trưởng đâu?
+234|Khoan đã!
+235|Thuyền trưởng Doffy của bọn ta không rảnh tiếp nhóc như ngươi.
+236|Ừm, ừm!
+237|Bọn ta hiểu là ngươi không sống được lâu và sắp chết.
+238|Khi nào? Này, này! Khi nào ngươi chết?
+239|Ba năm hai tháng nữa.
+240|Bác sĩ nói thế à?
+241|Bố tôi là bác sĩ, đã mất rồi. Tôi biết nhờ xem hồ sơ bệnh án của mình.
+242|Thằng nhóc thông minh thật.
+243|Tôi muốn giết càng nhiều người càng tốt trong ba năm này!
+244|Và phá hủy mọi thứ!
+245|Đầu óc thằng nhóc này có vấn đề rồi!
+246|Không cầm được nước mũi!
+247|Thôi được, bọn ta cũng nhận trẻ con.
+248|Đến giờ đã có khoảng trăm đứa tới,
+249|nhưng phần lớn khóc lóc bỏ trốn trong vòng hai ngày.
+250|Ngươi chịu nổi không?
+251|Nin! Trébol-sama!
+252|Diamante-sama!
+253|Chỉ còn mấy đứa nhóc này trụ lại thôi.
+254|Chuyện gì? Buffalo? Baby 5?
+255|Cora-san về rồi!
+256|Chú ấy vấp ngã!
+257|Biết ngay chú ấy sẽ ngã mà-dasuyan!
+258|Ngã rồi! Ngã rồi!
+259|Dasuyan! Dasuyan!
+260|Dasuyan...
+261|Cora-san, cháu mang trà cho chú.
+262|Nóng đấy.
+263|Corazón, xong việc trót lọt chứ?
+264|Vậy đưa tiền kiếm được đây. Chuyện tiền nong phải sòng phẳng.
+265|Tên ngươi là Law, phải không?
+266|Người vừa về này cũng là cán bộ như bọn ta.
+267|Tên hắn là Corazón.
+268|Gia tộc Donquixote ♥ Cán bộ Corazón
+269|Hắn là tên ngốc đãng trí, nhưng...
+270|...hắn mạnh, có lẽ nhờ dòng máu.
+271|Em ruột của thuyền trưởng Doffy.
+272|Nghe nói hắn không nói được vì một chấn động trong quá khứ.
+273|Thêm nữa...
+274|Hắn không thích trẻ con. Cẩn thận đấy.
+275|Cái gì...?!
+276|Ôi, chết rồi!
+277|Chú ấy đâm vào núi sắt vụn rồi-dasuyan!
+278|Hắn bị sao vậy?! Chắc điên rồi!
+279|Tao sẽ giết hắn!!
+280|Cora-san bốc cháy rồi!

@@ -1,0 +1,406 @@
+1|Port Town Spider Miles Waste Processing Plant
+2|Boy from the White Town Trafalgar Law (Age 10)
+3|Throw him out!
+4|Hey, hey, Law!
+5|It's been a week already.
+6|Don't you wanna run away?
+7|You've been getting beaten by Corazón ever since you came here.
+8|Kids and adults alike run away.
+9|That's why we have only the strongest.
+10|How much longer will a useless brat like you last?
+11|No matter what happens, don't forget the blood law.
+12|The Family will fall apart if a member defies a commander's authority.
+13|I once laughed at Pica-sama and almost died from the torture.
+14|It doesn't scare me.
+15|I've seen hell itself.
+16|Donquixote Pirates Captain Donquixote Doflamingo
+17|You're free to say what you want...
+18|But Corazón is my precious younger brother of my own blood.
+19|If anyone so much as nicks him, I'll...
+20|put them to death!
+21|Look at his skin!
+22|The White Lead Disease! It's agonizing pain if you're infected!
+23|What?! It's contagious?! That's gross!
+24|Get out of here now-dasuyan!
+25|Giolla, don't treat mere rumors as fact.
+26|Shame on you.
+27|Look, Buffalo believed you.
+28|The White Lead Disease is a poison.
+29|It's not contagious.
+30|But stay away from me just in case-dasuyan!
+31|I don't wanna catch that disease-dasuyan!
+32|Hey.
+33|Are there any other survivors from the White Town, Flevance?
+34|I don't know.
+35|It took everything I had just to escape.
+36|How did you get out?
+37|I crossed the border by hiding under a pile of dead bodies.
+38|Hey! I'm eating!
+39|Why so much malice?
+40|I don't believe in anything anymore.
+41|I'm not afraid of death.
+42|Corazón!
+43|Don't push your luck!
+44|I'll get my revenge on you at any cost!
+45|Hey, are you stupid? Weren't you listening?!
+46|They'll torture you if you do that!
+47|Impalement!
+48|Don't mess with pirates!
+49|Children are idiots. They think crying and saying sorry will make things better!
+50|Port Town Rakesh
+51|Hey, what kind of place is the White Town, where that kid was from?
+52|It was a country called Flevance. The White Town was a nickname for it.
+53|Flevance?
+54|Yeah.
+55|All of its citizens were rich, and the towns were all white, from the soil to the plants...
+56|Like winter in a fairy tale.
+57|I heard the country's beauty was out of this world.
+58|One day, they discovered White Lead, a type of lead, underground...
+59|And found out that was the source of the fantastic scenery.
+60|They made utensils, paint, sweeteners, cosmetics, and even weapons out of White Lead.
+61|People all over the world wanted to buy their high-quality White Lead goods...
+62|And it became Flevance's flagship industry.
+63|The cunning World Government went into the transport business to ship that merchandise.
+64|White Lead made people a fortune.
+65|Law, for this kind of surgery, you use that blood vessel.
+66|Oh really?
+67|Big brother! Let's go to the festival!
+68|Yeah. Why don't you three go?
+69|All right, but just for half an hour.
+70|We have so many patients to take care of.
+71|Yeah!
+72|Law! Let's go! To the festival!
+73|Yeah!
+74|The White Town was the place everyone longed for.
+75|Oh, I wanna go there!
+76|"G", for longed!
+77|But it's gone now.
+78|What?
+79|About a century ago, when the White Lead industry was established...
+80|The World Government performed a geological survey in the country...
+81|And so they already knew the truth.
+82|The truth?
+83|It was poison.
+84|What?
+85|Poison that wasn't harmful unless you dig it up.
+86|But if you handle it, it'll decay your body.
+87|What?!
+88|Knowing this, but blinded by the easy fortune to be had,
+89|the Government and the royalty of that country kept it secret.
+90|Their citizens kept mining it, knowing nothing.
+91|But that means they would die.
+92|Yeah.
+93|The terrible part was it only contained traces of poison.
+94|Say that the Lead keeps building up in a young person's body.
+95|When they have a child, they will actually have a shorter life expectancy.
+96|Then when the kid grows up and has their own child...
+97|That child's life expectancy is even shorter.
+98|Age 10
+99|Age 30
+100|Age 50
+101|Age 70
+102|Life Expectancy
+103|The negative effect on future generations
+104|No more descendants
+105|Life expectancy grew shorter, generation by generation,
+106|Age 10
+107|Age 30
+108|Age 50
+109|Age 70
+110|Life Expectancy
+111|The negative effect on future generations
+112|No more descendants
+113|until eventually a generation doomed to die before adulthood, just like Law, was born.
+114|When the world finally realized that White Lead was poisonous...
+115|It was too late.
+116|At some point, people started to collapse one after another.
+117|Grandparents, parents, and then children.
+118|Because of the differences in their life expectancies, all generations fell ill around the same time.
+119|Their skin and hair rapidly whitened.
+120|People died one after another, their entire bodies racked with pain.
+121|No doctor could stop it.
+122|Then, all the people in his country died?!
+123|Poor them...
+124|The real tragedy began after that.
+125|Huh?
+126|Seeing the people in the White Town all dying with the same symptoms,
+127|people in neighboring countries thought White Lead Disease was contagious.
+128|White Town
+129|So they formed a blockade around the country and took quarantine measures against the White Town.
+130|The royal family got help from the Government and escaped the country at an early stage.
+131|They abandoned their subjects.
+132|People from the White Town who were looking to be treated and immigrate to other countries
+133|were feared like wild beasts escaping from their cage, and they were shot dead.
+134|They swept the whole situation under the rug.
+135|Dammit!
+136|The suffering the disease caused was just somebody else's problem.
+137|It was a natural human reaction.
+138|But Flevance couldn't keep quiet.
+139|Ironically, they had tons of lead bullets.
+140|Eventually, a war broke out.
+141|Other countries justified their actions as self defense, so they showed no mercy.
+142|I'm sure you can imagine the rest.
+143|Law-kun!
+144|Come, you must leave with us.
+145|There are gentle soldiers who told us they will let only the children escape!
+146|Law!
+147|We'll be safe!
+148|Sister! My little sister is dying!
+149|I can't go now!
+150|Lammy-chan?!
+151|I see...
+152|Then, let's ask them to get you on board the next refugee ship!
+153|I'll come back to pick you up!
+154|Law! Aren't you coming?!
+155|Let's escape together!
+156|I'm sure they'll save Lammy later, too!
+157|Both my mom and dad are dead!
+158|But they told me to live!
+159|So I'm gonna live no matter what!
+160|Listen, Law-kun.
+161|There is always hope.
+162|A merciful helping hand will...
+163|always reach out to you, like this.
+164|Doctor, help!
+165|Doctor!
+166|It's impossible! I can't go there!
+167|We don't have enough doctors! Same for blood and everything!
+168|There must be a way to clear away White Lead from bodies!
+169|And it's not contagious!
+170|Why doesn't the Government report that?!
+171|Big brother, my body hurts.
+172|My skin's getting whiter and whiter...
+173|Hang on for a little more.
+174|Our father is the greatest doctor in the country.
+175|He'll cure you!
+176|Why is it so noisy outside?
+177|There's a festival! Flevance is always booming.
+178|Get well soon and let's go to a festival together again!
+179|Uh-huh!
+180|Lammy, stay in here for a few minutes.
+181|Uh-huh...
+182|Two infected people have been terminated!
+183|Law!
+184|Law! Let's go! To the festival!
+185|Mother!
+186|Father!
+187|Listen, Law-kun.
+188|There is always hope.
+189|A merciful helping hand will...
+190|always reach out to you, like this.
+191|Sister!
+192|Everybody!
+193|Let's escape together!
+194|So I'm gonna live no matter what!
+195|The hospital...!
+196|Lammy!
+197|Flevance, the White Town, perished.
+198|In the end, it was done by humans.
+199|If a ten-year-old kid went through such an ordeal...
+200|There's no way it wouldn't screw up his personality.
+201|There he is! Corazón!
+202|My parents, my sister, and everyone from the church are all dead...
+203|Yet that idiot is alive! It's not fair!
+204|They won't know if I keep quiet.
+205|Nobody will notice...
+206|If a scumbag goes missing!
+207|Damn! I was seen!
+208|He... b-broke the... blood law!
+209|He deserves impalement-dasuyan!
+210|I must inform the young master-dasuyan!
+211|They're a family of Celestial Dragons!
+212|Kill them!
+213|They're former Celestial Dragons.
+214|The Navy won't interfere, even if we kill them.
+215|The admirals won't come, either!
+216|I'm so glad I got a chance for revenge!
+217|I thought I'd have to bear it silently all my life!
+218|Break all their bones with a hammer!
+219|Shoot them with a thousand arrows!
+220|No! Don't let them die so easily!
+221|Keep them alive and let them suffer long and well!
+222|Listen, you fiends!
+223|My sons were only five and two years old...
+224|And all they did was cut across the path of the Celestial Dragons...
+225|For something so small...
+226|They were killed!
+227|My enslaved daughter came home looking like she'd been through hell,
+228|and she killed herself, without a word, three days later!
+229|I was once your slave! And my eyes...
+230|Because of you... Because of you...
+231|Give me back my wife!
+232|You guys don't give a damn about our lives!
+233|Because of the Heavenly Tribute we pay to you fools,
+234|my country was destroyed by famine!
+235|Have you ever been hungry?!
+236|Everyone became skin and bones, and died!
+237|So you guys are gods, huh?!
+238|You're different from humans, right?
+239|Then, I bet this won't kill you!
+240|Doffy!
+241|Brother!
+242|Dammit!
+243|H-How dare you...
+244|Treat us humans worse than worms!
+245|Do you know what it's like to be in pain, grief, agony?!
+246|Well, Celestial Dragons?!
+247|What is it?
+248|The Holy Land Mariejoa, 33 years ago
+249|Are you insane, Saint Homing?!
+250|You, of all people?!
+251|You're saying you renounce your status as a god and reduce yourself to a mere human?!
+252|World Noble (Celestial Dragon) Saint Donquixote Homing
+253|I am human, and I have always been.
+254|Do you imply we are too?!
+255|That's sacrilege!
+256|Who do you think we Celestial Dragons are?!
+257|Traitor! You have always been heretical!
+258|He's right, traitor!
+259|So savage!
+260|Get out of Mariejoa now!
+261|We cannot take you farther than here.
+262|We're at the north end.
+263|A non-member nation of the World Government.
+264|Some assets and an adequate house are ready for you there.
+265|Thank you. That's all we need.
+266|Now, I'll collect your Celestial Dragon ID chips.
+267|Let's live a humble life here, all four of us as a family.
+268|Father! Where are the slaves?
+269|If there aren't any, let's go buy some.
+270|Doffy. Rosinante.
+271|We have to teach you from scratch.
+272|Doffy, we are going to live as humans from now on.
+273|Humans?
+274|We'll lead a life far richer than the life in Mariejoa.
+275|Not "rich" in the sense that we'll have money and possessions.
+276|I mean spiritually.
+277|Hey!
+278|Why don't you kneel before us?!
+279|You fools are disrespectful!
+280|You just cut across in front of me, didn't you?
+281|Somebody, fetch me a pistol!
+282|Who do you think I am?!
+283|Where are the Celestial Dragons?!
+284|Find them!
+285|Hang them up!
+286|Father, why don't they kneel before us?
+287|They're not in here! They must've run!
+288|Find them! They can't have gone far!
+289|Don't kill them! Keep them alive, and let them suffer!
+290|Yeah!
+291|We will take revenge on that family for centuries of injustice!
+292|Yeah!
+293|Doffy!
+294|Father! Why do they come after us?!
+295|We should be thankful to be out of the rain here at least.
+296|People around here haven't heard about us yet.
+297|How can I live in such a filthy place?!
+298|There are bugs inside the house! The smell here makes me sick!
+299|Find the family!
+300|They should still be around here!
+301|Kill them as soon as you find them!
+302|We must run! Now!
+303|I never imagined it would turn out this bad.
+304|I was too optimistic. Please! I'll do anything!
+305|Would you please let us go back to Mariejoa? At least take back my wife and children!
+306|If we stay here, we'll be killed!
+307|That was your own choosing.
+308|You cannot take back what you gave up.
+309|Don't ever call me again! You're no more than a human!
+310|You bread thieves!
+311|Father! For the first time in my life...
+312|I feel pain!
+313|Father!
+314|For the first time in my life, I'm hungry!
+315|Eat fast, Rosy!
+316|Somebody's gonna come!
+317|Mother, we brought you some food.
+318|Doffy. Rosy.
+319|Mother!
+320|I'm sorry... I don't...
+321|feel very well...
+322|Father...
+323|Mother is dead!
+324|We got them!
+325|Please, you can have me, but let my children go!
+326|Please! I'm begging you!
+327|Father!
+328|Damn you!
+329|Look at what you've done!
+330|Young master, we've caught Law!
+331|Looks like he was thinking of escaping.
+332|Dammit! Let go of me!
+333|He was already at the port-in.
+334|They'll start torturing him for stabbing Cora-san-dasuyan!
+335|I feel so sorry for Law...
+336|Corazón!
+337|Damn! He didn't die!
+338|I'm gonna get done in for nothing?!
+339|I shut Buffalo's mouth by buying him an ice cream...
+340|But that guy told him himself!
+341|I'm sure the blade went through his body!
+342|How can he act like he's fine?!
+343|Law...
+344|I called you in for just one thing.
+345|I've decided to make you an official member of the Donquixote Family.
+346|The Family-in!
+347|Because you went through such a horrible experience,
+348|you developed that incomparable, hateful look in your eyes.
+349|You have what it takes.
+350|He sees potential in your future!
+351|The young master is a visionary.
+352|Doesn't he know what I did to Corazón yet?
+353|Why? He can tell him in writing.
+354|What is he up to?
+355|Even if he sees potential in me, I'll die in three years anyway!
+356|That depends on your luck!
+357|Luck?
+358|We deal mainly in the black market.
+359|We handle Devil Fruits, as well.
+360|Some Devil Fruits give powers that defy common sense.
+361|There might be a Fruit that could cure your disease.
+362|Devil Fruits?
+363|If you're lucky,
+364|your life could be saved by a Devil Fruit we come across in the three years you have left.
+365|I will train you to become my right-hand man ten years from now.
+366|What's wrong?
+367|An enemy
+368|You were attacked?
+369|Did you take care of him?
+370|I got rid of him
+371|That's good, then. Now go have your wounds treated.
+372|Did he just... cover up for me?
+373|What is he playing at?!
+374|We'll keep moving our base of operations toward Reverse Mountain in the southeast...
+375|and expand our business.
+376|2 years later
+377|2 years later
+378|We told you our real names!
+379|So what? I'm not interested!
+380|You're so uncool! No fun!
+381|Fun or not, I'll die anyway.
+382|You have quite a lot of white parts now.
+383|I don't know if I'll survive another year.
+384|I may die sooner than I calculated.
+385|That aside, if you have a real name, tell us-dasuyan!
+386|Or I'll tell the young master you stabbed Cora-san two years ago!
+387|Trafalgar D. Water Law.
+388|I'm supposed to keep that name secret.
+389|But since I don't go by a code name like you two, it doesn't really matter.
+390|"D." is a secret name, and "Water" is taboo...
+391|For generations, my family-
+392|What a boring name.
+393|Yeah-dasuyan.
+394|You're the ones who kept nagging me about it!
+395|Hey, let go of me!
+396|What the... Corazón! What do you want?! Hey!
+397|Oh, he's gonna get beaten again.
+398|Cora-san looked scarier than usual.
+399|What do you want, Corazón?! Do you wanna fight?!
+400|Was that true, what you just said?
+401|Eh?
+402|Huh? What? Who's there?!
+403|The secret name "D."...
+404|If it's true, you need to get out of here.
+405|Get away from Doffy!
+406|Law! You have to stay far away from him!

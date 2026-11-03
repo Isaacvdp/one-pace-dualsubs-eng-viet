@@ -1,0 +1,402 @@
+1|No one will come to save you.
+2|No one can escape from this bird cage.
+3|Hello? Hello?
+4|Communication with those outside of this island is also impossible.
+5|You will all die, without anyone outside ever realizing a thing.
+6|Your crazed neighbors will continue to...
+7|mercilessly attack everyone.
+8|Someone stop me!
+9|Please, not the children!
+10|Be they your family, your friends, or even the citizens you strive to protect.
+11|Stop it!
+12|My body's moving on its own.
+13|Someone stop me!
+14|Everyone, get away from me!
+15|Isshou-san...
+16|You can run and you can hide,
+17|but there isn't a single safe haven inside this cage.
+18|The bird cage's terror will continue for days on end.
+19|Will everyone die first? Or will you all end this game first?
+20|That bastard Doflamingo, what the hell's he trying to start?!
+21|What's going on?!
+22|The factory rose up and disappeared somewhere!
+23|But this is our chance!
+24|We can get outside!
+25|The day we can escape this underground hell has come!
+26|Thank you, God Usopp!
+27|Let's go!
+28|Robin-dono!
+29|Kin'emon!
+30|A-A steel breast-band.
+31|Must be a foreign custom.
+32|I like it.
+33|R-Robin-senpai, make me your servant...
+34|No, I misspoke.
+35|There's something I want to ask you.
+36|T-That man's nose...
+37|It's exactly the same as that of the man who shot the flag on the Tower of Justice, Sogeking-senpai.
+38|That's him. His name is Usopp.
+39|It's him!
+40|Robin-senpai was moved by the actions of this crew,
+41|who made enemies of the world for the sake of one of their crewmates.
+42|Together, they're the star duo of Enies Lobby!
+43|Yes, yeah, yes!
+44|What are you getting all excited about, you psycho? Shut up already!
+45|Someone like that broke my arm...
+46|I hand them over to you.
+47|Though they may be small, they are great warriors.
+48|Thank you, Topknotland.
+49|They were unconscious in the palace corridors.
+50|They put their lives on the line for the captain.
+51|Kabu-san, Rampo, you did a great job.
+52|Someone stop me! My body won't listen to me!
+53|This is just like that night ten years ago.
+54|I finally understand.
+55|King Riku and the royal army were being controlled...
+56|by Doflamingo!
+57|Scream, hate, suffer.
+58|You are all innocent victims.
+59|Help...
+60|Stop it, Doflamingo!
+61|Think about it.
+62|Will you come kill me?
+63|Or fight alongside me to bring judgment upon the twelve fools who stand against me?
+64|If you choose incorrectly, the game won't end.
+65|For each star you get 100 million.
+66|100 million belly?!
+67|They are the outlaws of Dressrosa!
+68|Corrida Colosseum Prisoner Gladiator (Granddaughter of King Riku) Rebecca
+69|Pirate Straw Hat Crew "The Devil's Child" Nico Robin
+70|Samurai from the Wano Kingdom "Foxfire Kin'emon"
+71|Dressrosa Former Princess Viola
+72|Pirate Straw Hat Crew "Cyborg Franky"
+73|Pirate Straw Hat Crew "Pirate Hunter Zoro"
+74|Dressrosa Former Army Commander Kyros
+75|Revolutionary Army Chief of Staff Sabo
+76|Dressrosa Former King Riku Dold the Third
+77|Pirate Straw Hat Crew Captain "Straw Hat Luffy"
+78|Heart Pirates Captain Seven Warlords of the Sea (Interim) "The Surgeon of Death" Trafalgar Law
+79|C-Commander Kyros!
+80|I'd forgotten about him.
+81|The invincible gladiator.
+82|There are some pirates there as well.
+83|The Straw Hat Pirates.
+84|The Family commander Violet... was Princess Viola?!
+85|And the main offenders of each organization...
+86|are all three-stars!
+87|300 million!
+88|Law and Straw Hat.
+89|That's the alliance that just shook the world.
+90|K-King Riku?
+91|King Riku, you're alive!
+92|There's one of the revolutionary army's top guns too!
+93|He's the chief of staff.
+94|Information spreads fast.
+95|Me too?!
+96|T-Thank god he didn't find out about me.
+97|Furthermore, there's the man who has angered me the most today.
+98|He's the one who forced you all into this cruel game.
+99|The one who kills him...
+100|gets 500 million!
+101|Pirate Straw Hat Crew "God" Usopp
+102|500 million!
+103|We can live the rest of our lives in luxury!
+104|F...
+105|T-This is bad, Usoland's...
+106|Five stars!
+107|There are some one-stars and a three-star guy there as well.
+108|Sabo-kun, what should we do?
+109|We're escaping above ground.
+110|Everyone, hurry!
+111|God Usopp! Sorry, but please die!
+112|Five stars is 500 million!
+113|T-Those guys were worshiping me a minute ago!
+114|Dammit, run away.
+115|Understood.
+116|There's one over there.
+117|It's the one-star samurai.
+118|A hundred million belly!
+119|How troublesome.
+120|A-According to the dwarves, this is the scrapyard.
+121|Are you really down here, Kanjuurou?
+122|The 100 million is mine!
+123|To hell with it!
+124|He fell!
+125|The samurai fell into the hole!
+126|You don't have time to hesitate.
+127|Time is ticking, people are dying, and the town is burning.
+128|What should we do?
+129|We've only just realized that King Riku was innocent...
+130|If all of us were to go up against him, then maybe we could kill Doflamingo.
+131|He's not alone though.
+132|To defeat Doflamingo, we'd have to go through two thousand members of the Donquixote Family.
+133|Then what are we supposed to do?
+134|King Riku is among those twelve.
+135|We shouldn't have to kill them.
+136|Restraining them will do. There's only twelve of them.
+137|We have no choice.
+138|We have to fight.
+139|Where'd Cyborg Franky disappear to?
+140|Barrier!
+141|Don't follow us.
+142|Keep going toward the surface!
+143|Zoro?
+144|Yeah.
+145|Where are you?
+146|Is that Robin?
+147|I'm with Luffy and the others right now.
+148|It's called the "Royal Grounds".
+149|We've been put in a really aggravating situation.
+150|Robin? Did you see that?
+151|Mingo's really annoying.
+152|But Usopp's bit was hilarious.
+153|What the hell, Luffy!
+154|Rebecca was on that list as well, do you think she's okay?
+155|Rebecca's...
+156|I'm right here, Lucy.
+157|Oh, perfect timing.
+158|The soldier's right here...
+159|Where'd the soldier go?
+160|Don't tell me, he...
+161|It's an outlaw, kill him!
+162|Did Soldier-san...
+163|Did Soldier-san turn back into a human?
+164|Lucy, what kind of person is he?
+165|What kind of person?
+166|What are you talking about?
+167|That one-legged soldier is...
+168|your dad!
+169|He's the guy from the statue in the Colosseum!
+170|I-I couldn't protect her.
+171|I knew it...
+172|Soldier-san is valiant...
+173|... and he will always watch over you.
+174|I'm happy for you.
+175|The soldier guy went somewhere, but listen, Rebecca.
+176|Don't cry yet.
+177|I won't let the soldier die.
+178|Make sure you stay safe.
+179|Sorry I couldn't give you the Flame Fruit that you wanted to eat.
+180|But in exchange, I'll beat the crap out of Doflamingo!
+181|So stay with my crewmates.
+182|I'll end this game right away.
+183|Stay alive!
+184|You got it?!
+185|Yeah!
+186|Luffy, tell me who's there on your end.
+187|Here we have...
+188|Do you understand, Straw Hatter?
+189|Our plan was to destroy the Smile factory to make Doflamingo and Kaidou clash.
+190|If you take out Doflamingo now, Kaidou's rage at losing the Smiles will be directed at us.
+191|It'll mean we have to fight an enraged Emperor!
+192|We can worry about that later.
+193|Just look at this country! I've gotta do something!
+194|Find the outlaws!
+195|If we want to survive, we have to catch them!
+196|If you find any outlaws, let everyone know right away!
+197|Somebody, please stop me!
+198|That was close. Don't let your guard down.
+199|Get moving.
+200|Isshou-san, you're not going to capture Doflamingo?
+201|We have to restrain as many of the people running rampant as possible.
+202|Besides, our target here is the alliance between Straw Hat and Law.
+203|Contact all our squadrons.
+204|Wait, I'm still in handcuffs.
+205|They'll come off soon enough.
+206|As if!
+207|I'll get the key.
+208|I promise I'll find it, and-
+209|What route are we taking?
+210|Straight ahead!
+211|He's not planning to jump, is he?!
+212|Just you wait, Doflamingo!
+213|Droves of people are pouring out from under the Colosseum!
+214|It looks like all the upheaval caused the underground and the surface to merge!
+215|These must be the people who were forced to work in that underground port!
+216|Soldiers...
+217|Officials...
+218|Pirates!
+219|I... I can't believe so many people were enslaved without anyone knowing!
+220|Maynard, who told you to infiltrate the battle tournament?
+221|Don't go off on your own like that.
+222|You're lucky you're still alive.
+223|But Bastille-san,
+224|doing so let me see the whole picture of the tournament.
+225|Navy HQ Vice-Admiral Maynard the Pursuer (Participant in the tournament)
+226|If we apprehend Doflamingo,
+227|the balance of the world could shift!
+228|Underground Trading Port
+229|This is...
+230|a trading vessel from the Kingdom of Biggschots, disguised as a pirate ship.
+231|The shadows from several countries have come together in this port.
+232|Please, stop!
+233|I-I'm so sorry!
+234|Darling!
+235|Everybody, run!
+236|Why, Isshou-san?!
+237|Doflamingo can't be allowed to be a Warlord any longer!
+238|We should capture him right now!
+239|I'm sure the Navy has been doing the same thing all along.
+240|You've been in this organization a long time, right, Vice-Admiral?
+241|Have you always ignored...
+242|these enraged screams?
+243|They're not crying. They're furious!
+244|Do you think the World Government...
+245|are gods?!
+246|You will obey my decision.
+247|Law and the others are after the Smiles, right?
+248|Hey, Doffy, shouldn't we protect the factory?
+249|The Land Where The Royal Palace Is (The Sunflower Field)
+250|They'll never get in anyway. It's made of Sea Stone.
+251|And I've got the keys right here.
+252|Young master?!
+253|Are you sure?!
+254|Why give the enemy hope?
+255|How weak you are. You couldn't even protect one little girl,
+256|Trebol.
+257|Shut up, old G-zer! She's not really a little girl, you know!
+258|Hey, hey, Doffy!
+259|I'm really sorry about Sugar.
+260|How could I have known that a man with both arms and legs tied could make her faint?
+261|It was inconceivable!
+262|It's the same with the Flame Fruit.
+263|I had no idea that the Revolutionary Army's second-in-command was fighting in the tournament.
+264|It was inconceivable!
+265|No excuses, you disgraceful fools!
+266|G, for disGraceful!
+267|It's in the past.
+268|Blaming you won't change anything.
+269|Right? Our boss is the best!
+270|Take that, Lao G!
+271|If you insist, I will accept your forgiveness.
+272|But Doffy, now the Navy will give us trouble.
+273|What should we do about Fujitora?
+274|I've settled matters with him. The Navy won't go after us.
+275|But once Fujitora's use runs out,
+276|we'll have to get rid of him.
+277|To completely eliminate the system of the Seven Warlords of the Sea.
+278|Nothing good will come from letting him live.
+279|Though, getting rid of him won't be easy.
+280|The Navy and the pirates...
+281|You could just let me go all out...
+282|That voice!
+283|It's so...
+284|... and I could wipe them all out on my own!
+285|Donquixote Family Top Commander Pica♠
+286|His voice is so high!
+287|How can that voice be coming out of that body?
+288|I can't... I just can't get used to that voice!
+289|But if I so much as giggle, I'm dead!
+290|There's no need to rush.
+291|Now listen. This game is something of a royal election.
+292|I have asked the populace if the Rikus or the Donquixotes are more fit to rule the country.
+293|The citizens will choose their king. They have that right.
+294|We simply crush the ones who come for us, and enjoy watching the rest kill each other.
+295|But that'll take forever!
+296|Doffy, I-
+297|I-I'm so sorry, Pica-sama!
+298|Please forgive him. He's new!
+299|He just wasn't expecting you to sound so...
+300|I'm sorry! I'm so sorry!
+301|You're getting buried alive in stone!
+302|Wait, Pica-sama!
+303|Gatling Girl!
+304|If you kill him, there won't even be a corpse left!
+305|His family wouldn't appreciate that.
+306|I'm sorry, Baby 5.
+307|My mother died when I was eight.
+308|I killed my father when I was ten.
+309|My commanders are my family, who've been with me through thick and thin for many years.
+310|They're the only ones I have.
+311|I will never allow anyone to laugh at my family. Do you understand?
+312|Y-Yes, Sir!
+313|Restrain everyone you find running wild!
+314|Find the Straw Hats and Trafalgar Law!
+315|Yes, Sir!
+316|It looks like the Navy has no intention of fighting us -in.
+317|So they still insist on treating the young master like a Warlord.
+318|Doesn't that seem a bit too thoughtful?
+319|They must be scared of the bird cage too!
+320|Anyway, I can't believe that pervert had the strength to run away.
+321|Where did he go?
+322|That's gotta be the Smile factory.
+323|It's sticking out like a sore thumb. It's like it wants to get hit by my beam!
+324|A balloon's falling down -in.
+325|A balloon?
+326|Law!
+327|You've got some nerve showing your face here, you little brat!
+328|Big Bro Law? I'd almost forgotten you existed.
+329|Straw Hat Luffy!
+330|Trafalgar Law!
+331|The Pirate Hunter!
+332|This is one hell of a place to land!
+333|Straw Hat! Once I'm free, I'm killing you first!
+334|We'd be in trouble no matter where we landed.
+335|This entire country is our enemy.
+336|Anyway, let's run!
+337|Yeah!
+338|After them!
+339|Zoro, not that way!
+340|This isn't the right way either, Straw Hat!
+341|Outlaws!
+342|There are two three-stars and a two-star!
+343|He got me! This weird guy just swam in the ground!
+344|Now, Vise!
+345|Run! He's a super-weight man!
+346|Dammit! Let go of my legs!
+347|Ton-Ton! Ten-Ton Vise!
+348|I can't get free! My legs are stuck!
+349|I won't miss this time!
+350|Pistol High-Heel!
+351|Heavy!
+352|Ow!
+353|Alright! My feet are free!
+354|Keep it together! Now let's move!
+355|We'll be taking your combined bounty of eight hundred million!
+356|Prepare yourselves!
+357|Fire!
+358|Three-stars and a two-star!
+359|This is such a pain! Should we really cut them down?
+360|There are civilians in there!
+361|Alright, I'll use my Haki to...
+362|Cease this.
+363|No matter how many weak bullets you fire, you won't hit them.
+364|A Navy Admiral...
+365|The old gambler!
+366|Usopp, the five-star, is in the Colosseum!
+367|There he is! After him!
+368|Get him!
+369|Just leave me alone already!
+370|With this altered geography, the Colosseum wall is pushed up against the royal grounds.
+371|We can climb up there to meet with the others.
+372|I found them!
+373|Rebecca, go on ahead.
+374|Robin-san!
+375|You're mine!
+376|Bartolomeo!
+377|I'm so honored to have you address me by name, Robin-senpai!
+378|I-I'll stop the enemies here.
+379|Go on ahead with Sogeking-senpai.
+380|Thank you.
+381|Robin-senpai thanked me!
+382|Now I'm really fired up! I ain't letting anyone chase you any further!
+383|What is he planning to do now?
+384|I-It's happening again!
+385|I-It can't be...
+386|That's...
+387|He's finally...
+388|Once that guy shows up, it's all over!
+389|Nobody can fight him!
+390|What the hell is that?!
+391|A giant...
+392|He's way too big!
+393|That's...
+394|Pica!
+395|Pica-sama!
+396|Now, everyone who dares to oppose our family...
+397|I will take you on!
+398|That voice! It's so high!
+399|Oh, come on!
+400|It doesn't fit him at all!
+401|What a weird voice!
+402|Straw Hat!

@@ -1,0 +1,415 @@
+1|Kiếm của ngươi đã bao giờ bị gãy chưa?
+2|Hả?
+3|Ừ, chắc cũng vài lần rồi.
+4|Kể cả do ông.
+5|Nếu được bọc Haki,
+6|thanh kiếm đó đã không vỡ vụn.
+7|Chỉ một vết mẻ nhỏ trên lưỡi kiếm cũng là nỗi nhục của ngươi.
+8|Thanh kiếm nào cũng có thể thành Hắc Kiếm.
+9|Chưa thành thạo thì cấm uống rượu.
+10|Hả?!
+11|Không một vết mẻ.
+12|Phía sau Cao nguyên Hoàng gia cũ
+13|Có ai bị thương không?
+14|Không, thưa ngài. Tất cả là nhờ ngài, Isshou-san.
+15|Nhờ ngài nhấc tạm những tảng đá lên nên không có thương vong.
+16|May là chúng ta đã lập vùng sơ tán ở khu trung tâm rồi.
+17|Làm tốt lắm.
+18|Thị trấn cảng Acacia
+19|Mọi người thấy không?!
+20|Bức tượng khổng lồ đó bị chém đôi gọn gàng!
+21|Vậy là tên cán bộ cấp cao bị hạ rồi sao?
+22|Cao nguyên Hoàng cung
+23|Pica-sama gục rồi!
+24|Mạnh cỡ đó mà lại không tham gia giải đấu?
+25|Đúng là khiêm tốn.
+26|Sức mạnh cỡ đó mà chỉ là thuộc hạ của cháu trai Garp thôi sao?
+27|Hắn giỏi thật!
+28|Cuối cùng cũng bảo vệ được Vua Riku nên ta bỏ qua. Nhưng mà...
+29|Nhà máy...!
+30|Cái nhà máy trồi lên từ mặt đất nổ tung rồi!
+31|Chuyện gì đang xảy ra vậy?!
+32|Bên trong nhà máy SMILE
+33|Thêm lần nữa!
+34|Yeah!
+35|Hò dô ta!
+36|Đập nát cái nhà máy đã hành hạ chúng ta!
+37|Chúng ta sẽ không bao giờ bị lừa hay bị bắt làm việc nữa!
+38|Này này! Pica bị hạ rồi, nhà máy cũng vừa nổ tung đấy, Doffy.
+39|Nhưng kẻ bại trận sẽ được hồi phục. Nhà máy cũng sẽ được phục hồi.
+40|Cứ ăn mừng khi còn có thể đi!
+41|Ta vẫn còn người dùng Trái Chữa Lành, Mansherry, ở phe ta!
+42|Rebecca-sama!
+43|Robiland!
+44|Mọi người không sao chứ?
+45|Tầng thứ tư bên ngoài Hoàng cung - Cánh đồng hoa hướng dương
+46|Chỉ huy! Ngài là Chỉ huy Kyros, phải không?
+47|Đúng rồi! Cậu cứu được công chúa rồi à, Leo!
+48|Trông ngài oai phong quá! Giống hệt bức tượng!
+49|Ngược lại mới đúng.
+50|Ôi, ngài bị thương nặng quá. Để tôi chữa cho ngài ngay.
+51|Khoan, đợi đã.
+52|Cô hẳn là công chúa Mansherry.
+53|Tôi đã nghe nhiều về năng lực của cô, nhưng chắc nó cũng có giới hạn.
+54|Đừng dùng nó cho tôi.
+55|Nhưng ngài chảy máu khắp người kìa!
+56|Tôi ổn. Tôi vẫn còn tỉnh táo.
+57|Quan trọng hơn, tôi mừng vì cô không sao. Chắc cô đã khổ lắm.
+58|Nếu cô sẵn lòng dùng năng lực, khắp đất nước này có rất nhiều người đang cần nó!
+59|Hả? Đây là...
+60|Đây là Dressrosa sao?
+61|Leo và mọi người đã kể tình hình cho tôi,
+62|nhưng tôi không ngờ lại tệ đến mức này...
+63|Dù vậy, có vẻ họ đã phá hủy được nhà máy.
+64|Trận chiến đã đến hồi quyết định!
+65|Đất nước này đã bị Doflamingo giam cầm.
+66|Liệu ta có thể trả nó về tay Vua Riku...
+67|hay sẽ lại sụp đổ và trở thành vùng đất tuyệt vọng...
+68|Hy vọng của chúng ta giờ đặt cả vào một băng hải tặc!
+69|Hải tặc sao?
+70|Trong Hoàng cung...
+71|Ở tầng trên cùng...
+72|Luffyland... Lawland...
+73|Hai người đó là hy vọng cuối cùng của chúng ta.
+74|Luffy... Traf-kun...
+75|Lucy...
+76|Bên dưới Hoàng cung - Trong tháp tường thành
+77|Tôi vừa vào tháp tường thành.
+78|Có vẻ sắp có chuyện chẳng lành.
+79|Sabo-kun, cậu tới đây được không? Cậu đang ở đâu?
+80|Tôi đang giúp tù nhân bị nhốt thoát khỏi Đấu trường.
+81|Cậu ở xa quá.
+82|Cô một mình cũng lo được gần hết mọi chuyện mà, đúng không?
+83|Nếu tự lo được thì tôi đã chẳng gọi cậu! Chuyện này có thể ảnh hưởng tới Luffy-kun đấy!
+84|Tôi tới ngay!
+85|Thật tình!
+86|Cao nguyên Hoàng gia cũ
+87|Zoro! Cậu cần giúp không?
+88|Tôi ổn! Không trầy chút nào!
+89|Zoro, cảm ơn cậu! Tôi tưởng mình tiêu rồi chứ!
+90|Zoro-dono, làm tốt lắm!
+91|Hải tặc, cảm ơn cháu!
+92|Thấy cháu dùng kiếm chém đôi bức tượng khổng lồ, ta suýt không tin vào mắt mình!
+93|Khoan đã, mọi người!
+94|Để dành ăn mừng tới khi cái lồng ngột ngạt đó biến mất đã!
+95|Nó vẫn còn đó, nghĩa là kẻ chủ chốt vẫn chưa bị hạ.
+96|Hoàng cung
+97|Tầng một
+98|Dừng lại đi, Bellamy!
+99|Dừng lại!
+100|Tên khốn đó không đáng để cậu liều mạng đâu!
+101|Chuyện đó để tôi quyết!
+102|Người cậu đã tơi tả lắm rồi...
+103|Nếu cứ đánh tiếp, cậu sẽ chết thật đấy!
+104|Dù có chết, nếu hạ được cậu...
+105|thì ít ra Doflamingo cũng sẽ nhớ đến tôi một chút!
+106|Hắn bảo đã trả tự do cho cậu, nhưng...
+107|Đủ rồi, Bellamy. Ta trả tự do cho ngươi.
+108|Cứ như trước giờ vẫn vậy.
+109|...cậu không bỏ chạy, giờ lại liều chết đánh với tôi...
+110|Hắn chắc chắn biết cậu sẽ làm thế.
+111|Tất nhiên là biết! Nhưng thì sao chứ?!
+112|Tôi kính trọng ngài ấy!
+113|Nếu ít ra chết theo cách khiến ngài ấy ấn tượng...
+114|thì tôi cũng mãn nguyện!
+115|Đừng nói dối! Đây là con đường duy nhất cậu còn lại, đúng không?!
+116|Vì cậu là đàn ông!
+117|Đã hiểu đến thế thì im miệng mà đánh đi!
+118|Nhưng cậu sẽ chết vô ích!
+119|Không, đây là điều tôi muốn.
+120|Nếu đã phải chết, thì phải là...
+121|...dưới tay một người đàn ông khác mà tôi ngưỡng mộ!
+122|Cậu định đi đâu hả, Mũ Rơm?!
+123|Lên trời!
+124|Cậu nói gì vậy?! Bellamy đã thay đổi rồi!
+125|Cậu đã thay đổi, Bellamy.
+126|Cậu là bạn tôi!
+127|Cảm ơn cậu, Mũ Rơm!
+128|Mũ Rơm!
+129|Nếu cậu nhất quyết không đánh với tôi...
+130|thì tôi sẽ...
+131|...giết cậu!
+132|Sao cứ đứng đó?! Giơ tay lên, đồ hèn!
+133|Nếu cậu biết ra đòn ấy!
+134|Chết đi!
+135|Vĩnh biệt, Mũ Rơm!
+136|Cảm ơn cậu đã gọi tôi là bạn!
+137|Giờ tôi hiểu rồi!
+138|Tôi đã ngưỡng mộ nhầm người! Và tôi thảm hại đến mức nào!
+139|Tôi biết mình là thằng ngốc...
+140|nhưng thằng ngốc cũng có nguyên tắc phải giữ!
+141|Doflamingo!
+142|Con thú đang gầm lên kìa.
+143|Hắn nên mau lên đây đi.
+144|Chắc chắn hắn sẽ bất ngờ lắm, Law...
+145|khi thấy cái xác của ngươi.
+146|Vài phút trước
+147|Hoàng cung
+148|Pháo Dính!
+149|Hắn vẫn còn sống.
+150|Này này này, Law. Sao không chịu thua luôn đi?
+151|Ngươi nên nghỉ ngơi đi, Law.
+152|Một mình ta ngươi còn chẳng phải đối thủ.
+153|Sao lại muốn thách đấu cả hai bọn ta cùng lúc?
+154|Mũ Rơm không lên đây dễ vậy đâu.
+155|Nếu hắn đủ gan giết ngay "bạn" mình,
+156|thì có lẽ đã cứu được ngươi, nhưng...
+157|Hắn đúng là một tên ngốc ngây thơ!
+158|Sinh ra trong địa ngục Thị trấn Trắng...
+159|Trải qua cả tuổi thơ không chút hy vọng gì vào tương lai...
+160|Nhưng rồi ngươi gặp em trai ta, Corazón.
+161|Nó kéo dài tuổi thọ cho ngươi,
+162|còn ngươi thì cứ căm hận ta, như thể là bóng ma của nó...
+163|Sống chỉ để báo thù, đúng là một nỗi ám ảnh đáng kinh ngạc!
+164|Thế nhưng...
+165|mọi chuyện kết thúc tại đây.
+166|Mười ba năm phí hoài.
+167|Ta thấy tội cho ngươi.
+168|Cái chết của ngươi là không tránh khỏi.
+169|Ngươi sẽ chết một cái chết hoàn toàn vô nghĩa!
+170|Nhưng nếu đằng nào cũng chết...
+171|Chẳng phải ngươi muốn cái chết ấy có ý nghĩa sao?
+172|Ta có một ý này đôi bên cùng có lợi.
+173|Ta chỉ nói một lần thôi, nên nghe cho kỹ, Trafalgar D. Water Law.
+174|Hãy thực hiện tuyệt kỹ tối thượng của Trái Phẫu Thuật lên ta... Ca phẫu thuật Trường Sinh Bất Lão... rồi chết đi.
+175|Đổi lại, ta sẽ ban cho ngươi bất cứ điều ước nào.
+176|Bất cứ điều gì?
+177|Nếu mày nói thật...
+178|thì đúng là ý hay. Đôi bên cùng có lợi.
+179|Được, tao đồng ý!
+180|Ngươi biết điều đấy! Cuối cùng Doffy cũng sẽ có được sự sống vĩnh cửu!
+181|Vậy thì...
+182|Hồi sinh Cora-san ngay bây giờ đi!
+183|Xong rồi thì đi liếm giày từng người dân nước này đi!
+184|"Không phải đối thủ" của mày? "Đặt hy vọng cũng vô ích"?
+185|Đừng làm tao buồn cười!
+186|Mày mới là kẻ không nhìn ra toàn cục, Doflamingo!
+187|Băng Mũ Rơm đã tạo ra đủ loại kỳ tích rồi.
+188|Mày không thắng nổi Mũ Rơm-ya đâu!
+189|Mày cũng không đòi lại được Caesar từ cậu ta đâu!
+190|Law, sao ngươi dám nói thế với Doffy!
+191|Chính tương lai của ngươi mới đang treo trên sợi chỉ-
+192|Dòng chữ "Corazón" trên lưng ngươi?
+193|Ngươi định chế nhạo ta à?
+194|Rồi còn cái tên băng của ngươi, "băng hải tặc Heart"!
+195|Ngươi định chế nhạo ta sao?!
+196|Ngươi còn chẳng thèm ngồi vào ghế Heart.
+197|Vậy sao lại mang biểu tượng Heart hả?!
+198|Law!
+199|Ngứa mắt thật!
+200|Law, Corazón... Thế là hết.
+201|Chẳng còn ai tiếp nối sự cố chấp lố bịch của các ngươi nữa!
+202|Lời nguyền các ngươi giáng lên ta đã bị phá vỡ!
+203|Hiện tại
+204|Cao nguyên Hoàng gia cũ
+205|Mũ Rơm vừa hạ Bellamy.
+206|Vậy là gia tộc Donquixote còn lại hai kẻ thù lớn.
+207|Chỉ còn cán bộ cấp cao kiêm tham mưu trưởng Trébol,
+208|và thủ lĩnh gia tộc, Donquixote Doflamingo!
+209|Không thể nào!
+210|Có chuyện gì vậy, Viola-sama?
+211|Viola?
+212|Phe ta cũng mất người rồi!
+213|"Phe ta"? Ý cô là có người bên ta bị hạ sao?
+214|Trafalgar Law!
+215|Bệ hạ?
+216|Trong tình thế không lúc nào được lơ là,
+217|việc giữ an toàn cho người dân lại càng quan trọng.
+218|Rõ, thưa ngài! Đi thôi!
+219|T-Tôi cũng đi!
+220|Tôi cũng đi với các anh!
+221|Tôi cũng vậy!
+222|Được! Xuống thành phố ngay thôi!
+223|Vẫn chưa muộn để giảm bớt thương vong!
+224|Phải! Dù không chiến đấu được, chúng ta vẫn còn việc để làm!
+225|Phải! Đi thôi!
+226|Giờ thì, việc duy nhất còn lại là...
+227|...chấm dứt...
+228|...tất cả.
+229|Doflamingo!
+230|Ngươi tới muộn rồi, Mũ Rơm.
+231|Giờ ta đã giải phóng hắn,
+232|Bellamy đã được "tự do" rồi, đúng không?
+233|Đừng giả ngu! Mày biết thừa...
+234|...là cậu ta sẽ không bỏ chạy!
+235|Cao Su...
+236|Súng Voi!
+237|Mạng Nhện!
+238|Ra vậy. Vậy là Bellamy không bỏ chạy.
+239|Có gì đáng cười hả?!
+240|Cao Su...
+241|Gatling Diều Hâu!
+242|Break White!
+243|Nguy hiểm thật!
+244|Này, Traf! Sao cậu chảy máu nhiều vậy?
+245|Tay cậu bị sao thế?
+246|Này!
+247|Tỉnh lại đi, Traf! Này!
+248|Traf!
+249|Hắn chết rồi. Hiển nhiên thôi.
+250|Không phải!
+251|Phải đấy.
+252|Hắn có vẻ cũng rất tin tưởng ngươi.
+253|Hắn bảo ngươi có thể tạo ra kỳ tích. Thật vậy sao, Mũ Rơm?
+254|Lúc đấu với ngươi, ta đâu thấy ngươi mạnh đến thế...
+255|Nào, lên đi! Chỉ còn hai ta thôi.
+256|Lũ khốn tụi mày dám...!
+257|Khoan! Cứ đứng yên đó!
+258|Không thể nào...
+259|Bức tường chỉ...
+260|...đang thu hẹp lại!
+261|Ta sẽ cho ngươi theo Law xuống mồ ngay thôi.
+262|Kết thúc trò chơi này nhé?
+263|Mingo!
+264|Khoan.
+265|Nghe kỹ đây, Mũ Rơm-ya.
+266|Nhìn kìa!
+267|Nó đang di chuyển thật.
+268|Bức tường chỉ đang di chuyển!
+269|Chạy mau!
+270|Ngay cả ngoại ô cũng không an toàn!
+271|Mau chạy đi!
+272|Vào khu trung tâm!
+273|Phía tây cũng vậy!
+274|Báo cáo! Quận phía đông, Carta!
+275|Theo các báo cáo khác, Lồng Chim có vẻ đang thu hẹp lại!
+276|Dân trên đảo đều đang đổ về khu trung tâm!
+277|Hoàng cung
+278|Sớm hay muộn...
+279|ai rồi cũng phải chết, đúng chứ?
+280|Mũ Rơm, ngươi chưa nhận ra sao?
+281|Luật chơi đã thay đổi rồi.
+282|Trò chơi? Mày lại nói cái gì thế hả?!
+283|Cứ nghe đi.
+284|Lồng Chim bao quanh thị trấn này đang thu hẹp lại, từng chút một.
+285|Như một chiếc ô đang từ từ khép lại.
+286|Nó sẽ cắt nát mọi thứ trên đất nước này.
+287|Trong khoảng...
+288|một tiếng nữa, xê xích chút ít.
+289|Không còn chỗ nào để chạy đâu.
+290|Cứu người dân ở rìa đất nước, nhanh lên!
+291|Rõ!
+292|Người dân yếu thế đã được sơ tán ra rìa thành phố, mau đi đón họ!
+293|Chạy vào trung tâm thị trấn!
+294|Chạy đi! Chỉ tới rồi kìa!
+295|Này! Ai đó, cứu tôi với!
+296|Chỉ cần gỡ chân tôi ra thôi!
+297|Cởi trói cho tôi! Tôi không muốn chết!
+298|L-L-Lồng Chim đang thu hẹp sao?!
+299|Cao nguyên Hoàng gia cũ
+300|Chuyện gì thế này?! Lồng Chim... Lồng Chim...
+301|Chuyện này là thật sao?
+302|Trời đất...
+303|Làm sao đây?! Ta làm được gì đây?!
+304|Này, Zoro!
+305|Cái lồng đang tiến về phía mình! Bọn mình sẽ ra sao đây?!
+306|Vừa mới thoát khỏi song sắt, giờ lại bị nhốt lần nữa sao?
+307|Bọn mình chạy đi đâu bây giờ?!
+308|Sao hắn có thể đê tiện đến thế?
+309|Ngươi vẫn chưa thỏa mãn sao, Doflamingo?
+310|Nếu cái lồng cứ thu hẹp thế này...
+311|thì Dressrosa tiêu rồi!
+312|Khuôn viên Hoàng cung - Tầng hai
+313|Khói với tiếng ầm ầm gì vậy?
+314|Chuyện quái gì đang xảy ra vậy?!
+315|Luffy, nhanh lên! Đá đít Doflamingo đi!
+316|Cậu là hy vọng cuối cùng của bọn tôi!
+317|Đúng vậy! Quả thế! Chắc chắn rồi!
+318|Nhưng như thế là đòi hỏi quá nhiều. Mạng sống của mọi người nằm trong tay Luffy-dono.
+319|Chúng tôi trông cậy vào các hạ, Luffy-dono!
+320|Ta cũng trông cậy vào ngươi!
+321|Ta không định tha cho ai cả.
+322|Để những kẻ đã biết bí mật của đất nước này sống sót thì ta được lợi gì?
+323|Thị trấn, con người, thú vật...
+324|Kể cả đồng đội của ngươi...
+325|Và cả ngươi nữa! Tất cả đều phải chết!
+326|Nói cách khác, bạn ngươi chỉ chết sớm hơn một chút thôi.
+327|Đúng không, Mũ Rơm-ya?
+328|Chẳng phải hắn từng gọi ngươi như thế sao?
+329|À, ngươi không cần lo đâu.
+330|Ta sẽ xây một đất nước khác.
+331|Mingo, tao chỉ cần đập mày một trận là xong chuyện!
+332|Ta đã nói mãi rồi, ngươi không làm được đâu.
+333|Đúng là không biết rút kinh nghiệm!
+334|Đạn Chỉ!
+335|Cao Su...
+336|Theo Law xuống mồ đi!
+337|Chambres!
+338|Law!
+339|Kẻ phải chết là mày, Doflamingo!
+340|Làm đi!
+341|Ca phẫu thuật này sẽ hủy diệt mày từ bên trong!
+342|Gamma Knife!
+343|Doffy!
+344|Law! Sao ngươi vẫn còn sống?!
+345|Sao ngươi dùng được năng lực Phẫu Thuật mà không tạo Room?!
+346|Không, đây chính là Room!
+347|Đổi bằng một phần tuổi thọ, tao đã tạo ra một Room lớn đến mức mày không thấy được!
+348|Cái gì?!
+349|Tao làm tất cả vì khoảnh khắc này... để giăng sẵn đòn này!
+350|Hắn bắn trượt chỗ hiểm của tôi!
+351|Chambres!
+352|Mingo!
+353|Khoan.
+354|Tôi còn sống.
+355|Nghe kỹ đây, Mũ Rơm-ya.
+356|Đừng quay lại. Tôi có kế hoạch.
+357|Không ai đỡ được đòn tấn công từ bên trong cơ thể!
+358|Ngay cả mày cũng không chống lại được chiêu này!
+359|Doffy, ngài là vua đấy! Đừng có quỳ rạp xuống!
+360|Lần này thì ngươi to chuyện rồi!
+361|Vô ích thôi!
+362|Dù có giết được ta, ngươi cũng đã muộn rồi!
+363|Tao sẽ không để mày sống...
+364|Law!
+365|Cao Su...
+366|Dậm Phản Lực!
+367|Doffy!
+368|Doffy! Ngài không sao chứ?
+369|Thằng khốn!
+370|Khoan, Mũ Rơm-ya!
+371|Traf...
+372|Tên khốn đó... là của tôi!
+373|Room!
+374|Mày tiêu rồi, Doflamingo!
+375|Law!
+376|Khốn kiếp! Ngươi đã làm gì Doffy hả?!
+377|Đừng cản đường cậu ấy!
+378|Mày chỉ...
+379|...gom những kẻ có ích cho mày rồi gọi đó là "gia đình".
+380|Và khi em trai ruột của mày, Cora-san, cố ngăn mày lại, mày...
+381|Hắn thoát ra rồi!
+382|Phải, chuyện đó thật đáng tiếc...
+383|Nó phản bội ta... còn chĩa súng vào ta...
+384|Nhưng mày biết!
+385|Mày biết Cora-san không thể bóp cò!
+386|Còn ta thì sẽ bóp.
+387|Tao biết thừa là mày sẽ bóp.
+388|Ngươi giống ta.
+389|Tôi muốn phá hủy mọi thứ trước mắt!
+390|Thị trấn, nhà cửa, con người... Tôi muốn phá hủy hết!
+391|Ừ... Thế thì được thôi.
+392|Nhưng vào ngày hôm đó...
+393|Kẻ đáng chết là mày, không phải anh ấy!
+394|Law, chắc ngươi sẽ thích nghe điều này...
+395|Corazón là gánh nặng và cái gai trong mắt ta.
+396|Nó ôm thứ công lý ngớ ngẩn và cứ phơi cái trái tim vô dụng đó ra.
+397|Nó là một kẻ bất tài.
+398|Ngày ta giết nó, ta như trút được gánh nặng-
+399|Counter Shock!
+400|Xuống địa ngục đi, thằng quỷ khốn kiếp!
+401|Doffy!
+402|Đúng là vua của chúng ta!
+403|S-Sao lại...
+404|Chỉ cần đủ thời gian, ta có thể tự chữa cho mình.
+405|Ngay lúc này, những sợi chỉ trong người ta đang vá lại nội tạng.
+406|Cái gì?!
+407|Tất cả nằm ở cách dùng năng lực.
+408|Dù nó hơi khác với hồi phục.
+409|Đòn tự sát khá lắm.
+410|Xích Dính!
+411|Dừng lại!
+412|Gậy Dính!
+413|Ta sẽ giúp ngươi khỏi đau khổ. Coi như là ân huệ cuối.
+414|Chết tiệt!
+415|Chết tiệt...

@@ -1,0 +1,574 @@
+1|Này! Viện binh ở cảng phía đông đâu rồi?!
+2|Thưa ngài!
+3|Chuyện là, phần lớn các đơn vị đã mất khả năng chiến đấu...
+4|Ý ngươi là sao?
+5|Đạn và thuốc súng trong súng trường biến mất hết rồi!
+6|Còn mọi vũ khí khác - kiếm, súng lục, rìu, giáo và dao...
+7|...cũng mất sạch!
+8|Chắc chắn đã bị trộm.
+9|Còn ở cảng,
+10|các tàu chiến dính chặt vào nhau như bị khâu lại,
+11|nên không ra khơi được!
+12|Khâu sắt kiểu gì được chứ?!
+13|Cắt chỉ đi! Cắt đi!
+14|Nhưng bọn tôi chẳng còn con dao nào!
+15|Trong khi đó, những binh lính đột nhiên gục xuống vẫn còn tê liệt...
+16|Lũ vô dụng các ngươi làm cái gì vậy hả?!
+17|Tôi xin lỗi, thưa ngài!
+18|Lối vào cảng phía đông
+19|Vậy các ngươi định để băng Mũ Rơm và đám tội phạm kia đi mất à?!
+20|Làm gì đi chứ!
+21|C-Chúng tôi sẽ cố hết sức, thưa ngài!
+22|Hôm nay lấy nhiều năng lực hồi phục của họ thế này có ổn thật không, Mousey?
+23|Lấy nhiều quá thì người hiến sẽ bị tê liệt mất.
+24|Không sao, chúng ta được phép rồi!
+25|Kyros-sama cho phép đấy.
+26|Cứ làm theo lời tôi đi, Công chúa!
+27|Được! Vậy tôi sẽ không ngần ngại nữa!
+28|Vẫn còn rất nhiều người bị thương nặng!
+29|Biết là cô đang nhận hiến tặng, nhưng bọn tôi phải đi...
+30|Sắp xong rồi ạ!
+31|Ồ, vậy tôi chờ!
+32|Theo người dân địa phương,
+33|mấy chuyện kỳ lạ này đều do các nàng tiên gây ra.
+34|Tiên với chả tiếc cái gì, đồ ngu!
+35|T-T-T-Tôi xin lỗi, thưa ngài!
+36|B-Barrier!
+37|Barrier của cậu có cản nổi ông ta không vậy?!
+38|Phá được thì đâu gọi là Barrier!
+39|Cầm chân ông ta tới khi Luffy-senpai và Trafalgar tới là được!
+40|Rõ!
+41|Họ đang đánh nhau à?!
+42|Ăn bánh gạo không?
+43|Tôi không ăn. Vào chuyện chính đi.
+44|Một cậu bé mắc bệnh Chì Trắng sao?!
+45|Vậy là Thị trấn Trắng vẫn còn người sống sót?!
+46|Cậu bé căm ghét mọi thứ trên đời.
+47|Cứ như tôi đang nhìn anh trai mình hồi nhỏ vậy.
+48|Thật tội nghiệp, nhưng bệnh Chì Trắng không có cách chữa.
+49|Đừng dính líu quá sâu, kẻo lộ thân phận đấy.
+50|Vâng. Tôi hiểu rồi.
+51|Tôi ở đây chỉ để ngăn anh trai mình.
+52|Doflamingo là kẻ tàn bạo.
+53|Tôi sẽ không để hắn chạm tới Dressrosa.
+54|Ngày hôm đó, một người lính Hải Quân đã chết.
+55|Gần cảng phía đông
+56|Người lính đó rất đặc biệt với ta.
+57|Ta gặp cậu ấy từ khi còn nhỏ, và coi cậu ấy như con trai mình.
+58|Cậu ấy rất thật thà, và có ý thức công lý mạnh hơn bất kỳ ai ta biết.
+59|Là một thuộc hạ vô cùng đáng tin cậy.
+60|Nhưng cả đời cậu ấy chỉ nói dối ta đúng một lần.
+61|Đội đổ bộ báo cáo.
+62|Trong số người chết có một cán bộ của gia tộc Donquixote.
+63|Mật danh: Corazón.
+64|Đã gửi ảnh. Xin hãy xác nhận.
+65|Rocinante!
+66|Sao cậu lại ở trên hòn đảo đó?!
+67|Ta đã bị phản bội.
+68|Nhưng chắc chắn phải có lý do.
+69|Bốn thứ đã mất trong sự kiện đó:
+70|Băng hải tặc Barrels.
+71|Thuộc hạ của ta.
+72|Trái Ope Ope.
+73|Và người đang sống cùng gia tộc Donquixote lúc đó...
+74|một cậu bé mắc bệnh Chì Trắng!
+75|Ừ.
+76|Là tôi.
+77|Quả nhiên.
+78|Vậy ngươi là lý do Rocinante tạm gác nhiệm vụ suốt nửa năm?
+79|Ừ, ông ấy đưa tôi đi khá nhiều bệnh viện.
+80|Rồi cậu ấy đi cướp Trái Ope Ope,
+81|và hy sinh bản thân để cứu ngươi?
+82|Ta chỉ muốn biết rốt cuộc cậu ấy đã chết vì điều gì.
+83|Ừ, được thôi.
+84|Thật ra, bọn tôi đã định cùng nhau trốn thoát.
+85|Ông ấy đã trả lại cho tôi mạng sống và nhân tính.
+86|Tôi mang ơn ông ấy suốt đời.
+87|Và chỉ vì lý do đó mà tôi sống đến giờ. Tôi muốn thay ông ấy giết Doflamingo!
+88|Nhưng...
+89|tôi không biết đây có phải cách ông ấy muốn tôi sống không, khi mang cái tên "D".
+90|"D"?
+91|Cũng như Mũ Rơm, tôi cũng mang cái tên bí mật đó.
+92|Ông là cựu Thủy sư Đô đốc.
+93|Ông không biết gì về ý nghĩa của "D" sao?
+94|Ai mà biết?
+95|Này, đừng có giả ngu!
+96|Ít nhất thì,
+97|ta biết Rocinante không hề hay biết chuyện đó.
+98|Nói cách khác, đó không phải lý do cậu ấy cứu ngươi.
+99|Đừng đi tìm lý do...
+100|để được ai đó thương!
+101|Ta thương cháu!
+102|Vậy ra ngươi cũng là một trong số đó.
+103|Những kẻ mang tên "D" luôn có cuộc đời bất hạnh.
+104|Nếu ta còn tại ngũ,
+105|ta đã bắt giam ngươi để có thêm thời gian nói chuyện, nhưng...
+106|Trớ trêu thay, người duy nhất ta có thể cùng nhớ về Rocinante lại là ngươi - một tên hải tặc.
+107|Nếu thật muốn làm gì đó để tưởng nhớ cậu ấy, thì cả ngươi và ta...
+108|đừng bao giờ quên cậu ấy.
+109|Thế là đủ rồi. Ngươi cứ sống theo cách ngươi muốn.
+110|Đó là điều...
+111|...cậu ấy sẽ nói.
+112|Cái gì?!
+113|Đây chắc là...
+114|Cái gì, cái gì vậy?!
+115|Ồ, đống đổ nát...
+116|Tránh xa ra!
+117|Chuyện quái gì đang xảy ra vậy?
+118|Mấy tòa nhà đổ nát đang bay lên trời!
+119|Tất cả đá vụn trong nước đang bay về cảng phía đông!
+120|Chuyện quái gì...
+121|đang xảy ra thế này?!
+122|Là việc của thần linh? Hay của loài chim bí ẩn nào đó?
+123|Trên đảo lúc này chỉ có một người làm được chuyện này!
+124|Đây là việc của Đô đốc Hải Quân, Fujitora!
+125|Chà...
+126|Chắc chẳng ai dùng đến mấy thứ này nữa.
+127|Đây là tất cả những gì còn lại sau trận chiến của lũ hải tặc ghê tởm đó!
+128|Đừng nói là ông ta định dùng nó làm vũ khí nhé!
+129|Barrier chỉ che được một vùng nhỏ thì không chống nổi thứ này đâu!
+130|Ông ta điên rồi à?!
+131|Thế thì chơi ăn gian quá!
+132|Chuyện gì đang xảy ra vậy?!
+133|Không có thời gian ngạc nhiên đâu!
+134|Phải đi giúp nhóm ngài Usoland!
+135|Ông ta định dùng thứ đó hạ bọn hải tặc sao?
+136|Không ai sống sót nổi đâu!
+137|Không thể tin được!
+138|Vậy là kế hoạch tẩu thoát của họ thất bại rồi sao?!
+139|Lucy!
+140|Phó Đô đốc Bastille.
+141|Bastille!
+142|Hả? Ồ, ồ, Tsuru-san!
+143|Tôi thành thật xin lỗi.
+144|Tôi không tin nổi vào mắt mình nên...
+145|Vẫn cần... viện binh chứ?
+146|Không ạ!
+147|Toàn bộ đơn vị Hải Quân!
+148|Phía đông không cần viện binh nữa!
+149|Toàn bộ đơn vị, rút khỏi cảng phía đông!
+150|Sơ tán toàn bộ nhân sự và đưa dân thường đến nơi an toàn!
+151|Đừng cản trở Isshou-san... à, Đô đốc Hải Quân!
+152|Này, mọi người!
+153|Ở đâu cũng nguy hiểm cả! Mau tới cảng rồi ra khơi!
+154|Rõ, Trafal...
+155|Á!
+156|Law!
+157|Bọn tôi đợi cậu với Mũ Rơm mãi! Hai người đi đâu vậy hả?!
+158|Mọi người, lên tàu! Chuẩn bị nhổ neo!
+159|Rõ!
+160|Đằng kia! Cậu ấy tới rồi!
+161|Luffy!
+162|Luffy-senpai! Nhanh lên!
+163|Mũ Rơm!
+164|Đủ mặt rồi! Chạy lên tàu đi!
+165|Luffy-senpai! Coi chừng Fujitora, ông ta ở ngay đó!
+166|Luffy-senpai, nhanh lên! Né ông ta kiểu gì cũng được!
+167|Né?
+168|Này, ông già cờ bạc! Còn nhớ tôi không?!
+169|Tôi đợi cậu mãi, Mũ Rơm!
+170|Tôi sẽ đấm ông đây!
+171|Gomu Gomu no...
+172|Súng Voi!
+173|Luffy-senpai!
+174|Ông ta là Đô đốc Hải Quân đấy! Anh làm cái gì vậy?!
+175|"Một ngày nào đó sẽ đánh bại họ" giờ không đủ nữa rồi!
+176|Đô đốc Hải Quân thì đã sao, sao tôi phải chạy?!
+177|Hai năm trước thì tôi đã chạy, nhưng giờ thì không!
+178|Dù là Đô đốc Hải Quân hay Tứ Hoàng,
+179|tôi cũng phải đánh bại hết!
+180|Nếu không...
+181|thì tôi không thể thành Vua Hải Tặc được!
+182|Tôi sẽ đấm ông đây!
+183|Gomu Gomu no...
+184|Đạn Diều Hâu!
+185|Lúc này mà cậu ta còn đánh nhau nghiêm túc thế làm gì?
+186|Cậu điên rồi à, Mũ Rơm?!
+187|Có nên giúp không?
+188|Tôi sẽ giẫm ông đây!
+189|Gomu Gomu no...
+190|Rìu Diều Hâu!
+191|Tôi hoàn toàn đồng ý với Luffy,
+192|nhưng sao cậu ấy đánh kỳ cục vậy?
+193|Tôi sẽ đá ông đây!
+194|Ôi chết! Ý tôi là "đấm"!
+195|Xin lỗi nhé, ông già!
+196|Không sao.
+197|Tôi tới đây, ông già!
+198|Tôi sẽ đấm ông đây!
+199|Tôi sẽ đá và đấm ông đây!
+200|Đấm cả một tràng!
+201|Đẩy ông!
+202|Đầu!
+203|Giẫm ông!
+204|Người tôi lúc nhẹ lúc nặng... Chuyện gì vậy?!
+205|Mũ Rơm!
+206|Thế nên tôi mới bảo anh chạy đi, Luffy-senpai!
+207|Tôi sẽ không...
+208|chạy trốn nữa!
+209|Phải. Có vẻ cậu đủ mạnh để nói câu đó.
+210|Tôi thích sự lì lợm của cậu, nhưng...
+211|Tôi sẽ đấm ông đây!
+212|Nãy giờ rốt cuộc cậu đang làm gì vậy?
+213|Báo trước là sẽ "đá" hay "đấm" tôi...
+214|Cậu đang thương hại tôi sao?!
+215|Tôi là Đô đốc Tổng bộ Hải Quân! Ai cũng bảo tôi như quái vật!
+216|Đến tuổi này rồi, tôi không muốn ai nương tay với mình!
+217|Có người mù trên chiến trường làm cậu khó chịu à?!
+218|Nếu cậu muốn chọc giận tôi, thì cậu thành công rồi đấy!
+219|Tôi sẽ chém đầu cậu trước khi cậu kịp nhận ra!
+220|Im đi!
+221|Tôi không thể cứ thế đánh một người mù như ông mà không nói gì được!
+222|Vì tôi không ghét ông, ông già!
+223|Có gì đáng cười chứ?!
+224|Tôi sẽ đá ông đây!
+225|Lòng thương hại của cậu!
+226|Nó có ích gì chứ?
+227|Đấm cả một tràng!
+228|Thật đáng thất vọng! Cậu chẳng hợp lý chút nào!
+229|Tôi sẽ đấm ông...
+230|...bằng tất cả sức lực!
+231|Khi đàn ông chiến đấu,
+232|phải chiến đấu cho đúng với vị thế của mình.
+233|Cậu không được...
+234|thương hại, cũng không được nói thẳng thừng là thích hay ghét người ta như thế!
+235|Cậu đúng là đồ ngốc!
+236|Tôi chiến đấu đúng với vị thế của mình, dù tôi chẳng muốn!
+237|Trọng Lực Đao!
+238|Mãnh Hổ!
+239|Mũ Rơm kia rồi, Hajrudin!
+240|Này! Thả tôi ra, gã khổng lồ!
+241|Đưa cậu ta lên tàu!
+242|Được rồi, Luffy! Đến lượt tôi!
+243|Đừng, đừng! Xin dừng lại, Zoro-senpai!
+244|Bọn tôi sắp xếp hết rồi!
+245|"Sắp xếp"?
+246|Này, cậu bảo có tàu ở cảng, nhưng chắc là đông quá...
+247|Nhìn quanh đi! Chẳng ai muốn neo tàu ở cái cảng nguy hiểm thế này đâu!
+248|Hả?!
+249|Đ-Đây là...
+250|N-Những con tàu xếp thành hàng! Nhiều quá!
+251|Đúng vậy! Tàu của những người khác ở trong sương mù, cách năm cây số phía trước!
+252|Hãy băng qua biển bằng cây cầu nối này, của Đại Hạm đội Yonta Maria chúng tôi!
+253|Này! Tôi vẫn đang đánh mà!
+254|Thả ra!
+255|Thôi đi mà! Tôi xin anh!
+256|Này, thả tôi ra! Tôi muốn đánh!
+257|Để lúc khác. Chúng ta còn việc phải làm.
+258|Đã quá muộn cho cậu rồi, Mũ Rơm.
+259|Cậu thấy sao, Mũ Rơm?
+260|Dù tôi không thấy, tôi biết nó ở ngay trước mắt cậu.
+261|Bầu trời tối đen đang nói rằng cậu không còn đường chạy.
+262|Khi các cậu ra khơi, đá vụn sẽ trút xuống không ngừng.
+263|Cả hạm đội của các cậu sẽ chìm.
+264|Cậu không thấy sao?
+265|Nếu lỡ cậu có thoát khỏi tôi, Tứ Hoàng cũng sẽ ra tay.
+266|Vì đã hạ Joker, cậu sẽ bị nhắm đến để xử tử.
+267|Tương lai của cậu sẽ chẳng khác gì địa ngục.
+268|Cậu có thể thương hại tôi vì tôi mù, nhưng...
+269|là tôi tự chọn.
+270|Tôi tự làm mình mù vì có quá nhiều thứ tôi ước mình chưa từng thấy.
+271|Vậy thì.
+272|Ít nhất hãy để tôi dẫn cậu xuống địa ngục!
+273|Trả Rebecca lại đây, Lucy!
+274|Cậu là anh hùng cơ mà, Lucy?!
+275|Đó là...
+276|Đất nước này đã gây cho cô ấy biết bao đau khổ!
+277|Đừng làm cô ấy khổ thêm nữa!
+278|Bà con, dừng lại!
+279|Phía trước chỉ có tội phạm thôi!
+280|Đừng tiến thêm nữa! Tôi sẽ kết thúc...
+281|Tránh ra, Hải Quân!
+282|Bọn tôi không cần các người giúp!
+283|Bọn tôi sẽ tự đuổi lũ hải tặc!
+284|Gì vậy? Đằng sau ồn ào quá!
+285|Là người dân Dressrosa! Giờ họ muốn gì nữa đây?
+286|Chuẩn bị tinh thần đi, Lucy!
+287|Lucy!
+288|Bọn tôi sẽ bắt được cậu bằng mọi giá!
+289|Cho tàu xuất phát! Đuổi cậu ta ra biển!
+290|Họ...
+291|Lucy!
+292|Đừng hòng thoát, đồ khốn!
+293|Trong giọng họ không có lấy một chút oán hận.
+294|Lucy, đứng lại! Trả Rebecca-sama đây!
+295|Này, mọi người!
+296|Tôi thấy Rebecca-sama ở ngôi nhà trên đỉnh đồi cùng Kyros-sama!
+297|Vậy à? Nhưng ai cũng biết chuyện đó rồi.
+298|Hả?!
+299|Nếu Kyros-sama chịu nhận, họ sẽ ở bên nhau...
+300|vì họ thật sự là cha con mà.
+301|Người lớn bọn tôi đã biết chuyện đó suốt mười sáu năm rồi.
+302|Bọn tôi biết về Scarlett-sama và gia đình ba người của bà ấy,
+303|sống hạnh phúc trên đỉnh đồi.
+304|Bọn tôi cũng biết danh tính thật của các nàng tiên! Ai cũng để mắt trông chừng họ.
+305|Thật sao?
+306|Mà thôi, phải chạy nhanh hơn nữa!
+307|Phải giúp những vị cứu tinh của đất nước trốn thoát!
+308|Nếu bọn mình đi theo Lucy, Fujitora sẽ không thể thả đá vụn xuống được!
+309|Đứng lại, Lucy! Trả Rebecca-sama đây!
+310|Đứng lại, thằng khốn!
+311|Cậu đúng là thật thà quá mức, Luffy Mũ Rơm.
+312|Có vẻ mọi người ở đây đều muốn giúp cậu.
+313|Rốt cuộc cậu là người thế nào?
+314|Tóc cậu màu gì? Mắt cậu ra sao?
+315|Trông cậu thế nào?
+316|Ước gì tôi đã không nhắm đôi mắt này.
+317|Tôi muốn được thấy mặt cậu.
+318|Tôi cá là cậu có gương mặt của người tốt bụng.
+319|Giờ, tôi biết làm gì với thứ vũ khí đã giương lên đây?
+320|Thật xấu hổ quá.
+321|Mũ Rơm, thằng khốn đó!
+322|Mọi giao dịch với Doflamingo giờ thành công cốc hết!
+323|Đừng để hắn rời khỏi Dressrosa!
+324|Nếu Vua Riku đã trở lại ngai vàng,
+325|bọn ta cũng muốn lão trả giá!
+326|Sau khi xóa sổ Luffy Mũ Rơm và đồng bọn...
+327|Bọn ta sẽ tàn phá khắp Dressrosa!
+328|Được rồi! Từ giờ,
+329|hãy lập một hạm đội liên minh dựa trên mối thù chung với Mũ Rơm!
+330|Lấy đầu hắn bằng mọi giá!
+331|Toàn bộ binh lính đã rút lui! Nhưng người dân đang chạy về phía cảng!
+332|Isshou-san đang làm gì vậy?
+333|Cậu ấy định giữ đống đá vụn đó trên trời đến bao giờ?
+334|Chà, nhìn kìa!
+335|Oa, to quá!
+336|Kỳ hạm của Đại Hạm đội Yonta Maria "Yonta Maria"
+337|Đẹp chứ hả?
+338|Có phải tàu của ông đâu!
+339|Phải, nhanh lên tàu đi!
+340|Đang tình trạng khẩn cấp đấy!
+341|Tàu của ta để sau cho xem! Đảm bảo lác mắt luôn!
+342|Mũ Rơm! Ta có bốn người khổng lồ lính đánh thuê làm đồng đội!
+343|Rồi ta muốn cùng họ thống nhất mọi bộ tộc khổng lồ.
+344|Chúng ta sẽ hồi sinh băng Hải tặc Khổng Lồ từng khiến thế giới khiếp sợ!
+345|Băng Hải tặc Khổng Lồ! Đó là thời hoàng kim của sư phụ Dorry và Brogy đấy, Luffy!
+346|Vậy à? Thế thì cậu sẽ là kẻ thù khó nhằn đây!
+347|Chà, chắc sẽ có ngày gặp lại nhau ở đâu đó thôi!
+348|Tôi muốn đến Elbaf!
+349|Đại Hạm đội Yonta Maria của chúng tôi có 56 tàu! Chắc chắn sẽ giúp được các cậu!
+350|Giúp bọn tôi?
+351|Ngài Luffyland, chúng tôi đã được Tộc trưởng Tonta cho phép rồi!
+352|Chúng tôi cũng muốn tham gia!
+353|"Tham gia"?
+354|Đấu tay đôi thì bọn tôi không thua ai,
+355|nhưng chưa đánh với hải tặc thì chưa thể gọi là nhà vô địch!
+356|Nên tôi và Ideo đã hợp sức và quyết định ra khơi!
+357|Này, bọn tôi cũng theo các cậu đấy! Đừng quên bọn tôi nhé, anh em!
+358|Gã này cho tôi gia nhập băng của gã.
+359|Ta làm ơn cho ngươi đấy, nên liệu mà gọi ta là Thuyền trưởng!
+360|Còn ngươi nữa! Đừng quên ta có kinh nghiệm hơn ngươi đấy!
+361|Dù có đi cùng ngươi thì ta vẫn sẽ nổi tiếng nhất!
+362|Mấy người nói gì vậy? Muốn làm gì thì cứ làm thôi!
+363|Chà, thật ra là bọn tôi đã cực kỳ hợp nhau trong hai ngày ở Cung điện!
+364|Hả?
+365|Để tôi giải thích! Nói trước, thứ tự là bốc thăm đấy.
+366|Tội phạm chiến tranh cấp A trong Hải chiến Dias, Suleiman
+367|Quý tộc Hải tặc Cavendish Bạch Mã
+368|Đầu tiên, băng Hải tặc Xinh Đẹp, 75 thành viên!
+369|Đại diện là thuyền trưởng, Cavendish Bạch Mã!
+370|Thuyền trưởng Barto Club, Bartolomeo Kẻ Ăn Thịt Người
+371|Tiếp theo, Barto Club, 56 thành viên!
+372|Thuyền trưởng: Bartolomeo Kẻ Ăn Thịt Người!
+373|Thủ lĩnh đời thứ 13 của Thủy quân Happou, Don Sai
+374|Thủy quân Happou, khoảng 1.000 người!
+375|Và thủ lĩnh đời thứ mười ba...
+376|Don Sai!
+377|Võ sĩ Giao Công Đạo tộc Chân Dài, Blue Gilly
+378|Võ sĩ quyền anh hạng XXX tộc Tay Dài, Ideo
+379|Liên minh Võ thuật Phòng tập XXX, bốn thành viên!
+380|Cựu thợ săn tiền thưởng, Abdullah & Jeet
+381|Đại diện là "Pháo Hủy Diệt" Ideo!
+382|Tộc Người Lùn (Tontatta) Leo
+383|Quân đoàn Tonta của Tontatta, 200 người!
+384|Thủ lĩnh là chiến binh Leo!
+385|Lính đánh thuê khổng lồ, Hajrudin
+386|Hiện mới có năm thành viên,
+387|băng Hải tặc Khổng Lồ tương lai!
+388|Thuyền trưởng: Hajrudin!
+389|Kẻ Thống Trị Thảm Sát Orlumbus
+390|Và còn tôi...
+391|Đề đốc của Đại Hạm đội Yonta Maria, 4.300 người!
+392|Nhà tiên phong kiêm nhà thám hiểm, Orlumbus!
+393|N-Này...
+394|Tổng cộng thành một đại quân khoảng 5.600 người!
+395|Luffy-senpai!
+396|Anh có chịu trao chén rượu kết nghĩa cha con với bảy người đại diện bọn tôi không?
+397|"Cha con"?
+398|Đúng vậy!
+399|Anh làm đại ca, bọn tôi làm đàn em!
+400|Anh có nhận bọn tôi dưới lá cờ băng Mũ Rơm không?
+401|Đại ca
+402|Được rồi, chúng ta sẽ trao chén thề cha con
+403|để tôn Luffy-senpai làm đại ca
+404|và bảy người bọn tôi làm đàn em...
+405|Tôi không uống đâu!
+406|Cái gì?!
+407|Biết ngay mà.
+408|Tôi không thích rượu này lắm.
+409|Không, đâu phải chuyện vị! Là chuyện lời thề!
+410|Từ giờ trở đi, các cậu sẽ bị những kẻ tầm cỡ nhắm tới vì sự kiện trên hòn đảo này!
+411|Khi đó,
+412|dù các cậu mạnh đến đâu, trận chiến cũng sẽ rất gian nan!
+413|Nhưng vì các cậu đã cứu bọn tôi, những lúc đó bọn tôi có thể giúp!
+414|Đúng! Đúng!
+415|Nhưng nếu tôi uống cái này,
+416|tôi sẽ thành đại thuyền trưởng của đại hạm đội này, đúng không?
+417|Đúng vậy.
+418|Với tổng cộng 5.600 thuộc hạ, cậu sẽ được xếp vào hàng hải tặc lớn nhất!
+419|Cậu là người một ngày nào đó sẽ thành Vua Hải Tặc!
+420|Nhưng nếu muốn chinh phục thế giới thì chừng này vẫn chưa đủ đâu.
+421|Thôi đi!
+422|Lập luận đó không có tác dụng với cậu ấy đâu.
+423|Mà thôi, rót cái này vào cốc bia đi.
+424|Tôi sẽ uống.
+425|Đã bảo không phải uống cho ngon mà!
+426|Sao vậy, Mũ Rơm?!
+427|Sao cậu không vui khi gom được lực lượng hùng mạnh thế này?!
+428|Kẻ thù mạnh đến đâu...
+429|cũng không đọ nổi sức mạnh số đông!
+430|Chắc chắn sẽ có ngày cậu cần bọn tôi như bọn tôi đã cần cậu!
+431|Gò bó quá đi!
+432|Cái gì?! Trông cậu ta khó chịu thật!
+433|Mà khoan, đằng sau đang chuẩn bị tiệc à?
+434|Lúc này mà còn nghĩ tới ăn?!
+435|Khốn kiếp, Mũ Rơm!
+436|Ta là ngôi sao, lại kinh nghiệm hơn ngươi, vậy mà ta chịu đứng dưới cờ ngươi đấy!
+437|Ép hắn uống đi!
+438|Ngươi không biết bọn ta mạnh thế nào đâu, tên giải phóng chết tiệt!
+439|Đã là đàn em thì không được nói với cậu ấy như thế!
+440|Đã bảo rồi, tôi chỉ muốn làm Vua Hải Tặc thôi!
+441|Không có nghĩa là tôi muốn làm ông lớn!
+442|Này, cậu ta nói gì vậy?
+443|Rượu này ngon phết.
+444|Dùng chén đi! Mất lịch sự quá!
+445|Ồ! Cho tôi thử! Cho tôi một ít!
+446|Mọi người!
+447|Khi nào thấy gặp nguy, bọn tôi sẽ gọi to,
+448|nên hãy đến cứu nhé!
+449|Tôi đâu cần làm đại ca hay hải tặc vĩ đại gì, đúng không?
+450|Khi các cậu gặp rắc rối, cứ gọi bọn tôi! Bọn tôi sẽ đến giúp bằng mọi giá!
+451|Tôi sẽ không bao giờ quên chúng ta đã cùng nhau đánh Mingo!
+452|Hình như tôi bắt đầu hiểu cậu ấy nói gì,
+453|và Vua Hải Tặc có ý nghĩa thế nào với cậu ấy!
+454|Không phải là làm ông lớn... mà là được tự do!
+455|Chuyện gì vậy?!
+456|--Có kẻ nã pháo vào chúng ta! --Hải Quân à?!
+457|Không thể nào! Tàu chiến của chúng đã bị khâu chặt rồi mà!
+458|Để Columbus chỉ huy đi! Bọn này còn đang bận!
+459|--Dù là ai thì cũng xử lý đi! --Rõ!
+460|Bọn ta biết trên tàu các ngươi có Monkey D. Luffy,
+461|tên tân binh trị giá hơn 100 triệu!
+462|Giao hắn ra đây thì khỏi phải đánh nhau!
+463|Người dân Dressrosa! Quay về đất liền đi!
+464|Nguy hiểm lắm!
+465|Nhưng nếu bọn tôi không ở đây, Fujitora sẽ tấn công!
+466|Bắn trả!
+467|Bắn! Đánh chìm chúng!
+468|Đá vụn chỉ rơi xuống chỗ tàu địch thôi!
+469|Chuyện gì vậy?!
+470|Đây là quà chia tay của tôi dành cho cậu, Mũ Rơm.
+471|Tự do... Tự do... Đó là điều Luffy-senpai muốn...
+472|Nếu vậy thì tôi càng ngưỡng mộ anh hơn, Luffy-senpai!
+473|Tôi cũng vậy!
+474|Này, Bartolomeo! Tuyên thệ đi!
+475|Cậu ấy không cần uống chén của đại ca.
+476|Đúng thế.
+477|Anh muốn làm gì thì làm, bọn tôi cũng vậy.
+478|Anh cũng không thể lấy đi tự do của bọn tôi!
+479|Vậy à?
+480|Luffy-senpai! Cho phép tôi tuyên thệ đôi lời!
+481|Tuyên thệ?
+482|Bắt đầu đây, Luffy-senpai.
+483|Kể từ giờ, bọn tôi trở thành đàn em của Luffy Mũ Rơm-senpai,
+484|và sẽ là khiên, là giáo cho anh dù mưa hay nắng!
+485|Để báo đáp ơn lần này, bảy người bọn tôi sẽ...
+486|...tự nguyện uống chén rượu đàn em này,
+487|dâng hiến cả sinh mạng lẫn linh hồn!
+488|Mấy người làm gì vậy hả?!
+489|Thế là chính thức rồi!
+490|Mau chuẩn bị tiệc đi!
+491|Xong hết rồi!
+492|Mừng Đại Hạm đội Mũ Rơm ra đời với tổng cộng hơn 5.600 người!
+493|Yeah!
+494|Họ cứ làm theo ý mình thôi!
+495|Chén rượu đàn em?! Cái quái gì vậy?!
+496|Đại ca Mũ Rơm! Mong được anh chiếu cố!
+497|Cái gì?!
+498|Này! Tôi đâu có uống đâu nhé?!
+499|Dù chẳng hiểu sao nó cạn rồi!
+500|Trời, ngon thật!
+501|Ừ, thế cũng được!
+502|Với anh thì chẳng có gì thay đổi cả.
+503|Bọn tôi chỉ tự ý thề trung thành với anh thôi.
+504|Và khi anh gặp chuyện, bọn tôi sẽ tự nguyện liều mạng có mặt.
+505|Có bọn tôi anh cũng chẳng mất gì, đúng không?
+506|Giờ thì, sao anh không thử nhớ tên và mặt bọn tôi...
+507|Cưng ơi!
+508|Nhìn này.
+509|Luffy! Món chính là Bít tết Cá Chọi Đấu!
+510|Trông ngon quá!
+511|Này, bẩn quá! Đừng trèo lên đồ ăn!
+512|Này, thôi khóc đi.
+513|Không, tôi không đứng dậy nổi... Cảm động quá...
+514|Leo, bọn tôi sẽ rời cảng rồi mở tiệc.
+515|Các cậu tính sao?
+516|Chúng tôi sẽ dự tiệc!
+517|Rồi sau đó về nhà bằng Yellow Cubs.
+518|Đừng lo cho chúng tôi!
+519|Chúng ta ra khơi à?
+520|Được! Lệnh của đại ca! Giương buồm!
+521|Happo
+522|Phó Đô đốc Bastille! Tôi có báo cáo!
+523|Cuối cùng đá vụn cũng trút xuống rồi hả?
+524|Mũ Rơm và đồng bọn bị quét sạch chưa?!
+525|Chưa ạ, tất cả đều trượt mục tiêu!
+526|Ý ngươi là sao-dara?!
+527|Mưa đá vụn, rồi trời quang.
+528|Ngày hôm đó, ngoài khơi Dressrosa ghi nhận một kiểu thời tiết vô cùng bất thường.
+529|Thật ra tôi chẳng có tư cách gì truy đuổi các cậu.
+530|Không nên nói to chuyện này nhưng...
+531|...cảm ơn các cậu rất nhiều vì đã dọn dẹp mớ hỗn độn của Chính phủ!
+532|Nghe thấy rồi đấy!
+533|Được rồi, mọi người!
+534|Trong trận chiến với gia tộc Mingo,
+535|chúng ta...
+536|...đã thắng!
+537|Yeah!
+538|Làm được rồi!
+539|Giỏi lắm, mọi người!
+540|Fraland!
+541|--Zoroland, cảm ơn nhé! --Không có gì!
+542|Đầu Mào!
+543|Luffy-senpai!
+544|Cưng ơi!
+545|--Nâng ly nào! --Được!
+546|Cạn ly!
+547|Có vẻ họ đã ra khơi được rồi.
+548|Mừng quá. Lucy...
+549|Cha nghĩ mình còn gặp lại họ không?
+550|Thế này ấm hơn không?
+551|Có ạ!
+552|Ấm hơn nhiều!
+553|Ồ? Con lại khóc nữa rồi!
+554|C-Con đâu có khóc! Cha đừng nói linh tinh!
+555|Đợi đã!
+556|Này, lại đây!
+557|Thôi đi!
+558|Đủ chưa?
+559|Ồ, cảm ơn!
+560|Chết tiệt!
+561|Nhấn giữ hơn ba giây.
+562|Cạn ly!
+563|Này, Robiland, chúng tôi sẽ gặp lại cô chứ?
+564|Tất nhiên! Cùng với mọi người nữa!
+565|Yeah!
+566|--Tốt quá! --Ồ, vào đó từ lúc nào vậy?
+567|Sau trận chiến khốc liệt ở Dressrosa,
+568|những chén rượu đàn em vô cùng khác thường đã được trao trong bí mật.
+569|Do số phận trớ trêu hay tình cờ,
+570|bảy người đàn ông phi thường này đã tụ họp lại
+571|và nhất quyết trở thành đàn em của Luffy Mũ Rơm.
+572|Từ đây, mỗi người sẽ tự phát triển theo con đường riêng
+573|và rồi sẽ gây ra một sự kiện lớn đi vào lịch sử, nhưng...
+574|...đó là câu chuyện mà lúc này chưa ai có thể biết.

@@ -1,0 +1,455 @@
+1|Room!
+2|Chambres!
+3|Oh! He's been saved!
+4|Lucy!
+5|Underground Trading Port Dock
+6|Look! Nobody's up there now!
+7|How did it go?!
+8|What just happened?
+9|Tell us, Gatz!
+10|Gatz-san!
+11|You can't yell anymore!
+12|Don't push yourself!
+13|You fools!
+14|What kind of announcer am I if I can't announce the winner and the loser?
+15|Look, you two!
+16|Look to the sky, Dressrosa!
+17|Which is fading?
+18|The bird cage?
+19|Or Doflamingo's domination?
+20|The factory just...
+21|The bird cage is...
+22|The strings...
+23|Are gone!
+24|I can see the sky! The sky!
+25|The sky!
+26|I-Is the scenery outside of the cage...
+27|a town that's been carved into pieces?
+28|Or is it...
+29|a land where no one will manipulate us anymore - a land of freedom?
+30|The bird cage's gone!
+31|That means...
+32|The "Great Defense of Dressrosa"!
+33|The two thousand pirates of the Donquixote Family...
+34|versus
+35|the fated warriors, here by coincidence!
+36|And the duel between their leaders!
+37|Royal Warlord of the Sea, Donquixote Doflamingo...
+38|versus
+39|the gladiator, Lucy!
+40|Dah winnah...
+41|What?
+42|Dah winnah...
+43|What's he saying?
+44|It's "the winner"!
+45|Dah winnah ish...
+46|You can do it, Gatz-san!
+47|Dah winnah...
+48|Stay with us, Gatz!
+49|Who's there?!
+50|Don't shout. Don't call for anyone.
+51|I am Donquixote Doflamingo.
+52|I am the rightful king of this kingdom.
+53|The king has returned!
+54|Is it something we did?
+55|There is no excuse for this.
+56|The country is done for!
+57|This was Doflamingo's trap!
+58|Dah winnah...
+59|Get a grip already!
+60|Speak clearly!
+61|Listen, Rebecca.
+62|Don't cry yet.
+63|I won't let the soldier die.
+64|Make sure you stay safe.
+65|I'm gonna beat the crap outta Doflamingo!
+66|Lucy...
+67|The winner is...
+68|...Lucy!
+69|Lucy!
+70|Thank you, Lucy!
+71|This is the best!
+72|He did it!
+73|Super!
+74|Luffyland!
+75|Luffy!
+76|Robiland!
+77|Luffy!
+78|He finally did it!
+79|Well done, my boy!
+80|Truly incredible!
+81|Expect nothing less of Luffy-dono!
+82|Princess!
+83|I'm so glad!
+84|Fraland!
+85|All of you did great, too!
+86|You're hurting us!
+87|We toys were once human!
+88|Captain!
+89|They will fight alongside us.
+90|They are the dwarfs of the Tontatta Kingdom.
+91|Are you really sure about leaving her?
+92|She was crying!
+93|Even toys have something they want to protect!
+94|Although these tin eyes of mine cannot shed tears.
+95|That's why the captain has been fighting on his own for ten years.
+96|What have you done to this country and the king, pirate?!
+97|The king set the city ablaze. Didn't you see him?
+98|His Majesty would never do such a thing!
+99|This battle is to restore the honor of King Riku who was dethroned in shame ten years ago,
+100|and to regain our freedom!
+101|Soldier-san!
+102|I will not let you take...
+103|another member of my family from me!
+104|A country in ruins needn't necessarily be unhappy.
+105|On this day, amid piles of rubble, the people of this very country...
+106|cried out in joy.
+107|Hooray!
+108|Doflamingo was taken down!
+109|We're free from now on!
+110|Mom! Dad!
+111|Thank God!
+112|Gatz-san!
+113|Yeah, he did it!
+114|So aren't you gonna finish me off?
+115|Don't need to.
+116|Seems like it's all over.
+117|You brothers are too soft!
+118|After losing to our captain at Banaro Island,
+119|Ace had something to say before he was handed over to the Navy.
+120|Wanna hear it?
+121|Underground Port
+122|Hey, hurry up! The duel between Straw Hat and Doflamingo is over!
+123|The Navy'll be here soon!
+124|We know!
+125|You call the chief yet?
+126|We're trying!
+127|He's not picking up.
+128|He only answers when he feels like it.
+129|You'll get a kick outta hearin' it!
+130|He realized he was gonna be executed, so he said...
+131|Don't tell my brother.
+132|Man, what an idiot!
+133|He had no idea how much he was worth!
+134|If Fire Fist Ace was captured by the Navy, the news would spread all over the world!
+135|The Navy would make 120% use of his pathetic life-
+136|That's quite enough.
+137|Stop talking.
+138|How he felt when he passed away...
+139|Fire Fist Ace Dies
+140|I've thought about it non-stop since that day, every single night.
+141|You don't have to tell me. I fully understand!
+142|Then let it sink in, fool!
+143|As for that Devil Fruit you have...
+144|If I can't steal it here, it'll damage my reputation as a hunter of Devil Fruit users.
+145|You're not getting away from me, Flame Fruit!
+146|You're regretting it, aren't you?!
+147|Even though you had the title and the power,
+148|you still didn't try to save your brother!
+149|You weren't there at all, were you?!
+150|Were you taking a nap or something?
+151|You weren't there when he needed you most.
+152|And you call yourselves brothers!
+153|I'm done regretting it!
+154|Fire Fist!
+155|Dammit!
+156|I've made peace with it, but Ace is saying he can't forgive you.
+157|Oh! Hello, Sabo-kun?
+158|Where in the world are you?!
+159|I saw Burgess going after Luffy-kun earlier,
+160|so I frantically tried to contact you, but you weren't answering at all!
+161|That so? I wasn't paying attention.
+162|You weren't what?!
+163|Don't worry, I took care of it already.
+164|That aside, Koala, have you found the list?
+165|For crying out... Yes, I found it!
+166|Then just call the ship and-
+167|I called it!
+168|Well, let's meet up with Hack underground then.
+169|I'm with Hack and everyone else underground!
+170|Why did he hang up?! That selfish jerk!
+171|Stop taking it out on me, Koala-san!
+172|There he is!
+173|The Donquixote Family!
+174|Their eight commanders and...
+175|...three top commanders are all accounted for!
+176|Watch out!
+177|Most of the commanders are Devil Fruit users!
+178|Secure them with Sea Stone!
+179|Yes, sir!
+180|Just stay here with me.
+181|Yes.
+182|Whoa! Wh-What're you doing?!
+183|You said, "Stay here with me"!
+184|So we'll be together forever!
+185|Get off of me!
+186|Have we contacted Navy HQ yet?
+187|Well, actually...
+188|Isshou-san said, "Don't file a report yet."
+189|Vice Admiral Maynard! The Surveillance Snail is ready!
+190|Alright, I'll do the talking.
+191|Take another Surveillance Snail and follow Isshou-san, per orders!
+192|Yes, sir!
+193|Applenine - A Neighboring Country
+194|This is Applenine Island, a country near Dressrosa.
+195|What the heck?
+196|What's wrong?
+197|I heard there'll be a broadcast from Dressrosa!
+198|Will it be a speech from King Doflamingo?
+199|Scary, isn't it?
+200|This is Dressrosa...
+201|Another Neighboring Country
+202|We are broadcasting to the three neighboring island countries within range of the Surveillance Snail.
+203|Yet Another Neighboring Country
+204|I am Navy HQ Vice Admiral Maynard!
+205|The Navy?
+206|This is Dressrosa.
+207|We are broadcasting to the three neighboring island countries within range of the Surveillance Snail.
+208|But why?
+209|I want you to take a look at these images!
+210|What's up with the piles of rubble?
+211|What you're seeing is the current state of Dressrosa!
+212|What does he mean?
+213|I ask you to keep calm as I tell you...
+214|all the details of what the Warlord, Donquixote Doflamingo, did today in this very country!
+215|Isshou-san, I'll do as you asked.
+216|We're begging you, Your Majesty!
+217|So many of us citizens were turned into toys and couldn't speak out!
+218|No! Please... stop this.
+219|Even if the misunderstanding about me has cleared up, I cannot return as your king.
+220|No! You are this country's true king!
+221|That's right!
+222|We're sick and tired of violence!
+223|Your Majesty!
+224|What if everyone in the kingdom shared your values?
+225|Wait.
+226|The Riku Family's position falls apart when faced with turmoil.
+227|This event has proven that.
+228|We don't care if we fall to ruin!
+229|We'd gladly fall to ruin if there were any hope for peace together with you!
+230|We want you to renounce war, as our pacifist king!
+231|That's right!
+232|Even if it causes our country to fall, we're fine with that!
+233|We don't mind being poor! Just make Dressrosa a peaceful country again!
+234|Your Majesty!
+235|Your Majesty, we're begging you!
+236|As a fighting king, their words grate my ears!
+237|Elizabello!
+238|Your Majesty! You must return to the palace at once!
+239|Kings from neighboring countries keep calling us!
+240|What did you say?
+241|I had to tell them right away...
+242|that King Riku is coming back. They were all overjoyed to hear that!
+243|The King of Prodence!
+244|It's barely been a decade. How could you age so much?
+245|Where is the man who would stare down the world to avoid a war?
+246|Your people are waiting for you.
+247|Come home...
+248|Miracle King, Riku Dold!
+249|He is right, King Riku!
+250|All this trouble that Doflamingo caused...
+251|I would rather you not take responsibility for it.
+252|That vicious pirate was approved as king of a country under the Seven Warlords system,
+253|and thus permitted to reign over this island by none other than...
+254|the World Government!
+255|To all who inhabit this country...
+256|and to all members of its royal family...
+257|On behalf of the Government,
+258|I most humbly apologize!
+259|We most deeply regret what has been done!
+260|What are you...
+261|The Navy admiral has prostrated himself?
+262|You're kidding me...
+263|The Government controls the Navy!
+264|And one of the Navy admirals, the greatest of their military might...
+265|is bowing before King Riku and his nation in apology!
+266|What the heck is going on in Dressrosa?
+267|Law - Straw Hat Pirate Alliance
+268|That pirate alliance took down the Celestial Yaksha, Doflamingo?
+269|Take pictures! Put them in print already!
+270|This is completely unheard of!
+271|The false glory of the mighty country, Dressrosa, and the truth behind it.
+272|The downfall of the world's greatest underground broker, Doflamingo.
+273|And the prostration of Navy HQ Admiral Fujitora.
+274|The major incidents that were confined within the cage...
+275|have just been released to the entire world.
+276|An admiral from Navy HQ has prostrated himself?!
+277|The Surveillance Snail is running, too!
+278|Th-That's a Navy admiral, isn't it?
+279|Wh-What happened?
+280|Something's going on in Dressrosa!
+281|Raise your head, Fujitora.
+282|Fujitora, aren't you worried about the world seeing this?
+283|You couldn't possibly...
+284|Could it be...
+285|that you stayed away from Doflamingo so you could enact this?
+286|Fujitora!
+287|The world must know the truth!
+288|I left all the fighting to them. I made a wager on them.
+289|We are the ones who allowed the Warlords to do as they please.
+290|So who are we to point our swords at them,
+291|and yet preach about justice without bearing shame?
+292|This country earned its victory at the hands of pirates, warriors, and its citizens!
+293|Our long, hard battle is at last over.
+294|I am truly...
+295|I am truly grateful for your hard work.
+296|Little Army of King Riku, Special Anti-Doflamingo Forces!
+297|Yes, Commander!
+298|As of today, you are all...
+299|...dismissed!
+300|Commander!
+301|Tank!
+302|The Navy still has their position to consider.
+303|Hide the pirates and warriors who fought for us in the palace.
+304|Take those without shelter there as well. I hate to ask, but can I count on you?
+305|Of course, it would be my pleasure, Your Majesty!
+306|The Red Line
+307|Holy Land, Mariejois
+308|So...
+309|Reporting Doflamingo's resignation, and then revealing it as false...
+310|Was this all by order of those people above you?
+311|World Government Supreme Authority The Five Elder Stars
+312|Navy Headquarters Fleet Admiral Sakazuki (Akainu)
+313|Why should the world be deceived
+314|for the sake of someone like Doflamingo?!
+315|If something like this ever happens again, it'll bring shame on me as fleet admiral!
+316|Don't ever do that again, under any circumstances!
+317|Don't give us any of your cheek, Sakazuki.
+318|Your honor is completely inconsequential.
+319|The Navy is merely the public face of the Government.
+320|We left this case entirely up to Cipher Pol.
+321|Hmph! Cipher Pol, huh?
+322|So simply put,
+323|they've gone over your heads.
+324|Those damn puppets of the Celestial Dragons!
+325|Watch your mouth, Sakazuki!
+326|And what of Kuzan's actions?
+327|I can hardly believe a powerful man like him sides with Blackbeard now.
+328|That is sure to bring dishonor to the Navy!
+329|That idiot resigned from the Navy!
+330|Where he is and what he's doing is not our responsibility!
+331|Five Elder Stars! Fleet Admiral Sakazuki!
+332|Reporting in!
+333|The Warlord, Donquixote Doflamingo, and his family were defeated by the Law - Straw Hat Pirate Alliance.
+334|And Dressrosa has been destroyed. There's nothing left of it!
+335|What'd you say?!
+336|Again...
+337|...with that brat?
+338|And there's one more thing...
+339|Countries Across the New World
+340|The video and story that were sent to Dressrosa's neighbors spread from one island to the next.
+341|Extra! Extra!
+342|The news spread like wildfire throughout the world, with dire repercussions.
+343|Doflamingo Falls!!
+344|Joker was defeated!
+345|Your Majesty! We have no other way to acquire weapons!
+346|Announce our surrender.
+347|The war is over!
+348|We've already paid! We had a deal!
+349|That bastard, Joker!
+350|I know they still have weapons in Dressrosa!
+351|Don't! There's still a Navy admiral over there!
+352|Our deal for the Devil Fruits!
+353|What'll happen to the Smiles deal now?!
+354|If only these fools weren't there!
+355|Come now, Tsuru-chan! You didn't need to tag along with us!
+356|I ought to be saying that, Inspector General!
+357|Well, they're the pirate group that you've been chasing after all this time, aren't they?
+358|Yes, under your orders.
+359|Want some rice crackers?
+360|In a Certain Town
+361|How's this? This is today's special mixed pizza.
+362|Huh? Thief!
+363|Hey, old lady! Stop!
+364|Crap, where did she go?
+365|Tsk, just a little girl. Old lady, where'd you go?!
+366|Oh, they took down Doflamingo.
+367|Not bad. Makes me happy to be from the same generation.
+368|From South Blue - Captain of the Bonney Pirates "The Glutton" Jewelry Bonney
+369|In a certain sky
+370|High Priest Urouge!
+371|High Priest Urouge!
+372|Th-There's somebody here! High Priest!
+373|From the Sky Islands - Captain of the Fallen Monk Pirates "Mad Monk" Urouge
+374|Nonsense! We're on a Sky Island.
+375|It's an abandoned and isolated cloud island, at that.
+376|Nobody but us could possibly-
+377|In a certain sea
+378|Whoa, whoa, not bad, that pirate alliance.
+379|Looks like my fellow pirates ain't doing too shabby.
+380|From West Blue - Captain of the Fire Tank Pirates Capone "Gang" Bege
+381|Capture Caesar at any cost, boys!
+382|Yes, Father!
+383|The Kid Pirates' Hideout
+384|They made their move before we knew it.
+385|It's a huge victory!
+386|Doflamingo is connected to Kaidou behind the scenes, for sure.
+387|Well, that's gonna make Kaidou pretty mad, yeah?
+388|From South Blue - Captain of the Kid Pirates Eustass "Captain" Kid
+389|If they planned this, their target must be...
+390|From North Blue - Captain of the Hawkins Pirates "The Mage" Basil Hawkins
+391|...one of the Four Emperors, as we thought.
+392|From the Grand Line (Longarm Tribe) - Captain of the On-Air Pirates "Roaring Tide" Scratchmen Apoo
+393|"Beast King" Kaidou, eh?
+394|From South Blue - Kid Pirates Combatant "Soldier of Slaughter" Killer
+395|Good thing our target isn't theirs.
+396|We won't have to fight each other and waste our military might.
+397|Our target is one of the other Four Emperors, "Red Hair" Shanks!
+398|And now we shift attention to Drake, who once provoked a battle in Kaidou's territory...
+399|A Certain Island
+400|Your father was killed? By Doflamingo?
+401|That was a long time ago. I bear no grudge.
+402|From North Blue - Captain of the Drake Pirates "Red Flag" X-Drake
+403|What gives? That's pretty heartless of you.
+404|Hey, give us a hand here!
+405|This is an emergency! If we don't let him know right away, he'll snap!
+406|Kaidou-sama! Where are you?
+407|That idiot Joker screwed up big time!
+408|We won't be receiving Smiles anymore!
+409|Don't play dumb with me, Isshou!
+410|Dressrosa
+411|You know full well the gravity of a Navy admiral admitting to oversight!
+412|Why didn't you report to HQ first?!
+413|Had I reported in, surely you would have changed the details of the report yet again, would you not?
+414|What did you just say?!
+415|I also feel the Seven Warlord system must end.
+416|Two years ago, I was there when Crocodile showed his true nature.
+417|The Navy couldn't do anything!
+418|If it weren't for the Straw Hats,
+419|Alabasta would be another country governed by a pirate, just like Dressrosa.
+420|Yet the Government reported that it was the Navy's doing!
+421|If only I held higher rank then!
+422|I can't believe Fujitora really did it.
+423|It reminds me of the frustration I felt at Alabasta Kingdom two years ago.
+424|The Straw Hats' triumph was covered up then.
+425|It's like he paid them back for us.
+426|Even if I held the same rank as him, I couldn't have pulled that off.
+427|I could feast on this feeling for days.
+428|Oh, we have muffins! How about some coffee?
+429|That didn't mean I wanted to eat, you idiot!
+430|Hey lady, I'm hungry!
+431|We're hungry too!
+432|We have muffins! How about some coffee?
+433|You can't give kids coffee!
+434|I want a muffin!
+435|Are we at Megapants' yet?
+436|That's "Vegapunk".
+437|It'll be a few more days until we reach Dr. Vegapunk's lab.
+438|How lovely! Captain-chan's sweet to the kids!
+439|I wish I were a kid!
+440|Hey, you bunch! There's still tons of work to do!
+441|Aye aye, ma'am!
+442|Scold me more, Captain-chan!
+443|Cover-ups happen all the time!
+444|I would rather not be a hero forged upon lies.
+445|It was our employer, the World Government, that hired pirates to maintain balance in the world.
+446|This is a matter of the Navy's credibility and dignity!
+447|I-Isshou-san, y-you're talking to...
+448|Your selfish actions dishonor the very name of justice!
+449|If you value your justice so damn much, then keep a close eye on it!
+450|If we lose credibility just for admitting fault, we haven't any in the first place!
+451|Then you clean up after yourself, Fujitora!
+452|Straw Hat and Law... Until you bring me their heads,
+453|you are hereby barred from setting foot within any Navy base in the world!
+454|Good, that's exactly what I wanted to hear.
+455|Meat...

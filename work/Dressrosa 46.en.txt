@@ -1,0 +1,423 @@
+1|Dressrosa A Hill in the Eastern Town of Carta
+2|Kyros' House
+3|So you met him while with the Revolutionary Army?
+4|Yes.
+5|Luffy...
+6|Robin, you don't have to wake him.
+7|I just came to see his face before I set off.
+8|Are you leaving the country already?
+9|Yeah. Trouble's headed this way.
+10|What kind of trouble?
+11|CP-0.
+12|They played a part in Doflamingo's deception scheme.
+13|And they're targeting us.
+14|Dressrosa's gonna get busy in a day or two.
+15|You guys should also leave as soon as possible.
+16|Thank you for telling us.
+17|And what's more, I didn't know he had another brother besides Ace.
+18|For real, this is the first I've heard of it.
+19|I bet.
+20|I think it surprised Luffy the most.
+21|What do you mean by that?
+22|I was presumed dead for a long time.
+23|I was always with Luffy and Ace when I was a kid.
+24|Running around with wild abandon, being disciplined by that old man, Garp,
+25|dreaming about becoming pirates...
+26|And we exchanged cups of sake and became brothers.
+27|But one day, I was involved in an accident.
+28|Uh, well, an incident.
+29|Ace! Luffy!
+30|There's something wrong with this town! They're all mad!
+31|They all know people are going to die, but they're acting like nothing's wrong. They're even smiling!
+32|I don't want to be in this town!
+33|I have to tell them as soon as possible!
+34|Ace! Luffy! Run!
+35|What happened to you, young boy?
+36|This town smells worse than the Gray Terminal!
+37|It's the disgusting stench of rotten people!
+38|I'll never be free if I stay here!
+39|Ace... Luffy...
+40|I really want to see you...
+41|This place is like a bird cage...
+42|I'm not sure if I can bear living in this kingdom, breathing this stale air.
+43|Just what... is freedom?
+44|Where can I find it?
+45|Ace... Luffy...
+46|Somebody... help me...
+47|Help...
+48|Vyou're late, Dragon!
+49|How long did vyou plan to keep vus waiting?!
+50|Sorry.
+51|Vyou... What's that?
+52|Th-This is awful!
+53|You! Quickly, bring a doctor! This is an emergency!
+54|Call the ship's doctor, quickly!
+55|He's awake!
+56|Please don't shock him.
+57|Vi wasn't trying to do that!
+58|Oh, vyou're so rude!
+59|Huh?
+60|Where am I?
+61|You're on board our ship.
+62|It says "Sabo" on your possessions. Is that your name?
+63|Sabo?
+64|Dunno.
+65|"Dunno"? So what is vyour name, then?
+66|No idea...
+67|Don't tell me he's...
+68|Most likely.
+69|He still hasn't regained his memories?
+70|Indeed, not even his own name.
+71|I first met him in High Town, Goa Kingdom.
+72|I'm certain he's one of the nobles from there.
+73|Well, let's take him home then. Search for his parents...
+74|No...
+75|I don't wanna go back!
+76|Why?
+77|I dunno!
+78|But...
+79|that's the last thing I want!
+80|So you've had amnesia up until two years ago?
+81|Yeah.
+82|If it was that serious, just how did you get your memory back?
+83|Ace helped me.
+84|That's what I think, anyway.
+85|Fire Fist Ace Dies
+86|The timing couldn't have been any worse, but...
+87|That was how...
+88|...he woke me up.
+89|Baltigo Revolutionary Army General Headquarters
+90|It's so hectic.
+91|Oh, Chief Sabo! You came at the right time!
+92|Report to the situation room at once!
+93|The Paramount War between the Navy and the Whitebeard Pirates has ended!
+94|Whitebeard lost?!
+95|Is Iva-san alright?!
+96|He's not listed among the casualties.
+97|The dead include...
+98|The Emperor, Whitebeard...
+99|and...
+100|Fire Fist Ace!
+101|But more importantly, Dragon-san, this here...
+102|Is it true? Is Straw Hat Luffy your son?
+103|Hmm?
+104|Yes.
+105|I'm gonna become a pirate...
+106|...defeat everyone in my way, and be known worldwide!
+107|That'll be proof enough that I once lived!
+108|Sabo-kun, what's wrong?
+109|You're acting weird!
+110|Have you heard?
+111|They say Akainu punched a hole right through his body!
+112|When you exchange sake cups, you become brothers.
+113|No matter where we are or what we do, our bonds won't be broken!
+114|So from now on, we're...
+115|brothers!
+116|Yeah!
+117|Are you alright, Sabo?
+118|Sabo-kun!
+119|Sabo!
+120|That's right...
+121|This dead guy wasn't just some random pirate...
+122|He wasn't just some threat in the Pirate Era that needed to be eliminated!
+123|Ace is my...
+124|brother!
+125|I won't run from, or lose to anyone!
+126|The Chief of Staff''s awake!
+127|Really? What a relief!
+128|I thought you were gonna die, Sabo-kun!
+129|You had quite a high fever, Sabo.
+130|You were asleep for three days straight!
+131|I was so worried!
+132|Huh? You've got your memory back?
+133|Yeah, I remember everything now.
+134|Including who I am and why I left home and sailed out to sea.
+135|I see. Good for you.
+136|Are you gonna quit the Revolutionary Army, then?!
+137|Nope, no way.
+138|Is Dragon-san still here?
+139|Yeah.
+140|There's something I want to talk about.
+141|At that moment, I felt Ace say to me,
+142|"You're Sabo. You're brothers with me and Luffy."
+143|Finally... I've managed to come this far, Ace.
+144|Check it out.
+145|Luffy's started on his way again to become the Pirate King.
+146|That's our little brother for you!
+147|Headline: The Straw Hats Are Back
+148|Sabo-kun?
+149|I want you to ask a favor of the entire Revolutionary Army.
+150|There's a Devil Fruit that I need to acquire, no matter the cost.
+151|But, but Luffy-senpai...
+152|Dressrosa
+153|What about the Flame Fruit?
+154|There's someone I really don't want to have it, but I got no choice.
+155|My friends' lives are more important.
+156|Ah'll definitely get ya the Flame Fruit!
+157|Just go do whatever it was ya needed to!
+158|Really? Thanks a bunch!
+159|I won't let you have the Flame Fruit...
+160|Straw Hat Luffy.
+161|Hey, hey, hey! Who're you?
+162|Why're you just casually talking to Luffy-senpai like that?
+163|He's the younger brother of that legendary pirate, Fire Fist Ace-sama,
+164|and the future Pirate King, you dumbass!
+165|I've known that for a long time.
+166|What's your problem?!
+167|Just showing up outta nowhere and telling me you won't let me have the Flame Fruit!
+168|It's me, Luffy.
+169|What do you mean, "It's me"?!
+170|Get this! The Flame Fruit is a keepsake of Ace's!
+171|If you want it, we're enemies!
+172|And as for you calling me "Luffy"...
+173|See this beard?
+174|I'm Lucy!
+175|You really think I wouldn't know my little brother's face behind that disguise of his?
+176|"Little brother"?
+177|Look here, the only people allowed to call me "little brother"...
+178|are Ace, who's dead, and...
+179|a guy who died way earlier...
+180|Sabo!
+181|You can't be him!
+182|We stole a bottle of sake from Dadan and made a toast...
+183|Sabo!
+184|What the hell?! Where have you been this whole time?!
+185|I thought you were dead!
+186|Thank you, Luffy!
+187|I'm glad you lived!
+188|But Sabo, I...
+189|I let Ace be killed right in front of me...
+190|I know. Even though Ace died, I'm...
+191|so happy that you survived!
+192|I almost lost both of my brothers without being able to do a thing!
+193|If you'd died too, I would've been left on my own!
+194|So, thanks!
+195|Thanks for staying alive, Luffy!
+196|Is it alright if I eat the Flame Fruit?
+197|Uh-huh!
+198|That'd be great! Nobody else can have it!
+199|That darn Luffy... He's smiling!
+200|Makes you wonder what he's dreaming about.
+201|Well, I'm off.
+202|So soon?
+203|I got to see his face, so...
+204|Here, I had a Vivre Card made from Luffy, just in case.
+205|Oh? When'd you have time for that?
+206|I'll be taking a piece.
+207|Alright. Luffy may be a bit of a handful,
+208|but please take good care of him.
+209|Yeah! You can count on us!
+210|He and Ace said the same thing.
+211|Sabo, that you? Hack here.
+212|Yeah, I just left. I'll be back soon.
+213|Roger that.
+214|So, how'd it go? Luffy-kun was quite...
+215|Why'd he hang up?!
+216|That selfish jerk!
+217|Whoa there, Hack-san!
+218|We're all set to depart, right?
+219|Yeah, anytime.
+220|Alright!
+221|Once we return to Baltigo, there's so much I have to tell Dragon-san about Luffy!
+222|I really am...
+223|glad I got to see him again.
+224|Let's move out!
+225|Dressrosa
+226|What is it? Could you look for me?
+227|It's a "one".
+228|I see. The only side that would be in Straw Hat's favor...
+229|That's what we agreed upon, yes?
+230|Yes, it is, but...
+231|Then, he won this one.
+232|We shan't arrest him tonight.
+233|You can't determine that just by a roll of the die, Isshou-san!
+234|We ran all over the entire country and finally found out where he is!
+235|After all the disrespect you showed Fleet Admiral Sakazuki...
+236|If we want to take down Law and Straw Hat, now's our chance!
+237|Maynard-san!
+238|A man ought not complain after the die is cast.
+239|Quite pathetic of you, really.
+240|Royal Palace
+241|Has anyone seen Lucy after all that?
+242|No, nobody did.
+243|I just wanna thank him!
+244|There's already quite a fuss out there.
+245|Even if they truly are pirates or criminals,
+246|they're unquestionably our saviors.
+247|Grandfather!
+248|Rebecca.
+249|Father, Lucy, and the others aren't here at the Palace!
+250|Ah, don't worry about that. Kyros called.
+251|They're all together.
+252|I see.
+253|That aside...
+254|Rebecca.
+255|If I were to return as king,
+256|that would make you a princess.
+257|The Next Day The New World (The Twirly Hat Pirates)
+258|Damn!
+259|We finally shook off Big Mom's ship after all that trouble...
+260|So why would you get us into even more trouble?!
+261|You've no say in the matter!
+262|Do as you're told!
+263|I'm saying it for the sake of you guys!
+264|Don't stick your nose in their business!
+265|We should have waited patiently on the ship. You're pretty stupid to be rushing ahead like this!
+266|Shut up and do what I tell you!
+267|You gonna do it?!
+268|Or would you rather I crush your heart?!
+269|Fine! But I won't forget this.
+270|It was the right call to come ashore!
+271|We can still save them! We need your help!
+272|In that case, why don't you treat me more nicely...
+273|You say something?!
+274|Stop threatening me with that!
+275|Hurry up, Caesar!
+276|Stop telling me what to do, you blasted raccoon dog!
+277|I'm a reindeer!
+278|What's the difference?!
+279|Shut up! Just hurry up!
+280|If they die because of you, I'll make you pay for it!
+281|We need your help!
+282|It's hard to run here!
+283|I can't believe we were separated from Sanji-san and the others.
+284|We're in trouble!
+285|We were too captivated by the mystery girl.
+286|Oh, watch out, Nami-san!
+287|Watch out, me!
+288|No, how could you?! How could you?! How could you?!
+289|Onami, they are upon us!
+290|Yahoo!
+291|Is this it, invaders?
+292|Hey! Where'd you hide that girl?
+293|How'd you guys make it onto this island?
+294|Answer me! This place is pretty hard to-
+295|What... what's going on?!
+296|What is it this time?!
+297|It's a Rain-Ruption!
+298|Again?
+299|Get down!
+300|What is that?!
+301|"Rain"?
+302|That's way off! It's a deluge!
+303|I shall protect you no matter what!
+304|No!
+305|Nami-san!
+306|Momonosuke-san!
+307|Help me!
+308|Assist me, too!
+309|Geez!
+310|You Devil Fruit users are such pains in the butt!
+311|I'm sorry I couldn't protect you!
+312|You won't get away from me, you damned invaders!
+313|Come on, pull yourself together!
+314|Thank you, as always.
+315|You too, Momo!
+316|I am in your debt.
+317|When in doubt...
+318|Just kill!
+319|Brook!
+320|Sir Bones!
+321|I finally managed to protect you!
+322|Please allow me to handle the rest!
+323|Tsk! How arrogant!
+324|Sheep's Horn!
+325|What?!
+326|What are those arms?
+327|Sir Bones!
+328|Take this!
+329|Soul Parade!
+330|Sir Bones, that is amazing!
+331|What manner of ability is this?
+332|Brook!
+333|Keep stalling him!
+334|Diable Mouton...
+335|Shot!
+336|Sheepshead-sama!
+337|Sanji-kun!
+338|Oh, Nami-swan!
+339|Who are you people?!
+340|And just who are you people...
+341|What? How creepy!
+342|Ginrummy-sama!
+343|You lot there! Retreat!
+344|Sheepshead-sama has been done in!
+345|What?!
+346|But we haven't found the samurai yet!
+347|We've cornered them this far, and he still hasn't shown himself!
+348|"The samurai's not here." Tell him exactly that!
+349|Yes, ma'am!
+350|The water's draining away...
+351|What was that all about, I wonder?
+352|It's certainly one strange island.
+353|I hope that girl's okay, too...
+354|She's more agile than we are. She'll be quite alright.
+355|You're right.
+356|Hey, guys!
+357|Get over here right now!
+358|That be Chop'emon, in the lower forest!
+359|Then let's move out! There's no time to lose!
+360|The Kid Pirates' Safe House
+361|What's that noise?
+362|What happened?
+363|Captain, there's a massive hole!
+364|A hole?
+365|Something's landed!
+366|Take arms!
+367|Yeah!
+368|That's it!
+369|It certainly is quite large.
+370|Where did it fall from?
+371|Just who in the hell caused this?!
+372|Hey, doesn't it look human-shaped?
+373|If I recall correctly...
+374|There's a legend about a sky island where some monster lives...
+375|Somewhere in the sky, around here, right?
+376|Are you telling me that it was pushed off of a sky island?!
+377|Captain Kid!
+378|One of our ships was capsized by the impact!
+379|What'd you say?!
+380|Damn it all! Who did this?!
+381|The strong live, and the weak die.
+382|That is just how the world is.
+383|A few minutes ago...
+384|Sky Island - The Ruins of Balloon Terminal
+385|What exactly are you doing?
+386|Let us leave him be, High Priest!
+387|He must be insane!
+388|We're ten thousand meters up in the air.
+389|This man was looking for a place to die.
+390|If he's serious, why bother to stop him?
+391|To sum up his life,
+392|he had been defeated seven times as a pirate,
+393|and was captured by the Navy or his enemies eighteen times.
+394|He underwent torture repeatedly, and lived as a criminal.
+395|He wanted to commit suicide...
+396|in an extraordinary way by jumping off of a sky island.
+397|Hence, the current situation.
+398|It bears repeating:
+399|Single-handedly, he challenged the Navy and the Emperors,
+400|was captured eighteen times, and sentenced to death forty times.
+401|When hanged, the chain broke.
+402|When put under the guillotine, the blade shattered.
+403|When sentenced to impalement, the spear splintered.
+404|Consequently, he sank nine prison ships.
+405|In short, no one could kill him.
+406|And that included himself.
+407|What is it now?
+408|What the hell is that monster?
+409|Damn, my head hurts.
+410|Guess it's hard to die.
+411|I survived again.
+412|I'm impressed he pulled it off...
+413|That old man, Whitebeard.
+414|The man searching for his deathbed:
+415|Kaidou of the Beasts
+416|People say, "If it's one-on-one, Kaidou will win."
+417|Whether on land, sea, or air, he is the pirate known as "the mightiest being alive".
+418|I've no choice, have I?!
+419|Damn it all!
+420|Hurry up, Joker!
+421|Make ready for the final battle!
+422|I don't care if this boring world is laid to waste!
+423|Let's start the greatest war the world's ever seen!

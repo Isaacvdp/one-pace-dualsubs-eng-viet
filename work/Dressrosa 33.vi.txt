@@ -1,0 +1,418 @@
+1|Tại sao?! Mà ông nói được từ bao giờ vậy?!
+2|Từ trước tới giờ.
+3|Vậy là ông... đã lừa Doflamingo suốt thời gian qua?!
+4|Ta chưa từng nói mình bị câm. Là anh ấy tự cho là vậy.
+5|Thế cũng là lừa rồi!
+6|Ông đang tính gì vậy?!
+7|Này này...
+8|Silent!
+9|Hả? Hả?
+10|Tiếng ồn ngoài phố biến mất rồi!
+11|Sao vậy?!
+12|Tôi thấy người ta nói chuyện mà chẳng nghe được gì!
+13|Ta dựng một bức tường vì cháu ồn quá.
+14|Hả?
+15|Một bức tường cách âm.
+16|Cháu không nghe được tiếng bên ngoài, đúng không?
+17|Họ cũng không nghe được chúng ta.
+18|Ta đã ăn Trái Im Lặng (Nagi Nagi). Ta là người không có âm thanh.
+19|Người dùng Trái Ác Quỷ?!
+20|Cái quái gì thế?! Mọi thứ về ông đều là dối trá!
+21|Vậy nghĩa là... cái tật hậu đậu ngớ ngẩn của ông...
+22|Ừ, tất nhiên.
+23|Toàn là diễn thôi.
+24|Xạo! Vai ông đang bốc cháy kìa!
+25|Ta vốn hậu đậu thật. Chịu thôi, ta vụng về bẩm sinh mà.
+26|Im đi! Cái khó tin nhất ở ông lại là thứ duy nhất có thật à?!
+27|Sao ông giấu bạn bè mấy chuyện này?!
+28|Ta không coi họ là bạn.
+29|Điều ta muốn làm là ngăn anh trai Doffy của ta mất kiểm soát.
+30|Ta không hiểu sao cha mẹ hiền hậu của ta lại sinh ra con ác thú đó.
+31|Anh ấy... không còn là người.
+32|Cứu với!
+33|Các con tôi không làm gì sai cả!
+34|Hãy nhắm tên vào tôi đây này!
+35|Xin các người! Đừng làm hại các con tôi!
+36|Đau quá, cha ơi! Con chịu hết nổi rồi!
+37|Tao sẽ trả thù lũ khốn bọn mày!
+38|Anh ơi...
+39|Tao sẽ không chết!
+40|Bọn mày làm gì tao cũng sẽ sống sót, và tao sẽ...
+41|Tao sẽ quay lại giết sạch từng đứa bọn mày!
+42|Anh ấy ác từ trong bản chất, và chẳng sợ thứ gì.
+43|Những người biết Doffy tàn bạo thật sự đến mức nào...
+44|chỉ có bốn cán bộ cấp cao, kể cả ta,
+45|và Vergo, Corazón đời trước.
+46|Vergo?
+47|Một thành viên mạnh của gia tộc, hiện đang một mình làm nhiệm vụ bí mật nào đó.
+48|Chi tiết nhiệm vụ được giữ kín, kể cả với người trong gia tộc.
+49|Hắn chẳng liên quan gì tới cháu.
+50|Đừng trở thành ác thú như anh trai ta!
+51|Đi khỏi đây đi, Law!
+52|Không đời nào! Tôi muốn được như thế!
+53|Cái tên bí mật "D"... Không sai được.
+54|Cháu thuộc về gia tộc định mệnh đó - Gia tộc D.
+55|Ở quê ta, người ta dạy dỗ trẻ con bằng câu chuyện...
+56|"Đứa nào hư sẽ bị D ăn thịt."
+57|Người mang tên "D" thường trở nên khét tiếng.
+58|Người già sẽ cau mày lẩm bẩm...
+59|"D thể nào cũng lại gây ra một cơn bão nữa."
+60|Ông nói gì vậy?! Tôi là quái vật chắc?
+61|Có thể lắm.
+62|Không ai biết lý do thật sự,
+63|nhưng cái tên đó vẫn được truyền lại không ngừng và bí mật qua lịch sử khắp thế giới.
+64|Và ở một vùng đất nọ, có người gọi Gia tộc "D" là...
+65|"Kẻ thù truyền kiếp của các vị thần"!
+66|Thần?!
+67|Nếu "thần" là chỉ Thiên Long Nhân,
+68|thì mục tiêu của gia tộc cháu có thể là hủy diệt thế giới này.
+69|Nhưng đó là kiểu hủy diệt hoàn toàn khác với thứ Doffy muốn.
+70|Những người mang D hẳn có lý tưởng đối lập với các vị thần.
+71|Tôi chẳng hiểu ông nói gì cả!
+72|Tôi vào gia tộc để giết từng người một tàn bạo nhất có thể!
+73|Tôi không phải thuộc hạ của ông! Tôi là thuộc hạ của Doflamingo!
+74|Một năm nữa tôi chết rồi! Ra khỏi đây thì tôi làm gì được?!
+75|Ra khỏi đây và đi tìm cách chữa đi!
+76|Làm gì có cách nào!
+77|Tôi sẽ nói với Doflamingo là ông nói được, cả năng lực của ông và mọi chuyện!
+78|Đừng làm thế!
+79|Ông sẽ lãnh thứ còn tệ hơn bị trục xuất nhiều!
+80|Thằng nhóc chết tiệt!
+81|Hai năm qua tôi đã mạnh hơn rồi!
+82|Đáng đời!
+83|Này, Law! Mày lại phạm luật máu rồi!
+84|Này, tao thấy miệng hai người mấp máy... Đang làm gì vậy?
+85|Tao mua kem cho, nên im miệng đi.
+86|Tao muốn cây cỡ đại giá 500 Belly-dasuyan!
+87|Baby 5, cho tao mượn ít tiền.
+88|Hả?!
+89|Đ-Được!
+90|Ngại quá! Cậu ấy cần mình!
+91|Thế là hết sao?!
+92|Chết tiệt!
+93|Ta đã tin thằng nhóc đó và kể hết mọi chuyện!
+94|Corazón!
+95|Phải ra khơi thôi! Lại là Tsuru của Tổng bộ Hải Quân!
+96|Hải Quân tìm ra chúng ta rồi!
+97|Nó... vẫn chưa nói với anh ấy sao?
+98|Tôi quyết định không nói.
+99|Tôi nhận ra...
+100|tôi nợ ông vì đã im lặng chuyện tôi đâm ông hai năm trước.
+101|Giờ mình huề nhau.
+102|Cánh buồm: Tsuru
+103|Corazón với Law đâu?
+104|Tôi thấy họ lên tàu mà. Không có ở đây à?
+105|Thiếu chủ! Tôi tìm thấy cái này trên võng của Corazón.
+106|Tôi đi
+107|chữa bệnh cho Law
+108|Có vẻ họ đã thu dọn đồ đạc rồi đi.
+109|Nó đang nghĩ gì vậy?!
+110|Thế này là bắt cóc!
+111|Này, nhấc ốc sên truyền tin lên!
+112|Là Doflamingo phải không?! Để tôi nói!
+113|Nhấc máy đi!
+114|Đã bảo nhấc máy! Nhấc máy đi!
+115|Doflamingo! Cứu tôi!
+116|Ông định làm gì tôi?!
+117|Này!
+118|Ông đang gọi Doflamingo à?!
+119|Này! Cứu tôi với!
+120|"Bánh gạo viên". Tôi đây.
+121|Ồ, Rosinante đấy à?
+122|Tôi tạm gác nhiệm vụ một thời gian.
+123|Biển hiệu: Hải Quân
+124|CHÍNH NGHĨA NGỰ TRỊ
+125|Cậu gặp rắc rối à?
+126|Không, việc riêng thôi.
+127|Được, ta hiểu rồi.
+128|Bọn trẻ thế nào?
+129|Cậu khắt khe với chúng thế mà chúng vẫn còn ở đó à?
+130|Tôi nghĩ ba đứa đó sẽ không bỏ đi đâu...
+131|Gia tộc giờ đã khá khét tiếng rồi. Cẩn thận đấy.
+132|Vâng, thưa ngài.
+133|Đô đốc Tổng bộ Hải Quân Sengoku
+134|Ta giao vụ này cho cậu, cứ làm theo ý mình.
+135|Nhớ báo cáo cho ta.
+136|Rõ. Tôi sẽ gửi chi tiết bằng văn bản.
+137|Trung tá Donquixote Rosinante
+138|Đô đốc Sengoku!
+139|Phật
+140|Người xin chuyển công tác mà tôi nhắc hôm trước đã tới.
+141|Được. Cho vào đi.
+142|Ra là cậu.
+143|Ta có nghe về cậu.
+144|Nghe nói từ khi chính thức gia nhập, một năm qua cậu đã làm được nhiều việc quan trọng.
+145|Vậy cậu muốn chuyển đến G-5 à?
+146|Trước hết, ta muốn hỏi về quả trứng ốp la trên má trái cậu...
+147|Vâng, thưa ngài! Tôi tên là Vergo!
+148|Ông vừa gọi cho ai vậy?!
+149|Ông nói "nhiệm vụ"! Ông là lính Hải Quân hay sao?!
+150|Cháu ghét Hải Quân à?
+151|Mấy kẻ dính dáng tới Chính phủ làm tôi buồn nôn!
+152|Ta không phải lính Hải Quân.
+153|Thật không?!
+154|Này! Tôi không muốn đến bệnh viện!
+155|Đừng có cư xử như đứa con nít thế!
+156|Ta sẽ chữa bệnh cho cháu!
+157|Ta sẽ đưa cháu đến từng bệnh viện một!
+158|Nhìn kìa! Bệnh viện lớn đấy! Chắc chắn họ chữa được cho cháu!
+159|B... Bệnh Chì Trắng?!
+160|Bệnh này có lâu rồi mà. Bác sĩ không có thuốc tốt nào sao?
+161|X-X-Xin lỗi, nhưng hai người từ đâu tới?
+162|Flevance.
+163|Thị trấn Trắng!
+164|Không! Tôi sẽ bị lây mất!
+165|N-Này! Mang thuốc sát trùng, găng tay với mặt nạ phòng độc tới đây ngay!
+166|Gọi cả bảo vệ và Chính phủ nữa! Nhanh lên!
+167|K-Không! Khônggg!
+168|Thôi khỏi!
+169|Không! Không! Không! Không!
+170|Law!
+171|Khônggg!
+172|Thấy chưa?! Tôi còn chẳng phải con người nữa!
+173|Đồ quái vật trắng! Làm ơn đi đi! Tôi van cậu!
+174|Này, anh kia! Sao dám mang đứa trẻ như thế vào đây?!
+175|Anh có biết ở đây bao nhiêu bệnh nhân không?!
+176|Đây là thông báo khẩn cấp.
+177|Trong bệnh viện có một đứa trẻ mắc bệnh Chì Trắng.
+178|Gã to con kia hung dữ quá!
+179|Chúng tôi đang khử trùng toàn bộ tòa nhà.
+180|Đúng là cái bệnh viện tệ nhất!
+181|Lỗi của ta. Chắc nó gợi lại ký ức đau buồn cho cháu.
+182|Tôi đã bảo rồi mà! Tôi không muốn đi bệnh viện!
+183|Chỗ đó tệ thật...
+184|Nhưng chắc chắn chỗ tiếp theo sẽ có bác sĩ giỏi!
+185|Tôi không đi đâu!
+186|Bệnh Chì Trắng! Không! Ai đó cứu với!
+187|Là người sống sót từ Thị trấn Trắng!
+188|Đi chỗ tiếp theo thôi! Chỗ sau cháu sẽ được chữa khỏi!
+189|Đủ rồi! Tôi không muốn đi!
+190|A lô?! Chính phủ Thế giới phải không?!
+191|Ở đây có người sống sót từ Flevance!
+192|Sao các người không giết hết bọn chúng đi?!
+193|Nhìn kìa, Law! Người thị trấn này trông hiền lắm!
+194|Không!
+195|Ối! Tôi sẽ bị lây mất! Đi đi!
+196|Thế mà cũng dám tự xưng là bác sĩ?!
+197|Tám bệnh viện bị phá hoại.
+198|Hai kẻ đó đi đường nào rồi?!
+199|Thằng bé bị bệnh đó...
+200|Corazón, tôi chẳng khá lên chút nào... Ông chỉ làm tôi tệ hơn thôi!
+201|Đừng than vãn nữa! Chỗ sau cháu sẽ được chữa khỏi!
+202|Hoặc tìm ra thuốc, hoặc chết! Giờ là chuyện sống còn của cháu đấy!
+203|Mạnh mẽ lên!
+204|Bệnh Chì Trắng!
+205|Đóng cửa bệnh viện! Chúng sắp vào đấy!
+206|Tao giết hết bọn mày!
+207|Đừng, Corazón!
+208|Corazón!
+209|Sáu tháng sau
+210|Mình đang làm gì thế này?
+211|Mình cứ bắt đứa trẻ từ thị trấn bi thảm đó sống lại bi kịch hết lần này đến lần khác...
+212|Mà nó chẳng khá hơn chút nào...
+213|Mình làm vậy vì "D" sao?
+214|Không... Mình chẳng còn quan tâm chuyện đó nữa.
+215|Mình chỉ... chỉ thấy thương nó quá...
+216|Chắc cháu chẳng muốn...
+217|tên ngốc cứ làm cháu đau này...
+218|nói ra những lời thế này đâu, nhưng...
+219|Cháu vẫn là một thằng nhóc hỗn láo...
+220|và nghe cháu nói "Tôi sắp chết" thì...
+221|ta đau lòng lắm.
+222|Cháu... đã đâm ta... hôm đó, nhưng...
+223|ta chẳng thấy đau chút nào!
+224|Ta biết người đau chính là cháu!
+225|Tội nghiệp cháu!
+226|Law!
+227|Cora-san...
+228|Này, Cora-san!
+229|Mặt ông bị sao thế?!
+230|Cháu vừa gọi ta là Cora-san...
+231|Im đi! Nghe ốc sên truyền tin đi!
+232|Là ta đây, Corazón.
+233|Corazón, em đang nghe đấy chứ?
+234|Đã sáu tháng từ khi hai đứa rời đi.
+235|Law có ở cùng em không?
+236|Doflamingo!
+237|Ra vậy. Mừng là cả hai vẫn ổn.
+238|Đã tìm được bác sĩ giỏi chưa?
+239|Ta đoán là chưa.
+240|Đưa Law về tàu đi.
+241|Có thể chữa được bệnh đó đấy.
+242|Ta nhận được tin về Trái Phẫu Thuật.
+243|Hải Quân đã đề nghị một khoản tiền khổng lồ để giao dịch với đám hải tặc...
+244|ngu đến mức không biết giá trị thật của nó, có vẻ vậy.
+245|Chắc Chính phủ đang giật dây phía sau.
+246|Rủi ro đấy, nhưng ta sẽ cướp nó.
+247|Do bản chất năng lực của nó, một khi có được...
+248|người ta tin tưởng nhất phải ăn nó.
+249|Em ăn nó đi, Corazón.
+250|Và chữa bệnh cho Law.
+251|Các ngươi nghĩ sao?
+252|Kể cả Tsuru, kẻ thường đánh hơi ra,
+253|tìm thấy và đuổi theo chúng ta,
+254|Hải Quân chẳng hề ló mặt suốt sáu tháng qua.
+255|Đúng sáu tháng Corazón vắng mặt.
+256|Ý ngài là trước giờ cậu ta mật báo cho Hải Quân sao?
+257|Có thể chỉ là trùng hợp.
+258|Mong là vậy. Ta không muốn nghi ngờ nó...
+259|Dù sao nó cũng là em trai ta.
+260|Tin tốt đây! Law!
+261|Cháu có cơ hội sống rồi! Quên bác sĩ đi!
+262|Nếu lấy được Trái Phẫu Thuật, ta sẽ chữa được bệnh Chì Trắng của cháu!
+263|Trái Phẫu Thuật là gì?
+264|Nó cho khả năng sửa đổi cơ thể con người!
+265|Nhờ nó, cháu có thể làm những ca mổ kỳ diệu và chữa cả bệnh lạ!
+266|Hả? Nghe như phép thuật vậy.
+267|Đúng! Nhưng không phải phép thuật! Phải có kiến thức y khoa!
+268|Ta biết cháu là con trai một bác sĩ được người dân Flevance tin tưởng!
+269|Nên nó hợp với cháu nhất!
+270|Tôi á?! Doflamingo bảo ông ăn nó mà!
+271|Ai ăn hai Trái Ác Quỷ sẽ chết.
+272|Doffy nói vậy vì không biết ta là người dùng Trái Ác Quỷ.
+273|Cả hai ta sẽ không bao giờ quay về gia tộc nữa!
+274|Ta quyết định vậy khi nhận ra chuyến đi này sẽ còn dài.
+275|Giờ chắc Doffy đã biết ta là kẻ phản bội rồi.
+276|Nhưng hắn đâu có vẻ nghi ngờ. Hắn bảo ông ăn nó mà...
+277|Doffy còn lý do khác để muốn ta ăn Trái Phẫu Thuật!
+278|Doffy...
+279|Vì ta trung thành,
+280|anh định đổi mạng ta lấy sự sống vĩnh cửu, phải không?
+281|Quay về là ta bị giết!
+282|Nghe này, ta sẽ đi trước Doffy và bọn chúng một bước để cướp Trái Phẫu Thuật!
+283|Cháu sẽ ăn Trái đó!
+284|Chữa khỏi rồi, ta sẽ cùng trốn đi đâu đó!
+285|Chuẩn bị ra khơi! Phải lấy được Trái Phẫu Thuật bằng mọi giá!
+286|"Bánh gạo"!
+287|"Bánh gạo viên". Tôi đây.
+288|Rosinante! Lâu rồi đấy. Ta lo cho cậu lắm!
+289|Này, Garp! Ra ngoài một lát!
+290|Cái gì?! Tôi vừa mang bánh tới cho ông mà! Pha trà cho tôi đi chứ!
+291|Phó Đô đốc Garp...
+292|Hay để tôi gọi lại sau, Sengoku-san?
+293|Ra ngoài! Đồ ngốc! Tôi phải làm việc! L-À-M V-I-Ệ-C!
+294|Ồ, Kuzan! Ăn bánh gạo với ta không?
+295|Ừm... Tôi nói được chưa?
+296|Ừ, xin lỗi. Nói đi.
+297|Có thật là ngài đã thỏa thuận mua Trái Phẫu Thuật không?
+298|S-Sao cậu biết?!
+299|Anh trai tôi đã phát hiện ra.
+300|Cái gì?! Đó là tuyệt mật mà!
+301|Cora-san chắc đang nói chuyện với...
+302|Tôi muốn biết hoạt động của đám hải tặc đó.
+303|Ta nghĩ trước buổi giao dịch thì khó tìm ra chúng...
+304|Kể cả khi Doflamingo định cướp Trái Phẫu Thuật trước buổi giao dịch?
+305|Hắn định vậy sao?!
+306|Hả? Hửm?
+307|Mình thấy hơi chóng mặt...
+308|Giao dịch khi nào, ở đâu?
+309|Ba tuần nữa, tại Rubeck ở North Blue.
+310|Rubeck...
+311|Doffy muốn tôi gặp anh ấy và mọi người ở đảo Swallow ba ngày trước giao dịch.
+312|Ba ngày trước à?
+313|Vậy chắc cả gia tộc sẽ có mặt, sẵn sàng chiến đấu.
+314|Tin hay đấy.
+315|Thế là xong đời Doflamingo! Ta sẽ chờ hắn ở đảo Swallow
+316|và phục kích, tóm gọn cả gia tộc Donquixote một mẻ!
+317|Cậu tránh xa hòn đảo đó ra!
+318|Tôi cũng định vậy.
+319|Danh sách mọi đối tác làm ăn của Doffy và những kẻ tai to mặt lớn dính líu với hắn trong bóng tối...
+320|Tôi sẽ sớm đưa ngài.
+321|Tôi nghĩ nó dư sức giúp ngài phanh phui mặt tối của North Blue.
+322|Được. Cảm ơn cậu.
+323|Này, Law. Cháu sẵn sàng chưa?
+324|Phải ra khơi thôi...
+325|Law!
+326|Này! Khoan! Đừng đùa chứ! Tỉnh lại đi!
+327|Không phải lúc này! Cuối cùng cũng có cơ hội rồi!
+328|Chưa đủ ba năm mà!
+329|Ta tưởng theo cháu tính thì vẫn còn thời gian chứ!
+330|Ôi không! Nó sốt cao quá! Phải làm sao đây?!
+331|Bác sĩ toàn lũ vô dụng!
+332|Chết tiệt! Ta phải làm gì đây?! Nói ta nghe đi, Law!
+333|Xin cháu hãy cầm cự!
+334|Sống thêm ba tuần nữa thôi!
+335|Cho ta một cơ hội!
+336|Ba ngày trước giao dịch
+337|Chết tiệt! Sao giờ sóng lại dữ thế chứ?!
+338|Cora-san...
+339|Hả? Sao vậy, Law?!
+340|Chính phủ biết bọn tôi sẽ chết...
+341|Nhưng vẫn bắt bọn tôi đào Chì Trắng, vì tiền!
+342|Gia đình tôi... và người dân Flevance...
+343|Chính phủ đã giết họ!
+344|Nên nếu ông là lính Hải Quân phe với chúng,
+345|thì nói thật cho tôi biết.
+346|Vô lý! Ta không phải lính Hải Quân!
+347|Tốt!
+348|Thật ra... Cháu cần hiểu rằng...
+349|Cướp Trái Phẫu Thuật nghĩa là...
+350|ta sẽ thành kẻ thù của tất cả... Doflamingo, Hải Quân và Chính phủ!
+351|Tất cả bọn chúng sẽ truy đuổi ta!
+352|Cháu nên chuẩn bị tinh thần chiến đấu để sống sót đi!
+353|Đảo Minion
+354|Ngài tìm ra đám hải tặc chưa, Sengoku-san?
+355|Rồi. Phía đông Rubeck, nơi diễn ra giao dịch...
+356|là đảo Minion, có một thị trấn ma.
+357|Có vẻ sào huyệt của chúng ở đó.
+358|Tên hải tặc là Diez Barrels. Nghe quen không?
+359|Có, hắn là cựu sĩ quan Hải Quân...
+360|Đúng vậy.
+361|Tàu trinh sát của ta đang theo dõi đảo Minion.
+362|Trong khi đó, ở đảo Swallow nơi cậu và Doflamingo định gặp nhau,
+363|có hai chiến hạm.
+364|Tôi sẽ không để Doflamingo cướp Trái Phẫu Thuật!
+365|Law, sắp xong rồi. Chờ ở đây nhé...
+366|Dray! Rượu! Mang thêm rượu ra đây!
+367|Có ngay.
+368|Mày nghĩ một trái này đáng giá bao nhiêu?
+369|Chúng trả tận năm tỉ đấy!
+370|Vô lý quá! Chính phủ điên rồi à?!
+371|Có từng ấy tiền thì chẳng cần làm hải tặc nữa!
+372|Đúng, đúng!
+373|Nghe thì đơn giản quá nhưng...
+374|bác sĩ nào ăn trái này,
+375|sẽ thành danh y được săn đón khắp thế giới.
+376|Nghe nói từng có một bác sĩ huyền thoại ăn nó và chữa được bệnh nan y, bệnh hiếm...
+377|bằng những ca mổ kỳ diệu.
+378|Nhưng chẳng liên quan gì đến bọn mình!
+379|Ừ, có tiền vẫn hơn nhiều!
+380|Chuẩn!
+381|Nhìn này, Law!
+382|Chiêu này làm mọi thứ ta chạm vào hoàn toàn câm lặng!
+383|Calm!
+384|Im phăng phắc!
+385|Cái mặt đó...
+386|Im phăng phắc!
+387|Im phăng phắc!
+388|Thối quá!
+389|Thấy chưa? Cháu chẳng nghe thấy gì, đúng không?!
+390|Năng lực đó thì được tích sự gì?!
+391|Chẳng ngầu gì cả!
+392|Trái Vũ Khí của Baby 5 còn hay hơn nhiều!
+393|C-Chết tiệt! Cháu nói đúng! Ước gì ta có năng lực đó!
+394|Nhưng không ai được ngủ yên như ta đâu...
+395|Kệ ông!
+396|Rung chấn gì vậy?!
+397|Thuyền trưởng! Ch-Chẳng có tiếng động gì mà khu nhà đã nổ tung!
+398|Cái gì?! Không thể nào!
+399|Kho báu cháy rồi!
+400|Dập lửa ngay!
+401|Chuyện gì vậy?!
+402|Có kẻ đột nhập à?!
+403|Đèn tắt hết rồi!
+404|Mảnh kính rơi xuống đầu!
+405|Đèn! Đèn vỡ hết rồi!
+406|Ai đó! Ai đó bật đèn lên...
+407|Mau bật đèn lên!
+408|Im phăng phắc!
+409|Lấy được rồi, Law! Trái Phẫu Thuật đây!
+410|Bệnh của cháu sẽ được chữa khỏi!
+411|Thằng này là ai?! Làm tao giật cả mình!
+412|Hắn từ đâu lăn xuống thế?
+413|Này! Một gã mặc áo khoác đen đã cướp Trái Phẫu Thuật!
+414|Đừng để hắn thoát!
+415|Là hắn!
+416|Ta biết là khó nhưng... cháu chờ ở đây một lát nhé.
+417|Ta sẽ quay lại ngay.
+418|Cùng với Trái Phẫu Thuật!

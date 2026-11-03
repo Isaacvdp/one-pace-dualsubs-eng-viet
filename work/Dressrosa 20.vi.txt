@@ -1,0 +1,326 @@
+1|Dưới lòng đất: Bên trong Tháp Cán Bộ
+2|Với quả nho giả làm từ tatababasco này, ta sẽ đánh ngất Sugar.
+3|Gì thế?
+4|Đây là...
+5|Có một con ruồi.
+6|Hắn bắn hạ một con ruồi.
+7|Mình nhất định sẽ khiến Chiến dịch SOP thành công.
+8|Ngươi bắn trúng được ruồi, nhưng không trúng được ta đâu.
+9|Ta nhanh lắm.
+10|Cậu ấy nhanh quá, mình không nhìn thấy luôn!
+11|Có khi cậu ấy làm được thật.
+12|Ta sẽ bắt các ngươi trả lại đồng đội bị bắt của bọn ta.
+13|Cố lên, Leo!
+14|Tớ biết cậu làm được mà!
+15|Xin hãy thành công.
+16|Khoan đã, Leo!
+17|Robiland?
+18|Cảng Giao Dịch Ngầm
+19|Suốt một năm qua chẳng có thêm công nhân mới nào.
+20|Ta biết.
+21|Hoa Shing "Hướng Dương Thanh Lịch"
+22|Chúng cũng chẳng xuất hiện ở cung điện nữa.
+23|Đứa nào đang lười biếng đấy?!
+24|Nhà máy Trái Ác Quỷ nhân tạo SMILE
+25|T-Tôi không có lười!
+26|Chắc chúng đã nhận ra năm trăm người của chúng mất tích rồi.
+27|Vậy mà chẳng bao giờ nghĩ xấu về ai. Bọn Tontatta đúng là đần...
+28|À nhầm, trong sáng.
+29|Vậy sao chúng không xuất hiện?
+30|Ai mà biết.
+31|Chà, không có công nhân mới thì cứ vắt kiệt năm trăm đứa đang có vậy.
+32|Làm đi! Roi Tình Yêu!
+33|Này!
+34|Mấy quả SMILE này chưa chín mà!
+35|Anh có sao không?
+36|Ta tưởng bọn Tontatta các ngươi trồng được mọi loại cây chứ.
+37|V-Vâng, nhưng SMILE đâu phải cây tự nhiên...
+38|Không bao biện!
+39|Xin cho anh tôi nghỉ một chút.
+40|Đồ ăn hôm nay bị hỏng nên anh ấy...
+41|Giờ còn chê cả đồ ăn nữa à?!
+42|Các ngươi không muốn chữa bệnh cho công chúa Mansherry sao?
+43|C-Có chứ!
+44|Vậy thì tiếp tục làm ra SMILE đi!
+45|Chúng là thứ không thể thiếu để làm thuốc chữa cho cô ấy.
+46|Mỗi vụ, chưa tới mười phần trăm số quả các ngươi trồng là dùng được.
+47|Làm chăm hơn nữa và cải thiện quy trình đi!
+48|Cho chúng tôi gặp công chúa Mansherry được không?
+49|Không.
+50|Tại sao?
+51|Nếu các ngươi bị lây bệnh của cô ấy...
+52|...thì bọn ta sẽ khóc mất!
+53|Tontatta các ngươi là đối tác vô giá của bọn ta mà!
+54|S-Sanshita-san!
+55|Chúng tôi sẽ làm hết sức!
+56|Xin hãy chăm sóc công chúa của chúng tôi!
+57|Tất nhiên rồi!
+58|Sao họ lại tin một lời nói dối trắng trợn như thế chứ?
+59|N-Ngài làm gì vậy, Robiland?!
+60|Xin lỗi. Nhưng nếu cậu cứ thế lao vào thì đã bị giết rồi.
+61|Tôi đã xem xác con ruồi đó.
+62|Nó nhỏ thế mà hắn vẫn bắn trúng ngay giữa hai mắt.
+63|Thị lực động của Trébol thật phi thường.
+64|Hắn còn canh gác thì nhắm vào Sugar quá nguy hiểm.
+65|Vậy ngài định làm gì, Robiland?
+66|Đằng này.
+67|Này, cái thùng này là sao vậy?!
+68|Là một đàn ong hồng!
+69|Có tin báo, Trébol-sama!
+70|Băng của thuyền trưởng Eves đang gây náo loạn ở cảng số bốn.
+71|Chúng đòi nói chuyện với chỉ huy về vụ giao dịch.
+72|Không sợ danh Joker thì chắc gan to lắm.
+73|Này, đổi lính gác rồi à?
+74|Lính gác thường đang đi ăn trưa!
+75|Khẩn cấp lắm!
+76|Nhiều người của bọn tôi bị thương rồi!
+77|Xin hãy giúp bọn tôi!
+78|Bị thương à? Ta tới đây.
+79|Này, này!
+80|Trébol-sama! Ngài ra ngoài sao?
+81|Tăng cường canh gác bốn cửa của Tháp Cán Bộ.
+82|Rõ!
+83|Và có chuyện gì thì báo ta ngay.
+84|Ờ... Rõ!
+85|Trébol-sama!
+86|Ngài vất vả rồi!
+87|Này, này!
+88|Đâu? Đánh nhau ở đâu?
+89|Cảng số bốn.
+90|Gì cơ? Ngài Usoland không đánh sao?
+91|Với tôi thì vụ này dễ ợt, nhưng...
+92|Không làm gì thì chẳng ai làm gì được mình.
+93|...tôi sẽ đứng trông chừng để các cậu thêm tự tin!
+94|Tự tin?
+95|Đừng lo! Có chuyện gì thì tôi sẽ cứu các cậu!
+96|Yên tâm quá.
+97|Ai đó?
+98|Đầu hàng đi, Sugar!
+99|Bọn ta đến để cứu đồng đội đang bị giam trong nhà máy!
+100|Và sẽ đánh ngất ngươi!
+101|Đánh ngất?
+102|Ta chẳng biết gì về đồng đội các ngươi cả.
+103|Cái gì?!
+104|Thật sao?
+105|Cái gì?!
+106|Thật.
+107|Vậy thì thôi.
+108|Thôi cái gì mà thôi! Đừng để cô ta lừa!
+109|S-Suýt thì nguy! Trả lại đồng đội đây!
+110|Ai kể các ngươi chuyện này? Rõ là các ngươi ngu quá nên chẳng nhận ra mình bị lừa.
+111|Ta vẫn thắc mắc sao suốt một năm qua người Tontatta không xuất hiện ở cung điện.
+112|Hóa ra là vì có kẻ đã lừa các ngươi.
+113|Im đi!
+114|Giữ cô ta lại và cạy miệng ra!
+115|Xúc phạm quá. Cứ như các ngươi coi thường ta vậy...
+116|Gấu Đen Nhỏ!
+117|Đến lúc lập khế ước rồi.
+118|Ôi không! Cô ta biến bọn mình thành đồ chơi rồi!
+119|Hãy tuân lệnh ta cho đến chết.
+120|Bọn mình bị quên hết rồi sao?!
+121|Hả?
+122|Tự dưng ở đâu ra một đám đồ chơi.
+123|Nãy giờ bọn mình đang làm gì nhỉ?
+124|Giết sạch mọi kẻ xâm nhập trong Tháp Cán Bộ!
+125|Mình không thể cưỡng lại lệnh của cô ta!
+126|Giết sạch... Cả mình nữa sao?!
+127|Đừng! Tớ không muốn đánh nhau!
+128|Đó chắc là thuộc hạ của Sugar!
+129|Không ngờ ngoài Trébol cô ta còn có quân hỗ trợ!
+130|Leo! Là tớ, Flapper đây!
+131|Hạ bọn lính địch đi!
+132|Không! Không! Không!
+133|Khôôông!
+134|Trébol, quay lại! Là bẫy đấy!
+135|Trébol!
+136|Bẫy à?
+137|Này, ngươi!
+138|Nhìn kìa, Trébol-sama!
+139|Bọn hải tặc đang làm loạn. Bọn tôi không xử nổi!
+140|Này, này, ngươi!
+141|Có chuyện gì?
+142|Trébol-sama!
+143|Này, sao rồi?
+144|À, cũng chẳng có gì... Chỉ là một đàn ong trong hàng hóa thôi.
+145|Vụ giao dịch không có vấn đề gì.
+146|Con đàn bà đó!
+147|Này, này, khoan, khoan!
+148|Ngươi!
+149|Này, ngươi là ai? Này!
+150|Biến mất rồi! Này! Này!
+151|Nhưng khoan... Gương mặt đó...
+152|Là người của băng Mũ Rơm sao?!
+153|Sao cô ta vào được đây?
+154|Trébol!
+155|Sao chúng lại nhắm vào Sugar?
+156|Quay lại đây! Ngươi bị lừa rồi!
+157|Chết đi, đồ đần!
+158|Giờ thì ta nổi giận rồi!
+159|Xích Dính!
+160|Gậy Dính...
+161|Hả? Gì thế kia?!
+162|Thiên Thạch!
+163|T-Trébol-sama nổi điên rồi!
+164|Tháp Cán Bộ bị nghiền nát rồi!
+165|Usopp, Usopp, tỉnh lại đi.
+166|May quá.
+167|Rob-
+168|C-Chuyện gì vậy?
+169|Tự nhiên có con vịt rơi từ trần xuống.
+170|Leo và mọi người bị bắt rồi.
+171|Còn những kẻ khác nữa, đúng không?
+172|Đúng không, đúng không?
+173|Chúng tên là gì?
+174|Tôi không bao giờ khai đâu!
+175|Đúng thế, đừng nói cho hắn!
+176|Mau trốn khỏi đây khi còn kịp thôi, Robin.
+177|Thấy chưa, gã kia là bạn ta mà.
+178|Tên hắn hình như là...
+179|À, ý ông là Usoland à?
+180|Này!
+181|Đồ ngốc, hắn đâu phải bạn ta.
+182|Chết tiệt, ông lừa tôi.
+183|Gã lính một chân cũng là người của các ngươi à?
+184|T-Tôi không khai đâu.
+185|Bọn ta biết cả rồi.
+186|Đã biết rồi thì giấu cũng chẳng ích gì.
+187|Ông ấy là đồng đội của chúng tôi.
+188|Biết ngay mà.
+189|Chết tiệt.
+190|Ta bắt đầu xâu chuỗi được mọi chuyện rồi.
+191|Dù ông có đoán ra hết thì cũng muộn rồi.
+192|Chúng tôi sẽ cứu đồng đội về!
+193|Thứ chất dính đó cũng dễ cháy đấy.
+194|Giờ lại chuyện gì nữa đây!?
+195|Trébol-sama!
+196|Leo, Leo!
+197|Mình mau trốn...
+198|À không, các cậu phải ra khỏi đây.
+199|Các cậu không thể đi tiếp được nữa.
+200|Các cậu không có cửa thắng Trébol đâu.
+201|Chúng tôi... không thể làm vậy.
+202|Tôi phải... mau chóng hoàn thành... Chiến dịch SOP...
+203|Rồi đội trưởng sẽ...
+204|đánh bại Doflamingo cho chúng tôi.
+205|Đội trưởng đang chờ chúng tôi!
+206|Mình phải nhanh lên.
+207|Cung điện Hoàng gia, Thang máy tầng 1
+208|Đội trưởng!
+209|Sáng nay ở Dressrosa.
+210|Doflamingo-sama rút khỏi Thất Vũ Hải sao?
+211|Ngài ấy cũng sẽ thoái vị à?
+212|Giờ hắn chỉ là hải tặc thôi!
+213|Giờ hắn sẽ bị Hải Quân truy lùng!
+214|Chúng ta sẽ được tự do!
+215|Đội trưởng, ngài đọc báo chưa?
+216|Giờ đồng đội chúng ta sẽ trở về, đúng không?
+217|Rốt cuộc không phải đánh nhau nữa!
+218|Nhẹ cả ngư-
+219|Không, đó là tin sai.
+220|Không thể nào!
+221|Mừng quá, hóa ra là nhầm!
+222|Người vĩ đại như ngài ấy sao có thể rời bỏ ngai vàng được.
+223|Doflamingo-sama!
+224|Tôi sẽ tham gia giải đấu hôm nay và giành Trái Mera Mera.
+225|Rồi tôi sẽ giết Doflamingo!
+226|Rebecca, bình tĩnh đi.
+227|Ta hiểu cơn giận của con.
+228|Ta cũng thấy như vậy...
+229|nhưng đừng làm gì liều lĩnh.
+230|Người chiến đấu sẽ là bọn ta.
+231|Mọi thứ đã chuẩn bị xong rồi.
+232|Không, tôi không chờ nữa!
+233|Chúng ta bị đẩy từ thiên đường xuống địa ngục.
+234|Ai cũng đã tới giới hạn rồi.
+235|Ý chí của họ đã bị bẻ gãy!
+236|Lẽ nào cứ ngồi chờ ngày bị hành quyết?
+237|Thắng một nghìn trận thì được tự do à?
+238|Đó đâu phải hy vọng!
+239|Đó là bức tường tuyệt vọng!
+240|Đấu sĩ huyền thoại ba nghìn trận thắng, Kyros?
+241|Ai cũng biết bức tượng đó là giả.
+242|Kyros chỉ là chiến binh lý tưởng do đám tù nhân sắp chết mơ ra.
+243|Một bức tượng chứa đầy mong ước được chiến thắng và thoát khỏi đây.
+244|Thay vì đặt hy vọng vào một giấc mơ ngớ ngẩn,
+245|tôi sẽ đánh cược vào giải đấu hôm nay!
+246|Cơ hội gì chứ!
+247|Con không thể thắng được đâu.
+248|Con chỉ vứt bỏ mạng sống thôi! Ta không cho con tham gia!
+249|Con nóng nảy quá!
+250|Con mới mười sáu tuổi thôi!
+251|Con nghĩ mình là người lớn rồi sao, Rebecca?!
+252|Con vẫn còn là trẻ con!
+253|Nghe lời ta đi!
+254|Đừng có nói như thể ngài là cha tôi!
+255|Chính ngài mới đang nóng lên đấy.
+256|Kế hoạch gì chứ?!
+257|Ngài không thể nào thắng được Doflamingo!
+258|Ngài chỉ là một món đồ chơi một chân thôi!
+259|Đúng vậy...
+260|Con nói đúng.
+261|Không, khoan đã!
+262|Có lẽ tôi nói hơi quá.
+263|Nhưng xin con, đừng tham gia.
+264|Tôi không có ý đó.
+265|Ngài lính, khoan đã!
+266|Đợi đã! Ngài lính!
+267|Tôi sợ ngài sẽ chết nên mới hoảng lên thôi!
+268|Tôi xin lỗi!
+269|Đợi đã, ngài lính!
+270|Ngài lính!
+271|Ôi chao!
+272|Rebecca, người chưa từng ra đòn trước, đã bắt đầu tấn công!
+273|Thanh kiếm đó là sao vậy?
+274|Không có lưỡi.
+275|Đây là đấu trường để giết chóc.
+276|Không chém người thì để người chém mình đi.
+277|Thế mới khiến khán giả phấn khích.
+278|Khóa!
+279|Trúng đòn trực diện!
+280|Người phụ nữ bất bại hoàn toàn bất lực!
+281|Diamante!
+282|Chết tiệt!
+283|Này, Dưa Cơ Bắp!
+284|Là Bartolomeo.
+285|Bảo vệ con bé đó.
+286|Rebecca, ngươi có biết mẹ ngươi, Scarlett, đã chết thế nào không?
+287|Mẹ đi kiếm gì cho hai mẹ con ăn nhé.
+288|Cái cách tên lính đồ chơi đó khóc lóc thật thảm hại.
+289|Ta xin lỗi,
+290|ta đã không bảo vệ được mẹ con!
+291|Cung điện Hoàng gia, tầng 1, Bên ngoài thang máy
+292|Những chấn động này...
+293|Chắc là Pica.
+294|Sao hắn lại quậy phá như vậy?
+295|Chúng tôi không để các người đuổi theo họ đâu!
+296|Ngài không sao chứ, đội trưởng?
+297|C-Cảm ơn.
+298|Chúng ta phải nhanh lên.
+299|Khoan đã, họ sẽ chết mất!
+300|Buông ta ra, lũ tí hon này!
+301|Hãy nhìn về phía trước, đội trưởng!
+302|Ngay từ đầu chúng tôi đã chuẩn bị tinh thần rồi.
+303|Đừng có ngốc!
+304|Nếu ngài không đến kịp thì sẽ ra sao?
+305|Dù Leo và mọi người có hoàn thành Chiến dịch SOP, không hạ được Doflamingo thì chẳng có gì thay đổi!
+306|Chỉ có ngài mới giết được Doflamingo, đội trưởng!
+307|Cảng Giao Dịch Ngầm, Tháp Cán Bộ
+308|Đội trưởng của các cậu là ai vậy, Leo?
+309|Sao các cậu lại đặt cược tất cả vào ông ta?
+310|Ông ta chỉ là một món đồ chơi một chân thôi mà!
+311|Đồ chơi mới bị biến ra sẽ bị ràng buộc bởi khế ước khiến chúng không thể chống cự.
+312|Nhưng đội trưởng của chúng tôi, món đồ chơi đầu tiên được tạo ra ở đất nước này...
+313|Sugar đã sơ suất, không ép ông ấy lập khế ước.
+314|Nhờ sơ suất duy nhất đó mười năm trước, ông ấy là đồ chơi duy nhất có thể chống lại gia tộc Donquixote.
+315|Vì thế suốt mười năm nay, đội trưởng đã chiến đấu một mình.
+316|Nếu không có ông ấy, đồ chơi chỉ biết khóc cho đến khi thiếp đi.
+317|Người Tontatta chúng tôi cũng chẳng nhận ra gì cả.
+318|Tất cả chúng tôi đã bị biến thành nô lệ của chúng.
+319|Nếu làm ngơ trước tiếng thét của ông ấy thì đất nước này chẳng thể cứu được!
+320|Ông ấy đáng để chúng tôi đặt cược tất cả!
+321|Giờ chẳng ai còn nhớ ông ấy...
+322|nhưng ngày xưa, ai cũng biết tên ông ấy.
+323|Hồi ông ấy còn là người to lớn, tên ông ấy là...
+324|Kyros!
+325|Đấu sĩ mạnh nhất trong lịch sử Đấu trường!
+326|Ông ấy là đội trưởng của chúng tôi!

@@ -1,0 +1,378 @@
+1|Nico Robin, con ả láo xược...
+2|Ngươi không thấy họ hơi bị thiệt thòi sao?
+3|Thiệt thòi?
+4|Này này... ngươi tưởng đây là một trận đấu công bằng chắc?
+5|Đây là một cuộc hành quyết, Nico Robin!
+6|Tôi nghĩ ngươi hiểu ngược rồi.
+7|Chỉ huy-san, ông không cần phải ngoái lại phía sau nữa đâu.
+8|Tôi sẽ ở cạnh Rebecca!
+9|Cảm ơn cô, tôi nợ cô một lần.
+10|Tôi vừa suýt nữa thì bị nhấn chìm...
+11|...bởi cơn thịnh nộ!
+12|Cao nguyên Hoàng cung - Bậc thứ ba
+13|Tụi mày đang làm gì đấy?!
+14|Xin tha cho chúng tôi!
+15|Ch-Chúng tôi chỉ khiêng xác người đã ngã xuống thôi! Xin cho chúng tôi đi!
+16|Hắn đã chết đâu!
+17|Anh nói đúng.
+18|Có khi phải mấy ngày nữa hắn mới tỉnh, nhưng chúng tôi muốn chăm sóc hắn!
+19|Làm ơn! Hãy rủ lòng thương của võ sĩ!
+20|Xin hãy rủ lòng thương!
+21|Tôi van anh đấy!
+22|Thôi được! Đi mau đi!
+23|Cảm ơn rất nhiều!
+24|Thật là...
+25|Nhà máy SMILE
+26|Ồ, Senor!
+27|Gọi được rồi!
+28|Viola-sama, đội nhà máy đây!
+29|Công chúa Mansherry và nhóm của Leo sao rồi?
+30|Có khi lúc này công chúa đang chịu khổ sở lắm!
+31|Chúng tôi lo quá!
+32|Tôi vừa phát hiện ra một chuyện khủng khiếp.
+33|Chuyện khủng khiếp á?!
+34|Đợi chút. Tôi sẽ gọi Leo ngay, cứ giữ máy nhé.
+35|Cao nguyên Hoàng gia cũ
+36|Leo, cậu nghe thấy tôi không?
+37|Ồ, Viola-sama!
+38|Chúng tôi đang leo lên tháp tường thành đây!
+39|Sắp tới nhà nguyện trong cung điện rồi!
+40|Leo, cậu phải nhanh lên!
+41|Giolla đang giữ Mansherry và ép cô bé dùng năng lực!
+42|Hả? Kinh khủng quá!
+43|Ôi không! Nhanh lên, Leo!
+44|Tháp tường thành bên dưới Hoàng cung
+45|Chúng kia rồi! Bọn người lùn!
+46|Chúng đang leo lên!
+47|Bắn, bắn đi!
+48|Cầu thang lên Hoàng cung
+49|Mang bom tới đây! Tao sẽ thổi bay chúng cùng cái cầu thang!
+50|Chúng tôi sẽ tới siêu nhanh!
+51|Cố thêm chút nữa nhé, công chúa Mansherry!
+52|Nghe lời ta đi chứ...
+53|Phía sau nhà nguyện, tầng một - Phòng trừng phạt
+54|...công chúa người lùn!
+55|Tôi không làm nổi nữa đâu...
+56|Con gái Tộc trưởng Tontatta, Công chúa Tontatta - Mansherry
+57|Cho tôi về Green Bit đi!
+58|Tôi không giúp các người được nữa!
+59|Im lặng!
+60|Ngươi gọi ai là Boa Hancock hả?!
+61|T-Tôi có... nói gì như thế đâu...
+62|Đừng có làm nũng!
+63|Đến lúc giải phóng năng lực của ngươi rồi!
+64|Nhìn đi!
+65|Nhìn những cán bộ đã gục ngã kia!
+66|Thế nhưng những kẻ đã chiến đấu với các cán bộ của ta...
+67|Chúng có thể đã thắng, nhưng cũng bị thương rất nặng.
+68|Nếu ngươi hồi sinh các cán bộ bằng sức mạnh Trái Chữa Lành,
+69|kẻ thù sẽ bất lực và chỉ còn cách chấp nhận cái chết!
+70|Thế trận sẽ hoàn toàn nghiêng về phía ta!
+71|Nào,
+72|dùng lại năng lực đã chữa cho Sugar lúc nãy đi!
+73|Lấy cái bình tưới chứa nước thần ra!
+74|Mau! Mau lên!
+75|Mau!
+76|Tôi đã biết...
+77|rằng các người là kẻ xấu đã gây khổ cho Vua Riku...
+78|và rằng Vua Doflamingo đã lừa dối chúng tôi.
+79|Thì sao?! Đừng có lên mặt, con Tontatta trơ tráo!
+80|Tôi không muốn chữa cho kẻ xấu nữa!
+81|Vậy nên...
+82|Đáng yêu quá đi!
+83|Đáng yêu ghê!
+84|Này, tập trung vào!
+85|Ngươi gọi ai là mỹ nhân ngàn năm có một hả?!
+86|Mau!
+87|Cứu với!
+88|Thôi được...
+89|Vậy là ngươi chẳng quan tâm bạn bè ở nhà máy sẽ ra sao, phải không?
+90|Nh-Nhưng nếu tôi chữa vết thương cho họ, họ sẽ lại làm hại người khác, đúng không?!
+91|Con nhãi láo toét!
+92|Ta sẽ làm mọi cách để vắt cạn sức mạnh của ngươi!
+93|Cứu tôi với, Leo!
+94|Trúng một đứa rồi!
+95|Kabu-san!
+96|Kabu-san?! Leo! Anh ấy bị sao vậy?!
+97|Đừng dừng lại!
+98|Đi đi, Leo!
+99|Tôi sẽ đuổi theo ngay! Tôi không sao!
+100|Đau quá! Bà làm tôi đau!
+101|Mình bị sao thế này?
+102|Vết thương của hắn lành rồi!
+103|Ra vậy, công chúa người lùn.
+104|Hóa ra nước mắt của ngươi cũng chữa được vết thương.
+105|Khóc nữa đi!
+106|Không!
+107|Nào! Rơi thêm nước mắt chữa lành đi!
+108|Đau quá! Cứu với!
+109|Leo, nhanh lên!
+110|Tới ngay đây!
+111|Có chuyện gì vậy, Viola?!
+112|Giolla phát hiện nước mắt của Mansherry có thể chữa vết thương!
+113|Cái gì?!
+114|Mụ ta đang đánh đập cô bé tàn nhẫn để bắt khóc!
+115|Cái gì?!
+116|Công chúa!
+117|Tôi, Mousey, sẽ tới cứu người ngay!
+118|Vô ích thôi! Giờ chỉ còn biết trông vào Leo và Kabu-san!
+119|Công chúa Tontatta có năng lực chữa lành sao?!
+120|Cô bé đã ăn Trái Chữa Lành.
+121|Cốt lõi sức mạnh của nó là chữa lành vết thương cho sinh vật sống.
+122|Thảo nào kẻ thù muốn có nó.
+123|Quả vậy.
+124|Chúng định dùng sức mạnh đó để hồi phục hoàn toàn các cán bộ đã gục ngã!
+125|Nếu vậy thì chúng ta tiêu đời!
+126|Thế này siêu tệ!
+127|Leo, trông cậy vào cậu đấy!
+128|Kabu-san, cố lên!
+129|Nhưng Sugar không có ở đó, đúng không?
+130|Có đấy!
+131|Háaa?!
+132|Chúng sẽ quay lại á?! Đùa nhau à!
+133|Cậu làm được mà, Leo!
+134|Đi đi! Giành lại công chúa!
+135|Quả vậy!
+136|Kia rồi! Phòng trừng phạt!
+137|Tìm thấy công chúa rồi!
+138|Leo!
+139|Công chúa!
+140|Ngươi tới muộn rồi!
+141|Bắt lấy nó!
+142|Nào, trở lại đi, các cán bộ gia tộc Donquixote!
+143|Hiệp hai, bắt đầu!
+144|Leo!
+145|Tránh ra!
+146|Cậu lo Giolla đi!
+147|Bọ Hung...
+148|Móc Ngược!
+149|Cái gì?!
+150|Khâu, khâu, khâu, khâu, khâu, khâu, khâu!
+151|Khâu!
+152|Khâu...
+153|Khâu, khâu, khâu, khâu, khâu!
+154|Ta sẽ xếp chúng lại rồi làm lại!
+155|Không cần đâu!
+156|Khâu, khâu, khâu, khâu, khâu, khâu, khâu!
+157|Khâu, khâu, khâu, khâu, khâu, khâu, khâu...
+158|Cái gì?!
+159|Tôi sẽ khâu tất cả các người lại với nhau để không bao giờ tách ra được!
+160|Cái gì thế này?!
+161|Haute Couture!
+162|May đo cao cấp
+163|Patchwork!
+164|Cái gì?!
+165|Leo đến cứu mình rồi...
+166|Cứ như hoàng tử vậy!
+167|Đây... là... nghệ thuật...
+168|Cao nguyên Hoàng gia cũ
+169|Cậu ấy làm được rồi! Suýt nữa thì nguy!
+170|Th-Thật sao?!
+171|Cậu ấy hạ Giolla trước khi mụ kịp hồi phục cho ai!
+172|Người tí hon, làm tốt lắm!
+173|Mansherry được cứu rồi!
+174|Yeah!
+175|Leo, tôi sợ lắm...
+176|Công chúa lại lên cân nữa rồi.
+177|Công chúa Tontatta Mansherry - Giải cứu thành công
+178|Vẫn như mọi khi...
+179|Leo! Leo!
+180|Tôi đau chân.
+181|Cậu cõng tôi cũng được đấy!
+182|Hoặc bế tôi cũng được.
+183|Lại thế rồi! Công chúa lại đỏng đảnh!
+184|Nếu đau thật thì công chúa tự chữa được mà!
+185|Công chúa vốn chạy giỏi, nên chạy ra khỏi đây luôn đi!
+186|Vậy tôi không đi đâu hết.
+187|Cái gì?! Lại thế rồi!
+188|Công chúa lại làm mình làm mẩy!
+189|Đằng nào tôi cũng đâu cần cậu giúp.
+190|Thái độ gì thế hả?!
+191|Tôi bỏ công chúa lại đây thật đấy!
+192|Cứ việc!
+193|Cõng cô ấy luôn đi cho rồi!
+194|Phải đi thôi!
+195|Ui da...
+196|Thật tình! Công chúa đỏng đảnh, làm mình làm mẩy, lại còn nóng tính...
+197|Phiền phức quá đi, công chúa!
+198|Lưng của Leo...
+199|Cô ấy tử tế với tất cả mọi người, trừ cậu ta.
+200|Cậu chậm hiểu đến mức nào vậy, Leo?
+201|Nguy rồi!
+202|Chúng cướp mất Mansherry rồi! Bắt lũ người lùn đó lại!
+203|Chúng chạy hướng kia! Đừng để chúng thoát!
+204|Tôi... tôi thất bại rồi...
+205|Nhưng đây là khủng hoảng!
+206|Phải báo cho Thiếu chủ!
+207|Năng lực tối thượng của Mansherry là thiết yếu cho kế hoạch của Thiếu chủ.
+208|Năng lực phục hồi mọi thứ đổi lại bằng tuổi thọ của chính nó!
+209|Dù nhà máy SMILE có chuyện gì,
+210|chỉ cần sức mạnh Trái Chữa Lành còn ở phe ta,
+211|ta có thể phục hồi nó. Chắc chắn ngài ấy nghĩ vậy!
+212|Nếu không làm gì đó, th-th...
+213|Nhà máy SMILE
+214|Franky vs. Senor Pink
+215|...nhà máy sẽ bị phá hủy mất!
+216|Senor, bảo vệ nhà máy bằng mọi giá!
+217|Franky...
+218|Không! Né đi, Senor!
+219|Strong...
+220|Hammer!
+221|Ồ! Hắn lại lặn xuống đất rồi!
+222|Fraland, hắn lại làm nữa kìa!
+223|Né đi!
+224|Meo Meo...
+225|Suplex!
+226|Ồ! Senor!
+227|Cả hai không trụ được lâu nữa đâu!
+228|Fraland!
+229|Chúng tôi biết anh né được đòn đó mà, Fraland!
+230|Anh đã ăn cùng một đòn ba mươi lần liên tiếp rồi! Tại sao?!
+231|Đừng xen vào, người Tontatta.
+232|Đúng vậy... Senor cũng ăn cùng một cú đấm ba mươi lần.
+233|Tại sao chứ?!
+234|Khi ai đó mời cậu một ly ở quán rượu,
+235|là đàn ông thực thụ thì không được rụt ly lại!
+236|Cái gì?! Vậy đừng nói là anh...
+237|Gã này là một tay cứng cựa. Nên tôi...
+238|sẽ không né bất kỳ đòn nào hắn tung ra.
+239|Tôi sẽ đỡ trực diện mọi đòn của hắn, và cuối cùng vẫn thắng!
+240|Đó là... Strong-style của tôi!
+241|Đó là... Strong-style của ta!
+242|Tôi biết các cậu lo, nhưng đây là trận quyết đấu giữa đàn ông!
+243|Tôi sẽ thắng bằng mọi giá, cứ xem đi!
+244|Tôi sẽ không để các cậu làm nô lệ cho chúng lần nữa!
+245|Fraland!
+246|Nhóc làm ta say hơn cả rượu quán rẻ tiền đấy.
+247|Đừng quên những gì ngươi vừa nói!
+248|Ta...
+249|cũng chẳng còn trẻ trung gì nữa.
+250|Để ta kết thúc bằng đòn tiếp theo.
+251|Senor, trước đó cho tôi nói một câu được không?!
+252|Ông ở xa quá! Xa quá đi mất!
+253|Ngươi hiểu ý ta chứ?
+254|Ngươi nói sẽ đỡ trực diện mọi đòn của ta.
+255|Nếu muốn giữ đúng lời tuyên bố đàn ông đó, thì đỡ đòn này và...
+256|...cố mà sống sót!
+257|Nếu ngươi vẫn đứng dậy được sau đó, ta chịu thua.
+258|Tôi sẽ đỡ trực diện đòn cuối của ông!
+259|Được thôi!
+260|Hắn bơi xuyên qua tường của tòa tháp!
+261|Hắn định làm gì vậy?!
+262|Tiếc là hôm nay bầu trời chẳng mấy thân thiện.
+263|Không thì cứ bay lên mãi,
+264|ta đã có thể nhìn thấy Russian.
+265|Russian?
+266|Ừ... ta cũng có một đứa con trai tên Gimlet.
+267|Nhưng tiếc thay, trọng lực vẫn còn đó. Ta không thể lên cao hơn.
+268|Này! Ông nói gì vậy hả?!
+269|Cyborg, lưng ngươi là máu thịt, đúng không?
+270|Ông... nhận ra rồi à?!
+271|Giờ thì im đi!
+272|Kẻo cắn phải lưỡi đấy!
+273|Meo Meo Suplex!
+274|Baby...
+275|Buster!
+276|Fraland!
+277|Ông đã giữ lời...
+278|...giờ đến lượt tôi!
+279|Ta thua rồi.
+280|Xin lỗi, Thiếu chủ.
+281|Franky...
+282|Iron Boxing!
+283|À, phải rồi...
+284|Russian...
+285|Ngày anh gặp em... và ngày em thôi mỉm cười...
+286|...đều là những đêm mưa tầm tã như thế này...
+287|Mưa đổ xuống bất chợt quá nhỉ? Tôi ướt hết rồi!
+288|Cô ướt sũng mà vẫn cười sao?
+289|Tôi... thích mưa.
+290|Thứ tôi không thích à? Ừm...
+291|À, hải tặc! Tôi ghét cay ghét đắng!
+292|Anh làm nghề gì? Nói đi mà.
+293|T-Tôi làm ở ngân hàng.
+294|Vậy à...
+295|Anh yêu!
+296|Anh yêu, mình đặt tên con là gì đây?
+297|Để xem...
+298|Gimlet.
+299|Tên hay quá!
+300|Hả?
+301|Gimlet chết rồi sao?
+302|Đúng một tuần trước, cái hôm anh bỏ đi không báo,
+303|thằng bé đột nhiên sốt cao...
+304|em đưa con vào viện, nhưng họ đành bó tay!
+305|Đồ dối trá...
+306|Hả?
+307|Đồ dối trá!
+308|Em đã gọi tới ngân hàng mấy lần!
+309|Họ bảo chẳng có ai như anh làm ở đó cả!
+310|Làm ơn! Nói thật với em đi!
+311|Rốt cuộc anh làm nghề gì?!
+312|Nhà mình sống bằng đồng tiền gì vậy?!
+313|Trả lời em đi!
+314|Nào! Không trả lời được à?!
+315|Anh không còn xứng làm cha nữa!
+316|Tránh ra!
+317|Kh-Khoan đã!
+318|Khoan, Russian! Ngoài trời vẫn đang bão!
+319|Anh coi em là con ngốc à?!
+320|Đừng đi theo em!
+321|Không phải như em nghĩ đâu, Russian...
+322|Lý do anh không thể kể hết với em là...
+323|Russian!
+324|Em ở đâu?!
+325|Russian!
+326|Vì cơn mưa,
+327|đất đá sạt lở ngay phía trên chỗ vợ anh, và cô ấy bị vùi lấp.
+328|Tình trạng cô ấy khá nghiêm trọng.
+329|Sống thực vật sao?
+330|Phải, cô ấy bất tỉnh.
+331|Tôi rất tiếc, nhưng với tình trạng hiện giờ,
+332|có lẽ cô ấy sẽ không bao giờ bày tỏ cảm xúc được nữa.
+333|Tôi cũng không biết cơ thể cô ấy trụ được bao lâu...
+334|Giá mà em không gặp anh, thì em đã...
+335|Cảm ơn anh yêu!
+336|Anh xin lỗi! Anh không muốn mất em...
+337|Nên anh mới nói dối!
+338|Anh muốn nghe em đáp lại...
+339|Anh muốn nghe giọng em...
+340|Thêm một lần nữa...
+341|Chỉ một lần nữa thôi...
+342|Anh muốn thấy em cười.
+343|Thêm một lần nữa...
+344|Russian, nhìn này.
+345|Anh tìm được cái mũ y hệt cái Gimlet từng đội!
+346|Sao, anh trông có giống nó không?
+347|Dù gì nó cũng giống anh mà.
+348|X-Xin lỗi em! Anh đùa quá trớn rồi.
+349|Nếu ai đó thấy anh mặc thế này...
+350|Russian.
+351|Ông đúng là có một không hai đấy, ông già!
+352|Mất con trai, vợ thì gặp tai nạn khủng khiếp.
+353|Chừng đó đủ làm bất kỳ ai suy sụp.
+354|Pink, gu thời trang của mày bị làm sao vậy hả?!
+355|Này!
+356|Ta ra ngoài đây.
+357|Nhìn kìa! Đồ biến thái!
+358|Biến thái đi ngang qua kìa!
+359|Ghê quá!
+360|Ôi! Quái vật kìa!
+361|Này! Thôi đi!
+362|Russian...
+363|Với anh,
+364|những bộ đồ này còn quý hơn cả bộ vest đắt tiền nhất.
+365|Bởi chỉ những lúc anh mặc chúng...
+366|...em mới cười với anh.
+367|Senor!
+368|Fraland!
+369|Thảm hại thật.
+370|Rốt cuộc ông đã nhớ lại chuyện gì...
+371|...mà khóc thế kia?
+372|Người anh em.
+373|Nếu mai này ta gặp lại nhau ở đâu đó...
+374|Hãy cùng làm một ly,
+375|rồi kể tôi nghe...
+376|...về người phụ nữ tên Russian đó.
+377|Trận chiến tại Nhà máy SMILE
+378|Người thắng: Franky

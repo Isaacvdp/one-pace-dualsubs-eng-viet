@@ -1,0 +1,269 @@
+1|Chạy đi! Chạy đi!
+2|Chạy vào trung tâm đảo!
+3|N-Những tòa nhà chưa bị cắt đứt...
+4|...đang bị Lồng Chim đẩy dồn về phía chúng ta!
+5|Đất nước đang ngày càng nhỏ lại!
+6|Khu Hoàng cung - Tầng hai
+7|Lồng Chim đang co lại?
+8|Ra đó là nguyên nhân của mọi náo loạn.
+9|Đây mới là nỗi kinh hoàng thật sự của Lồng Chim đấy, cưng!
+10|Không thể tin được! Chuyện này nghiêm trọng thật rồi!
+11|Ối! Lại lỡ gọi người ta là "cưng" nữa rồi!
+12|Ta không thể cứ đứng mút tay chờ chết được!
+13|Đánh thức các đồng minh đang gục ngay đi!
+14|Được!
+15|Cao nguyên Hoàng gia cũ
+16|Nếu trận chiến kéo dài, cao nguyên này rồi cũng sẽ bị cắt vụn.
+17|Cái gì?! Tôi tưởng đây là trung tâm đất nước! Chẳng phải đây là nơi an toàn nhất sao?
+18|Nhìn lên trời đi!
+19|Tâm của Lồng Chim đang dịch chuyển, từng chút một.
+20|Tâm co lại có lẽ là khu Hoàng cung hiện tại, nơi Doflamingo đang đứng!
+21|Hoàng cung
+22|Vị trí hiện tại
+23|Nghĩa là rồi nơi này cũng sẽ...
+24|Nhanh lên, Hack! Làm ơn nhanh lên!
+25|Đừng lắc tôi nữa!
+26|Cuối cùng cũng xuống được, nhưng có vẻ đang náo loạn lắm!
+27|Hướng đó à?
+28|Zoro-dono!
+29|Các hạ đi đâu vậy?
+30|Còn phải hỏi sao?
+31|Tất nhiên là đi chặn nó lại rồi!
+32|Cái đó!
+33|"Cái đó"?
+34|Ngoài Cánh đồng Hoa Hướng Dương của Hoàng cung
+35|Bất ngờ thật.
+36|Tôi không biết ở Dressrosa lại có người lùn.
+37|Mong là tay cậu đã được nối lại tử tế.
+38|Họ bảo khi máu bắt đầu lưu thông là lành rồi.
+39|Tôi biết. Tôi là bác sĩ mà.
+40|Khi thấy cảng giao dịch ngầm, tôi đã hiểu.
+41|Trận chiến này...
+42|Dù có hạ được Doflamingo, nó cũng chưa kết thúc.
+43|Nó sẽ gây chấn động khắp thế giới.
+44|Và các cậu sẽ là tâm bão.
+45|Ừ.
+46|Đó là kế hoạch mà.
+47|"Gear Fourth"?
+48|Đúng vậy.
+49|Muscle Balloon!
+50|Gear...
+51|Fourth!
+52|Bound-Man!
+53|Này này, đùa à?
+54|Ngươi to ra nhiều đấy.
+55|Ta cứ tưởng ngươi còn át chủ bài gì...
+56|Cao su nảy tưng tưng thế kia thì đứng thẳng còn không nổi.
+57|Thế thì làm sao hất bay ta được?
+58|Suốt hai năm,
+59|tao đã chiến đấu với những con mãnh thú khổng lồ hung dữ!
+60|Để khuất phục chúng,
+61|tao cần cơ thể khổng lồ và độ nảy này!
+62|Độ nảy thì giúp được gì...
+63|Im đi!
+64|Mày sẽ không...
+65|làm được cái quái gì đâu!
+66|Cao su...
+67|Kong...
+68|Gun!
+69|L-Là Doflamingo!
+70|Nhưng sao lại thế?
+71|Lùi lại, lùi lại!
+72|Sao ngươi lại ở đây, Doflamingo?!
+73|Ta cũng muốn biết đây!
+74|Chạy đi! Hắn sẽ giết hết chúng ta!
+75|Không có chỗ nào để chạy! Ngoài kia toàn là Lồng Chim!
+76|Khu trung tâm à?
+77|Bị hất bay xa thật đấy...
+78|Hắn bật nảy trên không trung!
+79|Cao su...
+80|Rhino Schneider!
+81|Lại có ai đến kìa!
+82|To quá! Mà còn đá bay được Doflamingo!
+83|Gã tròn như quả bóng đó là ai vậy?
+84|Chết tiệt!
+85|Cậu ta dùng Haki Vũ Trang làm cứng da, nhân độ đàn hồi lên gấp bội!
+86|Thằng khốn quả bóng đó! Toàn là cao su!
+87|Đã bảo rồi! Mày không phải đối thủ của Gear Fourth đâu!
+88|Cao su...
+89|Culverin!
+90|Athlete String!
+91|Đã cứng lại mà vẫn dẻo như cao su?!
+92|Mấy đòn như thế...
+93|không có tác dụng đâu!
+94|Không thể tin được!
+95|Mày không thoát được đâu, Mingo!
+96|Tao sẽ đánh cho mày một trận!
+97|Sao lại thế?! Giờ nó cứ duỗi dài mãi!
+98|Đuổi theo hắn tiếp đi, Python!
+99|Đủ rồi! Gục xuống đi!
+100|Cao su...
+101|Culverin!
+102|Quả bóng cao su đó đang...
+103|...áp đảo...
+104|...Doflamingo!
+105|Gã đó là ai vậy?!
+106|Ai mà chả được?!
+107|Cố lên!
+108|Anh làm được mà!
+109|Khu Hoàng cung
+110|Có thấy không?!
+111|Ừ...
+112|Không ngờ cậu ta thay đổi đến vậy. Đó thật là Mũ Rơm sao?
+113|Cậu ta đang áp đảo Doflamingo đáng gờm! Mạnh kinh khủng!
+114|Nhưng cậu ta đang dùng quá sức Haki của mình.
+115|Dùng quá sức... Haki?
+116|Ồ, hắn kia rồi.
+117|Bọn nó đi chỗ khác chơi rồi.
+118|Thế mà tao còn mất công đến xem!
+119|Thuyền trưởng tàu số một của băng hải tặc Râu Đen, Jesus Burgess.
+120|Sao hắn lại ở đây?
+121|Đuổi theo hay chờ chúng...
+122|Đằng nào tao cũng không để chúng thoát!
+123|Tao sẽ lấy được thứ tao đến đây để lấy!
+124|Đúng như tôi nghĩ, hắn đang nhắm vào Luffy-kun và mọi người.
+125|Nhưng mục đích thật sự của hắn là gì?
+126|Đấu trường Corrida
+127|Viola.
+128|Vậy là chỉ còn trận quyết chiến giữa hắn và Luffy-kun thôi sao?
+129|Vâng, đúng vậy, thưa cha.
+130|Trong số những kẻ từ cấp cán bộ trở lên,
+131|chỉ còn lại mỗi Doflamingo thôi!
+132|Nhà máy SMILE
+133|Ra khỏi nhà máy đi, các Tontatta!
+134|Vâng!
+135|Chuồn thôi! Nhanh siêu tốc mà ra ngoài nào!
+136|Bọn tôi đã cứu xong những người bạn bị mắc kẹt trong nhà máy rồi!
+137|Tốt lắm!
+138|Nhà máy đang nghiêng kìa!
+139|Fraland! Sao chỉ có nhà máy SMILE là không bị cắt vậy?
+140|"Chỉ có" nhà máy?
+141|Hiểu rồi, là Hải Lâu Thạch!
+142|Hải Lâu Thạch?
+143|Ừ, tường ngoài của nhà máy làm bằng Hải Lâu Thạch.
+144|Nên dây của người dùng Trái Ác Quỷ không cắt được...
+145|Nhưng nhìn kìa!
+146|Nó bắt đầu bị đẩy đi rồi!
+147|Hửm? Kia là...
+148|Franky!
+149|Ồ, Người Máy-dono!
+150|Zoroland! Búi Tóland!
+151|Này, Zoro, Kin'emon!
+152|Trung tâm đất nước ở hướng các cậu vừa bay tới đấy.
+153|Muốn chạy thì các cậu đi nhầm hướng rồi!
+154|Bọn tôi đâu có chạy! Bọn tôi đi chặn mấy sợi dây!
+155|Chặn lại? Ồ, tôi chưa từng nghĩ tới đấy!
+156|Cái gì?! Ngầu quá!
+157|Phải câu giờ cho tới khi Luffy kết thúc trận đấu!
+158|Ồ đúng rồi!
+159|Khu trung tâm - Luffy vs. Doflamingo
+160|Dùng Haki Vũ Trang để điều khiển độ co giãn của cơ thể cao su tùy ý...
+161|Sự hòa hợp giữa Vũ Trang và Cao su à?
+162|Nếu kéo dài quá, Gear Fourth sẽ...
+163|Có vẻ ngươi nắm rõ năng lực của mình, nhưng hẳn nó là gánh nặng lớn.
+164|Chắc chắn phải có rủi ro gì đó.
+165|Cao su...
+166|Mũ Rơm, ngươi còn trụ được bao nhiêu giây nữa?
+167|...Double...
+168|Nhưng dây của ta thì không bao giờ cạn!
+169|...Culverin!
+170|Off-White String!
+171|S-Sao dây của hắn lại chui lên từ mặt đất?!
+172|Mày đã làm gì thị trấn này vậy?!
+173|Nghe cho kỹ đây, nhóc con!
+174|Năng lực Trái Ác Quỷ còn một cấp độ nữa, gọi là "Thức tỉnh"!
+175|Các tòa nhà biến thành dây rồi!
+176|Hiếm khi, năng lực sẽ "thức tỉnh" và tác động lên cả những thứ ngoài cơ thể người dùng!
+177|Mọi thứ đều đang biến thành dây! Đây không giống sức mạnh của Paramecia chút nào!
+178|Bất cứ thứ gì quanh ngươi, ta đều biến được thành dây!
+179|Ngươi còn chẳng thể lại gần ta!
+180|Và khi sức ngươi cạn kiệt, cơ thể ta sẽ...
+181|Khoảnh khắc Haki của ngươi cạn, ta sẽ kết liễu ngươi!
+182|20 phút sau
+183|Nó sắp cắt chúng ta rồi! Chạy đi!
+184|Ôi, bà ơi!
+185|Bà ơi, đứng dậy đi! Dây sẽ cắt bà mất!
+186|Bà không...
+187|Bà không chạy nổi nữa rồi...
+188|Cứ để bà ở đây mà đi trước đi.
+189|Không, không! Cháu không làm thế được đâu!
+190|Đằng nào bà cũng không sống nổi.
+191|Bà đứng dậy đi mà!
+192|Dù có đứng dậy, bà cũng không chạy nổi tới khu trung tâm đâu!
+193|Ai đó giúp một tay với!
+194|Trong bệnh viện vẫn còn bệnh nhân!
+195|Bọn tôi không thể tự khiêng hết được! Xin mọi người đấy!
+196|Con trai tôi mất tích rồi! Có ai thấy thằng bé không?!
+197|Nó mặc áo hình gấu! Nó năm tuổi!
+198|Có ai không! Có ai thấy con tôi không?!
+199|Đằng nào chúng ta cũng chết thôi.
+200|Bỏ cuộc cho xong.
+201|Chạy xa đến đâu thì vẫn ở trong lồng.
+202|Tất cả chúng ta sẽ bị Doflamingo giết.
+203|Cứ bỏ cuộc...
+204|còn dễ chịu hơn.
+205|Mọi người, xin hãy nghe ta nói.
+206|Ta là...
+207|cựu vương của Dressrosa, Riku Dold Đệ Tam.
+208|C-Cái gì?
+209|Đ-Đức vua Riku...
+210|Hiện tại, đất nước chúng ta đang bị nhốt trong Lồng Chim không lối thoát,
+211|trong trò chơi do vị vua hiện tại, Doflamingo, bày ra.
+212|Hơn nữa, cái Lồng Chim tàn ác đó vẫn tiếp tục co lại, cắt nát thị trấn.
+213|Đức vua Riku...
+214|Hiện thực ập đến với mọi người quá đột ngột.
+215|Ta chắc rằng cảm xúc của mọi người chưa kịp theo kịp,
+216|và giờ đây mọi người chỉ đang cố cứu mạng mình, hoặc mạng người khác!
+217|Nhưng đây không phải là mơ!
+218|Và đây cũng không phải bi kịch chỉ mới bắt đầu hôm nay!
+219|Suốt mười năm,
+220|chúng ta đã sống trong cái Lồng Chim mang tên "Dressrosa",
+221|dưới sự cai trị của hải tặc!
+222|Suốt mười năm, chúng ta sống như những con rối bị chúng giật dây.
+223|Đó là hiện thực của chúng ta!
+224|Nhưng điều đó sắp kết thúc rồi!
+225|Gia tộc Donquixote mà ta tưởng không ai địch nổi...
+226|...đang trên bờ thất bại, dưới tay những chiến binh hùng mạnh
+227|tình cờ có mặt ở đất nước này!
+228|Các cán bộ của gia tộc đã gục ngã cả rồi!
+229|Thật sao?!
+230|Những cán bộ đó...
+231|Ông ấy nói chúng bị hạ rồi sao?
+232|Kẻ thù duy nhất còn lại...
+233|là vị vua hiện tại của Dressrosa, Doflamingo!
+234|Và người đang chiến đấu với hắn là hải tặc Luffy Mũ Rơm!
+235|Ta tin cậu ấy là người sẽ phá hủy cái Lồng Chim này!
+236|Dù thắng hay thua, mọi chuyện sẽ kết thúc trong chưa đầy một tiếng nữa!
+237|Cho đến lúc đó, hãy sống sót! Bằng mọi giá!
+238|Ta không muốn bất cứ ai bị đất nước đang co lại này nghiền nát!
+239|Xin hãy tiếp tục chạy!
+240|Dù có hết hơi, hay gãy cả chân!
+241|Hãy sống thêm vài phút nữa thôi!
+242|Vẫn còn hy vọng!
+243|Xin đừng bỏ cuộc!
+244|Không ai giúp thì bọn tôi cũng sẽ dốc hết sức!
+245|Được!
+246|Được rồi! Đi thôi nào, cháu!
+247|Vâng, bà ơi!
+248|Tôi nữa!
+249|Đúng như vua Riku nói...
+250|Không bỏ cuộc! Chạy về khu trung tâm thôi!
+251|Khiêng người bệnh đi!
+252|Lấy mấy cái giường kia!
+253|Mẹ ơi!
+254|Sống sót đến khi trận chiến kết thúc!
+255|Luffy Mũ Rơm sẽ hạ Doflamingo cho chúng ta!
+256|Ừm!
+257|Mingo!
+258|Đến lúc ngươi chết rồi đấy.
+259|Hết thời gian rồi!
+260|Cả thị trấn đang biến thành dây!
+261|Billow White!
+262|Mingo!
+263|Tao sẽ thổi bay mày!
+264|Mingo!
+265|Tao sẽ kết thúc chuyện này!
+266|Cao su...
+267|Leo Bazooka!
+268|D-Do...
+269|Doflamingo!

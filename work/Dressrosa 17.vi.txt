@@ -1,0 +1,319 @@
+1|Cánh đồng hoa Dressrosa
+2|Đại bản doanh nổi dậy của Quân đội Hoàng gia Riku
+3|Mọi người sẵn sàng chưa?
+4|Rồi!
+5|Giờ chúng ta sẽ đi theo lối ngầm,
+6|tiến vào cảng giao thương của địch!
+7|Mục tiêu của chúng ta là một cô bé.
+8|Sugar!
+9|Nhỏ con nhưng không dễ xơi đâu!
+10|Hạ gục Sugar, và biến mọi đồ chơi trong nước trở lại thành người!
+11|Chật quá!
+12|Tôi với Robiland chui vào còn khó nữa là.
+13|Fraland, tốt nhất cậu tháo vai với tay ra đi.
+14|Làm sao mà tháo được!
+15|Này, đường hầm đó quá nhỏ với tôi-land rồi.
+16|Chúng tôi đâu có tính tới người to dùng nó.
+17|Vậy cậu phải vào qua Nhà Đồ Chơi thôi.
+18|Nhà Đồ Chơi nằm bên dưới cao nguyên của cung điện.
+19|Đó là nơi đồ chơi tới mỗi đêm.
+20|Con người bị cấm vào.
+21|Nhà? Đồ chơi sống ở đó à?
+22|Chỉ là cái tên thôi. Chẳng có giường hay gì cả.
+23|Chỉ có một lối đi xuống lòng đất.
+24|Mỗi đêm, đồ chơi đi theo lối đó...
+25|và làm việc dưới lòng đất suốt đêm.
+26|Thế nên đồ chơi ngoài phố lúc nào cũng mệt rã rời à?
+27|Tệ quá! Tệ đến không nói nên lời!
+28|D-Dù sao thì...
+29|Fraland đi lối đó là tới được nhà máy SMILE, đúng không?
+30|Đúng. Có bốn lối vào ở bốn hướng đông tây nam bắc.
+31|Nhưng tất cả đều được canh gác cẩn mật.
+32|Đúng ý tôi.
+33|Tôi sẽ làm loạn một trận ra trò ở đó!
+34|S-Sao cậu lại làm thế?
+35|Thế thì các cậu dễ hành động hơn, đúng không?
+36|Ý cậu là...
+37|Trong lúc tôi đánh lạc hướng chúng, các cậu hạ Sugar!
+38|Ai thế kia?
+39|Quần bơi à?
+40|Đầu tóc gì thế kia?!
+41|Đó là vũ khí à?
+42|Hay hắn chỉ bị ngốc?
+43|Này, nhìn cái cằm chẻ của hắn kìa!
+44|Chắc chắn rồi! Đó là Cyborg Franky của băng Mũ Rơm!
+45|Senor! Anh đừng nhét nguyên quả cà chua vào miệng thế.
+46|Mặt anh lem nhem hết bây giờ!
+47|Ôi, anh ấy thật là...
+48|đàn ông sắt đá!
+49|Đừng bám lấy anh, mấy cô bé.
+50|Gia tộc Doflamingo (Cán bộ quân Diamante ♦) Senor Pink
+51|Đi mà chơi với mấy cậu trẻ hơn.
+52|Ôi không, Senor!
+53|Đừng lạnh lùng thế mà, Senor!
+54|Các cô...
+55|không phải gu của anh.
+56|Senor!
+57|Đừng bỏ em, Senor!
+58|Senor!
+59|Senor!
+60|Tên biến thái đó bị sao vậy?
+61|Ông mà cũng nói được người ta à!
+62|Cửa đông Nhà Đồ Chơi gọi đây!
+63|Một tên trong bọn chúng tới rồi!
+64|Để tao vào.
+65|Weapons Left!
+66|Bắn!
+67|Một tên băng Mũ Rơm! Là Cyborg Franky!
+68|Coup de...
+69|Vent!
+70|Xem kìa.
+71|Lũ ngốc bắt đầu làm loạn rồi.
+72|Hỗ trợ các nước thành viên Chính phủ Thế giới là việc của ngươi, phải không?
+73|Bắt đầu rồi à?
+74|Nhà Đồ Chơi đang bị tấn công.
+75|Đừng lo!
+76|Bọn Mũ Rơm nhắm vào nhà máy SMILE.
+77|Kể cả chúng có tới được đây...
+78|Ngươi cứ biến hết chúng thành đồ chơi là xong! Nhỉ?
+79|Không ai biết đâu!
+80|Không ai biết về ngươi cả!
+81|Đúng vậy.
+82|Lối đi ngầm
+83|Sắp tới cảng giao thương rồi.
+84|Đội trưởng! Fraland đã bắt đầu tấn công Nhà Đồ Chơi!
+85|Ra vậy.
+86|Tôi sẽ làm loạn một trận ra trò ở đó!
+87|Mong là cậu ấy ổn.
+88|Không cần lo! Cậu ấy là siêu cyborg mà!
+89|Tôi vừa nhận tin có bốn cán bộ của gia tộc đang canh Nhà Đồ Chơi.
+90|C-Cán bộ?
+91|Lại đúng là quân Diamante chứ!
+92|Họ là võ sĩ.
+93|Họ mạnh lắm à?
+94|Tỉ lệ thắng của họ ở các giải đấu là 100%.
+95|Họ là những người hùng vĩ đại nhất Đấu trường.
+96|100% á?
+97|Tức là chưa từng thua lần nào?!
+98|Đúng vậy. Nói cách khác,
+99|Không ai biết sức mạnh thật sự của họ tới đâu!
+100|L-Lực lượng tinh nhuệ của địch lớn cỡ nào vậy, Leo?
+101|10 cán bộ cai quản hơn 2.000 thuộc hạ rải khắp xứ này.
+102|Rồi 10 cán bộ đó lại dưới quyền 3 cán bộ cấp cao.
+103|Mỗi người chỉ huy một đội quân chuyên biệt.
+104|Đầu tiên là quân Trébol.
+105|Họ là Đội Năng lực Đặc biệt.
+106|Quân Trébol (Đội Năng lực Đặc biệt)
+107|Sugar!
+108|Sugar
+109|Violet!
+110|Violet
+111|Giolla!
+112|Giolla
+113|Tiếp theo là quân Diamante.
+114|Họ là võ sĩ.
+115|Quân Diamante (Lữ đoàn Chiến đấu)
+116|Lao G!
+117|Lao G
+118|Machvise!
+119|Machvise
+120|Senor Pink!
+121|Senor Pink
+122|Dellinger!
+123|Dellinger
+124|Cuối cùng là quân Pica.
+125|Họ là đội biệt kích!
+126|Quân Pica (Đơn vị Đặc nhiệm)
+127|Gladius!
+128|Gladius
+129|Buffalo và Baby 5!
+130|Buffalo Baby 5
+131|Còn hai người nữa hiện không có trong nước.
+132|Cán bộ cấp cao Vergo.
+133|Cán bộ cấp cao Vergo
+134|Và cán bộ Monet.
+135|Cán bộ Monet
+136|Vậy là bọn mình khỏi phải lo đám võ sĩ rồi!
+137|Cố lên nhé, Franky!
+138|Ai cũng mạnh cả.
+139|Đùa tôi à!
+140|Chúng tôi xin lỗi, ngài Usoland!
+141|Cảm ơn.
+142|Không có gì.
+143|Tới rồi. Đây là thế giới ngầm, nơi có cảng giao thương và nhà máy.
+144|Ồn ào hơn tôi tưởng.
+145|Tiếng từ mặt đất vọng xuống à?
+146|Này, đứa nào làm rơi hàng thế?!
+147|Con đồ chơi này bị kẹt bên dưới.
+148|T-Tôi xin lỗi!
+149|Tôi sẽ làm chăm hơn, xin cho tôi gặp gia đình!
+150|Đồ ngu! Đứa nào làm không nổi thì vào thẳng bãi phế liệu!
+151|Lôi nó đi!
+152|Kh-Khoan đã! Tôi vẫn làm được!
+153|Cứu với!
+154|Usopp.
+155|Robin, cậu cũng...
+156|Nhìn kìa.
+157|Tôi vẫn làm được! Cứu với!
+158|Keo kiệt thế thì tao hủy giao dịch!
+159|Khốn kiếp, mày bóc lột tao!
+160|Nếu không có Joker chống lưng thì tao thề...
+161|Cái gì thế này?
+162|Cả một thị trấn cảng thực thụ!
+163|Suleiman bắt đầu tấn công Rebecca!
+164|Lên!
+165|Chết đi, Rebecca!
+166|Suleiman, chặt đầu nó đi!
+167|Từng là anh hùng trận Hải chiến Dias, giờ hắn bị truy nã vì tội ác chiến tranh.
+168|Hắn là sát thủ đáng sợ của thế giới ngầm!
+169|Dáng vẻ hắn như một bóng ma vô hồn.
+170|"Hải chiến Dias" Tội phạm chiến tranh hạng A, Suleiman Kẻ Chặt Đầu
+171|Ta đã làm mọi thứ vì đất nước.
+172|Ta yêu quê hương mình.
+173|Còn ngươi thì sao?
+174|Sống giữa những kẻ khinh ghét mình hẳn khổ lắm.
+175|Khổ thế nào tôi cũng mặc.
+176|Ai ghét tôi tôi cũng mặc.
+177|Tôi muốn sống cùng ngài lính!
+178|Con nhỏ đó mãi không chịu chết!
+179|Tính cả Rebecca đáng ghét, còn khoảng 30 người trụ lại ở Bảng D!
+180|Thêm một người bị loại!
+181|À nhầm, một con thú!
+182|Nó đã giết hàng chục người,
+183|Nhà thám hiểm, Đại hạm đội Yonta Maria, Orlumbus
+184|và nhuộm đỏ võ đài bằng máu!
+185|Sư tử đấu sĩ Agyo vừa...
+186|gục dưới ngọn roi của Orlumbus.
+187|Hắn mạnh thật.
+188|Đề đốc!
+189|Hải tặc, Cavendish
+190|Quỷ Lửa Damask
+191|Một ứng viên sáng giá sẽ chiến thắng?!
+192|Hay sẽ là một ẩn số?!
+193|Đây là trận cuối cùng trước chung kết!
+194|Thầy Mo Mummy
+195|Ai sẽ lấy được đầu của...
+196|cháu gái vua Riku?!
+197|Ngài lính, giờ ngài đang ở đâu?
+198|Xin ngài đừng chết.
+199|Tôi chỉ mong có vậy.
+200|Dưới lòng Dressrosa, Cảng giao thương ngầm
+201|Người lính đi rồi à?
+202|Không phải anh ta là đội trưởng sao?
+203|Đội trưởng có nhiệm vụ quan trọng: giết Doflamingo ngay khi Chiến dịch SOP thành công.
+204|Ngài ấy dẫn theo vài người Tontatta tới cung điện rồi.
+205|Chúc đội trưởng may mắn!
+206|Yeah!
+207|Chúng ta có anh hùng Usoland đi cùng mà.
+208|Ngài Usoland, xin hãy chỉ huy Chiến dịch SOP và giúp chúng tôi hạ Sugar.
+209|Đó chẳng phải việc quan trọng nhất sao?!
+210|Chúng ta đang ở đây.
+211|Tháp Cán bộ
+212|Mọi cây cầu đều di chuyển được.
+213|Nhà máy
+214|Lối đi ngầm
+215|Còn tòa nhà đằng xa kia...
+216|trông như con hải quỳ...
+217|Đó là Tháp Cán bộ.
+218|Sugar ở trong đó.
+219|Này, đứa nào đang trốn việc ở đó thế?!
+220|Bị phát hiện rồi! Hết đời rồi!
+221|Bọn mày từ tàu nào xuống?!
+222|Không, khoan, tôi chỉ đi ngang qua thôi!
+223|Chỉ người đàm phán mới được rời tàu.
+224|Inhel.
+225|Rõ.
+226|Bọn tiên tới rồi!
+227|Chúng lột sạch đồ của bọn tao!
+228|Tontatta Combat!
+229|Tail Hammer!
+230|B-Bọn họ bị chôn xuống đất rồi!
+231|Ngài Usoland, Robiland, thay đồ này vào đi.
+232|Phải nói là cậu nhanh trí thật đấy.
+233|Giả vờ sợ hãi để đánh lạc hướng kẻ địch..
+234|Nhân tiện, các cậu ai cũng khỏe như vậy à?
+235|Vâng, ai trong chúng tôi cũng làm được cỡ đó.
+236|Nhưng tộc của Noland thì giết được cả Hải Vương.
+237|Chúng tôi không sánh nổi.
+238|Bọn này nghĩ mình là loại quái vật gì vậy?
+239|Nhưng có khi mình thắng mà khỏi cần đánh.
+240|Được rồi mọi người, ta, Usoland sẽ chỉ huy!
+241|Đối thủ của chúng ta là một con nhóc!
+242|Cùng xông vào dọa cho nó sợ!
+243|Theo ta!
+244|Rõ, thưa ngài!
+245|Ơ... Không... khoan...
+246|Các người cứ đi trước đi!
+247|Yeah!
+248|Tới Tháp Cán bộ nào!
+249|Sơ đồ Cung điện, Nhà Đồ Chơi, Cảng giao thương, Tháp Cán bộ và Nút thang máy
+250|Lên nhanh đi!
+251|Có kẻ đột nhập Nhà Đồ Chơi!
+252|Băng Mũ Rơm xuất hiện rồi.
+253|Chúng đang đánh với Senor Pink-sama ở cửa đông.
+254|Chúng nhắm vào nhà máy dưới này.
+255|Fraland...
+256|Nghe nói hạ được chúng sẽ có thưởng đấy.
+257|Thật á? Bao nhiêu?!
+258|Chắc là thưởng to lắm.
+259|Lên trên thôi.
+260|Thật không đấy?
+261|Tin đồn thôi.
+262|Thật tình, cậu lấy tin đó ở đâu ra vậy?
+263|Cứ thế này thì ta sẽ chỉ chạy qua chạy lại giữa Nhà Đồ Chơi và lòng đất mãi.
+264|Chiếm thang máy thôi.
+265|Các cậu đợi ở đây.
+266|Đầu hàng đi.
+267|Ta chiếm thang máy này.
+268|Tên này là...
+269|Người lính Sấm Sét ở Đấu trường!
+270|Sao hắn vào được đây?
+271|Hắn né được!
+272|Chậm quá!
+273|Khốn kiếp!
+274|Chậm quá!
+275|Chậm quá!
+276|Ngài lính đánh tôi! Bạo lực gia đình đấy!
+277|Không phải!
+278|Ta đâu có muốn đánh con!
+279|Vậy thì dừng lại trước khi đánh đi!
+280|Không có nguy hiểm thì con sẽ không lớn được!
+281|Tập trung vào, Rebecca!
+282|Bản năng con người mạnh hơn con nghĩ nhiều!
+283|Hãy đánh thức nó!
+284|Hãy tin vào sức mạnh con người!
+285|Nhưng ngài lính là đồ chơi mà!
+286|Đừng than vãn nữa!
+287|Tôi không muốn học đánh nhau nữa đâu!
+288|Sao ngài không thể luôn bảo vệ tôi?
+289|Ta là đồ chơi.
+290|Gặp mưa gió là ta sẽ gỉ sét.
+291|Ta không biết lúc nào cơ thể này sẽ tới giới hạn.
+292|Đứng dậy, Rebecca!
+293|Hãy trở nên mạnh mẽ!
+294|Cơ thể ta không được làm ra để chiến đấu.
+295|Có lẽ đồ chơi đã định sẵn...
+296|sẽ hỏng trước khi trẻ con lớn lên.
+297|Tha lỗi cho ta, Rebecca.
+298|Người cha vụng về này chỉ có thể dạy con chiến đấu.
+299|Hắn vốn mạnh thế này à?!
+300|Mày muốn gì?!
+301|Một món đồ chơi như mày thì muốn cái gì chứ?!
+302|Ta muốn một đất nước hòa bình...
+303|nơi con gái ta được hạnh phúc!
+304|Ta sẽ bắt các ngươi trả Dressrosa lại cho gia tộc Riku!
+305|Vua Riku?
+306|Mày nói nhảm cái gì vậy!?
+307|Ta sẵn sàng hy sinh mạng sống vì điều đó.
+308|Đấu trường Corrida
+309|Chuyện gì vừa xảy ra vậy?!
+310|Nhanh thật.
+311|Cái gì?!
+312|Tôi chẳng thấy gì cả.
+313|Tôi từng nghe kể, nhưng...
+314|Ôi trời, tất cả đều gục rồi!
+315|Mọi người còn trụ lại ở Bảng D đều đã gục, và chẳng hiểu sao không ai đứng dậy!
+316|Thật vậy sao?!
+317|Cuộc tấn công ở Bảng D diễn ra trong chớp mắt!
+318|Không, khoan!
+319|Có người đang cố đứng dậy!

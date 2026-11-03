@@ -1,0 +1,366 @@
+1|Tầng bốn - Cánh đồng Hướng Dương
+2|Sao? Ngươi định làm gì đây?
+3|Ngươi định làm gì đây?
+4|Mặt đất gợn sóng như lá cờ.
+5|Thảm hại quá! Cứ bò lết dưới đất đi, Lính Đồ Chơi!
+6|Ta hiểu rồi! Giờ thì mọi thứ đã rõ.
+7|Tên lính đồ chơi khóc lóc gào thét nhục nhã hồi đó...
+8|chính là ngươi!
+9|Scarlett!
+10|Ngươi là chồng của Scarlett quá cố và là cha của Rebecca.
+11|Tuyệt thật!
+12|Có vẻ ta với ngươi bị nghiệp duyên trói buộc nhỉ, Kyros?
+13|Đúng vậy!
+14|Chính vì thế ta mới đến đây!
+15|Ồ, suýt nữa... Đòn hay đấy!
+16|Nhưng đây là áo choàng thép. Coi chừng!
+17|Vipera Glaive!
+18|Kiếm Rắn
+19|Cha!
+20|Cha ơi, con cũng sẽ chiến đấu!
+21|Phải! Chiến đấu đi, Rebecca! Ta sẽ giết ngươi!
+22|Ta muốn thấy Kyros mất cả vợ lẫn con gái!
+23|Không sao đâu, Rebecca!
+24|Hãy để cha bảo vệ con, cũng là để chuộc lỗi cho cái chết của Scarlett!
+25|Hãy để cha bù đắp vì đã dạy con chiến đấu!
+26|Đến tận hôm nay cha vẫn sống trong hối hận và hổ thẹn vì điều đó!
+27|Giờ cha đã thành người trở lại, cha sẽ không bao giờ để con gái mình vung kiếm nữa!
+28|Đ-Đây là thảm họa...
+29|Khu Cung điện Hoàng gia - Tầng hai
+30|Lao G-sama bị hạ rồi!
+31|Sức mạnh ghê thật.
+32|Từng nghe cái tên đó rồi.
+33|Thủy quân Happou của Hoa Quốc.
+34|Phải ghi nhớ mới được.
+35|Bất kỳ ai cũng có thể thành kẻ thù của chúng ta bất cứ lúc nào.
+36|Ông nội! Này, ông nội!
+37|Đừng chết, ông nội!
+38|Vậy em sẽ đặt hai lễ đường nhé, anh yêu!
+39|Lễ đường?! Anh yêu?!
+40|Một cho đám cưới và...
+41|một cho đám tang.
+42|Đừng có trù người ta chết!
+43|Khu Cung điện Hoàng gia - Tầng ba
+44|Sao ngươi cứ bò lết lẩn trốn thế?
+45|Giờ thì đấu với ta đi, Gladius!
+46|Đừng có được nước lấn tới.
+47|Cái gì...
+48|Không! Gladius-sama, không được!
+49|Mặt đất đang phồng lên!?
+50|Ngươi biết chuyện gì sẽ xảy ra rồi chứ?
+51|Ngươi đã chuẩn bị sẵn cho chuyện này sao?
+52|Coi chừng!
+53|Chạy đi!
+54|Này, Bartolomeo! Mọi thứ sắp nổ tung rồi!
+55|Cho ta vào trong rào chắn của ngươi!
+56|Không đời nào!
+57|Cái gì?!
+58|Mở ra thì tao với Robin-senpai sẽ gặp nguy, mà kẻ địch cũng chui vào luôn!
+59|Không, mở ra! Ta cùng phe với ngươi mà!
+60|Gladius-sama! Bọn tôi cũng sẽ bị cuốn vào mất...
+61|Không sao đâu. Các ngươi là tinh nhuệ mà, đúng không?
+62|Mở ra!
+63|Pop Rock...
+64|Festival!
+65|Vĩnh biệt, Cavendish.
+66|Nếu giờ ta còn ở ngoài kia, chắc ta chết rồi.
+67|Đồ vô ơn!
+68|Sao để lâu thế mới cho ta vào?!
+69|Ta tưởng chết rồi chứ!
+70|Mày bị làm sao thế hả?!
+71|Ăn nói kiểu đó với người vừa cứu mạng mày à!
+72|Trước đó ta đã yểm trợ ngươi! Giờ thì huề!
+73|Đủ rồi! Ta sẽ tấn công chúng!
+74|Cho ta ra!
+75|Cái gì?!
+76|Tao vừa cho mày vào, giờ lại đòi ra?!
+77|Đã vào rồi thì ngồi chơi một lát đi, đồ ích kỷ ngu ngốc?!
+78|Đây là nhà trọ chắc?!
+79|Phòng thủ xong thì phải tấn công! Lẽ đương nhiên mà!
+80|Lần sau tao không cho mày vào nữa đâu!
+81|Lúc nào ta gặp nguy thì cho ta vào lại đấy!
+82|Mày vô lý vừa thôi!
+83|Tao sẽ tính sổ với mày sau!
+84|À phải rồi, Robin-senpai!
+85|Ôi, tuyệt! Chị ấy không sao!
+86|Tôi sẽ đến ngay, Rebecca! Cố giữ an toàn nhé!
+87|Nico Robin, mụ đàn bà phiền phức!
+88|Ta không để ngươi cản đường các cán bộ cấp cao nữa đâu!
+89|Catapult Pop!
+90|Năng lực Bari: Cây Vợt!
+91|Hắn vẫn còn sống?!
+92|Tiến lên! Robin-senpai!
+93|Gà Trống-kun!
+94|Cảm ơn nhé!
+95|C-Chị ấy vừa ra hiệu bằng mắt, hay còn gọi là nháy mắt!
+96|Mình cảm kích quá!
+97|Có phải ý chị ấy là "Giỏi lắm, Gà Trống-kun! Muốn thì cậu cứ làm nô lệ của tôi" không?!
+98|Không không, mày ảo tưởng quá rồi, Bartolomeo! Đòi hỏi nhiều quá đấy!
+99|Nhưng mà!
+100|Mình đang sôi sục khí thế đây!
+101|Cavendish, ngươi cũng ở trong rào chắn à?!
+102|Tiếc quá nhỉ, Gladius!
+103|Lưỡi Kiếm Mỹ Lệ: Blue...
+104|Bracchium...
+105|Gladius-sama!
+106|Bartolomeo!
+107|Bò Tót Rào Chắn!
+108|Rào chắn đang lao về phía mình kìa!
+109|Robin-senpai! Với đàn ông, một cái nháy mắt của chị đáng để liều mạng!
+110|Dừng lại, Bartolomeo! Không thấy ta đang ở đây à?!
+111|Xin lỗi nhé, Bắp Cải! Nhưng có lý do khiến tao không dừng được!
+112|Lý do gì?!
+113|Tao... đang sôi sục khí thế!
+114|Tao... đang sôi sục khí thế!
+115|Ai thèm quan tâm!
+116|Ngươi nói cái gì vậy, đồ ngốc?! Dừng lại ngay!
+117|Không được!
+118|Dellinger!
+119|Ngươi dọn xong tầng hai chưa hả?!
+120|Gladius! Anh đang làm gì thế?
+121|Tôi sắp xong ở đây rồi!
+122|Lên tầng ba giúp ta!
+123|Nico Robin đang cố leo lên!
+124|Ta đang bận với hai tên ngốc này!
+125|Rõ! Nghe vui đấy!
+126|Tao chẳng đã bảo...
+127|tập trung vào sao?!
+128|Trời ạ, dai dẳng thật đấy, đồ Tay Dài!
+129|Tao cũng thấy mấy cái u trên vai mày kỳ kỳ.
+130|Bụng mày thủng một lỗ rồi kìa!
+131|Sao còn chưa chết đi, Nhà Vô Địch Võ Thuật?
+132|Không được!
+133|Trong thế giới đàn ông, phải có trách nhiệm và đạo nghĩa!
+134|Tao phải chiến đấu vì những người đã ngã xuống!
+135|Chẳng giống mày chút nào.
+136|Nếu mày giả chết hay gì đó, tao đã tha mạng rồi.
+137|Cứ gượng đứng thì được gì chứ?!
+138|Biết đâu câu thêm được chút thời gian.
+139|Bọn tao phải ngăn chúng mày cản đường Mũ Rơm...
+140|để cậu ấy hạ được Doflamingo!
+141|Bọn tao sẽ làm cùng nhau!
+142|Chẳng có chiến thắng nào do một người làm nên cả, nhóc!
+143|Vậy là chúng mày định giành chiến thắng bằng cách hy sinh mạng sống.
+144|Đó là cách lũ sâu bọ hành xử!
+145|Kẻ mạnh không màng đạo nghĩa!
+146|Tao cũng chẳng phải người thường đâu.
+147|Đừng coi thường dòng máu Cá Chọi của tao!
+148|Bậc 3
+149|Gladius! Tôi đến rồi!
+150|Anh ở đâu?
+151|Gladius!
+152|Dellinger, ở yên tầng dưới đi! Ở đây nguy hiểm!
+153|Có một kẻ địch rắc rối lắm!
+154|Chẳng giống anh chút nào!
+155|Gladius, khi chúng ta hợp sức thì chẳng ai chống lại nổi-
+156|Dellinger!
+157|Chết tiệt! Dellinger...
+158|Cái gì...
+159|Vừa xảy ra chuyện gì vậy?!
+160|Thằng nhóc có sừng và cả đám lính địch...
+161|Hắn hạ hết rồi.
+162|Có một gã trông hơi đáng sợ bên kia rào chắn!
+163|A-Ai thế?
+164|Trông giống Bắp Cải, nhưng mặt mũi khác hẳn.
+165|Y hệt chuyện đã xảy ra ở trận bảng D tại Đấu trường.
+166|Ôi chà, ai cũng gục hết rồi!
+167|Là gã này làm à?
+168|Bộ đồ đó chắc chắn là của Cavendish.
+169|Nhưng gương mặt thì chắc chắn của ai khác-dish.
+170|Vậy rốt cuộc hắn là ai-vendish đây?
+171|S-Sợ chết khiếp!
+172|Nhanh tới mức chẳng nhìn thấy gì luôn!
+173|Chà, dù ngươi nhanh đến đâu, cũng vô ích trước năng lực của ta!
+174|Mày đang nghĩ cái quái gì vậy?!
+175|Mày bị sao thế?! Nếu mày đùa quá trớn...
+176|Này! Mày vừa liếc ai đấy?!
+177|Đừng làm chuyện ngu ngốc! Này! Này!
+178|Đừng!
+179|Đừng đụng tới Robin-senpai!
+180|Tốc độ của cậu vô dụng với tôi.
+181|Mặt cậu trở nên xấu xí quá.
+182|Bắp Cải-kun, cậu cần gì ở tôi sao?
+183|Tôi lo cho Rebecca nên phải mau lên đỉnh.
+184|Wow! Ngầu quá! Chị ấy chặn được hắn!
+185|Dobin-sedbai!
+186|Biết ngay mà, kẻ yếu như mình mà đòi bảo vệ chị thì trơ trẽn quá!
+187|Khoan, Hakuba!
+188|Ta chưa cho phép ngươi ra ngoài!
+189|Xin lỗi, Nico Robin.
+190|Suýt nữa ta chém trúng cô.
+191|Vậy ra đó là "Hakuba" mà tôi từng nghe.
+192|Nhân cách khác của cậu...
+193|Đúng thế...
+194|Hắn là kẻ nguy hiểm.
+195|Hắn giết bừa bãi-
+196|Tay chân của ngươi...
+197|Ta sẽ băm chúng cùng phần còn lại của ngươi thành từng mảnh, Nico Robin!
+198|Ta sẽ chém nát mọi thứ!
+199|Tránh ra, Hakuba! Ta không để ngươi chiếm quyền đâu!
+200|Im đi! Ngủ tiếp đi, Cavendish!
+201|Ngươi còn chẳng biết ta chiến đấu vì cái gì!
+202|Để ta lo!
+203|Ta sẽ xé nát mọi thứ!
+204|Ta không tự làm thì chẳng có ý nghĩa gì!
+205|Mặc kệ! Ta sẽ cho chúng thấy biển máu!
+206|Như hai người đang nói chuyện với nhau! Hắn bị đa nhân cách à?!
+207|Ta làm!
+208|Không, để ta!
+209|Ta sẽ làm!
+210|Không, ta làm!
+211|Ta làm!
+212|Ta, ta, ta!
+213|Ta làm, ta làm, ta làm!
+214|Ta!
+215|Ta làm!
+216|Ta!
+217|Ta làm!
+218|Ta!
+219|Ta làm!
+220|Ta!
+221|Ta làm!
+222|Ta!
+223|Hắn thành nửa nọ nửa kia rồi!
+224|Im đi, Hakuba!
+225|Chỉ có ta mới là Cavendish!
+226|Vừa nãy mày còn nửa nọ nửa kia mà!
+227|Được rồi, giờ ổn rồi, Nico Robin.
+228|Cô thả ta ra được chứ?
+229|Thấy cảnh đó rồi mà cậu nghĩ tôi tin cậu được sao?
+230|Hả?
+231|Kết thúc chuyện này thôi.
+232|Ta sẽ cho các ngươi nổ tung cùng bức tường!
+233|Lần này không chỉ hất các ngươi lên trời đâu.
+234|Các ngươi đừng hòng toàn thây mà thoát!
+235|Tên khốn đó!
+236|Hắn định cho bọn ta nổ tung cùng bức tường!
+237|Ta phải xuống ngay, Nico Robin!
+238|Không! Trong lúc đó Rebecca có thể gặp chuyện...
+239|Để tôi lo!
+240|Tao không để hắn làm hại Robin-senpai đâu!
+241|Phán đoán đúng đấy.
+242|Phải, hạ được ta thì ngươi sẽ ngăn được bức tường nổ.
+243|Punk Hair!
+244|Gì thế này? Tê rần rồi.
+245|Đám tóc đó là kim độc đấy.
+246|Cái gì?!
+247|Bartolomeo!
+248|Ta có sức mạnh của Trái Nổ Tung.
+249|Nói cách khác, ta là người nổ tung từ đầu đến chân.
+250|Nếu ngươi làm gì ta, cơ thể ta sẽ phát nổ...
+251|và hàng ngàn cây kim độc như cái vừa đâm ngươi...
+252|sẽ xuyên qua hai kẻ trên kia!
+253|Nhưng không hạ ta thì ngươi không ngăn được bức tường nổ.
+254|Ngươi định làm gì đây?
+255|Vụ nổ của cơ thể ta mạnh đến mức dĩ nhiên ngươi không sống nổi.
+256|Vậy là dù tao làm gì thì Robin-senpai cũng gặp nguy!
+257|Ngươi hiểu nhanh đấy, Bartolomeo.
+258|Nghĩ đi, Bartolomeo!
+259|Điều quan trọng nhất mình phải bảo vệ ở đây là gì?
+260|Rõ ràng là...
+261|thân thể Robin-senpai.
+262|Để ngăn bức tường nổ,
+263|mình phải hạ con nhím đó.
+264|Nhưng thế thì đống kim độc sẽ bay thẳng về phía Robin-senpai!
+265|Phải làm sao đây? Nghĩ đi!
+266|Nghĩ kỹ hơn nữa đi, Bartolomeo!
+267|À phải rồi!
+268|Trên đó có một gã hy sinh cũng chẳng sao đang ở cùng Robin-senpai!
+269|Này, Bắp Cải! Tao sẽ hạ con nhím ở đây, nên...
+270|mày lấy cả thân mình làm khiên che Robin-senpai khỏi kim độc đi!
+271|Này...
+272|Này, Bắp Cải!
+273|Im đi, gà trống!
+274|Thằng ác lại ra rồi!
+275|Đúng lúc cần nhất thì lại vô dụng!
+276|Robin-senpai đang gặp nguy từ mọi phía!
+277|Làm sao đây?! Làm sao đây?!
+278|À phải rồi!
+279|Ngươi định đối đầu với ta sao, Bartolomeo?
+280|Mỗi lần tao chỉ dựng được một rào chắn.
+281|Đó là nhược điểm, nhưng tao mặc kệ.
+282|Robin-senpai! Nếu cứu được chị, tôi sẽ không chần chừ!
+283|Quả Cầu Rào Chắn!
+284|Muốn nổ thì cứ nổ đi!
+285|Chúng ta đang ở trong rào chắn bất khả phá của tao!
+286|Tên ngốc này...
+287|Gà Trống-kun! Đừng nói là cậu...
+288|Ngươi định kéo ta chết chung sao?!
+289|Thằng nhãi láo xược...
+290|Fashion Pop!
+291|Gà Trống-kun!
+292|Đáng đời mày, con nhím!
+293|Giờ bức tường sẽ không nổ nữa!
+294|Mình làm được rồi...
+295|Mình đã bảo vệ được Robin-senpai.
+296|Tiếc cho ngươi, đồ ngốc.
+297|Ngươi trượt chỉ vài phân thôi.
+298|Thứ ngươi đâm không phải cổ họng ta. Mà là vai.
+299|T-Tao trượt chỗ hiểm sao?!
+300|Đúng là hắn phồng lên nên tao không phân biệt được cổ với vai, nhưng...
+301|Chết tiệt!
+302|Ngươi cũng là người dùng Trái Ác Quỷ, nên hiểu rồi đấy.
+303|Chừng nào ta còn tỉnh táo...
+304|bức tường sẽ không ngừng nổ!
+305|Mở to mắt mà nhìn bạn bè ngươi nổ tan xác đi!
+306|Chết tiệt, mình ngu quá!
+307|Nico Robin, xin lỗi cô!
+308|Ta đã khống chế được Hakuba!
+309|Giờ ta là Cavendish!
+310|Nhưng ta để lại một nửa là Hakuba.
+311|Buông ta ra! Ta sẽ giết ngươi!
+312|Ta sẽ đưa cô xuống Cánh đồng Hướng Dương bằng tốc độ của Hakuba!
+313|Ta sẽ dùng năng lực của Hakuba!
+314|Không còn cách nào khác! Buông ta ra!
+315|Tin ta đi!
+316|Ai đang nói vậy?
+317|Không có thời gian suy nghĩ đâu!
+318|Mau lên!
+319|Đ-Đừng!
+320|Pop Rock...
+321|Super Arena!
+322|Robin-senpai!
+323|Cái rào chắn của ngươi tiện lợi thật đấy.
+324|Nhìn đi.
+325|Chẳng còn lại gì của cả hai.
+326|Hả?!
+327|Sao lại cản ta?!
+328|Đây là cơ thể của chính ngươi mà!
+329|Nếu vậy thì sao thỉnh thoảng...
+330|không chịu nghe ta một lần đi?!
+331|Cien Fleur! Spider Net!
+332|Bách Hoa: Mạng Nhện
+333|Cậu đã chặn lưỡi kiếm của Hakuba giúp tôi, phải không, Bắp Cải-kun?
+334|Cậu đúng là người khó hiểu.
+335|Không thể nào!
+336|Sao chúng thoát được vụ nổ đó?!
+337|So với hắn, mình thật thảm hại!
+338|Quyền Tôn Thờ!
+339|Luffy-senpai...
+340|Bây giờ kỹ năng của tôi chưa đủ...
+341|Nhưng tôi sẽ ngày càng mạnh hơn...
+342|Rào Chắn...
+343|Tôi thề, một ngày nào đó...
+344|tôi sẽ thành người có thể giúp được anh!
+345|Súng Lục!
+346|Mình thắng sát nút nhờ sức mạnh của senpai...
+347|Dù sao thì, mình không bao giờ muốn...
+348|làm việc với cái gã phiền phức đó nữa!
+349|Bậc 4, Đồi Hướng Dương
+350|Dưới đó cũng ồn ào ghê.
+351|Trên chiến trường chao đảo thế này,
+352|ngay cả đấu sĩ của Đấu trường cũng phải lảo đảo mà ngã!
+353|Phải không, Rebecca?
+354|Vipera Glaive!
+355|Kiếm Rắn
+356|Đừng! Chạy đi, Rebecca! Con không đỡ nổi đòn đó đâu!
+357|Những đóa hoa bướm làm chệch đòn tấn công...
+358|Mil Fleur!
+359|Thiên Hoa
+360|Lan Hồ Điệp!
+361|Robin-san!
+362|Đó là...
+363|Robiland!
+364|Cô đã hoàn thành nhiệm vụ rồi, Rebecca.
+365|Cảm ơn cô đã mang chìa khóa đến.
+366|Từ giờ, tôi sẽ bảo vệ cô!

@@ -1,0 +1,327 @@
+1|Này, dừng lại đi, Mũ Rơm!
+2|Pica-sama rất nhạy cảm về giọng nói của mình!
+3|Nếu ngài ấy mất bình tĩnh khi ở dạng đó...
+4|Chạy đi!
+5|Thế mà cũng gọi là cú đấm à! Cả thị trấn đổ ập lên đầu chúng ta rồi!
+6|Tôi cảm thấy có gì đó cực kỳ khủng khiếp.
+7|Isshou-san, ngài phải rời khỏi đây! Là một gã khổng lồ đá!
+8|Luffy, cậu thôi khiêu khích kẻ thù được không?!
+9|Thấy chưa? Cậu cũng cười mà!
+10|Hai cậu...
+11|Tới rồi!
+12|"Quảng trường" bên ngoài Đấu trường
+13|Đây là đâu?
+14|Chịu.
+15|Có vẻ chúng ta ở khá xa hoàng cung.
+16|Tên dung hợp với đá chết tiệt.
+17|Hắn còn to hơn cả Oars.
+18|Giá mà biết cách đánh bại hắn.
+19|Mũ Rơm...
+20|Bắp Cải!
+21|Thợ Săn Hải Tặc Zoro...
+22|Và Trafalgar...
+23|Law!
+24|Trả lại cho ta...
+25|sự nổi tiếng đây, lũ Thế hệ Tồi tệ nhất chết tiệt!
+26|Cậu làm gì vậy?!
+27|Giờ cậu ta là người của băng tôi rồi!
+28|Đời nào!
+29|Sao, cậu vẫn ghét tôi à?
+30|Không, ta sẽ không nhắm vào băng Mũ Rơm nữa.
+31|Vì mạng ta đã được đồng đội của ngươi, Thần Usopp, cứu.
+32|Phải, ta sẽ không bao giờ quên lòng dũng cảm quên mình cứu bao người của cậu ấy.
+33|Dù ta không tận mắt thấy.
+34|Tôi thích nghe khen đồng đội mình lắm.
+35|À phải...
+36|Trafalgar, đây là mũ của ngươi phải không?
+37|Ta nhặt được trước Đấu trường.
+38|Để ta đội lại cho.
+39|Nào, bước lên đây.
+40|Ai mà tin được cậu!
+41|Thôi, sao cũng được...
+42|Giờ ta đang bận lắm.
+43|Để báo đáp các ngươi, ta đã quyết định giết Doflamingo.
+44|Cái gì?!
+45|Cứ giao hết cho ta.
+46|Các ngươi nên đi trốn ở đâu đ-
+47|Khỏi cần. Tôi sẽ làm.
+48|Tôi phải trả ơn Rebecca vì đã mời tôi bữa trưa.
+49|Cậu chiến đấu vì đồ ăn à?!
+50|Đời nào! Đừng có dối ta.
+51|Ngươi muốn hạ Doflamingo để nổi tiếng hơn nữa chứ gì?!
+52|Nổi tiếng gì chứ?!
+53|Cứ thử nghĩ xem.
+54|Nếu ta đánh bại một hải tặc ác độc như Doflamingo, phóng viên sẽ bám riết lấy ta!
+55|Buổi sáng sẽ bắt đầu bằng một loạt phỏng vấn.
+56|"Chào ngài, siêu sao."
+57|"Thật vinh dự được gọi là siêu sao, ta giúp gì được cho các vị?"
+58|"Cavendish-san, xin ngài chia sẻ đôi lời về cuộc đời hải tặc những năm gần đây?"
+59|"Ơ, ngài vẫn ở đó chứ, Cavendish-san?"
+60|"Sao vậy, ta ở ngay trước mặt các vị mà."
+61|"Vậy sao?"
+62|"Sáng chói quá nên chúng tôi không nhìn thấy ngài!"
+63|"Chói quá à? Xin lỗi, nhưng ta không thể giấu được hào quang này!"
+64|"Tuyệt quá, ngài đúng là ngôi sao!"
+65|Được rồi, đi thôi.
+66|"Giờ thì, hãy khắc ghi vào mắt các vị! Ta là siêu sao!"
+67|Hắn đâu rồi?
+68|Tìm hắn!
+69|Không tìm thấy xác Mũ Rơm!
+70|Chắc hắn bị đập nát hoặc văng đi đâu rồi.
+71|Tìm hắn!
+72|Nếu hắn còn sống, báo cho ta!
+73|Ta không để ngươi đến chỗ Doffy đâu!
+74|Ra là mày trốn ở đây, Mũ Rơm.
+75|Tránh ra!
+76|Mày cản đường đấy!
+77|Tránh ra!
+78|Giọng đó...
+79|Đứng lại, cháu của Garp!
+80|Thủy quân Happou (Băng đảng) Don Chinjao
+81|Bọn tao tìm mày mãi đấy, thằng khốn!
+82|Thủ lĩnh Thủy quân Happou (Băng đảng), Sai
+83|Tao không để mày thoát đâu!
+84|Phó thủ lĩnh Thủy quân Happou (Băng đảng), Boo
+85|Biết ngay mà!
+86|Đứng lại!
+87|Tệ rồi, chạy thôi!
+88|Các người bị sao vậy!
+89|Sao lại chạy?
+90|Họ không chịu buông tha!
+91|Đứng lại!
+92|Phiền quá đi mất!
+93|Sao ngươi không chịu đứng lại?!
+94|Đầu Thép!
+95|Không nghe ta nói sao, cháu của Garp? Ta bảo đứng lại!
+96|Đừng hiểu lầm ý ta, cháu của Garp.
+97|Mối hận của ta với gia đình ngươi đã tan biến từ lâu rồi.
+98|Thật à?
+99|Ban đầu bọn tao đến đây để phá việc làm ăn của Doflamingo.
+100|Bọn tao chẳng quan tâm tiền thưởng gì sất.
+101|Mấy đồng bạc lẻ đó chẳng khiến bọn tao động tay đâu.
+102|Phải, và ta đã quyết định đánh Doflamingo tơi bời,
+103|để báo đáp ngươi và Thần Usopp.
+104|Không, tôi sẽ đánh Doflamingo.
+105|Cái gì?!
+106|Ngươi định chối bỏ thiện ý của ta sao?!
+107|Chiến binh Elbaf Hajrudin
+108|Ngươi đây rồi, Luffy Mũ Rơm.
+109|Hãy quên chuyện trong trận đấu đi.
+110|Bằng niềm kiêu hãnh của chiến binh Elbaf, ta sẽ đánh bại Doflamingo để trả ơn ngươi.
+111|Vương quốc Prodence của ta mang ơn Vua Riku.
+112|Vua của Prodence, Elizabello Đệ Nhị
+113|Ta sẽ là người đánh bại Doflamingo!
+114|Quân sư Dagama
+115|Đúng như ngài ấy nói, chúng ta chẳng hứng thú với tiền thưởng.
+116|Không, người hạ hắn sẽ là chúng tôi!
+117|Jeet & Abdullah
+118|Tôi sẽ không bao giờ quên...
+119|ánh sáng từ trời cao mà Thần đã chiếu rọi lên tôi!
+120|Hãy sám hối!
+121|Đợi đã, ta sẽ là người đánh bại Doflamingo!
+122|Thủy sư Đô đốc Orlumbus
+123|Pháo Hủy Diệt Ideo
+124|Hủy diệt sẽ là cách ta báo đáp!
+125|Đao Phủ Suleiman
+126|Việc hành quyết hắn cứ để ta.
+127|Blue Gilly của tộc Chân Dài
+128|Không, ta sẽ là người giết Doflamingo!
+129|Kéo đến đông thật.
+130|Đừng quên ta chứ!
+131|Lại thêm một tên phiền phức.
+132|Vậy thế này thì sao?
+133|Bọn tôi sẽ đánh Doflamingo, còn các người hỗ trợ.
+134|Nói gì vậy, ta sẽ đánh bại Doflamingo!
+135|Đã bảo là ta sẽ làm mà!
+136|Vô ích thôi.
+137|Bọn này quá kiêu hãnh.
+138|Mấy người...
+139|Tất cả thôi đi!
+140|Tôi đã bảo tôi sẽ là người đánh Doflamingo mà!
+141|Ngươi nói gì?!
+142|Đã bảo là bọn ta trả ơn mà.
+143|Còn nói nhảm nữa là tao giết mày đấy, đồ ân nhân ngu ngốc!
+144|Đúng vậy!
+145|Danh dự!
+146|Danh tiếng!
+147|Kiêu hãnh!
+148|Vua Riku!
+149|Thần!
+150|Một ngọn giáo?!
+151|Tìm thấy chúng rồi.
+152|Các ngươi giúp một tay.
+153|Có một tên hai trăm triệu và hai tên ba trăm triệu.
+154|Bọn chúng là đám đồ chơi ở dưới lòng đất cùng chúng ta.
+155|Gan to thật!
+156|Bắt lấy chúng!
+157|Xuống địa ngục đi, lũ vong ơn bội nghĩa!
+158|Đi thôi.
+159|Ừ.
+160|Ucy!
+161|Bò tót?
+162|Tôi có ý này.
+163|Có gì đó trong làn khói!
+164|M-Một con bò tót?!
+165|Đi!
+166|Hắn đây rồi!
+167|Pica-sama, tìm thấy hắn rồi!
+168|Là băng Mũ Rơm!
+169|Chúng quay lại đây rồi!
+170|Đừng để chúng thoát!
+171|Chúng cưỡi bò tót. Là ba tên lúc nãy.
+172|Còn bốn, năm, sáu... bảy.
+173|Đợi đã, Mũ Rơm!
+174|Đã bảo mấy người đừng theo tôi nữa mà!
+175|S-Số lượng chúng... đang tăng lên!
+176|Ta sẽ là người giết Doflamingo!
+177|Im đi!
+178|Ta sẽ hạ hắn, dù phải giết hết các ngươi!
+179|Nói gì vậy. Ta sẽ làm!
+180|Không, là ta!
+181|Sao tự dưng chúng có thêm đồng minh vậy?!
+182|Sao tao biết được!
+183|Toàn là người tham gia Đấu trường!
+184|Ba người hay ba trăm người cũng chẳng khác gì!
+185|Tới rồi!
+186|Bí kỹ Hasshoken!
+187|Rồng Khoan
+188|Có thể chưa nạp đầy...
+189|Bản nhẹ...
+190|King Punch!
+191|...Đinh Khoan!
+192|Tay của Pica-sama!
+193|Cứ thế này thì chúng ta sẽ là người hạ Doflamingo!
+194|Đừng theo tôi nữa mà!
+195|Im đi, đồ ân nhân chết tiệt!
+196|Các ngươi nói gì?!
+197|Chỉ được cái mã thôi.
+198|Không gì cái đầu khoan của ta không phá được!
+199|Suýt nữa!
+200|Đi nào, Ucy! Đến hoàng cung!
+201|Đừng để bị đè bẹp! Trông cậy vào cậu đấy, Ucy!
+202|Này. Tôi bảo tránh xa ra rồi mà?
+203|Xuống khỏi lưng Ucy đi!
+204|Xin đừng như vậy mà.
+205|Làm ơn, Mũ Rơm-san!
+206|Ucy, trông cậy vào cậu đấy!
+207|Này! Đừng để chúng qua!
+208|Chúng đang hướng đến hoàng cung!
+209|Ta sẽ tiếp các ngươi!
+210|Ideo, Vua Võ Thuật?!
+211|Đừng để Mũ Rơm thoát!
+212|Đừng phân tâm.
+213|Pháo Hủy Diệt!
+214|Muốn cản ta à? Vậy gọi người mạnh hơn tới đây!
+215|Bọn này là sao vậy?
+216|Đ-Đô đốc Orlumbus!
+217|Đây là con đường của ta!
+218|Đô đốc...
+219|Ôm Chặt!
+220|Ngay bây giờ! Bắn!
+221|Kiếm Mỹ Lệ!
+222|Hồ Thiên Nga!
+223|Nhìn lên kìa!
+224|Một cú đấm nữa đang tới!
+225|Dai dẳng thật!
+226|Muốn thêm một-?!
+227|Thôi đi, hai người!
+228|Hắn có thể phục hồi cánh tay bị vỡ.
+229|Nếu đánh mà không biết năng lực của hắn, chỉ phí sức thôi.
+230|Vậy chúng ta làm gì đây?
+231|Trong trường hợp đó...
+232|Chạy!
+233|Thế mà dám xưng là quân sư à?! Nghĩ kế hay hơn đi!
+234|Im! Chạy cũng là một chiến lược hoàn toàn khả thi!
+235|Biến khỏi đây mau!
+236|Không thể đi thẳng. Hy vọng duy nhất là tìm đường vòng.
+237|Gã đó phiền phức thật.
+238|Không cản được hắn thì không đến được hoàng cung.
+239|Này, Mũ Rơm đi đâu rồi?
+240|Không thấy hắn!
+241|Bị đè bẹp cùng mấy tòa nhà rồi sao?!
+242|Hắn kia!
+243|Đường tắt đây rồi! Được!
+244|Hắn đang ở trên người nó?!
+245|Đi nào, Ucy!
+246|Cái gì?!
+247|Hắn điên rồi sao?!
+248|Đừng cướp đất diễn của ta!
+249|Không thể tin được.
+250|Giờ tiếp tục đến hoàng cung thôi!
+251|Ừ! Đi nào, Ucy!
+252|Này.
+253|Vâng?
+254|Đừng có "Đi nào!" với tôi!
+255|Vâng?
+256|Xuống đi! Mấy người nặng quá với Ucy!
+257|À, phải rồi.
+258|Xin lỗi giới thiệu muộn. Tôi là Jeet.
+259|Còn anh to con sau lưng tôi...
+260|Tên tôi là Abdullah.
+261|Tôi có hỏi đâu!
+262|Mũ Rơm!
+263|Hắn tức điên lên rồi!
+264|Ta không để ngươi đến gần Doffy!
+265|Cánh tay hắn!
+266|Mũ Rơm-san?!
+267|Cao Su...
+268|Grizzly Magnum!
+269|Cậu ấy làm được rồi!
+270|Đập nát hắn rồi sao?!
+271|Pica-sama!
+272|Làm được rồi!
+273|Tuyệt quá, Mũ Rơm-san!
+274|Giỏi lắm!
+275|Được rồi, giờ mau đến hoàng cung thôi!
+276|Luffy, cái đầu cậu vừa đập chỉ là đá thôi!
+277|Hả?!
+278|Giờ chúng ta chỉ đang chạy trên một bức tượng.
+279|Hắn lại biến mất à?
+280|Bản thể thật của hắn ở ngay phía trước!
+281|Hả? Đó là tên người đá à?
+282|Lần đầu tôi thấy hắn ra dáng con người.
+283|Hắn có thanh kiếm to quá!
+284|Né đi!
+285|Không né được thì dừng lại!
+286|Không kịp đâu!
+287|Con bò bay rồi?!
+288|Giọng đó buồn cười quá!
+289|Mũ Rơm!
+290|Hắn lại tới nữa!
+291|Bọn tôi đi trước đây!
+292|Hả?
+293|Được! Cứ để tôi!
+294|Tuyệt quá!
+295|Tránh đường!
+296|Không hổ là đồng đội của Thần!
+297|Zoro, trông cậy vào cậu đấy!
+298|Tôi sẽ đi đấm Doflamingo bay luôn!
+299|Rõ, thuyền trưởng.
+300|Ta có chuyện chưa xong với Mũ Rơm. Tránh ra!
+301|Thuyền trưởng tao chẳng rảnh dây với hòn sỏi như mày.
+302|Mày đành phải đấu với tao thôi, đồ giọng nữ cao quá khổ.
+303|Này, con quái vật ngừng cử động rồi. Chết rồi à?
+304|Không, chắc không đâu.
+305|Nhưng nếu mấy cú đấm phiền phức của hắn đã dừng, thì đây là cơ hội!
+306|Ta sẽ hạ Doflamingo!
+307|Không, là ta!
+308|Được rồi! Tiếp tục nào, Ucy!
+309|Ừ, cố lên nhé, bò!
+310|Bò ơi!
+311|Mấy người còn định bám theo đến bao giờ?! Xuống đi!
+312|Ôi, đừng thế mà, Mũ Rơm-san!
+313|Này, Mũ Rơm-ya.
+314|Hả?
+315|Tôi hiểu là chúng ta không còn cách nào ngoài chiến đấu.
+316|Tôi đã quyết định rồi.
+317|Kế hoạch ban đầu tôi đề ra là cách gián tiếp để hạ Doflamingo.
+318|Nhưng thật lòng, tôi cũng muốn trực tiếp hạ hắn.
+319|Lúc nãy tôi đã thua, nhưng lần này tôi sẽ hạ được hắn!
+320|Mười ba năm trước, một người rất quan trọng với tôi...
+321|đã bị Doflamingo giết.
+322|Tên người đó là Corazón.
+323|Người đó là cán bộ cấp cao trong gia tộc Donquixote.
+324|Hả?! Ông ta là thuộc hạ của Mingo à?!
+325|Đúng vậy. Tôi nợ người đó mạng sống này.
+326|Người đó cũng là...
+327|em trai của Doflamingo!

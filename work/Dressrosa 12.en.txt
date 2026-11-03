@@ -1,0 +1,360 @@
+1|Just die, Rebecca!
+2|You foul blooded wench!
+3|Drop dead, Rebecca!
+4|Today's the day you die!
+5|You're the shame of Dressrosa!
+6|Set her on fire!
+7|That'll make up for her pyromaniac grandfather!
+8|Who cares if she's his granddaughter?
+9|She's got nothing to do with what her grandfather did.
+10|Yeah, that's right.
+11|Despite that cute face, people hate you even more than Bartolomeo from Block B.
+12|That's true.
+13|That's enough!
+14|Oh, who's entering the ring now?!
+15|What an ill mannered crowd!
+16|I don't even want to look at you!
+17|Have you no shame?
+18|Captain of the Beautiful Pirates, Cavendish the White Horse makes his entrance!
+19|Cavendish of the White Horse
+20|Cavendish-sama!
+21|Ahh, what beauty!
+22|Hey, get a hold of yourself!
+23|All the ladies in the audience are fainting!
+24|His stunning good looks have not faded in the last three years!
+25|Cavendish-sama, kill that girl!
+26|Put Rebecca in her place!
+27|Shut up, the lot of you!
+28|I don't know what grudge you have against her...
+29|but this young girl is putting her life on the line by standing in this ring.
+30|People who don't have the guts to risk their lives have no right to judge her!
+31|If you want to kill her so much, then get a weapon and come into the ring!
+32|The shouts of people with no resolve are nothing but background noise!
+33|I entered this tournament for my own reasons, but I hate these events!
+34|The life of a warrior isn't something to gawk at!
+35|Good work, Farul.
+36|Why did he come here with a horse and a megaphone?
+37|Yeah, you tell them, Cabbage!
+38|Maybe you aren't all bad...
+39|but I still don't like you.
+40|Cavendish-sama!
+41|What a beautiful person!
+42|Who cares about Rebecca?!
+43|We're rooting for you!
+44|Cavendish!
+45|What incredible charisma he has!
+46|He turned a storm of booing into cheers!
+47|Hey, I understand how you feel.
+48|This probably isn't what you wanted, right?
+49|It must piss you off how easily they change their minds.
+50|The audience are a selfish bunch. Your speech won't really-
+51|I'm so popular!
+52|It makes me so happy!
+53|You're happy?!
+54|It's been three years.
+55|Umm...
+56|Thank you for standing up for me.
+57|Don't mention it. I was genuinely disgusted by them.
+58|You must have it hard.
+59|You don't owe me anything, we are enemies now.
+60|Yes.
+61|That aside, there should be a reporter or two around here somewhere.
+62|I don't know what I would do if that got into the newspaper.
+63|Imagine what would happen if they tried to interview me!
+64|"Hello there, Mr. Superstar!"
+65|I'd be like, "Who's Mr. Superstar?"
+66|Just imagine!
+67|Now, while all that was happening, all the participants have finished entering in the ring!
+68|Gladiator Meadows
+69|The Fighting Lion
+70|Pirate Cavendish
+71|One contender has dropped out, so Block D has 137 participants!
+72|Mummy The Shaman
+73|Adventurer Orlumbus
+74|Suleiman The War Criminal
+75|Squad Captain Rolling Logan
+76|Gladiator Acilia
+77|Gladiator Rebecca
+78|Pyromaniac Damask
+79|This is a battle royale between these warriors!
+80|It is time for the starting gong!
+81|Now then...
+82|Cavendish-sama!
+83|Decapitate someone, Suleiman!
+84|Get 'em, Orlumbus!
+85|Drop dead, Rebecca!
+86|I hope you're seeing this, Soldier-san.
+87|Dressrosa's Flower Fields
+88|Yellow Kabu and Pink Bee squads have arrived from Green Bit.
+89|Good work, Leo.
+90|The time has come, captain.
+91|This battle is to restore the honor of King Riku, who was dethroned in shame ten years ago,
+92|and to regain our freedom!
+93|I will never forget that man's tyranny when he came here and stole everything!
+94|We've spent a year preparing for this.
+95|Even if we're up against a Warlord's crew, we still have a chance!
+96|I'll listen carefully to the plan, and figure out the best time to run away.
+97|Dressrosa "Acacia"
+98|We have to turn left soon, Zoroland.
+99|Left is the side that you don't have your swords on.
+100|Do you think I don't know left from right?!
+101|Yes!
+102|Your ship is being attacked by a female commander of the Donquixote Family, Jora.
+103|She uses art to incapacitate her opponents. She is quite a formidable foe.
+104|You know a lot about her.
+105|I know the names, faces and powers of all of the Family's commanders.
+106|Especially the top three commanders who annihilated Dressrosa's army all on their own.
+107|Trébol, Diamante and Pica. There's no way I could ever forget their faces.
+108|Ten years ago?
+109|Just how old are you?
+110|I'm 27 years old.
+111|T-Twenty-seven?!
+112|That's...
+113|This way!
+114|Zoro-dono! Zoro-dono! Over here!
+115|Hey!
+116|You're being too loud, you idiot!
+117|Who's that? They're acting like they know us.
+118|Swirly-Eyebrowland and Topknotland.
+119|What?!
+120|You're going to save Nami-san?
+121|Then she really is in danger.
+122|No wonder she wasn't picking up the Snail Phone.
+123|Alright, I'm going too!
+124|Wait, Sanji-dono.
+125|We're here to inform Luffy-dono of the situation, remember?
+126|Black Leg.
+127|My precious Violet-chan!
+128|I hope you get passionately stabbed.
+129|Your ship has been captured by Jora.
+130|And now it's headed for Green Bit!
+131|This is so much fun!
+132|Such a beautiful marriage between the music and art of the ocean! Yeah!
+133|I like the way you talk!
+134|Stop the ship! You're not heading for Green Bit, are you?!
+135|Law has quite a shock in store for him!
+136|He's expecting you, but I shall be the one who comes to fetch Caesar!
+137|Brook's acting strange. How could he betray us?
+138|And yet you call yourself a swordsman, Sir Bone?!
+139|I have found myself! I am an artist through and through.
+140|Creating beautiful art is what I live for!
+141|...though I'm not alive.
+142|Don't bother trying to explain! These commoners will never understand, Soul King!
+143|Your true passion is for expressing yourself! They can never understand that.
+144|Behold the Art of Life, Dying Art!
+145|Simply exquisite, Jora-san!
+146|Nooo!
+147|Help!
+148|This does not hurt!
+149|You needn't say a thing! I know I have flawlessly portrayed the tragedy that occurred on Dressrosa.
+150|These noisy children should merge completely with the art within ten minutes' time...
+151|and then they shall be silent forever more!
+152|What?!
+153|Brook!
+154|Sir Bone!
+155|Truly amazing! Please let me add some music!
+156|If you would, Soul King.
+157|Could you please restore my violin and bow, Jora-san?
+158|But of course. Now make me proud, Brother!
+159|Wow! Wonderful!
+160|I'm starting to get sleepy.
+161|I don't want to die!
+162|Look at this, Jora-san.
+163|You see, the bow of my violin is in fact a sword in a cane.
+164|I hope that it plays exquisite music.
+165|Indeed. You have already been cut.
+166|Hmm? Cut?!
+167|Painting Song: Bamboo Flute Joint Slice!
+168|Forgive me. I do not understand art after all.
+169|Because my eyes are like knotholes!
+170|Brook!
+171|Sir Bone!
+172|Green Bit
+173|Law vs. Doflamingo and Admiral Fujitora
+174|Long ago...
+175|To be precise, 800 years ago, Law.
+176|20 kings from 20 countries assembled at the centre of the world...
+177|and created a single organization.
+178|That organization is now known as the World Government.
+179|The founding kings brought their families to live in the Holy Land, Mariejoa.
+180|Though the Nefertari family from Alabasta refused so it was only 19 families...
+181|but those 19 families still live there to this day and reign over the world.
+182|The descendants of those founding kings are known as the Celestial Dragons.
+183|In other words, 800 years ago those 19 countries lost their royal families.
+184|Figured it out yet?
+185|Naturally, those countries elected new rulers, and new royal families were born.
+186|Take Dressrosa for example. The new royal family here was the Riku family.
+187|Whereas the family who moved to the Holy Land Mariejoa and founded the Government...
+188|was the Donquixote family.
+189|In front of Dressrosa's Corrida Colosseum
+190|I was worried about Nami-san before you were!
+191|And she obviously would much rather I show up to help her than you!
+192|That's why I'll go!
+193|Fine, just go then.
+194|Kin'emon. This is the map to the Toys' House, where your friend is being held.
+195|I am most grateful!
+196|Once you find Luffy, have him contact the others with this.
+197|We have to know what they're doing.
+198|I'm heading back to the Sunny.
+199|So...
+200|how are we gonna get in contact with Luffy?
+201|I do not know, and that is why we are standing here.
+202|The entire building seems to be tightly sealed off...
+203|I was nearly captured earlier, so we must avoid drawing attention to ourselves.
+204|I could always cut the entire wall into pieces.
+205|That would definitely draw attention to us!
+206|Then I'll just do it quietly and carefully.
+207|How would that make a difference?
+208|That's the Pirate Hunter Zoro-senpai!
+209|The three-sword-style user whose legend began when he cut down a hundred men on Whiskey Peak...
+210|and on Enies Lobby they say he sliced the entire island in half!
+211|And he's been supporting the crew as Luffy-senpai's right hand man!
+212|He's the famous first mate of the Straw Hat Pirates!
+213|He's so freaking cool!
+214|Huh? My tears won't stop...
+215|Dressrosa Royal Palace
+216|Gladius, you really should calm down.
+217|Baby 5.
+218|Do you have any idea how much that woman's betrayal has messed up our plans?
+219|That damn Violet was supposed to capture Black Leg Sanji and read his mind to learn the enemy's plan.
+220|We were supposed to hinder their plans at every step, and take out every single one of the Straw Hats!
+221|And now look what's happened! She took out her own subordinates and ran away!
+222|Calm down! You don't want to explode in here, do you?!
+223|There is nothing I hate more than people who can't stay on schedule or follow a plan!
+224|Donquixote Family (Pica Army) Gladius
+225|Anyone who betrays us... or rather, betrays the young master, must die.
+226|Violet has been acting strange ever since last night.
+227|Just think about it. She could easily have found the Straw Hats' ship yesterday using her Clairvoyance.
+228|Northeast Dressrosa Heading Towards Green Bit
+229|Oh, Violet-chan!
+230|You should have waited at the port, as we planned.
+231|That port is already crawling with marines.
+232|You should change your rendezvous point.
+233|I see, so the Navy's here.
+234|They've got a total of four warships here.
+235|So there are at least 3,000 marines in this country right now.
+236|How did you figure out so much on your own in such a short amount of time?
+237|Because I have the power of Clairvoyance.
+238|I can send my line of sight flying like a bird in any direction, up to 4,000 kilometers away.
+239|I can see everything that happens in this country, without lifting a finger.
+240|So you don't have to worry about me.
+241|I won't get captured.
+242|Does that mean you're staying in the country?
+243|No, don't worry.
+244|I'm going to...
+245|What's wrong?
+246|How horrible! Your ship suddenly reappeared and was struck by lightning!
+247|Lightning?!
+248|Wait, that probably means...
+249|Waters off Dressrosa
+250|Now, what should we do with her?
+251|Sir Bone, I hit her hard.
+252|Indeed, your muscles are well-developed.
+253|R-Really? I have strong muscles?
+254|I don't really want to throw her in the ocean.
+255|Since she's a Devil Fruit ability user.
+256|And I have no desire to see her panties.
+257|W-Who are you calling Miss Universe?
+258|That's not what I said! No one said that!
+259|Should I hit her once more?
+260|Don't bother with her.
+261|We've got to hurry to Traf.
+262|But, what did he mean when he told us to pick up Caesar?
+263|Listen up, you have to...
+264|set sail for Green Bit right now!
+265|I'm leaving Caesar in your care!
+266|Indeed, this is a strange situation.
+267|Since Doflamingo agreed to our demands and threw away his position as a Warlord,
+268|Caesar should be returned to him.
+269|You guys really don't know anything.
+270|There's no way the young master would take some kids' demands seriously.
+271|The young master has not thrown away his position as a Warlord.
+272|Wait, what do you mean by that?
+273|What do you mean?
+274|Ow! That hurts, you little brat!
+275|Onami!
+276|You've all fallen into his trap.
+277|Surely by now, Violet will have exposed all your plans. You can be sure your crewmates have been caught!
+278|Green Bit
+279|Law vs. Doflamingo and Admiral Fujitora
+280|So you were a Celestial Dragon, Doflamingo?!
+281|Yes, I was.
+282|I'm not a Celestial Dragon anymore.
+283|What do bloodlines and destiny mean anyway?
+284|I don't think there is anyone else in the world who's led a life as checkered as mine.
+285|I'd have loved to talk to you about my life before I met you, over a drink.
+286|But I don't have the time for it.
+287|I have to do something about the Straw Hat Crew over in Dressrosa.
+288|Many people have made the fatal mistake of underestimating them.
+289|What is it, Fujitora?
+290|Well...
+291|I heard some lightning coming from the sea.
+292|What does the sky look like?
+293|Lightning?
+294|I may be blind, but I thought I could read the weather fairly well.
+295|I guess I'm getting old.
+296|If I remember, Namier could control the weather.
+297|So the ship has come.
+298|Hey Joker, if you've gotten it back, then hurry and give it to me!
+299|My heart, my heart!
+300|Hey, hurry!
+301|I never said that was Caesar's heart.
+302|What?!
+303|That's what you used to threaten me!
+304|Right now, my heart isn't inside my chest!
+305|Hey, what's wrong, get a hold of yourself!
+306|Hey!
+307|A marine's?!
+308|Then where's mine?!
+309|That was my subordinate's scream.
+310|What are you doing, Heavenly Demon?
+311|Room!
+312|You should've paid attention to your gravity, Fujitora.
+313|I'm getting out of here.
+314|Shambles!
+315|Joker, save me!
+316|I didn't think you had this much strength left, Law.
+317|He doesn't know when to give up.
+318|Dammit, let go of me, Law!
+319|Where did you put my heart?!
+320|Quit wasting my time, you brat.
+321|You know there's no place to run.
+322|Can you see Traf?
+323|I can't see very well because of the fog.
+324|Although I do see a strange forest.
+325|If... if Traf's plan failed, and we take back Caesar, what happens?
+326|Doflamingo will target us.
+327|How scary!
+328|What's this?!
+329|What's happening?!
+330|There's something in the ocean!
+331|I-I-It's a school of Fighting Fish!
+332|You came too close to the island!
+333|What are they?
+334|They're killer fish that can sink warships!
+335|Onami!
+336|Follow me, Doflamingo!
+337|If he targets the ship, then we're out.
+338|I'll draw him to the bridge, and then throw Caesar from there.
+339|If I begin a fight with Doflamingo on top of the bridge, I can buy plenty of time for the ship to escape.
+340|What's this?
+341|Are you trying to cross the bridge?
+342|I don't understand.
+343|If you go to Dressrosa, then you're in my territory.
+344|Dammit, those guys...
+345|So that's what you were planning.
+346|Wait, Doflamingo! They have nothing to do with this!
+347|It's over, Law!
+348|Doflamingo's flying toward us!
+349|Young master!
+350|What is this nightmare?!
+351|Are we gonna die?!
+352|No!
+353|Watch closely, Law.
+354|Your allies are going to die a pathetic death right before your eyes!
+355|Stop it!
+356|Traf, hel-
+357|Hey!
+358|Don't come anywhere near my crying crewmates!
+359|Sanji!
+360|Well, here's a strong-looking one.

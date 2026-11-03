@@ -1,0 +1,382 @@
+1|Hey, what was that explosion and gunshot?!
+2|What happened to Traf?!
+3|Can you hear me, Luffy?!
+4|What's going on over there?!
+5|Sorry for making a scene.
+6|The pirate and Warlord, Trafalgar Law.
+7|He's the one behind the news this morning about me abdicating the throne.
+8|He tried to force me off the throne.
+9|Don't worry, I've just dealt with him.
+10|So that's what happened.
+11|Dressrosa almost got completely messed up because of him.
+12|Thank goodness!
+13|Hey, Mingo!
+14|How dare you do that to Traf!
+15|Straw Hat, you have no right to condemn me.
+16|Law was originally my subordinate.
+17|I'll be the one to discipline him.
+18|Kin, you carry Traf!
+19|Understood!
+20|Vice Admiral-dono, the Pirate Hunter is attacking. Should we capture him?
+21|Yes.
+22|Wait a moment.
+23|Hey, explain it to us!
+24|What's going on?!
+25|Law-dono has been shot by Doflamingo right before our eyes.
+26|Did you hear that?
+27|The Pirate Hunter and Foxfire Kin'emon...
+28|I saw a kid that looks like Momonosuke on the ship just earlier.
+29|Don't let him get to you.
+30|We won't let him have Momo.
+31|That goes without being said.
+32|He's...
+33|It would seem... that it'd be better for the both of us if I didn't tell you.
+34|Zoro!
+35|Zoro-dono.
+36|What happened to Zoro, Kin'emon?!
+37|Zoro-dono has disappeared.
+38|Kin'emon!
+39|I'm coming now!
+40|Oh yeah, these were made of Sea Stone.
+41|Kin'emon-san, are you okay?
+42|You haven't been killed, have you?!
+43|Admiral-dono!
+44|A flying slash.
+45|This one's quite strong.
+46|So the blind old gambling man was a Navy Admiral. How about that.
+47|Admiral?!
+48|I thank you for before.
+49|Even though you all helped me out,
+50|it seems I'm repaying you with ingratitude.
+51|This job often brings bad karma.
+52|Oh my, the man with Doflamingo is...
+53|a... a Navy Admiral!
+54|An Admiral is on Dressrosa right now?
+55|It's possible that Doflamingo has allied with the Navy.
+56|If that's the case, then the number of enemies we'll be facing is unknown.
+57|Law-dono! Law-dono!
+58|How are they both flying?!
+59|Are you still alive? Answer me!
+60|We'll continue our talk at the palace, Fujitora.
+61|If you cooperate with me, I'll give you the heads of those brats.
+62|I'll hear you out, Heavenly Demon.
+63|But I'll decide what to do after that.
+64|Capture Roronoa Zoro!
+65|Looks like they know who we are.
+66|So it would seem.
+67|So for now, let's run!
+68|Traf!
+69|This is Kin'emon, Law-dono has been taken by them!
+70|Hey Luffy, hurry and find an exit!
+71|We'll keep running around here and wait for you!
+72|Alright, I'll hurry.
+73|I can still sense Traf. He's alive.
+74|It's Brook and the others.
+75|What's going on now?
+76|T-T-T-This...
+77|What's going on on the Sunny?
+78|They were behind us!
+79|Dammit, they found us.
+80|This is bad!
+81|It's Big Mom's...
+82|... pirate ship!
+83|What is the ship of one of the Four Emperors doing here?!
+84|Is the prow singing?
+85|Really?!
+86|Big Mom's ship?!
+87|We're gonna die!
+88|What's going on, is Big Mom on that ship?
+89|I don't know, but those two we met on Fishman Island are onboard.
+90|Mama, I've spotted Caesar -gao!
+91|As we thought, he was with them -bon.
+92|We should sink their ship and pull Caesar up -soir.
+93|Big Mom?!
+94|I told you so.
+95|This is because you picked a fight with her, Luffy!
+96|They seem to be after Caesar.
+97|You're really popular aren't you, evil scientist!
+98|Is that ship here to save you as well?!
+99|Save me please!
+100|You can't let Big Mom capture me!
+101|I got my research funds...
+102|by tricking her and ripping her off!
+103|What did you say?
+104|W-Well... let's not talk about the details!
+105|Anyway if I'm captured, they'll find out that I've stolen the money and kill me!
+106|Like I care about your life!
+107|Well, I can't let them take you anyway, so shut up!
+108|They're gonna shoot at us!
+109|Damn, we're getting farther away from Dressrosa. They couldn't have picked a worse time to appear!
+110|Can you lose them?
+111|Are you okay, Sanji?
+112|Don't you dare bring an Emperor to this country.
+113|This whole country would fall into panic and the soldier's plans will be screwed.
+114|By the way, why is Caesar on the ship?
+115|I guess negotiations have broken down.
+116|Why else would Traf end up like that?
+117|Law told us to take Caesar to the next island, that's why he's here.
+118|Sanji-kun, I don't think we should go back to Dressrosa.
+119|I'm not saying this because I'm scared.
+120|Listen, Luffy.
+121|We have three cards that we're competing with Doflamingo for.
+122|Caesar, the Smile factory, and for some reason, Momonosuke.
+123|We still haven't destroyed the Smile factory.
+124|But we have the other two cards right here.
+125|Traf fought because he was a decoy to lure Doflamingo away from these cards.
+126|He may also be trying to buy time to destroy the factory.
+127|If we go there and give up the cards that Traf tried so hard to protect...
+128|All his hard work will be in vain.
+129|You're right.
+130|Alright, we'll definitely get Traf back!
+131|What was the next island called?
+132|It's called Zou.
+133|Sanji.
+134|Nami.
+135|Chopper.
+136|Brook.
+137|Momo.
+138|You guys, go on ahead to Zou.
+139|If you say so... Roger, Captain!
+140|But I'd like your permission for something.
+141|Permission?
+142|Allow me...
+143|to attack Big Mom's ship!
+144|Yeah, sure.
+145|You're joking.
+146|We've already picked a fight with her.
+147|You got that right.
+148|That's too dangerous!
+149|Please stop!
+150|Alright, we'll be waiting for you guys on Zou.
+151|Got it.
+152|Leave the destruction of the factory to us!
+153|Everyone, be careful.
+154|We're heading to the palace.
+155|We're gonna send Doflamingo flying!
+156|Barrier!
+157|What is the meaning of this?!
+158|Bartolomeo?
+159|This has nothing to do with you!
+160|True. I just felt like raising this barrier.
+161|This is a family matter! I'll kill you too!
+162|Just try. Nobody can break my barrier.
+163|What? I'm busy!
+164|It's me, Dellinger.
+165|Sounds like you still haven't finished off Bellamy.
+166|You slowpoke.
+167|Oh, shut up! Something got in the way.
+168|Never mind, we'll deal with that later.
+169|Doffy has a new order for you.
+170|Go help Lao G and the others protect the Toys' House. Right now.
+171|Wait, Diamante! I'll be done here in a second!
+172|Be quiet! Do you plan to disobey Doffy?!
+173|"A new order"?
+174|So I...
+175|really was...
+176|You gotta be kidding...
+177|Get real!
+178|Get out of my way.
+179|I'm going... to kick Bellamy to death!
+180|Move it!
+181|No way. I ain't removing the barrier.
+182|I heard that call just now.
+183|So get out of here!
+184|Damn barrier-bastard!
+185|I'll get you for this!
+186|You're not leaving Dressrosa alive!
+187|Scram, you little brat!
+188|That was Diamante's voice, no doubt about it.
+189|So that order was for real?
+190|Doflamingo really did...
+191|order my death?
+192|So if I win this tournament, I'll become a commander in the Family?
+193|Of course.
+194|Do your best.
+195|I've got high hopes for you.
+196|I'll take you to the medical room.
+197|I don't need your help!
+198|I've lost my goal in life.
+199|And anyway, why would you help me?
+200|In the battle royale earlier...
+201|I was trying to kill all of you guys!
+202|We fought in the same ring!
+203|What?
+204|When two men have exchanged blows on the battlefield,
+205|that makes them comrades in arms!
+206|I'd never abandon a comrade, no matter how rotten he may be!
+207|Dressrosa "Flower Hill"
+208|The situation is like I explained.
+209|Underground - Riku's Revolutionary Army Base
+210|As for our plan to expose the tragedies
+211|that have been buried in the darkness,
+212|I've given it the following name.
+213|The Dressrosa SOP Operation.
+214|SOP? What's that mean?
+215|There is a massive underground world in this country.
+216|Inside is the trade port, for making secret deals,
+217|as well as the mysterious factory.
+218|Our Tontattan friends
+219|Factory & trade port
+220|and all the people turned into toys
+221|are being forced to work there.
+222|I see! So what does SOP mean?
+223|We will break in there using the tunnel we've spent the last year digging,
+224|Secretly infiltrate via tunnel
+225|and rescue everyone there!
+226|Then we will destroy the facilities, take down the Doflamingo Family, and restore King Riku!
+227|That is the objective of our plan.
+228|You talk as if it's gonna be easy.
+229|Of course, the plan is extremely idealistic.
+230|We have no idea what will happen to Dressrosa in the next few minutes.
+231|First and foremost, there is one mission we absolutely must carry out.
+232|Doflamingo's subordinate, the one who turned us into toys...
+233|We must knock the Hobby Fruit user unconscious!
+234|Hobby Fruit?
+235|What do you think will happen then?
+236|Will the spell be broken?
+237|That's right! All the toys in Dressrosa...
+238|will return to human form at once!
+239|At the same time, the people will regain whatever memories they have lost.
+240|We can't guess what will happen after that.
+241|Not how many people will fight alongside us, nor what the people will think, nor what actions they'll take.
+242|Or what move Doflamingo will make.
+243|What move the Navy will make.
+244|The only thing we can say for sure,
+245|is that panic will erupt throughout the country.
+246|So, where is this Hobby Fruit user?
+247|And he's really strong, right?
+248|According to the Tontatta reconnaissance unit,
+249|she's in the trade port right now.
+250|She is a special commander in the Donquixote Family's Trébol Army.
+251|Sugar!
+252|A girl who can turn anyone she touches into a toy.
+253|She looks like a child, because whoever eats this fruit stops aging once they do.
+254|She is regarded as one of Doflamingo's most valuable subordinates,
+255|so one of his top commanders, Trébol, is guarding her at all times.
+256|So if we can just make her fall unconscious, the toys will return to normal?
+257|Indeed!
+258|We will scare Sugar half to death and make her faint.
+259|That is the...
+260|Sugar
+261|Sugar Oversurprise
+262|Sugar Oversurprise Panic Operation!
+263|I combined the first letters from each of those words to form the name SOP.
+264|That's a great operation name!
+265|If the enemy is just a little girl, then you can leave this to me!
+266|Alright, I'm fired up!
+267|Franky Hair Salon!
+268|Battle-Hair!
+269|Fraland!
+270|Usoland!
+271|You're so dependable!
+272|Indeed! We are here for you!
+273|There's no way we can lose this battle!
+274|Take us to the underground passage, little ones!
+275|Usolanders!
+276|Meanwhile, Luffy was searching for the exit to the Corrida Colosseum.
+277|Huh?
+278|I don't see any exits.
+279|Where am I?
+280|Someday, I will work under Luffy-senpai.
+281|That's my dream.
+282|You could at least close the door again!
+283|The toilet?
+284|Oh, you're the hen-comb guy!
+285|I'm so glad to see you!
+286|L-L-Luffy-senpai!
+287|No!
+288|Keep it together, Bartolomeo!
+289|Do you really want to give up the chance to speak with the Pirate King?
+290|Oh, Bellamy.
+291|Damn it! He's shining too brightly, I can't look him in the eyes!
+292|Luffy-senpai!
+293|Did you manage to meet up with Zoro-senpai?
+294|Yeah, I talked to him. Thanks!
+295|Oh, it was nothing!
+296|So I suddenly have something I need to do, so I've gotta leave...
+297|but I can't find the exit.
+298|This colosseum doesn't have an exit.
+299|Huh?
+300|Is it just me...
+301|or have your injuries gotten worse?
+302|Once a fighter enters the colosseum, they can never leave.
+303|You're wasting your time looking for an exit.
+304|What? What do you mean?
+305|For real?
+306|There really isn't one?!
+307|Aren't you supposed to be Doflamingo's underling?
+308|So you've gotta know something!
+309|His underling? I couldn't even become that!
+310|Please! My friend is in danger!
+311|I'm leaving.
+312|If you follow me, you might be able to get out too... Maybe.
+313|Alright, thanks!
+314|You'll take me out?
+315|All I'm saying is, you might make it out by coincidence if you follow me.
+316|You want me to betray my boss?
+317|I...
+318|can't betray Doflamingo!
+319|I have too much respect for him.
+320|Hey, didn't he just...
+321|Shut up!
+322|I have my own morals I must stick to.
+323|Got it. I'll tag along behind you then.
+324|But then, Luffy-senpai...
+325|What about the Flame Fruit?
+326|There's someone I really don't want to have it, but I've got no choice.
+327|My friends' lives are more important.
+328|Don't worry, I'll handle it!
+329|It's a memento of Ace-sama. I was always planning to give it to you, Luffy-senpai!
+330|Huh? You'll give it to me?
+331|Of course! If anyone should have it, it's you!
+332|Your accent keep getting heavier.
+333|Ah'll definitely get ya the Flame Fruit!
+334|Just go do whatever it was ya needed to do!
+335|Who are you talking to?
+336|Alright, that really helps.
+337|I won't let you have the Flame Fruit...
+338|Straw Hat Luffy.
+339|Who're you?
+340|Why're you just casually talking to Luffy-senpai like that?
+341|He is the younger brother of that legendary pirate Fire Fist Ace-sama,
+342|and the future Pirate King, you dumbass!
+343|I've known that for a long time.
+344|Now the real battle starts!
+345|You'd better make it to the final round!
+346|Sure!
+347|What's he doing? How dare he act all chummy with Luffy-senpai?!
+348|See? He got him mad!
+349|The plaza outside the Corrida Colosseum
+350|Why'd you come out crying?!
+351|You couldn't find the Pirate Hunter?!
+352|Didn't I tell you to keep your guard up?!
+353|Call the Vice-Admiral!
+354|Yes, Sir!
+355|The Navy has completely fallen for our disguise. They believe us to be toys.
+356|This is still cutting it too close!
+357|And why'd you choose these specific animals?
+358|I thought these animals were kewl! Especially, carps?
+359|Oh, shut up you! Do you even want to save Traf?!
+360|We'll save Traf! I'll send Mingo flying!
+361|And we don't have to worry about the Flame Fruit either.
+362|But are you okay?
+363|It seems Robin-san is somewhere in this country too.
+364|Revolutionary Army - Fishman Karate assistant instructor Koala
+365|I'd really like to see her again.
+366|I'm glad you got to meet up with your friend.
+367|Yeah... I thought he was going to hit me.
+368|Are you crying?
+369|As if!
+370|Could you have made a difference if you were there?
+371|Nobody can say for sure.
+372|You're right.
+373|Once you've figured out what's happening underground, tell me.
+374|Of course.
+375|In any case, I will get Ace's Flame Fruit.
+376|We will carry on his will!
+377|I did't thing he waz alive...
+378|Who are you talking about?!
+379|I thought...
+380|h-h-he...
+381|The Straw Hats are Back
+382|he died back then!
