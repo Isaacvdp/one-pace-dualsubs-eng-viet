@@ -2,18 +2,18 @@
 
 Takes One Pace's English release subtitles from
 [one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles)
-and adds a Vietnamese line under every spoken line. The English keeps its
+and adds a Vietnamese line above every spoken line. The English keeps its
 original font (Impress BT, embedded in the One Pace .mkv), timing, signs and
 karaoke; the Vietnamese uses Arial in pale yellow.
 
 ## Workflow (one arc at a time)
 
-1. `python dualsub.py export 1-48` - downloads the English subs to `english/`
-   and writes `work/Dressrosa NN.en.txt` (numbered dialogue lines).
-2. Claude Code translates each file to `work/Dressrosa NN.vi.txt` with the same
+1. `python dualsub.py export 1-48` - downloads the English subs to `english/Dressrosa/`
+   and writes `work/Dressrosa/NN.en.txt` (numbered dialogue lines).
+2. Claude Code translates each file to `work/Dressrosa/NN.vi.txt` with the same
    line numbers, following [glossary.md](glossary.md).
 3. `python dualsub.py build 1-48 --video-dir "D:\One Pace\Dressrosa"` - writes
-   `<video name>.vi.ass` next to each video. Without `--video-dir` the files go to `out/`.
+   `<video name>.vi.ass` next to each video. Without `--video-dir` the files go to `out/Dressrosa/`.
 
 Other arcs: add `--arc "Wano"` (the name as used in One Pace's file names).
 
@@ -28,7 +28,7 @@ Same as running:
 
     python dualsub.py mux 16-48 --video-dir "D:\One Pace\Dressrosa"
 
-Builds the subs and writes a copy of each video to `D:\One Pace\Dressrosa\dual\`
+Builds the subs and writes a copy of each video to `D:\One Pace\Dressrosa\dual\` as `Dressrosa 16.mkv` and so on,
 with "Tiếng Việt + English" as the first, default subtitle track. The original
 English track stays in the file but is no longer default, and the embedded
 fonts are kept. Nothing is re-encoded, so it takes seconds per episode. The

@@ -3,8 +3,8 @@
 Keeps One Pace's English release .ass untouched (same font, timing and
 typesetting) and puts the Vietnamese translation right under every spoken line.
 
-    python dualsub.py export 1-48     # download English subs, write work/<arc> NN.en.txt
-    (translate each work/<arc> NN.en.txt into work/<arc> NN.vi.txt, same line numbers)
+    python dualsub.py export 1-48     # download English subs, write work/<arc>/NN.en.txt
+    (translate each work/<arc>/NN.en.txt into work/<arc>/NN.vi.txt, same line numbers)
     python dualsub.py build 1-48 --video-dir "D:\\One Pace\\Dressrosa"
     python dualsub.py mux 1-48 --video-dir "D:\\One Pace\\Dressrosa"   # new .mkv files with our subs as default
 """
@@ -13,6 +13,7 @@ import json
 import re
 import shutil
 import subprocess
+import tempfile
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -46,15 +47,16 @@ def parse_episodes(spec):
 def english_subs(arc, episodes):
     """Episode -> local English .ass, downloading any that aren't cached yet."""
     pattern = re.compile(rf"\] {re.escape(arc)} (\d+) \[.*\.ass$", re.I)
-    have = {int(m.group(1)): f for f in ENGLISH.glob("*.ass") if (m := pattern.search(f.name))}
+    folder = ENGLISH / arc
+    have = {int(m.group(1)): f for f in folder.glob("*.ass") if (m := pattern.search(f.name))}
     missing = [ep for ep in episodes if ep not in have]
     if missing:
-        ENGLISH.mkdir(exist_ok=True)
+        folder.mkdir(parents=True, exist_ok=True)
         for item in json.loads(http(TREE_API))["tree"]:
             path = item["path"]
             m = pattern.search(path) if path.startswith(RELEASE_DIR) else None
             if m and int(m.group(1)) in missing:
-                f = ENGLISH / Path(path).name
+                f = folder / Path(path).name
                 f.write_bytes(http(RAW + urllib.parse.quote(path)))
                 have[int(m.group(1))] = f
     for ep in episodes:
@@ -136,7 +138,7 @@ def read_numbered(path):
 
 def translations(arc, ep):
     """English line -> its Vietnamese translations in order of appearance, or None if not translated yet."""
-    en_file, vi_file = WORK / f"{arc} {ep:02d}.en.txt", WORK / f"{arc} {ep:02d}.vi.txt"
+    en_file, vi_file = WORK / arc / f"{ep:02d}.en.txt", WORK / arc / f"{ep:02d}.vi.txt"
     if not vi_file.exists():
         return None
     en, vi = read_numbered(en_file), read_numbered(vi_file)
@@ -162,10 +164,10 @@ def find_video(video_dir, arc, ep, src):
 
 def export(arc, ep, src):
     items = translatable(src.read_text(encoding="utf-8-sig").splitlines())
-    WORK.mkdir(exist_ok=True)
-    out = WORK / f"{arc} {ep:02d}.en.txt"
+    (WORK / arc).mkdir(parents=True, exist_ok=True)
+    out = WORK / arc / f"{ep:02d}.en.txt"
     out.write_text("".join(f"{n}|{text}\n" for n, (_, text) in enumerate(items, 1)), encoding="utf-8")
-    print(f"  {out.name}: {len(items)} lines")
+    print(f"  {arc}/{out.name}: {len(items)} lines")
 
 
 def build(arc, ep, src, args, out=None):
@@ -193,11 +195,17 @@ def build(arc, ep, src, args, out=None):
 
     if out is None:
         video = find_video(args.video_dir, arc, ep, src) if args.video_dir else None
-        out = video.with_suffix(".vi.ass") if video else args.out / f"{src.stem}.en-vi.ass"
+        out = video.with_suffix(".vi.ass") if video else out_file(arc, ep, args)
     out.write_text("\n".join(build_dual(lines, vi_by_line, args.order, args.font, args.size)) + "\n",
                    encoding="utf-8-sig")
     print(f"  -> {out}")
     return out
+
+
+def out_file(arc, ep, args):
+    folder = args.out / arc
+    folder.mkdir(parents=True, exist_ok=True)
+    return folder / f"{arc} {ep:02d}.ass"
 
 
 def mkvtool(name):
@@ -220,17 +228,18 @@ def mux(arc, ep, src, args):
     # Base the subs on the English track inside this video, so the timing always fits it.
     english = sorted((t for t in tracks if t["type"] == "subtitles" and t["codec"] == "SubStationAlpha"),
                      key=lambda t: t["properties"].get("language") != "eng")
-    if english:
-        src = args.out / f"{video.stem}.en.ass"
-        subprocess.run([mkvtool("mkvextract"), str(video), "tracks", f"{english[0]['id']}:{src}"],
-                       capture_output=True, check=True)
-    ass = build(arc, ep, src, args, out=args.out / f"{video.stem}.en-vi.ass")
+    with tempfile.TemporaryDirectory() as tmp:
+        if english:
+            src = Path(tmp) / "english.ass"
+            subprocess.run([mkvtool("mkvextract"), str(video), "tracks", f"{english[0]['id']}:{src}"],
+                           capture_output=True, check=True)
+        ass = build(arc, ep, src, args, out=out_file(arc, ep, args))
     if not ass:
         return
     subs = [t["id"] for t in tracks if t["type"] == "subtitles"]
     others = [t["id"] for t in tracks if t["type"] != "subtitles"]
 
-    target = args.video_dir / "dual" / video.with_suffix(".mkv").name
+    target = args.video_dir / "dual" / f"{arc} {ep:02d}.mkv"
     target.parent.mkdir(exist_ok=True)
     cmd = [exe, "-o", str(target)]
     for t in subs:  # the original English stays available, just not default
@@ -271,9 +280,9 @@ def main():
             mux(args.arc, ep, src, args)
 
     if args.command == "mux":
-        # Playlist of everything in dual/, in chapter order: VLC plays one episode after another.
+        # Playlist of this arc's videos in dual/, in episode order: VLC plays one after another.
         dual = args.video_dir / "dual"
-        videos = sorted(v.name for v in dual.glob("*.mkv")) if dual.exists() else []
+        videos = sorted(v.name for v in dual.glob(f"{args.arc} *.mkv")) if dual.exists() else []
         if videos:
             playlist = dual / f"{args.arc}.m3u8"
             playlist.write_text("#EXTM3U\n" + "".join(f"{v}\n" for v in videos), encoding="utf-8")
