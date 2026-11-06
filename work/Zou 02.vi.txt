@@ -1,0 +1,309 @@
+1|Etetetetete...
+2|"Ete"?
+3|Đúng vậy! Raizo chạy với nhịp điệu như thế.
+4|Tôi nghĩ cậu ấy có sức mạnh kiểu này.
+5|Ninpo - Thuật Bịt Mắt! Đoán xem ai nào!
+6|L-Là Kanjuro hả? Ý tôi là tôi biết ở đó chỉ có mình anh thôi.
+7|Coi chừng! Cúi xuống!
+8|Này! Đừng có làm trò ninpo ngớ ngẩn nữa...
+9|Ôi không! Hai người đó rơi rồi!
+10|Chết tiệt! Cái thứ vừa rơi trúng bọn mình từ trên trời là gì vậy?!
+11|Tôi không biết. Hình như là một người đầy máu với dao găm cắm khắp người...
+12|Cái gì?!
+13|Hoặc chỉ là một con khỉ nhỏ.
+14|Anh làm tôi sợ đó! Sao anh lại nghĩ vậy?!
+15|Kin'emon! Kanjuro!
+16|Kin'emon! Kanjuro!
+17|Họ rơi xuống nước rồi sao?
+18|Đi cứu họ thôi!
+19|Luffy-dono! Bọn tại hạ đều ổn!
+20|Là Kin'emon!
+21|Tốt! Họ còn sống!
+22|Đi trước đi! Bọn tại hạ sẽ đuổi theo sau!
+23|Anh ta nói gì vậy? Không đời nào! Quay xuống thôi!
+24|Này, Dragon! Quay xuống đi!
+25|Ryunosuke, quay xuống...
+26|Này, Ryunosuke...
+27|Làm sao bảo anh bạn tội nghiệp này quay lại được...
+28|Có vẻ nó muốn hoàn thành nhiệm vụ càng sớm càng tốt.
+29|Nó đang khổ sở. Cứ để nó đi tiếp.
+30|Dễ thương ghê...
+31|Xin lỗi nhưng bọn tôi đi trước đây! Hẹn gặp lại!
+32|Đã rõ!
+33|Này! Tao không cho phép bọn mày vào đất nước này!
+34|Cứ đi đi!
+35|Hả? Hình như tôi vừa nghe một giọng lạ.
+36|Cố lên nào, Ryunosuke!
+37|Cậu làm được mà!
+38|Luffy!
+39|Đó có phải là đỉnh không?!
+40|Gì cơ?
+41|Ồ! Đúng rồi!
+42|Sắp tới rồi, Ryunosuke!
+43|Đỉnh á?!
+44|Đỉnh ở ngay trước mắt!
+45|Ồ! Nhanh thật!
+46|Ryunosuke! Nước rút lần cuối đi!
+47|Cố lên! Ryunosuke!
+48|Chỉ còn một chút nữa thôi! Chạy đi!
+49|Sắp tới rồi!
+50|Sắp tới rồi!
+51|Sắp tới rồi!
+52|Sắp tới rồi!
+53|Sắp tới rồi!
+54|Sắp tới rồi!
+55|Phải! Tôi bắt đầu thấy gì đó rồi!
+56|Ryunosuke! Cố lên! Ngay đó rồi!
+57|Ryunosuke!
+58|Ryunosuke!
+59|Cậu làm được mà, Ryunosuke!
+60|Ryunosuke!
+61|Ryunosuke!
+62|Ryunosuke!
+63|Ryunosuke!
+64|Tới rồi!
+65|Tới đỉnh rồi!
+66|Cuối cùng cũng tới!
+67|Ryunosuke! Giỏi lắm!
+68|Bọn mình đến Zou rồi!
+69|Cậu đang biến lại thành hình vẽ.
+70|Này, khoan đã!
+71|Ryunosuke!
+72|Ryunosuke!
+73|Ryunosuke!
+74|Ryunosuke!
+75|Ryunosuke!
+76|Vô lý thật.
+77|Chỉ là một bức vẽ dở thôi.
+78|Này, đứng lại ngay, lũ khốn!
+79|Đó là cách bọn mày cảm ơn nó vì đã đưa lên đây à?!
+80|Chúng ta đang ở vùng đất lạ. Không nên ngoái lại.
+81|Cậu nói đúng nhưng...
+82|Usopp! Ryunosuke là người tốt mà, đúng không?!
+83|Luôn để ý phía trước. Nhìn kìa.
+84|Đó hẳn là cổng vào đất nước.
+85|Chắc chắn có nền văn minh trên lưng con voi.
+86|Có tháp canh nhưng không có lính gác. Không xứng với một quốc gia.
+87|Chậc! Họ lạnh lùng quá!
+88|Thật tình! Mấy cậu hết xúc động nhanh quá!
+89|Này, Usopp! Lên đây đi! Tuyệt lắm!
+90|Cậu leo lên tháp canh nhanh vậy!
+91|Tuyệt quá!
+92|Vậy đây là lưng của con voi!
+93|Không thể tin được! Đây thật sự là lưng voi sao?!
+94|Thú vị quá!
+95|Có một con voi khổng lồ sống hàng ngàn năm...
+96|Và có một đất nước trên lưng nó!
+97|Ừ!
+98|Có rừng, có sông và có thị trấn!
+99|Đúng là tuyệt vời! Y hệt một hòn đảo!
+100|Usopp! Cái cây kia như một con cá voi!
+101|Đúng rồi!
+102|Thị trấn lớn hơn tôi tưởng!
+103|Nhưng thị trấn đó có vẻ hơi...
+104|Luffy nhảy xuống rồi!
+105|Tôi biết cậu ta sẽ làm vậy. Cậu thấy "Lông Mày" già đâu không?
+106|Không.
+107|Chỗ này cao quá nên không thấy ai.
+108|Zoro, chúng ta có nên đợi Kin'emon và Kanjuro không?
+109|Nó không rộng như một lục địa. Cứ đi thôi.
+110|Khoan, khoan! Tôi đi với mấy cậu!
+111|Cậu ta đâu cần nhảy. Cổng mở mà.
+112|Không, tôi nghĩ đây là...
+113|Ừ, thật ra nó không mở...
+114|Có ai đó đã phá nó.
+115|Cậu nói đúng.
+116|Con đường mòn này cũng lạ.
+117|Quá rộng để gọi là đường thú trong rừng.
+118|Này, đây là sự phá hoại khá nghiêm trọng!
+119|Mà còn mới nữa. Sanji và mọi người có ổn không?!
+120|Tan hoang quá!
+121|Từ trên kia tôi không thấy, nhưng ở đây đang xảy ra chuyện gì vậy?!
+122|Hãy tiến lên thận trọng!
+123|Cái gì?! Chúng ta còn chưa biết cư dân ở đây mà đã có kẻ thù khác sao?!
+124|Này, này, khoan!
+125|K-K-K-Khoan đã, mọi người! Làm ơn!
+126|Không cần vội thế đâu!
+127|Khó đi quá.
+128|Ừ, đây là da voi mà.
+129|Có hoa ở những chỗ thật lạ.
+130|Bariete đâu rồi?
+131|Các Mink nhỏ đã đi qua cổng.
+132|Có lẽ anh ta đã bị hạ rồi!
+133|Là một thị trấn!
+134|Không có ai! Đất nước này bị làm sao vậy?!
+135|Tất cả đều đổ nát!
+136|Này! Sanji! Nami!
+137|Chopper! Brook! Momo!
+138|À, và gã khí gas nữa. Thôi, quên hắn đi.
+139|Chuyện gì đã xảy ra ở đây?
+140|Tôi ngửi thấy mùi thuốc súng thoang thoảng... Và khí gas, cậu có ngửi không?
+141|Chuyện này là sao? Thỉnh thoảng cho nằm thư giãn ở một đất nước yên bình không được sao?!
+142|Gì vậy?! Cậu thấy gì à?!
+143|Để tôi lo.
+144|Cô ấy vừa...
+145|...nhảy trên không trung sao?!
+146|Cái quái...?!
+147|Khoan! Dừng lại, Carrot!
+148|Bỏ họ đi!
+149|Quan trọng hơn, có kẻ xâm nhập vào Rừng Cá Voi!
+150|Động vật biết nói sao?!
+151|Họ là tộc Mink!
+152|Ồ?! C-Bộ đồ đó chẳng phải...
+153|...của Nami sao?!
+154|Vũ khí đó là gì vậy? Tôi bị giật một cái!
+155|Có kẻ xâm nhập Rừng Cá Voi sao?!
+156|Vâng, rắc rối rồi!
+157|Các Hộ Vệ sẽ nổi giận!
+158|Một con thú?!
+159|Một con người?!
+160|Này, cậu kia! Bộ đồ đó cậu lấy ở đâu?!
+161|Cậu đã làm gì Nami?!
+162|Họ là bộ tộc ăn thịt người sao?
+163|Đừng nói điều đáng sợ như vậy!
+164|Xin lỗi! Đừng ăn thịt tôi!
+165|Nhìn cô ấy nhảy cao chưa kìa!
+166|Tất cả họ đều có thể lực như thế sao?!
+167|Sao rồi?!
+168|Cậu thấy gì không, Carrot?!
+169|Có! Có lẽ hơi muộn rồi!
+170|Phía bên kia thành phố Kurau, Rừng Cá Voi đang có biến động!
+171|Tôi đã nghĩ vậy! Đi thôi, Warney!
+172|Lên đi, Carrot!
+173|Chúng tôi không có thời gian chở các cậu!
+174|Làm theo lời tôi!
+175|Đi qua Rừng Mông Phải ở bên phải
+176|rồi rẽ trái ở đầm lầy tối sâu... Các cậu sẽ tới Rừng Sườn Phải!
+177|Các cậu sẽ thấy xác của bạn các cậu ở đó!
+178|X-Xác sao?!
+179|Chờ ở Rừng Sườn Phải! Chúng tôi sẽ tới sau!
+180|Cậu nghĩ họ sẽ ổn chứ?
+181|Đó là băng Mũ Rơm.
+182|Hả? Họ sẽ bị sốc đấy.
+183|Tiếc thật nhưng không làm gì được. Chuyện đã rồi.
+184|Kẻ vừa xâm nhập Rừng Cá Voi có lẽ là hải tặc Mũ Rơm Luffy.
+185|Cậu ta là thuyền trưởng của họ nhưng tôi chắc các Hộ Vệ sẽ không nương tay!
+186|Họ bị giết rồi!
+187|Cô ấy nói có xác... Nghĩa là họ không bị ăn thịt.
+188|Vấn đề đâu phải chuyện đó! Thôi đi!
+189|Bình tĩnh!
+190|"Lông Mày Xoắn" già đi cùng họ. Anh ta sẽ không để ai bị giết.
+191|Ừ. Họ không dễ bị giết vậy đâu!
+192|Đây hẳn là chiêu khiến chúng ta bối rối và khuất phục!
+193|Cậu nói đúng. Tôi không thể tin nổi.
+194|Traf-kun.
+195|Bạn cậu chắc ở đây, đúng không? Có cách nào liên lạc không?
+196|Không.
+197|Tôi còn không nghĩ sẽ gặp lại họ.
+198|Nhưng giờ tôi nhớ ra rồi.
+199|Tôi quên là mình có một Vivre Card.
+200|Của hoa tiêu bên tôi, Bepo.
+201|Ồ phải, băng cậu có con gấu bắc cực biết nói!
+202|Cậu ta cũng là Mink à?!
+203|Ừ.
+204|Đây là nơi cậu ấy sinh ra.
+205|Nhưng cậu ấy không nhớ nhiều về hòn đảo này.
+206|Vì cậu ấy rời đảo từ khi còn nhỏ.
+207|Tôi biết cậu ấy mười năm rồi. Có thể tin cậu ấy.
+208|Nếu muốn có thông tin đáng tin cậy thì cứ đi thẳng.
+209|Ồ, lúc nãy tôi nhìn từ trên kia! Cứ đi thẳng sẽ có một thị trấn!
+210|Chưa biết ai ở đó! Có ổn không?!
+211|Biết đâu bộ tộc ăn thịt người ở đó...
+212|Vẫn hơn là đi theo con thú lạ.
+213|Theo nó thôi.
+214|Rừng Cá Voi
+215|Cao su...
+216|Moo Golova!
+217|Chuông!
+218|Sao Electro không có tác dụng?!
+219|Đúng rồi! Dừng lại!
+220|Tôi biết cậu ta!
+221|Dù biết cậu ta thì cậu ta vẫn là kẻ xâm nhập!
+222|Chắc phải dùng vũ lực để chặn anh thôi!
+223|Đừng cản đường bọn tôi!
+224|Không! Jean Bart!
+225|Chết tiệt! Quá sức xoay xở!
+226|Anh ta mạnh quá!
+227|Đủ rồi, các Hộ Vệ!
+228|Một vật đang bay phấp phới!
+229|Một quả chuối!
+230|Ừ! Tôi được quả chuối!
+231|Hộ Vệ Rừng Cá Voi (Mink Bò Tót) Roddy
+232|Hộ Vệ Rừng Cá Voi (Mink Khỉ Đột) BB
+233|Ngon quá! Ngon, ngon, ngon...
+234|Ra đây là cách xử lý họ.
+235|Một con chó?
+236|Tộc Chiến Thú (Mink Chó) Wanda
+237|Anh là Mũ Rơm Luffy phải không?
+238|Tôi là Wanda.
+239|Tộc Chiến Thú (Mink Thỏ) Carrot
+240|Đây là Carrot.
+241|Chúng tôi sẽ không làm gì anh, nên đừng chống cự nữa.
+242|Đất nước này có cả đống sinh vật kỳ lạ.
+243|Cứ như có cả đống Chopper vậy.
+244|Họ bị làm sao vậy?!
+245|Tôi chưa làm gì mà họ đã tấn công tôi!
+246|Đó là vì anh đã xâm nhập khu rừng cấm không được vào.
+247|Ồ! L-Các người đang làm gì vậy?!
+248|Các Hộ Vệ!
+249|Chúng tôi sẽ đưa anh ta ra khỏi đây!
+250|Xin hãy tha cho anh ấy!
+251|Vì Wanda...
+252|Rút lui thôi, Roddy!
+253|BB!
+254|Pedro!
+255|Mọi người, rút lui!
+256|Tôi bị bao vây sao?
+257|Hãy biết ơn vì đây không phải đêm trăng sáng.
+258|Này, Mũ Rơm, anh không nhớ bọn tôi sao?
+259|Bọn tôi đã chăm sóc anh sau Chiến tranh Thượng đỉnh!
+260|Tôi sốc quá!
+261|Ồ! Anh là con gấu biết nói trong băng Traf!
+262|Traf?
+263|Không, bọn tôi làm việc dưới trướng Trafalgar Law!
+264|Hoa tiêu Hải tặc Heart, trợ thủ của Hộ Vệ Bepo
+265|Hải tặc Heart!
+266|Tôi nói vậy mà.
+267|Không, anh không nói vậy!
+268|À, bọn tôi đã đọc báo!
+269|Có cả đống tin gây ngạc nhiên!
+270|Chúng ta là đồng minh, đúng không?
+271|Thuyền trưởng của bọn tôi cũng ở đây chứ?
+272|Ừ, Traf ở đây!
+273|Anh lại nói sai nữa! Đó là ai vậy?!
+274|Traf là Law.
+275|Vậy à? Tôi không biết đấy.
+276|Vậy thuyền trưởng của bọn tôi có ở đây! Yeah!
+277|Thuyền trưởng, em nóng lòng gặp anh quá!
+278|Giữa lưng voi, Thành phố Kurau
+279|Có lẽ không còn nghi ngờ gì là nơi này đã bị tấn công.
+280|Thành phố này có thể có tới vài trăm ngàn cư dân mà không có lấy một người.
+281|Chúng ta không nên ở ngoài trống trải thế này!
+282|Kẻ địch chắc vẫn còn quanh đây!
+283|Đây là thiết bị tra tấn sao?
+284|Chúng ta thậm chí không biết kẻ địch có phải con người không.
+285|Có rất nhiều vết cào.
+286|Ừ, những thứ đó là gì vậy?!
+287|Này, lại xem cái này.
+288|Là một dấu chân khổng lồ.
+289|Cậu nghĩ là voi sao?
+290|Có phải một số quái vật và dã thú đã tấn công đất nước của các Mink không?
+291|Nhưng nhìn các vết cào đó thì có thể là nội bộ bất hòa.
+292|Có một điều chắc chắn.
+293|Đất nước này đột ngột bị hủy hoại chỉ cách đây một hai tuần.
+294|V-Vậy Sanji và mọi người...
+295|...bị cuốn vào chuyện đó sao?!
+296|Bị hủy hoại?
+297|Hèn gì không có ai.
+298|Đất nước hàng trăm năm tuổi này tên là Công quốc Mokomo.
+299|Khi nhớ lại chỉ nửa tháng trước, tôi thấy khuôn mặt vui vẻ của mọi người.
+300|Đất nước này bị hủy hoại bởi...
+301|...Jack!
+302|Ồ! Cái gì thế này?!
+303|Chuyện gì đang xảy ra?!
+304|Sắp có Mưa Phun Trào!
+305|Trèo lên cây đi!
+306|Lên Warney đi! Tôi sẽ đưa các cậu tới Sườn Phải!
+307|Bạn các cậu ở đó!
+308|Tuyệt! Vậy Sanji và mọi người ở đó!
+309|Chuyện gì vậy?!

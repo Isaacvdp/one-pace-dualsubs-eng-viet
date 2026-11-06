@@ -1,0 +1,355 @@
+1|Có chuyện rồi! Kin'emon và Kanjurou chắc đã đến rồi!
+2|Chỉ vì một samurai tên Raizo thậm chí không có ở đây mà Công quốc Mokomo bị tàn phá!
+3|Nếu họ gặp người Mink và nói đang tìm Raizo,
+4|sẽ rối tung lên mất!
+5|Dù sao cũng phải ngăn hai người đó lại!
+6|Ừ!
+7|Đi thôi!
+8|Nghiêm trọng rồi-saru! Nghiêm trọng rồi-saru!
+9|Bariete đang rung chuông!
+10|Samurai-saru! Samurai đến rồi-saru!
+11|Vào thành phố! Báo ai có khả năng đi theo ta!
+12|Rõ!
+13|Duke-sama! Warney của ngài đã sẵn sàng!
+14|Nhân tiện, tiếng chuông đó ồn quá. Nó rung liên tục.
+15|Có phải chuông báo mọi người có khách không?
+16|Chắc họ đang chào đón chúng ta!
+17|Hoàn toàn có thể!
+18|Nhưng Law-dono nói rằng...
+19|...cư dân Zou không ưa con người thật ra là tộc Mink.
+20|Vâng, người ta nói thế sao? Tôi không hiểu tại sao.
+21|Nếu dạo này người ta nói vậy...
+22|Cha! Kanjurou!
+23|Momonosuke!
+24|Kanjurou! Anh vẫn ổn!
+25|À, xin lỗi vì làm cậu lo.
+26|Mà sao cậu ở đây một mình? Luffy-dono và mọi người đâu?
+27|Thật ra từ khi đến đất nước này tôi không yên tâm
+28|nên tôi ngủ một mình trong phòng.
+29|Ôi không!
+30|Tội nghiệp cậu.
+31|Tôi hiểu. Vậy đi cùng chúng tôi.
+32|Chắc họ đang tập hợp để chào đón chúng ta!
+33|Sao?! Sao?! Sao?! Sao tôi phải chạy sớm thế này?!
+34|Tôi bảo rồi! Kin'emon và... Tên anh ta là gì nhỉ?!
+35|Kanjurou!
+36|Phải! Hai người đó đã đến!
+37|Nghe nói hai samurai xuất hiện và cả nước náo loạn!
+38|Ngài Nekomamushi đã dẫn Đội Hộ Vệ vào thành phố!
+39|Lại tiệc chào mừng nữa à?! Hai ngày liên tiếp cũng được!
+40|Không, họ có mối thù cần giải quyết!
+41|Tất nhiên rồi!
+42|Họ bị buộc tội oan là giấu samurai và suýt chết!
+43|Họ đâu rồi?!
+44|Chúng ta sẽ tìm ra ngay!
+45|Người dân khắp nước cứ đổ vào thành phố...
+46|Pedro! Ông thấy họ không?!
+47|Không ổn rồi.
+48|Chưa tìm ra samurai sao?!
+49|Chúng ta đang truy lùng!
+50|Thưa ngài, xin hãy lui lại!
+51|Lui lại?!
+52|Nhanh lên!
+53|Hứ! Các ngươi nói gì vậy?!
+54|Xin ngài. Cứ tiếp tục đi.
+55|Ôi... Ôi không! Hai người đụng nhau rồi!
+56|Ngài!
+57|Duke-sama!
+58|Xin đừng làm vậy, thưa ngài!
+59|Duke-sama! Xin hãy bình tĩnh!
+60|Đánh nhau à?
+61|Đó là...
+62|Trời! Vừa rồi...
+63|...Suýt nữa thì!
+64|Ba người nghe lời khuyên của tôi, quay về tàu Sunny ngay!
+65|Bao nhiêu năm rồi, quái vật mèo? Ngươi càng giống quái vật hơn.
+66|Còn ngươi thì sao? Mất một chân rồi.
+67|Làm sao đây?!
+68|Ai đó ngăn họ lại đi!
+69|Raizo đâu?!
+70|Giao Raizo ra đây!
+71|Ta biết Raizo ở đất nước này!
+72|Chúng ta không có người như vậy! Phải nói bao nhiêu lần nữa?!
+73|Cứ lục soát cả nước tùy ý! Chúng ta không có samurai...
+74|Không biết ngươi sẽ nói lời từ biệt cái chân này trước, hay nói cho bọn ta biết samurai ở đâu.
+75|Thử xem, "Vua Chó".
+76|Vậy thì ta không cách nào cứu cái chân này.
+77|Ngươi bị chặt mất tay. Không đánh được nữa rồi.
+78|Cùng lắm chỉ ăn được lasagna.
+79|Nói đi! Samurai ở đâu?!
+80|Sao ta nói được điều ta không biết?!
+81|Người từ đất nước Wano không có việc gì ở đây!
+82|Các ngươi chỉ biết dùng khí độc và tấn công người đã yếu!
+83|Đồ hèn!
+84|Ôi không! Gã này đang cố bẻ xích!
+85|Khí độc thật sự có tác dụng không?! Giữ chặt hai tay hắn!
+86|Ừ, nên làm vậy!
+87|Có thời gian làm hại người của ta thì chĩa giáo vào ta đây!
+88|Không... Thưa ngài!
+89|Ta sẽ nhận hết đống giáo rẻ tiền đó!
+90|Thưa ngài!
+91|Tiếc là ngươi chỉ mất một chân!
+92|Ta không ngại nếu ngươi chết.
+93|Một vua là đủ cho đất nước!
+94|Xin dừng lại, cả hai!
+95|Vậy để bọn ta tiễn một trong hai về với cát bụi!
+96|Ngươi phải chết!
+97|Chó và mèo?!
+98|Này!
+99|Tôi từng nghe rồi, nhưng họ mạnh thật!
+100|Này, khoan!
+101|Dừng đánh nhau!
+102|Này, đồ ngốc! Anh làm gì vậy?!
+103|Đó là...
+104|...một samurai!
+105|Thấy chưa?! Họ tìm ra anh rồi!
+106|Chạy đi, Kin'emon! Họ sẽ giết anh!
+107|Momo-chan!
+108|Này, thả tôi ra! Làm ơn!
+109|Cậu định làm gì?!
+110|Momo, tránh ra!
+111|Kanjurou! Sao các anh lại ra?!
+112|Chạy đi! Ngay!
+113|Nekomamushi! Inuarashi! Khoan đã!
+114|Họ thật sự không có ác ý!
+115|Người dân đất nước Zou!
+116|Tại hạ là gia thần của gia tộc Kozuki từ đất nước Wano, tên Kin'emon!
+117|Tại hạ đến tìm đồng đội tên Raizo, một chiến binh cùng quê!
+118|Anh ấy đã ở đây chưa?!
+119|Vậy mà đất nước này bị tàn phá vì anh ta không có ở đây!
+120|Luffy!
+121|Ừ...
+122|Chúng tôi đã đợi các vị.
+123|Ta không biết Raizo! Ta thề có trời!
+124|Nếu người các ngươi nói ở đây, cứ lấy mạng ta!
+125|Raizo-dono...
+126|...an toàn!
+127|Ồ, anh ấy an toàn! Nhẹ cả người!
+128|Khoan đã!
+129|Này, Raizo có ở đây suốt thời gian qua không?!
+130|Mọi người đều biết sao?!
+131|M-M-M-Mọi người suýt chết!
+132|Thành phố ngàn năm bị tàn phá!
+133|Xin lỗi vì đã giấu cả các ngươi.
+134|Gia tộc Kozuki của Wano và chúng ta như người một nhà từ xưa.
+135|Dù mọi thứ có tan nát, chúng ta không bao giờ bán đứng bạn bè!
+136|Này!
+137|Vâng!
+138|Ngươi nghĩ sao? Ta chết rồi à?
+139|K-Không! Chắc chắn không!
+140|Ngài còn sống, Jack-sama!
+141|Tại hạ vô cùng biết ơn tất cả!
+142|Và giờ, để làm bằng chứng, tại hạ xin dâng thứ này!
+143|Vâng, đúng là gia huy Kozuki giống của Duke-sama, ngài và Raizo-san!
+144|Kozuki...
+145|Không ngờ họ quen nhau!
+146|Tôi đã thật sự chuẩn bị cho trận đụng độ với người Mink! Trời!
+147|Không thể tránh. Họ không thể kể hết ngay cả với chúng ta.
+148|Cô ấy chỉ nói chó con và mèo con có cùng gia huy.
+149|Có lẽ mối quan hệ của họ mạnh hơn ta tưởng nhiều.
+150|Nhưng Inuarashi, Nekomamushi...
+151|Thật bất ngờ khi thấy hai vị còn sống khỏe mạnh ở đây!
+152|Chết có lẽ còn nhẹ nhõm hơn với bọn ta.
+153|Nhưng bọn ta nghĩ nếu tin lời hôm đó và đợi ở đây...
+154|Phải, thì một ngày nào đó sẽ gặp lại các ngươi!
+155|Này, quái vật mèo!
+156|Ta đang nói chuyện với Kin'emon!
+157|Đừng tự tiện ngắt lời!
+158|Ta chỉ nghĩ Kin'emon chắc chán nói chuyện với ngươi
+159|nên ta khéo léo nói thay!
+160|Tôi tưởng họ nguôi rồi.
+161|Thôi...
+162|Ngươi hết vai trò rồi! Cút đi!
+163|Ngươi cút đi!
+164|Xin dừng lại, cả hai! Những vị khách mong đợi bấy lâu vừa đến!
+165|Dừng đánh nhau! Inuarashi! Nekomamushi!
+166|Hai người từng là bạn thân! Sao lại đánh nhau như muốn giết nhau?!
+167|Thôi...
+168|Ta cấm các ngươi đánh nhau nữa!
+169|Càng không thể tha thứ nếu vì cha ta!
+170|Cha ta sẽ buồn khi thấy hai người thế này...
+171|Oden-sama...
+172|Momo?
+173|Cậu nói cha cậu sẽ buồn?
+174|Nhưng Kin'emon ở ngay đây.
+175|Tại hạ xin lỗi!
+176|Momonosuke-sama! Tại hạ xấu hổ! Ngài hoàn toàn đúng!
+177|Gì cơ?!
+178|Duke-sama!
+179|Không ngờ ngài cúi đầu!
+180|Đứa trẻ đó là...
+181|Momonosuke-sama nói đúng!
+182|Xin cũng tha thứ cho tại hạ vì đã nói dối mọi người!
+183|Nói thật, Momonosuke-sama và tại hạ...
+184|...không phải cha con!
+185|Gì cơ?!
+186|Vị này chính là người thừa kế...
+187|...của Kozuki Oden-sama, đại danh vĩ đại xứ Kuri ở đất nước Wano!
+188|Vương quốc Wano Người thừa kế Đại danh xứ Kuri Kozuki Momonosuke
+189|Ngài tên là Kozuki Momonosuke-sama!
+190|Nghĩa là với tất cả chúng ta kể cả Inuarashi và Nekomamushi,
+191|ngài là chủ nhân!
+192|Vậy là người thừa kế gia tộc Kozuki và con trai Oden-dono!
+193|Sao ta không nhận ra!
+194|Gì? Momo là người quan trọng à?
+195|Nếu họ đứng đầu hàng gia thần của cậu ấy, cậu ấy có thể là một lãnh chúa rất quyền lực.
+196|Dọc đường, nếu thân phận bị lộ, chúng tôi có thể thu hút thêm kẻ thù
+197|nên giả làm cha con.
+198|Dù tin tưởng các vị, chúng tôi chưa có dịp tốt để nói.
+199|Tại hạ xin lỗi.
+200|Vậy hai người không phải cha con.
+201|Nhưng họ giống nhau. Cả hai đều biến thái.
+202|Xin lỗi vì đã nói dối! Thật ra ta là nhân vật quan trọng!
+203|Ừ, và biến thái.
+204|Không phải!
+205|Sao cũng được!
+206|Ý ngươi là sao?! Cúi đầu đi, Luffy!
+207|Không đời nào!
+208|Sao bọn tôi phải đổi thái độ chỉ vì cậu là người quan trọng? Đồ ngốc!
+209|M-Momonosuke-sama!
+210|Ngươi sợ độ cao và không có gan!
+211|Samurai bọn ta không sợ gì cả! Thật vô lễ!
+212|Lại nữa rồi. Cậu ấy đã cứu mạng bọn mình nhưng...
+213|Không thể đòi hải tặc khiêm tốn.
+214|Momonosuke-sama đang bị phân tâm, vậy cũng tốt.
+215|Bực quá, Onami! Luffy là kẻ tồi tệ!
+216|Ồ, nín đi nào.
+217|Tránh xa cô ấy, Momonosuke-sama! Thằng nhóc chết tiệt!
+218|Này!
+219|Nè, Momo-chan,
+220|cha cậu là lãnh chúa thì trong lâu đài chắc có kho báu, đúng không?
+221|Thôi đi!
+222|Cô thật là người xấu!
+223|Mới chỉ vài tháng kể từ...
+224|Sự vui vẻ của bọn họ chắc đang giúp cậu ấy.
+225|Đình chiến đi, mèo.
+226|Nếu cứ đắm chìm trong quá khứ, chúng ta làm Momonosuke-sama đau khổ.
+227|Được, vì chủ nhân của chúng ta!
+228|Ta sẽ trò chuyện với ngươi nhưng không kết nối với ngươi!
+229|Thỏa thuận!
+230|Ồ! Nhìn kìa!
+231|Hai người kia... Không thể nào!
+232|Là phép màu!
+233|Hai vị vua của chúng ta làm lành rồi!
+234|Vua Ban Ngày và Vua Ban Đêm cuối cùng đã...
+235|Sức mạnh của gia tộc Kozuki thật tuyệt vời!
+236|Tôi khóc mất!
+237|Bác sĩ Miyagi! Anh nhảy nhiều quá!
+238|Leo lên cá voi thôi.
+239|Nếu biết đi dây leo nào, anh sẽ lên được đỉnh.
+240|Vậy Raizo ở đây?!
+241|Nin-nin!
+242|Nin-nin!
+243|Nin-nin!
+244|Nin-nin!
+245|Nin-nin!
+246|Nin-nin!
+247|Nin-nin!
+248|Nin-nin!
+249|Háo hức gặp ninja quá! Nin-nin!
+250|Mình sắp được gặp ninja! Nin-nin!
+251|Thuật Độn Thủy! Nin-nin!
+252|Tôi vẫn thấy không khỏe, Kin'emon.
+253|Ngài có thể đợi ở dưới nếu muốn, Momonosuke-sama.
+254|Càng gần cá voi, giọng nói tôi nghe càng to.
+255|Anh có năng lực giống Oden-sama.
+256|Từng có một người khác hay nói như vậy.
+257|Tôi cũng đang nghĩ đúng điều đó.
+258|Ồ, không ngờ có lối vào ở đây!
+259|Ở đuôi Cây Cá Voi?! Không ai để ý!
+260|Lại là cửa ẩn nên không thể tìm ra.
+261|Đi thôi.
+262|Cầu thang rất dài, cẩn thận nhé.
+263|Đó là...
+264|Đó là giọng Raizo.
+265|Gì?! Ninja?!
+266|Ninja!
+267|Ninja!
+268|Ninja đâu?!
+269|Ninja! Ninja!
+270|Đến nơi rồi.
+271|Anh này là ninja, Raizo.
+272|Ninja! Nin...
+273|Ngươi đây rồi, Nekomamushi!
+274|Ngươi! Sao không giao ta cho chúng?!
+275|Ninja Vương quốc Wano Raizo Sương Mù
+276|Tất cả những người mang đồ ăn đến đây...
+277|...đều bị thương!
+278|Họ nói đất nước ổn, nhưng có thật không?!
+279|Nếu là nói dối, Raizo này sẽ hận ngươi!
+280|Gì cơ?!
+281|Hoàn toàn không như chúng ta tưởng!
+282|Ta nghĩ các ngươi không phải người nước này! Các ngươi là ai?!
+283|Raizo!
+284|Kin'emon! Kanjuro! Momonosuke-sama!
+285|Mừng là các vị bình an!
+286|Chúng tôi cũng mừng là cậu bình an!
+287|Đó là...
+288|Gia huy của gia tộc Kozuki!
+289|Giống của Kin'emon!
+290|Gia huy đó tồn tại hàng thế kỷ.
+291|Và hòn đá đó là...
+292|Tôi chưa từng thấy nó màu như vậy. Đỏ thẫm...
+293|Ừ, là Poneglyph.
+294|Bọn ta biết ngươi, Nico Robin.
+295|Ta nghe người Ohara đọc được những chữ đó.
+296|Sao Poneglyph đó màu đỏ?
+297|Những Poneglyph tôi từng thấy không cái nào màu đó.
+298|Nó có mục đích khác.
+299|Cô đọc được không?
+300|Vâng, cho phép tôi chứ?
+301|Tất nhiên, cứ tự nhiên.
+302|Các ngươi bị sao vậy? Sao nhìn chằm chằm ta thế?
+303|Anh thật sự là ninja sao?
+304|Vô lễ! Các ngươi là ai?!
+305|Chúng tôi chưa giới thiệu họ với cậu.
+306|Raizo, họ là băng Mũ Rơm. Họ là hải tặc.
+307|Hải tặc?
+308|Nếu là ninja thật, hãy ném phi tiêu đi!
+309|Thiền dưới thác nước đi!
+310|Nói "Nin" rồi dùng sức mạnh ninja!
+311|Tôi muốn xem Thuật Độn Thổ!
+312|Tôi muốn bản lửa!
+313|Không, bản nước!
+314|Yêu cầu dồn dập quá!
+315|Sao hải tặc các ngươi lại muốn xem đến vậy?!
+316|Không phải vì bọn tôi là hải tặc.
+317|Siêu!
+318|Con trai nào cũng thích ninja!
+319|Làm tôi đỏ mặt.
+320|Này, anh từng hẹn hò với nữ ninja chưa?!
+321|Luyện nhảy bằng cách ngày nào cũng nhảy qua măng tre!
+322|Cho tôi xem Thuật Phân Thân.
+323|Trốn trên trần nhà rồi bị đâm bằng giáo.
+324|Triệu hồi con ếch khổng lồ!
+325|Ngậm cuộn giấy trong miệng và nói "Nin-nin"!
+326|Ôi, im đi!
+327|Đừng áp đặt giấc mơ chết tiệt của các ngươi lên ta!
+328|Ninja bọn ta không nói "Nin-nin"! Ninja trong đầu các ngươi toàn là ảo tưởng!
+329|Gì cơ?!
+330|Vậy cái gì làm anh thành ninja?! Chắc không phải thể hình!
+331|Đúng vậy. Với thể hình này, ta còn không thu hút được nữ ninja...
+332|Này, im đi!
+333|Nghe này! Muốn thành bậc thầy ninja cần tâm trí yên tĩnh và vững vàng!
+334|Bọn ta phải sống trong bóng tối. Không được phô diễn kỹ thuật.
+335|Nhẫn thuật không phải trò giải trí...
+336|Nhẫn Pháp - Thuật Độn Khói!
+337|Anh ấy biến mất!
+338|Ta không biến mất!
+339|Ta ở đây.
+340|G-Gì cơ?!
+341|Và đây!
+342|Đây nữa!
+343|Và đây nữa!
+344|Gì?! Anh ấy có phân thân?!
+345|Chẳng lẽ...?!
+346|Nhẫn Pháp - Thuật Phân Thân!
+347|Ngầu quá!
+348|Các ngươi nghi ta không thật sự là ninja sao?
+349|Phi Tiêu Hoa!
+350|Ghi chú: shinobi
+351|Chưa từng được con gái yêu thích nhưng vẫn là ninja bất bại!
+352|Raizo Sương Mù giờ đây...
+353|...ở ngay trước mắt các ngươi!
+354|Raizo!
+355|Nin! Nin!

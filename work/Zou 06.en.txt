@@ -1,0 +1,388 @@
+1|What?
+2|Y-You've got to be kidding...
+3|What the hell... Hey!
+4|Where is everybody?!
+5|What happened?! Grr! Who did this to Zou?!
+6|Did the Straw Hats do this?!
+7|What did they do to my home?!
+8|This is a residential quarter where our ancestors used to live.
+9|Zunesha has carried the whole history of the Mink Tribe without change.
+10|One of the Mink Tribe's tradition that goes far back in that history is...
+11|...exchanging clothes with foreigners, as a sign of friendship!
+12|Oh, this is beautiful! It's like a dress for somebody great.
+13|Yes. And that accessory is a national treasure.
+14|What?! Are you giving it to me?!
+15|Of course. Everyone agreed we should.
+16|Garchu! Garchu-chu!
+17|Mademoiselle, garchu.
+18|Garchu.
+19|How are you?! Garchu.
+20|Garchu.
+21|Tristan-chan!
+22|Garchu!
+23|Garchu!
+24|Sanji-san, you sure like to greet everyone.
+25|What is "garchu"?
+26|Is it a miraculous magic word or something?
+27|Sanji! It's from us to you, our great savior; Garchu!
+28|Shut up! I don't want it from guys!
+29|Oh, Sanji-san. Garchu!
+30|Oh, boy! Viva minkship!
+31|Is that a goddess?!
+32|No...
+33|Nami-san!
+34|Garchu!
+35|Where is Momo?
+36|He's still locked in his room. He feels more comfortable that way.
+37|Plus, he shouldn't let them see his human form.
+38|You're right.
+39|We'd better not mention the word "samurai" while we're in this country.
+40|Just give that annoying brat to the Minks and let's leave this crappy island already!
+41|Shut up! Hey, Caesar, did you make the drugs?
+42|I met my quota because I'm a genius.
+43|Make more! Don't stop!
+44|There are still so many injured people!
+45|Keep working!
+46|Why should I do such a thing...
+47|Dr. Caesar, I came to pick up the drugs.
+48|Hey, you're mistaken! I'm Cedar the pharmacist!
+49|Here.
+50|Damn! Why am I making drugs to save people?!
+51|Thank you, Dr. Caesar!
+52|It's Cedar!
+53|Man! This work disgraces my name, Caesar the genius mad scientist!
+54|Oh yeah...
+55|It's Cedar!
+56|Baron Corpse, your fans are waiting for you outside.
+57|Erk!
+58|I don't need popularity among dogs...
+59|Pekoms!
+60|It's you, Pekoms!
+61|You're home!
+62|Pekoms!
+63|So you guys are all okay!
+64|Dad! Mom! All my relatives and friends!
+65|Welcome home!
+66|How long has it been?!
+67|This brings back memories!
+68|Yeah! You're looking good and I'm so happy! Garchu!
+69|You idiot! You're covered with cuts and bruises! Don't tell me you're happy!
+70|When I saw the city, I thought my heart would stop!
+71|Garchu!
+72|Hey!
+73|You're hurting me!
+74|It's all thanks to the Straw Hats!
+75|If it weren't for their desperate rescue, I don't know what would've happened to us by now.
+76|Really, thank you for staying alive!
+77|Whoa-whoa, stop crying.
+78|Damn! I can't forgive Jack of the Beast Pirates!
+79|How dare he do that to my home!
+80|Look! Those guys from the Big Mom Pirates! They made it this far!
+81|That's Pekoms! He came home.
+82|He used to be an infamous delinquent.
+83|Oh, so he's a Mink.
+84|They must've heard this is where we were heading!
+85|They want me!
+86|Hey, please! Don't hand me over to them.
+87|You were our trump card against Doflamingo.
+88|Now that Luffy and the others took him down, we don't care what happens to you.
+89|Don't say such a thing! We're friends!
+90|When did we become friends?!
+91|You were whining about something at Dressrosa too. What did you do to Big Mom?
+92|Oh, that's it! Hear me out!
+93|I got an offer to research something which I haven't succeeded at yet,
+94|and I lied to her and ripped her off pretty badly!
+95|I had Doflamingo at my back so I pushed my luck!
+96|So you asked for it.
+97|I hope all they want is Caesar...
+98|What?!
+99|I'll kick your ass all over the New World...
+100|...and make Fishman Island my territory!
+101|Luffy picked a fight with Big Mom at Fishman Island.
+102|We broke their ship too.
+103|Hey, Black-Foot. Do you wanna work together with me and take them out?
+104|Think about it!
+105|Nami-san, stay with the rest here.
+106|Okay.
+107|Brook, come with me.
+108|Okay.
+109|Hey, Black-Foot! What about my cool idea to assassinate them?!
+110|Idiots who can't think should shut up.
+111|What do you Big Mom Pirates want?
+112|Don't cause trouble.
+113|The people in this country are hurt inside and out now.
+114|We're not gonna run or hide.
+115|All I can say is thank you! Grr!
+116|H-Hey...
+117|I didn't expect to see my home country devastated like this...
+118|But you guys saved the people, didn't you?!
+119|I owe you greatly!
+120|How can I thank you...?
+121|By Mama's order, we have business other than capturing Caesar.
+122|It could spell doom for your pirate group.
+123|Doom?
+124|So let's forget it! The mission failed! Just give us Caesar!
+125|I'll just tell Mom that we let the Straw Hats get away!
+126|Pekoms! Are you losing your mind?! Put your feelings aside!
+127|Shut up, newbie! I'll take the punishment!
+128|They saved my family members and friends.
+129|I can't do anything to them...
+130|You coward!
+131|You bastard!
+132|He shot his ally in the back!
+133|How could he do that?!
+134|What did I just see?
+135|He may not look like it but he's quite a well-known pirate.
+136|However, when he chose to act on his pathetic feelings, he turned into such a coward.
+137|There's no longer any use for him.
+138|I'll do it myself!
+139|Alright, guys! Come on out!
+140|Go!
+141|What?!
+142|What?! Humans?!
+143|What the hell?!
+144|Give up! You're outnumbered!
+145|Did the humans come out of his stomach?!
+146|What kind of ability is that?!
+147|I thought I saw humans in his hand but, that wasn't an illusion!
+148|I ate the Castle Fruit and became a castle human.
+149|I'm regarded in the same generation as your captain, so you know me, don't you?
+150|Captain of the Firetank Pirates
+151|Capone "Gang" Bege
+152|Bounty: 300 million berry
+153|When Luffy punched the Celestial Dragon at Sabaody, you were there, weren't you?!
+154|We're not gonna make a scene here. We don't want that, either.
+155|If the Minks come, they'll definitely take your side.
+156|I know how well they can fight.
+157|Vito!
+158|No! Let go of me!
+159|Nami-san!
+160|Chopper-san!
+161|I-I'm sorry! We couldn't help worrying so...
+162|I'm sorry! I thought there were only two enemies!
+163|Oh...
+164|Caesar! Why don't you come out, too?!
+165|We'll fire shotguns containing Sea Prism Stone towards the sky in two seconds!
+166|Two!
+167|One!
+168|Wait a sec! I'm here! Don't shoot!
+169|Don't point them at me!
+170|Come to think of it, we don't have any bullets containing Sea Prism Stone.
+171|What?!
+172|But we have a spear that works like that!
+173|Rather than standing around here talking, get into my castle.
+174|That's an order!
+175|Damn! He's completely in control.
+176|Thank you for waiting.
+177|Would you guys like to eat something?
+178|No thanks.
+179|You don't have to be humble. Maybe a glass of wine?
+180|We don't want anything! Get down to business already!
+181|He'll kill us! He'll kill us! He'll kill us!
+182|You should cut yourself some slack sometimes.
+183|We exchanged gunfire at sea a week ago, but the situation has changed since then.
+184|I was asked to hand you this invitation.
+185|It's an invitation to Mama's tea party.
+186|Cut the crap.
+187|Why would I wanna go to Big Mom's tea party?
+188|The highlight of the party will be a wedding ceremony.
+189|The groom is the third son of the Vinsmoke Family...
+190|Groom Third son of the Vinsmoke family Sanji
+191|Sanji!
+192|What?!
+193|What?!
+194|What?!!
+195|Groom Third son of the Vinsmoke family Sanji
+196|The bride is the 35th daughter of the Charlotte Family,
+197|Bride 35th daughter of the Charlotte family Pudding
+198|The bride is the 35th daughter of the Charlotte Family, Pudding.
+199|TEA PARTY
+200|D-During a tea party...
+201|Groom Third son of the Vinsmoke family Sanji
+202|Bride 35th daughter of the Charlotte family Pudding
+203|They'll hold Sanji's wedding?!
+204|Groom Third son of the Vinsmoke family Sanji
+205|Bride 35th daughter of the Charlotte family Pudding
+206|Groom Third son of the Vinsmoke family Sanji
+207|Bride 35th daughter of the Charlotte family Pudding
+208|Groom Third son of the Vinsmoke family Sanji
+209|Bride 35th daughter of the Charlotte family Pudding
+210|Take it.
+211|Groom Third son of the Vinsmoke family Sanji
+212|Bride 35th daughter of the Charlotte family Pudding
+213|TEA PARTY
+214|Groom Third son of the Vinsmoke family Sanji
+215|Bride 35th daughter of the Charlotte family Pudding
+216|Why, after all these years?!
+217|Third son of the Vinsmoke family
+218|I don't know the deal with your family!
+219|You bastard! Are you trying to set fire to my castle?!
+220|Hey, Sanji-kun, what is this all about?!
+221|Are you gonna get married?!
+222|Who made the decision without asking?!
+223|Your family, of course!
+224|Being a son of the Vinsmoke family means you're quite ill-bred.
+225|V-V-Vinsmoke is Sanji-san's surname?!
+226|The name gives me chills down my spine.
+227|But no, that's not possible.
+228|Hey, bring me a glass of wine!
+229|Yes, sir!
+230|Sanji-kun's family...
+231|Oh!
+232|"Noland the Liar"?
+233|You know it, Sanji-kun?
+234|But it says it was published in the North Blue.
+235|Yeah. I was born in the North Blue.
+236|Haven't I told you guys?
+237|That's news. I thought you were from the East, too.
+238|I grew up there. Well, who cares.
+239|I remember feeling strange at that time.
+240|We met him in the East Blue but he said he was born in the North Blue.
+241|What?! Are you sure, Nami-san?!
+242|If that's true, it's a big deal!
+243|In order to move to the East Blue from the North Blue, you have to surmount the Red Line!
+244|That's right!
+245|Is it difficult?
+246|Yes, it's not just one family moving to another place!
+247|It's a great voyage!
+248|What kind of childhood did Sanji-san have?
+249|And, you know, Charlotte is Big Mom's surname!
+250|What?!
+251|That fool! Is he gonna marry Big Mom's daughter?!
+252|Will he join an Emperor's family?!
+253|If your fellow crewmember becomes her son-in-law, you guys will practically be her subordinates!
+254|What?!
+255|Don't jump to conclusions!
+256|I'm under no obligation to go to such a tea party!
+257|How ridiculous!
+258|My wedding ceremony?
+259|Marrying a woman I don't even know?!
+260|You've got to be kidding me!
+261|I don't want the Straw Hats to become your subordinates either!
+262|Our captain isn't the type of guy who works under someone!
+263|Luffy will...
+264|...become the King of the Pirates!
+265|Are we done here? You can have Caesar.
+266|What?!
+267|I think you have the wrong idea. The invitation was only for you to see.
+268|I wasn't looking for your answer.
+269|You're in my body!
+270|You guys have already been captured! I'll take you all to Mama!
+271|What?!
+272|I'm sure you don't feel any motion...
+273|but I'm already on the move.
+274|Is it really moving?!
+275|No! She'll kill me! Let me out!
+276|You...
+277|If you wanna fight, I'll fight you.
+278|What the...!
+279|Sanji-kun!
+280|I have full command over the interior of the castle!
+281|Everything is under my control!
+282|Help!
+283|Nami's sinking!
+284|Nami-san!
+285|Stop it!
+286|I said stop it!
+287|Are you alright?
+288|Uh-huh.
+289|What a relief!
+290|Even if I don't rough you up, you won't get away from Mama's tea party.
+291|That's common knowledge throughout the New World.
+292|That's right. Mama hates bitter sweets and empty seats at tea parties-rero.
+293|When someone refuses her because he's ignorant-rero,
+294|he'll cry in regret later
+295|and I can't bear to see that-rero!
+296|Advisor of the Firetank Pirates "Phantom Gun" Vito
+297|When you get an invitation to a tea party from Big Mom-rero,
+298|that's basically an undeclinable summons!
+299|Even the devil himself comes from hell to attend Mama's tea party, they say!
+300|Of course, you have a choice not to go-rero.
+301|But if you refuse...
+302|Listen to me-rero.
+303|How did you find that out?
+304|That's a silly question.
+305|Who do you think our master is?
+306|The Four Emperors are the most powerful pirates there are, reigning supreme over the New World,
+307|one of them being Big Mom herself.
+308|She has it all.
+309|If she tells someone she'll kill him, he'll die.
+310|She doesn't bluff.
+311|Stake your life on every word you say.
+312|If you wish to stay alive without becoming anybody's subordinate,
+313|do as she says, at least for now.
+314|Sanji-san! Are you okay?
+315|What did he say to you earlier?
+316|What's the matter, Sanji?! We'll fight even against an Emperor!
+317|Be quiet!
+318|Give me some paper and a pen.
+319|Are you gonna leave a note for Straw Hat?
+320|Hand this to Luffy and everybody.
+321|Sanji-kun...
+322|Nami-san.
+323|Chopper.
+324|Brook.
+325|Believe this if nothing else.
+326|I didn't mean to hide anything from my friends.
+327|That's something from the past that I thought I'd never have to deal with again.
+328|I really need to go and sort things out!
+329|Wait a minute, Sanji-san. Do you mean "by yourself"?
+330|I feel a powerful presence outside. It's probably one of the Minks.
+331|Are you ready?
+332|Ready?
+333|Good luck!
+334|What about me?!
+335|That fool!
+336|He freed his allies!
+337|That bastard!
+338|Don't move, you bastards!
+339|Why...?
+340|Okay, listen carefully!
+341|I bet you don't want me to blow your precious genius scientist's brains out!
+342|I'll get even with you, Black-Foot!
+343|I thought so.
+344|You fools can't kill me either, can you?!
+345|Hearing about this marriage solves a mystery for me.
+346|My wanted poster says "Only alive"!
+347|You gotta catch me alive!
+348|If you kill me, you'd piss somebody off, wouldn't you?!
+349|Have you been told to treat me civilly without even cuffs?!
+350|The person who made them write that phrase on the poster and the one who arranged my marriage
+351|must be the same person!
+352|Damn! Let's get out and chase them!
+353|I said not to move!
+354|Please don't move!
+355|You know someone's got my back now, don't you?!
+356|Don't worry! I'll come with you. To sort things out with that person!
+357|So don't do anything to my friends!
+358|All of you, stay where you are!
+359|What?!
+360|Father!
+361|There is a... monster... outside now!
+362|Master Nekomamushi...
+363|Cat monster! I didn't know there was such a terrible thing here!
+364|Hey!
+365|You-gara, who are you?
+366|I saw Pekoms lying down back there bleeding.
+367|No, you got it wrong! I'm his crewmate!
+368|Crewmate?
+369|Yes, we belong to the same pirate group!
+370|We've actually been attacked by the remnants of Jack's crew!
+371|That's not true!
+372|Why would I shoot my ally?!
+373|Sanji-kun, come on out! Why do you wanna stay?!
+374|Tell us what's really going on, Sanji!
+375|What do you mean you need to go?! Why can't we all go together?!
+376|Let's wait for Luffy-san and everybody, Sanji-san!
+377|This is my problem.
+378|I'll be back.
+379|Tell them "Hi" for me.
+380|Castle Tank!
+381|Sanji!
+382|Sanji-kun!
+383|Nami! Chopper! Should I just chase him?!
+384|No, it's no use, Wanda-san!
+385|Baron Corpse!
+386|Even if we can catch up to him, he has...
+387|...no intentions of coming back now!
+388|To my buddies, I'm off to see a woman. I'll be back. Sanji

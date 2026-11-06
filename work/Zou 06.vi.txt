@@ -1,0 +1,388 @@
+1|Gì vậy?
+2|C-Chắc là đùa thôi...
+3|Cái quái gì... Này!
+4|Mọi người đâu hết rồi?!
+5|Chuyện gì xảy ra vậy?! Grr! Ai đã làm thế này với Zou?!
+6|Băng Mũ Rơm làm đấy à?!
+7|Tụi nó làm gì quê hương tao thế này?!
+8|Đây là khu dân cư nơi tổ tiên chúng tôi từng sống.
+9|Zunesha đã mang cả lịch sử của tộc Mink mà không thay đổi gì.
+10|Một truyền thống của tộc Mink có từ rất xa xưa là...
+11|...trao đổi trang phục với người ngoài, như dấu hiệu của tình bạn!
+12|Ôi, đẹp quá! Như váy của một nhân vật vĩ đại vậy.
+13|Vâng. Và món trang sức đó là bảo vật quốc gia.
+14|Gì cơ?! Tặng tôi sao?!
+15|Tất nhiên. Mọi người đều đồng ý.
+16|Garchu! Garchu-chu!
+17|Tiểu thư, garchu.
+18|Garchu.
+19|Khỏe không?! Garchu.
+20|Garchu.
+21|Tristan-chan!
+22|Garchu!
+23|Garchu!
+24|Sanji-san, anh thích chào mọi người thật đấy.
+25|"Garchu" là gì vậy?
+26|Là câu thần chú kỳ diệu gì à?
+27|Sanji! Đây là lời gửi tới vị cứu tinh vĩ đại của chúng tôi; Garchu!
+28|Im đi! Tao không cần của đàn ông!
+29|Ồ, Sanji-san. Garchu!
+30|Ôi trời! Viva minkship!
+31|Nữ thần đây sao?!
+32|Không...
+33|Nami-san!
+34|Garchu!
+35|Momo đâu rồi?
+36|Cậu ấy vẫn nhốt mình trong phòng. Ở vậy cậu ấy thấy thoải mái hơn.
+37|Với lại, không nên để họ thấy hình dạng người của cậu ấy.
+38|Cậu nói đúng.
+39|Ở đất nước này, tốt nhất đừng nhắc đến từ "samurai".
+40|Giao thằng nhóc phiền phức đó cho người Mink rồi rời khỏi hòn đảo chán chết này đi!
+41|Im đi! Này Caesar, cậu làm thuốc chưa?!
+42|Tôi đã đủ chỉ tiêu vì tôi là thiên tài.
+43|Làm thêm đi! Đừng dừng lại!
+44|Vẫn còn rất nhiều người bị thương!
+45|Làm tiếp đi!
+46|Sao tao phải làm thế chứ...
+47|Bác sĩ Caesar, tôi đến lấy thuốc.
+48|Này, nhầm rồi! Tôi là dược sĩ Cedar!
+49|Của anh đây.
+50|Chết tiệt! Sao tao lại đi làm thuốc cứu người thế này?!
+51|Cảm ơn bác sĩ Caesar!
+52|Là Cedar!
+53|Trời ơi! Công việc này làm nhục tên tôi, Caesar, nhà khoa học điên thiên tài!
+54|À phải rồi...
+55|Là Cedar!
+56|Nam tước Xác Chết, người hâm mộ đang đợi ngài bên ngoài.
+57|Ách!
+58|Tao không cần nổi tiếng với lũ chó...
+59|Pekoms!
+60|Là Pekoms!
+61|Anh về rồi!
+62|Pekoms!
+63|Vậy là mọi người đều bình an!
+64|Cha! Mẹ! Tất cả họ hàng và bạn bè của con!
+65|Chào mừng về nhà!
+66|Bao lâu rồi nhỉ?!
+67|Nhớ quá đi!
+68|Ừ! Mọi người trông khỏe, tôi vui lắm! Garchu!
+69|Đồ ngốc! Người đầy vết thương thế này! Đừng nói là vui!
+70|Lúc thấy thành phố, tôi tưởng tim ngừng đập!
+71|Garchu!
+72|Này!
+73|Đau tôi đấy!
+74|Tất cả là nhờ băng Mũ Rơm!
+75|Nếu không có cuộc giải cứu liều mạng của họ, không biết chúng tôi giờ ra sao.
+76|Thật đấy, cảm ơn vì đã sống sót!
+77|Thôi thôi, đừng khóc nữa.
+78|Chết tiệt! Tao không tha thứ cho Jack băng hải tặc Bách Thú!
+79|Sao dám làm thế với quê hương tao!
+80|Nhìn kìa! Bọn băng Big Mom! Chúng đến tận đây rồi!
+81|Là Pekoms! Anh ấy về rồi.
+82|Anh ấy từng là một tên du côn khét tiếng.
+83|À, ra anh ta là người Mink.
+84|Chắc chúng nghe nói bọn mình sẽ đến đây!
+85|Chúng muốn tao!
+86|Này, xin đấy! Đừng giao tao cho chúng.
+87|Anh là con át chủ bài của chúng tôi chống lại Doflamingo.
+88|Giờ Luffy và mọi người đã hạ hắn, anh ra sao chúng tôi không quan tâm.
+89|Đừng nói thế! Chúng ta là bạn mà!
+90|Bạn từ bao giờ?!
+91|Ở Dressrosa anh cũng than vãn gì đó. Anh đã làm gì Big Mom?
+92|Ồ, đúng rồi! Nghe tôi nói đã!
+93|Tôi nhận lời nghiên cứu một thứ mà tôi chưa làm được,
+94|rồi tôi nói dối và lừa bà ta một vố rất nặng!
+95|Có Doflamingo chống lưng nên tôi liều!
+96|Vậy là tự chuốc lấy.
+97|Mong là chúng chỉ muốn Caesar thôi...
+98|Gì cơ?!
+99|Tao sẽ đạp mày khắp Tân Thế Giới...
+100|...rồi biến Đảo Người Cá thành lãnh địa của tao!
+101|Luffy đã gây sự với Big Mom ở Đảo Người Cá.
+102|Bọn tôi cũng phá tàu của chúng.
+103|Này Chân Đen. Muốn hợp tác với tôi rồi diệt bọn chúng không?
+104|Nghĩ đi!
+105|Nami-san, ở lại đây với mọi người nhé.
+106|Được.
+107|Brook, đi với tôi.
+108|Được.
+109|Này Chân Đen! Kế hoạch ám sát tuyệt vời của tôi thì sao?!
+110|Đồ ngốc không biết suy nghĩ thì im đi.
+111|Băng Big Mom các người muốn gì?
+112|Đừng gây chuyện.
+113|Người dân đất nước này giờ đang tổn thương cả trong lẫn ngoài.
+114|Chúng tôi sẽ không chạy hay trốn.
+115|Tôi chỉ có thể nói cảm ơn! Grr!
+116|N-Này...
+117|Tôi không ngờ quê hương mình lại tan hoang thế này...
+118|Nhưng các cậu đã cứu người dân, đúng không?!
+119|Tôi mang ơn các cậu rất nhiều!
+120|Biết cảm ơn thế nào đây...?
+121|Theo lệnh Mama, chúng tôi còn việc khác ngoài bắt Caesar.
+122|Việc đó có thể là họa diệt vong cho băng hải tặc của các người.
+123|Diệt vong?
+124|Vậy quên đi! Nhiệm vụ thất bại! Giao Caesar cho bọn tôi!
+125|Tôi sẽ báo với Mẹ là để băng Mũ Rơm chạy thoát!
+126|Pekoms! Anh điên rồi à?! Gác tình cảm sang một bên!
+127|Im đi, lính mới! Tao chịu phạt!
+128|Họ đã cứu gia đình và bạn bè tôi.
+129|Tôi không thể làm gì họ được...
+130|Đồ hèn!
+131|Đồ khốn!
+132|Hắn bắn lén đồng đội!
+133|Sao hắn làm được thế?!
+134|Mình vừa thấy gì vậy?
+135|Trông không giống vậy nhưng hắn là hải tặc khá nổi tiếng.
+136|Nhưng khi chọn hành động theo tình cảm thảm hại, hắn thành một tên hèn.
+137|Hắn không còn giá trị gì nữa.
+138|Ta tự làm vậy!
+139|Được rồi, các cậu! Ra đây!
+140|Xông lên!
+141|Gì?!
+142|Gì?! Con người?!
+143|Cái quái gì vậy?!
+144|Đầu hàng đi! Các ngươi thua về số lượng!
+145|Người chui ra từ bụng hắn à?!
+146|Năng lực kiểu gì vậy?!
+147|Tôi tưởng thấy người trong tay hắn nhưng đó không phải ảo giác!
+148|Ta ăn Trái Lâu Đài và trở thành người lâu đài.
+149|Ta cùng thế hệ với thuyền trưởng các ngươi, vậy các ngươi biết ta chứ?
+150|Thuyền trưởng băng Firetank
+151|Capone "Gang" Bege
+152|Tiền truy nã: 300 triệu berry
+153|Khi Luffy đấm Thiên Long Nhân ở Sabaody, ngươi cũng có mặt, phải không?!
+154|Ta không muốn gây ồn ở đây. Các ngươi cũng không muốn thế.
+155|Nếu người Mink đến, họ chắc chắn đứng về phía các ngươi.
+156|Ta biết họ chiến đấu giỏi thế nào.
+157|Vito!
+158|Không! Thả tôi ra!
+159|Nami-san!
+160|Chopper-san!
+161|X-Xin lỗi! Bọn tôi không thể không lo lắng...
+162|Xin lỗi! Tôi tưởng chỉ có hai kẻ địch!
+163|Ồ...
+164|Caesar! Sao ngươi không ra luôn đi?!
+165|Bọn ta sẽ bắn súng săn chứa Hải Lâu Thạch lên trời sau hai giây!
+166|Hai!
+167|Một!
+168|Khoan đã! Tôi ở đây! Đừng bắn!
+169|Đừng chĩa vào tôi!
+170|Nghĩ lại thì chúng ta không có viên đạn Hải Lâu Thạch nào.
+171|Gì?!
+172|Nhưng bọn ta có ngọn giáo có tác dụng như vậy!
+173|Thay vì đứng đây nói chuyện, vào lâu đài của ta đi.
+174|Đó là lệnh!
+175|Chết tiệt! Hắn kiểm soát hoàn toàn.
+176|Cảm ơn đã đợi.
+177|Các cậu muốn ăn gì không?
+178|Không, cảm ơn.
+179|Đừng khách sáo. Hay một ly rượu vang?
+180|Bọn tao không muốn gì hết! Vào việc chính đi!
+181|Hắn sẽ giết chúng ta! Hắn sẽ giết chúng ta!
+182|Thỉnh thoảng nên thư giãn đi.
+183|Một tuần trước chúng ta đã đấu súng trên biển, nhưng tình hình từ đó đã thay đổi.
+184|Tôi được nhờ trao cho các cậu lời mời này.
+185|Đây là lời mời dự tiệc trà của Mama.
+186|Đừng nói nhảm.
+187|Sao tao lại muốn đi tiệc trà của Big Mom?
+188|Điểm nhấn của buổi tiệc sẽ là một lễ cưới.
+189|Chú rể là con trai thứ ba của gia tộc Vinsmoke...
+190|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+191|Sanji!
+192|Gì?!
+193|Gì?!
+194|Gì?!!
+195|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+196|Cô dâu là con gái thứ 35 của gia tộc Charlotte,
+197|Cô dâu Con gái thứ 35 gia tộc Charlotte Pudding
+198|Cô dâu là con gái thứ 35 của gia tộc Charlotte, Pudding.
+199|TIỆC TRÀ
+200|T-Trong tiệc trà...
+201|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+202|Cô dâu Con gái thứ 35 gia tộc Charlotte Pudding
+203|Họ sẽ tổ chức đám cưới của Sanji?!
+204|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+205|Cô dâu Con gái thứ 35 gia tộc Charlotte Pudding
+206|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+207|Cô dâu Con gái thứ 35 gia tộc Charlotte Pudding
+208|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+209|Cô dâu Con gái thứ 35 gia tộc Charlotte Pudding
+210|Cầm lấy.
+211|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+212|Cô dâu Con gái thứ 35 gia tộc Charlotte Pudding
+213|TIỆC TRÀ
+214|Chú rể Con trai thứ ba gia tộc Vinsmoke Sanji
+215|Cô dâu Con gái thứ 35 gia tộc Charlotte Pudding
+216|Sao lại bây giờ, sau bao nhiêu năm?!
+217|Con trai thứ ba của gia tộc Vinsmoke
+218|Tao không biết chuyện gia đình mày!
+219|Đồ khốn! Mày định đốt lâu đài của tao à?!
+220|Này Sanji-kun, chuyện này là sao?!
+221|Anh sắp kết hôn à?!
+222|Ai quyết định mà không hỏi anh?!
+223|Gia đình anh chứ ai!
+224|Là con của gia tộc Vinsmoke nghĩa là anh khá thô lỗ đấy.
+225|V-V-Vinsmoke là họ của Sanji-san sao?!
+226|Cái tên làm tôi lạnh sống lưng.
+227|Nhưng không, không thể nào.
+228|Này, mang cho ta một ly rượu vang!
+229|Vâng, thưa ngài!
+230|Gia đình của Sanji-kun...
+231|Ồ!
+232|"Noland Kẻ Nói Dối"?
+233|Cậu biết sao, Sanji-kun?
+234|Nhưng sách ghi xuất bản ở North Blue mà.
+235|Ừ. Tôi sinh ra ở North Blue.
+236|Tôi chưa nói với mọi người sao?
+237|Đó là tin mới đấy. Tôi tưởng cậu cũng từ East Blue.
+238|Tôi lớn lên ở đó. Thôi, kệ đi.
+239|Tôi nhớ lúc đó đã thấy lạ.
+240|Bọn tôi gặp cậu ấy ở East Blue nhưng cậu ấy bảo sinh ở North Blue.
+241|Gì cơ?! Chắc chứ, Nami-san?!
+242|Nếu đúng thì là chuyện lớn!
+243|Muốn từ North Blue sang East Blue, phải vượt qua Red Line!
+244|Đúng vậy!
+245|Khó lắm sao?
+246|Vâng, đâu phải một gia đình chuyển nhà thông thường!
+247|Đó là một chuyến hải trình vĩ đại!
+248|Tuổi thơ của Sanji-san thế nào nhỉ?
+249|Và này, Charlotte là họ của Big Mom đấy!
+250|Gì cơ?!
+251|Thằng ngốc đó! Nó định cưới con gái Big Mom à?!
+252|Nó sẽ gia nhập gia đình một Tứ Hoàng sao?!
+253|Nếu đồng đội của các cậu thành con rể bà ta, các cậu coi như thuộc hạ của bà ta rồi!
+254|Gì cơ?!
+255|Đừng vội kết luận!
+256|Tôi không có nghĩa vụ đi dự cái tiệc trà đó!
+257|Nực cười!
+258|Đám cưới của tôi sao?
+259|Cưới một người phụ nữ tôi còn không biết mặt?!
+260|Đùa chắc!
+261|Tôi cũng không muốn băng Mũ Rơm thành thuộc hạ của các người!
+262|Thuyền trưởng bọn tôi không phải kiểu người làm dưới trướng ai!
+263|Luffy sẽ...
+264|...trở thành Vua Hải Tặc!
+265|Xong chưa? Các người cứ lấy Caesar.
+266|Gì cơ?!
+267|Ta nghĩ các ngươi hiểu lầm. Lời mời này chỉ để các ngươi xem thôi.
+268|Ta không cần câu trả lời của các ngươi.
+269|Các ngươi đang ở trong cơ thể ta!
+270|Các ngươi bị bắt rồi! Ta sẽ đưa tất cả đến chỗ Mama!
+271|Gì cơ?!
+272|Chắc các ngươi không cảm thấy chuyển động nào...
+273|nhưng ta đã di chuyển rồi.
+274|Thật sự đang di chuyển sao?!
+275|Không! Bà ấy sẽ giết tôi! Cho tôi ra!
+276|Mày...
+277|Muốn đánh thì tao đánh với mày.
+278|Cái gì...!
+279|Sanji-kun!
+280|Ta có toàn quyền kiểm soát bên trong lâu đài!
+281|Mọi thứ đều nằm trong tay ta!
+282|Cứu với!
+283|Nami đang chìm!
+284|Nami-san!
+285|Dừng lại!
+286|Tao bảo dừng lại!
+287|Cậu ổn chứ?
+288|Ừ.
+289|Nhẹ cả người!
+290|Dù ta không làm các ngươi đau, các ngươi cũng không thoát được tiệc trà của Mama.
+291|Cả Tân Thế Giới đều biết điều đó.
+292|Đúng vậy. Mama ghét đồ ngọt đắng và ghế trống ở tiệc trà-rero.
+293|Khi ai đó từ chối vì không biết gì-rero,
+294|sau này sẽ khóc vì hối hận
+295|và tôi không chịu nổi khi thấy cảnh đó-rero!
+296|Cố vấn băng Firetank "Súng Ma" Vito
+297|Khi nhận lời mời tiệc trà từ Big Mom-rero,
+298|về cơ bản đó là giấy triệu tập không thể từ chối!
+299|Nghe nói đến cả quỷ cũng từ địa ngục lên dự tiệc trà của Mama!
+300|Tất nhiên các cậu có quyền không đi-rero.
+301|Nhưng nếu từ chối...
+302|Nghe tôi nói đã-rero.
+303|Sao ông biết được chuyện đó?
+304|Câu hỏi ngớ ngẩn.
+305|Ngươi nghĩ chủ nhân của chúng ta là ai?
+306|Tứ Hoàng là những hải tặc mạnh nhất, thống trị Tân Thế Giới,
+307|và Big Mom là một trong số đó.
+308|Bà ấy có tất cả.
+309|Bà ấy nói sẽ giết ai thì người đó sẽ chết.
+310|Bà ấy không nói suông.
+311|Hãy đặt cược mạng sống vào từng lời nói của ngươi.
+312|Nếu muốn sống mà không làm thuộc hạ của ai,
+313|hãy làm theo lời bà ấy, ít nhất là lúc này.
+314|Sanji-san! Anh ổn không?
+315|Lúc nãy hắn nói gì với anh?
+316|Sao vậy, Sanji?! Bọn tôi đánh cả Tứ Hoàng!
+317|Im đi!
+318|Đưa tôi giấy và bút.
+319|Anh định để lại lời nhắn cho Mũ Rơm à?
+320|Đưa cái này cho Luffy và mọi người.
+321|Sanji-kun...
+322|Nami-san.
+323|Chopper.
+324|Brook.
+325|Hãy tin điều này, dù không tin gì khác.
+326|Tôi không có ý giấu bạn bè điều gì.
+327|Đó là chuyện quá khứ mà tôi tưởng sẽ không bao giờ phải đối mặt nữa.
+328|Tôi thật sự phải đi giải quyết cho xong!
+329|Khoan đã, Sanji-san. Ý anh là "đi một mình" sao?
+330|Tôi cảm thấy một sự hiện diện mạnh ở bên ngoài. Có lẽ là một người Mink.
+331|Sẵn sàng chưa?
+332|Sẵn sàng?
+333|Chúc may mắn!
+334|Còn tôi thì sao?!
+335|Thằng ngốc!
+336|Hắn thả đồng đội ra rồi!
+337|Đồ khốn!
+338|Đứng yên, lũ khốn!
+339|Tại sao...?
+340|Được rồi, nghe cho kỹ!
+341|Chắc các người không muốn tôi bắn nát đầu nhà khoa học thiên tài quý giá của các người đâu!
+342|Tao sẽ trả thù mày, Chân Đen!
+343|Tôi biết mà.
+344|Các người cũng không dám giết tôi, đúng không?!
+345|Nghe chuyện hôn nhân này giải đáp cho tôi một bí ẩn.
+346|Lệnh truy nã của tôi ghi "Chỉ bắt sống"!
+347|Các người phải bắt sống tôi!
+348|Giết tôi là sẽ chọc giận ai đó, đúng không?!
+349|Có phải các người được dặn đối xử lịch sự, thậm chí không còng tay?!
+350|Người bắt họ ghi câu đó trên lệnh truy nã và người sắp xếp hôn nhân của tôi
+351|chắc chắn là cùng một người!
+352|Chết tiệt! Ra ngoài đuổi theo chúng!
+353|Tôi bảo đừng nhúc nhích!
+354|Làm ơn đừng nhúc nhích!
+355|Các người biết giờ đã có người chống lưng cho tôi, đúng không?!
+356|Đừng lo! Tôi sẽ đi cùng các người. Để giải quyết với người đó!
+357|Nên đừng làm gì bạn tôi!
+358|Tất cả đứng yên đó!
+359|Gì?!
+360|Cha!
+361|Có một... con quái vật... ở bên ngoài!
+362|Ngài Nekomamushi...
+363|Quái vật mèo! Tôi không biết ở đây có thứ khủng khiếp thế!
+364|Này!
+365|Ngươi là ai?
+366|Ta thấy Pekoms nằm chảy máu ở đằng kia.
+367|Không, ngài hiểu lầm rồi! Tôi là đồng đội của anh ấy!
+368|Đồng đội?
+369|Vâng, chúng tôi cùng một băng hải tặc!
+370|Thật ra chúng tôi bị tàn dư của băng Jack tấn công!
+371|Không đúng!
+372|Sao tôi lại bắn đồng đội?!
+373|Sanji-kun, ra đây đi! Sao anh muốn ở lại?!
+374|Nói cho bọn tôi biết chuyện gì thật sự đang xảy ra, Sanji!
+375|Anh nói cần đi là sao?! Sao không thể cùng đi?!
+376|Hãy đợi Luffy-san và mọi người, Sanji-san!
+377|Đây là chuyện của tôi.
+378|Tôi sẽ quay lại.
+379|Gửi lời chào của tôi tới họ nhé.
+380|Lâu Đài Xe Tăng!
+381|Sanji!
+382|Sanji-kun!
+383|Nami! Chopper! Tôi đuổi theo anh ấy nhé?!
+384|Không, vô ích thôi, Wanda-san!
+385|Nam tước Xác Chết!
+386|Dù đuổi kịp anh ấy, anh ấy cũng...
+387|...không có ý định quay lại bây giờ!
+388|Gửi các bạn của tôi, tôi đi gặp một người phụ nữ. Tôi sẽ quay lại. Sanji

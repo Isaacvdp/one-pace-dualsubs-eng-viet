@@ -91,3 +91,20 @@ Keep lines short like subtitles. Keep Japanese honorifics the English subs keep
 - Kyros: tôi/cậu with Luffy, anh/em with Scarlett, cha/con with Rebecca once revealed.
 - Attack names: translate plain descriptive English ones ("Rubber Jet Pistol" -> "Súng Phản Lực Cao Su"); keep names that are English/Spanish in the Japanese audio as written (Room, Shambles, Mil Fleur, King Punch).
 - Machvise's "-in" verbal tic is dropped; Buffalo's "-dasuyan" is kept.
+
+## Settled while translating Zou
+| English | Vietnamese |
+|---|---|
+| Mink Tribe / Battlebeast Tribe | tộc Mink / tộc Chiến Thú |
+| Whale Forest / Whale Tree | Rừng Cá Voi / Cây Cá Voi |
+| Guardians / Musketeers | Hộ Vệ / Xạ thủ |
+| Mokomo Dukedom / Phantom Island | Công quốc Mokomo / Đảo Ma |
+| Beasts Pirates / Disasters (Kaido's) | băng hải tặc Bách Thú / Đại Họa |
+| Void Century / Road Poneglyph | Thế Kỷ Trống / Road Poneglyph |
+| Marco the Phoenix / Rain-Ruption | Marco Phượng Hoàng / Mưa Phun Trào |
+| Germa 66 / Warmongers | Germa 66 / Những kẻ Hiếu Chiến |
+| Belly (currency) | Beri |
+| Tra-guy (Luffy's name for Law) | Traf |
+
+- Minks' "-teia" and "-gara" tics are dropped from the Vietnamese; the English line below still shows them. "-saru" is kept.
+- Nekomamushi and Inuarashi: ta/ngươi. Pedro and the Minks call Nekomamushi "ngài".

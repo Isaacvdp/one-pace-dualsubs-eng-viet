@@ -1,0 +1,605 @@
+1|Dressrosa
+2|Cung điện Hoàng gia
+3|Tôi không tìm thấy sổ kê khai nào họ dùng để buôn lậu,
+4|nhưng rõ ràng tất cả đã bị ai đó lấy đi.
+5|Tôi đoán vậy.
+6|Toàn bộ vũ khí và thuốc nổ còn sót lại đều bị lấy sau vụ việc.
+7|Mà số lượng cũng khá nhiều.
+8|Cipher Pol, Aigis Zero
+9|Chắc chắn là việc của một tổ chức nào đó.
+10|Hải Quân cũng đang hoảng loạn vì chuyện này.
+11|Hay là Quân Cách Mạng?
+12|Ừ, còn ai vào đây nữa? Về ngay đi.
+13|Đúng là cái gai trong mắt tôi.
+14|Sếp nói chí phải!
+15|Giống hệt sếp vậy đó.
+16|Ôi! Phũ quá!
+17|Vậy tiếp theo cậu định đi đâu, Mũ Rơm?
+18|Nơi này từng là vùng đất bi kịch.
+19|Những sợi tơ đen tối cứ lần lượt được dệt nên.
+20|Dù vô số bi kịch đã giáng xuống họ,
+21|giờ đây họ vẫn cố nén nước mắt, và âm nhạc vẫn vang lên...
+22|Ô, yeah!
+23|Âm nhạc ngân vang theo nhịp vỗ tay.
+24|Sau màn trình diễn dài, buồn và vô danh, tấm màn khép lại lặng lẽ.
+25|Rồi những lời sự thật đến tai khán giả.
+26|Quốc vương của họ đã trở về, tương lai có hòa bình, mọi chuyện đều tốt đẹp.
+27|Tôi có một đề nghị cho mọi người.
+28|Ừm, cảm ơn đã giới thiệu.
+29|Tôi là Tộc trưởng Tontatta, Gancho!
+30|Đứng cạnh tôi là con gái tôi.
+31|Tôi là Mansherry!
+32|Dễ thương quá!
+33|Cậu muốn bọn tôi làm cái này hả, Leo-kun?
+34|Đúng vậy!
+35|Trông cậy vào mọi người!
+36|Hội nghị thế giới, Reverie, diễn ra trong năm nay.
+37|Chẳng mấy chốc là tới.
+38|Và có vẻ nước nào cũng đã bắt đầu chuẩn bị rồi.
+39|Cha ơi!
+40|Rebecca nói chiều nay sẽ qua nấu ăn cho chúng ta.
+41|Ồ, vậy sao? Còn Kyros thì sao?
+42|Dĩ nhiên anh ấy cũng tới.
+43|Ra vậy, ra vậy. Lâu lắm rồi mới được ăn cùng nhau...
+44|như một gia đình.
+45|Du khách đến vương quốc này sẽ phải kinh ngạc trước một cảnh tượng.
+46|Cho tôi dăm bông!
+47|Ô, chào hai người,
+48|Rebecca, Mansherry!
+49|Họ hòa nhập vào thị trấn,
+50|sống cạnh con người.
+51|Này, này.
+52|Nhà của chính mình còn chưa xây lại mà!
+53|Không, không! Đây là ưu tiên số một!
+54|Du khách sẽ ngạc nhiên trước những chú người lùn đáng yêu này.
+55|Đây là vương quốc của tình yêu, đam mê và những nàng tiên...
+56|Đúng rồi. Phải làm tượng trước!
+57|Chuẩn luôn!
+58|... Dressrosa.
+59|Khi áp giải xong tù nhân, tôi sẽ lên đường đi một chuyến.
+60|Hạm đội Hải Quân
+61|Đi một chuyến, ông nói sao?
+62|Chưa lấy được đầu Mũ Rơm và Law thì tôi không thể bước vào căn cứ Hải Quân, nên...
+63|Cứng đầu thật...
+64|Chỉ cần ông xin lỗi, Sakazuki sẽ giữ được thể diện.
+65|Không!
+66|Vì sao không?
+67|Tôi cũng có danh dự của mình cần giữ.
+68|Trời đất ơi...
+69|Fujitora...
+70|Ông ta là đồ ngốc, cô biết mà, Tsuru-san.
+71|Đây là cơ hội cuối cùng của ông ta.
+72|Nếu ông ta đứng về phía ta và giúp ta dọn sạch lũ nhóc đó,
+73|mọi chuyện đã không ra nông nỗi này.
+74|Ta đã nắm dây cương.
+75|Dây cương buộc vào những con quái vật của thế giới.
+76|Các ngươi không nên cách chức ta.
+77|Ta cực kỳ chắc chắn rằng các ngươi sẽ hối hận.
+78|Đừng đổ cái thứ thảm hại đó lên đầu tao.
+79|Không có chữ "nếu". Nghĩ tới thôi đã là điên rồ.
+80|Đây là kết cục duy nhất có thể xảy ra.
+81|Ông đã thua.
+82|Ôi, làm sao tôi thắng nổi ông chứ?
+83|Đồng bệnh tương liên thôi.
+84|Ông nghĩ phía trước thế giới hải tặc sẽ có gì?
+85|Tôi xin trả lời câu hỏi của ông bằng một câu hỏi khác.
+86|Ông nghĩ những con quái vật mà ông thả ra sẽ làm gì...
+87|khi không còn "thức ăn" tôi từng cung cấp cho chúng?
+88|Hiện giờ có ai đang rong ruổi trên biển này thật sự đứng trên đỉnh không?
+89|Ai thống trị những vùng biển này?
+90|Là một trong Tứ Hoàng chăng?
+91|Hay là Thất Vũ Hải đang lượn lờ đầy xảo quyệt?
+92|Hay là lũ nhóc của Thế hệ Tồi tệ nhất?
+93|Hoặc không phải...
+94|Chắc chắn là Hải Quân, lực lượng quân sự của công lý, đang chinh phục biển cả!
+95|Rồi còn một số cá nhân mạnh mà chúng ta phải để mắt kỹ...
+96|trong Quân Cách Mạng, đồng minh của người dân.
+97|Gia tộc "D" vẫn ẩn mình trong bóng tối của lịch sử.
+98|Khi nào và ở đâu họ sẽ xuất hiện?
+99|Ai theo phe ai?
+100|Ai phản bội ai?
+101|Hãy nói với Thiên Long Nhân ở Thánh địa Mariejoa thế này:
+102|"Tất cả các người sẽ bị kéo xuống, xuống tận mặt đất!"
+103|Đã 25 năm kể từ khi Gold Roger khám phá toàn bộ Grand Line.
+104|Kẻ thù không đội trời chung của ông ta, Râu Trắng, chưa từng ngồi lên ngai.
+105|Ông ấy chỉ đứng trước nó và nắm lấy dây cương.
+106|Vậy bây giờ sẽ ra sao?
+107|Số lượng hải tặc đang phình ra,
+108|và chỉ còn đúng một chiếc ghế bỏ trống!
+109|Cô hiểu tôi muốn nói gì chứ?
+110|Nó bắt đầu rồi.
+111|Cuộc tranh giành quyền lực lớn nhất từ trước đến nay...
+112|trong lịch sử hải tặc!
+113|Cột buồm bốc cháy rồi!
+114|Dập lửa đi!
+115|Chúng ta đang đến Impel Down à?
+116|Ngại quá, nhưng anh có thể mang báo hằng ngày cho tôi không?
+117|Như vậy tôi sẽ đỡ chán.
+118|Có bốn chiến hạm.
+119|Mà thủy thủ đoàn trông cực kỳ đáng gờm. Họ định phá hủy một quốc gia à?
+120|Lực lượng lớn thế cho một nhiệm vụ hộ tống đơn giản.
+121|Điều đó chứng tỏ Doflamingo-sama vĩ đại cỡ nào!
+122|Không thể nào đoạt lại Joker được.
+123|Thuyền trưởng Jack, ta quay về chứ?
+124|Tại sao?
+125|Hả?
+126|Đồ ngu! Chúng ta cứ làm tới cùng!
+127|Hả?!
+128|Mày nghĩ tao là ai hả?!
+129|Hả?!
+130|Trong lúc đó, nhóm của Luffy
+131|Thuyền hải tặc Barto Club, Going Luffy-Senpai
+132|Mấy cậu thấy thế này đúng không?!
+133|Sao trông như Luffy sẽ ở trên tàu này hơn là tàu của tụi mình!
+134|Nghe thế là tôi vui cả ngày!
+135|Đó đâu phải lời khen!
+136|Và giờ, điều bọn tôi háo hức nhất lúc này...
+137|Theo hướng Vivre Card này chỉ,
+138|là Luffy-senpai bằng xương bằng thịt!
+139|Chào mừng lên tàu! Cảm ơn anh lần nữa vì đã lên tàu bọn tôi!
+140|Sếp ơi, anh ấy tỏa sáng quá! Em gần như không nhìn nổi!
+141|Em cũng vậy!
+142|Vậy là cả băng đều thế sao?
+143|Mà này, Sabo tốt bụng thật, làm Vivre Card cho tôi.
+144|Đây, tôi có làm một tấm Vivre Card từ Luffy, phòng khi cần.
+145|Ồ? Cậu có thời gian làm hồi nào vậy?
+146|Tôi lấy một mảnh nhé.
+147|Ôi, đúng là Sabo-senpai vĩ đại có khác!
+148|Chu đáo và mạnh mẽ quá! Quá đỉnh!
+149|Tao không làm đàn em của mày đâu, nhưng...
+150|Tao lấy một mẩu, phòng khi cần.
+151|Bellamy!
+152|Bọn tôi cũng xin một ít.
+153|Thôi, đến lúc chia tay rồi.
+154|Hẹn sớm gặp lại, đại ca của bọn tôi,
+155|Mũ Rơm Luffy!
+156|Tạm biệt mọi người!
+157|Chà, tiệc tùng vui quá trời! Tôi thấy mình hơi quý họ rồi!
+158|Bartolomeo, nhanh đưa bọn tôi tới Zou đi.
+159|Mày nghĩ mày đang nói chuyện với ai...
+160|Trông cậy vào cậu.
+161|Rõ! Cứ giao cho bọn tôi!
+162|Nào anh em! Hướng thẳng tới Zou, hết tốc lực!
+163|Rõ!
+164|Không biết Sanji và mọi người đã tới đảo an toàn chưa nhỉ?
+165|Có Nami đi cùng nên về định hướng chắc không sao,
+166|nhưng tàu của Big Mom đang bám sát họ...
+167|Đúng là đáng lo.
+168|Này, Luffy.
+169|Tiền truy nã của bọn mình tăng rồi!
+170|Hả, thật hả?!
+171|Ồ, cậu không biết à?
+172|Trong phòng tôi có áp phích truy nã của cả băng, nên anh xem trước đi!
+173|Mời anh!
+174|Được, tôi xem!
+175|Này, Trafalgar.
+176|Của anh tôi vứt rồi, nhưng tiền truy nã của anh vọt lên năm trăm triệu.
+177|Ồ, cảm ơn. Tôi chẳng quan tâm.
+178|Mời các anh chiêm ngưỡng!
+179|Mày đóng khung chúng á?!
+180|Cả chữ ký các anh ký cho tôi lúc nãy cũng ở đó!
+181|Nào, bắt đầu với Mũ Rơm Luffy-senpai!
+182|"Tôi"
+183|"Gửi Bartolomeo"
+184|Chữ Hán "Kiếm"
+185|"Gửi các anh em"
+186|"Nico Robin" bằng Hiragana
+187|Tiền truy nã của anh: 500 triệu belly!
+188|500 triệu! Yeah!
+189|"Mũ Rơm" Luffy, Tiền truy nã: 500.000.000 Belly
+190|Tiếp theo, Thợ Săn Hải Tặc Zoro-senpai!
+191|320 triệu belly!
+192|"Thợ Săn Hải Tặc" Zoro, Tiền truy nã: 320.000.000 Belly
+193|Này, có rượu rẻ tiền nào không?
+194|Quỷ Nhi Nico Robin-senpai!
+195|130 triệu belly!
+196|"Quỷ Nhi" Nico Robin, Tiền truy nã: 130.000.000 Belly
+197|Ôi không. Nó tăng rồi.
+198|Người Máy Franky-senpai! 94 triệu belly!
+199|Thiếu có chừng đó thôi!
+200|"Người Máy" Franky, Tiền truy nã: 94.000.000 Belly
+201|Hơn nữa, bức hình lại là của Tướng quân Franky...
+202|Thần Usopp-senpai! 200 triệu belly!
+203|"Thần" Usopp, Tiền truy nã: 200.000.000 Belly
+204|Tôi bị lộ mặt mà giá thì quá đáng!
+205|Tôi thành mục tiêu rồi!
+206|Nhưng mà tôi vui lắm!
+207|Dù vậy, bức hình đó tệ thật!
+208|Này, đồ khốn! Sao mày lên cao thế được hả?!
+209|Ngay cả đồng đội cũng muốn giết tôi!
+210|Chỉ có mình tôi dưới một trăm triệu! Bất công quá!
+211|Khoan, khoan đã! Nhìn kỹ lại đi!
+212|Vẫn còn Nami và mọi người mà!
+213|Chân Đen Sanji-senpai, 177 triệu belly!
+214|"Chân Đen" Sanji, Tiền truy nã: 177.000.000 Belly
+215|Ồ, áp phích của anh ta không còn là hình phác họa nữa!
+216|Chậc! Chán thật.
+217|Tấm trước vui hơn.
+218|Mèo Ăn Trộm Nami-senpai, 66 triệu belly!
+219|"Mèo Ăn Trộm" Nami, Tiền truy nã: 66.000.000 Belly
+220|Cô ấy chụp hình hồi nào vậy trời?!
+221|Người Mê Kẹo Bông Chopper-senpai!
+222|Một trăm belly!
+223|"Người Mê Kẹo Bông" Chopper, Tiền truy nã: 100 Belly
+224|Chẳng có lời nào làm cậu ấy vui lên được.
+225|Vua Linh Hồn Brook-senpai, 83 triệu belly!
+226|"Vua Linh Hồn" Brook, Tiền truy nã: 83.000.000 Belly
+227|Cứ như áp phích buổi hòa nhạc của ông ấy vậy!
+228|Trừ những người nổi bật và thể hiện mức độ nguy hiểm trong vụ vừa rồi,
+229|mọi người đều tăng 50 triệu!
+230|Của bọn mình cũng tăng 50 triệu.
+231|Nhưng mà...
+232|Nhìn cái này một chút.
+233|Tiền truy nã của Chân Đen Sanji-senpai tăng một con số kỳ lạ,
+234|và dòng chữ ghi ở đây còn kỳ lạ hơn.
+235|"Chỉ bắt sống"?
+236|Mưa đá!
+237|To quá! Coi chừng!
+238|– Hả?! – Nó đục thủng boong tàu!
+239|Luffy-senpai và mọi người! Vào trong ngay!
+240|Nói gì vậy?! Bọn tôi sẽ giúp!
+241|Rẽ hướng nào đây?!
+242|Hoa tiêu của các cậu đâu?! Chỉ đường đi!
+243|Ồ, bọn tôi không có hoa tiêu vì vốn là băng đất liền.
+244|Cái gì?! Các cậu đang ở Tân Thế Giới đó!
+245|A lô, bà ơi? Con Gambia đây!
+246|Chuyện là mưa đá khổng lồ vừa bắt đầu rơi xuống tàu tụi con.
+247|Mỗi khi gặp rắc rối, bọn tôi gọi bà ở quê.
+248|Hiểu rồi! Bà biết về biển!
+249|Này, tôi nghĩ ra rồi!
+250|Trên boong có kẹo cao su dính, đúng không?
+251|Ừ, và bọn tôi không biết làm sao!
+252|Lấy vải bọc cục mưa đá rồi làm lạnh kẹo cao su để bóc ra!
+253|Được rồi!
+254|Nó bong ra dễ bất ngờ!
+255|Giờ không cần thứ trí tuệ đó!
+256|Nhưng mà...
+257|Thấy chưa! Anh bị trúng rồi!
+258|Bà bảo bôi đường lên cục u của anh ấy!
+259|Đủ rồi cái trí tuệ của bà!
+260|Ôi không! Tàu sắp chìm rồi! Nami, cứu bọn tôi!
+261|Có bao nhiêu tàu để chọn mà bọn mình lại lên nhầm tàu!
+262|Chắc phải tự xoay xở thôi!
+263|Giá mà có thiết bị của Sunny!
+264|Náo nhiệt thật.
+265|Sao các cậu không dùng lá chắn?!
+266|Hả?! À, bà bảo,
+267|"Cãi lại thiên nhiên là sẽ hối hận!"
+268|Sợ thế thì quay vào đất liền đi!
+269|Họ nghiêm túc đó hả?!
+270|Anh em ơi! Có Mũ Rơm, những người không sợ cả thần linh,
+271|như được cả ngàn người giúp sức vậy!
+272|Lòng biết ơn của bọn tôi rơi xuống như mưa đá và hạt tuyết!
+273|Sao mấy cậu sống sót tới giờ được vậy?!
+274|Tôi vui quá!
+275|Mấy người cũng làm gì đi chứ, đồ ngốc!
+276|Băng A.O., trước đây thuộc băng Râu Trắng,
+277|Tổng bộ Hải Quân
+278|đã bị xóa sổ.
+279|Lại là gã đó à?
+280|Vâng, là Thất Vũ Hải, Edward Weevil.
+281|Kizaru (Borsalino), Đô đốc Tổng bộ Hải Quân
+282|Có bao nhiêu thuyền trưởng từng dưới trướng Râu Trắng...
+283|... đã bị hạ rồi?
+284|16 thuyền trưởng, thưa ngài.
+285|Giống các vụ khác, có vẻ họ bị nổ tung
+286|cùng với thị trấn sau một cuộc tranh cãi nào đó.
+287|Thương vong khoảng 600 người.
+288|Hắn lúc nào cũng gây ra nhiều thiệt hại phụ.
+289|Dù là Thất Vũ Hải, ta cũng không thể làm ngơ.
+290|Chúng ta nên làm gì?
+291|Hắn tự xưng là con ruột của "Râu Trắng" Edward Newgate
+292|và vì thế mà đặc biệt, nhưng nhiều người không tin...
+293|Bức tường ghi: "Công lý Mơ hồ".
+294|Thôi, thật hay giả cũng chẳng quan trọng với chúng ta.
+295|Cha hắn là ai thì hắn cũng có một giá trị chắc chắn.
+296|Là hải tặc, hắn mạnh vượt trội.
+297|Khá giống Râu Trắng thời trẻ.
+298|Đó là điểm chung duy nhất của họ.
+299|Một tuần sau khi rời Dressrosa...
+300|Ôi, sương mù dày quá. Không thấy phía trước.
+301|Mấy cậu say sóng hoài vậy!
+302|Làm sao dám tự xưng là hải tặc?!
+303|Kẹo cao su... Kẹo cao su...
+304|Bà bảo nó sẽ đỡ hơn chút.
+305|À, hèn gì trên tàu này chỗ nào cũng dính kẹo cao su!
+306|Vui thật!
+307|Sếp ơi! Em thấy gì đó ở hướng hai giờ!
+308|Cái gì vậy?!
+309|Trong sương mù dày đặc,
+310|có một ngọn núi hay một con quái vật...
+311|Mong là không có quái vật nào bị nhầm với núi!
+312|Nhưng hình như nó đang di chuyển chậm...
+313|Mày say rồi thôi...
+314|Nếu là ngọn núi biết di chuyển thì đi thôi!
+315|Không, đồ ngốc! Dù sao việc cần làm bây giờ
+316|là thoát khỏi mê cung sương mù này càng sớm càng tốt!
+317|Không thì sẽ đâm vào đá ngầm rồi lật tàu!
+318|Khoan, Thần.
+319|Cậu gọi tôi là "Thần" à? Vinh dự quá!
+320|Tôi là người đáng giá 200 triệu mà vinh dự quá!
+321|Chắc chắn cả các đô đốc Hải Quân giờ cũng biết cậu rồi.
+322|Nhìn kìa. Vivre Card đang chỉ về hướng đó.
+323|Ồ, đúng rồi! Nghĩa là bạn cậu ở đó!
+324|Usopp, trông cậu ốm lắm. Cậu muốn kẹo cao su không?
+325|Tôi vẫn cố không đối mặt với thực tế...
+326|Tôi nghe nói...
+327|... Zou chặn người ngoài bằng sương mù dày và dòng chảy ngược.
+328|Còn có gió ngược nữa!
+329|Cuốn buồm lại! Chèo thuyền tiến lên!
+330|Rõ...
+331|Này! Đáp lại kiểu đó là sao!
+332|Đây là đảo Zou à?!
+333|Không, lạ quá!
+334|Không ổn rồi! Chạy thôi! Quay đầu lại!
+335|Không, chính là nó.
+336|Traf! Nhưng đây là một con "zou" (voi)!
+337|Ừ, Zou là tên một nơi
+338|phát triển rực rỡ trên lưng một con voi khổng lồ.
+339|Cái gì?! Nó còn sống sao?
+340|Nó cứ di chuyển nên không bao giờ ở cùng một chỗ.
+341|Đó là một Đảo Ma.
+342|Nó thật ra không phải đảo nên Log Pose không dẫn tới được.
+343|Tôi cũng chưa từng tới đây.
+344|Nó đang quay lưng về phía chúng ta.
+345|Nghĩa là Chân Đen và mọi người có thể đã tới sớm hơn nhiều.
+346|Vậy là bọn mình đang đuổi theo một con voi đang bước đi.
+347|Ừ. Chuẩn bị cập bờ.
+348|Cho bọn tôi ít đồ ăn được không?
+349|Cho các cậu á?!
+350|Cho Mũ Rơm-ya ít đồ ăn được không?
+351|Lấy hết đồ trong kho lương thực đi!
+352|Đây là Zou!
+353|Bên ngoài đất nước mình có những thứ lạ lùng thế này!
+354|Không biết Momonosuke có ổn không.
+355|Này! Tôi nghe nói có một bộ tộc ghét con người.
+356|Vâng, đó là tộc Mink.
+357|Họ ngăn chặn con người và người ta nói lịch sử đất nước họ
+358|kéo dài gần một ngàn năm.
+359|Một ngàn năm?! Trên lưng voi á?!
+360|Vậy nghĩa là con voi đó đã sống một ngàn năm sao?!
+361|Ồ? Đó là...
+362|Cái gì?! Đ-Đ-Đừng nói là...
+363|Sunny!
+364|Im đi!
+365|Vậy đó là...
+366|Đó là...
+367|... con tàu vĩ đại chở những thân thể thiêng liêng của Mũ Rơm!
+368|Thousand Sunny-senpai! Tôi thấy mình được ban phước! Được ban phước!
+369|Được ban phước!
+370|Đừng thờ nó!
+371|Tốt! Vậy là họ đã tới Zou thật rồi.
+372|Chắc họ thoát khỏi Big Mom êm đẹp.
+373|Không có hư hại lớn.
+374|Này! Sanji!
+375|Nami! Chopper! Brook! Momo!
+376|Và... tên gã khí gas là gì nhỉ?
+377|Các senpai mau băng qua đi...
+378|Ồ?
+379|Họ đi đâu rồi?
+380|Ồ! Họ đang băng qua rồi!
+381|Luffy! Cậu thấy những người khác chưa?
+382|Có vẻ họ không ở đây.
+383|Cái gì?!
+384|Chắc họ đều đã lên bờ.
+385|Ừ! Mau đuổi theo họ thôi!
+386|Mấy cậu đi cùng bọn tôi!
+387|Còn cần gì nữa không?
+388|Ước gì tôi được theo họ
+389|và ngắm tất cả các ngôi sao Mũ Rơm
+390|trong mơ của tôi dù chỉ một chút, nhưng...
+391|... tôi không muốn cản trở cuộc phiêu lưu của các vị thần ấy!
+392|Phong vũ biểu hạnh phúc của bọn tôi đã đầy hết cỡ rồi!
+393|Lần sau gặp lại,
+394|bọn tôi sẽ có năng lực xứng đáng được gọi là
+395|thuộc hạ của Mũ Rơm.
+396|Nên nếu lúc đó có thể giúp được các anh,
+397|Thánh Lộ (Chữ ký)
+398|bọn tôi muốn xin Thánh Lộ của bốn senpai còn lại!
+399|Được vậy thì sung sướng vô cùng!
+400|– Đó là con giun đất hả? – Là con rắn chứ?
+401|Nó có chân nên là thằn lằn.
+402|Họ hoàn toàn phớt lờ tôi! Làm ngơ hoàn toàn!
+403|Nhưng thế tôi cũng vui!
+404|Vui quá!
+405|Xong rồi!
+406|– Cái này là gì? – Tôi vẫn nghĩ là rắn.
+407|L-Là rắn à?
+408|Hiện ra đi, Rồng Bay Lên!
+409|Rồng á?!
+410|Cái gì đây?!
+411|Ngầu quá!
+412|Rồng...
+413|R-Rồng...
+414|Một sinh vật thảm hại nào đó xuất hiện rồi!
+415|– Sao anh lại...? – Người ta nói mà, ăn miếng trả miếng.
+416|Dễ thương ghê...
+417|Được rồi, mọi người bám vào lưng nó! Nó sắp leo lên!
+418|Nó không bay à?!
+419|Được! Đi thôi!
+420|Tốt! Cứ tiến lên, Rồng!
+421|Còn bao nhiêu cây số nữa?!
+422|Trên kia tôi không thấy điểm cuối!
+423|Chắc là có một đất nước chứ?!
+424|Đừng lo.
+425|Vivre Card đang chỉ lên trên.
+426|Ồ, được rồi. Rồng! Cố lên!
+427|Tạm biệt Lome-o và mọi người! Cảm ơn đã đưa bọn tôi tới đây!
+428|S-Sếp vừa gọi tên tôi sao?!
+429|L-Lần đầu tiên anh ấy gọi tên tôi!
+430|Em mừng cho sếp!
+431|C-Cả mấy cậu nữa! Cảm ơn nhiều!
+432|Hãy bảo trọng trên hành trình!
+433|Các cậu cũng vậy! Hẹn gặp lại!
+434|Luffy-senpai! Bảo trọng!
+435|Và thế là cả nhóm tiếp tục leo lên đỉnh Đảo Ma Zou.
+436|Tổng hành dinh Quân Cách Mạng Baltigo. Grand Line
+437|Dragon-san!
+438|Các đội quân nổi dậy đang thắng lợi khắp thế giới!
+439|Monkey D. Dragon, Tổng tư lệnh Quân Cách Mạng
+440|Sự sụp đổ của gia tộc Donquixote có tác động rất lớn.
+441|Có từng này quốc gia dính líu tới vụ buôn lậu vũ khí.
+442|Tình hình chiến sự đang khả quan.
+443|Nhưng bảo họ đừng quá phấn khích vì chiến thắng.
+444|Chính phủ Thế giới sẽ không ngồi yên đâu.
+445|Cipher Pol đã được tăng cường những năm gần đây.
+446|Vậy nên bảo họ hết sức cẩn thận.
+447|Rõ!
+448|Dragon-san.
+449|Họ nói đã tìm thấy một loại quặng đặc biệt trong số vũ khí
+450|chúng ta mang về từ Dressrosa.
+451|Quặng?
+452|Ngài biết Quặng Sắt Say không?
+453|Nó khá hiếm và chỉ vài nước khai thác được,
+454|nên có thể truy ra nơi vũ khí thật sự được chế tạo.
+455|Ồ, tin tốt đấy.
+456|Vâng.
+457|Cô cũng đưa được những người của ta mất tích ở Dressrosa về.
+458|Cô làm rất xuất sắc.
+459|Xin đừng nói vậy! Em không làm được nếu thiếu Sabo-kun và Luffy-kun!
+460|Robin thế nào?
+461|Tôi nghe nói cô ấy bị bắt ở Sabaody, nhưng điều đó hoàn toàn sai.
+462|Vâng, sai ạ! Cô ấy tràn đầy sức sống!
+463|Gần như là...
+464|Ngài không hỏi em về Luffy-kun sao?
+465|À, chuyện đó ta nghe đủ rồi.
+466|Ồ, chắc Sabo-kun đã kể ngài nhiều lắm.
+467|Dù sao thì, Koala.
+468|Vâng.
+469|Chúng ta cần sự giúp đỡ của họ.
+470|Của họ?
+471|Triệu tập tất cả thủ lĩnh Quân Cách Mạng từ khắp nơi trên thế giới!
+472|Vâng.
+473|Hả?! Ngài thật sự muốn triệu tập lại hết những cá tính khủng đó sao?!
+474|Một vùng biển nào đó ở Tân Thế Giới
+475|Reng, reng, reng... Reng, reng, reng...
+476|Reng, reng, reng... Reng, reng, reng...
+477|Reng, reng, reng... Cạch.
+478|Lafitte nghe đây.
+479|Đây... urgess.
+480|Là tôi đây!
+481|Burgess! Là cậu!
+482|"Cảnh Sát Trưởng Quỷ" Lafitte, Thuyền trưởng Tàu thứ Năm của Hải tặc Râu Đen, một Tứ Hoàng
+483|Bọn tôi đến Dressrosa đón cậu nhưng cậu không có ở đó.
+484|Ừ, xin lỗi.
+485|Tôi không liên lạc được vì gần như bất tỉnh suốt.
+486|Shiliew của Mưa, Thuyền trưởng Tàu thứ Hai của Hải tặc Râu Đen, một Tứ Hoàng
+487|Ồ, thằng ranh đó còn sống à.
+488|Cậu đã ở đâu?
+489|Giờ cậu đang ở đâu?
+490|Toàn màu trắng...
+491|Là một hòn đảo trắng như tuyết.
+492|Tôi lẻn lên tàu của ai đó.
+493|Nói với Thuyền trưởng Teach đi!
+494|Nếu bây giờ xâm nhập chỗ này, ta có thể lấy được cả núi vũ khí!
+495|Là Đại tá Teach.
+496|Phải nói bao nhiêu lần nữa?
+497|Nhớ mang Bác sĩ Q theo nữa! Tôi bị thương nặng lắm!
+498|Burgess! Nói đi chứ! Cậu đang ở đâu?
+499|Tôi không biết tên hòn đảo.
+500|Là một nơi hoàn toàn chưa được khám phá.
+501|Hãy lần theo Vivre Card của tôi mà tới đây!
+502|Dragon và tên Sabo đáng ghét cũng ở đây!
+503|Tìm ra rồi!
+504|Là tổng hành dinh của Quân Cách Mạng!
+505|Một hòn đảo nào đó
+506|Ai cũng ngu ngốc và lố bịch!
+507|Ai cũng nói y như nhau!
+508|Rằng các thành viên băng Râu Trắng là con trai duy nhất của Râu Trắng!
+509|Edward Weevil – Thất Vũ Hải, tự xưng là "Râu Trắng Đệ Nhị" (Tiền truy nã cũ: 480 triệu belly)
+510|Mẹ ơi! Mẹ ơi!
+511|Con là con trai Râu Trắng, đúng không ạ?!
+512|Râu con cũng trắng nữa!
+513|Đúng rồi, con yêu!
+514|Băng Râu Trắng chỉ là một gia đình giả vờ thôi.
+515|Con là đứa con ruột duy nhất của hải tặc mạnh nhất thế giới, Râu Trắng!
+516|Dạ! Dạ!
+517|Còn mẹ là...
+518|Miss Bakkin – Mẹ của Weevil, tự xưng là "Người tình của Râu Trắng"
+519|... người phụ nữ mà Râu Trắng yêu!
+520|Nên hãy ngẩng cao đầu lên, báu vật của mẹ!
+521|Mẹ làm con đau, mẹ ơi!
+522|– Nhìn này! – Gì vậy? Gương hả?
+523|Không, là ảnh của Râu Trắng!
+524|Ồ, con tưởng là gương.
+525|Con giống ông ấy quá, không thể nào không phải con ông ấy!
+526|Sao con ngốc thế được chứ?!
+527|Ồ, xin lỗi mẹ!
+528|Nhưng mẹ tha cho con.
+529|Vì mẹ yêu con!
+530|Mẹ ơi!
+531|Nào, đi thôi! Nói xem con phải làm gì!
+532|Ừm...
+533|Con quên rồi.
+534|Tìm tàn dư của băng Râu Trắng như Marco Phượng Hoàng!
+535|Và lấy lại thứ gì đó!
+536|Cha con Newgate chắc chắn đã để lại gia tài khổng lồ
+537|và con là người thừa kế thật sự vì là con ruột!
+538|Ồ, con hiểu rồi, con hiểu rồi.
+539|Ồ phải! Nhưng thứ con thật sự muốn làm là trả thù!
+540|Con muốn trả thù Râu Đen vì đã giết cha!
+541|Con sẽ giết hắn!
+542|Con sẽ không tha thứ cho hắn bằng bất cứ giá nào!
+543|Thằng bé ngốc! Trả thù thì được gì?
+544|Chẳng kiếm được một đồng berry!
+545|Chúng ta cần tiền! Con phải thừa kế gia tài của ông ấy!
+546|Mẹ nói đúng!
+547|Mẹ sao vậy, mẹ?
+548|Doflamingo đã bị đánh bại.
+549|Lại là thằng đó! Cháu của Garp!
+550|Nghe nói Marco và những người khác đã cố bảo vệ nó trong Chiến tranh Thượng đỉnh.
+551|Vậy có lẽ nó biết gì đó về Marco.
+552|Có nên đi đánh nó không?
+553|"Thị trấn Buggy" Đảo False Brovado, Tân Thế Giới
+554|Reng, reng, reng... Reng, reng, reng...
+555|– Giám đốc Buggy! – Các ngươi muốn gì?!
+556|Đơn đặt hàng cứ đổ về và ốc sên không ngừng reo!
+557|Tốt, tốt!
+558|Vì giờ không lấy được vũ khí từ Doflamingo,
+559|họ quay sang hải tặc đánh thuê và điện thoại gọi tới tấp!
+560|Chúng ta thống trị thị trường quân sự!
+561|Nghe chưa?!
+562|Này, anh em!
+563|Ai ăn xong rồi,
+564|ra chiến trường mà quậy tung lên, rồi mang chiến lợi phẩm về!
+565|Buggy "Chú Hề Ngôi Sao" – Thất Vũ Hải/Hải tặc, Giám đốc Buggy's Delivery
+566|Việc cướp biển của các ngươi hợp pháp dưới danh nghĩa...
+567|... Thất Vũ Hải – Buggy "Chú Hề Ngôi Sao"-sama!
+568|Buggy's Delivery – Công ty hải tặc đánh thuê
+569|Buggy! Buggy! Buggy! Buggy! Buggy!
+570|Ôi yeah, Giám đốc Buggy!
+571|Tôi quên báo, chúng ta có cuộc gọi từ lính đánh thuê hạng S, Hajrudin,
+572|và ông ấy nói muốn nghỉ việc.
+573|Hả?
+574|Thôi, chỉ là một Người Khổng Lồ, kệ đi. Còn bốn người khác mà.
+575|Ý tôi là cả năm người đều muốn nghỉ.
+576|Cái gì?! Họ là nguồn thu lớn nhất của ta mà!
+577|Mà giờ ta đang bận lắm! Tao muốn biết tại sao!
+578|Không, ngài không muốn nghe đâu...
+579|Nói đi!
+580|Nói đi!!
+581|Tôi vẫn chưa thấy đỉnh.
+582|Không biết Sanji và mọi người đã leo chỗ này kiểu gì.
+583|Họ thật sự ở trên đó sao?
+584|"Thứ" mà Luffy và mọi người đang cưỡi
+585|hiện đang leo lên chân sau bên trái của con voi khổng lồ.
+586|Cao quá! Tôi sợ!
+587|Tay tôi mỏi nhừ rồi! Quá sức!
+588|Đừng nói vậy, Usopp. Nó đang cố hết sức đấy.
+589|Dễ thương ghê...
+590|Kin'emon, Kanjuro.
+591|Nhân tiện, sao hai người muốn tới Zou vậy?
+592|Ồ phải.
+593|Bọn tại hạ nợ các vị rất nhiều, nên rồi cũng phải kể hết mọi chuyện.
+594|Nhưng trước tiên, bọn tại hạ cần cảm thấy an toàn.
+595|Ừ. Zou luôn là điểm đến của bọn tại hạ kể từ khi rời đất nước Wano.
+596|Bọn tại hạ muốn xem Momonosuke có ổn không
+597|và liệu một người bạn khác bị lạc giữa biển,
+598|Raizo, một ninja, đã đến đây an toàn chưa.
+599|– Ninja á?! – Anh ta là ninja sao?!
+600|Cái gì...
+601|Ninja... Tôi muốn gặp!
+602|Etetetetete...
+603|Luffy! Nhìn lên! Có gì đó đang rơi xuống chúng ta!
+604|Etetetetete...
+605|Cái gì vậy?!

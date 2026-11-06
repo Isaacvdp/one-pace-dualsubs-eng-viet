@@ -1,0 +1,379 @@
+1|Nin-nin!
+2|Tôi muốn xem thêm nhẫn thuật! Nin-nin!
+3|Đừng có Nin-nin nữa!
+4|Cậu thấy nhẫn thuật của tôi rồi mà.
+5|Tình cờ á?
+6|Tôi biết các cậu làm vì bọn tôi!
+7|Mấy người đang khóc à?
+8|Đừng có ngốc!
+9|Đàn ông đất nước Wano không khóc!
+10|Chỉ là...
+11|Lúc tôi đến đây đâu có như thế này!
+12|Đường phố tấp nập...
+13|Mọi người sống cuộc sống của mình!
+14|Và cả đất nước...
+15|...tràn đầy sức sống!
+16|Đáng ghét bọn Mink!
+17|Chúng làm vậy thật liều lĩnh!
+18|Tôi sẽ cố hết sức để trả thù cho các người!
+19|Nên hãy tha thứ cho tôi!
+20|Tha thứ cho tôi!
+21|Này, bọn ngươi!
+22|Có vẻ phiến đá giải mã xong rồi!
+23|Quay vào trong con cá voi đi!
+24|Cô thấy sao, Nami?
+25|Đây có phải thứ viết trên Poneglyph không?
+26|Ừ, dựa vào đây tôi vẽ được hải đồ!
+27|Chúng ta xác định được vị trí của một nơi, Robin!
+28|Phiến đá đỏ đó gọi là Road Poneglyph!
+29|Mọi kẻ mạnh trên biển đều đang tìm điểm cuối của Grand Line...
+30|Và phiến đá đó là chỉ dẫn để đến đó!
+31|Rừng Cá Voi được coi là thánh địa cũng vì nó
+32|nên bọn Hộ Vệ chúng tôi phải bảo vệ!
+33|Điểm cuối của Grand Line...
+34|Ý ông là chỉ dẫn đến hòn đảo cuối cùng, Raftel?!
+35|Đúng vậy!
+36|Gì cơ?!
+37|Tuy nhiên...
+38|Raftel?!
+39|Đó là đích đến! Để làm Vua Hải Tặc!
+40|Cuối cùng cũng đến được! Hòn đảo cuối cùng, Raftel!
+41|Là hòn đảo mà ông già hoa nhắc đến!
+42|Nó có nói Raftel ở đâu không?!
+43|Khoan, khoan, đừng vội kết luận! Nghe tôi nói đã. Thế này...
+44|Trên thế giới có bốn phiến đá đỏ, Road Poneglyph!
+45|Gì?! Nghĩa là có bốn Raftel hả?!
+46|Không phải! Để ông ấy nói hết đã!
+47|Phiến đá đó chỉ vị trí của một nơi nào đó chưa biết, không phải Raftel.
+48|Ba Road Poneglyph còn lại cũng chỉ ba địa điểm khác theo cách tương tự.
+49|Khi biết các địa điểm đó và nối bốn điểm trên bản đồ,
+50|các đường sẽ cắt nhau ở chính giữa!
+51|Đó là nơi duy nhất mà chỉ Vua Hải Tặc và băng của ông ấy từng đến suốt bao thế kỷ.
+52|Hòn đảo cuối cùng!
+53|Đảo Raftel!
+54|Hòn đảo cuối cùng, Raftel!
+55|Raftel...
+56|Cuối cùng cũng!
+57|Không biết có ở đó không nhỉ!
+58|Hay là không!
+59|One Piece!
+60|Được rồi! Đi tìm thôi!
+61|Cậu định đi đâu?! Thế giới rộng lắm!
+62|Tôi sẽ nhanh chóng cứu Sanji về!
+63|Nghe tôi nói đã!
+64|Bọn ngươi đi Đảo Whole Cake cùng Pekoms
+65|là ý hay đấy.
+66|Trong bốn Road Poneglyph, chỉ còn một cái ta chưa biết ở đâu.
+67|Chúng ta có một cái ở đây.
+68|Còn hai cái kia nằm trong tay hải tặc.
+69|Hải tặc?
+70|Tứ Hoàng Big Mom!
+71|Và một Tứ Hoàng nữa, Kaidou, Vua Của Muôn Thú!
+72|Gì cơ?!
+73|Hiểu rồi!
+74|Vậy cứ cướp của chúng là xong!
+75|Ôi, tự nhiên trước mắt tôi tối sầm...
+76|Tôi cũng vậy!
+77|Sao chứ?! Dù gì cũng phải đập chúng, cứ làm thôi!
+78|Đừng nói như chuyện nhỏ vậy!
+79|Tôi không để tâm vì nghĩ sớm muộn gì cũng chưa phải đánh với chúng
+80|nhưng nghĩ tới là tôi són ra quần luôn!
+81|Ừ! Bọn tôi sẽ són ra quần! Đừng có đùa với bọn tôi!
+82|Nhưng các cậu không cần cướp Poneglyph đâu.
+83|Không cần sao?
+84|Thường thì người ta chép lại chữ như in rập.
+85|Chẳng ai đi vác mấy phiến đá khổng lồ đó cả.
+86|Tôi có ý này!
+87|Vậy thì ta lẻn vào căn cứ của Big Mom và Kaidou
+88|rồi lấy bản chép về!
+89|Rồi ta tới Raftel trước khi ai kịp biết!
+90|Và cậu sẽ thành Vua Hải Tặc!
+91|Cậu bị sao vậy, đồ ngốc?!
+92|Thế thì chẳng đàn ông chút nào! Là ai thì cứ đập chúng thôi!
+93|Bình tĩnh, bình tĩnh!
+94|Dừng lại!
+95|Nhưng ta lo cho ngươi hơn, Nico Robin.
+96|Những kẻ quan tâm tới Thế Kỷ Trống
+97|đang thu thập bản chép khắp thế giới
+98|nhưng chưa ai đọc được.
+99|Những tên tuổi lớn khắp thế giới sẽ...
+100|...chắc chắn nhắm vào ngươi và tìm cách bắt cóc khi chúng sẵn sàng đọc.
+101|B-Bắt cóc Robin?!
+102|Gì cơ?!
+103|Không sao đâu.
+104|Tôi có những người bạn mạnh sẽ bảo vệ tôi.
+105|Whoa, cô vừa nói "mạnh" hả? Làm tôi đỏ mặt!
+106|Tôi sẽ đập bất kỳ ai vì cô!
+107|Đừng trông cậy vào tôi như vậy...
+108|Tôi sẽ bảo vệ Robin-san bằng mọi giá!
+109|Tôi cũng sẽ làm mọi thứ vì Robin!
+110|Siêu!
+111|Tôi không để ai đụng vào Robin!
+112|Nếu có, tôi lấy mạng và tiền của chúng!
+113|Bọn họ đáng tin lắm!
+114|Cô có những người bạn tốt.
+115|Mà này, sao các người biết nhiều về Poneglyph vậy?
+116|Mọi chuyện bắt đầu từ chủ nhân của bọn tại hạ,
+117|Kozuki Oden-sama, người từng quan tâm tới những phiến đá.
+118|Vì...
+119|Nói cho họ biết được không, con chó kia?
+120|Cứ nói đi. Không cần giấu gì họ cả.
+121|Ngươi nói gì cũng được.
+122|"Cứ nói đi"? Thái độ hách dịch gì vậy?!
+123|Ta là chủ của họ! Đồ vô lễ!
+124|Thực ra gia tộc Kozuki của đất nước Wano
+125|là một dòng họ thợ đá, đời đời khai thác và chế tác đá.
+126|Họ vẫn rất lành nghề.
+127|Thợ đá?
+128|Phải. Chuyện này từ 800 năm trước...
+129|Gia tộc Kozuki đã chế tạo ra cuốn sách không thể phá hủy bằng kỹ thuật tinh xảo của mình.
+130|Đó chính là Poneglyph!
+131|Gì cơ?!
+132|Gia tộc Kozuki?!
+133|Họ là người làm ra tất cả Poneglyph trên thế giới sao?!
+134|Mấy người làm ra những phiến đá Robin đang tìm sao?!
+135|Không phải tôi! Là tổ tiên của tôi từ rất lâu rồi!
+136|Vậy mấy người có biết trên đó viết gì không?!
+137|Điều đó không được truyền lại đầy đủ qua các thế hệ.
+138|Muốn biết thì phải đọc các phiến đá.
+139|Thứ duy nhất được truyền lại là cách đọc và viết cổ tự.
+140|Tuy nhiên...
+141|Tiếc là...
+142|Trước khi truyền cho Momonosuke-sama,
+143|nó đã bị cắt đứt ở đời cha của ngài, Kozuki Oden-sama!
+144|"Cắt đứt" nghĩa là cha của Momonosuke-san...
+145|Phải, Oden-sama đã...
+146|Wano...
+147|Wa...
+148|Wa...
+149|Oden mà không được luộc thì đâu còn là "oden"!
+150|Này! Không muốn nói thì thôi cũng được!
+151|Oden-sama đã bị...
+152|...hành hình!
+153|Bởi tướng quân đất nước Wano và hải tặc Kaidou!
+154|Gì cơ?!
+155|Để cứu tất cả bọn gia thần chúng tại hạ,
+156|ngài đã chấp nhận số phận!
+157|Bởi Kaidou?!
+158|Kaidou...
+159|Và...
+160|...băng hải tặc Bách Thú của Tứ Hoàng Kaidou...
+161|...vẫn còn ở đất nước Wano!
+162|Ở đất nước Wano?
+163|Không muốn nói thì thôi nhưng mà...
+164|...sao chủ nhân của các người bị hành hình?
+165|Mấy người bị bắt và bị nhắm tới cũng vì chuyện đó phải không?
+166|Phải, đúng vậy. Có thể nói đó là trọng tội.
+167|Kaidou đang cố moi thông tin từ bọn tại hạ!
+168|Vị daimyo tiền nhiệm, Kozuki Oden-sama...
+169|...đã đến hòn đảo cuối cùng Raftel cùng Vua Hải Tặc Gol D. Roger
+170|và chứng kiến bí mật của thế giới!
+171|Gì cơ?!
+172|Cha của Momonosuke...
+173|...đã đến Raftel cùng Gold Roger?!
+174|Cha cậu là thuyền viên của Vua Hải Tặc sao?!
+175|Chứng kiến bí mật của thế giới? Chắc là cùng với Rayleigh-san nữa.
+176|Phải. Bọn tại hạ biết.
+177|Bọn tại hạ biết toàn bộ lịch sử.
+178|Ra vậy!
+179|Để moi bí mật của thế giới từ các gia thần,
+180|Doflamingo và Caesar, những kẻ có liên hệ với Kaidou...
+181|...đã cố bắt các người.
+182|Đúng vậy!
+183|Tuy nhiên...
+184|Oden-sama không muốn bắt bọn tại hạ gánh bí mật.
+185|Bọn tại hạ không biết gì cả!
+186|Phải, mà dù có biết cũng không nói với ai.
+187|Biết hay không thì vẫn bị săn đuổi!
+188|Vậy thì lựa chọn duy nhất là chiến đấu!
+189|Lời ngài để lại chỉ có một câu!
+190|"Hãy mở cửa đất nước Wano!"
+191|"Mở cửa" nghĩa là sao?
+192|Đất nước Wano đóng cửa với thế giới.
+193|Đáng tiếc là lẽ ra bọn tại hạ phải là khiên chắn cho chủ nhân Oden-sama,
+194|vậy mà ngài lại cứu bọn tại hạ, khiến bọn tại hạ nhục nhã!
+195|Việc bọn tại hạ phải làm bây giờ
+196|là liều mạng báo thù cho chủ nhân!
+197|Phải giết tên tướng quân đã cướp đất nước Wano
+198|và mở cửa đất nước ra với thế giới!
+199|Đó là tâm nguyện của bọn tại hạ!
+200|Đất nước Wano gần như hoàn toàn nằm dưới quyền kiểm soát
+201|của tướng quân và Kaidou đã liên minh.
+202|Bạn bè bọn tại hạ đang tập hợp những người chống đối ở đó
+203|nhưng vẫn bị đội quân đông đảo của kẻ thù áp đảo!
+204|Không có cơ hội thắng!
+205|Ra là chuyện đang diễn ra ở đó.
+206|Nhưng bọn tại hạ phải thắng!
+207|Vì thế bọn tại hạ ra khơi tìm đồng minh cùng chiến đấu.
+208|Đầu tiên, bọn tại hạ hướng tới Zou!
+209|Phải, gia tộc Kozuki và người Mink
+210|có mối giao hảo đặc biệt từ xưa, nên dù chuyện gì xảy ra cũng chung số phận!
+211|Hơn hết, con chó này và tại hạ là gia thần trực thuộc của Oden-sama.
+212|Từ ngày Raizo đến đây, mọi chiến binh của bọn ta đã sẵn sàng!
+213|Nhưng khi thực sự giao chiến...
+214|...lại ra nông nỗi này trước đội của Jack, chỉ là một phần quân Kaidou!
+215|Thật thất vọng.
+216|Thật xấu hổ.
+217|Này! Nhưng đó là vì chúng dùng vũ khí bẩn thỉu!
+218|Không ai ngờ chúng dùng khí độc!
+219|Giá mà có trọng tài tuyên phạm quy và bọn ta thắng thì may ra, nhưng...
+220|Chúng chơi bẩn đến đâu thì đây vẫn là đất nước của ta!
+221|Lẽ ra bọn ta phải thắng!
+222|Nhưng sẽ không để chuyện đó xảy ra lần nữa! Không lặp lại thất bại!
+223|Bọn ta cũng còn con át chủ bài.
+224|Nếu đánh lại, bọn ta sẽ cho chúng thấy sức mạnh thực sự của tộc Mink!
+225|Giờ bọn tại hạ có việc nhờ, Luffy-dono!
+226|Và cả ngài nữa, Law-dono!
+227|Tại hạ biết thật mạo muội khi nhờ vả sau khi được các vị cứu mạng
+228|nhưng tại hạ rất ấn tượng với sức mạnh của các vị!
+229|Vì chúng ta cùng chung mục đích,
+230|xin các vị giúp bọn tại hạ chiến đấu giết tướng quân đất nước Wano
+231|và Tứ Hoàng Kaidou!
+232|Ồ! Được chứ! Còn gì bằng!
+233|Samurai với người Mink! Họ sẽ giúp ích cho bọn mình lắm!
+234|Sớm muộn gì cũng đánh Kaidou! Phải nắm lấy cơ hội này!
+235|Họ còn có cả ninja nữa, Luffy!
+236|Tôi không chịu!
+237|Đừng!
+238|Nói là cậu đang đùa đi!
+239|Sao cậu không hiểu hả?!
+240|Nghĩ đi! Phải bắt tay nhau!
+241|Cậu điên rồi à?!
+242|Khoan! Đừng nghe cậu ta nói! Bọn tôi sẽ dạy cho cậu ta một bài học!
+243|Dừng lại!
+244|Luffy, nghĩ lại đi!
+245|Thế này sẽ làm cậu kém đàn ông đấy!
+246|Khoan!
+247|Tôi nghĩ Luffy nói có lý.
+248|Nami?!
+249|Tôi sẽ đi...
+250|...đàm phán!
+251|Không phải vậy! Không!
+252|Cậu chỉ là bù nhìn thôi hả, Momo?!
+253|Cậu nói đi!
+254|Cậu không phải người quan trọng sao?!
+255|Cậu là thủ lĩnh của những người vĩ đại này mà?!
+256|Định chỉ khóc thôi sao?!
+257|Sao cậu làm thằng bé khóc vậy?! Đừng khắt khe với đứa trẻ tám tuổi!
+258|Luffy-san. Thường thì người thừa kế không thể tự đứng vững cho đến khi trưởng thành.
+259|Nếu người lớn hỗ trợ đúng cách...
+260|Ồ, Momonosuke-san?
+261|Ừ, lại đây nào, Momo-chan.
+262|Tôi xin lỗi vì điều thuyền trưởng ngốc của bọn tôi đã nói với cậu...
+263|Con không thể thấy hết được! Thế giới là như vậy, Momonosuke!
+264|Cha ơi, con...
+265|Bị bao vây rồi!
+266|Mẹ ơi!
+267|Chuẩn bị tên lửa!
+268|Chạy đi! Chắc chắn có đường thoát!
+269|Mọi người! Chạy đi!
+270|Cha con là...
+271|...một vị lãnh chúa ngu ngốc!
+272|Ta muốn hạ gục Kaidou!
+273|Hắn là kẻ thù của cha mẹ ta!
+274|Hắn cũng giết mẹ ta!
+275|Ta muốn mau lớn và trở nên mạnh mẽ
+276|để trả thù cho cha và mẹ!
+277|Ta cũng muốn bảo vệ tất cả gia thần!
+278|Momonosuke-sama!
+279|Chỉ cần biết ngài nghĩ vậy là đủ rồi!
+280|Bọn ngươi già đi và hay mau nước mắt rồi.
+281|Im đi!
+282|Nhưng vì cơ thể ta còn nhỏ nên không làm được!
+283|Vì vậy ta muốn các ngươi chiến đấu cùng ta!
+284|Ta xin các ngươi!
+285|Làm ơn...
+286|Hiểu rồi!
+287|Bắt tay nhau nào!
+288|Chúng ta là đồng minh!
+289|Nhưng đầu Kaidou để tôi nhé!
+290|Cảm ơn! Cảm ơn!
+291|Cậu làm sai rồi! Phải nắm chặt! Thế này này!
+292|Cảm ơn!
+293|Mạnh hơn nữa!
+294|Nhưng tôi đang nắm tay cậu mà...
+295|Không, làm thế này!
+296|Cậu ấy đúng. Phải như vậy mới đúng.
+297|Các thủ lĩnh của ta đã gắn kết! Tuyệt quá!
+298|Mũ Rơm.
+299|Cậu không phải hỏi ý tôi trước sao?
+300|Ngầu mà, đúng không?
+301|Ừ, nhưng...
+302|Nhẹ cả người!
+303|Bọn ta phải tự xét lại việc mình đã làm.
+304|Bọn ta đối xử với ngài như đứa trẻ nhưng ngài là gia chủ Kozuki.
+305|Bọn ta quên mất điều đó và cứ nghĩ phải bảo vệ ngài.
+306|Dù như vậy là quá khắt khe với đứa trẻ tám tuổi,
+307|không ai đối xử với Momonosuke-sama như một người trưởng thành...
+308|...như Luffy-dono cả!
+309|Ừ! Đúng thế!
+310|Giờ tôi hiểu sao các cậu ngưỡng mộ cậu ấy đến vậy.
+311|Được rồi! Mọi người! Tập hợp!
+312|Mục tiêu của chúng ta là...
+313|...đập cho Tứ Hoàng Kaidou một trận!
+314|Chúng ta là Liên minh Ninja-Hải tặc-Mink-Samurai!
+315|Dài quá!
+316|Có cần "Ninja" không?
+317|Tất nhiên là cần!
+318|Rồi, rồi.
+319|Kẻ thù của chúng ta là Kaidou!
+320|Inuarashi, Nekomamushi!
+321|Momo, Kin'emon, Kanjuro và ninja!
+322|Và cả Traf nữa!
+323|Tất cả bắt tay nhau để hạ Kaidou! Vì thế mới liên minh!
+324|Mọi người! Đừng bao giờ cúi đầu! Cũng đừng quỳ gối!
+325|Liên minh nghĩa là...
+326|...bạn bè!
+327|Chưa chắc!
+328|Bọn tôi đã là đồng minh nhưng có một điều kiện.
+329|Chà, chuyện đó lẽ ra phải nói trước khi bọn tôi đồng ý liên minh chứ?!
+330|Điều kiện là gì?
+331|Một người trong băng bọn tôi hiện không ở đây.
+332|À, là chuyện Sanji, phải không?
+333|Sanji?
+334|Ừ, đã xảy ra nhiều chuyện...
+335|Gì?! Big Mom?! Tôi chưa nghe chuyện này!
+336|Chuyện xảy ra lúc cậu đang ngủ.
+337|Tôi sẽ đi đón cậu ấy về nên đừng đi đánh trước khi tôi về!
+338|Đó là điều kiện? Nếu vậy thì được, bọn tôi sẽ đợi.
+339|Cảm ơn! Đổi lại, Sanji sẽ giúp ích rất nhiều!
+340|Như có sự giúp đỡ của cả nghìn người!
+341|Tôi đáng giá hai nghìn người!
+342|Rồi, rồi.
+343|Ra vậy. Nghe có vẻ đáng tin nhưng các cậu có ổn không?
+344|Cậu đang nói về Tứ Hoàng Big Mom đấy!
+345|Tôi không đánh bà ta nên sẽ ổn. Tôi đi cùng Pekomamushi!
+346|Pekomamushi, Lion Viper
+347|Peko...mamushi?
+348|Pekomamushi!
+349|Khu dân cư Hộ Vệ
+350|Hôm nay thật sự là một ngày kỳ diệu!
+351|Ừ! Một ngày tuyệt vời!
+352|Hai người đó còn chia đôi ngày vì không muốn nhìn mặt nhau
+353|vậy mà giờ đã hòa giải!
+354|Ừ, khó tin là ngày này lại đến.
+355|Nghe nói Công tước Inuarashi và Ngài Nekomamushi từng là bạn thân nhất.
+356|Nhưng khi họ trở về từ chuyến đi dài, thoi thóp,
+357|họ đã thù hằn nhau sâu sắc rồi.
+358|Mỗi lần gặp mặt là họ cố giết nhau.
+359|Không biết đã xảy ra chuyện gì...
+360|Chuyện đó trước khi tôi sinh ra, đúng không?
+361|Phải. Ngay cả Pedro và tôi lúc đó cũng còn nhỏ.
+362|Mở tiệc ăn mừng hòa giải của hai vị vua của chúng ta hôm nay thôi!
+363|Muốn dậy hay đi ngủ lúc nào cũng được!
+364|Đã xác nhận mục tiêu, Jack-sama!
+365|Ừ, tao thấy rồi. Không cần mày nói.
+366|Chết tiệt. Không ngờ tao lại quay về đây.
+367|Sheepshead.
+368|"Raizo không có ở đó."
+369|Tao không ngờ mày quay về mà nói thế.
+370|Người Mink có sức sống mãnh liệt.
+371|Nếu những kẻ thoát khỏi khí độc chữa trị được cho những người ngất xỉu thì sao?
+372|Câm miệng lại, Sheepshead-sama!
+373|Nếu ngài ấy biết không chỉ người Mink còn sống mà còn bị ai đó đuổi khỏi đảo...
+374|Khi đã bắt đầu giết ai thì đừng dừng cho đến khi hắn chết!
+375|Nhân từ chỉ gây ra chuyện trả thù phiền phức!
+376|Không cần lo!
+377|Dù sao người Mink cũng đang yếu đi. Nếu tấn công, chúng sẽ...
+378|Không cần thiết.
+379|Chúng ta sẽ giết con voi khổng lồ!

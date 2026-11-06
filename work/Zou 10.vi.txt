@@ -1,0 +1,553 @@
+1|Là Shanks!
+2|Đừng nói là ngươi biết hắn, Nekomamushi.
+3|Ừ, ta biết! "Tóc Đỏ" Shanks, đúng không?
+4|Ra vậy! Hèn gì cái mũ rơm đó trông quen!
+5|Ồ, vậy sao?!
+6|Inuarashi cũng nói thế! Mọi người đều biết Shanks sao?!
+7|Phải, vì con mèo này và ta từng đi trên tàu của Roger.
+8|Gì cơ?!
+9|Các ông là thuyền viên của Vua Hải Tặc sao?!
+10|Thuyền viên... Ừ, nói vậy cũng được nhưng...
+11|...bọn ta lên nhiều tàu với tư cách tùy tùng của Oden-sama.
+12|Kể cả khi đi trên tàu Moby Dick của Râu Trắng.
+13|Và khi Oden-sama được Roger tuyển, bọn ta luôn ở bên ngài...
+14|Whoa, khoan, khoan! Râu Trắng?!
+15|Phải. Hồi đó bọn ta còn trẻ...
+16|...giống như mấy cậu học việc như Shanks và Buggy.
+17|Này, khoan! Dừng lại! Dừng lại!
+18|Tôi rối hết cả lên! Ừm...
+19|Nhưng hai bọn ta không đến Raftel cùng họ.
+20|Tôi bảo "Đợi một chút" mà!
+21|Ừm, đầu tiên, trên tàu Râu Trắng
+22|có Oden, con chó và con mèo.
+23|O D E N
+24|Rồi Oden được Roger tuyển và ba người chuyển sang tàu Roger.
+25|Ừ, ta nhớ! Hồi đó vui lắm!
+26|Ôi, những loài vật, địa hình và khí hậu ta chưa từng thấy!
+27|Biển mây trên bầu trời!
+28|Hòn đảo nổi dưới biển! Ánh nắng!
+29|Mỗi ngày ta đều rất phấn khích!
+30|Những ngày phiêu lưu tươi đẹp xưa!
+31|Hai người lúc nãy còn định giết nhau mà, đúng không?
+32|Vậy Kin'emon, các vị cũng đi trên tàu Râu Trắng sao?
+33|Không, bọn tại hạ ở lại đất nước Wano suốt.
+34|Thay vào đó, bọn tại hạ cố hết sức ngăn Oden-sama
+35|lên tàu hải tặc!
+36|Ở đất nước đóng cửa, rời khỏi nước cũng là tội.
+37|Mặt khác, Oden-sama là kẻ dị giáo
+38|nghi ngờ luật lệ của đất nước.
+39|Bọn tại hạ quen Râu Trắng, Roger và những người khác
+40|khi họ cập bến đất nước Wano.
+41|Họ trung thành với người khác nên bọn tại hạ không nghĩ họ đặc biệt xấu.
+42|Nhưng tại hạ chưa từng nghe daimyo nào lên tàu hải tặc, nên là gia thần...
+43|Dù sao thì các vị đều biết Shanks! Cả Rayleigh nữa sao?!
+44|Phải, tất nhiên!
+45|Nếu ông lên tàu của Roger,
+46|thì đó chắc là tàu Oro Jackson do thầy đóng tàu của tôi, Tom-san, đóng!
+47|Gì cơ?! Cậu là học trò của thợ đóng tàu Tom sao?!
+48|Ừm, tôi nói tiếp được không? Vậy chắc ông biết Crocus bác sĩ tàu...
+49|Khoan, Brook.
+50|Xin lỗi cắt lời. Tôi cần hỏi họ một chút.
+51|Các vị nói bốn Road Poneglyph sẽ chỉ đường đến Raftel, đúng không?
+52|Tôi bắt đầu lo về lộ trình.
+53|Nhìn này.
+54|Các kim của Log Pose!
+55|Bình thường ta chọn điểm đến tiếp theo bằng cách nhìn ba kim này chỉ đâu
+56|nhưng giờ ta không đi theo chúng. Có ổn không?!
+57|Bọn tôi gặp Traf rồi tình cờ theo Vivre Card đến Zou,
+58|và tình cờ tìm thấy Road Poneglyph chỉ vị trí Raftel.
+59|Nhưng theo Crocus-san ở Twin Capes,
+60|nếu đi theo log thì mọi lộ trình cuối cùng đều thành một.
+61|Tôi luôn tưởng tượng đó là Raftel.
+62|Ồ, Crocus! Lâu rồi ta không gặp!
+63|Ông ấy khỏe không?!
+64|Ông ấy khỏe! Nhưng đó là hai năm trước rồi!
+65|Ý cậu là ông già đi với Laboon, đúng không?
+66|Crocus bác sĩ tàu! Hồi đó ông ấy đang tìm một băng hải tặc nào đó.
+67|Ồ, đó là băng của ta, cả băng đều chết hết rồi!
+68|Gì cơ?!
+69|Này! Nghe đây! Tôi đang nói chuyện quan trọng!
+70|Phải, ta hiểu.
+71|Nếu cậu muốn biết log dẫn đến đâu thì cứ tự đi xem.
+72|Chắc chắn có một lộ trình mà cả ba kim đó đều chỉ
+73|cùng một hướng, về một nơi nhất định.
+74|Tuy nhiên, các ngươi đã lên đường
+75|đi vượt xa điểm đó rồi.
+76|Gì cơ? Ý ông là sao?
+77|Ngươi sẽ biết một điều lần đầu tiên ở cuối lộ trình.
+78|Biết sự thật về Poneglyph và cổ tự.
+79|Biết về nền văn minh
+80|đã tạo ra chúng và sự tồn tại của hòn đảo cuối cùng bị che giấu, Raftel!
+81|Khi Roger đến đó, ông ấy phải làm lại mọi thứ từ đầu.
+82|Crocus cũng là thuyền viên của Vua Hải Tặc. Ông ấy là một trong những người biết tất cả.
+83|Ông ấy sẽ không nói dối trừ khi không ưa các ngươi.
+84|Hiểu rồi!
+85|Tôi không cần lo. Bọn mình không đi chệch lộ trình.
+86|Tôi chỉ bối rối vì những mảnh sự thật chưa khám phá ra.
+87|Log không hề nói dối!
+88|Cô là hoa tiêu à? Cô rất đáng tin.
+89|Đừng lo! Cô đang đi đúng hướng.
+90|Cứ tiếp tục đi!
+91|Ừ!
+92|Này, này! Tôi không biết các cậu đang nói gì
+93|nhưng hoa tiêu của bọn tôi tuyệt vời lắm đúng không?!
+94|Tôi đáng tin hả? Ừ, chắc chắn rồi!
+95|Ừ! Hoa tiêu của Vua Hải Tặc tương lai!
+96|Ngầu quá còn gì!
+97|Đừng đánh tôi! Đau đấy!
+98|Luffy...
+99|Có vẻ mấy ngươi vui vẻ suốt thời gian qua nhỉ.
+100|Dù sao, các cậu dính líu đến quá nhiều huyền thoại nên
+101|tôi chóng mặt như hồi gặp Rayleigh.
+102|Tôi cũng gặp Roger và những người khác
+103|nhưng không nhớ rõ vì lúc đó còn quá nhỏ.
+104|Ồ, vậy là không nhớ rõ...
+105|Ý tôi là, không thể nào! Roger chết hơn hai mươi năm rồi!
+106|Cậu đang nói về ai vậy?!
+107|Chuyến hành trình của Oden-sama có quá nhiều chuyện.
+108|Tại hạ sẽ kể hết cho các vị vào lúc nào đó.
+109|Nhưng giờ, ta có quá nhiều việc phải làm trước khi đánh Kaidou!
+110|Cần chuẩn bị.
+111|Như đã nói trước đó, bọn tại hạ đang tuyển samurai
+112|sẽ cùng chiến đấu ở đất nước Wano!
+113|Trong lúc đó, bọn ta có người cần gặp!
+114|Có thêm quân tiếp viện lúc nào cũng tốt.
+115|Là ai?
+116|Ông ấy là cựu chỉ huy đội 1 của băng Râu Trắng...
+117|Marco Phượng Hoàng!
+118|Marco?
+119|--Không ngờ nghe tên đó ở đây. --Marco... Marco...
+120|Ồ! Vậy các cậu thân với ông ta! Biết vậy thì tốt!
+121|Nếu ông ấy hỗ trợ được thì giúp ích rất nhiều!
+122|Nhưng khoan. Trong sự kiện một năm trước, họ...
+123|Chà, đừng kỳ vọng quá.
+124|Dù có tìm được ông ấy thì hy vọng cũng ít thôi.
+125|Marco... Marco... Tôi chắc chắn mình biết...
+126|Chắc cậu gặp ông ấy trong Chiến tranh Thượng đỉnh ở Marineford!
+127|Marco... Là ai nhỉ?
+128|Nghe nói ông ấy ăn một loại Trái Ác Quỷ cực hiếm!
+129|Gì? Hiếm?
+130|Trông giống quả dứa.
+131|Ồ, gã đó!
+132|Đó là cuộc đụng độ lớn giữa
+133|tàn quân băng Râu Trắng do Marco dẫn đầu
+134|và băng Râu Đen!
+135|Đã một năm kể từ cái gọi là Chiến tranh Thù hận,
+136|nhưng chúng ta chưa nghe tin gì về số phận các chỉ huy.
+137|Nếu ông ấy còn sống, tôi nghĩ tôi biết ông ấy ở đâu.
+138|Whoa-whoa-whoa! Họ đánh với Râu Đen sao?!
+139|Phải.
+140|Cả hai bên đều có quân tiếp viện. Đó là trận chiến khá lớn.
+141|Và Marco cùng những người khác thua thảm.
+142|Râu Đen được công nhận là một trong Tứ Hoàng sau cuộc chiến.
+143|Tôi không biết. Chết tiệt, Râu Đen!
+144|Đó là sự kiện lớn!
+145|Cậu thật sự không biết gì về những gì đã xảy ra.
+146|Jinbe đã kể cho tôi.
+147|Trong Chiến tranh Thượng đỉnh,
+148|sau khi tôi ngất đi, băng Râu Trắng đã cứu mạng tôi.
+149|Cuộc chiến chưa kết thúc!
+150|Mang em trai của Ace đi đi, Jinbe!
+151|Tôi muốn gặp lại ông ấy và cảm ơn.
+152|Vậy giống Kin'emon, bọn tôi cũng cần thời gian chuẩn bị.
+153|Được, hiểu rồi! Vậy tạm chia nhau ra!
+154|Bọn tại hạ sẽ tập hợp đồng minh và lên kế hoạch ở đất nước Wano.
+155|Các vị ở đó có ổn không?
+156|Tôi tưởng các vị đang bị tướng quân nhắm tới.
+157|Nhưng bọn tại hạ lo cho đồng đội ở đó.
+158|Nếu đi tàu ngầm của bọn tôi, các vị sẽ an toàn trên đường.
+159|Và...
+160|...nếu biết chỗ trốn trên đảo thì sẽ ổn.
+161|Tôi sẽ đi tìm Marco cùng thuộc hạ.
+162|Nếu Kin'emon và mọi người đến đó trước,
+163|tốt nhất ta gặp nhau ở đất nước Wano.
+164|Làm Vivre Card cho Kin'emon đi.
+165|Ừ, hiểu rồi.
+166|Ở đó rồi! Raizo-dono!
+167|Mừng gặp lại ngài!
+168|Gì?
+169|Mừng là ngài vẫn ổn!
+170|Raizo-san!
+171|C-Các ngươi...?
+172|Mở tiệc ăn mừng thôi.
+173|Sẵn sàng rồi!
+174|Tiệc ăn mừng? Mừng gì chứ?!
+175|Mừng Raizo-san an toàn và...
+176|Mừng hai vị vua hòa giải và...
+177|Mừng gia tộc Kozuki đoàn tụ bình an!
+178|Ôi chao!
+179|Bọn Mink khốn kiếp!
+180|Xin lỗi vì đã nhốt ngài!
+181|Bọn tôi muốn cứu các ngươi khỏi Jack và đồng bọn!
+182|Raizo-san!
+183|Bọn tôi trói tay ngài, có làm ngài đau không?
+184|Raizo-san!
+185|Nhẫn pháp!
+186|Thuật Anh-yêu-em!
+187|Raizo-dono!
+188|Raizo-dono!
+189|Nin! Nin! Nin! Nin!
+190|Được rồi! Mở tiệc thôi!
+191|Tiệc! Tiệc! Tiệc! Tiệc! Tiệc!
+192|Tiệc! Tiệc!
+193|Khoan, Luffy!
+194|Bọn mình tiệc rồi mà!
+195|Đi thôi! Muộn là không cứu được Sanji-kun đâu!
+196|Gì?! Mấy người đi cùng sao?!
+197|Tất nhiên tôi đi cùng cậu! Tôi thấy có trách nhiệm.
+198|Với lại, cậu nghĩ đi biển
+199|Tân Thế Giới mà không có hoa tiêu được sao?
+200|Tôi cũng đi! Pekoms bị thương nặng!
+201|Thêm nữa,
+202|ai sẽ chơi nhạc khi các cậu buồn?
+203|Ai cần chứ?
+204|Này! Đừng loại tôi ra!
+205|Cả hai bọn tôi đều để họ bắt Sanji-san!
+206|Kin'emon, ông có phiền nếu tôi đưa họ đi không?
+207|Không cần xin phép tại hạ! Họ là thuyền viên của cậu mà!
+208|Và không ai ngăn được người đang cứu bạn mình!
+209|Tại hạ ước gì đi cùng được!
+210|Tại hạ mang ơn Sanji-dono!
+211|Xin lỗi!
+212|Giờ khó lẻn vào rồi.
+213|Cứ thoát ra ngay khi các cậu phá hỏng đám cưới!
+214|Bọn tôi sẽ đi cùng Kin'emon nên các cậu lo cho Sanji nhé!
+215|Ừ!
+216|Cứ tin ở bọn tôi!
+217|Ồ, Luffy.
+218|Nếu cậu thấy Poneglyph nào, chép rập giúp tôi nhé?
+219|Được!
+220|Nhẹ nhàng thật!
+221|Tôi cũng sẽ nghiên cứu Poneglyph mà Kaidou có ở đất nước Wano.
+222|Tuyệt!
+223|Được rồi! Tạm thế đã nhé?
+224|Hm? Có chuyện gì vậy?
+225|Gì vậy?!
+226|Đó là...
+227|Gì?! Gì?!
+228|Cả hòn đảo đang rung chuyển!
+229|Zunesha đang kêu lên!
+230|Chuyện gì vậy?!
+231|Zunesha là ai?!
+232|Hả? Mấy người đang đứng trên nó mà!
+233|Ồ! Tên con voi!
+234|Động đất lớn! Chưa từng xảy ra!
+235|Ai vậy?! Giọng của ai thế?!
+236|Chạy đi! Sắp sập rồi!
+237|Cánh Tay Phải Mạnh!
+238|Tránh xa tòa nhà!
+239|--Bám vào cây! --Được!
+240|Lối này!
+241|Nhanh lên!
+242|Cảm ơn!
+243|Ai vậy?! Ai đang nói?!
+244|Xương tôi sắp gãy, gãy, gãy rồi!
+245|Xương tôi kêu rắc, rắc, rắc, rắc!
+246|Momonosuke-sama! Ngài có bị thương không?!
+247|Zunesha bị sao vậy?!
+248|Nếu ngươi ở đó...
+249|A-Ai vậy?!
+250|--Lại nghe giọng đó! --Momonosuke-sama!
+251|Luffy, cậu sao vậy?!
+252|"Sao vậy"?! Cậu cũng nghe thấy mà, đúng không?!
+253|Hả?! Nghe gì?!
+254|--Không thể nào! --Cậu ấy cũng nghe được sao?!
+255|Nhanh lên!
+256|Rốt cuộc ngươi là ai?!
+257|Lớn nhất từ trước đến nay!
+258|Khai hỏa!
+259|Bắt đầu có tác dụng rồi!
+260|Hèn gì.
+261|Voi bình thường chỉ cần một con ong là hoảng loạn.
+262|Nhìn kỹ cơ thể nó đi.
+263|Nếu nó sống cả thiên niên kỷ thật thì da chắc đã yếu rồi!
+264|Huyền thoại sống ư? Không! Chỉ là con vật già!
+265|Tập trung hỏa lực vào chân trước bên trái!
+266|Thêm loạt đạn nữa!
+267|Tiếp tục bắn!
+268|Nếu làm nó khuỵu gối và hạ mặt xuống,
+269|ta muốn xử nó thế nào cũng được!
+270|Tao muốn móc mắt và cắt lưỡi nó!
+271|Có thể rạch bụng nó từ bên trong!
+272|Nhanh lên!
+273|Hãy ra lệnh cho ta!
+274|Nếu ngươi ở đó!
+275|Ra lệnh làm gì chứ?!
+276|Trả lời tôi! Ngươi là ai?!
+277|Bọn tôi không nghe thấy gì cả!
+278|Tôi chỉ nghe giọng của cậu ấy!
+279|Ông ta không nghe tôi!
+280|Ý cậu là sao?!
+281|Chuyện gì đang xảy ra?
+282|Gol D. Roger...
+283|Và cả Oden-sama nữa.
+284|Tại hạ nghe nói họ cũng từng trải qua chuyện tương tự.
+285|Họ nghe một giọng lớn nhưng không khiến nó đáp lại được.
+286|Momonosuke-sama! Momonosuke-sama!
+287|Momonosuke-sama!
+288|Cái gì thế này?
+289|Đầu ta! Đầu ta... đ-đau quá!
+290|Đây là...!
+291|Là Jack!
+292|Jack đang...
+293|Jack đang tấn công con voi!
+294|Có năm chiếc tàu trông mạnh mẽ ở hướng chín giờ!
+295|Zunesha bị tấn công sao?!
+296|Đúng như ta nghĩ, Jack chưa chết.
+297|Momo! Sao cậu biết?!
+298|Ta không biết... Ta chỉ thấy thôi!
+299|Cậu thấy?
+300|Nó... Nó hiện ra trong đầu ta...
+301|Ta sợ quá!
+302|Cho tàu ra khơi!
+303|Bắn trả Jack trên mặt nước!
+304|Rõ!
+305|Đau quá!
+306|Nếu ta gục,
+307|tất cả các ngươi sẽ gặp nguy hiểm!
+308|Kẻ đứng sau giọng nói là...
+309|...con...
+310|...voi này!
+311|Ý cậu là Zunesha?!
+312|Momonosuke-sama! Chuyện gì vậy?!
+313|Lại nữa!
+314|Rất lâu trước đây, ta...
+315|Rất lâu trước đây, con voi đã phạm tội...
+316|Và giờ... việc duy nhất nó được phép... làm là... đi.
+317|Nó vẫn... tuân theo mệnh lệnh đó.
+318|Vì thế...
+319|Bắn nát nó! Thổi bay nó đi!
+320|Vì thế, hãy cho ta phép một lần!
+321|Có tác dụng rồi! Nó sắp sập!
+322|Hãy ra lệnh cho ta!
+323|Chiến đấu!
+324|Momo!
+325|Cậu nói với nó đi! Tôi có linh cảm giọng cậu sẽ đến được với nó!
+326|Nhưng...
+327|Nếu chúng hạ con voi, tất cả chúng ta sẽ rơi xuống biển!
+328|Nhưng ta phải lớn tiếng cỡ nào...
+329|Cứ hét lên đi! Không thì con voi sẽ chết!
+330|Sắp được rồi!
+331|Đừng bỏ cuộc, voi ơi! Không được ngã!
+332|Hãy làm cho Jack...
+333|Làm cho Jack biến đi!!
+334|Đã rõ!
+335|Vòi!
+336|Jack-sama, tàu của chúng ta bị hất tung lên không!
+337|Ồ...
+338|Ôi không-saru!
+339|Yên ắng rồi.
+340|Chuyện gì vậy?!
+341|Tôi không biết. Giờ tôi chẳng thấy gì, cũng không nghe giọng nữa.
+342|Ồ, thật sao?! Vậy Zunesha dùng vòi của chính mình?
+343|Đúng vậy-saru! Chỉ một đòn!
+344|Không thể tin được. Tại hạ chưa từng nghĩ Zunesha có ý chí riêng.
+345|Hơn nữa, ta còn có thể giao tiếp với nó.
+346|Oden-sama có biết về năng lực của Momonosuke-sama không?
+347|Này!
+348|Sao vậy? Mấy người vẫn có vẻ nghiêm trọng.
+349|Bọn tôi sững sờ trước chuyện xảy ra đột ngột này.
+350|Trước hết phải tìm ra Jack làm sao đến được đây.
+351|Nếu không, nơi này sẽ không còn an toàn.
+352|Ra vậy. Chà, chúc may mắn. Sẽ ngầu nếu con voi này thành đồng minh của bọn mình.
+353|Nói thì dễ.
+354|Giờ bọn tôi đi đây, cho thật nhiều đồ ăn được không?!
+355|Reng, reng, reng... Reng, reng, reng...
+356|Reng, reng, reng...
+357|Reng, reng, reng... Reng, reng, reng...
+358|Cạch.
+359|Muốn gì?
+360|Họ báo mất liên lạc với Jack đột ngột!
+361|Kaidou-san!
+362|Kiến thức y học của Vương quốc Sakura hiện nay và kiến thức dược phẩm của Vương quốc Birdie.
+363|Thật đáng kinh ngạc!
+364|Máu đã ngừng chảy.
+365|Cậu làm tốt lắm!
+366|Tôi chuẩn bị thuốc quá đủ rồi nên cậu sẽ ổn!
+367|Chỉ có bác sĩ Chopper mới làm được!
+368|Thật tuyệt vời!
+369|K-Khen như vậy...
+370|...tôi không vui đâu, lũ ngốc!
+371|Như cậu đã dạy,
+372|bọn tôi sẽ thường xuyên tháo băng để xem vết thương.
+373|Tốt. Nhưng chỉ thay băng thôi cũng rất cực công.
+374|Bọn tôi sẽ cẩn thận.
+375|Ừ! Cứ giao cho bọn tôi!
+376|Zunesha là vùng đất nghìn năm tuổi của chúng ta!
+377|Có lẽ ta đã quá quen mà quên mất vì nó luôn ở đó từ khi ta sinh ra.
+378|Hôm nay, chúng ta được nhắc nhở.
+379|Được nhắc rằng ta luôn được sinh vật vĩ đại này nuôi sống.
+380|Và một ngày nào đó điều đó sẽ kết thúc.
+381|Nếu Zunesha, vùng đất của ta, có ý chí tự do,
+382|giờ ta muốn hỏi nó điều này.
+383|"Ngài đã đi suốt một nghìn năm. Ngài đang hướng tới đâu?"
+384|Công quốc Mokomo, thành phố Kurau
+385|Ngươi muốn ở lại? Ở đây, Zou?
+386|Ừ.
+387|Ngươi định làm gì ở đây?
+388|Thật ra ta cũng không biết làm gì nhưng...
+389|Hiểu rồi!
+390|Nếu có thể, ta muốn nói chuyện với nó một lần nữa!
+391|Với Zunesha!
+392|Với kẻ đã sống một thiên niên kỷ!
+393|Sao nó nghe được giọng ta?
+394|Có lẽ nó biết gì đó về gia tộc Kozuki!
+395|--Gì? --Momonosuke-sama!
+396|Tại hạ hiểu nhưng có người đang đợi chúng ta ở đất nước Wano...
+397|Không sao, Kin'emon.
+398|Ta vẫn nghĩ mình phải bảo vệ đất nước này khỏi mối đe dọa Kaidou.
+399|Ta chưa biết Jack làm sao đến được đây hai lần nên không được lơ là.
+400|Dù sao chúng ta cũng không thể cùng vào đất nước Wano một lúc.
+401|Ta nghĩ ta sẽ ở lại đây một thời gian.
+402|Ta sẽ đưa Momonosuke-sama theo sau.
+403|Đã rõ.
+404|Nekomamushi đã làm Vivre Card của ta lúc nãy.
+405|Đưa cái này cho mọi người.
+406|Giờ chia thành bốn nhóm.
+407|Tìm Marco
+408|Đất nước Wano
+409|Zou
+410|Đảo Whole Cake
+411|Nhóm Nekomamushi
+412|Nhóm Kin'emon
+413|Nhóm Inuarashi
+414|Nhóm Luffy
+415|Theo Vivre Card là đến được,
+416|nhưng vấn đề là liên lạc thế nào.
+417|Ở các nước khác, họ dùng ốc sên để...
+418|Ý là, nó to cỡ này và nói vào thì người ở xa sẽ...
+419|--Ồ, ý cậu là ốc sên truyền tin. --À, cái đó.
+420|Nhưng ở nước này, bọn tôi không quen dùng chúng.
+421|Nếu muốn ốc sên truyền tin, tôi thấy một con hoang trong rừng.
+422|Nếu muốn, tôi cài đặt giúp. Dễ thôi.
+423|Cái gì??
+424|Rừng Cá Voi
+425|Này!
+426|Này!
+427|Ngoại ô nơi ở của Hộ Vệ
+428|Nhà Pekomamushi sập rồi!
+429|Này, Pekomamushi!
+430|Ông ổn không?! Trả lời đi!
+431|Pekomamushi! Ông ở đâu?!
+432|Tao ở đây! Grr!
+433|Ông ở đâu?!
+434|Nhìn xuống!
+435|Con rùa?!
+436|Lùi lại!
+437|Làm sao tao nghỉ ngơi cho tử tế đây?! Grr!
+438|Vậy ông là Rùa-mamushi!
+439|Được rồi, mày không nhớ tên tao, còn quên cả tao là sư tử! Grr!
+440|Tất nhiên tao sống sót được! Tao ăn Trái Rùa!
+441|Mai tao cứng như kim cương!
+442|Sao mày không nghe hả?!
+443|Chopper nói sẽ chịu trách nhiệm chữa trị cho ông.
+444|Hiểu rồi! Mày không phản ứng gì về phần kim cương hả? Grr!
+445|Đau, đau, đau!
+446|Nhưng tao cảm kích sự chăm sóc của cậu ấy.
+447|Tao mang ơn các người nhiều lắm.
+448|Gì?
+449|Gì cơ?!!
+450|Vậy đi gặp Big Mom thôi!
+451|Gì?!
+452|Khoan, thằng khốn!
+453|Mày không hiểu sao? Giờ tao bị thương nặng!
+454|Này! Tao bị thương! Mày phải dừng...
+455|Điên rồi! Không thể tin được!
+456|Mày là kẻ tệ nhất để mắc nợ!
+457|Khu dân cư Hộ Vệ
+458|Chủ nhân.
+459|Pedro.
+460|Sanji đã cứu đất nước này.
+461|Và cậu ấy bị bắt cóc ở đất nước này.
+462|Dù đội phải nhỏ, chúng ta vẫn thất trách...
+463|...nếu không có ai trong tộc Mink ngoài Pekoms đi cùng họ.
+464|Bọn ngươi có muốn đi cùng Luffy không?
+465|Có!
+466|Đừng giành trước, Pedro!
+467|Đó là vai trò mà...
+468|...Tam Kiếm Sĩ Inuarashi chúng ta sẵn sàng nhận!
+469|Lùi lại, Shishilian!
+470|Kẻ ồn ào như ngươi là người ít phù hợp nhất cho việc này!
+471|Tôi không ồn ào!
+472|Thả tôi ra! Tôi ở cùng băng Mũ Rơm suốt!
+473|Cho tôi đi nữa, làm trợ lý cho bác sĩ Chopper!
+474|Wanda! Tristan!
+475|Bọn em kết bạn với Luffy sau khi đánh nhau với cậu ấy, Pedro-san!
+476|BB! Roddy!
+477|Nami thích ngủ trên bụng tôi!
+478|Thế không có ích gì cho họ đâu, Mục sư Yomo!
+479|Tôi muốn gặm xương Nam tước Xác Chết mãi mãi!
+480|--Tôi cũng vậy! --Tôi cũng vậy!
+481|Đó chỉ là mục tiêu riêng của bọn mày thôi! Im đi, lũ chó!
+482|Ta hiểu cảm giác của tất cả các ngươi!
+483|Nhưng các ngươi phải...
+484|...để Pedro lo!
+485|Tại sao, chủ nhân?!
+486|Vì Pekoms sẽ ở đó.
+487|Chỉ Pedro mới kiểm soát được hắn.
+488|Bên đó đang có chuyện gì.
+489|Cái trước tôi gọi là "hoàn hảo" nhưng...
+490|...cái mới vượt xa nó một cách dễ dàng!
+491|Tôi đã kết hợp khả năng sinh trưởng của Pop Green
+492|và nhờ Franky giúp xử lý bề mặt.
+493|Nói đây là phát minh vĩ đại nhất thế kỷ cũng không quá...
+494|Cô có nghe không, Nami?!
+495|Nếu tôi bóp ở đây...
+496|Suýt nữa!
+497|Hơi dài quá, Usopp!
+498|Nghe hướng dẫn của tôi! Cậu kéo dài quá rồi! Cậu cần luyện thêm!
+499|Đó là Climate Baton mới, cô có thể kéo dài tùy ý chỉ với thay đổi nhỏ khi cầm!
+500|Hiểu rồi!
+501|Tôi tích hợp mọi thiết bị của Weatheria mà tôi lấy từ cô ở Sabaody.
+502|Nhưng chỉ có một điều...
+503|Cô đã nói với tôi ở Sabaody...
+504|Nó như cây đũa phép!
+505|Hồi đó tôi không hiểu ý là gì.
+506|Vừa tay tôi! Dễ xoay nữa!
+507|--Nên tùy cô quyết định. --Tuyệt quá, Usopp!
+508|Đ-Đ-Đ-Đúng là nhẫn thuật cao cấp!
+509|Tuyệt!
+510|Đây đúng là đỉnh cao của khoa học thời tiết Weatheria!
+511|Sorcerer's Climate Baton mà tôi muốn!
+512|Cảm ơn, Usopp!
+513|Đừng khách sáo!
+514|Giờ nói về chi phí...
+515|Mirage Tempo!
+516|Đừng hòng chạy!
+517|Cổng chính của Zou
+518|Cuối cùng chỉ có sáu người chúng ta.
+519|Rất vui có ông, Peropero!
+520|Là Pedro. Tôi sẽ không làm phiền.
+521|S-Sao Đại ca Pedro lại đi, Grr?
+522|Tôi đi với tư cách người đã biết các ngươi rõ từ lâu.
+523|Ý ông là sao?! Grr!
+524|Nami! Bảo trọng!
+525|Cảm ơn! Cậu cũng vậy, Wanda!
+526|Bảo trọng nhé, bác sĩ Chopper.
+527|Nghe này. Bọn tôi biết hắn.
+528|Hắn có thể đang nhảy múa vui mừng vì chuyện kết hôn.
+529|Không thể nào!
+530|Nhưng tôi không phủ nhận được!
+531|Chà, sẽ ổn thôi!
+532|Được rồi, Luffy-dono! Bọn tại hạ sẽ đợi các vị ở đất nước Wano!
+533|Chúc may mắn, Luffy!
+534|Bảo trọng!
+535|Có chuyện gì thì báo bọn tôi.
+536|Tôi sẽ chế tạo vũ khí để tiêu diệt Kaidou!
+537|Tại hạ sẽ tập hợp samurai ở đất nước Wano!
+538|Giờ tôi giúp các vị xuống khỏi con voi.
+539|Không cần đâu, Kanjurou!
+540|Tạm biệt!
+541|Ya-hoo!
+542|Cứ giao Sanji cho bọn tôi!
+543|Gì cơ?!
+544|Hẹn gặp ở đất nước Wano!
+545|--Được! --Đừng để Big Mom bắt nhé!
+546|Bà ta là Hoàng đế của biển cả!
+547|Ừ! Hẹn gặp lại!
+548|Và thế, đội giải cứu Sanji do Luffy dẫn đầu...
+549|...lên đường tới Đảo Whole Cake, nơi Tứ Hoàng Big Mom, kẻ Luffy đã gây sự, đang chờ.
+550|Trong lúc đó, tại vương quốc sa mạc Alabasta ở Grand Line...
+551|Phụ vương, nhanh lên!
+552|Khoan, Vivi. Sao con vui vậy?
+553|Vì lâu rồi con mới được ra biển!
