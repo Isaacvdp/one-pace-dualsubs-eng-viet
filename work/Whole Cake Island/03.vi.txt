@@ -1,0 +1,382 @@
+1|Có vẻ không có gì bất thường.
+2|Ừ!
+3|Tôi lại đói rồi!
+4|Đừng lo. Sắp thấy một hòn đảo rồi.
+5|Nhân tiện tôi nói thêm chút thông tin.
+6|Có tất cả 34 hòn đảo bao quanh Whole Cake Island.
+7|Nhiều vậy sao?!
+8|Mỗi đảo có một bộ trưởng, tổng cộng 34 người cai quản.
+9|Vùng biển rộng lớn này được gọi là...
+10|Totto Land!
+11|Ừm, ừm, ừm, tôi hiểu rồi. Xin lỗi nhé.
+12|Tôi tưởng là tàu địch.
+13|Ừ, tôi cướp con tàu này từ một băng hải tặc. Tôi sẽ tự mình dâng cho Mama.
+14|Ồ! Trên tàu có thứ gì ngọt không?
+15|– Tất nhiên rồi. – Vậy Mama sẽ vui lắm!
+16|Đây là điều bất ngờ. Đừng báo cáo với bà ấy về con tàu này.
+17|Ôi, tuyệt quá!
+18|Rõ! Đại ca Pekoms, ngầu quá!
+19|Nhìn kìa!
+20|Gạch, nhà cửa, mọi thứ đều...
+21|làm từ sô-cô-la!
+22|Một thị trấn sô-cô-la!
+23|Như một giấc mơ vậy!
+24|Wow! Có bao nhiêu là người và động vật khác nhau!
+25|Cái gì thế này?! Cái gì thế này?! Thị trấn này là sao?!
+26|Nhìn kìa! Sô-cô-la đang phun ra!
+27|Ồ, tôi biết cậu muốn bắt đầu từ đài phun sô-cô-la mà!
+28|Vòi sô-cô-la!
+29|"Nhà tắm Sô-cô-la"
+30|"Nhà tắm Sô-cô-la"?!
+31|Tắm sô-cô-la?!
+32|– Quần áo sô-cô-la?! – Ăn được không?!
+33|Tôi đã xoay xở che giấu cho chúng ta, nhưng không nên ở lâu.
+34|Làm việc cần làm rồi đi thôi...
+35|Xong chưa?
+36|Wow! Dễ thương quá!
+37|Ôi, Nami, cậu đẹp lắm!
+38|Cảm ơn!
+39|Này, nhìn nè! Trang phục của tôi cũng đẹp đúng không?
+40|Ừ, thật lộng lẫy!
+41|Thế này thì sao? Trông tôi có giống hải tặc không, Broo...
+42|Gì vậy?
+43|Muốn thêm nữa không?
+44|Còn một ngày nữa mới tới Whole Cake Island, nơi Sanji đang ở.
+45|Đi mua đồ ăn đi.
+46|Được! Yay!
+47|Pedro, cậu có ống nhòm không?!
+48|Cảm ơn! Để xem nào...
+49|Wow! Ở đây đa dạng quá, Pekoms!
+50|Tôi còn thấy cả người Mink nữa! Như xứ sở thần tiên vậy!
+51|Phải, đó chính là giấc mơ của Mama.
+52|Con người, người Mink, người cá, người tay dài, người chân dài, người lùn...
+53|Một đất nước nơi mọi chủng tộc trên thế giới sống chung không phân biệt đối xử.
+54|Không, ý tôi là mọi thứ trên thế giới!
+55|Mọi thứ trên thế giới?
+56|Phải, đó là thế giới lý tưởng của Mama, Totto Land!
+57|Hãy nhận ra rằng các cậu đã vào sâu trong một lãnh thổ tuyệt vời rồi.
+58|Đây là đảo Cacao, do bộ trưởng sô-cô-la cai quản.
+59|Nơi này gọi là thị trấn Chocolat!
+60|Thị trấn Chocolat?! Tên hay quá!
+61|Mọi thứ trong thị trấn này đều làm từ sô-cô-la.
+62|Gì cơ?! Tôi mê sô-cô-la lắm! Tôi được ăn không?!
+63|Ở thị trấn này, cậu muốn ăn sô-cô-la bao nhiêu cũng được!
+64|Được!
+65|Nhưng phải cẩn thận!
+66|Ăn sô-cô-la lợp mái là phạm luật.
+67|Vì nó sẽ không che được mưa hay tuyết.
+68|Kính cửa sổ thuộc quyền của bộ trưởng kẹo,
+69|còn cột xây dựng thuộc về bộ trưởng bánh quy.
+70|Còn mọi thứ khác ngoài sô-cô-la là tài sản tư nhân hoặc công cộng.
+71|Trông ngon quá...
+72|Này! Có nghe không đấy?!
+73|Tôi chẳng hiểu gì cả.
+74|Này, quần lót của họ cũng làm bằng sô-cô-la hả?
+75|Tất nhiên rồi.
+76|Tôi nóng lòng được thấy quần lót sô-cô-la!
+77|Chúng ta không đến đây để nghỉ ngơi.
+78|Mua đồ ăn xong thì quay lại ngay.
+79|Tôi ở lại trên tàu vì họ biết mặt tôi, nhưng tôi mê sô-cô-la lắm.
+80|Mua cho tôi với!
+81|Được!
+82|Này, Mũ Rơm!
+83|Nếu định đi thì đừng phí thời gian nữa, mau hóa trang đi...
+84|Luffy và Chopper đã vào thị trấn rồi.
+85|Cái gì?!
+86|Này, cậu nghĩ chuyện gì sẽ xảy ra nếu họ phát hiện
+87|tôi đã đưa các cậu đến đây?!
+88|Phải hành động cẩn thận!
+89|Đừng lo! Sớm muộn sẽ biết họ ở đâu thôi.
+90|Có kẻ ăn mất quán cà phê rồi!
+91|Kia rồi!
+92|Khốn kiếp!
+93|Nếu chỉ là tường sô-cô-la thì có thể gắn lại sau,
+94|nhưng cả quán cà phê biến mất rồi!
+95|Bọn mày đã ăn kẹo, kẹo dẻo, hạnh nhân và kẹo đậu!
+96|Đó là tội ăn vặt phạm pháp! Tao phải thẩm vấn bọn mày!
+97|Theo tao về đồn!
+98|Nhưng ông ơi, chuyện này có lý do chính đáng.
+99|Vậy hả? Nói đi!
+100|Vì nó ngon quá!
+101|Được, nói hay lắm, lũ ngốc! Đi với tao!
+102|Ôi không! Họ sắp bị bắt rồi!
+103|Đừng làm ầm lên, Pedro-san !
+104|Khoan đã, Chocopolice-san !
+105|Tấm thảm đang bay...
+106|Ồ, cô là... chủ quán!
+107|Ôi, thêm rắc rối! Chủ quán cà phê tới rồi!
+108|Xem họ đã làm gì quán của cô này!
+109|Không thể tin nổi!
+110|Sao lại bỏ lại nhiều thế này? Đâu có hứa như vậy! Trời ạ!
+111|Phải ăn cho xong đàng hoàng chứ!
+112|Này, cậu có biết cô ấy không?
+113|Không. Ai vậy?
+114|Còn cái thứ trên vai cô ấy là gì?
+115|Tôi nghĩ sự kết hợp giữa mứt, bánh quy và sô-cô-la ở đây rất ngon!
+116|Đây! Thử đi!
+117|Thế nào?
+118|Ngon lắm!
+119|Chocopolice-san, tôi xin lỗi.
+120|Quán cà phê sắp hết hạn rồi,
+121|nên tôi nhờ họ ăn luôn cả tòa nhà!
+122|Ồ, xin lỗi! Tôi không biết họ là đội phá dỡ!
+123|Đi thôi, mọi người!
+124|Lúc làm việc các cậu nên treo biển chứ.
+125|Vẫn còn vài khách nữa mà.
+126|Vậy thì, tôi xin phép.
+127|Vâng, cảm ơn! Và xin lỗi đã làm phiền mọi người!
+128|Vậy là không có gì nghiêm trọng.
+129|Ôi, chúng tôi lo quá.
+130|À phải rồi!
+131|Chúc mừng cô sắp kết hôn, cô Pudding!
+132|Ngày cưới sắp đến mà cô vẫn ghé thăm quán sao?
+133|Đừng làm việc quá sức nhé.
+134|Chúng tôi đều chúc cô hạnh phúc!
+135|Cảm ơn mọi người!
+136|Cô ấy đã cứu Luffy và Chopper.
+137|Cô ấy tốt bụng quá. Không biết là ai nhỉ.
+138|May cho họ thật!
+139|Vận may luôn mỉm cười với Vua Hải Tặc tương lai mà.
+140|Ơ?
+141|Thuyền trưởng Pedro?!
+142|Ông là thuyền trưởng Pedro phải không?! Biết ngay mà! Lâu quá không gặp!
+143|Sao ông lại ở đây?
+144|Tôi chỉ đi ngắm cảnh thôi. Đừng nói với ai là tôi ở đây.
+145|V-Vâng. Rất vui được gặp ông.
+146|Cậu quen người trong thị trấn này à, Pedro?
+147|Tôi sẽ kể sau.
+148|Vậy cô tên là Pudding. Cảm ơn cô đã giúp chúng tôi!
+149|Không, không! Tôi mới là người phải cảm ơn các anh!
+150|Tại sao?
+151|Vì anh đã nói...
+152|"Vì nó ngon quá!"
+153|Sô-cô-la ở quán đó là công thức mới tôi nghĩ ra!
+154|Anh có thích cảm giác tan trong miệng không?
+155|Tôi thêm sữa vào bơ ca cao và đường củ cải rất tinh khiết
+156|rồi nhào ba ngày liền ở 29 độ C!
+157|Tôi không hiểu cô nói gì, nhưng nó ngon lắm!
+158|Đúng vậy!
+159|Anh nói nó ngon, tôi muốn khóc luôn!
+160|Cảm ơn anh! Tôi vui lắm khi nghe vậy!
+161|C-C...
+162|Cô gái tốt quá!
+163|Cô thích làm sô-cô-la à?
+164|Tôi yêu đồ ngọt!
+165|Thị trấn này thơm mùi sô-cô-la, như thiên đường vậy!
+166|Đến cái bàn cũng là sô-cô-la!
+167|Biết vậy thật vui!
+168|Bọn tôi rất muốn ở lại cảm ơn cô, Pudding,
+169|nhưng phải đi rồi.
+170|Vậy sao? Tiếc quá.
+171|Trước khi đi, các anh uống tách trà nhé?
+172|Chắc miệng các anh đang ngọt rồi.
+173|Trà nghe hay đấy!
+174|Được. Tôi sẽ quay lại ngay.
+175|Ôi, cô gái tốt quá! Đúng là cô gái tốt!
+176|Tôi chưa hỏi tên anh nhỉ?
+177|Tôi là Luffy.
+178|Vua Hải Tặc tương l–
+179|Này!
+180|Gì vậy?
+181|Luffy?
+182|Luffy là...
+183|Ôi không!
+184|Nhìn kỹ lại thì anh quen mặt quá! Mũ Rơm Luffy!
+185|Đúng rồi! Tôi sẽ làm Vua Hải Tặc!
+186|Toang thật rồi.
+187|Các người thật sự là băng hải tặc Mũ Rơm sao?!
+188|Đúng vậy!
+189|Đồng đội của Sanji-san?! Đừng đùa chứ!
+190|Tôi không đùa! Sanji là bạn của bọn tôi!
+191|Gì cơ? Cô biết Sanji à?
+192|Cái gì?!
+193|Cô là con gái của Big Mom sắp cưới Sanji, Pudding sao?!
+194|Ừm.
+195|Vợ chưa cưới của Sanji...
+196|Ghen tị quá! Cô ấy sẽ là cô vợ xinh đẹp!
+197|V-Vợ?!
+198|Ôi! Nhưng sao lại thế?!
+199|Các người đâu phải đồng minh của Mama! Sao qua được an ninh của tarte?!
+200|Sao các người lại đến?! Các người sẽ bị giết đấy!
+201|Các người đã ở trong lãnh thổ của Mama rồi, bà ấy là hải tặc rất đáng sợ!
+202|Nhưng tôi biết các người cũng là hải tặc đáng sợ!
+203|Không!
+204|Khoan! Bình tĩnh! Bọn tôi sẽ không làm gì thô bạo với cô!
+205|Luffy, làm gì với cô ấy đây?
+206|Đừng thô bạo, Pedro!
+207|Vậy các anh đến vì Sanji-san...
+208|Để đưa anh ấy về.
+209|Tôi biết anh ấy không đồng ý, vì Mama rất ích kỷ.
+210|Bà ấy còn dùng cả đám cưới của con cái để củng cố băng hải tặc.
+211|Bọn tôi đã bỏ cuộc chuyện tự do cưới người mình yêu.
+212|Chỉ có hai lựa chọn: bỏ cuộc hoặc bỏ trốn.
+213|Một người chị thân yêu của tôi... đã ra khơi tìm tình yêu. Tự tìm người bạn đời.
+214|Tự tìm người bạn đời.
+215|Chỉ là tò mò thôi,
+216|bọn tôi nghe nói cô là con gái thứ 35 của nhà Charlotte.
+217|Big Mom có 35 cô con gái sao?
+218|Vâng, bà có 39 con gái và 46 con trai.
+219|Bọn tôi có 85 anh chị em.
+220|Trời ơi!
+221|Wow! Nhiều anh chị em quá!
+222|Bọn tôi khác cha. Mama có 43 người chồng, nên cả nhà có 129 người.
+223|Cái gì... 129?!
+224|Vài anh chị lớn của tôi đã có con,
+225|nên nếu tính cả họ thì còn nhiều hơn.
+226|Băng hải tặc Big Mom chủ yếu gồm họ hàng ruột thịt của bà.
+227|Đúng với cái tên: Big Mom!
+228|Cô đã gặp Sanji chưa?
+229|V-V-Vâng... chỉ một lần.
+230|Dù lông mày anh ấy xoăn tít, nhưng anh ấy rất tốt bụng và ga-lăng!
+231|Dù mắt anh ấy hình trái tim,
+232|anh ấy biết rất nhiều về làm bánh kẹo và dạy tôi nhiều điều!
+233|Bọn tôi thích những thứ giống nhau, và anh ấy rất đàn ông!
+234|Tôi nghe nói chân anh ấy màu đen, nhưng anh ấy mạnh mẽ và đáng tin cậy!
+235|Đúng thế còn gì!
+236|"Chân Đen" không phải nghĩa đó.
+237|Cô hiểu anh ấy quá! Anh ấy là người tuyệt vời!
+238|Đừng nói là cô đang yêu...
+239|Cô yêu Sanji-kun sao?!
+240|Y-Y-Yêu?! Ừm, ý tôi là...
+241|Quyết định của Mama không thể thay đổi.
+242|Và nếu phải cưới ai đó, tôi muốn, ừm...
+243|Tôi cũng rất thích Sanji! Bọn mình giống nhau!
+244|Không, tôi không thể nói như vậy!
+245|Sốc!
+246|Hoàn toàn bất ngờ! Không ngờ cô gái dễ thương thế này là cô dâu!
+247|Thảo nào Sanji-san có mắt hình trái tim!
+248|Phải trói cô ấy lại!
+249|Cô ấy sẽ báo cho họ biết bọn mình ở đây.
+250|Nếu họ phát hiện khi ta còn ở một trong những đảo ngoài rìa,
+251|ta sẽ không bao giờ đến được chỗ Sanji!
+252|Sao ông lại nói thế, Pedro?
+253|Chứ làm sao khác để bịt miệng cô ấy?
+254|Đừng quên cô ấy là con gái của Big Mom.
+255|Ừ, nhưng cô ấy cũng sợ mẹ mình mà!
+256|Vì vậy cô ấy mới đi báo!
+257|Sao cậu biết?!
+258|Cậu đừng xen vào!
+259|Xin lỗi.
+260|Tôi nghĩ mình vẫn có thể buông bỏ tình cảm...
+261|dành cho Sanji-san!
+262|Người dân Totto Land...
+263|đều chúc phúc cho cuộc hôn nhân của tôi.
+264|Gia tộc Vinsmoke cũng vậy.
+265|Mama mong chờ chiếc bánh cưới.
+266|Không ai trong bọn tôi dám cãi lệnh Mama, nên tôi biết mình không thể cưới vì tình yêu,
+267|nhưng từ nhỏ tôi đã luôn mơ.
+268|Tự hỏi chồng mình sẽ như thế nào.
+269|Rồi Sanji-san xuất hiện.
+270|Tôi bất ngờ, vì anh ấy là người tuyệt vời.
+271|Nhưng cuối cùng anh ấy nói với tôi,
+272|"Tôi muốn cưới cô, nhưng tôi không thể."
+273|"Tôi muốn quay về với bạn bè."
+274|Gì cơ?! Sanji từ chối một cô gái?!
+275|Nhưng... may quá... Tôi biết anh ấy muốn tiếp tục cuộc phiêu lưu!
+276|Không chỉ mình anh ấy muốn quay về,
+277|mà các anh còn thật sự liều mạng đến đây để đưa anh ấy về.
+278|Dù đây là quyết định của Mama,
+279|tôi cũng khó mà ở bên một người không muốn cưới.
+280|Và hơn hết, tôi biết các anh rất quan tâm Sanji-san,
+281|nên tôi không thể cướp anh ấy khỏi các anh.
+282|Anh ấy cũng nói muốn quay về với bạn bè.
+283|Vậy điều duy nhất tôi làm được cho anh ấy là giúp chuyện đó.
+284|Hãy đi theo tuyến đường này.
+285|Đây là con đường duy nhất để đến đó
+286|mà Mama không phát hiện. Chỉ anh chị em bọn tôi biết thôi!
+287|Sanji ở đó à?
+288|Đi theo tuyến này là đến được Whole Cake Island.
+289|Nhưng Mama sẽ không buông tha Sanji-san.
+290|Vậy ngày mai hãy gặp nhau ở bờ biển tây nam Whole Cake Island.
+291|Tôi hứa sẽ đưa Sanji-san đến đó.
+292|Tôi sẽ hợp tác với các anh!
+293|Có ổn không? Cô không bị Big Mom phạt sao?
+294|Tôi là con ruột của bà. Đừng lo.
+295|Các anh đang ở lãnh thổ địch. Lo cho bản thân đi.
+296|Pudding...
+297|Nhưng thật sự ổn chứ?
+298|Sanji-san và các anh quan tâm nhau như vậy.
+299|Pudding-san, cô thật là...
+300|Hơi tiếc một chút, nhưng chồng tương lai kế tiếp của tôi...
+301|có thể còn tốt hơn nữa!
+302|C-Cô gái này tuyệt quá! Cô ấy thật sự là con gái của Tứ Hoàng sao?!
+303|Cảm ơn cô, Pudding!
+304|Không có gì!
+305|Cô Pudding, chúng tôi đến đón cô.
+306|Chờ một chút!
+307|Tôi đang làm việc, đợi tôi chút.
+308|Cô phải ngừng làm việc cho đến đám cưới, cô Pudding.
+309|Nhưng tôi còn khách...
+310|Cô cũng phải chuẩn bị cho đám cưới nữa.
+311|Ồ, là cô! Hàng cô đặt đã sẵn sàng.
+312|Ở đằng kia, cứ lấy đi.
+313|Ồ, kia rồi!
+314|Cậu mang được không?
+315|Cảm ơn. Bọn tôi ổn!
+316|Burger sô-cô-la?!
+317|Đừng nhìn mấy thứ khác! Đi thôi! Pekoms đang đợi!
+318|Tôi muốn burger sô-cô-la, Nami!
+319|– Mì sô-cô-la. – Gà rán sô-cô-la.
+320|Đồ ăn đủ rồi! Đi nào!
+321|Ơ?
+322|Pekoms?
+323|Tìm thấy ông ấy chưa?
+324|Không!
+325|Lạ thật.
+326|Chắc đi vệ sinh? Thử nhà vệ sinh xem?
+327|Này!
+328|Có lời nhắn trong nhà vệ sinh!
+329|"Quay lại"?
+330|– Pekoms viết à? – Ngoài ông ấy thì ai?
+331|Có ai xâm nhập sao?
+332|Pekoms bị bắt cóc rồi à?
+333|Có thể họ đã phát hiện ra bọn mình.
+334|Dù sao thì nghiêm trọng rồi.
+335|"Quay lại"
+336|"Quay lại" nghĩa là nếu không quay lại thì sẽ có chuyện xảy ra.
+337|Ừ.
+338|Được rồi, mọi người nhớ kỹ nhé!
+339|Cứ tiếp tục thôi!
+340|Gì cơ?
+341|Càng lúc càng hấp dẫn!
+342|Chết tiệt!
+343|– Xong hết chưa? – Rồi, thưa ngài.
+344|Được, đi thôi.
+345|Sao dám giết vợ tôi?
+346|Sao dám giết con tôi?
+347|Sao dám phá hủy đất nước tôi?
+348|Các người là Germa phải không?! Các người không phải con người!
+349|Tường.
+350|Không ngờ mất tới bốn tiếng.
+351|Tôi còn phải dự đám cưới của em trai.
+352|Tôi không quan tâm gia đình các ngươi.
+353|Cũng không quan tâm cuộc chiến của các ngươi.
+354|Xong rồi.
+355|Chiến tranh giữa những nước yếu thế này sao kéo dài hai năm được?
+356|– Tiền thù lao? – Tôi nhận rồi.
+357|– Cảm ơn! – Cảm ơn!
+358|Đất nước ta được cứu rồi. Chẳng lẽ ta đã nhờ ác quỷ giúp?
+359|Không, đâu có! Họ là thiên thần!
+360|Bỏ vũ khí xuống! Chiến tranh kết thúc rồi! Kết thúc rồi!
+361|Cảm ơn Germa!
+362|Germa 66! Hoan hô!
+363|Germa! Germa! Germa! Germa!
+364|Ba ngày nữa là đám cưới.
+365|Hai ngày là đủ để tới Whole Cake Island.
+366|Còn Sanji thì sao?
+367|Nó đã ở đó rồi.
+368|Ồ, tốt quá. Tôi nóng lòng gặp nó.
+369|Ừ, đúng rồi!
+370|Hai ngày nữa gặp lại.
+371|Chủ quán cà phê Caramel
+372|Chủ quán cà phê Caramel
+373|Nitro Thạch Rau Câu
+374|Nitro Thạch Rau Câu
+375|Rabiyan Tấm Thảm
+376|Rabiyan Tấm Thảm
+377|Whole Cake Island
+378|Whole Cake Island
+379|Thị trấn Chocolat, đảo Cacao
+380|Thị trấn Chocolat, đảo Cacao
+381|Đảo Broc Coli, Tân Thế Giới
+382|Đảo Broc Coli, Tân Thế Giới

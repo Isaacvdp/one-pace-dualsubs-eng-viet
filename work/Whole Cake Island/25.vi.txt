@@ -1,0 +1,428 @@
+1|Hắn ra khỏi lâu đài rồi!
+2|Tôi đã bảo rồi mà? Toi rồi!
+3|Thấy rồi nhé, lũ bọ chét!
+4|Chúng ta xong đời rồi!
+5|Germa!
+6|Nhanh lên!
+7|C-Chết tiệt... Sao tôi phải...
+8|Thôi được rồi!
+9|Dừng lại!
+10|Thiên...
+11|Feuer!
+12|Reiju!
+13|Kệ cô ta đi, Niji! Yonji!
+14|Tại cô ta yếu! Cứ hoàn thành nhiệm vụ!
+15|Ông anh tôi tệ thật!
+16|Nhưng không sao! Tôi tự lo được!
+17|Tôi sẽ bắt đầu với cô! Cô bé Germa!
+18|Cao Su Cao Su...
+19|Diable Jambe, Crosse...
+20|Súng Voi!
+21|Strike!
+22|Anh bảo là không dốc toàn lực mà!
+23|Ừ, ý tôi là cậu đó! Đây là việc của tôi!
+24|Không công bằng!
+25|Chúng nhảy ra rồi.
+26|Lũ ngốc đó nghĩ cái gì vậy?!
+27|Sao các ngươi cứ cố trốn khỏi ta?!
+28|Mũ Rơm, ngươi nhớ đã nói gì với ta không? Hồi ở Đảo Người Cá?!
+29|Ngươi bảo sẽ đá đít ta.
+30|Monkey D. Luffy...
+31|Ta sẽ nhớ cái tên đó.
+32|Đến đi! Đến Tân Thế Giới!
+33|Được. Cứ chờ đó!
+34|Tôi sẽ đá đít bà ở Tân Thế Giới...
+35|và biến Đảo Người Cá thành lãnh thổ của tôi!
+36|Nhớ bà đã nói gì với tôi trên hòn đảo này không?
+37|Bà bảo chính bà sẽ là người cười cuối cùng.
+38|Người chưa trở thành Vua Hải Tặc là bà.
+39|Chỉ vậy thôi.
+40|Tôi đến đây để gây sự với bà lần nữa!
+41|Đừng có láo chỉ vì bà là Tứ Hoàng!
+42|Tôi sẽ đem Sanji về!
+43|Chúng tôi mới là người thắng!
+44|Vậy mà giờ ngươi định chạy? Đồ hèn!
+45|H... H...
+46|Hè... n...?
+47|– Đừng nghe bà ta, Luffy! Bà ta đang khiêu khích cậu đấy! – Chỉ một đấm thôi!
+48|Này! Luffy!
+49|Ừ, tôi đã nói thế!
+50|Big Mom!
+51|Người cuối cùng làm Vua Hải Tặc...
+52|là tôi!
+53|Làm tốt lắm, Germa!
+54|Cứ bảo vệ ta như vậy!
+55|Lũ ngu!
+56|Kẻ nào dám chống lại Mama...
+57|sẽ bị ta thiêu chết!
+58|Tên đáng sợ đến rồi!
+59|Vậy là tên Oven đáng ghét đó à?
+60|Ta sẽ xử hai đứa bây trước!
+61|Phần còn lại giao cho các ngươi!
+62|Thiêu chết?
+63|Tao sẽ đánh mày trước khi mày kịp làm!
+64|Ngạo mạn quá!
+65|Dù sao cũng đưa tôi qua tường đi!
+66|Tôi chỉ muốn thế thôi!
+67|Vẫn còn nhiều tên nữa!
+68|Nếu vượt qua bức tường đó, ta thoát được!
+69|Liếm.
+70|Ta không để chúng thoát đâu.
+71|Tường Kẹo!
+72|Ôi không!
+73|Cái gì?!
+74|C-Cái quái gì thế kia?!
+75|Chắc là Perospero làm...
+76|Đó là hy vọng cuối cùng của chúng ta...
+77|Hết rồi... Ôi, tự do của tôi...
+78|Chết rồi! Nó sẽ nuốt chúng ta! Quay đầu lại!
+79|Không, cứ tiến lên!
+80|Black...
+81|Bug!
+82|Đi!
+83|Gì cơ?! Nhưng...
+84|Ối...
+85|Anh cứu bọn tôi rồi! Germa 66!
+86|Hoan hô! Anh ấy xuyên qua tường kẹo rồi! Chỉ Germa mới làm được!
+87|Đi đi! Caesar!
+88|Nhưng anh ta vẫn là đồ thua cuộc!
+89|Chết tiệt! Tôi đã đi được tới đây rồi! Tôi không muốn chết!
+90|Một khi qua được bức tường, tôi... tôi có thể...
+91|tự do!!
+92|K-Kho báu bí mật dưới biển, Hộp Tamate, ngay đằng kia...
+93|Không ngờ nó lại kẹt ngay chỗ đó, nen...
+94|Hết cách rồi. Phải nhảy xuống thôi...
+95|Ngươi định làm gì với Hộp Tamate, Du Feld?
+96|C-Cô là...
+97|Stussy! Cô theo dõi tôi sao?
+98|Ui da, ui da...
+99|Nhưng giờ tôi thấy được bên trong có gì rồi...
+100|Kho báu bí mật dưới biển... Xem bên trong có gì nào!
+101|Súng Ngón Bay...
+102|Hộp Tamate giờ thuộc về Chính phủ Thế giới.
+103|Trước đây: Nữ hoàng Khu Giải Trí
+104|Đặc vụ tình báo CP-AIGIS 0 Stussy
+105|Đồ ngốc.
+106|Dĩ nhiên ông vẫn sẽ gánh tội thay.
+107|Anh viết giúp tôi câu chuyện đó được không...?
+108|Morgans.
+109|Cô ta biết mình ở đây!
+110|Được thôi, nhưng ít nhất cho tôi biết trước nội dung được không?
+111|Được, cứ tự nhiên. Ông biết chơi trò này thật.
+112|Thảo nào ông là nhà tạo dư luận giỏi như vậy.
+113|Tôi là nhà báo! Tôi sẽ kiện cô!
+114|– Cái gì?! – Không!
+115|Khi nào xử xong Kaidou...
+116|tôi sẽ quay lại tìm bà!
+117|Big Mom!
+118|Chuyện này chưa là gì!
+119|Luffy...
+120|Cậu bảo sẽ đấm bà ta một cái cơ mà!
+121|Kaidou?
+122|Các ngươi không bao giờ thắng được thứ đó...
+123|Và quan trọng hơn...
+124|Các ngươi mơ à, nghĩ có thể sống sót rời khỏi lãnh thổ của ta?!
+125|Big Mom!
+126|Giấc mơ của chúng ta đã kết thúc...
+127|sau giấc mơ chỉ kéo dài 66 ngày...
+128|tổ tiên chúng ta thành những hồn ma lang thang không thể đặt chân lên quê hương!
+129|Và giờ ta đã làm nhục ký ức của họ!
+130|Judge!
+131|Không ngờ ta lại giao phó...
+132|linh hồn của ba thế kỷ khao khát cho kẻ như ngươi...
+133|Ta ghê tởm chính mình vì điều đó!
+134|Không có tác dụng!
+135|Đừng lo. Ngươi sẽ chết...
+136|rồi ta sẽ dùng công nghệ khoa học của ngươi...
+137|để đem hòa bình đến thế giới!
+138|Thunderbolt!
+139|Father-sama!
+140|Ông ấy chết rồi sao?!
+141|Cha!
+142|Này, khoan, lính canh!
+143|Các người bỏ rơi chúng tôi sao...
+144|Katakuri!
+145|Cậu suýt thành công rồi.
+146|Chỉ thiếu một chút nữa thôi.
+147|Sparking...
+148|Figure!
+149|Đừng lo. Chúng tôi sẽ làm phần của mình! Cứ đi đi!
+150|Khỏi cần nói!
+151|Ngươi tưởng bắt được ta sơ hở sao?
+152|Ta thấy ngươi không coi trọng mạng sống mình.
+153|Đe dọa ta vô ích thôi.
+154|Tiếc là... ta không biết sợ.
+155|Đừng để chúng thoát! Bắn, bắn đi!
+156|Đi đi! Anh làm được mà, rero!
+157|Đúng rồi! Đi!
+158|Anh làm được, Caesar!
+159|Anh vẫn là đồ thua cuộc đấy!
+160|Hả? Cậu vừa nói...
+161|Coi chừng, đồ...
+162|Gì vậy?
+163|– Này! Tránh đường tao! – Này! Tránh đường tao!
+164|– Hả? Mày là ai?! – Hả? Mày là ai?!
+165|– Mày là tao à?! – Mày là tao à?!
+166|– Không, mày không thể là tao! – Không, mày không thể là tao!
+167|Tao là Caesar Clown!
+168|Brûlée?!
+169|Ta không để các ngươi trốn đâu!
+170|Các người đã làm nhiều chuyện tồi tệ với tôi...
+171|Giờ cuối cùng tôi cũng thanh toán được!
+172|Không ổn rồi, Caesar!
+173|Tất cả bị hạ hết rồi sao?
+174|Ôi không...
+175|Hết thật rồi...
+176|Không...
+177|Germa!
+178|Nếu không làm gì, mọi người sẽ chết.
+179|Tôi không muốn vậy!
+180|Vậy thì...
+181|Chỉ còn một lựa chọn.
+182|Thay vì ngồi chờ chết...
+183|Chúng ta sẽ chiến đấu, đúng không?
+184|– Tôi cũng đi! – Tôi nữa!
+185|Bọn tôi dĩ nhiên cũng đi!
+186|Hết cách rồi...
+187|Hộp Tamate!
+188|Được rồi, bắt đầu nào...
+189|cuộc hành quyết.
+190|Chuyện gì vậy?
+191|Một lúc trước...
+192|Vương quốc Ryugu, Đảo Người Cá
+193|Luffy và mọi người đã cứu Vương quốc Ryugu khỏi băng Hải tặc Người Cá Mới
+194|và được Vua Neptune tặng Hộp Tamate làm phần thưởng.
+195|Nhưng...
+196|Thưa Bệ hạ!
+197|Về toàn bộ kho báu ngài tặng cho Luffy-kun và mọi người nếu họ tìm được...
+198|chúng ta có thể xin lại riêng Hộp Tamate được không?
+199|Các ngươi đang hỏi gì vậy?
+200|Ta không bao giờ đòi lại món quà đã tặng!
+201|Nhưng nếu bên trong không có kho báu...
+202|mà là một quả bom thì sao?
+203|Cái gì?
+204|Nó sẽ nổ nếu họ mở ra sao?!
+205|Phải xin họ trả lại ngay lập tức.
+206|Ngài đã đưa toàn bộ kho báu... cho Big Mom sao?!
+207|Biết đâu nó sẽ không nổ, Hữu Đại Thần.
+208|Bệ hạ, nghĩ tích cực là tốt.
+209|Đảo Whole Cake
+210|Giờ quay lại hiện tại.
+211|Bên trong Lâu đài Whole Cake
+212|Từ trần tầng hai East Baum Cake,
+213|một vết nứt khổng lồ chạy qua Phòng họp Red-bean Baum Cake!
+214|Không chỉ nứt! Nó nứt toác hoàn toàn!
+215|Đây là tầng ba Red-bean Baum Cake! Chuyện gì đang xảy ra?!
+216|Căn phòng bắt đầu nghiêng!
+217|Không phải động đất!
+218|Lúc nãy tôi nghe một tiếng nổ khủng khiếp!
+219|– Chúng ta bị tấn công sao?! – Nó cứ nghiêng mãi!
+220|Chuyện gì vậy?
+221|K-Không thể nào...
+222|Nó đang đổ, bon...
+223|Lâu đài Whole Cake!
+224|Nó đang đổ, bon!
+225|Ò ó o o!
+226|Sweet City, thủ đô
+227|Kẻ địch bắn pháo à?
+228|Đây là thành trì của một Tứ Hoàng! Sao ai đó xâm nhập được chỗ này?!
+229|Vậy đúng là có vụ nổ!
+230|Cái gì vừa nổ vậy trời?!
+231|Làm ơn, dừng lại đi!
+232|Chúng ta chết hết mất!
+233|Có liên quan đến đám cưới trên sân thượng không?!
+234|Chắc đây là đùa!
+235|Nhưng đây là tin lớn!
+236|Chẳng lẽ... đúng như tôi nghĩ?
+237|Chắc chắn rồi!
+238|Thời điểm quá chuẩn! Còn thứ gì khác nổ được như thế?
+239|Nhưng... sao lại là Hộp Tamate?!
+240|Mọi người, bám chắc vào!
+241|Mũ Rơm và những người kia đâu rồi?
+242|Chuyện gì vừa xảy ra?!
+243|Tôi không biết...
+244|Dù sao cũng câu thêm được thời gian! Chúng sắp giết hết bọn mình rồi!
+245|Chuyện gì thế?! Ở đây đang xảy ra chuyện gì?!
+246|Có thứ gì đó vừa cứu chúng ta...
+247|Tôi nghĩ nói vậy còn hơi sớm...
+248|để chắc chắn!
+249|Khẩn cấp, Mama!
+250|Một vụ nổ bất ngờ làm Lâu đài Whole Cake sụp đổ!
+251|Bên ngoài có chuyện rồi!
+252|Chúng ta không cảm nhận được gì từ bên trong cơ thể Bege...
+253|Chuyện gì đang xảy ra?
+254|Tôi không rõ. Nhưng...
+255|bên ngoài đang hoảng loạn dữ dội.
+256|Chẳng lẽ...
+257|chính Lâu đài Whole Cake đang rung chuyển?
+258|Đùa kiểu gì vậy?!
+259|Tôi đang mơ sao?!
+260|Nhìn kìa, Caesar!
+261|Hỗn loạn hết cả....
+262|Sao lại ra nông nỗi này?!
+263|Ai làm, và họ đã làm gì?!
+264|Các anh em...
+265|Các chị em...
+266|Ôi, gia đình tôi!
+267|Tôi không dừng lại được!
+268|Mama!
+269|Mama!!
+270|Tuyệt vời!
+271|Tôi không biết ai làm, nhưng phải cảm ơn họ!
+272|Chúng ta còn không phải ám sát bà ta!
+273|Giờ thì,
+274|băng hải tặc của Tứ Hoàng Big Mom đã...
+275|bị tiêu diệt!
+276|Không có đường thoát!
+277|Lâu đài to hơn cả thành phố... Chúng ta không thoát được!
+278|Không ai chạy đủ nhanh... để kịp thoát!
+279|Anh trai!
+280|Bình tĩnh nào.
+281|Tin lớn! Đây là tin lớn!
+282|Ông không lo cho mạng mình sao?
+283|À phải! Tôi không biết bay!
+284|Nhưng...
+285|nếu đây là dấu chấm hết cho băng Big Mom,
+286|thì chắc chắn là tin lớn.
+287|Này!
+288|Sanji-kun!
+289|Lối này!
+290|Làm ơn nhanh lên!
+291|Sanji! Luffy!
+292|Hai người còn sống!
+293|– Xin lỗi để mọi người chờ! – Các cậu liều quá!
+294|Thật là!
+295|Tôi nhẹ cả người.
+296|Đi đi, Caesar! Bay xa hết mức!
+297|Khỏi cần nói!
+298|Chạy đi! Chạy đi! Chạy đi!
+299|Chúng đi rồi.
+300|Hoàn thành nhiệm vụ!
+301|Rút lui!
+302|Rõ.
+303|Này, anh ổn chứ?
+304|Ôi không...
+305|Đến rồi!
+306|Veränderung...
+307|Biến hình
+308|Gourmet!
+309|Cái gì?!
+310|Mama!
+311|Mama!
+312|Suýt nữa thì...
+313|Kem tươi?
+314|Chúng ta sắp bị cuốn đi!
+315|– Đây là... – Bánh bông lan?
+316|Chuyện gì vậy?
+317|Lâu đài Whole Cake biến thành một chiếc bánh thật...
+318|Nhờ vậy chúng ta được cứu... Chắc là bếp trưởng làm.
+319|Tôi tưởng mình chết rồi!
+320|Mẹ ổn chứ, Mama?
+321|Bánh...
+322|Lâu đài của ta biến thành bánh...
+323|Món ngọt tạo ra từ năng lực của Streusen...
+324|giúp không bị đói, nhưng ăn dở tệ.
+325|Mama!
+326|Mẹ không sao là con mừng rồi.
+327|Chết tiệt... Bánh cưới của ta...
+328|Bánh...
+329|Anh ổn chứ?
+330|Tôi cần giúp đỡ!
+331|Được rồi! Anh không sao rồi.
+332|Tôi tưởng mình chết rồi.
+333|Tôi sắp bị bánh đè bẹp!
+334|Tôi nghe có tiếng ở đằng kia!
+335|Mau cứu người đó!
+336|Đ-Đó là...
+337|Đám cưới của Pudding-sama ra sao rồi?
+338|Mont d'Or-sama! Chuyện gì đã xảy ra?!
+339|Chúng tôi tưởng thành phố sẽ bị đè bẹp!
+340|– Im đi! – Gì cơ?!
+341|Chưa xong đâu!
+342|Những kẻ định ám sát Mama đã trốn thoát!
+343|Chắc chúng vẫn còn gần đây!
+344|Liên lạc mọi căn cứ Tarte ở Totto Land!
+345|Đừng để một tên nào trong...
+346|băng Mũ Rơm hay băng Fire Tank thoát!
+347|Phía tây bắc Đảo Whole Cake
+348|Chắc xa thế này là đủ rồi.
+349|Xuống đi!
+350|Cảm ơn anh, Bege! Chúng tôi tưởng toi rồi...
+351|Tao không cần lời cảm ơn của chúng mày!
+352|Làm việc tốt khiến tao buồn nôn.
+353|Chính tao chở chúng mày đấy! Lũ khốn!
+354|Im đi, đồ thua cuộc!
+355|Anh nhớ mình đã làm gì với lũ trẻ ở Punk Hazard không?
+356|Bọn tôi không cần anh nữa, nên... đi chết đi.
+357|Này! Sao dám nói chuyện với thiên tài như vậy!
+358|Tao có thể biến chỗ này thành bẫy khí độc nếu muốn!
+359|Đây. Trả tim cho anh.
+360|Đó là của tôi... của tôi... của tôi...
+361|Anh cũng được tự do rồi.
+362|Lẽ ra phải bóp nát nó đi.
+363|Không!
+364|Thôi đi!
+365|Lẽ ra phải bóp nát nó đi.
+366|Tim tôi...
+367|Tim tôi về rồi!
+368|Chúng ta sẽ không bao giờ gặp lại!
+369|Tạm biệt, lũ ngốc và cô nhóc ngu ngốc!
+370|– Sao nó sụp vậy?
+371|– Này!
+372|– Ừ, đột ngột thật.
+373|– Chuyện gì thế?
+374|– Tạm biệt!
+375|– Này!
+376|– Tôi không biết.
+377|Này, mọi người!
+378|Cha!
+379|Theo những gì tôi thấy, hình như Big Mom...
+380|và cả gia đình bà ta đều sống sót, rero!
+381|Lâu đài sụp đã biến thành một chiếc bánh thật!
+382|Chắc là Streusen làm.
+383|Với tôi hắn luôn là một bí ẩn.
+384|Chắc hắn không chỉ là bếp trưởng.
+385|Có lẽ hắn đánh nhau cũng khá giỏi.
+386|Vậy là băng Big Mom chưa bị diệt hẳn...
+387|chúng may mắn thật.
+388|Nhưng không sao. Lâu đài đã sập.
+389|Thế cũng đáng mừng.
+390|Tạm biệt, Mũ Rơm!
+391|Vậy giờ chỉ còn việc trốn đi!
+392|Kế hoạch vẫn thế... Chỉ là ngay từ đầu ta đã đụng phải trở ngại lớn nhất!
+393|Được rồi. Vậy chạy thôi.
+394|Đến đây là chúng ta chia tay, Mũ Rơm.
+395|Gì? Vậy à?
+396|Chúng ta không ám sát được Big Mom...
+397|nên không còn lý do gì để tiếp tục hợp tác.
+398|Anh nói đúng. Các anh cũng nên nhanh lên.
+399|Dù đi tàu cũng mất trọn một ngày mới ra khỏi lãnh thổ Big Mom.
+400|Đúng vậy!
+401|Chúc may mắn!
+402|Xe tăng Lâu đài!
+403|Băng Mũ Rơm đi hướng đó. ->
+404|"Băng Mũ Rơm đi hướng đó"?
+405|Có thật sự cần cái biển này không?!
+406|Im đi! Giờ ai lo thân nấy!
+407|Cha! Ít nhất để con chào tạm biệt, rero!
+408|Ừ, Nami giờ là bạn tôi!
+409|Bọn tao đến đây không phải để kết bạn! Đến lúc bắt đầu cuộc đào thoát thật sự!
+410|Được, chúng tôi sẽ đi lấy Shark Submerge...
+411|rồi đem về thẳng chỗ Sunny!
+412|Ừ. Cẩn thận nhé!
+413|Chúng tôi sẽ nhanh chóng quay lại bờ biển nơi đã cập bến!
+414|Lập hai đội đi, Daifuku.
+415|Được.
+416|Chúng ta chia hai nhóm để truy đuổi chúng!
+417|Một nhóm đem đầu Mũ Rơm về! Nhóm kia đem đầu Bege về!
+418|Mama.
+419|Đừng lo. Bọn con sẽ không để tên nào thoát...
+420|Bánh...
+421|Nguyên liệu đã được chọn lựa cẩn thận...
+422|Nó sẽ là chiếc bánh cưới tuyệt nhất từ trước đến nay...
+423|Ta đã mong chờ nó...
+424|Bánh cưới...
+425|Mama?
+426|Bánh cưới của ta đâu?!
+427|Không phải lúc này...
+428|Mang nó đến cho ta ngay!

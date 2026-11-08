@@ -1,0 +1,369 @@
+1|Đi hay sống?
+2|Sống.
+3|Đi hay sống?
+4|Sống.
+5|Đi hay sống?
+6|Chuyện gì vậy?!
+7|Chúng nhân bản rồi sủa như thú!
+8|Các người bị sao vậy?!
+9|Có ai là thật không?!
+10|Này, Sanji!
+11|Pudding! Chopper!
+12|Carrot!
+13|Nami!
+14|Cởi trói cho tôi!
+15|Cô ấy nói được như người!
+16|Tôi mới là thật!
+17|Nghe này! Tôi đang tìm các cậu!
+18|Sao cậu tự nhiên tóm tôi như vậy?!
+19|Tôi... tôi thật sự... xin lỗi...
+20|Nhưng chuyện này điên thật. Chuyện gì đang xảy ra vậy?
+21|Người này trông đúng là giống tôi.
+22|Sẽ dễ thôi nếu những người thật đều ở trong đám này.
+23|Thì chính các cậu là người nhân bản mà!
+24|Bọn tôi không nhân bản được! Ý tôi là, có nhân bản, nhưng...
+25|Này, ông kia!
+26|Gì?!
+27|Hả?!
+28|Ông biết chuyện gì đã xảy ra, đúng không?
+29|Ông ở đây suốt, cả khi bọn tôi bị người phụ nữ đó tấn công!
+30|Tôi chẳng thấy gì cả!
+31|Này, chuyện gì đã xảy ra?
+32|Tôi bị cậu tấn công đấy, Luffy!
+33|Tôi á?!
+34|Nói đúng ra không phải cậu. Mà là một bản giả, bọn tôi cố chạy trốn cùng nó!
+35|Hả? Ý cậu là sao?
+36|Ừm...
+37|Rồi "Luffy" đó đột nhiên biến thành một người phụ nữ khổng lồ... và tấn công bọn tôi...
+38|Buông tôi ra!
+39|Ngươi là ai?!
+40|Ta là Brûlée!
+41|Brûlée?
+42|Một chú thỏ dễ thương và một cô gái xinh đẹp... Thật tuyệt...
+43|Nhìn những gương mặt xinh đẹp này,
+44|ta chỉ muốn cào nát chúng!
+45|Nami!
+46|Không!
+47|L-Luffy đâu rồi?!
+48|"Đâu" ư.
+49|Chắc đang lang thang, lạc trong rừng.
+50|Clima-Tact!
+51|Nami, cậu không sao chứ?!
+52|Ừ! Suýt chút nữa!
+53|Cảm ơn Usopp!
+54|Con nhóc láo xược...
+55|Carrot!
+56|Cứ để tôi!
+57|Eleclaw!
+58|Đến lượt tôi!
+59|Reflection!
+60|Carrot!
+61|Cậu không sao chứ?!
+62|Cú đấm của Carrot chui ra từ tấm gương!
+63|Ta là gương!
+64|Ta ăn Trái Gương và trở thành người gương!
+65|Như gương phản chiếu ánh sáng, nếu ngươi đấm vào gương của ta,
+66|nó cũng phản lại đòn đó!
+67|Cẩn thận, Carrot!
+68|Tao sẽ đập nát cái gương ngu ngốc của mày!
+69|Thế giới Gương!
+70|Carrot!
+71|Cô đã làm gì cô ấy?!
+72|Đó là đứa thứ nhất!
+73|Tôi không ra được! Cho tôi ra!
+74|Cô đã làm gì?! Thả Carrot ra!
+75|Tránh xa ra, Nami!
+76|Ta không làm vậy được.
+77|Á! Nami!
+78|Chopper!
+79|Cứu tôi với!
+80|Mama đã biết các ngươi ở đây rồi!
+81|Cái gì?!
+82|Các ngươi tưởng không ai biết sao?! Ngu ngốc!
+83|Giờ tất cả bọn ta sẽ truy đuổi các ngươi. Mama ra lệnh vậy!
+84|Cái cây kia...
+85|Và bọn họ...
+86|Lũ ngốc đó...
+87|Và hắn nữa!
+88|Mama đã bảo tất cả bọn ta rằng...
+89|"cứ để băng Mũ Rơm tiếp tục đi đã. Chỉ đừng để chúng tìm thấy Sanji.
+90|Cho chúng hối hận vì dám đụng đến ta!"
+91|Mama biết hết mọi chuyện!
+92|Được rồi, các homie! Đừng để chúng thoát!
+93|Các ngươi không thoát được đâu!
+94|Không!
+95|Chopper!
+96|Nami, chạy đi!
+97|Nhiều quá! Nếu cả ba bị bắt thì tiêu đời!
+98|Họ là thành viên băng của một Hoàng! Bọn mình đã coi thường họ!
+99|Đi tìm Luffy đi! Tôi sẽ cố hết sức ở đây!
+100|Được! Tôi sẽ quay lại!
+101|Rumble!
+102|Monster Point!
+103|Nhìn kìa! Cậu vốn đã thú vị rồi, mà còn làm được cả chuyện này sao?!
+104|Mama sẽ vui lắm!
+105|Bà không chỉ tìm kiếm mọi chủng tộc, mà còn thu thập đủ loại sinh vật kỳ lạ.
+106|Giờ thì, bắt chúng!
+107|Đứng lại, nhóc con!
+108|Biến đi!
+109|Luffy! Cậu ở đâu?!
+110|Rồi tôi chạy khắp nơi,
+111|tìm cậu cho đến khi trời tối.
+112|Tôi hiểu rồi! Mừng là cậu đã tìm thấy tôi!
+113|Được rồi!
+114|Đi cứu Chopper và Carrot ngay thôi! Họ ở đâu?!
+115|Ngay đây.
+116|Hả?
+117|Tất cả chuyện đó xảy ra ngay tại đây.
+118|Nhưng giờ họ biến mất hết rồi. Nên tôi mới hỏi ông này!
+119|Ông xem suốt từ đầu! Chopper đâu? Còn Carrot đâu?!
+120|Bà Brûlée đó và quái vật trong rừng chẳng đụng đến ông chút nào!
+121|Nghĩa là ông là một trong bọn chúng!
+122|Ừm... Một trong bọn chúng? Ờ, bọn tôi không phải kẻ thù...
+123|Ồ! Nếu muốn biết thì mang cho tôi ít nước táo từ bên trái kia–
+124|Không có thời gian cho chuyện đó!
+125|Nếu ông nói điều gì hữu ích thì được, bọn tôi sẽ mang cho ông!
+126|Thật sao?!
+127|Ừ, ông nhắc mãi nên tôi cũng muốn thử.
+128|Nhân tiện,
+129|Hả?
+130|trông cậu khá mạnh, nhưng...
+131|cậu có thật sự thế không?
+132|V-Vâng, tôi mạnh! Sao điều đó quan trọng?
+133|Tôi hiểu. Vẻ bề ngoài không phải tất cả nhỉ.
+134|Anh tuần lộc đó mạnh đến bất ngờ,
+135|nhưng cây rừng vẫn tấn công anh ta không chút do dự.
+136|Một khi nhận lệnh, chúng không dừng
+137|cho đến khi hoàn thành!
+138|Thật sao? Vậy sao chúng ngừng tấn công tôi?
+139|Tôi đánh bại cả đám thì chúng cũng để tôi yên!
+140|Mà này, sao chúng sống được vậy?
+141|Cứ sáu tháng, mỗi cư dân của Totto Land
+142|phải nộp cho vương quốc linh hồn của một tháng,
+143|để đổi lấy sự an toàn.
+144|Linh hồn?
+145|Ừ, về cơ bản là tuổi thọ của họ.
+146|Hả?!
+147|Vậy người dân mất hai tháng tuổi thọ mỗi năm...
+148|và một năm tuổi thọ cho mỗi sáu...
+149|Sao có thể như vậy?
+150|Linlin, ý tôi là Big Mom, đã ăn Trái Linh Hồn.
+151|Bà ta thao túng được linh hồn người khác.
+152|Bằng sức mạnh đó, bà lấy tuổi thọ của người dân.
+153|Lúc đó, người dân phải chọn ở lại Totto Land hay rời đi.
+154|Và bằng cách rải những linh hồn thu được khắp đất nước,
+155|đủ thứ vật có được sự sống.
+156|Chúng tôi gọi những thứ được sống đó là "homie".
+157|Việc thu thập và phân phát linh hồn
+158|do các hóa thân của Linlin... ừm, của Big Mom, được tạo từ chính linh hồn bà, phụ trách.
+159|Đó là chuyện xảy ra ở Totto Land.
+160|Khi bọn tôi mới đến, có nhiều thứ kỳ lạ đang sống trong thị trấn sô-cô-la.
+161|Vì vậy mà con cá sấu nói được?! Và con thỏ giống người?!
+162|Ừ, đúng vậy. Động vật cũng có thể được nhân cách hóa.
+163|Khả năng đáng kinh ngạc!
+164|Vậy còn mấy người này?
+165|Họ là chuyện khác.
+166|Brûlée dùng năng lực biến động vật bình thường thành người.
+167|À, nhân tiện, linh hồn không thể bỏ vào người khác hay xác chết.
+168|Sao ông không nói sớm?! Ông xem tôi suốt mà!
+169|Vì tôi không muốn dính vào!
+170|Nếu không muốn dính vào thì sao ông lại bị chôn ở đây?!
+171|Sao?! Ông là ai?!
+172|Nói đi! Tôi sẽ mang nước cho ông!
+173|Đ-Được rồi! Tôi nói! Chỉ cần xuống khỏi người tôi! Dừng lại!
+174|Ngày xưa... rất lâu rồi, tôi là... của Big Mom... ý tôi là, của hải tặc Charlotte Linlin...
+175|của Linlin...
+176|Chồng của Linlin!
+177|C... Cái gì?!
+178|T-Tại sao một trong Tam Tướng Ngọt lại ở đây?!
+179|Mũ Rơm!
+180|Ta sẽ...
+181|kết liễu...
+182|mạng ngươi!
+183|Chồng cũ...
+184|...của Big Mom?!
+185|Ừ.
+186|Bà ấy và tôi có hai cô con gái, rồi bà ấy đuổi tôi đi.
+187|Không phải ai đó đang truy lùng tôi đâu...
+188|Chỉ là họ chẳng để ý đến tôi!
+189|C-Cái gì?!
+190|Ai vậy?
+191|T-Thưa ngài, ngài đến đây có việc gì?
+192|Tôi không được phép ở đây sao?
+193|Không! Tất nhiên là được.
+194|Này!
+195|Ái, ái, ái, ái, ái!
+196|Gì vậy?!
+197|Ái, ái, ái, ái, ái!
+198|– Người ông ấy đang chui ra! – Lùi lại, Nami!
+199|Không!
+200|Bọn tôi tưởng ông ấy là người khổng lồ!
+201|Ông bị sao vậy? Ai lại đi cung cấp thông tin cho kẻ thù như thế?!
+202|K-Khoan, Cracker-kun!
+203|Tôi muốn gặp con gái tôi, Chiffon, dù chỉ một lát!
+204|Tôi nghe nói nó đã kết hôn! Tôi muốn chúc mừng nó!
+205|Vì vậy tôi cần cậu cho tôi nói chuyện với Linlin!
+206|Với lại, tôi nghe Lola đã bỏ trốn!
+207|Cả hai đều là con gái quý giá của tôi!
+208|Lola?
+209|Bỏ trốn?
+210|Một trong những người chị yêu quý của tôi
+211|đã ra khơi để tìm tình yêu.
+212|Để tìm một mối nhân duyên cho riêng mình.
+213|Hm?
+214|Lola... bỏ nhà đi sao?
+215|Cracker-kun, buông tôi ra! Tôi chỉ muốn gặp Lola... và Chiffon...
+216|Tôi chỉ muốn gặp con gái tôi!
+217|Lola... Lola đó... Chẳng lẽ?
+218|Lola, các cậu đã đến Tân Thế Giới sao?!
+219|Bọn tôi không đến đó! Bọn tôi sinh ra ở Tân Thế Giới!
+220|Mama cũng là hải tặc. À...
+221|đúng rồi...
+222|Đây là Vivre Card của Mama. Cho cậu đấy.
+223|Giấy sao?
+224|Wow! May quá! Mama của thuyền trưởng Lola là một hải tặc vĩ đại!
+225|Giữ gìn cẩn thận! Chắc chắn một ngày nào đó nó sẽ có ích!
+226|Mọi chuyện bắt đầu sáng tỏ rồi...
+227|Hả?
+228|Vậy thì, liệu có phải... mama của Lola là...
+229|Big Mom?!
+230|Và người đàn ông này là...
+231|Cha của Lola?!
+232|Gì?
+233|Chúng quay lại rồi! Là con thỏ và con sếu!
+234|Chúng... đang bay!
+235|Dừng lại! Randolph!
+236|Đó là haki sao?! Không, không hẳn...
+237|Vậy là gì?!
+238|Chúng hét lên...
+239|rồi héo rũ vì sợ hãi?!
+240|Ngươi chắc nghĩ mình ghê gớm lắm... nếu nghĩ mình cản được đường ta.
+241|Randolph!
+242|Xin lỗi. Đó là ý của anh ta.
+243|Nói dối! Là ý của anh!
+244|Chúng nói được!
+245|Chúng tôi rất xin lỗi.
+246|Anh ta là người đặc biệt à?
+247|Trông mạnh thật, chắc chắn là vậy.
+248|Mama luôn có sẵn nước đi tiếp theo.
+249|Từ khi Mũ Rơm Luffy đánh bại Doflamingo,
+250|bà biết Brûlée sẽ gặp khó nên đã cử tôi đến.
+251|Em không thể để anh nói vậy được, Anh cả!
+252|Ôi! Quái vật cây!
+253|Ồ, người phụ nữ đó!
+254|Nếu bà ra lệnh cho tôi,
+255|tôi đã giết bọn chúng ngay lập tức!
+256|Đúng vậy!
+257|Chúng tôi, nhóm Rừng Quyến Rũ,
+258|chưa từng để bất kỳ mục tiêu nào sống sót rời đi!
+259|Ồ! Không chỉ có Bộ trưởng Cracker và Phu nhân Brûlée...
+260|Chủ nhân Kingbaum cũng ở đây!
+261|Không ngờ cả ba đều có mặt cùng lúc!
+262|Hay đấy, nhưng ta không được lãng phí thời gian.
+263|Đến trưa mai,
+264|các anh chị em nhà Vinsmoke sẽ đến Lâu đài Whole Cake.
+265|Kết nối gia đình với nhà Vinsmoke là điều Mama mong muốn từ lâu.
+266|Chúng ta sẽ có quân đội hùng mạnh và công nghệ tiên tiến của Germa 66.
+267|Tôi biết rồi!
+268|Chúng biến thành động vật rồi!
+269|Và... sao cái cành đó biết nói?!
+270|Tôi không phải cành cây!
+271|Nhìn này, Mũ Rơm!
+272|Ồ, Luffy!
+273|Luffy, Nami! Cứu với!
+274|Cái gì?!
+275|Chopper cũng bị bắt rồi sao?!
+276|Các cậu bị sao vậy?! Các cậu đang làm gì trong đó?!
+277|Bà ta nhốt bọn tôi trong gương! Bà ta có năng lực gương! Cẩn thận!
+278|Thế nào, Anh Cracker?!
+279|Em đã tóm được lũ ngốc này...
+280|bằng gáy của chúng rồi!
+281|Này, Chopper! Carrot! Các cậu ổn chứ?!
+282|Bọn tôi ổn!
+283|Bọn tôi không bị thương chút nào!
+284|Chỉ có gương bị vỡ thôi. Bọn tôi an toàn trong chiều không gian này!
+285|Vậy là các cậu ổn!
+286|Tôi không hiểu cậu nói gì, nhưng vậy là tốt.
+287|Luffy! Nghe này...
+288|Kệ. Bắt đầu với cái miệng lắm điều này trước.
+289|C-Các người định làm gì tôi?!
+290|Mama nói ta được phép giết ông.
+291|Cái gì?!
+292|H-Hãy nghĩ lại đi!
+293|Tôi là cha dượng của cậu, Cracker-kun!
+294|Ông từng là vậy! Giờ thì không!
+295|Mama coi 43 người chồng cũ như người dưng,
+296|không liên quan huyết thống với bọn ta.
+297|Sao cậu dám!
+298|Nhưng tôi chắc chắn có quan hệ huyết thống với các con gái tôi!
+299|Đủ rồi!
+300|Tôi chỉ muốn chúc mừng con gái tôi!
+301|Đây là sự đồng cảm sao?
+302|Thấy ai đó hàng chục lần thì cũng thành quen!
+303|C-Cảm ơn!
+304|Cảm ơn!
+305|Không ổn rồi!
+306|Bộ trưởng Cracker sắp đánh nhau ở đây!
+307|Các homie! Bắt hai tên đó để kết thúc chuyện này!
+308|Ở đây không an toàn! Chạy thôi!
+309|Nhanh lên!
+310|Bọn tôi sẽ lo cho họ!
+311|Đừng để chúng thoát!
+312|Này, ông tên gì?!
+313|Tôi là Pound.
+314|Lúc nãy ông có nhắc đến Lola phải không?
+315|Ừ.
+316|Đợi chút...
+317|Ừm...
+318|Tìm thấy rồi!
+319|Đó là gì?
+320|Là Vivre Card của mẹ bạn tôi, Lola.
+321|Nhưng tôi không biết có phải của Big Mom không...
+322|Các người làm gì vậy?! Có chuyện gì thế, các ngươi?!
+323|Sao vậy, Kingbaum?! Cả ngươi cũng dừng sao?!
+324|Bọn tôi không làm được, Brûlée!
+325|Gì?
+326|Bọn homie chúng tôi không thể chống lại bà ấy!
+327|Hả? Tại sao không?!
+328|Tôi cảm nhận được linh hồn mạnh mẽ của Mama!
+329|Hả?!
+330|Gì?
+331|Không thể nào...! Đây thật sự là... Vivre Card của Big Mom?!
+332|Luffy! Không thể nào.
+333|Cậu ổn chứ?
+334|C-Cracker-kun!
+335|Hắn có hơn hai cánh tay!
+336|Chết tiệt!
+337|Thằng khốn đó!
+338|Ta là Hiệp sĩ Bánh Quy Cracker, một trong Tam Tướng Ngọt.
+339|Còn được gọi là...
+340|"Ngàn Tay" Cracker.
+341|Nếu ta vỗ tay một lần, nó thành hai.
+342|Nếu ta làm lại...
+343|nó thành ba.
+344|Cái gì?!
+345|Chúng sẽ cứ thế nhân lên.
+346|Chân hắn cũng nhân lên rồi.
+347|Đừng mơ đánh bại ta.
+348|Ta sẽ không để ngươi phá tiệc trà của Mama!
+349|Ngươi có thêm tay chân. Thì sao chứ?!
+350|Gear Second!
+351|Gomu Gomu no...
+352|Jet...
+353|Bullet!
+354|Gomu Gomu no...
+355|Hawk Whip!
+356|Luffy! Không! Đừng biến nó thành trận đánh nghiêm túc! Đó không phải mục tiêu của chúng ta!
+357|Chúng ta phải thoát khỏi đây để đưa Sanji-kun về!
+358|Trận nào tôi cũng đánh nghiêm túc...
+359|Tôi không biết cách nào khác!
+360|Thị trấn Chocolat Totto Land
+361|Thị trấn Chocolat Totto Land
+362|Rừng Quyến Rũ
+363|Rừng Quyến Rũ
+364|Charlotte Cracker (Con trai thứ 10) Một trong Tam Tướng Ngọt của băng Big Mom và là Bộ trưởng Bánh Quy
+365|Charlotte Cracker (Con trai thứ 10) Một trong Tam Tướng Ngọt của băng Big Mom và là Bộ trưởng Bánh Quy
+366|Kingbaum Chủ nhân Rừng Quyến Rũ
+367|Kingbaum Chủ nhân Rừng Quyến Rũ
+368|"Ngàn Tay" Cracker Một trong Tam Tướng Ngọt của băng Big Mom Tiền truy nã: 860 triệu Beri
+369|"Ngàn Tay" Cracker Một trong Tam Tướng Ngọt của băng Big Mom Tiền truy nã: 860 triệu Beri

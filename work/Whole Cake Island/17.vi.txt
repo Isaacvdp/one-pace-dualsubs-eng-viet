@@ -1,0 +1,353 @@
+1|Có chuyện gì vậy?!
+2|Tôi vừa nghe tiếng động lớn từ phía này!
+3|Cái gì thế?!
+4|Là cái này sao?
+5|Chuyện gì đã xảy ra?
+6|N-Ngài Bobbin!
+7|Bức tường bị sao vậy?
+8|Ở đây đã xảy ra chuyện gì?
+9|Ai làm vậy?
+10|Không quan trọng.
+11|N-Nhưng mà--
+12|Các ngươi cứ ở lại đây.
+13|Ngài Bobbin...
+14|Đừng lo chuyện này.
+15|Ta sẽ tự xử lý rắc rối.
+16|Tên đó đừng hòng thoát tội này!
+17|Ngay cả quỷ dữ dưới địa ngục...
+18|cũng phải lên trần gian...
+19|để dự tiệc trà của Mama!
+20|Gương ơi gương! Cảm ơn nhé!
+21|Không có gì!
+22|Này...
+23|Hả?
+24|Có thứ gì đó to lớn đang... bao lấy Brook...
+25|Không thể nào...
+26|Không thể tin được...
+27|Chỗ đó là...
+28|Cậu định làm gì?
+29|Căn phòng đó là...
+30|phòng ngủ của Mama chúng ta!
+31|Một trong Tứ Hoàng, Big Mom sao?!
+32|P-P-Phải làm sao đây?
+33|Ít nhất thì anh ấy vẫn còn sống...
+34|– Brook... – Không ngờ anh ấy lại ở một nơi như thế.
+35|Nhưng sao bà ấy lại ôm Brook ngủ thế kia?
+36|– Anh ấy cũng ngất rồi. – Sao anh ấy ngủ nổi vậy chứ?!
+37|Dậy đi Brook!
+38|Vô ích. Anh ấy không nghe thấy đâu.
+39|Mama sẽ không bao giờ tự nguyện để các người
+40|mang đi một sinh vật xương xẩu kỳ quặc như vậy!
+41|Nhưng đừng lo.
+42|Tôi có thể làm cho bà ấy nới tay ra.
+43|Mama! Là con, Brûlée đây!
+44|Hắt xì!
+45|– Cứu! – Hắt xì!
+46|Dừng lại đi!
+47|Bịt miệng họ lại!
+48|Electro!
+49|Chừng đó có đánh thức Big Mom không?
+50|Ồ, tốt quá. Bà ấy vẫn đang ngủ...
+51|Bà... Bà...
+52|Bà ấy thấy chúng ta rồi!
+53|À, chỉ là con ruồi thôi.
+54|Không! Gì, gì thế? Có chuyện gì vậy?!
+55|Anh ấy tỉnh rồi!
+56|Brook! Bên này, bên này!
+57|Mau lại đây với bọn tôi!
+58|Brook! Brook! Brook!
+59|À, chỉ là con ruồi thôi.
+60|Đừng ngủ lại chứ!
+61|Chuyện gì vậy Mama? Chúng ta bị tấn công à?
+62|Ta đang ngủ!
+63|Đồ chết tiệt!
+64|Đây rồi!
+65|Họ mạnh quá!
+66|Làm sao chúng ta...
+67|cứu được...
+68|...Brook...
+69|...khỏi những con quái vật này?!
+70|Này! Dừng lại!
+71|Cái này không dành cho các người!
+72|Xin lỗi. Tôi có một người rất muốn tặng nó.
+73|Ừm...
+74|Cần thêm tóc không nhỉ?
+75|Ừm, vậy cái này được không?
+76|Ừ, hoàn hảo luôn!
+77|Cậu tìm mấy thứ này ở đâu vậy?
+78|Tôi tìm thấy ở bãi hành quyết của lâu đài.
+79|Còn rong biển từ nhà bếp thay cho mái tóc afro của anh ấy.
+80|Xong rồi.
+81|Ồ! Trông y hệt Brook!
+82|Chắc chắn luôn!
+83|Nếu đổi anh ấy bằng thứ này...
+84|bà ấy sẽ không nhận ra là ta đã mang Brook đi!
+85|Giờ nếu đặt Brûlée ngay trên tấm gương,
+86|chúng ta có thể ra vào tự do.
+87|Chết tiệt! Tao sẽ bắt chúng trả giá!
+88|Tôi nghĩ mọi thứ đã sẵn sàng. Bắt đầu thôi.
+89|Chiến dịch Giải cứu Brook!
+90|Được rồi, để tôi thử!
+91|Cẩn thận đấy, Chobro!
+92|Biết rồi! Cứ tin ở tôi!
+93|Đồ ngốc!
+94|Đáng sợ quá! Thật sự đáng sợ!
+95|Cậu ổn chứ, Chobro?
+96|Người khác thử đi.
+97|Được, tôi thử tiếp.
+98|Được rồi!
+99|Brook... Brook, dậy đi.
+100|Này Brook, dậy đi nào.
+101|Ôi không! Bóng mũi sắp đến rồi!
+102|Chạy!
+103|Bà ấy có để ý...
+104|Nhìn chằm chằm...
+105|Bà ấy đang nhìn thẳng vào mình...
+106|Đó là...
+107|...một con thỏ nhồi bông?!
+108|Cách đó không hiệu quả đâu!
+109|À, chỉ là con thỏ nhồi bông thôi.
+110|Gì? Hiệu quả sao?
+111|Cơ hội của cậu đây, Carrot!
+112|Lần này để tôi...
+113|Con ruồi đó còn ở đây không?
+114|Con ruồi phiền phức!
+115|Đáng sợ quá! Thật sự đáng sợ!
+116|Ừ ừ.
+117|Giờ cần người khác thử.
+118|Thất vọng thật. Chắc những việc thế này,
+119|phải do tôi làm thôi!
+120|Brook!
+121|Này, dậy đi!
+122|Brook!
+123|Bà ấy trở mình!
+124|Tốt cho chúng ta.
+125|Big Mom không ôm anh ấy nữa rồi.
+126|Được rồi, để tôi thử!
+127|Brook, dậy đi!
+128|Brook!
+129|Tôi đây, Brook đây!
+130|Có ma!
+131|Gì vậy?
+132|Ngươi vẫn còn ở đây à?
+133|Ôi không!
+134|Con ruồi phiền phức!
+135|Heavenly...
+136|Feuer!
+137|Được rồi!
+138|Làm được rồi!
+139|Suýt... suýt nữa thì toi.
+140|Cảm ơn anh, Jinbe!
+141|Nhiệm vụ: Thành công!
+142|Yahoo!
+143|– Tuyệt quá! – Nhẹ cả người!
+144|Hả?
+145|Có vẻ hắn đã gây ra một trận náo loạn.
+146|Hắn xong đời rồi!
+147|Hiện giờ chúng ta đang giam Mũ Rơm Luffy và tên Trộm Mèo.
+148|Hắn đã đánh với một cán bộ cấp cao của họ suốt đêm để đến được đây!
+149|Nên cơ thể hắn--
+150|Nhưng...
+151|cậu nói sẽ đợi tôi ngay ở đây mà!
+152|Cậu đâu rồi, Luffy?!
+153|Luffy!
+154|M...
+155|M...
+156|M...
+157|Anh làm tôi giật mình!
+158|C...
+159|C...
+160|C...
+161|Rồi chuyện này xảy ra!
+162|Không, chính cậu mới làm tôi giật mình!
+163|Có ma!
+164|Cậu hét đúng lúc tệ quá!
+165|Cảm ơn rất nhiều.
+166|Dù sao thì anh còn sống. Thế là đủ.
+167|Ừ, tôi tưởng mình chết rồi!
+168|Tôi chết rồi à...
+169|Lẽ ra tôi phải nhận ra khi thấy an ninh dày đặc như vậy...
+170|rằng việc lấy bản sao Road Poneglyph là bất khả thi đến mức nào.
+171|Vậy mà tôi cứ ép, làm cậu gặp nguy hiểm.
+172|Tôi xin lỗi!
+173|Anh nói gì vậy? Mọi thứ anh làm đều vì chúng tôi!
+174|Như anh đã nói,
+175|vì chúng ta thâm nhập theo nhóm hai người, đó là cơ hội vàng.
+176|Nếu thử trộm Poneglyph của Big Mom vào lúc khác,
+177|thì không cách nào tránh được cuộc chiến hải tặc toàn diện!
+178|Vì thế bọn tôi buộc phải thử, dù khả năng thành công rất thấp.
+179|Đây là các bản dập.
+180|Nhưng mà Pedro-san, không ngờ anh cũng thoát an toàn.
+181|Bản dập...?
+182|Gì cơ?!
+183|Tôi cạn ý tưởng đến mức chỉ nghĩ ra được kế dùng vật thế thân...
+184|Khoan đã Brook! Đừng nói đây là...
+185|Đó là các bản dập Poneglyph.
+186|Suýt nữa thì hỏng!
+187|Ngay khi tôi vừa xong tờ thứ ba,
+188|chính Big Mom xông vào phòng!
+189|Anh lấy được thật sao?!
+190|Giữa bao nhiêu lính canh, còn có cả một chỉ huy ngọt ngào ở đó...
+191|vậy mà anh vẫn lấy được Poneglyph của Big Mom,
+192|thứ mà các Hoàng đế khác có giết người cũng muốn có?!
+193|Anh thật sự...
+194|Ừm, vâng.
+195|– Gì?! – Gì?!
+196|Hắn trộm Poneglyph của chúng ta sao?!
+197|Brook!
+198|Tuyệt vời quá!
+199|Đúng là phép màu!
+200|Ngay cả người nhà Big Mom cũng không dễ được vào kho báu.
+201|Anh đúng là phi thường!
+202|Vậy thì, cho tôi xem quần lót của cô một chút nhé--
+203|Thôi đi!
+204|Xương anh ấy lại gãy rồi!
+205|Thế là xong một mục tiêu!
+206|Giờ chỉ còn đón Sanji rồi chạy thôi!
+207|Gì cơ?!
+208|Cả hai đều không có ở đó sao?!
+209|Không!
+210|Họ đi qua từ lúc nãy rồi.
+211|Giờ họ không còn ở đây.
+212|Cả phòng Sanji cũng không?!
+213|Đúng, trong đó có một gã kỳ quặc đang ngủ.
+214|À phải. Tôi nghĩ mình biết họ ở đâu.
+215|Ở bên ngoài, và ở đó không có gương.
+216|Sáng nay, Luffy và Sanji-kun...
+217|đã đánh nhau ở chỗ này.
+218|Gì cơ?!
+219|Luffy và Sanji đánh nhau sao?!
+220|Sao, sao vậy?!
+221|Sanji có vị trí trong gia tộc Vinsmoke.
+222|Cô nói đúng.
+223|Anh ấy hẳn có lý do rất chính đáng để đến đây.
+224|Tôi không nghĩ đưa anh ấy về sẽ dễ dàng!
+225|Nhưng nếu muốn đưa anh ấy về, tốt nhất nên làm sớm.
+226|Tôi định nói khi cả nhóm đã đủ mặt, nhưng nói luôn bây giờ cũng được.
+227|Khi buổi lễ ngày mai bắt đầu,
+228|nó sẽ không hề bình thường chút nào!
+229|Ý anh là sao?
+230|Các cậu đến đây cùng Pekoms phải không?
+231|Ồ, Pekoms!
+232|Anh ấy có sao không? Bọn tôi bị lạc anh ấy trên đường đến đây!
+233|"Quay lại đi"
+234|Ừ, anh ấy ổn. Nhưng đã có một âm mưu
+235|suýt thành công, định cho anh ấy làm mồi cho cá mập.
+236|Âm mưu?
+237|Nếu chúng tôi không phát hiện anh ấy,
+238|giờ anh ấy đã chết rồi.
+239|C-Các người là...
+240|quái vật sao?
+241|Thảm hại. Cô hầu bàn đâu được say rượu mà ngất.
+242|Giá mà họ gửi cô gái trong băng của Sanji đến cho bọn ta.
+243|Ồ phải! Cô tên Nami đúng không?! Ta rất muốn có một cô gái cứng đầu dễ thương như cô ta ở đây.
+244|Nghe nói Big Mom đã bắt cô ta làm tù nhân.
+245|Có lẽ ngày mai ta có thể thương lượng đổi chác.
+246|Được rồi, uống thế đủ cho tối nay. Bữa tiệc thật sự để mai!
+247|Với sự chống lưng của Hoàng đế Big Mom,
+248|Germa sẽ lại thống trị North Blue.
+249|Chẳng bao lâu nữa ta sẽ báo thù
+250|những quốc gia đáng ghét ở North Blue đã sỉ nhục và khinh miệt chúng ta.
+251|Ngày mai sẽ là lễ ăn mừng!
+252|Xem ra thất bại và nỗi nhục của nhà Vinsmoke cũng có lúc hữu dụng.
+253|Đúng vậy! Sanji là mồi nhử, và nhờ nó ta câu được con cá lớn!
+254|Khi kẻ thù thấy cờ Big Mom trên hạm đội Germa, chúng sẽ mất hết ý chí chiến đấu.
+255|Chúng ta có thể chinh phục biển cả với sức mạnh hơn bao giờ hết.
+256|Ta nên cảm ơn Sanji.
+257|Cảm ơn Sanji?
+258|Cạn ly vì thất bại của chúng ta!
+259|Cạn ly vì thằng nhãi hữu ích của chúng ta!
+260|Cạn ly!
+261|Đừng để ai tiếp xúc với nhà Vinsmoke cho đến tiệc trà ngày mai.
+262|Rõ.
+263|Ngoài ra, bọn tôi đã bố trí lính canh cho tiểu thư Reiju ở
+264|phòng khám tầng ba.
+265|Đừng lơ là cảnh giác.
+266|Vâng, thưa ngài.
+267|Nhà Vinsmoke không thể thoát khỏi số phận.
+268|Đừng nói to ra thế!
+269|Đồ ngốc!
+270|Chết tiệt...
+271|Lũ khốn đó!
+272|Biến khỏi mắt tao, đồ hải tặc hạ đẳng khốn khổ!
+273|S-Sanji...
+274|Tao đâu có bảo mày chờ.
+275|Tao từ chối!
+276|Cứ ăn những gì ăn được đi.
+277|Đồ ăn...
+278|Tôi làm rơi trên đường đến đây. Nó bị nát, lại ướt mưa nữa.
+279|Lại thêm một thất bại của tôi, phải không?
+280|Ngon quá!
+281|Món này ngon nhất!
+282|Anh bỏ vào đây toàn món bọn tôi thích!
+283|Tôi muốn họ được nếm cái này!
+284|Ngon quá!
+285|Ngon! Ngon!
+286|Đồ nói dối!
+287|Ôi, ngon quá!
+288|Tôi suýt teo tóp luôn rồi!
+289|Ăn xong rồi thì đi đi.
+290|Cậu nói gì vậy?! Đi với bọn tôi!
+291|Thứ nhất:
+292|Tôi đã sỉ nhục thuyền trưởng của chính mình, người đã vượt đường xa đến cứu tôi.
+293|Rồi tôi còn cố hết sức làm cậu ấy bị thương, dù cậu ấy không hề đánh trả.
+294|Nghĩa là... giờ tôi không thể quay lại tàu.
+295|Thứ hai:
+296|Lão già khốn kiếp đã cứu mạng tôi, cùng với ngôi nhà nơi tôi lớn lên,
+297|nhà hàng trên biển Baratie,
+298|đều bị giữ làm con tin phòng khi tôi không chịu hợp tác.
+299|Nghĩa là...
+300|Tôi không thể trốn khỏi đám cưới này.
+301|Thứ ba:
+302|Gia đình ruột thịt tàn ác của tôi đang bước vào bẫy của Big Mom!
+303|Họ sẽ bị giết hết trong vài giờ nữa!
+304|Chỉ cần con đừng bỏ chạy, mọi chuyện sẽ ổn thôi, Sanji.
+305|Với cha ruột, các anh trai và em trai,
+306|tôi không có nghĩa vụ gì.
+307|Tôi chỉ có oán hận với lũ cặn bã đó!
+308|Mày là đồ thất bại đáng chết!
+309|Đừng bao giờ thừa nhận ta là cha mày...
+310|dù chỉ với một người!
+311|Tôi không muốn ai biết nỗi nhục của mình.
+312|Nhưng tôi...
+313|không thể...
+314|quay lưng với họ!
+315|Vì ba lý do đó, tôi không thể về cùng các cậu!
+316|Hiểu rồi thì biến đi.
+317|Nói thật lòng đi!
+318|Sanji! Ăn thôi!
+319|Cứ nấu gì đi, đồ ngốc!
+320|Sanji-kun, hôm nay anh nấu món gì?
+321|Ai ăn trộm hết đồ ăn rồi?!
+322|Biết ngay là bọn mày mà!
+323|Để phạt, không có bữa tối!
+324|Luffy... Tôi...
+325|Tôi muốn trở về...
+326|với Sunny!
+327|Nhưng tôi không đủ can đảm... để bỏ chạy!
+328|Một khi buổi lễ bắt đầu, tôi biết...
+329|mình sẽ không thể tự ngăn chặn gì cả!
+330|Tôi thậm chí không coi...
+331|lũ cặn bã đó là gia đình!
+332|Nhưng tôi...
+333|muốn cứu mạng họ!
+334|Ừ, cậu là vậy mà.
+335|Có bọn tôi đây! Phá đám cưới này thôi!
+336|Bobbin "Kẻ Xử Lý" Chiến binh (Giám mục) của băng Big Mom Tiền truy nã: 105,5 triệu Beri
+337|Bobbin "Kẻ Xử Lý" Chiến binh (Giám mục) của băng Big Mom Tiền truy nã: 105,5 triệu Beri
+338|Thế giới Gương
+339|Thế giới Gương
+340|Thế giới Gương
+341|Thế giới Gương
+342|Ngoài Thành phố Ngọt
+343|Ngoài Thành phố Ngọt
+344|Thế giới Gương
+345|Thế giới Gương
+346|Thành phố Ngọt
+347|Thành phố Ngọt
+348|Phòng khách tầng 6 Midbaum
+349|Phòng khách tầng 6 Midbaum
+350|Ngay ngoài phòng khách nhà Vinsmoke
+351|Ngay ngoài phòng khách nhà Vinsmoke
+352|Ngoại ô thị trấn
+353|Ngoại ô thị trấn

@@ -1,0 +1,462 @@
+1|Kệ con thỏ nhỏ đó...
+2|Đi nào, Genie!
+3|Ngài gọi tôi sao, thưa chủ nhân?!
+4|Con thỏ nhỏ đó... Tao sẽ băm nó ra!
+5|Đến lúc cho mày thấy...
+6|bọn tao làm được gì!
+7|Daifuku-sama! Ngài đang đẩy bọn tôi vào nguy hiểm đấy!
+8|Ngài nhắm vào đâu vậy, Genie-san?
+9|Tao không cho mày chạy thoát đâu!
+10|Lại đây!
+11|Phiền phức thật!
+12|Genie-uine Rage Split!
+13|Xin dừng lại! Daifuku-sama!
+14|Con nhóc đó...
+15|Con chuột đó! Nó lại cướp thêm một bánh lái nữa!
+16|Con thỏ nhỏ xảo quyệt!
+17|Nó nhảy từ tàu này sang tàu khác và khiến chúng bắn nhau!
+18|Cô ấy giỏi thật...
+19|Ừ! Giỏi đúng không?! Cô ấy như em gái của tôi vậy!
+20|Khi chu kỳ trăng và thời tiết thuận lợi...
+21|tộc Mink rất mạnh.
+22|Chu kỳ trăng và thời tiết sao?
+23|Ừm...
+24|Người ta nói khi tộc Mink ngắm trăng tròn trong đêm trời quang...
+25|bản năng hoang dã của họ thức tỉnh từ sâu thẳm ký ức.
+26|Hình dạng trắng như dã thú đó được gọi là...
+27|Sư Tử Mặt Trăng, Sulong!
+28|Sulong?!
+29|Ban đầu, biến hình khiến họ mất trí và tấn công mọi người xung quanh...
+30|nên rất rắc rối.
+31|Cho cả người khác... lẫn chính họ.
+32|Cho chính họ? Ý cậu là sao?
+33|Nếu một Mink không kiểm soát được, họ sẽ kiệt sức chỉ sau một đêm...
+34|và chết.
+35|Gì cơ?!
+36|Chết sao?!
+37|Vậy là con dao hai lưỡi... Một chiêu chiến đấu có thể lấy mạng họ.
+38|Carrot-san... cướp bánh lái địch đúng là chiến thuật thiên tài.
+39|Vậy thì tôi cũng sẽ yểm trợ cho đến khi đủ gần để chiến đấu!
+40|Yểm trợ sao?
+41|Cậu không rơi xuống biển chứ?!
+42|Đừng lo cho tôi...
+43|Phải rồi! Cậu ấy chạy được trên mặt nước...
+44|vì cậu ấy nhẹ lắm!
+45|Giao việc bảo vệ đường thoát cho hai người đó, còn chúng ta cứ tiến hết tốc lực!
+46|Ừ!
+47|Ừm!
+48|Đứng lại!
+49|Né sang trái!
+50|Sang phải!
+51|Sluggie-gie!
+52|Prometheus...
+53|Zeus...
+54|Mẹ?
+55|Anh Peros!
+56|Mẹ lạ lắm!
+57|Liếm. Ừ, anh biết!
+58|Mẹ ngày càng gầy đi và khó thở!
+59|Prometheus... Zeus...
+60|Napoleon! Zeus và Prometheus bị sao rồi?!
+61|Tôi đang gọi chúng về đây!
+62|Đã gần tám tiếng kể từ khi cơn đói của mẹ bắt đầu!
+63|Trước giờ bọn ta chưa từng gặp khó khi ngăn chúng...
+64|và ta chưa từng thấy mẹ đói thế này.
+65|Ngay cả bọn ta cũng không biết chuyện gì sẽ xảy ra với mẹ.
+66|Giờ mẹ thật sự là một con quái vật chưa ai biết. Liếm.
+67|Mẹ có đến được Đảo Cacao không?
+68|À này, anh Peros,
+69|có báo cáo là Pudding đang chở bánh đến đây trên một con tàu!
+70|Ồ, thật sao?! Cô ấy là thiên thần hộ mệnh của bọn mình!
+71|Nhưng có vấn đề, anh cả ạ!
+72|Đúng là Pudding đang mang bánh đến...
+73|nhưng con tàu đó... nghe nói là của Bege...
+74|Liếm? Ngươi nói Bege sao?!
+75|Sao cái bánh sẽ cứu đất nước này lại ở trên tàu của tên sát thủ đó?!
+76|T-Tôi không biết!
+77|Ngươi nói không biết là sao?!
+78|Giờ làm sao đây?! Không thể tin cái bánh đó nữa rồi!
+79|Trong Lãnh thổ - Tàu của Bege
+80|Mày làm gì vậy, Chân Đen?!
+81|Câu đó phải là của tao chứ! Chết tiệt mày!
+82|Tao tuyệt đối không để mày bỏ độc vào bánh!
+83|Cái bánh này chắc chắn sẽ đến miệng Big Mom, đúng không?!
+84|Biết vậy mà đứa ngốc nào lại không thêm độc hay thuốc nổ chứ?
+85|Đây là cơ hội để hạ một trong Tứ Hoàng!
+86|Mày có biết đây là cơ hội lớn thế nào không?!
+87|Im đi! Đây là trận chiến vì lòng tự trọng của một đầu bếp!
+88|Đừng can thiệp! Chỉ riêng hương vị cũng đủ lo liệu kẻ địch!
+89|Hả?! Đừng mơ nữa!
+90|Big Mom là người đã ăn vô số món ngon khắp thế giới suốt đời...
+91|vậy mà mày nghĩ làm được cái bánh vượt qua trí tưởng tượng lớn nhất của bà ta sao?!
+92|Không thể nào!
+93|Đúng thế! Nếu bánh không đủ ngon thì bọn tao tiêu đời!
+94|Nhưng tao chấp nhận canh bạc đó!
+95|Dù có thành công, bọn chúng cũng không cho ta sống mà rời đi đâu!
+96|Đừng có nhảm nhí!
+97|Chắc mày không biết quá khứ của Big Mom!
+98|Nhớ lời tao, chúng ta sẽ hối hận vì không giết bà ta khi còn cơ hội!
+99|Cha!
+100|Mày làm gì cha tao vậy?!
+101|Chân Đen!
+102|Mày cho cha ăn cái gì?!
+103|Hỏi ông ấy đi.
+104|Kem này... ngon đến mức tôi lên thiên đường ngay bây giờ cũng được.
+105|Gì?! Ông ấy sắp chết vì ngon quá sao?!
+106|Cha, may quá!
+107|Nghe tao, Bege...
+108|Mày cứ việc ám sát bà ta nếu muốn...
+109|nhưng... hãy làm sau khi tao cho vị khách của tao ăn no!
+110|Tao sẽ cho bất cứ ai muốn ăn! Đó là việc của đầu bếp!
+111|Pudding-sama!
+112|Sao cô lại gục xuống vậy?!
+113|Bege! Lâu rồi, nhưng ngay cả tôi cũng đã giúp một tay!
+114|Hãy tin vào sức mạnh của đồ ngọt!
+115|Ôi, chết tiệt... Cứ như bị thôi miên vậy!
+116|Có lẽ cái bánh này cũng có tác dụng với Big Mom...
+117|Ừ... Được rồi...
+118|Nào, mau lên! Phủ bánh xong chưa?!
+119|Chỉ còn một chút nữa thôi!
+120|Chiffon-sama! Hai đầu bếp đã gục vì mùi ngọt!
+121|Các cậu! Cố giữ tỉnh táo cho đến khi xong!
+122|Vâng, thưa bà!
+123|Giữ an toàn nhé... Nami-san, anh đang đến đây!
+124|Nhanh lên! Nhanh lên!
+125|Trong Lãnh thổ - Trên biển - Prometheus và Zeus
+126|Hướng nào?
+127|Thẳng phía trước!
+128|Ta cảm nhận được hơi của Napoleon!
+129|Là lỗi của ngươi, Prometheus. Ngươi quay lại ăn đám cháy rừng!
+130|Ai đã gây hại cho ta nhiều thế, Zeus?!
+131|Không ngờ ngươi để kẻ địch lợi dụng!
+132|Chúng ta là Homies đặc biệt sinh ra thẳng từ linh hồn của mẹ.
+133|Lần sau ngươi phản bội mẹ để ăn, sẽ không được tha dễ vậy đâu!
+134|Xin lỗi... nhưng... đám mây sấm đó ngon quá!
+135|Ngươi có đang nghe ta nói không?!
+136|Không lái tàu được nữa!
+137|Chúng ta sẽ bị cuốn đi mất!
+138|Trong Lãnh thổ - Tàu Sunny
+139|Một đường đã mở ra!
+140|Có thể phá vỡ phòng tuyến của địch!
+141|Carrot tuyệt quá!
+142|Chopper! Phải bảo vệ con tàu!
+143|Ừ!
+144|Không, chúng quay lại rồi!
+145|Carrot-san, tuyệt vời!
+146|Này! Bộ xương đó đang chạy trên biển!
+147|Chặn hắn lại!
+148|Tôi cũng phải theo kịp cô ấy!
+149|Bắn đi! Bắn đi!
+150|Tôi bắt đầu mất ý thức rồi! Tôi sắp phải dừng thôi.
+151|Còn bao nhiêu tàu?
+152|Chết tiệt con thỏ nhỏ đó!
+153|Genie-uine Rage Split!
+154|Hê đã làm hộ tao rồi!
+155|Lần này bắt được nó rồi!
+156|Genie...!
+157|Carrot-san!
+158|Guillotine!
+159|Xuống địa ngục đi, nhóc con!
+160|Xin lỗi, Pedro...
+161|Baron Corpse!
+162|Tôi mừng là cậu không sao!
+163|Dù chỉ yểm trợ chút ít... tôi đã cho một con tàu ở đằng kia ngủ rồi!
+164|Cậu làm đủ rồi. Quay về thôi!
+165|Cậu đã cứu tôi! Cảm ơn!
+166|Đó là lời của bọn tôi mới đúng.
+167|Làm sao để trở lại bình thường?
+168|Nếu che mắt khỏi ánh trăng...
+169|bằng mũ hay kính râm... hoặc đơn giản là nhắm mắt lại...
+170|Ánh trăng tròn tăng cường sức mạnh của bọn tôi!
+171|Thật sự rất đẹp!
+172|Carrot... Cậu ổn chứ?!
+173|Ừ...
+174|Cảm ơn! Cậu đã giúp bọn tôi thoát khỏi một phen nguy khốn!
+175|Bọn tôi bị kẻ địch bao vây và tàu suýt chìm!
+176|Tôi mừng vì đã giúp được.
+177|Tôi vào phòng nào không có ánh trăng được không?
+178|Dĩ nhiên! Cứ để bọn tôi lo, cậu nghỉ đi!
+179|Anh Peros! Anh cả Daifuku không đánh được nữa rồi!
+180|Hạm đội của anh ấy đang trôi dạt!
+181|Vô dụng quá... Daifuku!
+182|Mẹ... Mẹ thật sự ổn chứ?!
+183|Chúng kia rồi...
+184|Chúng đến rồi, mẹ!
+185|Zeus! Prometheus!
+186|Bọn con đến đây!
+187|Mẹ?! Trông như người khác vậy...
+188|Sao mẹ nhẹ thế?! Vì đói quá sao?!
+189|Liếm. Đã bao lâu rồi anh mới thấy mẹ di chuyển nhanh thế này?!
+190|Đưa bánh cưới đây!
+191|Big Mom đến rồi!
+192|Napoleon!
+193|Biến thành kiếm!
+194|Vâng, thưa mẹ!
+195|Cái quái gì thế?!
+196|Mẹ...
+197|Mũ Rơm!
+198|Không thể nào!
+199|Big Mom!
+200|Bà ta biến thành cái gì vậy?!
+201|Bánh cưới của ta đâu?
+202|Lùi lại, các cậu! Chuẩn bị bỏ tàu!
+203|Nhưng...
+204|Ôi... Ta đói quá.
+205|Nhưng không gì khác làm ta thỏa mãn được.
+206|Nó ở đâu?!
+207|Bánh cưới ở đâu?!
+208|Không! Tàu Sunny!
+209|Ôi không!
+210|Làm sao đuổi được một con quái vật như thế?!
+211|Đảo Wheat - Thị trấn Flour
+212|Làm tôi hết hồn!
+213|Gương thì...
+214|Đảo Wheat - Thị trấn Flour
+215|Cứ thế này thì tất cả gương trong thị trấn sẽ biến mất!
+216|Không ngờ hắn chiến đấu với Katakuri-sama trong Thế giới Gương lâu đến vậy...
+217|Chúng ta liên tục nhận báo cáo gương bị phá ở nhiều đảo.
+218|Đảo Whole Cake
+219|Đã 9 giờ 30 tối rồi.
+220|Đã gần 12 tiếng kể từ vụ tấn công Tiệc Trà!
+221|Chuyện gì đang xảy ra vậy? Chết tiệt!
+222|Này mọi người... Có muốn biết chuyện thú vị không?
+223|Này, dừng lại! Cơ hội sống sót của họ sẽ càng giảm.
+224|Chuyện gì vậy, Stussy-sama?
+225|Ở Tiệc Trà, Linlin đã lộ ra...
+226|Hộp Tamate từ Cung điện Ryugu.
+227|Bà ta có nó...
+228|từ Mũ Rơm Luffy, đúng không?
+229|Rồi sao?
+230|Cái Hộp Tamate đó...
+231|chứa thuốc nổ.
+232|Cô chắc không?
+233|Thế giới Gương
+234|Ôi... anh ấy vẫn hoàn hảo và ngầu quá.
+235|Anh Katakuri!
+236|Còn...
+237|Xạ thủ, vẫn chưa có cú bắn rõ nào à?
+238|À, em vẫn bắn hắn mà không bị phát hiện...
+239|nhưng hắn di chuyển nhanh quá!
+240|Chết tiệt!
+241|Trời! Đồ vô dụng!
+242|Tệ quá!
+243|Nếu không sớm hạ Mũ Rơm, anh Katakuri sẽ hạ hắn.
+244|Mọi người! Ai sẽ được anh xoa đầu đây?!
+245|Dĩ nhiên là Flampe-sama!
+246|Biết ngay mà!
+247|Em có 41 anh trai.
+248|Và 40 người trong số đó đã bỏ phiếu ở Giải Em Gái Dễ Thương Nhất.
+249|Em thắng rồi!
+250|Ai cũng yêu em!
+251|Nghĩa là em là người được yêu thích nhất!
+252|Con gái thứ 36 của gia tộc Charlotte, Charlotte Flampe, Hội trưởng Hội Fan Katakuri và Đội trưởng Biệt đội Cảm tử
+253|Em phải là nữ hoàng của các em gái!
+254|Dễ thương quá!
+255|Ai cũng muốn là người anh Katakuri yêu thích nhất!
+256|Nhưng anh ấy là thần tượng của cả 38 em gái!
+257|Ngay cả các em trai cũng ngưỡng mộ anh. Quá nhiều đối thủ!
+258|Nên em muốn giúp anh bây giờ để kiếm thêm điểm!
+259|Bọn em hiểu cảm giác của chị, Flampe-sama!
+260|Bọn em cũng muốn Katakuri-sama thích!
+261|Tao không quan tâm tụi bây!
+262|Lúc mới đến đây, anh ấy trông không giống bản thân.
+263|Nhưng giờ anh ấy lại ngầu như mọi khi!
+264|Em không chịu nổi khi thấy anh vất vả trước kẻ địch!
+265|Anh phải hoàn hảo mọi lúc!
+266|Không thì em sẽ thất vọng!
+267|Cô nói đúng.
+268|Nhưng giờ anh ấy đâu có vất vả.
+269|Chỉ là kẻ địch cứng đầu thôi!
+270|Hắn chắc đã nhận vết thương chí mạng hàng chục lần mà vẫn đứng dậy.
+271|Đồ ngốc!
+272|Thật nực cười.
+273|Bánh cưới!
+274|Ngươi giấu nó trong này sao?!
+275|Khoan, Big Mom!
+276|Không thấy gì cả!
+277|Nó không ở đây!
+278|Dừng lại! Không có bánh nào trên tàu này!
+279|Cái gì?!
+280|Đừng nói bậy... Không thể nào!
+281|Vì con trai ta nói nó ở đây!
+282|Nếu không có ở đây, ta sẽ phải tự tay lấy mạng đứa con trai cả!
+283|B-Bà ta nhớ rồi!
+284|Nếu các ngươi nói dối ta...
+285|các ngươi sẽ trả bằng tuổi thọ!
+286|Bà ta còn tỉnh táo đến mức nào vậy?!
+287|Tôi tưởng sẽ lừa được!
+288|Đừng dám gọi con trai ta là kẻ nói dối!
+289|Này, Napoleon!
+290|Vâng, thưa mẹ!
+291|Làm thôi.
+292|Cognac!
+293|Cognac: Loại rượu brandy được đặt theo tên thị trấn Cognac ở Pháp.
+294|Ta sẽ thiêu và chém đôi ngươi!
+295|Một thanh kiếm lửa khổng lồ!
+296|Không có cửa đâu! Tránh ra, Jinbe!
+297|Xuống địa ngục đi!
+298|Da Cá Mập!
+299|Lưỡi Hủy Diệt!
+300|Cái gì vậy?!
+301|Ông ấy chặn được Cognac!
+302|Jinbe!
+303|Đừng tưởng...
+304|ngươi áp đảo được ta, đồ cá mập chết tiệt!
+305|Jinbe-san!
+306|Ôi không!
+307|Jinbe!
+308|Nó ở đâu?! Mang bánh ra đây!
+309|Ta đói chết mất!
+310|Carrot!
+311|Dừng lại, Big Mom!
+312|Carrot đang ở trong phòng đó!
+313|Nếu muốn ta dừng...
+314|Nami!
+315|Nói ta nghe nó ở đâu!
+316|Nami!
+317|Tôi không sao!
+318|Ôi không! Cánh buồm bắt lửa từ đầu Big Mom!
+319|Ngươi giấu ở đâu...
+320|Chạy đi, Nami!
+321|cái bánh khổng lồ đó?!
+322|Guard Point!
+323|Chopper!
+324|Ôi chao...
+325|Nhìn ngươi biến thành gì rồi! Càng lúc càng kỳ lạ.
+326|Ta nhất định sẽ thêm ngươi vào bộ sưu tập thú lạ của ta!
+327|Đồ gấu mèo mập nhỏ!
+328|Tôi không phải gấu mèo! Tôi là tuần lộc!
+329|Khi lấy được bánh cưới, cả ngươi lẫn Vua Linh Hồn đều sẽ thuộc về ta!
+330|Thả tôi ra! Bánh không có ở đây, và tôi không phải đồ chơi của bà!
+331|Chopper!
+332|Ồ! Nếu mẹ đánh chìm tàu chúng, có khi lời nói dối của em sẽ chìm theo!
+333|Nếu băng Mũ Rơm mất tàu thì coi như xong!
+334|Con tàu...!
+335|Tàu đang cháy!
+336|Rubber-Rubber...
+337|Hawk Stamp!
+338|Hắn định né sao?
+339|Sao ánh sáng không tắt...
+340|trong...
+341|mắt ngươi!
+342|Ta không hiểu ngươi. Ngã xuống đất là nhục nhã.
+343|Con tàu...!
+344|Con tàu đang cháy!
+345|Nào, bánh cưới ở đâu?
+346|Thả tôi ra!
+347|Chopper!
+348|Làm sao đây? Làm sao đây? Phải dập lửa!
+349|Nước! Nước!
+350|Dòng Hải Lưu...
+351|Quăng Qua Vai!
+352|Ối! Đau, đau, đau...
+353|Chết tiệt! Nước bỗng nhiên...!
+354|Jinbe-san!
+355|Mẹ!
+356|Xuống khỏi con tàu này, Big Mom!
+357|Nếu ngươi muốn vậy...
+358|thì giao bánh ra đây!
+359|Bí Thuật Ngư Nhân Karate!
+360|Khoan Lang Thang!
+361|Mẹ!
+362|Cái gì?!
+363|Hay quá! Ông ấy đá bà ta ra rồi!
+364|Jinbe, ông tuyệt quá!
+365|May quá!
+366|Ông làm được rồi!
+367|Các cậu!
+368|Nếu để chúng phá tàu thêm nữa...
+369|thì làm sao đối mặt với Luffy và mọi người?!
+370|Tàu không thể chậm lại!
+371|Nếu Perospero và bọn chúng đuổi kịp, là hết đường!
+372|Ừ!
+373|Được rồi!
+374|Cứ tin ở bọn tôi!
+375|Xin lỗi, nhưng...
+376|Big Mom sẽ đứng vững lại ngay!
+377|Carrot thế nào?
+378|Cô ấy ổn!
+379|Cắt đuôi chúng bằng hết tốc lực nào!
+380|Mẹ, mẹ có sao không?
+381|Ừ!
+382|Cũng không tệ lắm, Jinbe!
+383|Bà ta đến kìa!
+384|Ồ! Ta có ý này!
+385|Chém nát nó ra!
+386|Ý hay lắm, mẹ!
+387|Vậy thì chắc chắn ta sẽ tìm ra!
+388|Bánh cưới!
+389|Lần này nó dài ra! Nếu bà ta vung thanh kiếm đó...
+390|Con tàu sẽ tiêu đời!
+391|Ít nhất Big Mom không còn trên tàu nữa!
+392|Được rồi, Zeus-chan...
+393|Cậu thích mấy thứ này, đúng không?
+394|Đó là...!
+395|Black Ball!
+396|Ngon quá! Ngon quá! Ngon tuyệt!!
+397|Ngon ngon!
+398|Đúng rồi! Nào, cứ tự nhiên!
+399|Làm sao đây?!
+400|Hừ! Chiêu cũ không dùng được hai lần đâu!
+401|Đừng hòng lừa ta, đồ yêu nữ!
+402|Nami!
+403|Là tôi đây.
+404|Ôi, thôi đi!
+405|Đúng rồi... Tôi không có thịt, nên sét không ảnh hưởng đến tôi.
+406|Vậy sao?
+407|Ngươi muốn đánh với ta lần nữa à, Vua Linh Hồn?!
+408|Ta nhớ lần trước kiếm của ngươi còn không xước nổi ta!
+409|Cô nói đúng... Vậy ít nhất cho phép tôi...
+410|xem quần lót của cô được không?!
+411|Hả?!
+412|Gì cơ?!
+413|Được thôi.
+414|Xong rồi!
+415|Ba Nhịp Hum...
+416|Linh...
+417|Notch Slash!
+418|Ngay từ đầu, mục tiêu của bọn tôi chỉ có mình ngươi, Zeus!
+419|Đau, đau, đau! Chết tiệt! Ta lơ là rồi!
+420|Cố lên, Zeus!
+421|Positive Charge Black Ball!
+422|Phóng điện đi cho khỏe, Zeus-chan!
+423|Các ngươi...!
+424|Đ-Đây là...
+425|Chuyện gì vậy?!
+426|Mẹ!
+427|Mẹ đùa con sao!
+428|Zeus đã phóng điện!
+429|Mẹ!
+430|Làm được rồi!
+431|Câu được chút thời gian! Giờ tiến lên thôi!
+432|Nhanh lên, Brook!
+433|Được rồi!
+434|Nắm lấy này!
+435|Tôi về rồi!
+436|Hay quá! Mừng cậu về!
+437|Brook, làm tốt lắm!
+438|Bọn tôi đã cố giảm thiểu hư hại, nhưng khá nặng.
+439|À, đúng rồi.
+440|Tôi mang về một thứ.
+441|Ồ, Zeus!
+442|K-Không nguy hiểm sao?
+443|Tôi nghĩ nó không còn nhiều sức nữa...
+444|Ồ, tôi đang ở đâu thế?
+445|Rất vui gặp lại ngươi, Zeus.
+446|Rất... vui... gặp... lại...
+447|Nếu tôi nhớ đúng, lúc nãy ngươi định...
+448|đánh sét vào tôi.
+449|Xin lỗi...
+450|Nếu "xin lỗi" là đủ thì đâu cần cảnh sát trưởng hay Hải Quân.
+451|Chắc ngươi hiểu lầm lúc nãy rồi...
+452|Tôi đâu có nhờ ngươi làm bạn...
+453|Sao?
+454|Tôi hỏi lần nữa...
+455|Ngươi sẽ làm tay sai của tôi... hay thà...
+456|chết?
+457|Suy nghĩ cho kỹ đi.
+458|Mẹ! Mẹ!
+459|Im đi...
+460|Mẹ!
+461|Đuổi theo chúng đi, Prometheus!
+462|Vâng, thưa mẹ!

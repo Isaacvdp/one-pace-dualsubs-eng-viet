@@ -1,0 +1,311 @@
+1|Puffs Island
+2|Mama! Mama!
+3|Perospero-sama...
+4|I can't believe it...
+5|Mama's back to normal...
+6|Pudding made such an extraordinary cake...
+7|I've never seen her so content. Lick.
+8|Mama! You're our captain! I need to brief you on the current situation.
+9|First of all, Bege should still be in the area...
+10|Lick!
+11|I'm so happy...
+12|She's not listening at all...
+13|Cacao Island
+14|Is that...?!
+15|Hm? Wait!
+16|Hey, that's not it!
+17|That's not the Straw Hats' ship!
+18|What?!
+19|That's the Sun Pirates' ship!
+20|No way! It took a direct hit!
+21|Did they switch?!
+22|In that case, where did the Straw Hats go?!
+23|Hurry, Wadatsumi!
+24|Get as far as possible!
+25|Are you sure?
+26|This is the legendary ship that Fisher Tiger built!
+27|I'm sure!
+28|All right!
+29|Hurry up! We don't have time!
+30|Ow, ow, ow!
+31|What?! What?!
+32|He's gonna eat us!
+33|Be patient.
+34|What the?!
+35|Where are we?!
+36|We're in Wadatsumi's mouth!
+37|Let's escape!
+38|They're in the water!
+39|I wondered what I saw. It must have been the Giant Monk's hand!
+40|All ships! Come about 180 degrees!
+41|I won't let you get away! You damn Fishman!
+42|Hot Sea...
+43|Torpedoes!
+44|It's too hot!
+45|Ow, ow, ow, ow!
+46|There it is! Straw Hat's ship!
+47|Wadakichi!
+48|Fire! Sink Straw Hat's ship!
+49|Just go, you guys!
+50|Straw Hat! I was a bad guy on Fishman Island...
+51|I'm sorry!
+52|But after that, Boss Jinbe still let me join him... I-I'm so grateful!
+53|That bastard...
+54|Get out of my way, you damn umibozu!
+55|Ouch!
+56|Wadatsumi!
+57|Since the boss told us he wanted to join the Straw Hats...
+58|we all decided!
+59|Mama will kill anyone who tries to leave.
+60|So we only have one option...
+61|You want us to serve as Captain Jinbe's shield and die instead?!
+62|We can't all die here! Someone has to tell the story!
+63|Yeah, you're right.
+64|I won't fault anyone for running away! Those who follow me should be prepared for anything!
+65|We won't let them get in the way of Jinbe's new beginning!
+66|We all made up our minds!
+67|Get down, Wadatsumi!
+68|Aladine! You guys!
+69|Get out of here, Jinbe! Straw Hats!
+70|We wish you a safe voyage!
+71|Let's go, men!
+72|Luffy...
+73|Flooding is a sailing ship's weakness... be sure to drain the water quickly!
+74|Or the ship will be heavy and slow.
+75|Afterwards, you should patch up the sails so you can catch the wind properly,
+76|and escape as fast as you can!
+77|It'll still take several hours to escape this territory!
+78|What are you saying, Jinbe?! Why are you telling us this?!
+79|Luffy...
+80|I can't leave them behind!
+81|Okay, I got it!
+82|Then... we'll stay, too!
+83|They're guarding the rear to cover you!
+84|If you're cornered by the flagship's fleet now, escape will be impossible!
+85|Please allow me...
+86|to bring up the rear!
+87|We'll pull it off and come back alive!
+88|Don't forget, Jinbe!
+89|I am your captain now!
+90|Genie-uine Rage Split!
+91|I won't stop the ship, but...
+92|I’ll be waiting for you in Wano! Get there no matter what!
+93|Luffy!
+94|Thank you!
+95|Jinbe!
+96|Don't let death stop you!
+97|He's still alive? That Straw Hat brat?
+98|Y-Yes, he's alive for now...
+99|but I just got a report that my siblings have him cornered at Cacao Island.
+100|He has nowhere to run!
+101|I’m going if he’s still alive.
+102|Hurry, Golden Tree Frog!
+103|Prepare yourself, Straw Hat...
+104|I'll steal your soul and make some fearsome Homies out of it!
+105|We survived...
+106|Life isn't all bad. Let's get away quietly.
+107|I'm worried about Germa-rero...
+108|Shut up!
+109|Burn!
+110|Heat Cross!
+111|Are you okay, Aladine?!
+112|Jinbe! You're returning to us?!
+113|No, I'm still a member of the Straw Hat crew.
+114|I'm just staying behind to protect my captain!
+115|Come on now!
+116|You're underestimating us!
+117|That's not it, Brother.
+118|Everyone has to survive...
+119|so you can give me a proper send-off!
+120|I know your strength better than anyone!
+121|Let's make good use of it to make sure the Straw Hats escape!
+122|Those bastards!
+123|It's a maelstrom!
+124|Brook! Hurry and get the Sunny as far as you can!
+125|Understood!
+126|When Fishmen get serious, we can change the current of the ocean itself!
+127|Amazing!
+128|The sea is...
+129|The current that the Fishmen generated is carrying the Sunny away!
+130|Jinbe...
+131|Jinbe is covering Straw Hat Luffy as he sails away!
+132|Our fleet is tied down completely...
+133|and we'll lose track of their ship soon!
+134|That's right! Go, Straw Hat!
+135|Why are you cheering him on?
+136|Ah... that's because Straw Hat is a prime candidate.
+137|For what?
+138|Stussy... you know about the Worst Generation, don't you?
+139|The "Surgeon of Death" Trafalgar Law.
+140|"The Magician" Basil Hawkins.
+141|"Red Flag" X Drake.
+142|"Roar of the Sea" Scratchmen Apoo.
+143|Capone "Gang" Bege.
+144|"The Glutton" Jewelry Bonney.
+145|"Mad Monk" Urouge.
+146|Eustass "Captain" Kid.
+147|The "Soldier of Slaughter" Killer.
+148|"Blackbeard" Marshall D. Teach.
+149|And...
+150|"Straw Hat" Monkey D. Luffy.
+151|I'm certain...
+152|that someone from what has been called the Worst Generation...
+153|will rise up and become the next Pirate King!
+154|I see. So Pedro...
+155|is dead.
+156|My name is Pedro! Please help me...
+157|Get them treated now... or they'll die!
+158|The world needs them!
+159|Those two...
+160|can never...
+161|be allowed to die!
+162|It's because he came to rescue me...
+163|I don't think this was where he was supposed to die...
+164|It's all right. It's all right, Sanji!
+165|This was Pedro's own choice!
+166|Please don't blame yourself! Sanji!
+167|You-teia guys saved the Mokomo Dukedom, so he wanted to repay the favor!
+168|Besides, if it weren't for Pedro, we'd have all died back there!
+169|So...
+170|just... thank him.
+171|This is for the best!
+172|I know what kind of man he was.
+173|It's a Cotton Candy Flurry!
+174|We must be close to the border.
+175|We'll make it out of Big Mom's territory soon!
+176|Fishman Karate Secret Technique!
+177|Vagabond Drill!
+178|Hang in there!
+179|Once Luffy and the others get out of the territory, we can go too!
+180|Hey, what happened to the Straw Hats?
+181|There's been no word from our pursuit unit!
+182|I think they lost them!
+183|Idiot! Once they cross the border, we won't be able to catch up!
+184|Pudding, like usual, you must seduce him with your acting skills.
+185|That's no problem, Mama!
+186|You're like a puppet, Pudding.
+187|Ready to play out my will.
+188|Mama... I'm not a puppet...
+189|Let's get married tomorrow.
+190|Yeah, right... Like all the others, once he finds out who I really am, he'll...
+191|Even if you're my daughter, I can't deny that's creepy...
+192|She's a monster!
+193|"Let's get married!"
+194|So creepy!
+195|Look! She's a freak!
+196|Don't do it!
+197|No one could ever really love me.
+198|I'm just an ugly freak.
+199|Like all the others, once you find out who I really am...
+200|Take a good look, Sanji... at my creepy...
+201|third eye!
+202|What a beautiful eye!
+203|What?
+204|All right! Let's start baking!
+205|I'm glad that you were the one to play my fiancée, Pudding-chan!
+206|Pudding-chan!
+207|H-Hey, Sanji...
+208|san...
+209|Could you do me a favor?!
+210|Oh? Pudding-chan?!
+211|You said that you wanted to ask me a favor...
+212|what was it?
+213|Ring, ring, ring...
+214|Brother Peros, come in! Where's Mama now?!
+215|Damn!
+216|Mont d'Or-sama! We got a call from Cacao Island!
+217|It looks like a Territorial Sea Slug reported from the border!
+218|It's too late!
+219|It signaled an alert of a passing ship! The Straw Hats have left the territory!
+220|Return to your ships, Germa 66! Mission accomplished!
+221|Roger!
+222|Roger!
+223|Roger!
+224|Germa is retreating!
+225|Don't let them go!
+226|Catch them!
+227|I never wanted to see my big brother on his back, defeated.
+228|Brûlée.
+229|You fell on your back on purpose, didn't you? You were on your stomach first.
+230|I wonder...
+231|But Brûlée...
+232|all those stories about how I never lie down...
+233|they're not true.
+234|Yeah, I know. I've seen you through the mirrors.
+235|You've been playing the role...
+236|of the perfect unbeatable man...
+237|for our sake.
+238|Katakuri, if you just hid that mouth, you'd have friends.
+239|Don't want 'em! I am who I am! I'll just beat up anyone that laughs!
+240|A pelican eel!
+241|He's a pelican eel!
+242|I'll kick their asses!
+243|Oh, no!
+244|Hurry!
+245|How could this happen?
+246|What is it?
+247|What's the matter?
+248|What?!
+249|This is serious! Brûlée is badly injured!
+250|Brûlée!
+251|What... happened?
+252|It's nothing...
+253|No, it's not nothing! Tell me! What happened?!
+254|Those guys you beat up earlier came back for revenge, Katakuri!
+255|Revenge?! On my sister?!
+256|Why?! Why did she have to be the one to get hurt?!
+257|Big Brother...
+258|It doesn't... hurt at all...
+259|You're fine just the way you are, Big Brother.
+260|You fool! I'm...
+261|Brûlée got hurt because of me...
+262|I was too naive!
+263|Here comes Katakuri!
+264|We've been expecting you.
+265|Huh? What's that around your neck?!
+266|How dare you scar my sister's face?!
+267|I'll never lower my guard again!
+268|I'll teach you all what true fear is!
+269|Brûlée...
+270|How's Straw Hat?
+271|I'm sure you'll think "That's a relief", when you hear.
+272|Can you see the future, too?
+273|He just made it out of our territory.
+274|But I won't forgive him...
+275|after what he put my big brother through!
+276|I knew it.
+277|Luffy and the others made it out of the territory. Let's retreat!
+278|Germa 66, withdraw!
+279|Fire! Fire! Don’t let Germa get away-nie!
+280|Here she comes...
+281|It's Mama!
+282|Life or death?
+283|Shielded by the efforts of the Sun Pirates, Germa 66, and those who sacrificed everything,
+284|the Straw Hat crew finally escaped Emperor Big Mom's territory.
+285|Hey...
+286|Should I prepare a meal?
+287|A meal?
+288|Food!
+289|Sanji's cooking!
+290|I'm actually famished!
+291|I'm starving!
+292|It's safe, free, and delicious!
+293|Sanji's cooking!
+294|Did something happen while I was gone?
+295|Meanwhile, in the East Blue...
+296|Isn't my meal ready yet?!
+297|Hey, come on!
+298|The Sea Restaurant - Baratie
+299|Owner Zeff! Let's just kick them out!
+300|Why do we have to serve them?
+301|They're criminals!
+302|I'll cook, so just be quiet!
+303|Hurry up and bring the food!
+304|They're pushing their luck!
+305|Food! Food! Food! Food!
+306|Okay, okay.
+307|No matter the time of day, everyone still gets hungry.
+308|No matter who they might be, everyone still gets hungry.
+309|Now, dig in!
+310|I'll feed anyone who is hungry!
+311|We can talk later!

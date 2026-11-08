@@ -1,0 +1,451 @@
+1|Bắn đi!
+2|Tụi nó không xây xước chút nào!
+3|Bọn này bị làm sao vậy?!
+4|Sanji!
+5|Đem người bị thương rời khỏi đảo này ngay đi.
+6|Ở đây không cần cậu!
+7|Chúng đã gài bẫy bọn ta.
+8|Bọn ta sẽ bắt chúng trả giá!
+9|Cả hòn đảo này là mục tiêu của Germa 66, Sanji!
+10|Các người!
+11|Bọn họ thật sự là người cải tạo với lớp da sắt sao?!
+12|Mang bazooka đến cho tao!
+13|Germa!
+14|Ta tưởng các ngươi chết hết rồi! Sao các ngươi sống sót được?!
+15|Ý ngươi là sao?
+16|Một vạn lính do Nusstorte chỉ huy đã hạ vương quốc của các ngươi!
+17|Ừ, có vài con ruồi bu quanh bọn ta, nhưng bọn ta đập hết rồi quăng xuống biển.
+18|Cái gì?!
+19|Đ-Đây là Mont d'Or! Trả lời tôi đi!
+20|Anh Nusstorte! Làm ơn trả lời!
+21|Anh Basskarte! Anh Dosmarche!
+22|Nếu có ai ở đó... trả lời tôi đi!
+23|Đúng như ta lo, những chuyện bất ngờ cứ liên tục xảy ra...
+24|kể cả việc Pekoms phản bội-vous plaît!
+25|Sao hạm đội Germa lại xuất hiện ở Đảo Cacao-noir?!
+26|Lũ ngu các ngươi định làm gì với công nghệ khoa học của bọn ta?
+27|Các ngươi chẳng làm được gì với nó đâu!
+28|Lũ khốn!
+29|Sanji! Mau đi đi!
+30|Ừ!
+31|Snack và mọi người đang bị Germa tấn công!
+32|Chúng ta có nên giúp họ không?!
+33|Đừng bị phân tâm! Phải tập trung vào tàu của Mũ Rơm!
+34|Báo cho tất cả tàu quanh đảo!
+35|Rõ, thưa bà!
+36|Mont d'Or và mọi người... chắc Germa đã qua mặt họ rồi!
+37|Ngươi cũng bị qua mặt rồi, anh Daifuku.
+38|Chậc! Nhưng tôi đã chiến đấu hết sức để đuổi kịp mấy người!
+39|Đảo Hạt - Thị trấn Đậu Phộng
+40|Cơn đói của Mama vẫn chưa dừng!
+41|Chúng ta sống trong lãnh thổ của một Tứ Hoàng...
+42|nơi lẽ ra được bảo vệ để đổi lấy tuổi thọ của mình.
+43|Không ngờ bà hoàng lại phá nát chỗ này.
+44|Thị trấn Đậu Đậu - Đảo Ăn Vặt
+45|Không thể nào... nướng lại được chiếc bánh cưới...
+46|mà Streusen-sama phải mất nhiều ngày mới làm xong!
+47|Ngay cả Pudding-sama cũng không thể làm lại chỉ trong vài giờ.
+48|Thị trấn Bàn Ăn - Đảo Dao Nĩa
+49|Chiếc bánh mà Mama thèm...
+50|Không thể nào!
+51|Chúng ta nên chuẩn bị sơ tán!
+52|Thị trấn Kem Lạnh - Đảo Kem
+53|Đi khỏi đây trước khi Mama tới thôi!
+54|Mama đang ở đâu rồi?!
+55|Ở Đảo Bánh Su!
+56|Nơi đó do Bộ trưởng Bánh Su, Chiffon-sama cai quản...
+57|Mama đói đang tới đảo này!
+58|Đảo Bánh Su
+59|Không gì ngăn được bà ấy!
+60|Chiffon-sama...
+61|Sao cô ấy lại mang cái bánh tới đây?!
+62|Chạy đi!
+63|Này, Jinbe!
+64|Ông nghĩ sao về Germa? Là bạn hay thù?
+65|Họ có thể đã chạy thoát rồi. Sao lại bận tâm giúp chúng ta lúc này?
+66|Nhưng... họ chỉ giúp chúng ta tạm thời thôi đúng không? Làm sao tin họ được?!
+67|Ồ! Biết đâu Reiju-san đến để cho tôi xem quần lót...
+68|Reng, reng, reng... Reng, reng, reng...
+69|Cạch.
+70|Này, nghe thấy tôi không?!
+71|Sanji! Đây là chỗ gần đảo nhất mà bọn tôi vào được!
+72|Biết rồi! Chạy dọc bến cảng hết tốc lực đi!
+73|Tôi sẽ tới đó khi các cậu chạy ngang qua!
+74|Sanji-kun! Luffy sao rồi?!
+75|Tôi đỡ được cậu ấy rồi! Giờ không có thời gian nói chuyện! Nhờ cậu đó, Nami-san!
+76|Được!
+77|Đi nào, Jinbe! Sang mạn phải!
+78|Sang mạn phải!
+79|Sanji!
+80|Cậu làm được mà!
+81|Đập nát Germa đi!
+82|Chân Đen đâu rồi?!
+83|Bụi mù quá không thấy gì!
+84|Nó kia kìa!
+85|Bắn nó!
+86|Đừng để nó thoát!
+87|Đúng vậy... Bằng mọi giá không được để hắn thoát!
+88|Mũ Rơm Luffy là kẻ duy nhất chúng ta không thể tha thứ!
+89|Hắn không thoát khỏi anh Katakuri bằng mánh khóe bẩn thỉu...
+90|Chị Brûlée?!
+91|Các em muốn biết chuyện gì thật sự đã xảy ra ở thế giới Gương không?
+92|Hoàn hảo!
+93|Mạnh nhất và giỏi nhất thế giới!
+94|Anh trai của chúng ta, Katakuri...
+95|Anh ấy...
+96|đã thua Mũ Rơm Luffy!!
+97|Cái gì?!
+98|Katakuri...
+99|Thành tích bất bại huyền thoại của anh...
+100|bị thằng nhóc đó phá vỡ sao?
+101|Không thể nào!!
+102|Anh trai chúng ta không thể thua được!
+103|Katakuri-sama không thể bị đánh bại!
+104|Chắc hắn dùng mánh bẩn nào đó! Không thể tha thứ!
+105|Bắn nát hắn đi!
+106|Chém hắn thành từng mảnh!
+107|Nghiền Mũ Rơm Luffy thành bụi!
+108|Ừ!
+109|Bọn tao không để mày thoát đâu, Mũ Rơm!
+110|Đồ khốn!
+111|Mũ Rơm!!
+112|Tao sẽ không tha cho mày!
+113|Giết hắn đi, anh Oven!
+114|Sparking...
+115|...Valkyrie!
+116|V A L K Y R I E
+117|S P A R K I N G
+118|Ichiji?!
+119|Cất cánh đi, Sanji!
+120|Anh Oven! Anh có sao không?!
+121|Giao hắn ra đây!
+122|Chân Đen!
+123|Tao sẽ đánh gục mày lần nữa-yu!
+124|Winch Guillotine!
+125|WINCH GUILLOTINE
+126|Yonji?!
+127|Đi đi!
+128|Mày chướng mắt thật!
+129|Bắn! Hắn ở trên mái nhà!
+130|Sao dám làm vậy với Katakuri-sama?!
+131|Với tốc độ này mày sẽ bị bắn thủng lỗ chỗ.
+132|Niji!
+133|Germa!
+134|Đi thôi!
+135|Kiếm Tốc Độ Ánh Sáng!
+136|Henry... Blazer!
+137|H E N R Y
+138|B L A Z E R
+139|Ôi không! Oven-sama! Mũ Rơm Luffy sắp trốn khỏi thị trấn rồi!
+140|Trốn khỏi thị trấn?!
+141|Tạm biệt, đồ thất bại!
+142|Snack! Brownie! Joconde!
+143|Bắn hạ chúng ở bến cảng!
+144|Chúng đang lao về phía các người!
+145|Này! Có ai đang gọi chúng ta qua ốc sên truyền tin không?!
+146|Tôi nghĩ mình làm được!
+147|Đừng để hắn đi xa hơn! Chuẩn bị bình khí ga cay!
+148|Cứ lấy đi khả năng bay của hắn đi!
+149|Sao vậy?!
+150|Ở lại với bọn tôi!
+151|Này! Này!
+152|Germa!
+153|Kẻ nào làm hại em trai ta...
+154|ta sẽ không tha!
+155|Nếu em có thể... trốn thoát...
+156|đến East Blue...
+157|em sẽ không bao giờ...
+158|phải nhìn thấy...
+159|mặt cha nữa, đúng không?
+160|Pink Hornet!
+161|Là Mũ Rơm! Bắn!
+162|Em đúng là đứa em trai phiền phức.
+163|Đừng để hắn đi!
+164|Sanji! Em là con trai! Đừng khóc nữa!
+165|Nghe này! Đừng bao giờ quay lại đây!
+166|Ừ!
+167|Chạy đi!
+168|Đừng ngoái lại!!
+169|Sanji... Em trai chị, người tốt bụng nhất thế giới!
+170|Reiju!
+171|Tạm biệt!
+172|Mũ Rơm đã rời đảo! Hạm đội, trả lời!
+173|Nhanh lên, Sanji!
+174|Là Sanji!
+175|Cậu ấy tới rồi, mọi người!
+176|Sanji đang cõng Luffy!
+177|Hoan hô!
+178|Tôi biết Sanji làm được mà!
+179|Luffy!
+180|Tôi thấy rồi, Luffy! Là tàu Sunny!
+181|Bữa tối xong chưa, Sanji?
+182|Trung tâm Tác chiến của Mont d'Or, Thành phố Ngọt - Đảo Whole Cake
+183|Anh Peros!
+184|Trả lời đi! Mama sao rồi?!
+185|Còn Bege thì sao?! Và cái bánh?!
+186|Tùy anh trả lời ra sao mà Đảo Cacao có thể còn loạn hơn nữa, anh Peros!
+187|Trên biển - Phía Big Mom
+188|Trả lời đi, anh Peros!
+189|Ừ, biết rồi!
+190|Anh vẫn đang theo dõi Mama, Bege và mọi người!
+191|Hả? Anh Peros bị sao vậy?!
+192|Anh Mont d'Or! Là Bavarois đây!
+193|Anh Peros để vết thương quá lâu không chữa nên đang yếu dần!
+194|Cái gì?!
+195|Giờ không phải lúc lo chuyện đó... liếm!
+196|Đưa đây!
+197|Chúng tôi đang gần Đảo Bánh Su! Ở đây cũng hỗn loạn lắm!
+198|Chiffon và Bege cuối cùng đã đưa cái bánh tới!
+199|Cái bánh đang ở Đảo Bánh Su! Liếm!
+200|Chỉ vài phút nữa là mọi chuyện kết thúc!
+201|Dù cái bánh đó có tẩm thuốc độc chết người,
+202|chúng ta cũng không thể ngăn bà ấy nữa!
+203|Có ba kết quả có thể xảy ra!
+204|Thứ nhất... ăn phải bánh độc,
+205|Mama sẽ chết!
+206|Thứ hai... Độc không có tác dụng với Mama...
+207|nhưng bánh lại dở!
+208|Eo!
+209|Khi đó bà ấy sẽ không hết đói, và sẽ tiếp tục phá hủy đất nước!
+210|Và thứ ba...!
+211|độc trong bánh không có tác dụng và bánh lại ngon!
+212|Phải có phép màu mới được, nhưng đó là cách duy nhất để chúng ta sống sót!
+213|Chuẩn bị tinh thần đi!
+214|Vị của cái bánh đó sẽ quyết định số phận chúng ta!
+215|Đây là tình huống tệ nhất từ trước tới giờ!
+216|Báo cho cả nước biết!
+217|Họ biết rồi.
+218|Mama đang mất kiểm soát...
+219|Nghe nói Đảo Hạt bị tàn phá hoàn toàn.
+220|Cái gì?!
+221|Totto Land sẽ ra sao đây?!
+222|Giống hệt chơi trò roulette Nga với cái bánh này!
+223|Này! Morgans và Stussy đâu rồi?!
+224|Họ rời đảo từ lúc nãy rồi...
+225|Cái gì?!
+226|Bắt họ lại!
+227|Nếu kết quả tệ nhất xảy ra, tin tức sẽ lọt ra thế giới bên ngoài!
+228|Rõ!
+229|Bằng mọi giá không được để tên nhà báo đó rời khỏi đất nước này!
+230|Hắn có thể đăng bất cứ thứ gì!
+231|Đảo này tiêu rồi! Đi khỏi đây thôi!
+232|Thị trấn Bông Xốp - Đảo Bánh Su
+233|Mama sẽ phá nó giống như Đảo Hạt!
+234|Chiffon-sama bị tên phản bội Bege tẩy não rồi!
+235|Chiffon! Em nói gì vậy?!
+236|Tôi làm vậy vì tôi tin vào chiếc bánh do Chân Đen làm.
+237|Tôi không biết anh ta học nấu ăn ở đâu...
+238|nhưng tay nghề của anh ta vượt cả đầu bếp trưởng!
+239|Vito! Gotti!
+240|Hai người đi tìm tàu để chạy trốn đi!
+241|Lát nữa tôi sẽ đưa Chiffon theo!
+242|V-Vâng!
+243|Rõ!
+244|Chúng ta đã trả xong nợ cho băng Mũ Rơm.
+245|Chúng ta mất con tàu quý giá.
+246|Cái lũ Mũ Rơm đáng ghét!
+247|Tao sẽ không tha nếu tụi nó chết sau tất cả những gì bọn tao đã làm!
+248|Bánh...
+249|cưới!!
+250|Hoan hô! Họ về rồi!
+251|Luffy!
+252|Sanji!
+253|Luffy-san!
+254|Luffy!
+255|May quá, hai cậu không sao!
+256|Tôi vui quá! Thật đó!
+257|Cậu ấy kiệt sức hoàn toàn rồi...
+258|Làm tốt lắm! Luffy! Sanji!
+259|Tôi lo cho cậu lắm, Luffy!
+260|Garchu!
+261|Hai cậu... Để bọn tôi đợi lâu quá!
+262|Vâng, vâng!
+263|Luffy... Cậu đã đánh bại Katakuri à?
+264|Ừ!
+265|Wow!
+266|Tôi ấn tượng quá, Luffy-san!
+267|Cậu ấy ngủ rồi sao?!
+268|Vết thương vẫn còn mới...
+269|Chopper-san, băng vết thương cho cậu ấy đi! Mất nhiều máu quá phải không?!
+270|Ừ!
+271|Sanji, cậu cũng vậy. Cậu bị bắn mà!
+272|Ồ, không sao đâu.
+273|Tốt! Cuối cùng cũng vào tầm bắn rồi.
+274|Chúng ta không để ý chúng đuổi kịp!
+275|Chưa cắt đuôi được chúng! Vừa chạy vừa chữa trị cho cậu ấy!
+276|Ừ!
+277|Bắn!
+278|Cái gì vậy...?
+279|Germa đang yểm trợ cho chúng!
+280|Đồ khốn Judge!
+281|Chúng ta có nên bắn trả không?!
+282|Không, kệ chúng đi!
+283|Germa cũng đang giao chiến với hạm đội ở bến cảng!
+284|Nhắm vào tàu của Mũ Rơm!
+285|Rõ, thưa bà!
+286|Sao các người quan tâm hắn đến vậy?! Mũ Rơm Luffy!
+287|Đây là lãnh thổ của Tứ Hoàng Big Mom!
+288|Các người ở nơi mà đã vào là không thể thoát ra!
+289|Vậy mà các người vẫn liều mạng chỉ để cứu một người?!
+290|Sanji là thất bại của Germa!
+291|Nó không thể dùng da làm khiên...
+292|Nó nấu ăn vì chẳng có chút tự tôn hoàng tộc nào!
+293|Ừ...
+294|Là một tên ngốc mềm lòng...
+295|và có cái đầu yếu mềm khiến nó liều mạng vì kẻ yếu!
+296|Nó thật sự không xứng làm một chiến binh!
+297|Nó chỉ có vậy thôi!
+298|Tạm biệt! Cảm ơn đã giúp đỡ!
+299|Sao các người không trả lời ta?!
+300|Mũ Rơm!
+301|Tôi ngạc nhiên đấy. Sao ông ta tự nhiên đi liệt kê toàn điểm tốt của cậu vậy?
+302|Cái gì?! Ông ta đâu có ý đó!
+303|Cái gì?!
+304|Mấy cậu là nhất!
+305|Nami! Nhìn phía trước kìa!
+306|Gì vậy?
+307|Không! Tệ rồi!
+308|Jinbe! Có cả một hạm đội khổng lồ ngay trước mặt!
+309|Chúng tới từ lúc nào vậy?!
+310|Có vẻ cuối cùng chúng cũng nhận ra...
+311|Cả đống tàu luôn!
+312|Làm sao đây? Lại bị kẹp từ hai phía rồi!
+313|GERMA 66
+314|TÀU SUNNY
+315|ĐẢO CACAO
+316|Hạm đội nhàn rỗi đã kịp vòng ra sau chúng ta!
+317|Bị bao vây rồi!
+318|Chúng ta đã nằm trong tầm bắn của chúng!
+319|Sao có thể?!
+320|Đúng vậy!
+321|Bọn tôi tới từ cả trước lẫn sau, thỏ à!
+322|Carrot-chan!
+323|Phía trước là hạm đội... phía sau là thần đèn!
+324|Thần đèn đích-thực...
+325|Rage Split!
+326|Chân Đen?!
+327|Sanji!
+328|To quá!
+329|Cuối cùng ngươi cũng vào tầm năng lực của ta!
+330|Giờ trông như chúng ta đang bắt nạt họ.
+331|Sao chúng tới gần nhanh như vậy?!
+332|Nhìn kỹ mấy chiếc tàu phía trước!
+333|Toàn là tàu guồng nước!
+334|Không thể nào!
+335|Không cách nào thoát được!
+336|Chắc hết rồi! Chúng ta mới đi được tới đây, nhưng mà...
+337|Nghiền nát chúng!
+338|Chuyện gì vậy?!
+339|Mặt biển đang phồng lên...
+340|Ta không tha cho kẻ nào...
+341|gây rắc rối cho đại ca!
+342|Cái gì?!
+343|Tên đó... là thành viên băng Hody ở Đảo Người Cá...
+344|Wadatsumi!
+345|Gì?
+346|Không thể nào!
+347|Jinbe!
+348|Các cậu!
+349|Bọn tôi đến tiễn đại ca! Thuyền trưởng Jinbe!
+350|À, "cựu" thôi! Cựu Thuyền trưởng!
+351|Cho đến khi ra khỏi lãnh thổ Big Mom, bọn tôi vẫn là thuyền viên của ông... được chứ?!
+352|Tôi hiểu rồi!
+353|Cút đi!
+354|Ngầu quá!
+355|C-Cái gì vậy?!
+356|Tàu ngập nước rồi!
+357|Ai đó đục thủng đáy tàu sao?!
+358|Có người cá dưới nước!
+359|Sao chúng lén lút vậy được?!
+360|Ra đây, lũ người cá đáng ghét!
+361|Lũ khốn!
+362|Chết tiệt!
+363|Tao sẽ không để Mũ Rơm thoát!
+364|Thần đèn!
+365|Dòng Hải Lưu...
+366|Quật Vai!
+367|Nhìn kìa!
+368|Một lối mở ra trên biển!
+369|Cứ tiến lên trong lúc bọn tôi cầm chân chúng, Thuyền trưởng Jinbe!
+370|Bọn tôi sẽ không để chúng động vào tàu của băng Mũ Rơm!
+371|Cảm ơn các cậu!
+372|Sao mình không nhận ra nhỉ?
+373|Họ còn vô hiệu hóa Ốc Sên Lãnh Hải của địch cho chúng ta nữa.
+374|Họ giúp tôi đến tận cùng.
+375|Đúng là thuyền viên của Jinbe!
+376|Ừ!
+377|Cảm ơn...
+378|các cậu!
+379|Thay bọn tôi chăm sóc Jinbe nhé! Mũ Rơm!
+380|Được!
+381|Bắn!
+382|Hợp thể!
+383|Oven-sama, anh không nên ở Đảo Cacao sao?!
+384|Anh giao Germa cho Brûlée rồi!
+385|Đây là đạn hợp kim kim loại nặng có thể...
+386|dễ dàng xuyên thủng Raid Suit của Germa!
+387|Đi dạy cho chúng một bài học!
+388|Rõ, thưa bà!
+389|Lại là thằng đó!
+390|Mũ Rơm!
+391|Vì mày đã hạ Katakuri, mày là kẻ cuối cùng...
+392|tao để sống rời khỏi đây!
+393|Sẽ ra sao đây?
+394|Đừng lo. Sẽ ổn thôi!
+395|Người nướng chiếc bánh này....
+396|là một đầu bếp thực thụ!
+397|Khoan, Chân Đen! Cách đó chẳng phải mất cả đêm sao?
+398|Dành thời gian này là điều thiết yếu.
+399|Nhưng chúng ta không có thời gian!
+400|Tôi sẽ làm xong trong hai tiếng!
+401|Cậu đùa à!
+402|Sao cậu còn cười?! Nghiêm túc lên, Chân Đen!
+403|Tàu của cậu và đất nước chúng tôi đang bị đe dọa!
+404|Tôi xin lỗi...
+405|Tôi không kìm được vì...
+406|tôi đang nghĩ đến cảnh Big Mom nói chiếc bánh này "ngon" với vẻ mặt sung sướng.
+407|Đáng yêu làm sao!
+408|Vẻ mặt sung sướng của bà ấy?!
+409|Cậu không nhận ra mạng sống của mình đang gặp nguy sao?
+410|Mama!
+411|Chất độc đã giết bà ấy sao?!
+412|Ngon quá... ta có thể chết ngay bây giờ!
+413|Vị ngọt không thể tin nổi!
+414|Là nó rồi!
+415|Chiếc bánh cưới!
+416|Bà ấy dừng lại rồi...
+417|Còn chất độc thì sao?!
+418|Chắc chắn có trong đó! Chỉ là không có tác dụng! Đúng là Mama của chúng ta!
+419|Chân Đen!
+420|Đó là vẻ mặt mà cậu muốn thấy!
+421|Gửi tất cả các đảo của Totto Land.
+422|Thiệt hại sẽ không lan thêm nữa!
+423|Nhờ nỗ lực của con gái thứ 35 nhà Charlotte, Pudding...
+424|cơn đói của Mama đã được dập tắt!
+425|Tạ ơn trời! Tôi tưởng đảo này sẽ là kế tiếp, vì gần Đảo Cacao quá!
+426|Đáng sợ thật!
+427|Giờ chúng ta ổn rồi!
+428|Cảm ơn, Bege!
+429|Nhờ lợi dụng Chiffon-sama đã phản quốc, Pudding-sama đã cứu Totto Land!
+430|Không ai khác làm được!
+431|Cảm ơn Pudding-sama!
+432|Đúng là Pudding-sama của chúng ta!
+433|Không...
+434|Không phải tôi.
+435|Cứ lại đây!
+436|Sparking... Figure!
+437|Địa Ngục Biển Nóng!
+438|Mọi người, bơi sâu xuống biển đi!
+439|Nóng quá! Không lại gần hắn được!
+440|Các ngươi không có chỗ nào được bảo vệ!
+441|Và không có nơi nào để chạy!
+442|Chết tiệt!
+443|Làm sao đây, Luffy?!
+444|Chúng ta...
+445|tiến lên!
+446|Queen Mama Chanter sắp tới Đảo Cacao.
+447|Tốt! Vừa kịp lúc!
+448|Chúc Mừng Sinh Nhật Linlin
+449|Chúc Mừng Sinh Nhật Linlin
+450|Chúc Mừng Sinh Nhật!
+451|Linlin!

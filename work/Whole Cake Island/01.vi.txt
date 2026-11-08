@@ -1,0 +1,423 @@
+1|Lên tàu thôi!
+2|Đó là...
+3|Là công chúa Vivi!
+4|Thượng lộ bình an!
+5|Công chúa Vivi!
+6|Công chúa điện hạ!
+7|Này, Koza.
+8|Vivi-chan trông phấn khích lắm.
+9|Chắc tinh thần hải tặc của cô ấy đã trở lại.
+10|Đúng lúc tôi tưởng cô ấy đã giống công chúa hơn.
+11|Vâng, Hina đây. Bọn tôi vừa rời Arabasta.
+12|Chúng tôi sẽ đưa gia tộc Nefertari đến Mary Geoise an toàn.
+13|Quý cô Hina, xin hãy nhận những bông hoa này!
+14|Tôi hái cho cô đấy!
+15|Tôi không cần.
+16|Jango! Fullbody! Vào vị trí ngay!
+17|Rõ, thưa cô!
+18|Công chúa Vivi! Công chúa Vivi!
+19|Nguy hiểm lắm, thưa điện hạ!
+20|Xin hãy xuống khỏi đó ngay!
+21|Công chúa Vivi!
+22|Gió biển dễ chịu quá...
+23|Nếu có con chim lạ đến quắp người đi thì sao?!
+24|Lỡ có tay bắn tỉa nhắm vào người, hay thiên thạch rơi xuống thì sao?!
+25|Các ông lo xa quá.
+26|Dù sao điện hạ cũng từng là hải tặc mà.
+27|Ông làm sao thế, Pell?! Hải Quân đang nhìn chúng ta đấy!
+28|Đừng gắng sức quá, thưa bệ hạ.
+29|Nếu người không khỏe, chúng ta quay về ngay.
+30|Không, ta ổn.
+31|Từ khi gặp Nico Robin,
+32|ta luôn muốn hỏi Chính phủ Thế giới một điều.
+33|Ta chỉ muốn biết về lịch sử thôi...
+34|Quá nhiều kẻ thù chắn đường ước mơ của ta...
+35|Về các poneglyph sao?
+36|Ta quyết tham dự Reverie năm nay!
+37|Nếu có thể, ta muốn biết
+38|các vị vua Nefertari đời trước đã làm gì với thế giới này!
+39|Ôi không! Ôi không!
+40|Ôi không! Ôi không! Ôi–
+41|Này! Cư xử cho đàng hoàng, thưa điện hạ!
+42|Cha yêu quý, người khỏe không?
+43|Không khỏe. Có khi ta chẳng sống được bao lâu nữa...
+44|Giá mà con gái ta chịu lấy chồng trước khi quá muộn.
+45|Không công bằng! Cha lại lôi bệnh ra ép con nữa rồi!
+46|Chúng ta có cả đống ảnh các ứng viên đây này!
+47|Vứt hết đi!
+48|Chúc mừng lễ đăng quang của ngài.
+49|Khách sạn của chúng tôi được xây riêng cho các hoàng gia dự Reverie bốn năm một lần.
+50|Mong ngài hài lòng với kỳ nghỉ.
+51|Cũng không phải là không-không tệ.
+52|Phải không, mình?
+53|Ờ, cũng chẳng có gì đặc biệt.
+54|Chỉ được cái nhìn ra giàn hành hình nơi Gold Roger bị xử tử.
+55|T-Thế thì, xin ngài cứ nghỉ ngơi cho đỡ mệt sau chuyến đi,
+56|bệ hạ Sterry.
+57|Ừ, sẽ nghỉ. Giờ biến khỏi mắt ta đi, đồ rác rưởi.
+58|V-V-Vâng, thưa ngài!
+59|Các quốc gia trên thế giới đang bất an
+60|vì Reverie diễn ra ở trung tâm thế giới,
+61|tại Thánh địa Mariejois, bốn năm một lần.
+62|Tại hội nghị tối cao này, 50 nhà lãnh đạo sẽ tề tựu
+63|để bàn bạc và tranh luận những vấn đề hệ trọng nhất thế giới
+64|và thống nhất hướng đi chung cho tương lai.
+65|Nhưng do bản tính thận trọng của những nhà lãnh đạo quyền lực nhất, các cuộc họp không phải lúc nào cũng yên ả.
+66|Thủ lĩnh Thủy quân Happou, Don Chinjao...
+67|Ý tôi là, thủ lĩnh mới Sai vẫn chưa về, đúng không?
+68|Từ khi Mũ Rơm và đồng bọn hạ gục gia tộc Donquixote,
+69|kẻ địch của ta không mua được vũ khí từ chúng nữa.
+70|Nhờ vậy, cuộc chiến đã chấm dứt.
+71|Có vẻ chúng ta sẽ kịp đến Reverie.
+72|Em có bao nhiêu điều cần nói!
+73|Em không làm nổi đâu.
+74|Em sợ lắm.
+75|Ngài Luffy đã hứa với em!
+76|Khi gặp lại, anh ấy sẽ đưa em
+77|đi dạo trong một khu rừng thật trên mặt đất!
+78|Tất nhiên, Luffy-kun còn đưa em đi xa hơn nữa nếu em muốn!
+79|Nhưng chuyến này, chúng ta đi thẳng đến Mary Geoise.
+80|Các anh và Quân đội Neptune sẽ ở bên em, công chúa Shirahoshi!
+81|Trời ơi...
+82|Cha ơi, hay là cho Shirahoshi
+83|bỏ qua lần này, mi-re-do?
+84|Đúng đó! Mình có cả đống chữ ký trong bản kiến nghị
+85|xin dời Đảo Người Cá!
+86|Ôi! Mambo!
+87|Vậy chẳng khác nào nói mình không tin con người.
+88|Phải làm sao đây?
+89|Shirahoshi, con đã học được gì từ băng Mũ Rơm?
+90|Cuộc họp này là điều mẹ Otohime của chúng ta mong đợi.
+91|Đi cùng bọn anh nào!
+92|Vua Wapol! Thần có báo cáo!
+93|Drum, vương quốc ngài từng cai trị, đã có tên mới. Giờ là Vương quốc Sakura!
+94|Nghe nói Dalton sẽ dự Reverie với tư cách vua nơi đó.
+95|Gì?! Vương quốc Sakura?!
+96|Đồ Dalton chết tiệt...
+97|Không biết ta làm gì được để kéo hắn xuống tại Reverie đây?!
+98|Bà nói gì cơ, bác sĩ Kureha? Bà nghiêm túc đấy à?
+99|Sao mọi người ai cũng ủ rũ vậy?
+100|Tôi bảo là tôi sẽ làm bác sĩ trên tàu của các cậu.
+101|Không vui sao?
+102|Gì cơ?! Em đi cùng được không?!
+103|Tất nhiên rồi! Em có muốn đi làm thị nữ của chị không?
+104|Em rất muốn! Cảm ơn chị Viola!
+105|Chắc em háo hức lắm, Rebecca!
+106|Dạ vâng!
+107|Biết đâu em mặc được váy của mẹ!
+108|Ừ! Thế thì tuyệt quá!
+109|Vua Riku! Tôi đã từ chối tàu chiến hộ tống!
+110|Ngài có muốn đi cùng tôi đến Thánh địa không?
+111|Sao ai cũng nghĩ đây là kỳ nghỉ vậy?
+112|Có gì sai đâu?
+113|Reverie như một lễ hội mà!
+114|Trong lúc đó, nhóm của Luffy...
+115|Này... quay sang mạn phải chút...
+116|Được rồi...
+117|Thế này được chưa?
+118|À... thêm chút nữa.
+119|Này, này, này!
+120|Cố lên chứ! Không là chìm đấy!
+121|Im đi! Tại cậu nhảy khỏi con voi đột ngột nên cả bọn mệt nhoài rồi! Đồ ngốc!
+122|Cảm ơn. Tôi lại được tận hưởng niềm vui còn sống...
+123|Nhưng... tôi sẽ bắt các cậu trả giá!
+124|Thấy chưa... lại lạc hướng rồi.
+125|Quay sang trái...
+126|Được! Cứ để tôi!
+127|Thấy chưa?! Cô ấy đầy sức sống...
+128|Wow! Chúng ta thật sự đang ở trên biển!
+129|Con thuyền to nặng thế này mà cảm giác như lơ lửng trên không!
+130|S-Sao cậu ở đây?!
+131|Hảaa?!
+132|Carrot?!
+133|Carrot, sao em ở đây?!
+134|Em quyết định đi theo!
+135|Garchu!
+136|Nami!
+137|Chopper!
+138|Baron Corpse!
+139|Quá đáng!
+140|Xin lỗi, nhưng chúng ta phải quay lại!
+141|Gì?!
+142|Đừng thế! Wanda sẽ giận em mất!
+143|Em muốn làm phiền những ân nhân của chúng ta sao, Carrot?
+144|Em chỉ muốn đi phiêu lưu trên biển cùng Luffy và mọi người, dù đây là cơ hội duy nhất.
+145|Chúng tôi đang thâm nhập hang ổ của một Hoàng. Đây không phải trò chơi!
+146|Xin mà! Em làm gì cũng được! Cứ cho em đi theo! Em sẽ không gây rắc rối đâu! Em còn mang theo...
+147|Nhìn nè!
+148|Cơm trưa!
+149|Nước ép!
+150|Đồ ăn vặt!
+151|Một cái áo dự phòng!
+152|Em nghĩ chừng đó đủ được bao lâu?
+153|Ít nhất nửa ngày! Biển chẳng phải rộng lắm sao?
+154|Gì?! Đến lãnh thổ Big Mom mất mấy ngày sao?!
+155|Dù đi đường thẳng sao?! Em không tin được biển lại rộng thế!
+156|Biển như xứ thần tiên vậy!
+157|Em chưa từng ngủ xa nhà bao giờ!
+158|Xứ... thần tiên á? Đang ở giữa biển mà.
+159|Thôi kệ. Em đã lên tàu rồi thì đành chịu thôi!
+160|Em có tự vệ được khi đánh nhau không?
+161|Có! Cảm ơn! Em sẽ ổn thôi...
+162|Sao em lại ăn củ cà rốt của tôi?!
+163|Xoa đầu cô bé đi, Luffy!
+164|Suýt nữa thì! Cậu suýt giết tôi đó! Cậu mạnh thật!
+165|Không sao, cậu cứ ăn củ cà rốt đi.
+166|Luffy suýt thua!
+167|Thì, cô bé đánh giỏi mà.
+168|Pedro-san, ông lên đó từ khi nào vậy? Ông thích chỗ cao thật.
+169|Tôi đói. Ăn thôi.
+170|Ai đó nấu gì đi!
+171|Được rồi! Tôi nấu, nên cậu cứ để mắt đến sóng giúp tôi nhé?
+172|Rõ!
+173|Yay!
+174|Mỗi người 5.000 beri nhé.
+175|Khoan! Khoan! Khoan! Khoan! Khoan! Khoan! Khoan!
+176|Thế thì hết sạch tiền tiêu vặt của bọn tôi!
+177|Vậy giờ làm sao?
+178|Hoặc tôi nấu, hoặc cậu nấu, Brook.
+179|Đúng vậy.
+180|Giao cho Luffy-san thì không biết cậu ấy nấu ra thứ gì nữa!
+181|Để tôi nấu!
+182|Gì cơ?!
+183|Cứ tin ở tôi! Tôi sẽ nấu cho các cậu thật nhiều món ngon!
+184|Ôi không...
+185|Ôi, xin đừng mà... Này, khoan!
+186|Đồ ăn! Đồ ăn! Đồ ăn!
+187|Khoan! Đừng làm thế!
+188|Luffy! Cậu biết nấu ăn thật không?!
+189|Tít báo này lớn thật.
+190|"Hòn đảo bị che phủ bí ẩn hàng chục năm..."
+191|"cuối cùng đã bị phát hiện."
+192|"Tổng hành dinh Quân Cách Mạng, Baltigo..."
+193|"Tổng hành dinh Quân Cách Mạng đã bị phát hiện."
+194|"đã thành đống đổ nát!"
+195|Gì cơ?!
+196|"Tổng hành dinh Quân Cách Mạng đã bị phát hiện."
+197|Quân Cách Mạng bị đánh bại sao?!
+198|Tôi tưởng cậu là con trai của Dragon Cách Mạng.
+199|Sabo!
+200|Là anh tôi!
+201|Sabo-san?! Người anh cậu nói đã gặp ở Dressrosa à?
+202|Anh ấy là tham mưu trưởng sao?! Vậy là người số hai của Quân Cách Mạng!
+203|Ba anh em các cậu là loại gì vậy?!
+204|Vậy thì... gã Dragon bên cạnh anh ấy là...
+205|Phải, chính ông ấy! Nhớ ông cậu nói gì với bọn mình hai năm trước chứ!
+206|Tên cha cậu là...
+207|Monkey D. Dragon. Một nhà cách mạng.
+208|Tổng tư lệnh Quân Cách Mạng, Dragon.
+209|Đó là cha cậu!
+210|Hả?! Đây là cha tôi sao?!
+211|Giờ cậu mới biết à?!
+212|Tôi chưa từng gặp ông ấy!
+213|Gì?! Cha của Luffy là thủ lĩnh Quân Cách Mạng sao?!
+214|Tuyệt quá! Tuyệt quá! Garchu!
+215|Hai năm qua cậu không tìm hiểu gì về ông ấy sao?!
+216|Người bình thường ít nhất cũng tò mò chút nếu cha mình là nhân vật nổi tiếng thế!
+217|Robin còn làm việc dưới trướng ông ấy lúc chúng ta xa nhau nữa.
+218|Ra vậy! Lần đầu tôi thấy ông ấy! Trông không giống tôi lắm.
+219|Dù sao thì tôi lo cho Sabo!
+220|Trời ạ...
+221|Thì, khó mà đồng cảm với một tấm ảnh.
+222|Một nguồn tin ẩn danh đã tiết lộ vị trí tổng hành dinh.
+223|Nhưng khi Hải Quân và Cipher Pol tới nơi...
+224|băng Râu Đen đã san phẳng căn cứ rồi.
+225|Râu Đen?! Lũ khốn đó!
+226|Nhưng... sao Râu Đen, một Hoàng, lại tấn công Quân Cách Mạng?
+227|Ở Dressrosa, Sabo đã đánh với gã nhà vô địch đó. Có khi liên quan chăng?
+228|Này, Luffy!
+229|Nghe nói Râu Đen giao chiến chớp nhoáng với Cipher Pol rồi bỏ chạy.
+230|Này, Luffy!
+231|Bài báo không nói gì về thương vong.
+232|Này!
+233|Nếu cha hay anh cậu bị bắt hoặc bị giết thì đã thành tít lớn rồi.
+234|Này, Luffy!
+235|Vậy chắc là tạm thời họ vẫn ổn.
+236|Ừ! Cậu nói đúng!
+237|Này, Luffy!
+238|Gì vậy?!
+239|Cảm ơn cậu nấu cho bọn tôi, nhưng thế này có ổn không?!
+240|Hả?
+241|Cháy sao?!
+242|Ôi không! Tôi quên tắt bếp!
+243|Cái gì?!
+244|Có thứ gì nổ!
+245|Dập lửa đi!
+246|Khoan! Bão đang tới!
+247|Gì?!
+248|Cái gì đây?! Điện sao?!
+249|Kéo buồm lên! Gió sẽ xé nát chúng!
+250|Còn đám cháy thì sao?!
+251|Mưa sẽ dập tắt nó!
+252|May quá!
+253|Chẳng có gì "may" ở đây cả!
+254|Cậu cũng giúp đi!
+255|Tôi chết mệt rồi!
+256|Vậy... Carrot đang ở ngoài biển sao?!
+257|Sao cậu không nói sớm hơn, Bariete?
+258|Em xin lỗi, Wanda!
+259|Em đã bảo Carrot phải nói với mọi người là con bé đi.
+260|Nhưng con bé nói...
+261|Không đời nào! Nói với ai là họ sẽ cản em!
+262|Ra vậy! Nó mua chuộc cậu đúng không?
+263|Giật mình!
+264|Bị bắt quả tang rồi...
+265|Nhưng Carrot không muốn đi sau lưng ngài đâu, Wanda!
+266|Không sao. Biết con bé ở đâu là tôi mừng rồi.
+267|Tôi lo hơn khi con bé mất tích.
+268|Con bé sẽ an toàn nếu ở cùng nhóm Luffy.
+269|Thưa ngài, xin hãy nghỉ ngơi. Tôi sẽ cho tăng thêm lính canh.
+270|Tôi nghi kẻ địch có một vivre card.
+271|Nhưng sao chúng lấy được nó?!
+272|Tôi chỉ mong tấm thẻ đã mất cùng những con tàu Zunesha nhấn chìm...
+273|Ông nghĩ chúng sẽ quay lại không?
+274|Tốt nhất ta nên cảnh giác.
+275|Đúng vậy.
+276|Nhanh lên!
+277|Nhanh kéo tao ra khỏi đây!
+278|Đúng như ta nghĩ, thuyền trưởng Jack đã thất bại trong việc cứu Joker!
+279|Vậy là thỏa thuận về Trái Ác Quỷ nhân tạo SMILE của chúng ta chấm dứt!
+280|Hôm nay hắn say khóc lóc.
+281|Vậy thì... ta không tạo thêm gifter được nữa!
+282|Joker! Ôi, Joker!
+283|Sao ngươi để mình bị đánh bại thế?!
+284|Chúng ta định lập nên băng hải tặc mạnh nhất, toàn người dùng Trái Ác Quỷ!
+285|Vậy mà...
+286|Ngươi bị một lũ nhóc ranh mới nổi hạ gục trước khi giấc mơ thành hiện thực!
+287|Tội nghiệp Joker! Chỉ vì hắn yếu đuối quá...
+288|Nhưng dạo này ai cũng bàn tán về Mũ Rơm. Nếu ngài xem thường hắn...
+289|Nếu ta xem thường hắn...
+290|Thì sao hả?!
+291|Ngươi nghĩ ta là ai?!
+292|Ngài ấy chuyển sang say giận dữ rồi!
+293|L-Lãnh chúa Kaido... Xin ngài bình tĩnh!
+294|Mũ Rơm Luffy! Trafalgar Law!
+295|Ta biết! Chúng thuộc thế hệ đó chứ gì?!
+296|Lũ nhóc đó nghĩ mình ghê gớm vì hạ được một Thất Vũ Hải!
+297|Chắc chúng biết mình đã động đến việc làm ăn của ta!
+298|Khốn kiếp chúng!
+299|Này, ngươi đó!
+300|Nhắn lại cho lũ ngốc cùng thế hệ của ngươi thế này:
+301|"Chạy đi khi còn kịp. Bấy lâu nay các ngươi chỉ chơi trò hải tặc thôi!"
+302|Eustass "Thuyền trưởng" Kid!
+303|Ôi, lạnh quá!
+304|Bọn tôi vá xong mái rồi!
+305|Được rồi, làm tốt lắm.
+306|Được rồi! Bão tan rồi! Mái bị thổi bay cũng vá xong!
+307|Tôi giữ an toàn đồ ăn tôi nấu rồi, ăn thôi!
+308|Yay! Đồ ăn! Đói chết đi được!
+309|Ồ, ngon đến vậy sao?!
+310|Món cà ri đặc biệt của tôi!
+311|Luffy, không ăn gạo sống được!
+312|Cái thứ tím đắng này là gì?
+313|Đầy xương cá.
+314|Mứt nhiều quá!
+315|Có thứ gì dính dính màu xanh nhạt.
+316|Bọn tôi đã làm gì để bị thế này?
+317|Sao các cậu thô lỗ thế khi tôi đã mất công nấu chứ!
+318|Eo!
+319|Thấy chưa, đã bảo mà!
+320|Cái này không ăn được!
+321|Đừng lật bàn!
+322|Dám phí phạm đồ ăn! Sanji-san mà biết sẽ nổi giận đấy!
+323|Toàn bộ đồ ăn bọn tôi chất lên... hết sạch rồi!
+324|Ừ, tôi làm hỏng nhiều quá nên dùng hết.
+325|Cái gì?! Đó là lương thực một tuần của cả bọn!
+326|Tôi tưởng các cậu đói!
+327|Không buồn cười đâu!
+328|Giờ biết làm sao đây?!
+329|Luffy...
+330|Này, tôi đói quá...
+331|Sanji-san! Cứu bọn tôi với!
+332|Vậy là, chỉ ngày đầu hành trình của Luffy... cả băng đã đứng trước nguy cơ chết đói.
+333|Tôi tưởng đây là tuyết, nhưng...
+334|Là bão kẹo bông flurry!
+335|Con ốc sên truyền tin đó reo không ngớt...
+336|Nó đang nhận tín hiệu cảnh báo.
+337|Nghĩa là chúng ta đang ở lãnh thổ Mama.
+338|Tín hiệu có lan đến chỗ đằng kia không?
+339|Cậu học nhanh đấy! Đó là Tarte 28.
+340|Là tiền đồn nơi một đại đội băng Big Mom đang sẵn sàng-millefeuille!
+341|Nếu không đi tàu của Mama thì chúng đã tấn công bằng một tiếng "bùm" nhanh gọn rồi!
+342|Nào, cậu quyết định chưa? Đừng cứng đầu thế.
+343|Hãy noi gương Germa 66 mà thề trung thành với băng Big Mom.
+344|Đó là mong muốn của cha cậu.
+345|Đừng nhắc đến ông ta! Nghe là buồn nôn!
+346|Quan hệ của bọn tôi đã đứt từ lâu rồi!
+347|Tôi chỉ đến đó để giải quyết cho rõ ràng.
+348|Đừng làm bộ cứng rắn.
+349|Mama dễ chịu hơn cậu tưởng nhiều.
+350|Tất nhiên bà biết cậu là đồng đội của tên Mũ Rơm ngốc đó-s'il vous plaît.
+351|Nhưng bà ngưỡng mộ việc cậu từng là đầu bếp ở nhà hàng trên biển ở East Blue.
+352|Tùy tay nghề, bà có thể cho cậu vị trí còn tốt hơn nữa.
+353|Thôi đi!
+354|Nghe đây! Đôi tay này của tôi chỉ dùng để nấu ăn cho bạn bè!
+355|Vì mục đích đó, tôi còn tự rèn luyện trong địa ngục!
+356|Tôi chắc giờ họ đang nhớ món của tôi và khóc đấy...
+357|Thật vô lý!
+358|Tôi sẽ không bao giờ nấu món cho loại người...
+359|sẵn sàng hạ gục đồng đội mà không chút do dự!
+360|Ồ, cậu nói Pekoms hả?
+361|Hắn để cảm xúc cá nhân xen vào công việc. Bege làm đúng.
+362|Baron Tamago.
+363|Vito!
+364|Chúng tôi có ảnh của tiểu thư Pudding từ Whole Cake Island!
+365|Để cậu chuẩn bị tinh thần.
+366|Họ biết cưới người chưa từng gặp là khó. Họ gửi ảnh thật chu đáo.
+367|Không quan trọng, đồ ngốc. Tôi không cưới đâu!
+368|Cứ xem thử đi.
+369|Im đi! Tránh xa không tao đá chết!
+370|Nào, xem đi.
+371|Thôi đi...
+372|Đây là hôn thê của cậu...
+373|Con gái thứ 35 của gia tộc Charlotte. Tiểu thư Charlotte Pudding!
+374|Arabasta Vương quốc Cát
+375|Arabasta Vương quốc Cát
+376|"Lồng Đen" Hina Chuẩn Đô đốc Tổng bộ Hải Quân
+377|"Lồng Đen" Hina Chuẩn Đô đốc Tổng bộ Hải Quân
+378|Nefertari Vivi Công chúa Arabasta
+379|Nefertari Vivi Công chúa Arabasta
+380|Nefertari Cobra Vua Arabasta
+381|Nefertari Cobra Vua Arabasta
+382|Loguetown, East Blue
+383|Loguetown, East Blue
+384|Sarie Nantokanette Nữ hoàng Goa
+385|Sarie Nantokanette Nữ hoàng Goa
+386|Xứ Kano, West Blue
+387|Xứ Kano, West Blue
+388|Vương quốc Ryugu Dưới Red Line
+389|Vương quốc Ryugu Dưới Red Line
+390|Shirahoshi Công chúa Vương quốc Ryugu
+391|Shirahoshi Công chúa Vương quốc Ryugu
+392|Ryuboshi Hoàng tử Vương quốc Ryugu
+393|Ryuboshi Hoàng tử Vương quốc Ryugu
+394|Manboshi Hoàng tử Vương quốc Ryugu
+395|Manboshi Hoàng tử Vương quốc Ryugu
+396|Vua Neptune Quốc vương Vương quốc Ryugu
+397|Vua Neptune Quốc vương Vương quốc Ryugu
+398|Fukaboshi Hoàng tử Vương quốc Ryugu
+399|Fukaboshi Hoàng tử Vương quốc Ryugu
+400|Vương quốc Ác Black Drum South Blue
+401|Vương quốc Ác Black Drum South Blue
+402|Vương quốc Sakura Grand Line
+403|Vương quốc Sakura Grand Line
+404|Dalton Vua Vương quốc Sakura
+405|Dalton Vua Vương quốc Sakura
+406|Dressrosa Xứ sở Đam mê
+407|Dressrosa Xứ sở Đam mê
+408|Vương quốc Prodence
+409|Vương quốc Prodence
+410|Elizabello II Vua Prodence
+411|Elizabello II Vua Prodence
+412|Riku Doldo III Vua Dressrosa
+413|Riku Doldo III Vua Dressrosa
+414|Carrot Thành viên Xạ thủ Mink
+415|Carrot Thành viên Xạ thủ Mink
+416|Zou
+417|Zou
+418|Tại một quốc gia nọ
+419|Tại một quốc gia nọ
+420|Trở lại tàu Thousand Sunny
+421|Trở lại tàu Thousand Sunny
+422|Vài ngày sau trên tàu Big Mom
+423|Vài ngày sau trên tàu Big Mom

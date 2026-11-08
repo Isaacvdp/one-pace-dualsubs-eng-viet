@@ -1,0 +1,369 @@
+1|Leave or life?
+2|Life.
+3|Leave or life?
+4|Life.
+5|Leave or life?
+6|What's going on?!
+7|They've multiplied and are barking like animals!
+8|What happened to you guys?!
+9|Aren't any of you real?!
+10|Hey, Sanji!
+11|Pudding! Chopper!
+12|Carrot!
+13|Nami!
+14|Untie me!
+15|She's talking like a human!
+16|I'm the real one!
+17|Listen up! I was looking for you!
+18|Why did you just grab me like that?!
+19|I... I'm really... really sorry...
+20|But this is pretty crazy. What's going on?
+21|This one certainly looks like me.
+22|This would be easy if the real ones were all among them.
+23|Well, you guys were the ones who multiplied!
+24|We can't multiply! I mean, we did, but...
+25|Hey, you!
+26|What?!
+27|Huh?!
+28|You know what happened, don't you?
+29|You were here the whole time, even when we were attacked by that woman!
+30|I didn't see anything!
+31|Hey, what happened?
+32|I was attacked by you, Luffy!
+33|By me?!
+34|Technically, it wasn't you. But it was a fake that we tried to escape with!
+35|Huh? What do you mean?
+36|Uh...
+37|Then, that "Luffy" suddenly turned into a giant woman... and attacked us...
+38|Let go of me!
+39|Who are you?!
+40|I'm Brûlée!
+41|Brûlée?
+42|A cute rabbit and a pretty girl... How nice...
+43|When I see those beautiful faces,
+44|it makes me want to scratch them up!
+45|Nami!
+46|No!
+47|W-Where's Luffy?!
+48|"Where," indeed.
+49|He's probably wandering, lost in the forest.
+50|Clima-Tact!
+51|Nami, are you okay?!
+52|Yeah! That was close!
+53|Thank you, Usopp!
+54|You cheeky little...
+55|Carrot!
+56|Leave it to me!
+57|Eleclaw!
+58|It's my turn!
+59|Reflection!
+60|Carrot!
+61|Are you okay?!
+62|Carrot's punch came out of the mirror!
+63|I'm a mirror!
+64|I ate the Mirror-Mirror Fruit and became a mirror human!
+65|Just like a mirror reflects light, if you throw a punch at my mirror,
+66|it will also reflect it back!
+67|Be careful, Carrot!
+68|I'll break your stupid mirror!
+69|Mirro-world!
+70|Carrot!
+71|What did you do to her?!
+72|That's the first!
+73|I can't get out! Let me out!
+74|What did you do?! Let Carrot go!
+75|Stay away, Nami!
+76|I can't do that.
+77|Ah! Nami!
+78|Chopper!
+79|Help me!
+80|Mama already knows that you guys are here!
+81|What?!
+82|Did you think no one knew?! How idiotic!
+83|We're all coming after you now. Mama ordered us to!
+84|That one...
+85|And them...
+86|Those fools...
+87|And him!
+88|We've all been told by Mama that we need to...
+89|"let the Straw Hats keep going for now. Just don't let them find Sanji.
+90|Make them regret trying to mess with me!"
+91|Mama knows everything!
+92|Alright, homies! Don't let them escape!
+93|You can't get away!
+94|No!
+95|Chopper!
+96|Nami, run!
+97|There are too many of them! If all three of us get caught, we're done for!
+98|They're members of an emperor's crew! We underestimated them!
+99|Go look for Luffy! I'll do the best I can here!
+100|Okay! I'll be back!
+101|Rumble!
+102|Monster Point!
+103|Look at that! You were already interesting, but you're able to do this too?!
+104|Mama will be happy!
+105|She doesn't just seek every race; she also collects all kinds of strange creatures.
+106|Now, catch them!
+107|Stop, you brat!
+108|Go away!
+109|Luffy! Where are you?!
+110|Then, I kept running around,
+111|looking for you until it got dark.
+112|I see! I'm glad that you found me!
+113|All right!
+114|Let's go save Chopper and Carrot right now! Where are they?!
+115|Right here.
+116|Huh?
+117|All of that happened right here.
+118|But now, they're all gone. That's why I'm asking this guy!
+119|You were watching the whole time! Where's Chopper? And what about Carrot?!
+120|That Brûlée lady and the forest monsters didn't mess with you at all!
+121|That means you're one of them!
+122|Uh... One of them? Well, we're not enemies...
+123|Oh! If you want to know, bring me some apple juice from over on my left–
+124|We don't have time for that!
+125|If you tell us something useful, then sure, we'll bring it to you!
+126|Really?!
+127|Yeah, since you've been mentioning it so much, I wanna try it too.
+128|By the way,
+129|Huh?
+130|you look pretty strong, but...
+131|are you ?
+132|Y-Yes, I am strong! Why does that matter?
+133|I see. Appearances aren't everything, I guess.
+134|That reindeer guy was surprisingly strong,
+135|but the trees of the forest attacked him without hesitation.
+136|Once they get an order, they don't stop
+137|until they complete it!
+138|Really? Then, why did they stop attacking me?
+139|When I beat a bunch of them, they left me alone, too!
+140|Hey, how are they alive, anyways?
+141|Every six months, each resident of Totto Land
+142|must pay a month's worth of their soul to the kingdom,
+143|in exchange for their safety.
+144|Soul?
+145|Yeah, their lifespan, basically.
+146|Huh?!
+147|So the people lose two months of their lifespan in a year...
+148|and one year of their lifespan for every six.
+149|How is that possible?
+150|Linlin, I mean, Big Mom ate the Soul-Soul Fruit.
+151|She can manipulate people's souls.
+152|With that power, she takes the life span of her citizens.
+153|At that moment, the citizens have to choose to stay in Totto Land or leave.
+154|And by spreading the collected souls all over the country,
+155|all kinds of things take on a life of their own.
+156|We call those who came to life "the homies."
+157|The collection and distribution of souls
+158|is handled by Linlin's... um, Big Mom's incarnations made of her own soul.
+159|That's what happens in Totto Land.
+160|When we first arrived, there were lots of odd things alive in the town of chocolate.
+161|Is that why the crocodile was able to talk?! And the human-like rabbit?!
+162|Yeah, that's right. Animals can be personified too.
+163|What an incredible ability!
+164|So, what about these guys?
+165|They're something else.
+166|Brûlée used her ability to turn normal animals into people.
+167|Oh, by the way, souls can't be put into other people or corpses.
+168|Why didn't you tell me that before?! You've been watching me the whole time!
+169|Because I didn't want to get involved!
+170|If you didn't want to get involved, then why are you buried here?!
+171|Why?! Who are you?!
+172|Tell me! I'll get you the juice!
+173|O-Okay! I'll tell you! Just get off of me! Stop!
+174|Long ago... very long ago, I was Big Mom's... I mean, the pirate Charlotte Linlin's...
+175|Linlin's...
+176|Linlin's husband!
+177|Wh... What?!
+178|W-Why is one of the Three Sweet Commanders here?!
+179|Straw Hat!
+180|I'm going to...
+181|put an end...
+182|to your life!
+183|Big Mom's...
+184|...ex-husband?!
+185|Uh-huh.
+186|She and I had two daughters, and then she threw me out.
+187|It's not that anyone's after me...
+188|They just don't pay attention to me!
+189|W-What?!
+190|Who's that?
+191|S-Sir, what brings you here?
+192|Am I not allowed to be here?
+193|No! Of course you are.
+194|Hey!
+195|Ow, ow, ow, ow, ow!
+196|What?!
+197|Ow, ow, ow, ow, ow!
+198|– His body's coming out! – Get back, Nami!
+199|No!
+200|We thought he was a giant!
+201|What's wrong with you? What kind of a fool just gives the enemy information like that?!
+202|W-Wait, Cracker-kun !
+203|I want to see my daughter, Chiffon, even if only for a moment!
+204|I heard she got married! I want to congratulate her!
+205|That's why I need you to let me talk to Linlin!
+206|Also, I heard that Lola ran away!
+207|They're both my precious daughters!
+208|Lola?
+209|Ran away?
+210|One of my beloved older sisters
+211|ran off to sea to find love.
+212|To seek a match of her own.
+213|Hm?
+214|Lola... ran away from home?
+215|Cracker-kun, let go of me! I just want to see Lola... and Chiffon...
+216|I just want to see my daughters!
+217|Lola... That Lola... Could it be?
+218|Lola, you guys went to the New World?!
+219|We didn't go there! We were born in the New World!
+220|Mama is a pirate, too. Ah...
+221|that's right...
+222|This is Mama's vivre card. I'll let you have it.
+223|Paper?
+224|Wow! How lucky! Captain Lola's mama is a great pirate!
+225|Take good care of it! It'll definitely be useful one day!
+226|Everything's starting to make sense...
+227|Huh?
+228|In that case, could... Lola's mama be...
+229|Big Mom?!
+230|And this man is...
+231|Lola's father?!
+232|What?
+233|They're back! It's the rabbit and the crane!
+234|They're... flying!
+235|Stop! Randolph!
+236|Was that haki?! No, not quite...
+237|What was it then?!
+238|They screamed...
+239|and withered up out of fear?!
+240|You must think you're a big shot... if you think you're able to get in my way.
+241|Randolph!
+242|I'm sorry. That was his idea.
+243|Liar! It was yours!
+244|They can talk!
+245|We are very sorry.
+246|Is he someone special?
+247|He looks strong, that's for sure.
+248|Mama always has her next move set in motion.
+249|Since Straw Hat Luffy defeated Doflamingo,
+250|she knew Brûlée would have trouble, so she sent me.
+251|I can't just let you say that, Big Brother!
+252|Whoa! A tree monster!
+253|Oh, that woman!
+254|If she ordered me to do it,
+255|I would have killed them at once!
+256|That's right!
+257|We members of the Seducing Woods team
+258|have never allowed a single target of ours to leave alive!
+259|Oh! It's not just Minister Cracker and Madame Brûlée...
+260|Master Kingbaum is here, too!
+261|I can't believe all three of them are here at the same time!
+262|That's nice and all, but we can't waste any time.
+263|By the midday tomorrow,
+264|the Vinsmoke siblings will arrive at Whole Cake Chateau.
+265|Forming a family connection with the Vinsmokes is something that Mama has wanted for a long time.
+266|We'll have Germa 66's formidable military and advanced technology.
+267|I know that!
+268|They've turned into animals!
+269|And... why is that branch talking?!
+270|I'm not a branch!
+271|Look at this, Straw Hat!
+272|Oh, Luffy!
+273|Luffy, Nami! Help!
+274|What?!
+275|Chopper got caught, too?!
+276|What happened to you guys?! What are you doing in there?!
+277|She trapped us in the mirror! She has a mirror ability! Be careful!
+278|How's this, Brother Cracker?!
+279|I've already got these fools...
+280|by the scruffs of their necks!
+281|Hey, Chopper! Carrot! Are you okay?!
+282|We're fine!
+283|We're not hurt at all!
+284|It's just the mirror that broke. We're safe in this dimension!
+285|So you're okay!
+286|I don't know what you're talking about, but that's good.
+287|Luffy! Listen...
+288|Whatever. Let's start with this blabbermouth.
+289|W-What are you gonna do to me?!
+290|Mama said I can kill you.
+291|What?!
+292|Th-Think about it!
+293|I'm your stepfather, Cracker-kun !
+294|You used to be! Not anymore!
+295|Mama considers her 43 ex-husbands as strangers,
+296|unrelated to us by blood.
+297|How dare you!
+298|But I'm definitely related to my daughters by blood!
+299|Enough!
+300|I just want to congratulate my daughter!
+301|Is this sympathy?
+302|After seeing someone dozens of times, they tend to grow on you!
+303|Th-Thank you!
+304|Thank you!
+305|This isn't good!
+306|Minister Cracker is gonna start a fight here!
+307|Homies! Catch those two so we can finish this!
+308|It's not safe here! Let's run!
+309|Hurry up!
+310|We'll take care of them!
+311|Don't let them get away!
+312|Hey, what's your name?!
+313|I'm Pound.
+314|Did you mention Lola before?
+315|Yeah.
+316|Hang on a second...
+317|Um...
+318|Found it!
+319|What's that?
+320|It's the vivre card of my friend Lola's mom.
+321|But I don't know if it's Big Mom's or not...
+322|What are you doing?! What's wrong, guys?!
+323|What's wrong, Kingbaum?! Even you're stopping?!
+324|We can't do it, Brûlée!
+325|What?
+326|We homies cannot fight against her!
+327|Wha...? Why not?!
+328|I can sense Mama's powerful soul!
+329|Huh?!
+330|What?
+331|No way...! Is this really... Big Mom's vivre card?!
+332|Luffy! No way.
+333|Are you okay?
+334|C-Cracker-kun !
+335|He has more than two arms!
+336|Damn!
+337|That bastard!
+338|I'm Biscuit Knight Cracker, one of the Three Sweet Commanders.
+339|Also known as...
+340|"Thousand Arms" Cracker.
+341|If I tap my arm once, it turns into two.
+342|If I do it again...
+343|it turns into three.
+344|What?!
+345|They'll keep multiplying.
+346|His legs have multiplied, too.
+347|Don't even dream about defeating me.
+348|I won't let you interfere with Mama's tea party!
+349|You've got extra limbs. So what?!
+350|Gear Second!
+351|Gum-Gum...
+352|Jet...
+353|Bullet!
+354|Gum-Gum...
+355|Hawk Whip!
+356|Luffy! No! Don't make this a serious fight! That isn't our goal here!
+357|We need to get out of here to get Sanji-kun back!
+358|I make every fight serious...
+359|I don't know any other way!
+360|Chocolat Town Totto Land
+361|Chocolat Town Totto Land
+362|Seducing Woods
+363|Seducing Woods
+364|Charlotte Cracker (10th Son) One of the Three Sweet Commanders of the Big Mom Pirates and the Minister of Biscuit
+365|Charlotte Cracker (10th Son) One of the Three Sweet Commanders of the Big Mom Pirates and the Minister of Biscuit
+366|Kingbaum Master of the Seducing Woods
+367|Kingbaum Master of the Seducing Woods
+368|"Thousand Arms" Cracker One of the Three Sweet Commanders of the Big Mom Pirates Bounty: 860 Million Belly
+369|"Thousand Arms" Cracker One of the Three Sweet Commanders of the Big Mom Pirates Bounty: 860 Million Belly

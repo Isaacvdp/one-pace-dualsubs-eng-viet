@@ -1,0 +1,459 @@
+1|Jinbe came to help?!
+2|Yeah, I was surprised too.
+3|That's a relief. So Nami-san is okay...
+4|But now, we need to figure out how to meet up with them.
+5|Once they hear you're coming back, I'm sure they'll be happy.
+6|Goodbye!
+7|Sorry...
+8|we should never have done this!
+9|I'm too ashamed to face Nami-san...
+10|Nami and the others were so worried about you.
+11|And yet, I put them through this terrifying ordeal...
+12|Oh, the rain is stopping.
+13|I found it!
+14|You sure?! Chobro!
+15|Do you think they can hear us through this piece of glass?
+16|The last mirror piece I used to talk to you guys broke on the head of that tree monster, Kingbaum.
+17|It broke!
+18|So...
+19|There should be at least a piece of glass that connects to this one.
+20|Hey! Luffy!
+21|Hey!
+22|Luffy!
+23|Are you there, Luffy?!
+24|Is that...?
+25|It's Chopper!
+26|Hey!
+27|Answer me if you're there!
+28|Chopper!
+29|Luffy!
+30|Hey!
+31|Luffy! Can you hear me?!
+32|Hey!
+33|Here it is!
+34|This is it! It's a piece of glass!
+35|Can you hear me?!
+36|Why is his voice coming out of a mirror?
+37|It's a long story, but Chopper and the others are in a mirror dimension.
+38|Are you okay, Chopper?
+39|Oh, Luffy! Thank goodness! You're really there!
+40|Luffy! Is Sanji-kun there too?!
+41|Yeah, he's here!
+42|Sanji-san, I'm glad that you're okay.
+43|How are you guys?
+44|We saved everybody from inside the mirror, Luffy!
+45|Brook even got copies of the poneglyphs!
+46|Really?!
+47|I'm impressed with you guys!
+48|Y-Your compliment doesn't make me happy, you fool!
+49|You fool!
+50|You silly little goose!
+51|Luffy, it's good that Sanji's there, but did you two come to an agreement?
+52|Sanji isn't... coming back yet.
+53|What?!
+54|Listen, everyone.
+55|We're gonna crash Big Mom's tea party and the wedding.
+56|And we're gonna save Sanji's family!
+57|And then, Sanji will leave with us!
+58|B... Big...
+59|Luffy! She's an emperor!
+60|I don't want to risk everyone's... I mean, Nami-san's life over my own personal issues!
+61|So...
+62|Yay!
+63|Damn you!
+64|I heard you and Luffy got into a big fight, so I was worried, you idiot!
+65|I'm so relieved! Really, you idiot!
+66|You big idiot!
+67|If we do that, then Sanji-kun will leave with us, right, Luffy?!
+68|Nami-san... I...
+69|Oh, Sanji-kun.
+70|For scaring me like you did...
+71|I will never forgive you!
+72|Nami...
+73|But we can talk about that later. The tea party is soon.
+74|I'm gonna help bring you back no matter what, Sanji-kun!
+75|What?! Are you proposing to me, Nami-san ?!
+76|I don't know why, but I think you're fine now.
+77|Alright, Luffy, we know what we need to do now.
+78|Yeah.
+79|By the way, Sanji's sister saved my life.
+80|So I wanna save them all.
+81|Yes, let's save them all.
+82|But it will not be easy.
+83|Even though we're not aiming to take Big Mom down,
+84|she always looks forward to her tea parties.
+85|By crashing it, we'll unleash the wrath of an emperor.
+86|On top of that, while I'm sure you've faced a number of Big Mom's ministers,
+87|they are merely the tip of the iceberg of her forces.
+88|The figures attending the tea party will be even more fearsome.
+89|Not to mention her invited guests from around the world, the kingpins of the underworld.
+90|We, on the other hand...
+91|Have 10 people in total.
+92|Hey! We're not part of this!
+93|Don't round up! There are only eight of you!
+94|I hope they slaughter you!
+95|Luffy.
+96|I've already told everyone here,
+97|but I need to tell you about something else.
+98|Have you ever heard of Capone "Gang" Bege?
+99|Yeah, he's the guy who took Sanji away.
+100|He's one of the Worst Generation, with a name as infamous as yours.
+101|He hails from the West Blue, where there are five powerful mafia familes.
+102|They control the underworld.
+103|They are known as the Five Families of the West, and one of those bosses,
+104|is "Gang" Bege.
+105|He was given his "Gang" epithet when he was young. He used to be a notorious hitman.
+106|A hitman...
+107|I heard he was a sick young man who cut the heads off helpless creatures
+108|and took joy watching them in the throes of death.
+109|What kind of awful person would...?
+110|Now imagine that happening to an organization.
+111|How does it taste?
+112|I wish it were more bitter.
+113|Then, how about this?
+114|Boss!
+115|You little...
+116|The lead tastes bitter, doesn't it?
+117|In his days as a young gangster, he only killed the leaders of criminal organizations.
+118|And when he became the leader of his own family, he continued to only kill rival bosses.
+119|Bege?
+120|Don't resist.
+121|What? Are you betraying me?!
+122|You're outnumbered!
+123|Bege!
+124|But Bege...
+125|never showed interest in his enemy's position or territory.
+126|He merely took their valuables and left.
+127|"Bloody Tragedy! An Internal Feud?!"
+128|"Waking Nightmare! Underworld Remains Tense"
+129|"The Underworld Society in Chaos! Triggered by the Assassination?"
+130|Afterward, he would enjoy watching the violent power struggles within the groups
+131|and the confusion of their allied syndicates.
+132|He is truly a tasteless man.
+133|But in this world, what goes around comes around.
+134|He is now targeted constantly by those seeking vengeance.
+135|However,
+136|Bege treats that like a game. He uses his iron fortress to fight them off,
+137|and mocks the weakness of his enemies.
+138|When he got tired of being on land, he went out to sea and carried on his own ways.
+139|Boss!
+140|Who did this?! Damn!
+141|He's made his name by taking out pirate captains. Only the pirate captains.
+142|Even at sea, he is plagued by enemies seeking revenge...
+143|So, working for an emperor is his perfect safe haven.
+144|So, working for an emperor is his perfect safe haven.
+145|That's why he decided to ally with Big Mom.
+146|Because Big Mom thought highly of his sharpened sense of vigilance and incredible defensive ability,
+147|he was granted the title of rook just before the upcoming tea party,
+148|and placed in charge of security for the entire event.
+149|Why are you telling us this now, Jinbe?
+150|If they are the security guards, nobody can stop them from achieving their goal.
+151|Huh?
+152|The main event of this tea party is the wedding.
+153|As you are now aware, Big Mom intends to slaughter the Vinsmokes during the ceremony,
+154|and then acquire the remnants of Germa for herself.
+155|But meanwhile, behind her back, Bege has his own plan to take Big Mom's head.
+156|What?!
+157|What the hell is going on?! Everyone is planning their own conspiracies!
+158|Luffy, I'm sure you remember that Pekoms was the one who guided you here.
+159|He was kidnapped by Bege,
+160|and they tried to get him to cooperate with their plan.
+161|Pekoms... So that's where he went...
+162|Pekoms is loyal, so he refused. In order to keep him quiet, Bege shot him off a cliff into a swarm of sharks.
+163|What?!
+164|But...
+165|my companions were watching and saved him just in time.
+166|He's currently recuperating.
+167|Thank goodness! He's okay!
+168|He's been through a lot.
+169|Damn that Bege guy! I'll make him pay!
+170|Luffy, this is what I wanted to discuss with you.
+171|I came up with a plan after I learned everything from Pekoms.
+172|I tried to predict your actions.
+173|I figured that if you learned the truth,
+174|you would decide to rescue Sanji and his family.
+175|Perhaps it's not fair to Pekoms, but considering the circumstances,
+176|should we really make an enemy of Bege?
+177|The tea party begins at 10 a.m.
+178|That's about five hours from now.
+179|The 10 of us need to come up with a plan in that time frame.
+180|Stop counting us as a part of this!
+181|You damn brutes! I'll let them know what you're up to!
+182|Listen, Luffy, Bege and his crew have been relentlessly preparing for this day.
+183|Luffy! Sanji!
+184|Let's ally with Bege!
+185|What?!
+186|But... you're probably right.
+187|What?!
+188|Hey, are you insane, Luffy?!
+189|Luffy wants to do this?!
+190|You see? I told you he would want to!
+191|Luffy, four of our six here are against this!
+192|Don't you care about Bege-san's ill deeds?!
+193|Well, this way, everything'll work out, right?
+194|You can't make a decision like that...
+195|Actually, I arranged a meeting earlier. Do you want to go meet them?
+196|Okay, let's go right now!
+197|What?!
+198|Don't worry. If something doesn't feel right, you can refuse!
+199|We have a different goal, after all.
+200|Luffy, Sanji! Bege and his crew's base is on the northwest side of the island.
+201|The eight of us will head there first from this dimension. See you there!
+202|Stop counting us as part of your group!
+203|Okay, got it!
+204|Did you get rid of Bobbin?
+205|That's right, he was chasing Black Leg.
+206|I told you, Germa are my heroes.
+207|Are they really coming here?
+208|Father?
+209|Jinbe isn't the type of man to joke around.
+210|Since we're both opposing Big Mom,
+211|we shouldn't make extra enemies— he's right about that.
+212|Everything after that depends on what Straw Hat says.
+213|If it doesn't work out...
+214|we'll just kill him!
+215|Head Chef! Head Chef!
+216|No, Pekoms! You need to rest!
+217|Did Jinbe really tell Mama about that rat, Bege?
+218|Of course!
+219|By now, I'm guessing that Bege has been beaten to death by Mama.
+220|You guess?! Your guess isn't enough! I gotta make sure to tell her...
+221|Whoa now!
+222|You need to keep resting, Pekoms.
+223|But, Praline, in case they stop him from telling her...
+224|If you're concerned about that, then leaving it to Jinbe is the best option!
+225|You'll be beaten again in your current condition. Just keep quiet!
+226|He's right, Pekoms! As a ship's doctor, I won't allow you to go!
+227|Don't move a muscle!
+228|He's right! He's right!
+229|– Yeah. – Rest! Rest!
+230|You guys are acting weird.
+231|Gulp!
+232|There was something going on last night in the inlet.
+233|I saw some people carrying things around!
+234|Gulp!
+235|I appreciate that you saved me, but I need to leave!
+236|Wait, wait, we can't allow that!
+237|What do you mean you "can't"?
+238|What are you guys hiding?!
+239|Gulp!
+240|This is it!
+241|This is Bege's base!
+242|So, what kind of guy is Bege?
+243|You heard what Jinbe said.
+244|You coward!
+245|Think of him as a scheming and brutal mafia boss.
+246|My hero! Vinsmoke Sanji of Germa!
+247|I'm so happy to see you again-rero !
+248|It's you...
+249|Hey, where's everyone else? Are you Bege?
+250|Don't be in such a rush. They are here or rero.
+251|What do you mean by "rero "?!
+252|Oh, Luffy! Sanji!
+253|Sanji!
+254|You made me worried, you bastard!
+255|I'm sorry for that... Hm?
+256|That aside, why are you dressed like this?
+257|Why don't you guys go take a bath too?
+258|Why are you so relaxed?! We don't have time! And you don't even like baths!
+259|No, you two must take one, too-rero.
+260|We'll talk afterwards-rero.
+261|A bath right now?!
+262|Father won't meet with anyone who is dirty.
+263|Who's dirty?!
+264|What?! Lola was turned into a warthog zombie?!
+265|And she was chasing around a guy she fell in love with!
+266|That definitely sounds like Lola!
+267|Back then... and now once again in those scary woods,
+268|I don't know what would've happened to me if it weren't for Lola.
+269|I see! But you guys saved my sister, too! Thank you!
+270|Oh, I'm crying tears of joy.
+271|We've been close our entire lives.
+272|Since we're twins!
+273|A zombie! I can't imagine a dead person moving. The sea is like a wonderland!
+274|So, was Lola turned back into a human?
+275|That's right. I'm sure she's still doing well as a pirate.
+276|I wonder if she found someone to marry...
+277|Big Mom sounded so mad when she talked about Lola running away from a marriage.
+278|Yeah... that was a big deal.
+279|What?
+280|Mama is reviled by all giants in the world for a reason.
+281|All of the giants in the world?
+282|That's why even though Totto Land has a diverse population,
+283|there are no giants.
+284|Giants really exist!
+285|One day,
+286|Lola had a surprise suitor
+287|who claimed it was love at first sight.
+288|It was none other than Prince Loki of Elbaf, the land of the giants!
+289|A prince?! Amazing!
+290|Mama practically cried with joy.
+291|She thought if Lola became the princess of Elbaf,
+292|her long-standing feud with the giants would be resolved,
+293|and she'd even gain access to the army of Elbaf, the country known as the mightiest in the whole world.
+294|I see...
+295|So that's what she ran away from.
+296|It all went downhill from there.
+297|She tried to use me as a substitute,
+298|but he noticed that I wasn't Lola.
+299|So her relationship with the giants got even worse.
+300|Then, she gave up the idea of becoming friendly with actual giants
+301|and started investing in research to gigantify regular humans instead.
+302|Her anger toward Lola only worsened, and she was branded a criminal in this country!
+303|If she ever comes back, she'll be killed!
+304|Furthermore, she couldn't stand looking at me anymore, since I look just like Lola.
+305|Get that damn face out of my sight!
+306|When she saw me, she hit me without mercy. For years, I always had fresh wounds.
+307|I was afraid that my own mother would kill me!
+308|I can't see that monster as my mother anymore!
+309|However, Lola is very carefree... She probably has no idea that her mother wants to kill her.
+310|I see... Everything makes sense now.
+311|So when Bege said he was going to assassinate Mama, I felt nothing at all.
+312|You might think I'm terrible, but it's the truth.
+313|Well, well, that bath felt so good!
+314|Ah, just like heaven!
+315|No, I refuse to move on to the next life!
+316|This feels like the aftermath of a battle... I'm getting too relaxed. It hasn't even started yet!
+317|Luffy-san, Luffy-san.
+318|There's milk in here. Milk!
+319|Hey, don't go through our fridge without asking!
+320|That's exactly what I needed. I lost my tooth.
+321|And my face has been cracked.
+322|Thank you for the milk!
+323|All better!
+324|How is that even possible?!
+325|I won't forgive you, Chiffon! I can't believe you!
+326|How can you help someone who wants to kill Mama!
+327|Mistress Chiffon, please think about this! You know no one could ever kill Mama!
+328|Big Sis Brûlée!
+329|You know what she's done to me, right?
+330|I'm worried about Lola. Bege and Pez are my only family now!
+331|I don't need anyone else!
+332|Oh, it's okay, it's okay.
+333|Okay, everyone's gathered, right?
+334|Have you cleaned yourselves up a bit?
+335|As the saying goes, "The suit makes the man."
+336|I won't talk to anyone that doesn't take care of their appearance.
+337|So, we've got three and a half hours to go.
+338|Let's first decide...
+339|if we're working together or not.
+340|They're good, aren't they, Luffy?
+341|Why don't you guys restrain yourselves?!
+342|What? These are for us to eat, right?
+343|From our perspective, you guys are just a nuisance.
+344|The easiest solution would be for us to kill all of you, here and now.
+345|Are you sure about that?
+346|If I die, you won't have your chance to kill Big Mom.
+347|Because the ceremony would be canceled.
+348|If I'm not back two hours before the wedding, they'll be suspicious.
+349|Yeah. I hate to admit it, but you're right.
+350|We'll keep you alive, in that case.
+351|We don't have time to waste on threats.
+352|Luffy, how are you feeling about this? Can you work with them?
+353|What do you think?
+354|You're Caesar, aren't you?!
+355|What?! Caesar?! Where?!
+356|He's been here the whole time...
+357|How could you not notice...?
+358|This research is so pointless! I'm not gonna work anymore!
+359|Go ahead and do as you like with me, Big Mom!
+360|Caesar Clown!
+361|I-I-I'm working my butt off! Tell that to Big Mom!
+362|There's no need.
+363|What?
+364|When I asked them to let me watch over you, they agreed without a question.
+365|I'm now a trusted rook!
+366|Is that my heart?!
+367|I'm willing to let you go. If you help me in return, that is...
+368|You bastard! Do you have any idea who you're talking to?!
+369|I'm the genius scientist Caesar Clown! I could destroy the world if I wanted to!
+370|I know who you are.
+371|That's why I came here.
+372|Damn!
+373|I served Big Mom and now Bege!
+374|I gotta work anyway!
+375|Are you doing your job-rero ?
+376|I am! Who do you think I am?!
+377|This is much more to my liking than what she had me do!
+378|The greatest piece of art will soon be completed!
+379|That's good to know.
+380|The Straw Hat crew will be here shortly-rero.
+381|What?! The Straw Hats?!
+382|Oh, come on! I never wanna see those guys again!
+383|When they're around, everything goes wrong!
+384|Father wants you to attend the meeting too-rero.
+385|Don't be late.
+386|I can't believe this!
+387|I've got no choice!
+388|C-Caesar? No, I am Bege's blood brother...
+389|"Gangster" Gastino!
+390|He's not even attempting to hide it...
+391|"Gastino"?
+392|Because he's a gas human?
+393|He's even laughing the same way.
+394|I see. I thought you were someone else. Sorry about that.
+395|No, you were right! He's obviously Caesar!
+396|What?!
+397|Oh, so it is you! What are you doing here?!
+398|Do you really think I'd be here if I had a choice, you idiot?!
+399|Because of you guys, I was handed over to Big Mom,
+400|and my only escape from certain death was this guy taking my heart and making me his slave!
+401|I'm being pushed around!
+402|If you see Trafalgar Law, tell him I'll kill him when I see him again!
+403|You too, if I get the chance!
+404|Cut it out! This is so pointless.
+405|What a waste of time.
+406|Straw Hat,
+407|are you going to work with me or not?
+408|First of all, let me punch you for shooting Pekoms!
+409|Here I go!
+410|Stop it!
+411|What?!
+412|Pull back your fist, Luffy! We won't come to an agreement this way!
+413|But he shot my friend!
+414|Anyone talking bad about Father is unforgivable!
+415|No, Gotti! Calm down-rero !
+416|Cut it out!
+417|I don't care. Let him do it.
+418|Kick these bastards out!
+419|You back off!
+420|Why?!
+421|I knew this would happen...
+422|Well, it can't be helped...
+423|Do you like Big Mom?
+424|– No way! – No way! – No way!
+425|Then you're on the same side.
+426|Even if you don't share the same lifestyle or goals, you have a common enemy!
+427|You can kill each other later,
+428|but if you join hands now, it'll be in everyone's favor!
+429|So what's the plan?!
+430|I've planned the whole thing in exacting detail.
+431|Let's just do it! Then, I'll be through with you guys!
+432|Outskirts of Sweet City
+433|Outskirts of Sweet City
+434|Mirro-world
+435|Mirro-world
+436|Fire Tank Pirates' Base Whole Cake Island
+437|Fire Tank Pirates' Base Whole Cake Island
+438|Fire Tank Pirates
+439|Fire Tank Pirates
+440|"Phantom Gun" Vito
+441|"Phantom Gun" Vito
+442|Gotti "the Hitman"
+443|Gotti "the Hitman"
+444|The Cooks Are Busy Preparing the Wedding Cake...
+445|The Cooks Are Busy Preparing the Wedding Cake...
+446|Great Kitchen, 8th Floor Whole Cake Chateau
+447|Great Kitchen, 8th Floor Whole Cake Chateau
+448|"Gourmet Knight" Streusen Head Chef, Big Mom Pirates
+449|"Gourmet Knight" Streusen Head Chef, Big Mom Pirates
+450|Eastern Inlet
+451|Eastern Inlet
+452|Fire Tank Pirates' Base
+453|Fire Tank Pirates' Base
+454|4 Hours and 15 Minutes Until the Tea Party
+455|4 Hours and 15 Minutes Until the Tea Party
+456|Women's Bath Bege's Base
+457|Women's Bath Bege's Base
+458|3 Hours and 30 Minutes Until the Tea Party
+459|3 Hours and 30 Minutes Until the Tea Party

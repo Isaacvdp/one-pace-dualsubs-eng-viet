@@ -1,0 +1,311 @@
+1|Đảo Bánh Su
+2|Mama! Mama!
+3|Perospero-sama...
+4|Không thể tin được...
+5|Mama trở lại bình thường rồi...
+6|Pudding đã làm ra chiếc bánh phi thường làm sao...
+7|Tôi chưa từng thấy bà mãn nguyện như vậy. Liếm.
+8|Mama! Bà là thuyền trưởng của chúng ta! Con cần báo cáo tình hình hiện tại!
+9|Trước hết, Bege chắc vẫn còn quanh đây...
+10|Liếm!
+11|Con vui quá...
+12|Bà ấy chẳng nghe gì cả...
+13|Đảo Cacao
+14|Đó là...?!
+15|Hử? Khoan!
+16|Này, không phải nó!
+17|Đó không phải tàu của Mũ Rơm!
+18|Cái gì?!
+19|Đó là tàu của băng hải tặc Mặt Trời!
+20|Không thể nào! Nó trúng thẳng một đòn mà!
+21|Chúng đã đổi tàu sao?!
+22|Vậy thì băng Mũ Rơm đi đâu rồi?!
+23|Nhanh lên, Wadatsumi!
+24|Đi càng xa càng tốt!
+25|Anh chắc chứ?
+26|Đây là con tàu huyền thoại do Fisher Tiger đóng!
+27|Chắc chắn!
+28|Được rồi!
+29|Nhanh lên! Không có thời gian đâu!
+30|Ui da, ui da!
+31|Gì vậy?! Gì vậy?!
+32|Nó sắp ăn thịt chúng ta!
+33|Kiên nhẫn đi.
+34|Cái quái gì vậy?!
+35|Chúng ta đang ở đâu?!
+36|Chúng ta đang ở trong miệng Wadatsumi!
+37|Trốn thôi!
+38|Chúng ở dưới nước!
+39|Tôi cứ tự hỏi mình thấy gì. Hóa ra là bàn tay của Tăng Nhân Khổng Lồ!
+40|Tất cả tàu! Quay đầu 180 độ!
+41|Tao không để mày thoát! Đồ người cá đáng ghét!
+42|Biển Nóng...
+43|Ngư Lôi!
+44|Nóng quá!
+45|Ui da, ui da, ui da!
+46|Kia rồi! Tàu của Mũ Rơm!
+47|Wadakichi!
+48|Bắn! Đánh chìm tàu Mũ Rơm!
+49|Cứ đi đi, các cậu!
+50|Mũ Rơm! Ở Đảo Người Cá tôi là kẻ xấu...
+51|Tôi xin lỗi!
+52|Nhưng sau đó đại ca Jinbe vẫn cho tôi theo ông ấy... T-Tôi biết ơn lắm!
+53|Thằng khốn...
+54|Tránh ra, đồ umibozu đáng ghét!
+55|Á!
+56|Wadatsumi!
+57|Vì đại ca nói muốn gia nhập băng Mũ Rơm...
+58|nên tất cả bọn tôi đã quyết định!
+59|Mama sẽ giết bất kỳ ai tìm cách rời đi.
+60|Nên chúng ta chỉ có một lựa chọn...
+61|Các cậu muốn làm lá chắn cho Thuyền trưởng Jinbe và chết thay sao?!
+62|Chúng ta không thể chết hết ở đây! Phải có người kể lại câu chuyện!
+63|Ừ, cậu nói đúng.
+64|Tôi không trách ai chạy trốn! Ai theo tôi thì phải chuẩn bị cho mọi chuyện!
+65|Bọn tôi sẽ không để chúng cản bước khởi đầu mới của Jinbe!
+66|Tất cả bọn tôi đã quyết định rồi!
+67|Cúi xuống, Wadatsumi!
+68|Aladine! Các cậu!
+69|Đi đi, Jinbe! Băng Mũ Rơm!
+70|Chúc các cậu thượng lộ bình an!
+71|Đi nào, anh em!
+72|Luffy...
+73|Nước tràn vào là điểm yếu của thuyền buồm... nhớ tát nước ra nhanh!
+74|Nếu không tàu sẽ nặng và chậm.
+75|Sau đó phải vá buồm lại để đón gió cho tốt,
+76|và chạy thoát nhanh hết mức!
+77|Vẫn phải mất vài giờ mới thoát khỏi lãnh thổ này!
+78|Ông nói gì vậy, Jinbe?! Sao lại nói với bọn tôi những điều này?!
+79|Luffy...
+80|Tôi không thể bỏ họ lại!
+81|Được rồi, tôi hiểu!
+82|Vậy thì... bọn tôi cũng ở lại!
+83|Họ đang canh hậu quân để yểm trợ cho cậu!
+84|Nếu bị hạm đội chủ lực chặn lại bây giờ, sẽ không thể thoát!
+85|Xin hãy cho phép tôi...
+86|đảm hậu!
+87|Bọn tôi sẽ hoàn thành rồi sống sót trở về!
+88|Đừng quên, Jinbe!
+89|Giờ tôi là thuyền trưởng của ông!
+90|Thần Đèn Đích-Thực Rage Split!
+91|Tôi sẽ không dừng tàu, nhưng...
+92|Tôi sẽ đợi ông ở Wano! Bằng mọi giá phải đến đó!
+93|Luffy!
+94|Cảm ơn!
+95|Jinbe!
+96|Đừng để cái chết ngăn cản ông!
+97|Nó vẫn còn sống? Thằng nhóc Mũ Rơm đó?
+98|V-Vâng, tạm thời vẫn còn sống...
+99|nhưng con vừa nhận được báo cáo là các anh chị đã dồn hắn vào đường cùng ở Đảo Cacao.
+100|Hắn không có đường nào chạy!
+101|Ta sẽ đi nếu hắn còn sống.
+102|Nhanh lên, Ếch Cây Vàng!
+103|Chuẩn bị đi, Mũ Rơm...
+104|Ta sẽ lấy linh hồn ngươi làm ra mấy Homies đáng sợ!
+105|Chúng ta sống sót rồi...
+106|Cuộc đời cũng không đến nỗi tệ. Lặng lẽ chuồn đi thôi.
+107|Tôi lo cho Germa...
+108|Im đi!
+109|Cháy đi!
+110|Heat Cross!
+111|Cậu không sao chứ, Aladine?!
+112|Jinbe! Ông quay lại với bọn tôi sao?!
+113|Không, tôi vẫn là thành viên băng Mũ Rơm.
+114|Tôi chỉ ở lại để bảo vệ thuyền trưởng của mình!
+115|Nào, tiến lên!
+116|Các người đang coi thường bọn ta!
+117|Không phải vậy, đại ca.
+118|Mọi người phải sống sót...
+119|để còn tiễn tôi cho tử tế!
+120|Tôi hiểu sức mạnh của các cậu hơn ai hết!
+121|Hãy tận dụng nó để băng Mũ Rơm thoát được!
+122|Lũ khốn!
+123|Là xoáy nước!
+124|Brook! Mau đưa tàu Sunny đi càng xa càng tốt!
+125|Rõ!
+126|Khi người cá nghiêm túc, bọn tôi có thể đổi cả dòng chảy của đại dương!
+127|Tuyệt vời!
+128|Biển...
+129|Dòng chảy do người cá tạo ra đang cuốn tàu Sunny đi!
+130|Jinbe...
+131|Jinbe đang yểm trợ cho Mũ Rơm Luffy rời đi!
+132|Hạm đội của chúng ta bị giữ chân hoàn toàn...
+133|và sắp mất dấu tàu của chúng rồi!
+134|Đúng vậy! Đi đi, Mũ Rơm!
+135|Sao cô lại cổ vũ hắn?
+136|À... vì Mũ Rơm là ứng cử viên sáng giá.
+137|Cho cái gì?
+138|Stussy... cô biết về Thế hệ Tồi tệ nhất chứ?
+139|"Bác sĩ Tử thần" Trafalgar Law.
+140|"Pháp sư" Basil Hawkins.
+141|"Cờ Đỏ" X Drake.
+142|"Tiếng Gầm Biển Cả" Scratchmen Apoo.
+143|Capone "Gang" Bege.
+144|"Kẻ Háu Ăn" Jewelry Bonney.
+145|"Tăng Điên" Urouge.
+146|Eustass "Thuyền trưởng" Kid.
+147|"Binh Sĩ Tàn Sát" Killer.
+148|"Râu Đen" Marshall D. Teach.
+149|Và...
+150|"Mũ Rơm" Monkey D. Luffy.
+151|Tôi chắc chắn...
+152|rằng một người trong cái gọi là Thế hệ Tồi tệ nhất...
+153|sẽ vươn lên và trở thành Vua Hải Tặc tiếp theo!
+154|Tôi hiểu rồi. Vậy là Pedro...
+155|đã chết.
+156|Tên tôi là Pedro! Xin hãy giúp tôi...
+157|Chữa trị cho họ ngay... nếu không họ sẽ chết!
+158|Thế giới cần họ!
+159|Hai người đó...
+160|không bao giờ...
+161|được phép chết!
+162|Là vì anh ấy đến cứu tôi...
+163|Tôi không nghĩ đây là nơi anh ấy đáng phải chết...
+164|Không sao đâu. Không sao đâu, Sanji!
+165|Đây là lựa chọn của chính Pedro!
+166|Xin đừng tự trách mình! Sanji!
+167|Các cậu đã cứu Công quốc Mokomo, nên anh ấy muốn đền ơn!
+168|Hơn nữa, nếu không có Pedro thì tất cả chúng ta đã chết ở đó rồi!
+169|Nên...
+170|chỉ cần... cảm ơn anh ấy.
+171|Thế này là tốt nhất!
+172|Tôi biết anh ấy là người thế nào.
+173|Là Cơn Lốc Kẹo Bông!
+174|Chắc chúng ta gần biên giới rồi.
+175|Sắp ra khỏi lãnh thổ Big Mom rồi!
+176|Ngư Nhân Không Thủ Đạo Bí Kỹ!
+177|Khoan Lang Thang!
+178|Cố lên!
+179|Khi Luffy và mọi người ra khỏi lãnh thổ, chúng ta cũng đi được!
+180|Này, băng Mũ Rơm sao rồi?
+181|Đội truy đuổi của chúng ta chưa báo tin gì!
+182|Tôi nghĩ họ bị mất dấu rồi!
+183|Đồ ngốc! Một khi chúng qua biên giới thì không đuổi kịp nữa!
+184|Pudding, như thường lệ, con phải dùng tài diễn xuất để quyến rũ hắn.
+185|Chuyện nhỏ thôi, Mama!
+186|Con như một con rối vậy, Pudding.
+187|Sẵn sàng diễn theo ý ta.
+188|Mama... con không phải con rối...
+189|Ngày mai chúng ta cưới nhé.
+190|Phải rồi... Giống như tất cả những người khác, khi biết con thật sự là ai, anh ta sẽ...
+191|Dù là con gái tôi, tôi cũng không thể phủ nhận cái đó ghê thật...
+192|Cô ta là quái vật!
+193|"Chúng ta cưới nhau đi!"
+194|Ghê quá!
+195|Nhìn kìa! Cô ta là quái vật!
+196|Đừng làm vậy!
+197|Sẽ không ai thật sự yêu tôi.
+198|Tôi chỉ là một con quái vật xấu xí.
+199|Giống như tất cả những người khác, khi anh biết tôi thật sự là ai...
+200|Nhìn cho kỹ đi, Sanji... cái con mắt thứ ba...
+201|ghê rợn của em!
+202|Con mắt đẹp quá!
+203|Hả?
+204|Được rồi! Bắt đầu nướng bánh thôi!
+205|Anh mừng vì người đóng vai vị hôn thê của anh là em, Pudding-chan!
+206|Pudding-chan!
+207|N-Này, Sanji...
+208|san...
+209|Anh giúp em một việc được không?!
+210|Ồ? Pudding-chan?!
+211|Em nói muốn nhờ anh một việc...
+212|là việc gì vậy?
+213|Reng, reng, reng...
+214|Anh Peros, trả lời đi! Giờ Mama đang ở đâu?!
+215|Chết tiệt!
+216|Mont d'Or-sama! Có cuộc gọi từ Đảo Cacao!
+217|Có vẻ là Ốc Sên Lãnh Hải báo cáo từ biên giới!
+218|Quá muộn rồi!
+219|Nó phát tín hiệu cảnh báo có tàu đi qua! Băng Mũ Rơm đã rời khỏi lãnh thổ!
+220|Về tàu đi, Germa 66! Nhiệm vụ hoàn thành!
+221|Rõ!
+222|Rõ!
+223|Rõ!
+224|Germa đang rút lui!
+225|Đừng để chúng thoát!
+226|Bắt chúng lại!
+227|Em không bao giờ muốn thấy anh trai nằm ngửa, bại trận.
+228|Brûlée.
+229|Em cố tình ngã ngửa đúng không? Lúc đầu em nằm sấp mà.
+230|Không biết nữa...
+231|Nhưng Brûlée...
+232|mấy câu chuyện về việc anh không bao giờ nằm xuống...
+233|không đúng đâu.
+234|Ừ, em biết. Em đã thấy anh qua những tấm gương.
+235|Anh đã đóng vai...
+236|người đàn ông hoàn hảo bất khả chiến bại...
+237|vì chúng em.
+238|Katakuri, nếu anh che cái miệng đó lại thì anh đã có bạn rồi.
+239|Không cần! Ta là ta! Ai cười thì ta đánh!
+240|Cá chình pelican!
+241|Hắn là cá chình pelican!
+242|Tao sẽ đá bay chúng!
+243|Ôi không!
+244|Mau lên!
+245|Sao lại thế này?
+246|Chuyện gì vậy?
+247|Có chuyện gì?
+248|Cái gì?!
+249|Nghiêm trọng rồi! Brûlée bị thương nặng!
+250|Brûlée!
+251|Chuyện... gì vậy?
+252|Không có gì...
+253|Không, không phải không có gì! Nói cho anh biết! Chuyện gì đã xảy ra?!
+254|Mấy tên anh đánh lúc nãy quay lại trả thù đó, Katakuri!
+255|Trả thù?! Trên người em gái ta?!
+256|Tại sao?! Sao lại là em ấy bị thương?!
+257|Anh...
+258|Không... đau chút nào...
+259|Anh cứ như hiện tại là tốt rồi, anh.
+260|Đồ ngốc! Ta...
+261|Brûlée bị thương vì ta...
+262|Ta đã quá ngây thơ!
+263|Katakuri tới rồi!
+264|Bọn ta đã đợi ngươi.
+265|Hả? Cái gì quanh cổ ngươi vậy?!
+266|Sao dám làm sẹo mặt em gái ta?!
+267|Ta sẽ không bao giờ lơ là cảnh giác nữa!
+268|Ta sẽ dạy cho các ngươi biết thế nào là nỗi sợ thực sự!
+269|Brûlée...
+270|Mũ Rơm sao rồi?
+271|Em chắc anh sẽ nghĩ "Nhẹ cả người" khi nghe tin này.
+272|Em cũng thấy được tương lai à?
+273|Hắn vừa thoát khỏi lãnh thổ của chúng ta.
+274|Nhưng em sẽ không tha cho hắn...
+275|vì những gì hắn đã gây ra cho anh trai em!
+276|Biết ngay mà.
+277|Luffy và mọi người đã ra khỏi lãnh thổ. Rút lui thôi!
+278|Germa 66, rút lui!
+279|Bắn! Bắn! Đừng để Germa thoát-nie!
+280|Bà ấy tới rồi...
+281|Là Mama!
+282|Sống hay chết?
+283|Được che chở bởi nỗ lực của băng hải tặc Mặt Trời, Germa 66 và những người đã hy sinh tất cả,
+284|băng Mũ Rơm cuối cùng đã thoát khỏi lãnh thổ của Tứ Hoàng Big Mom.
+285|Này...
+286|Tôi chuẩn bị bữa ăn nhé?
+287|Bữa ăn?!
+288|Đồ ăn!
+289|Đồ ăn Sanji nấu!
+290|Tôi đói meo rồi!
+291|Tôi đói chết đi được!
+292|An toàn, miễn phí và ngon!
+293|Đồ ăn Sanji nấu!
+294|Tôi đi vắng thì có chuyện gì xảy ra không?
+295|Trong lúc đó, ở East Blue...
+296|Bữa ăn của tôi chưa xong sao?!
+297|Này, nhanh lên!
+298|Nhà Hàng Trên Biển - Baratie
+299|Chủ nhà Zeff! Đuổi bọn chúng ra đi!
+300|Sao chúng ta phải phục vụ chúng?
+301|Chúng là tội phạm!
+302|Tôi sẽ nấu, nên im đi!
+303|Mau mang đồ ăn ra!
+304|Chúng được nước làm tới!
+305|Đồ ăn! Đồ ăn! Đồ ăn! Đồ ăn!
+306|Được rồi, được rồi.
+307|Bất kể giờ giấc nào, ai cũng vẫn đói.
+308|Bất kể là ai, ai cũng vẫn đói.
+309|Nào, ăn đi!
+310|Tôi sẽ cho ăn bất cứ ai đang đói!
+311|Nói chuyện sau!

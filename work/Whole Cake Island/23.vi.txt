@@ -1,0 +1,355 @@
+1|Linlin! Ta sẽ tự tay chấm dứt đau khổ cho ngươi!
+2|Semla...
+3|Không, Linlin!
+4|Se...
+5|Jorl!
+6|m...
+7|la!
+8|Ngài Râu Thác!
+9|Ngài Jorl!
+10|Semla!
+11|Giữ Linlin lại!
+12|Dập lửa trong làng đi!
+13|– Bắt nó lại đi! – Được!
+14|Đừng làm con bé đau!
+15|Cậu làm được ít semla không?
+16|Trong kho làng có sẵn một ít cho lễ hội!
+17|Mang đến ngay!
+18|V-Vâng!
+19|– Mẹ ơi, mẹ làm gì vậy?! – Nguy hiểm lắm!
+20|Lùi lại!
+21|Gebur...
+22|Mẹ!
+23|tstag!
+24|Gerburtstag - Sinh nhật
+25|Mẹ!
+26|Ta ban cho ngươi một giọng nói.
+27|Cái gì vậy?
+28|Hãy nghe lệnh ta.
+29|– Có một khuôn mặt trong lửa! – Cái gì?!
+30|Em sợ...
+31|Trông như quỷ!
+32|Tên ngươi là Pandora!
+33|Tôi mang đến rồi!
+34|Mau cho nó ăn đi!
+35|Semla!
+36|Ngon quá! Ngon quá!
+37|Bình tĩnh nào!
+38|Ngọn lửa...
+39|tắt rồi.
+40|Nhìn kìa!
+41|Dễ thương quá!
+42|Chào Mẹ!
+43|Mẹ...
+44|Đã làm nên phép màu...
+45|Không, không phải ta.
+46|Thần Mặt Trời đã làm dịu thảm họa này.
+47|Em vui quá!
+48|Phải trừng phạt nó... Nó không chỉ là một đứa trẻ...
+49|Nếu bây giờ không làm gì... sau này nó sẽ gây ra thảm họa lớn hơn!
+50|– Ngài Jorl! – Mau cứu ngài ấy!
+51|Ngài Râu Núi!
+52|Linlin...
+53|Xin hãy tha thứ cho con bé!
+54|Ngươi định cản ta sao, Carmel?
+55|Jorl là chiến hữu của ta suốt 300 năm.
+56|Ông ấy quá già rồi. Ta không nghĩ ông ấy qua khỏi lần này.
+57|Làm chiến binh không phải sống lâu... Mà là chết thế nào!
+58|Chúng ta phải chấm dứt chuyện này...
+59|Chúng ta không thể tha thứ cho kẻ trái luật Elbaf.
+60|Tôi hiểu! Nhưng dù không thể tha thứ,
+61|Linlin là một đứa trẻ đáng thương bị bỏ rơi.
+62|Giờ con bé do Nhà Cừu chăm sóc!
+63|Tôi không thể bỏ rơi nó!
+64|Ngươi sẽ làm gì với nó?
+65|Tôi sẽ đưa nó rời khỏi nơi này!
+66|Carmel!
+67|Ngài Râu Núi! Ngài phải giết Linlin!
+68|Sao phải tha cho nó sau khi nó làm chuyện kinh khủng thế?!
+69|Lòng tự hào Elbaf của ngài đâu rồi?
+70|Được thôi, vậy ngươi biến khỏi mắt ta ngay đi!
+71|Tại sao?!
+72|Hajrudin!
+73|Buông tôi ra! Buông ra!
+74|Ngài Râu Thác sao rồi?
+75|Ngài đã chết.
+76|Nó không nhớ sao?
+77|Jorl, anh hùng của Người Khổng Lồ, đã chết...
+78|Và giữa sự tàn phá của Linlin và phép màu của Carmel...
+79|Những chuyện hôm đó...
+80|lan rộng khắp các khu định cư ít ỏi của Người Khổng Lồ trên thế giới...
+81|Cùng với những đứa trẻ Nhà Cừu không chịu rời xa mẹ...
+82|và kẻ thù mới của Người Khổng Lồ, Charlotte Linlin, đi theo...
+83|Mẹ Carmel rời Elbaf.
+84|Rồi họ bắt đầu cuộc sống mới ở một Nhà Cừu mới.
+85|Xong rồi! Thế này được chưa?
+86|Thế là đủ. Xin lỗi vì đã nhờ vả.
+87|Không có các ông giúp thì không thể có ngôi nhà sâu trong núi thế này.
+88|Đừng nói vậy. Thật lòng tôi chẳng muốn thấy mặt Linlin,
+89|nhưng bà cũng là Thánh Mẫu của Người Khổng Lồ chúng tôi, Carmel.
+90|Khi nào cần, cứ lên tiếng!
+91|Cảm ơn các ông!
+92|Để trấn an bọn trẻ đang lo lắng, Carmel càng mỉm cười nhiều hơn.
+93|Chạy đi, chạy đi!
+94|Vài ngày sau khi rời Elbaf, mọi chuyện lại như trước...
+95|Không, Linlin sẽ giết em mất!
+96|Chạy đi, chạy đi!
+97|Và Nhà Cừu lại tràn ngập tiếng cười của bọn trẻ.
+98|Trông nhà giúp mẹ khi mẹ đi vắng nhé.
+99|Con sẽ dọn nhà tắm!
+100|Con sẽ giặt đồ!
+101|Khi nào mẹ về?
+102|Mẹ sẽ về sau khi mua xong đồ ăn.
+103|Các con cần gì không?
+104|Bánh kem!
+105|– Một bộ bài! – Kiếm đồ chơi để chơi samurai!
+106|Được rồi.
+107|Tạm biệt Mẹ! Đi cẩn thận!
+108|Với phần còn lại của thế giới, Nhà Cừu...
+109|là nơi người mẹ ngoan đạo kỳ diệu cải tạo những đứa trẻ rắc rối...
+110|cho đến khi chúng sẵn sàng về một mái ấm tốt...
+111|Cô đến đúng giờ đấy...
+112|Tất nhiên. Tôi đã bao giờ cho ông leo cây chưa?
+113|Vào việc thôi.
+114|Cô bé ngoan đây.
+115|Tôi không ngờ bà rời Elbaf...
+116|Tôi buộc phải thế. Tôi không muốn mất cô bé này.
+117|Nghĩ mà xem.
+118|Mới năm tuổi mà nó đã phá nát nửa ngôi làng Elbaf.
+119|Nhưng cái giá bà đòi là...
+120|Tôi biết các ông trả nổi.
+121|Nếu vào Hải Quân, một ngày nào đó nó có thể thành đô đốc, thậm chí Thủy sư Đô đốc.
+122|Nếu vào Cipher Pol, nó sẽ là tấm khiên tuyệt vời cho Thiên Long Nhân.
+123|Tôi buôn trẻ em suốt 50 năm rồi.
+124|Và cô bé này là món hàng tuyệt nhất tôi từng có!
+125|Sau màn đó với Hải Quân 37 năm trước, tôi mới sống được ở Elbaf.
+126|Và tôi đã đưa cho các ông tân binh Khổng Lồ đầu tiên của Hải Quân... John Giant!
+127|Tất cả nhờ tôi!
+128|Tôi điều hành Nhà Cừu sạch sẽ, và bọn trẻ không hề biết...
+129|rằng cứ hai năm tôi lại bán những đứa lanh lợi nhất cho Chính phủ.
+130|Trẻ mồ côi làm gián điệp rất tốt, đúng không?
+131|Chúng không có quá khứ nào để truy ra!
+132|Được rồi! Được rồi! Tôi sẽ lo tiền cho bà!
+133|Đương nhiên rồi!
+134|Làm Thánh Mẫu đâu có dễ.
+135|Kẻ bán trẻ mồ côi Mẹ Carmel (Mật danh: Phù thủy Núi)
+136|Tôi nghĩ sau vụ này tôi sẽ nhân cơ hội nghỉ hưu...
+137|Nên đây là phi vụ cuối. Tôi cần các ông trả đủ.
+138|Hôm nay mấy đứa muốn hát bài gì?
+139|Rượu của Binks!
+140|Thật sao? Nhưng đó là bài hát của hải tặc mà.
+141|Đúng rồi! Sau này tụi con sẽ làm hải tặc!
+142|Ồ, nghe ngầu đó!
+143|Các con sẽ bị bán cho Chính phủ trước khi kịp thành hải tặc.
+144|Một, hai, ba!
+145|Chúc mừng sinh nhật, Linlin!
+146|Bánh ghi "Chúc mừng sinh nhật Linlin".
+147|Cảm ơn mọi người!
+148|Bọn mình biết cậu mê semla, Linlin... nên làm croquembouche từ nó!
+149|Hy vọng ngon!
+150|Nó tên là croquembouche à? Trông ngon quá!
+151|Mình mở tiệc trà nhé!
+152|Tiệc trà?
+153|Mình sẽ thanh lịch ngồi quanh bàn, uống trà và ăn đồ ngọt!
+154|Nghe hay quá! Em muốn lắm! Tiệc trà!
+155|– Pha trà nào. – Mẹ tham gia với tụi con đi!
+156|Được rồi, được rồi.
+157|Cảm ơn mọi người!
+158|Hoan hô!
+159|Được rồi, bắt đầu nào!
+160|– Ăn bao nhiêu tùy thích! – Ăn đi, ăn đi!
+161|Vâng! Cảm ơn!
+162|Ngon quá!
+163|Em ăn nhanh quá!
+164|Tiệc trà vui quá!
+165|Em vui quá! Ngon quá!
+166|Một ngày nọ, Mẹ Carmel đột nhiên biến mất.
+167|Và đó là ngày sinh nhật tuyệt nhất mà Linlin từng có.
+168|Cô ở bên bạn bè tại Nhà Cừu, những đứa trẻ cùng chịu khổ như cô...
+169|Và người mẹ yêu quý, tốt bụng của cô.
+170|Giữa những nụ cười, vừa ăn chiếc bánh sinh nhật ngọt ngào...
+171|Linlin không kìm được nước mắt.
+172|Ăn thoải mái đi, Linlin.
+173|Em sẽ ăn... em sẽ ăn hết!
+174|Thật là một ngày tuyệt vời... Cô thậm chí không nhìn rõ vì nước mắt.
+175|Này này, đừng vội, Linlin!
+176|Bọn mình làm cho cậu mà!
+177|Tất cả là của cậu, Linlin!
+178|Cảm ơn!
+179|Ăn thêm đi!
+180|Mình mãi là bạn nhé!
+181|Ừ, ừ!
+182|Mình ở bên nhau và vui vẻ nhé!
+183|Ừ!
+184|Ngon quá!
+185|Một sinh nhật thật sự tuyệt vời.
+186|Liếm!
+187|Ôi, em vui quá! Em ăn nhiều đến mức cắn mất một góc bàn.
+188|Cảm ơn mọi người! Em sẽ không bao giờ quên ngày này suốt đời...
+189|Gì vậy?
+190|Mọi người?
+191|Mẹ?
+192|Một ngày nọ, Mẹ Carmel...
+193|Họ đi đâu rồi?
+194|đột nhiên biến mất.
+195|Hửm? Hả?
+196|Mọi người đâu rồi?! Mọi người! Có ở trong nhà không?
+197|Này!
+198|Mọi người!
+199|Linlin!
+200|Ồ, mọi người đây rồi!
+201|Gì vậy?
+202|Đừng bỏ em một mình...
+203|Mọi người đâu rồi?
+204|Này, Mẹ...
+205|Sao mẹ biến mất?
+206|Mẹ đi đâu rồi....
+207|Mẹ!
+208|Mama!
+209|63 năm trước, Mẹ Carmel và những đứa trẻ khác đã biến mất không dấu vết.
+210|Ngay cả Big Mom cũng không biết sự thật chuyện gì xảy ra...
+211|nhưng có hai người đã chứng kiến toàn bộ...
+212|Mọi người đi đâu rồi?
+213|Một người là chiến binh Elbaf lo cho Nhà Cừu...
+214|nên đến xem thử.
+215|Q-Quái vật!
+216|Người Khổng Lồ tái mặt và bỏ chạy...
+217|rồi không bao giờ trở lại hòn đảo.
+218|Cuối cùng, tin về ngày đó lan đến Elbaf, rồi đến mọi Người Khổng Lồ trên thế giới...
+219|và từ đó, cái tên "Charlotte Linlin" bị căm ghét đến mức...
+220|không Người Khổng Lồ nào dám thốt ra.
+221|Mọi người đi đâu rồi?! Mẹ! Mọi người!
+222|Trong khi đó, nhân chứng còn lại...
+223|là một đầu bếp hải tặc thất bại đang sống trên đảo...
+224|Tên ông là Streusen.
+225|Ông thấy chuyện này rất thú vị.
+226|Ông có năng lực...
+227|biến mọi vật thành thức ăn.
+228|Nhờ Trái Cook-Cook của ông.
+229|Ta chưa từng thấy quái vật như thế.
+230|Đừng bỏ con một mình...
+231|Cứ thế này nó sẽ chết. Phí quá.
+232|Mẹ đi đâu rồi, Mẹ?
+233|Này, sao vậy, bé gái?
+234|Nếu cứ khóc, cháu sẽ càng đói hơn thôi.
+235|Này bé, mình nói chuyện về ước mơ của cháu nhé?
+236|Ông là ai, ông già?
+237|Này, đừng lại gần quá.
+238|Này ông già, ông có thấy Mẹ không? Ông biết mọi người đi đâu không?
+239|Ta không biết... Nhưng chắc họ sẽ sớm về thôi.
+240|Ông nghĩ vậy sao?
+241|Ừ, ta sẽ ở với cháu đến lúc đó.
+242|Ta là đầu bếp giỏi. Có ta ở đây cháu sẽ không đói.
+243|Cháu đói...
+244|Cứ tin ở ta.
+245|Thấy chưa?
+246|Cuộc gặp gỡ của hai người này đã dẫn đến việc thành lập băng Big Mom.
+247|Linlin!
+248|Tỉnh lại đi! Họ sắp bắn con đấy!
+249|Vậy, ở Tiệc Trà hôm nay,
+250|nếu ta xé đôi bức tranh đó, ngươi nghĩ chuyện gì sẽ xảy ra?
+251|Mama sẽ suy sụp!
+252|Và không ai ở đó cử động được trong hơn năm giây.
+253|Khi đó KX Launcher sẽ phát huy sức mạnh thật sự...
+254|và Tứ Hoàng Big Mom sẽ chết!
+255|Bà tiêu rồi, Big Mom!
+256|Mama!
+257|Mẹ.
+258|Tất cả bọn chúng đều cố ngăn con.
+259|Con người hạnh phúc nhất khi bình đẳng.
+260|Nhưng trong thế giới ngày nay, gần như không tìm được đất nước như vậy.
+261|Vì thế chúng ta nên lập một đất nước riêng ở đây!
+262|Một đất nước nơi mọi người đều bình đẳng!
+263|Đất nước?!
+264|Đúng vậy. Nơi mọi chủng tộc chung sống hòa bình.
+265|Và mọi người đều ngang tầm mắt nhau!
+266|Ngang tầm mắt? Nghe hay quá!
+267|Vậy ai cũng có thể to lớn như em!
+268|Oa! Ngầu quá!
+269|Đó là một giấc mơ đẹp, Mẹ!
+270|Linlin!
+271|Mọi người, cùng cố gắng nhé.
+272|Em sẽ cố hết sức!
+273|– Em cũng vậy! – Em cũng vậy!
+274|Ừ!
+275|Cùng tạo nên đất nước mơ ước ngay tại đây!
+276|Con cũng sẽ cố hết sức, Mẹ!
+277|Con là đứa trẻ ngoan, Linlin.
+278|Vâng!
+279|Nếu có những đất nước như vậy, thế giới sẽ hòa bình hơn nhiều.
+280|Ai cũng sẽ tìm được hạnh phúc.
+281|Ước mơ của Mẹ là ước mơ của con!
+282|Hòa bình? Đó là ước mơ của cháu sao, Linlin?
+283|Đúng vậy! Cháu sẽ xây một đất nước mà Mẹ thích!
+284|Sao cháu không thôi khóc đi?
+285|Này, này, này! Cháu muốn xem phép thuật của Mẹ!
+286|Phép thuật?
+287|Vâng, Mẹ giỏi làm ảo thuật lắm.
+288|Cháu nhớ Mẹ đưa tay ra thế này...
+289|Rồi...
+290|Cái gì?! Là trò Mẹ hay làm! Sao lại thế?!
+291|Sao cháu làm được?!
+292|Cái quái gì... Là năng lực Trái Ác Quỷ à?
+293|Oa, cháu cũng làm được, Mẹ ơi!
+294|Cảm ơn con, Linlin! Cùng hát nào!
+295|Thú vị thật! Được rồi, ta quyết định!
+296|Ta sẽ ra khơi cùng con bé!
+297|– Hay! Hay! – Một đất nước nơi mọi người cùng một cỡ...
+298|ngồi ngang tầm mắt, và nơi mọi người bình đẳng.
+299|Được rồi, Linlin. Cùng xây đất nước mơ ước đó nào!
+300|Tính cả ta nữa.
+301|Vâng!
+302|Này, nhìn tờ truy nã này!
+303|Năm mươi triệu chỉ cho một đứa nhóc?!
+304|Sao có thể thế?
+305|Một bé gái phá nát lâu đài?!
+306|Thủ phạm là Charlotte Linlin!
+307|Cipher Pol báo cô ta nguy hiểm! Một ngày nào đó sẽ thành thế lực mạnh!
+308|Bắt cô ta bằng mọi giá!
+309|Rõ!
+310|Cô ta kia rồi!
+311|Cẩn thận, Linlin.
+312|Tao đang ăn đồ ngọt!
+313|Đừng làm phiền!
+314|Charlotte Linlin tiếp tục gây loạn...
+315|và dường như chỉ sau một đêm đã thành mối đe dọa toàn thế giới.
+316|Là hải tặc!
+317|Chạy đi!
+318|Mang hết đồ ngọt các ngươi có cho ta!
+319|Bệ hạ!
+320|Ôi không!
+321|Rồi ta sẽ đảm bảo cho các ngươi hòa bình và một đất nước mơ ước!
+322|Nếu các ngươi nghe lời ta, mọi người sẽ hạnh phúc!
+323|Kẻ nào không nghe là ích kỷ, nên ta phải giết!
+324|Mẹ, con nhớ mẹ...
+325|Con nhớ mẹ!
+326|Mẹ!
+327|Một ngày nào đó con sẽ làm mọi người to lớn!
+328|Rồi chúng ta lại ngồi cùng bàn với nhau!
+329|Nhưng vẫn còn những kẻ không chịu nghe ta!
+330|Ta buồn quá và không ngừng khóc được!
+331|Vì bức chân dung duy nhất của Mẹ...
+332|Con là đứa trẻ ngoan.
+333|Bức chân dung duy nhất của Mẹ mà ta trân quý...
+334|đã bị bọn chúng phá vỡ!
+335|Ta sẽ bắt chúng trả giá...
+336|Bọn hải tặc Mũ Rơm đó!
+337|Ta sẽ không bao giờ tha thứ!
+338|Kế hoạch thất bại rồi!
+339|Cái gì?!
+340|Họ thất bại rồi!
+341|Nghe này, vì tôi bay được nên tôi sẽ lao xuống chỗ có gương để thoát!
+342|Xong việc thì nhảy vào gương của Caesar ngay!
+343|Nào, đến phần của tôi!
+344|Chết tiệt!
+345|Bà ta phá bệ phóng của tôi rồi!
+346|Mụ quái vật đó! Đúng là Tứ Hoàng của biển!
+347|Rút lui, mọi người! Nhảy vào gương!
+348|Áp lực gió khủng khiếp!
+349|Tệ rồi! Chúng ta kẹt trên mái! Không có đường thoát!
+350|Mà cũng không có cách nào thắng!
+351|Rook: In Voller Größe!
+352|Rook Toàn Thân
+353|Cái gì?!
+354|Cha Lớn!
+355|Ồ, ngầu quá!

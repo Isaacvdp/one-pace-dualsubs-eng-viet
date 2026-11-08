@@ -1,0 +1,377 @@
+1|Bege!
+2|Ôi không! Anh Oven đang nổi điên!
+3|Ra cảng!
+4|Trên biển không có chỗ chạy!
+5|Trên đất liền cũng vậy!
+6|Xuống tàu!
+7|Vậy ngươi chọn chiến đấu, Bege!
+8|Được thôi. Ta sẽ xử tử ngươi ngay bây giờ!
+9|Tệ rồi chị ơi! Chúng ta không thể ra khơi!
+10|Chúng ta làm gì với chiếc bánh?!
+11|Tăng tốc!
+12|Đi thẳng ra cảng!
+13|Tàu của Bege tăng tốc rồi!
+14|Hắn nghĩ gì vậy?! Hắn sẽ đâm vào cảng!
+15|Sao hắn không giảm tốc?!
+16|Đừng nói là... tấn công liều chết?!
+17|Nó đang chạy lên bờ!
+18|Bege!
+19|Đừng nương tay! Chuẩn bị bắn!
+20|Đồ phản bội!
+21|Thế này thì sao, lũ nhãi?
+22|Con tàu này, Nostra Castello...
+23|có thể chạy cả trên nước lẫn trên cạn!
+24|Bege!
+25|Guồng nước biến thành xích xe tăng!
+26|Tôi không ngờ điều đó lại có thể!
+27|Vì ta chưa bao giờ nói cho các ngươi biết!
+28|Sao ta phải khoe hết chiêu với những kẻ ta đã quyết định phản bội?!
+29|Đồ khốn!
+30|Bắn đi!
+31|Chiffon! Giao bánh cho chúng tôi!
+32|Gì?!
+33|Không thể nào! Chiếc bánh khổng lồ!
+34|Làm sao giao một chiếc bánh to thế cho con tàu đang chạy nhanh vậy?!
+35|Gì?! Gìììì?!
+36|Xe ngựa đang ở trên không?!
+37|Chuyện gì đang xảy ra vậy?!
+38|Gì?!
+39|Chân Đen!
+40|Dọn chỗ trên boong đi, Bege!
+41|Sanji-san!
+42|Pudding-sama!
+43|Nhanh lên, Bege!
+44|Lùi lại, các cậu!
+45|Dọn chỗ trên boong!
+46|V-Vâng! Thưa cha!
+47|Chân Đen! Được rồi, lên tàu đi!
+48|Gã đó là ai vậy?!
+49|Hắn chỉ dùng một chân...
+50|Là đầu bếp sao?!
+51|Được rồi! Đi thôi!
+52|Mọi người! Chuẩn bị va chạm!
+53|Chiếc bánh đã lên tàu!
+54|Tuyệt vời lắm, Chân Đen!
+55|Mùi thơm tuyệt diệu này là gì vậy?
+56|Đ-Đúng là Germa!
+57|Tôi không phải thành viên Germa!
+58|Bege! Pez!
+59|Em không sao chứ, em yêu?
+60|Vâng...
+61|Anh lúc nào cũng liều lĩnh...
+62|Cảm ơn anh!
+63|Pudding-sama! Ở lại với chúng tôi nhé!
+64|Ta không để chúng thoát đâu!
+65|Coi chừng!
+66|Oven-sama! Xin hãy tránh đường!
+67|Ngươi không biết ta là ai sao?!
+68|Ta sẽ chặn chúng!
+69|Bẹp!
+70|Hắn bị cán rồi!
+71|Ôi, nín nào Pez. Ban nãy hơi ồn nhỉ?
+72|Hắn vẫn còn đó...
+73|Gã đó là ai vậy? Biến thái à?
+74|Hả? Sao vậy, Pez?
+75|Có vẻ con bé vui.
+76|Chúng ta cần đi về phía biển đông nam, Bege!
+77|Được...
+78|Cứ chạy xuyên qua thị trấn để ra biển.
+79|Pudding!
+80|Chúng ta sẽ phải cán qua vài ngôi nhà sô cô la.
+81|Gì cơ?!
+82|Đó là cách duy nhất để chúng ta rời đi an toàn!
+83|Phí quá.
+84|Em sẽ sửa lại sau.
+85|Nhà cửa có thể xây lại. Gia đình cũng vậy.
+86|Ừ. Tốt hơn là đừng tan vỡ, nhưng...
+87|đây là nhà của em bây giờ.
+88|Và các anh là gia đình mới của em.
+89|Phu nhân!
+90|Lũ khốn!
+91|Đừng dùng đại bác nữa!
+92|Có thể làm nổ cả chiếc bánh!
+93|Chúng sắp ra biển rồi! Đừng để chúng thoát!
+94|Hạm đội! Hướng về phía đông nam của đảo!
+95|Chúng tôi đến ngay!
+96|Được rồi! Chúng ta đã rời khỏi Đảo Cacao!
+97|Hoan hô!
+98|Giờ không ai đuổi kịp con tàu guồng này nữa.
+99|Cảm ơn, Bege. Anh đã cứu bọn tôi.
+100|Tao không làm vì mày đâu, Chân Đen!
+101|Ở đây nóng bất thường nhỉ?
+102|Cha ơi, biển trông lạ quá!
+103|Cá nổi lên mặt nước!
+104|Biển nóng đến mức luộc chín chúng sao?!
+105|Với lượng muối vừa đủ, chắc ăn ngon đấy...
+106|Chúng ta sẽ là con tiếp theo đấy, đồ ngốc!
+107|Chỉ có một người làm được điều này...
+108|Nhìn kìa!
+109|Hot Sea Hell!
+110|Với năng lực Trái Nhiệt của ta...
+111|ta sẽ luộc chết tất cả các ngươi!
+112|Nóng quá!
+113|Đang sôi!
+114|Chúng ta có vấn đề lớn hơn phải lo!
+115|Tệ rồi! Nó sẽ ảnh hưởng đến nhiệt độ của sô cô la!
+116|Kem tươi cũng sẽ tan!
+117|Nghĩa là...
+118|Nếu không làm gì, bánh của Big Mom sẽ hỏng!
+119|Tên ngốc đó, hắn nghĩ gì vậy?!
+120|Big Mom sẽ không hài lòng với cá luộc đâu!
+121|Chuyện gì vậy?!
+122|Nhiệt làm hỏng guồng nước!
+123|Rero! Hắn định đánh chìm tàu chúng ta sao?!
+124|Oven-sama quên chiếc bánh này quan trọng thế nào rồi sao?!
+125|Không sao đâu...
+126|Sẽ ổn thôi...
+127|Chìm đi...
+128|chìm đi!
+129|Con lạ quá... sao con cười mãi vậy, Pez?
+130|Ngươi là cái quái gì vậy?
+131|Oven-sama! Coi chừng!
+132|Dừng lại đi!
+133|Oven-sama!
+134|Chuyện gì vậy?
+135|Ai đó?
+136|Là kẻ thù không đội trời chung của Oven-sama sao?
+137|Pound!
+138|N-Ngươi khá cứng đầu...
+139|Đồ khốn!
+140|Ông định giết con riêng của vợ cũ sao?!
+141|Cha ơi! Nhiệt độ nước đang giảm!
+142|Gập guồng lại! Tận dụng cơ hội này để vượt qua vùng nước nóng!
+143|Rõ, thưa ngài!
+144|Mau thoát khỏi đây thôi!
+145|Vâng, thưa phu nhân!
+146|Gửi đứa cháu mà ta còn chưa biết tên...
+147|Con có hạnh phúc không?
+148|Hãy để mẹ và cha con yêu thương con thật nhiều...
+149|Ta đã không làm được điều đó cho các con của ta...
+150|Chưa sao? Chưa sao?
+151|Linlin, em đã sinh rồi!
+152|Ừ... Lola và Chiffon...
+153|Là song sinh.
+154|Song sinh?! Anh muốn bế chúng.
+155|Gì?!
+156|Ngươi đã hết tác dụng rồi.
+157|Đi đi.
+158|Gì?
+159|Linlin?
+160|Em nói vậy là sao?!
+161|Anh là cha chúng! Chúng ta...
+162|Ngươi nghĩ chúng là gia đình ngươi sao? Đừng đề cao bản thân.
+163|Linlin!
+164|Đó là con của anh!
+165|Xin em!
+166|Anh chỉ muốn bế chúng một lần thôi!
+167|Linlin!
+168|Chúng là... con của anh...
+169|Đó là chuyện 26 năm trước...
+170|Chiffon... cha mừng vì ít nhất cũng được gặp con một lần.
+171|Có vẻ con đang bị truy đuổi,
+172|nhưng cha mừng vì con trông hạnh phúc...
+173|Sao vậy, Pez?
+174|Con sẽ ổn thôi! Chúng ta sắp ra khỏi vùng biển nóng này rồi!
+175|Không có gì phải sợ!
+176|Dừng lại, Mama!
+177|Im đi!
+178|Sao ta lại sinh ra cặp song sinh?!
+179|Chắc ngươi cũng thất bại như Lola!
+180|Dừng lại!
+181|Những đứa con vô dụng với ta không thuộc gia đình ta!
+182|Đừng bao giờ xuất hiện trước mặt ta!
+183|Sẽ ổn thôi. Papa và Mama đang ở ngay đây.
+184|Cha đã lo cho con suốt thời gian qua.
+185|Con có gặp khó khăn gì không?
+186|Con có bao giờ cô đơn không?
+187|Cha xin lỗi vì không thể ở bên con những ngày đó...
+188|Cha biết là cha đến muộn...
+189|nhưng cha muốn nói với con một điều.
+190|Chúc mừng...
+191|hôn lễ của con!
+192|Chiffon!!
+193|Gì?!
+194|Chúng ta thoát rồi!
+195|Cứ giữ tốc độ này mà thoát đi!
+196|Chiếc bánh suýt nữa thì hỏng.
+197|Nhanh lên! Chúng ta không còn nhiều thời gian!
+198|Bắt đầu trang trí nào!
+199|Được!
+200|Ừ!
+201|Trên Biển - Sunny
+202|Ta tìm thấy các ngươi rồi!
+203|Giao bánh ra đây!
+204|B-B... B-B-Big Mom?!
+205|Nhìn thế nào bà ta cũng quá mạnh với chúng ta!
+206|Chúng ta làm gì đây?!
+207|Có lẽ chạy là tốt nhất...
+208|Nếu dừng lại là hết! Phải thoát bằng mọi cách!
+209|Tới đây!
+210|Tôi đi trước!
+211|Tôi sẽ hạ chúng!
+212|Hả? Kẻ địch của chúng ta là ai?
+213|Là băng Mũ Rơm!
+214|À đúng rồi! Nhưng tôi không thấy cái mũ rơm nào cả!
+215|Xin lỗi! Băng Mũ Rơm đâu rồi?
+216|Họ đi hướng đó!
+217|Gì cơ?!
+218|Đi thôi! Hướng đó!
+219|Cảm ơn đã chỉ đường!
+220|Ah! Chúng ta không bay xa đến thế được!
+221|Họ là gì vậy?
+222|Tôi không biết.
+223|Đồ ngốc!
+224|Sao toàn bộ đạn đại bác đều vô dụng thế này?!
+225|Chuyện gì đang xảy ra vậy?!
+226|Như ngài biết, khi Mama mất kiểm soát, chúng không nghe lời chúng ta!
+227|Xin cho tôi đi tiếp!
+228|Không, tôi đi!
+229|Bavarois-sama! Tôi sẽ cho ngài thấy tôi làm được!
+230|Con trai thứ 26 nhà Charlotte, Charlotte Bavarois
+231|Bavarois: Đặt theo kem Bavarian.
+232|Chết tiệt...
+233|Mama không chậm lại... mà chúng ta cũng đang hết tốc lực!
+234|Sao không đuổi kịp chúng được?!
+235|Thì, chúng có Jinbe, người thuộc biển như lòng bàn tay.
+236|Bavarois-sama! Chúng tôi vừa nhận được cuộc gọi!
+237|Chúng đến rồi!
+238|Mọi người!
+239|Sao vậy, Carrot?!
+240|Có cả đống tàu phía trước!
+241|Gì cơ?!
+242|Ôi không! Chúng ta bị kẹp hai bên!
+243|Bánh cưới!
+244|Gear Third!
+245|Chúng ta vừa mới bắt đầu lại. Đừng thất thường như vậy.
+246|Dù ngươi đã trốn thoát lúc trước, ta vẫn là đối thủ của ngươi.
+247|Sẽ không ai cười ngươi nếu ngươi làm vậy.
+248|Vậy sao ngươi quay lại?
+249|Ngươi chọn cái chết thay vì nỗi nhục chạy trốn à?
+250|"Chọn cái chết"?
+251|Hay ngươi nhận ra sự chênh lệch sức mạnh của chúng ta...
+252|và quay lại đây để xin làm thuộc hạ?
+253|"Xin"?
+254|Đừng có nhảm nhí...
+255|Tao...
+256|đến đây để đánh bại mày!
+257|"Đến đây để đánh bại ta"?
+258|Điều đó không phải là...
+259|một lựa chọn!
+260|Chết tiệt...
+261|Trước khi kịp cắt đuôi Big Mom và đồng bọn, đường thoát của chúng ta đã bị chặn!
+262|Bavarois-sama!
+263|Daifuku-sama và hạm đội của ngài ấy đã đến ngay phía trước!
+264|Con trai thứ 3 nhà Charlotte, Charlotte Daifuku
+265|Và chúng ta có quân tiếp viện từ phía sau!
+266|Từ phía sau?
+267|Đó là...
+268|Hạm đội tiếp viện do Tướng Ngọt Smoothie-sama dẫn đầu đã đến!
+269|Con gái thứ 14 nhà Charlotte, Tướng Ngọt Smoothie
+270|Hơn nữa, soái hạm của Smoothie-sama...
+271|Con gái thứ 16 nhà Charlotte, Cinnamon
+272|Con gái thứ 15 nhà Charlotte, Citron
+273|còn có cả Citron-sama và Cinnamon-sama trên tàu!
+274|Họ đến cả đây luôn sao?!
+275|Nhưng có họ, chúng ta sẽ bất khả chiến bại!
+276|Được rồi. Làm thôi, các chiến hữu!
+277|Rõ!
+278|Này anh Peros, sao anh mất lâu thế để diệt một con chuột nhắt?
+279|Em đánh chìm chúng được không?
+280|Muốn làm gì thì làm. Liếm...
+281|Các ngươi thật kịch tính!
+282|Chuyện gì xảy ra cũng không quan trọng... vì Mama đang đến Đảo Cacao nơi Pudding chờ.
+283|Có vẻ Mama đang gầy đi.
+284|Liếm...
+285|Bánh cưới!
+286|Tất cả tàu, chuẩn bị khai hỏa!
+287|Ngay khi tàu chúng vào tầm bắn...
+288|cho chúng nếm mùi!
+289|Tệ rồi...
+290|Tàu của Daifuku đang chuẩn bị bắn đại bác!
+291|Tôi nghĩ chúng ta chưa vào tầm bắn của chúng...
+292|Dù có né, chúng ta cũng bị bao vây bốn phía.
+293|Jinbe, cứ tiếp tục tiến lên không giảm tốc!
+294|Nhưng chúng ta đối đầu tàu của Daifuku... Hắn điều khiển thần đèn và là đối thủ đáng gờm!
+295|Chúng ta không còn cách nào ngoài việc xuyên thẳng phía trước!
+296|Phải. Hãy chuẩn bị tinh thần.
+297|Tôi sẽ mở màn bằng cách dùng Rumble Ball! Đưa tôi đến đủ gần để nhảy lên tàu chúng!
+298|Đánh cận chiến... Sẽ khó đây.
+299|Ừ.
+300|Đi thôi!
+301|Chúng sắp vào tầm bắn rồi.
+302|Bắn hết đạn đại bác vào chúng.
+303|Rõ!
+304|Cơ hội của chúng ta đây!
+305|Này, dùng đạn đại bác không mặt đi.
+306|Không đời nào!
+307|Daifuku-sama!
+308|Im đi!
+309|Chobro!
+310|Mọi người!
+311|Để em lo Daifuku và đồng bọn!
+312|Em chắc chắn sẽ có ích!
+313|Carrot?!
+314|Vì...
+315|đêm nay là trăng tròn...
+316|Đừng nói là... Sulong?! Em đã được huấn luyện chưa?!
+317|Sulong: "Sư Tử Trăng"
+318|Đừng lo... Pedro đã huấn luyện em.
+319|Em biết Pedro sẽ nói gì lúc này...
+320|"Cứ giao cho tôi."
+321|Nếu Carrot đi, tôi cũng đi cùng cô ấy!
+322|Cứ giao cho tôi, Chobro!
+323|Dù sao tôi vẫn là Xạ thủ mà!
+324|Mọi người, vào vị trí đại bác!
+325|Chúng ta sẽ bắn loạt đạn và đánh chìm nó nhanh!
+326|Đợi hiệu lệnh của tôi!
+327|Anh nói gì vậy, Pedro?
+328|Một ngày nào đó, cậu sẽ thấy điều đó quan trọng thế nào...
+329|khi cho Luffy và mọi người ra khơi!
+330|Tôi sẽ chiến đấu...
+331|cả phần của anh nữa...
+332|Pedro!
+333|Cái gì vậy?
+334|Mắt cô ấy đỏ... Trông như người khác...
+335|Carrot... Cô ấy đẹp quá...
+336|Huyền bí làm sao...
+337|Ồ, trông cô ấy tuyệt thật...
+338|Tôi muốn thấy quần lót của cô ấy...
+339|Đó là điều Công tước Inuarashi nói sao?
+340|Nhưng sau trận chiến đó...
+341|đây là kết quả chúng ta có trước đội của Jack, một nhánh của quân Kaidou.
+342|Nhưng chúng ta sẽ không để điều đó xảy ra lần nữa! Chúng ta sẽ không lặp lại sai lầm!
+343|Chúng ta có quân bài tẩy.
+344|Nếu đánh với chúng lần nữa, chúng ta sẽ cho chúng thấy sức mạnh thật sự của tộc Mink!
+345|Đây hẳn là quân bài tẩy ông ấy nói...
+346|Sức mạnh thật sự của...
+347|tộc Mink!
+348|Đ-Đừng nói đó là...
+349|Tệ rồi, Daifuku-sama!
+350|Đêm nay là trăng tròn! Cô gái Mink đi cùng kẻ địch...
+351|đã hóa Sulong!
+352|Các ngươi! Chuẩn bị cận chiến!
+353|Nếu ta nhớ đúng, Pedro đến từ Zou, Đảo Ma...
+354|Chắc cô ta cũng từ cùng nơi...
+355|Cô ta sẽ rơi xuống biển!
+356|Hả?! Cái gì...
+357|Cô ta vừa bay lên từ mặt nước!
+358|Tuyệt vời...
+359|Chưa hết đâu...
+360|Cô ta đến rồi! Bắn hạ cô ta!
+361|Rõ!
+362|Đừng mất cảnh giác!
+363|Cô ta là chiến binh đến từ Zou! Họ ở đẳng cấp khác!
+364|Tôi sẽ hạ cô ta!
+365|Gì?!
+366|Đừng nương tay! Diệt cô ta!
+367|Chết tiệt! Bắn!
+368|Bắt được ngươi rồi!
+369|Này!
+370|Chuyện gì vậy? Chopper!
+371|Con chuột nhắt chết tiệt!
+372|Ngươi định chiến đấu với toàn bộ binh sĩ trong hạm đội này để ngăn chúng ta sao?!
+373|Trong lúc đó tàu của ngươi sẽ chìm! Hãy dừng sự kháng cự vô ích này và...
+374|Bánh lái?!
+375|C-Cô ta phá hỏng bánh lái!
+376|Ôi không! Tàu chúng ta đang đi đâu vậy?!
+377|Con chuột nhắt đó!

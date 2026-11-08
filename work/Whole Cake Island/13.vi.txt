@@ -1,0 +1,369 @@
+1|Chobro, cứu! Nóng quá!
+2|Đừng có rên nữa, nhóc con!
+3|Tôi không ăn người, nhưng...
+4|người Mink có thể ăn được, nên phải thử.
+5|Đừng ăn em! Em không ngon đâu!
+6|Thả Carrot ra, Brûlée!
+7|Cô ấy không phải thỏ thật! Tất nhiên là không ngon rồi!
+8|Gì? Thật à?
+9|Cậu ta nói đúng!
+10|Vậy có lẽ không nên thử.
+11|Tôi dai, hôi và ghê lắm!
+12|Tao không thả nó đâu. Câm miệng đi, con tuần lộc quái dị.
+13|Mày sẽ vào bộ sưu tập thú lạ của Mama!
+14|B-Bộ sưu tập thú lạ?
+15|Đúng vậy. Nên ngồi yên đó đi.
+16|Được rồi! Mình đã tới được đây.
+17|Tôi cố ý để bị trói ở Heavy Point,
+18|để có thể thoát khỏi xích ngay lập tức bằng cách biến hình.
+19|Tôi đang làm phiền Chopper! Pedro sẽ giận tôi mất!
+20|Đã ít nhất sáu tiếng từ khi tôi dùng Monster Point hôm qua, nên tôi cũng dùng được nó!
+21|Chobro!
+22|Cơ hội đây rồi!
+23|Đây rồi.
+24|Trong sách có vô số thế giới.
+25|Nhìn này. Đây là con sư tử ăn thịt người mặt người cực hiếm.
+26|Manticore.
+27|Là thú lạ đã trốn khỏi Impel Down
+28|trong cuộc tấn công của Râu Đen hai năm trước.
+29|Khố, khố!
+30|Nó cử động rồi!
+31|Còn đây là báu vật của tôi!
+32|Đẹp không?
+33|Ừm... cũng gần như thế. Nhưng nó đang sống trong sách.
+34|Những con vật trong sách sẽ không bao giờ già.
+35|Hợp lý mà, đúng không? Nội dung sách đâu có thay đổi.
+36|Cứu với!
+37|Những cuốn sách trong thư viện này chứa sinh vật quý hiếm khắp thế giới.
+38|Ngầu quá!
+39|Đó là khả năng của con trai ta, Mont d'Or.
+40|Gần đây ta có được một nhân mã từ Punk Hazard,
+41|và một griffin từ South Blue.
+42|Ta còn có cả loại này nữa!
+43|Người tay chân dài!
+44|Cứu với!
+45|Thả tôi ra!
+46|Cả người cũng bị nhốt sao?
+47|Big Mom.
+48|Từ khi bước chân vào đất nước này, tôi đã thấy đủ loại chủng tộc.
+49|Tất nhiên! Vì Totto Land vốn là đất nước như vậy!
+50|Nhưng có một chủng tộc tôi chưa thấy, và tôi không ngừng nghĩ về nó.
+51|Nếu họ ở đây thì chúng tôi đã biết.
+52|Người khổng lồ!
+53|Với một quốc gia của mọi chủng tộc, thật lạ khi tôi chưa thấy người khổng lồ nào.
+54|Tôi chỉ thấy người to lớn.
+55|Vậy sao?
+56|Chắc cậu chỉ chưa gặp thôi.
+57|Mama!
+58|Có chuyện gì?
+59|Ma... Mama... Chúng... chúng... chúng con đã đưa hai... hai đứa đó đến đây!
+60|Được rồi.
+61|Xin phép nhé? Hôm nay rất bận.
+62|Chúc ông một buổi chiều tốt lành, dù thời tiết xấu!
+63|Cậu bị sao vậy?
+64|T-Thì, tôi căng thẳng.
+65|Họ là Germa 66 thật sự.
+66|Ichiji và Reiju ngầu đúng như tôi nghĩ.
+67|Im đi! Ngu ngốc khi bị truyện tranh ảnh hưởng!
+68|Họ trông "ngầu" hay không thì có liên quan gì.
+69|Để xem, trang nào nhỉ?
+70|Trang 55.
+71|Năm mươi lăm.
+72|Đây rồi.
+73|Hai đứa này à? Ta thích vẻ mặt của chúng.
+74|Liếm!
+75|Định giữ bọn tôi thế này đến bao giờ?!
+76|Cho tôi đi tắm!
+77|Người tôi dính đầy siro!
+78|Trông em ngọt quá, Candy-chan. Liếm!
+79|Mama đến rồi.
+80|Gì?
+81|Hả?
+82|Ốc sên truyền tin?!
+83|Lâu rồi không gặp, Mũ Rơm Luffy!
+84|Cuối cùng cậu cũng đến được đây.
+85|Đây là Big Mom sao?
+86|Thả tao ra! Tao phải quay lại!
+87|Tao sẽ thoát ra, dù phải phá hết mọi thứ!
+88|Ồ-ồ, vẫn còn tinh thần đó.
+89|Vì cậu không mang theo cả băng,
+90|ta tưởng cậu đã quên điều cậu nói với ta ở Đảo Người Cá.
+91|Tao sẽ đập mày ở Tân Thế Giới...
+92|và biến Đảo Người Cá thành lãnh thổ của tao!
+93|Ừ, một ngày nào đó tao sẽ đập mày!
+94|Nhưng bây giờ bọn tao chỉ đến để đưa Sanji về!
+95|Ta chán những lời khoác lác của cậu rồi!
+96|Câm miệng! Muốn đánh thì ra mặt đi, Big Mom!
+97|Tao sẽ đánh mày... ngay tại đây!
+98|Này! Ra đây, Big Mom!
+99|Ra mặt đi!
+100|Tao sẽ đánh mày!
+101|Đừng được nước lấn tới.
+102|Cậu chỉ là tân binh vừa vào Tân Thế Giới.
+103|Cậu xin gặp ta là quá ngạo mạn.
+104|Giết cậu không cần ta ra tay.
+105|Nghe cho kỹ, Mũ Rơm.
+106|Nếu cậu từ bỏ hoàn toàn Sanji, ta sẽ để cậu rời đi nguyên cái đầu.
+107|Đừng có mơ!
+108|Đám cưới của Sanji và Pudding
+109|rất...
+110|đặc biệt với ta.
+111|Nên cứ ngồi yên đó cho đến khi mọi chuyện kết thúc.
+112|Mũ Rơm, nếu cậu phá hỏng điều ta mong đợi,
+113|ta sẽ bắt cậu trả giá thật đắt!
+114|À phải!
+115|Cậu nhớ không?
+116|Khi cậu ăn hết kẹo làm cho ta,
+117|cậu đã đưa ta toàn bộ kho báu cậu nhận từ vua Neptune.
+118|Ở đây ta có cả đống kho báu.
+119|Ta sẽ đưa hết cho cậu để bồi thường số kẹo!
+120|Đoán xem bọn ta tìm thấy gì trong đó!
+121|Đừng nói là muốn lấy lại nhé!
+122|Đó là chiếc hộp báu huyền thoại được truyền qua
+123|nhiều thế hệ ở Đảo Người Cá:
+124|Hộp Tamate.
+125|Không biết sao Neptune lại buông nó.
+126|Chắc chắn là bảo vật quốc gia. Không biết bên trong có gì.
+127|Ta thích hộp báu lắm!
+128|Nên quên số kẹo đi.
+129|Ngày mai trong tiệc trà, ta sẽ mở Hộp Tamate trước mặt mọi người.
+130|Sẽ vui lắm!
+131|Không vui đâu! Sanji sẽ không cưới!
+132|Chết tiệt!
+133|À phải! Tôi muốn gặp Pudding!
+134|Luffy! Đừng nhắc đến cô ấy!
+135|Tôi cần nói chuyện với cô ấy! Cô ấy là bạn tôi!
+136|Hả? Bạn?
+137|Đừng nực cười. Sao cô dâu lại là bạn cậu được?
+138|Luffy!
+139|Đừng đùa nữa!
+140|Nhân tiện, cô gái,
+141|ta nghe nói cô đã giết Lola.
+142|Bà nói gì vậy?! Cô ấy là bạn tôi!
+143|Cô ấy đưa tôi vivre card như tín vật tình bạn!
+144|Mẹ sẽ ký tên lên vivre card của Mama,
+145|nên nếu gặp rắc rối, con có thể dùng nó để tìm bà.
+146|Khi gặp bà, hãy nói con vẫn khỏe.
+147|Cảm ơn, Lola.
+148|Lola vẫn khỏe.
+149|Đó là lời cô ấy nhắn. Đây, tôi đã chuyển rồi.
+150|Cô ấy nói mẹ cô ấy là hải tặc,
+151|nhưng tôi không ngờ lại là Hoàng đế Big Mom.
+152|Lola nghĩ nếu tôi đưa bà xem vivre card, bà sẽ giúp tôi...
+153|Đùa à!
+154|Ta không quan tâm nó "vẫn khỏe".
+155|Ta muốn nó chết!
+156|Cái gì?!
+157|Nếu cô biết nó ở đâu thì nói đi.
+158|Ta sẽ phái sát thủ giết nó ngay!
+159|Ta ngạc nhiên là nó vẫn nghĩ chúng ta là gia đình!
+160|Con cái không biết mình mang ơn cha mẹ bao nhiêu, đây là bằng chứng!
+161|Nó là đứa con gái ngu ngốc bỏ trốn, từ chối cuộc hôn nhân chính trị lớn nhất từ trước đến nay!
+162|Ta sẽ không bao giờ tha thứ!
+163|Một trong các anh có thể lấy tôi làm vợ! Nhất là anh! Anh cưới tôi nhé?!
+164|Absalom sẽ cưới tôi!
+165|Hai người hợp nhau quá! Tôi nghĩ mình có thể hết lòng ủng hộ!
+166|Hả?! Thật à?!
+167|Tôi đến để cứu cậu, bạn tôi!
+168|Lola!
+169|Lola! Tôi mừng quá vì lại được gặp cậu!
+170|Chỉ dành cho cậu thôi, vì cậu và tôi như chị em.
+171|Lola...
+172|Giá như...
+173|nó nghe lời ta mà kết hôn,
+174|ta đã có thể có sức mạnh khủng khiếp!
+175|Ta đã đánh bại Kaido, Tóc Đỏ, thậm chí cả Râu Trắng,
+176|và đã trở thành...
+177|Vua Hải Tặc!
+178|Bạn của Lola, Nami Mèo Trộm.
+179|Ta sẽ bắt cô khai ra nó ở đâu.
+180|Chuyện ngu ngốc, Big Mom.
+181|Lola là người không kết hôn.
+182|Còn bà là người chưa trở thành Vua Hải Tặc.
+183|Chỉ vậy thôi.
+184|Luffy...
+185|Tao đến để gây sự với mày lần nữa!
+186|Đừng kiêu căng chỉ vì là Hoàng đế!
+187|Tao sẽ đưa Sanji về!
+188|Và cuối cùng, bọn tao mới là người thắng!
+189|Chuyện gì vậy?
+190|Nam tước Tamago, là kẻ xâm nhập!
+191|Người Mink hổ đến rồi!
+192|Không, là Mink báo đốm!
+193|Pedro... Anh ta đã vào lâu đài rồi, như tôi nghĩ.
+194|Này, khoan đã, Big Mom!
+195|Cậu hài thật!
+196|Đùa à!
+197|Sao dám gây sự với Mama trong lâu đài này?!
+198|Im đi! Lại đây, lũ khốn!
+199|Lola...
+200|Này, các anh chị! Cho em qua! Cho em qua!
+201|Anglaise, sao thế?
+202|Có kẻ xâm nhập... à nhầm, "xâm nhập-ee" trong phòng kho báu! Cho em qua!
+203|Ý em là kẻ xâm nhập hả, Anglaise?
+204|Ừ, đúng rồi!
+205|Hôm nay em cũng không đánh răng đâu! Cho em qua!
+206|Làm ơn...
+207|Mọi người, hãy thoát khỏi đây an toàn.
+208|Đừng để hắn chạy thoát!
+209|Nhanh lên!
+210|Đừng để hắn muốn làm gì thì làm!
+211|Kẻ xâm nhập ở khu vực khác!
+212|Và bây giờ, trong lâu đài của Hoàng đế Hải Tặc Big Mom...
+213|đã đến lúc bắt đầu...
+214|một buổi biểu diễn trực tiếp đặc biệt!
+215|Mama không giận sao?
+216|Chỉ vì thằng nhóc đó gây sự với ta?
+217|Không đâu, Zeus! Nghĩ đi!
+218|Ồ? Ta nhận được tín hiệu. Mama!
+219|Họ báo có kẻ xâm nhập đang gây rối gần kho báu!
+220|Kẻ xâm nhập?
+221|Đừng nói chúng nhắm vào Hộp Tamate của ta!
+222|Là ai?!
+223|Ôi, chết tiệt, chết tiệt!
+224|Luffy và mọi người sẽ được tha. Big Mom đã hứa với anh.
+225|Chỉ cần anh kết hôn, Baratie cũng sẽ ổn.
+226|Tất nhiên chia tay bạn bè rất khó, nhưng ít nhất không ai chết!
+227|Chỉ cần vậy là đủ!
+228|Vậy sao mình lại bực bội thế?
+229|Nếu mình cứ căng thẳng thế này,
+230|nguồn hy vọng duy nhất của mình, Pudding-chan, sẽ buồn!
+231|Anh sẽ không để cuộc hôn nhân với em thành địa ngục!
+232|Anh sẽ là đồ cặn bã thấp hèn nhất nếu làm em lo lắng.
+233|Đừng để cô gái đáng yêu như em ấy buồn! Cứ là chính mình như mọi khi!
+234|Đúng! Anh là đầu bếp lãng mạn!
+235|Pudding-chan!
+236|Pudding-chwan!
+237|Anh sẽ làm em hạnh phúc!
+238|Của chị Lola ạ?
+239|Vâng. Cô gái đó có vivre card của cô ấy,
+240|và bọn Homies trong Rừng Quyến Rũ bị nó làm cho khiếp sợ.
+241|Nhân tiện, thưa cô Pudding, chiếc váy cô chọn hôm qua đã bị Mama bác.
+242|Ngày mai xin cô mặc chiếc váy do Mama chọn.
+243|Mama cũng đã lên kế hoạch mọi thứ sau đám cưới.
+244|Còn nữa...
+245|Thưa cô Pudding, ngoài sân vẫn đang mưa.
+246|Cô Pudding?
+247|Pudding, chỉ cần con làm theo lời mẹ thì con sẽ ổn.
+248|Con trông giống hệt búp bê, Pudding.
+249|Ngoan lắm, Pudding.
+250|Bà ấy sẽ không giết mình. Dù sao cũng là gia đình.
+251|Tôi muốn tự chọn chồng mình!
+252|Không thể tin họ để chuyện này xảy ra ngay trước ngày tiệc trà!
+253|Hắn kia rồi!
+254|Nhanh quá!
+255|Hết đường rồi, kẻ xâm nhập!
+256|Bắn!
+257|Bắn hạ hắn!
+258|Chạy!
+259|Hắn đang ở đâu rồi?!
+260|Hắn đi xuống tầng ba của midbaum,
+261|gần sân trong!
+262|Hạ hắn không dễ đâu! Dồn hắn vào vườn!
+263|Rõ!
+264|Tôi không xử lý nổi thêm lính nữa!
+265|Đây rồi, kẻ xâm nhập.
+266|Ừm, ít hơn trước nhiều rồi.
+267|Chỉ có Pedro-san mới làm được vậy!
+268|Ngươi là sinh vật gì vậy?
+269|Ngươi rất kỳ lạ, ngay cả với đất nước này.
+270|Tôi đồng ý.
+271|Mama sẽ vui.
+272|Bắt hắn!
+273|Này, Nam tước Tamago!
+274|Chỉ huy Smoothie!
+275|Cô nói đúng. Còn một tên nữa.
+276|Tên đó là mồi nhử, như cô nói.
+277|Chết tiệt, Pedro! Ngươi gây ra mớ hỗn độn lớn!
+278|Bọn ta để hắn vào kho báu, rồi hắn khóa cửa lại.
+279|Xin lỗi. Là lỗi của tôi.
+280|Nhưng kho báu chỉ có một lối vào.
+281|Dù hắn có trộm được kho báu, cũng không thể thoát khỏi cô, Chỉ huy Smoothie.
+282|Chỉ cần canh chặt cửa thì sẽ không có vấn đề gì-dezvous.
+283|Cậu nói đúng. Cứ tin ở tôi.
+284|Nếu hắn hạ lính canh bên trong rồi bước ra, tôi sẽ giết hắn. Được chứ?
+285|Không, kẻ bên trong có lẽ là một bộ xương. Mama sẽ thích con thú lạ đó.
+286|Hạ hắn, nhưng đừng giết!
+287|Rõ.
+288|Pedro-san đã nói với tôi...
+289|rằng nhờ năng lực của Big Mom,
+290|các ngươi đều được ban linh hồn người.
+291|Nghĩa là Lính Cờ Vua các ngươi...
+292|bị linh hồn chi phối!
+293|Ôi không!
+294|Mạnh quá!
+295|Đợi chút!
+296|Chưa chỉnh xong mà!
+297|Xé xác hắn!
+298|Hết đường rồi, tên bộ xương chết tiệt!
+299|Ôi, làm ơn!
+300|Đ-Đ-Đ-Đ-Đợi, đợi đã!
+301|Xin hãy đợi!
+302|Chuyện gì vậy?!
+303|Em không biết tên gọi khác của anh, đúng không cưng?
+304|Họ gọi tôi là Soul King!
+305|Lính Cờ Vua!
+306|Những người lính được ban linh hồn...
+307|không thể đứng vững...
+308|trước Soul Scream của tôi!
+309|Thôi đi!
+310|Ồ, bất ngờ thật.
+311|Em cần gì, Pudding?
+312|Pudding?
+313|Này! Pudding! Đưa bọn tôi ra khỏi đây! Bọn tôi bị bắt rồi!
+314|Đừng, Luffy!
+315|Mấy người kia cũng đang nghe đấy!
+316|Điều gì đưa em đến nơi như thế này?
+317|Anh Opera, anh có phiền nếu em nói chuyện với Luffy-kun và bạn cậu ấy một lát không?
+318|Luffy-kun? Được, em cứ nói.
+319|Để anh đánh dấu trang ở đây.
+320|Pudding...
+321|Hai người...
+322|Này, Pudding!
+323|Bọn tôi đã ra bờ biển!
+324|Dừng lại! Pudding sẽ gặp rắc rối!
+325|Hai người bị đánh rồi.
+326|Luffy-kun.
+327|Nami-chan.
+328|Em chắc các anh chị em của em đã làm những chuyện tồi tệ với hai người.
+329|Em xin lỗi!
+330|– Không... – Đừng...
+331|Em cũng không thể đến bờ biển nơi hẹn gặp...
+332|Em thật sự xin lỗi!
+333|Không sao. Ngẩng đầu lên đi.
+334|Sao họ lại thì thầm?
+335|Thật ra em...
+336|đã được Sanji-san cầu hôn.
+337|– Gì?! – Gì?!
+338|Em đã rất vui.
+339|Nhưng...
+340|em biết Sanji-san chỉ đang tử tế với em.
+341|Em đang gây phiền cho mọi người.
+342|Không phải vậy...
+343|Nên đừng lo.
+344|Em sẽ không cưới anh ấy.
+345|Nghe này.
+346|Này, khoan đã, Pudding!
+347|Tạm biệt.
+348|Thế giới Gương, Nhà của Brûlée
+349|Thế giới Gương, Nhà của Brûlée
+350|Đảo Whole Cake
+351|Đảo Whole Cake
+352|Thủ đô Thành phố Ngọt
+353|Thủ đô Thành phố Ngọt
+354|Thư viện Lâu đài Whole Cake
+355|Thư viện Lâu đài Whole Cake
+356|Thư viện Tù nhân Lâu đài Whole Cake
+357|Thư viện Tù nhân Lâu đài Whole Cake
+358|Perospero Con trai cả nhà Charlotte
+359|Perospero Con trai cả nhà Charlotte
+360|Phòng khách của Sanji
+361|Phòng khách của Sanji
+362|Phòng Nữ hoàng
+363|Phòng Nữ hoàng
+364|Phòng khách của Sanji
+365|Phòng khách của Sanji
+366|Phòng của Pudding
+367|Phòng của Pudding
+368|Thư viện Tù nhân
+369|Thư viện Tù nhân

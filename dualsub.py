@@ -25,8 +25,9 @@ TREE_API = "https://api.github.com/repos/one-pace/one-pace-public-subtitles/git/
 RAW = "https://raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/"
 RELEASE_DIR = "main/Release/Final Subs/"
 
-# Styles that carry dialogue. Signs, karaoke, credits and titles stay English-only.
-DIALOGUE_STYLES = re.compile(r"^(main|secondary|flashbacks?|thoughts|narrator|note|captions\d*)$", re.I)
+# Styles that carry dialogue, also in variants like "Main-207+".
+# Signs, karaoke, credits and titles stay English-only.
+DIALOGUE_STYLES = re.compile(r"^(main|secondary|flashbacks?|thoughts|narrator|note|captions\d*)(-[\w+]+)?$", re.I)
 VI_STYLE = "Vietnamese"
 
 
@@ -46,7 +47,8 @@ def parse_episodes(spec):
 
 def english_subs(arc, episodes):
     """Episode -> local English .ass, downloading any that aren't cached yet."""
-    pattern = re.compile(rf"\] {re.escape(arc)} (\d+) \[.*\.ass$", re.I)
+    # "[720p].ass" only: some episodes also have e.g. "[720p] Arabic.ass" next to the English file.
+    pattern = re.compile(rf"\] {re.escape(arc)} (\d+) \[[^\]]*\]\.ass$", re.I)
     folder = ENGLISH / arc
     have = {int(m.group(1)): f for f in folder.glob("*.ass") if (m := pattern.search(f.name))}
     missing = [ep for ep in episodes if ep not in have]
@@ -166,6 +168,10 @@ def export(arc, ep, src):
     items = translatable(src.read_text(encoding="utf-8-sig").splitlines())
     (WORK / arc).mkdir(parents=True, exist_ok=True)
     out = WORK / arc / f"{ep:02d}.en.txt"
+    if out.with_name(f"{ep:02d}.vi.txt").exists():
+        # The .vi.txt is matched to this file line by line; re-exporting could renumber it.
+        print(f"  {arc}/{out.name}: already translated, left as is")
+        return
     out.write_text("".join(f"{n}|{text}\n" for n, (_, text) in enumerate(items, 1)), encoding="utf-8")
     print(f"  {arc}/{out.name}: {len(items)} lines")
 

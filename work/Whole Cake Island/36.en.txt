@@ -1,0 +1,352 @@
+1|Hand it over!
+2|Is this what you wanted, Chiffon?
+3|Yes! Thank you, Bege!
+4|But we definitely took on a big headache!
+5|Honestly, getting away is more important than the assassination right now!
+6|What are you saying, Bege?!
+7|We decided to help Nami and the others get away safely!
+8|We can't just give up halfway simply because we want to save ourselves!
+9|This is how one repays their debt!
+10|Mm-hm!
+11|Rero!
+12|It's going to be all right! Believe in the taste of the cake!
+13|Black Leg is really an amazing cook!
+14|Man! This is why I love you, Chiffon!
+15|Madam!
+16|Wedding cake!
+17|Let's shake them off, guys!
+18|Yeah!
+19|It's Smoothie-sama's ship!
+20|Smoothie-sama!
+21|Citron-sama! Cinnamon-sama!
+22|Are you ready? Straw Hat crew...
+23|Another fleet is on our tail!
+24|It's Sweet Commander Smoothie's ship!
+25|Big Mom is gone, but now there's a Sweet Commander!
+26|It's that woman who squeezes stuff...
+27|Sister Smoothie!
+28|How much longer until we reach Cacao Island?
+29|A little over 3 hours from now!
+30|We'll get there at around 1 a.m., just as we promised!
+31|But we don't know where or when Luffy is going to appear on Cacao Island...
+32|and we have no way to tell him it's dangerous!
+33|There's only one plan I can think of for us to get past Cacao Island.
+34|Cacao Island
+35|Oven-sama! Our fleets are slowly surrounding the island!
+36|Is this really necessary?!
+37|There's no way Katakuri-sama will let Straw Hat escape, anyways!
+38|Tell that to Tamago and Mont d'Or!
+39|It's necessary, Big Brother Oven!
+40|Can you believe it?!
+41|That big explosion of the chateau was planned, too!
+42|What?!
+43|Even though they're rookies and a small group, we cannot underestimate them!
+44|If we let them escape, it would be the greatest embarassment for us!
+45|Don't worry... They won't get past us here!
+46|Listen! About three hours from now, at 1 AM...
+47|the separated members of the Straw Hat crew will meet up here at Cacao Island.
+48|Think of it as your last chance to kill them all!
+49|Yes, sir!
+50|If by any chance Straw Hat appears, he'll come out of a mirror on the island!
+51|Everyone, go home and break all the mirrors in the town!
+52|Didn't you hear me?! Just do it!
+53|No way! Even the precious mirrors?!
+54|He's an ability user. If you have a mirror that you don't want to break, throw it into the sea.
+55|You can retrieve it later! Anyways...
+56|this is the only mirror that will remain on the island!
+57|There must be no others!
+58|If anyone allows Straw Hat to escape from one of their mirrors...
+59|we will execute their entire family!
+60|Hurry up!
+61|Y-Yes, sir!
+62|Don't think you can get away, Straw Hat!
+63|For you, this isn't an exit...
+64|it's the entrance to Hell!
+65|My apologies...
+66|It was foolish of me to not notice her needles.
+67|In a duel between pirates, there's no such thing as playing dirty.
+68|Not being able to dodge them was my fault!
+69|I no longer think...
+70|that you're below my level!
+71|Is that so?! I'm glad to hear it!
+72|Thanks!
+73|But...
+74|I'm gonna win!
+75|Ouch!
+76|You have no time to rest!
+77|If you're unable to dodge 100 times, I won't let you eat.
+78|What?!
+79|If you think that sounds bad, then concentrate!
+80|I found you!
+81|Ouch!
+82|Your enemy won't always be in front of you...
+83|It's easy to read animals' minds because they show all of their emotions.
+84|But... humans are different... We can defy expectations and cheat others.
+85|Growwwwl
+86|Ouch!
+87|I'm hungry, Rayleigh!
+88|Do you think your enemy will care if you're hungry?
+89|Every attack has an intent.
+90|Ow!
+91|And a presence!
+92|I smell something delicious.
+93|That's my dinner. Don't pay it any mind.
+94|There you are!
+95|There!
+96|Don't just attack blindly, Luffy!
+97|Rayleigh, that hurts! I can feel your anger!
+98|That is also Haki!
+99|Sharpen your senses!
+100|Ouch!
+101|Feel your enemy's presence!
+102|I can feel your anger!
+103|Damn...
+104|Who's there?
+105|Go away, you guys...
+106|I don't want any food.
+107|Rayleigh said I can't eat, so I won't eat!
+108|Focus, Luffy.
+109|Luffy...
+110|It's all part of Observation Haki, but... You're more proficient in sensing the feelings of living things.
+111|You probably aren't even aware of this...
+112|Huh? Is that so?
+113|But if you have that ability...
+114|I'm sure you'll be able to sense your opponent's moves, too.
+115|Uh-huh.
+116|There are some strong people in this world capable of seeing a bit into the future.
+117|The future?!
+118|What will you do when you face them?
+119|With only two years of training, you won't gain that ability.
+120|You'll have a rough time.
+121|It depends on what kind of person they are.
+122|What? Your opponent's character?! Does that matter to you?
+123|I've never thought of it like that.
+124|Of course!
+125|You're quite the character.
+126|It matters! Like when I can't escape...
+127|I think you'll have trouble in the future.
+128|There's no time for you to rest.
+129|What?
+130|Let's continue the training. Come with me!
+131|Okay!
+132|I'll teach you everything I can.
+133|Grilled Mochi!
+134|If we get caught, we'll be killed-rero!
+135|10:10 p.m.
+136|We have the cake.
+137|They can't just attack us!
+138|At Sea - Bege's Group
+139|When Prometheus gets that big, he can't move quickly.
+140|We'll reach Liqueur Island soon!
+141|It wasn't hard at all. All because we fixed the paddles in time.
+142|Good job, guys!
+143|Thanks! That's kind of you!
+144|We'll dump the cake at Liqueur Island and go on the great escape-rero!
+145|Yeah, that sounds good.
+146|Not yet.
+147|What's wrong, Chiffon?!
+148|Liqueur Island
+149|Nuts Island
+150|Puffs Island
+151|Cacao Island
+152|Liqueur Island is too close! Let's lure them to Puffs Island!
+153|Hey! Are you out of your mind?!
+154|If Mama, who's suffering from Hunger Pangs, eats the cake at Liqueur Island and comes to her senses...
+155|there will still be enough time for her to catch up to Nami and the others' ship!
+156|So what?! We've done enough already!
+157|We're gonna die! Look!
+158|Mama is even hungrier now!
+159|I wanna eat it!
+160|I wanna eat it already!
+161|Wedding cake...
+162|I wanna eat it! I really wanna eat it!
+163|Do you understand, Chiffon?
+164|Yes.
+165|Let's go to Puffs Island.
+166|You weren't listening!
+167|I'll pay my debt to Straw Hat and the others, even if it costs me my life!
+168|That's what I have decided!
+169|So I'll go by myself if I have to!
+170|Change course! We'll head to Puffs Island!
+171|What?!
+172|That's my wife!
+173|I love you even more, Chiffon!
+174|Let's go, guys!
+175|Okay, Father!
+176|I'll see you later.
+177|Be careful, Sanji.
+178|The Sunny
+179|Yeah.
+180|D-Don't come close! Stay away! Sanji...
+181|...san!
+182|I'll leave the Sunny in your hands! We're entering the final stage!
+183|Yeah!
+184|Pudding-chan, take me to Cacao Island.
+185|Don't tell me what to do! And don't act like a bossy husband!
+186|Sanji!
+187|...san!
+188|Oh? What was that?
+189|Carrot!
+190|Are you okay now?!
+191|I'm sorry, everyone... I was sleeping.
+192|No need to apologize! You did great, Little Sis!
+193|Can Nekomamushi and Inuarashi do that when they see the full moon too, Little Sis?
+194|Uh-huh!
+195|Both Master Nekomamushi and Duke Inuarashi are capable of becoming much stronger than I was!
+196|Really?!
+197|Keep watch and tell me which direction their attacks come from!
+198|Got it!
+199|No!
+200|I need even more liquid.
+201|You're hurting your own men! You're going too far!
+202|There's no way I'm letting the Straw Hat crew get away!
+203|What's that?!
+204|Is she a Giant?
+205|Can I see your panties...
+206|Stop it! You perverted skeleton!
+207|It's coming again!
+208|Dodge to the right!
+209|Again, to the right!
+210|Jinbe, to the left!
+211|That damn Jinbe!
+212|Stay alert! I'm depending on your directions!
+213|You can count on us!
+214|Don't worry! I'll take responsibility!
+215|Oh, she became even bigger!
+216|Smoothie! This ship can't handle your weight!
+217|This will sink them!
+218|Here it comes!
+219|It's huge!
+220|It'll sink us!
+221|Dodge to the right, Jinbe!
+222|Everyone, hang on tight!
+223|Tsk! They're so persistent!
+224|Thank you, Pudding-chan. You've been a huge help to me.
+225|11:08 p.m.
+226|Cut it out!
+227|Move over! Move over to the edge, Sanji...
+228|...san!
+229|People will think we're husband and wife!
+230|Who will?
+231|A-Anyway...
+232|is this really gonna work out?!
+233|Luffy's gonna come out surrounded by fleets and armies.
+234|I will save my captain... no matter what!
+235|What's going on with the mirrors?
+236|Oven-sama, we made sure that they were all disposed of, as you ordered.
+237|Your brothers and sisters are arriving one after another.
+238|Okay.
+239|11:36 p.m.
+240|I can't believe this many members of the family have assembled here on Cacao Island.
+241|Just how wary of Straw Hat Luffy are they?!
+242|How many enemies are there? Tens of thousands?
+243|I think they have less than ten.
+244|What?! I'm gonna take a nap.
+245|Brownie 32nd Son of the Charlotte Family
+246|Wake me up when something happens!
+247|Yes, sir!
+248|The Worst Generation, huh?
+249|Snack 25th Son of the Charlotte Family (Former Member of the 4 Sweet Commanders) Bounty: 600 Million Belly
+250|I can't let them have their way anymore...
+251|with my pride of being a former Sweet Commander...
+252|Joconde 27th Daughter of the Charlotte Family
+253|Summoning all of our forces to fight such a small group...
+254|brings shame to the name of the Emperor, Big Mom.
+255|Or is Straw Hat Luffy that formidable?
+256|Are you serious, Big Brother Oven?!
+257|36-40th Sons and 30-34th Daughters of the Charlotte Family - Decuplets
+258|It's like a festival!
+259|Looks like fun!
+260|Shut up! I know you guys have nothing better to do! Just follow the plan.
+261|That damn Straw Hat.. He humiliated us at the Tea Party.
+262|Chiboust 30th Son of the Charlotte Family
+263|I'll get revenge by killing him!
+264|Raisin 33rd Son of the Charlotte Family
+265|When we were deployed as the enraged army...
+266|we should have killed him...
+267|Then, we wouldn't have failed at the Tea Party.
+268|Yuen 35th Son of the Charlotte Family
+269|Usually we can easily discern an invader's movements...
+270|Myukuru 25th Daughter of the Charlotte Family
+271|It's so inconvenient without the Territorial Sea Slugs!
+272|But our preparations are thorough. And we still have an hour and a half.
+273|When the time comes, they're finished!
+274|The Straw Hat crew's planned rendezvous at Cacao Island...
+275|12:05 a.m.
+276|is approximately one hour away.
+277|What's the matter, Straw Hat?!
+278|Is this...
+279|Yeah, that's right.
+280|the end?!
+281|Okay. I'll take you on.
+282|I'm going to end this!
+283|If you can withstand this...
+284|I have already given you my answer...
+285|This is the end...
+286|Yeah.
+287|Gear Fourth!
+288|Snakeman!
+289|Snakeman? Seems like it's different from the one before.
+290|Your Observation Haki sure is something...
+291|That's why I'm using...
+292|something faster!
+293|Why is he doing such a simple attack this far into the fight?
+294|What is going on?
+295|Why is it coming from the side?
+296|What was that?
+297|Where did it come from?!
+298|I'm sure I dodged it!
+299|I see... That's how it works!
+300|Chase him, Python!
+301|It's no use!
+302|It accelerates even though it's stretching!
+303|Rubber-Rubber...
+304|Jet...
+305|Culverin!
+306|This is far from over!
+307|I'm stronger and faster than you!
+308|Catch up to him!
+309|Diced Mochi!
+310|The mochi is so sticky...
+311|and I can't get it off!
+312|I feel dizzy!
+313|Stop! What are you doing?!
+314|Put me down!
+315|Damn! I can't pull myself apart!
+316|This is the end, Straw Hat!
+317|Dammit!
+318|Damn!
+319|It hurts!
+320|This sucks!
+321|I'm so hungry!
+322|What the hell are you saying?!
+323|I'm saying what's on my mind!
+324|I feel better now!
+325|Fall already, Katakuri!
+326|Rubber-Rubber...
+327|Jet Culverin!
+328|Punch Mochi!
+329|Ow, ow, ow, ow!
+330|Go, Python!
+331|Grilled Mochi!
+332|Damn!
+333|What's next?
+334|How interesting!
+335|Bring it on!
+336|Here I come!
+337|Rubber-Rubber...
+338|Black Mamba!
+339|One more attack and it'll be over, Straw Hat!
+340|I'll take you down no matter what it takes, Katakuri!
+341|That one again!
+342|I'll put you out of your misery!
+343|I don't need you to!
+344|Shakky's Rip-off Bar
+345|Now I remember.
+346|I wonder if Monkey-chan's doing all right.
+347|Rise above it, Luffy...
+348|Rubber-Rubber...
+349|Diced Mochi!
+350|King Cobra!
+351|You can't get away now!
+352|Go!

@@ -1,0 +1,459 @@
+1|Jinbe đến giúp sao?!
+2|Ừ, tôi cũng ngạc nhiên.
+3|Nhẹ cả người. Vậy là Nami-san ổn...
+4|Nhưng giờ phải tìm cách gặp họ.
+5|Nghe tin cậu sắp về, chắc họ sẽ mừng lắm.
+6|Tạm biệt!
+7|Xin lỗi...
+8|lẽ ra chúng ta không nên làm thế này!
+9|Tôi xấu hổ quá, không dám nhìn mặt Nami-san...
+10|Nami và mọi người lo cho cậu lắm.
+11|Vậy mà tôi lại bắt họ trải qua chuyện kinh khủng này...
+12|Ồ, mưa tạnh rồi.
+13|Tìm thấy rồi!
+14|Chắc chứ?! Chobro!
+15|Cậu nghĩ họ có nghe được ta qua mảnh kính này không?
+16|Mảnh gương lần trước tôi dùng để nói chuyện với các cậu đã vỡ trên đầu con quái cây Kingbaum.
+17|Nó vỡ rồi!
+18|Nên...
+19|Chắc chắn phải có một mảnh kính nối với mảnh này.
+20|Này! Luffy!
+21|Này!
+22|Luffy!
+23|Cậu có đó không, Luffy?!
+24|Đó là...?
+25|Là Chopper!
+26|Này!
+27|Có đó thì trả lời đi!
+28|Chopper!
+29|Luffy!
+30|Này!
+31|Luffy! Cậu nghe được không?!
+32|Này!
+33|Đây rồi!
+34|Đây rồi! Là một mảnh kính!
+35|Nghe được không?!
+36|Sao giọng cậu ấy lại phát ra từ gương?
+37|Chuyện dài lắm, nhưng Chopper và mọi người đang ở trong thế giới gương.
+38|Cậu ổn chứ, Chopper?
+39|Ôi, Luffy! May quá! Cậu thật sự ở đó!
+40|Luffy! Sanji-kun cũng ở đó chứ?!
+41|Ừ, có anh ấy ở đây!
+42|Sanji-san, tôi mừng vì anh ổn.
+43|Mọi người sao rồi?
+44|Bọn tôi đã cứu hết mọi người từ trong gương rồi, Luffy!
+45|Brook còn lấy được bản sao Poneglyph nữa!
+46|Thật sao?!
+47|Các cậu giỏi thật!
+48|L-Lời khen của các cậu chẳng làm tôi vui đâu, đồ ngốc!
+49|Đồ ngốc!
+50|Đồ ngốc nhỏ ngớ ngẩn!
+51|Luffy, Sanji ở đó thì tốt, nhưng hai người đã thống nhất chưa?
+52|Sanji chưa... về cùng được.
+53|Gì cơ?!
+54|Nghe này, mọi người.
+55|Bọn tôi sẽ phá tiệc trà và đám cưới của Big Mom.
+56|Và sẽ cứu cả gia đình Sanji!
+57|Rồi Sanji sẽ đi cùng chúng ta!
+58|B... Big...
+59|Luffy! Bà ta là Hoàng đế đấy!
+60|Tôi không muốn liều mạng mọi người... ý tôi là mạng Nami-san, vì chuyện riêng của tôi!
+61|Nên...
+62|Yay!
+63|Đồ chết tiệt!
+64|Nghe nói anh và Luffy đánh nhau dữ dội nên tôi lo lắm, đồ ngốc!
+65|Nhẹ cả người! Thật đấy, đồ ngốc!
+66|Đồ ngốc to xác!
+67|Nếu làm vậy thì Sanji-kun sẽ đi cùng chúng ta, đúng không Luffy?!
+68|Nami-san... Tôi...
+69|Ồ, Sanji-kun.
+70|Vì làm tôi sợ như thế...
+71|tôi sẽ không bao giờ tha thứ cho anh!
+72|Nami...
+73|Nhưng chuyện đó nói sau. Tiệc trà sắp đến rồi.
+74|Dù thế nào tôi cũng sẽ giúp đưa anh về, Sanji-kun!
+75|Gì?! Nami-san đang tỏ tình với tôi sao?!
+76|Tôi không hiểu sao, nhưng tôi nghĩ anh ổn rồi.
+77|Được rồi Luffy, giờ bọn tôi biết phải làm gì.
+78|Ừ.
+79|Nhân tiện, em gái Sanji đã cứu mạng tôi.
+80|Nên tôi muốn cứu tất cả họ.
+81|Ừ, cứu tất cả họ.
+82|Nhưng sẽ không dễ đâu.
+83|Dù chúng ta không nhắm hạ Big Mom,
+84|bà ta luôn mong chờ những buổi tiệc trà.
+85|Phá đám sẽ chọc giận một Hoàng đế.
+86|Hơn nữa, tuy tôi chắc các cậu đã đối đầu vài bộ trưởng của Big Mom,
+87|họ chỉ là phần nổi của băng tảng lực lượng bà ta.
+88|Những nhân vật dự tiệc trà còn đáng sợ hơn nữa.
+89|Chưa kể khách mời từ khắp thế giới, các trùm thế giới ngầm.
+90|Còn phía chúng ta thì...
+91|Tổng cộng có 10 người.
+92|Này! Bọn tôi không thuộc vụ này!
+93|Đừng làm tròn! Các cậu chỉ có tám người thôi!
+94|Mong họ giết sạch các ngươi!
+95|Luffy.
+96|Tôi đã nói với mọi người ở đây,
+97|nhưng còn một chuyện nữa cần nói với cậu.
+98|Cậu từng nghe đến Capone "Gang" Bege chưa?
+99|Ừ, hắn là kẻ đã bắt Sanji đi.
+100|Hắn thuộc Thế hệ Tồi tệ nhất, tiếng tăm cũng tai tiếng như cậu.
+101|Hắn đến từ West Blue, nơi có năm gia đình mafia hùng mạnh.
+102|Chúng kiểm soát thế giới ngầm.
+103|Chúng được gọi là Ngũ Gia Tộc Miền Tây, và một trong các ông trùm
+104|chính là "Gang" Bege.
+105|Biệt danh "Gang" có từ khi hắn còn trẻ. Hắn từng là sát thủ khét tiếng.
+106|Sát thủ...
+107|Tôi nghe nói hắn là một thanh niên bệnh hoạn, chặt đầu những sinh vật vô tội
+108|và thích thú ngắm chúng giãy chết.
+109|Loại người tồi tệ nào lại...?
+110|Giờ hãy tưởng tượng chuyện đó xảy ra với cả một tổ chức.
+111|Mùi vị thế nào?
+112|Ước gì nó đắng hơn.
+113|Vậy món này thì sao?
+114|Ông chủ!
+115|Thằng nhãi...
+116|Chì có vị đắng, đúng không?
+117|Thời còn là tay gangster trẻ, hắn chỉ giết đầu lĩnh các tổ chức tội phạm.
+118|Và khi thành thủ lĩnh gia tộc riêng, hắn vẫn chỉ giết các ông trùm đối thủ.
+119|Bege?
+120|Đừng kháng cự.
+121|Gì? Các người phản bội tôi sao?!
+122|Các người thua về số lượng!
+123|Bege!
+124|Nhưng Bege...
+125|chưa bao giờ quan tâm đến địa vị hay lãnh địa của kẻ thù.
+126|Hắn chỉ lấy của quý rồi rời đi.
+127|"Thảm kịch đẫm máu! Nội chiến?!"
+128|"Cơn ác mộng thức giấc! Thế giới ngầm vẫn căng thẳng"
+129|"Xã hội ngầm hỗn loạn! Do vụ ám sát gây ra?"
+130|Sau đó, hắn thích thú xem các cuộc tranh quyền đẫm máu trong các nhóm
+131|và sự hỗn loạn của các tổ chức đồng minh.
+132|Hắn quả là kẻ vô vị.
+133|Nhưng ở thế giới này, gieo gió gặp bão.
+134|Giờ hắn liên tục bị những kẻ muốn trả thù nhắm tới.
+135|Tuy nhiên,
+136|Bege coi đó như một trò chơi. Hắn dùng pháo đài sắt để đẩy lùi chúng,
+137|và chế nhạo sự yếu kém của kẻ thù.
+138|Khi chán sống trên đất liền, hắn ra khơi và tiếp tục theo cách riêng.
+139|Ông chủ!
+140|Ai làm vậy?! Chết tiệt!
+141|Hắn nổi danh nhờ hạ các thuyền trưởng hải tặc. Chỉ thuyền trưởng hải tặc.
+142|Ngay cả trên biển, hắn vẫn bị kẻ thù đòi trả thù đeo bám...
+143|Vậy nên làm việc cho một Hoàng đế là nơi trú ẩn an toàn hoàn hảo của hắn.
+144|Vậy nên làm việc cho một Hoàng đế là nơi trú ẩn an toàn hoàn hảo của hắn.
+145|Đó là lý do hắn quyết định liên minh với Big Mom.
+146|Vì Big Mom đánh giá cao sự cảnh giác nhạy bén và khả năng phòng thủ đáng kinh ngạc của hắn,
+147|hắn được phong chức Xe ngay trước buổi tiệc trà sắp tới,
+148|và được giao phụ trách an ninh toàn bộ sự kiện.
+149|Sao giờ anh mới kể chuyện này, Jinbe?
+150|Nếu họ là lính canh, không ai ngăn được họ đạt mục tiêu.
+151|Hả?
+152|Sự kiện chính của tiệc trà này là đám cưới.
+153|Như các cậu đã biết, Big Mom định tàn sát nhà Vinsmoke trong buổi lễ,
+154|rồi chiếm tàn dư của Germa cho riêng mình.
+155|Nhưng trong lúc đó, sau lưng bà ta, Bege có kế hoạch riêng để lấy đầu Big Mom.
+156|Gì cơ?!
+157|Chuyện quái gì thế này?! Ai cũng có âm mưu riêng!
+158|Luffy, chắc cậu nhớ Pekoms là người dẫn cậu đến đây.
+159|Anh ấy bị Bege bắt cóc,
+160|và chúng cố ép anh ấy hợp tác với kế hoạch.
+161|Pekoms... Vậy ra anh ấy đã đến đó...
+162|Pekoms trung thành nên từ chối. Để bịt miệng, Bege bắn anh ấy xuống vực vào bầy cá mập.
+163|Gì cơ?!
+164|Nhưng...
+165|đồng đội của tôi đã thấy và cứu anh ấy kịp lúc.
+166|Hiện giờ anh ấy đang hồi phục.
+167|May quá! Anh ấy ổn!
+168|Anh ấy đã chịu nhiều khổ sở.
+169|Đồ khốn Bege! Tôi sẽ bắt hắn trả giá!
+170|Luffy, đây là điều tôi muốn bàn với cậu.
+171|Tôi nghĩ ra một kế hoạch sau khi biết hết mọi chuyện từ Pekoms.
+172|Tôi đã thử đoán hành động của cậu.
+173|Tôi nghĩ rằng khi biết sự thật,
+174|cậu sẽ quyết định cứu Sanji và gia đình anh ấy.
+175|Có lẽ không công bằng với Pekoms, nhưng xét hoàn cảnh,
+176|chúng ta có thật sự nên đối đầu với Bege không?
+177|Tiệc trà bắt đầu lúc 10 giờ sáng.
+178|Tức khoảng năm tiếng nữa.
+179|10 người chúng ta phải nghĩ ra kế hoạch trong khoảng thời gian đó.
+180|Đừng tính bọn tôi vào vụ này nữa!
+181|Lũ thô lỗ chết tiệt! Tôi sẽ mách họ các người định làm gì!
+182|Nghe này Luffy, Bege và đồng bọn đã không ngừng chuẩn bị cho ngày này.
+183|Luffy! Sanji!
+184|Liên minh với Bege đi!
+185|Gì cơ?!
+186|Nhưng... có lẽ anh nói đúng.
+187|Gì cơ?!
+188|Này, cậu điên à Luffy?!
+189|Luffy muốn làm vậy sao?!
+190|Thấy chưa? Tôi đã bảo cậu ấy sẽ muốn mà!
+191|Luffy, sáu người ở đây thì bốn người phản đối!
+192|Cậu không quan tâm đến tội ác của Bege-san sao?!
+193|Thì, làm vậy mọi chuyện sẽ ổn, đúng không?
+194|Cậu không thể quyết định như vậy...
+195|Thật ra tôi đã sắp xếp một cuộc gặp trước. Cậu có muốn đi gặp họ không?
+196|Được, đi ngay thôi!
+197|Gì cơ?!
+198|Đừng lo. Nếu thấy không ổn, cậu có thể từ chối!
+199|Dù sao mục tiêu của chúng ta cũng khác.
+200|Luffy, Sanji! Căn cứ của Bege và đồng bọn ở phía tây bắc hòn đảo.
+201|Tám người bọn tôi sẽ đến đó trước từ thế giới này. Hẹn gặp ở đó!
+202|Đừng tính bọn tôi vào nhóm của các người!
+203|Được, hiểu rồi!
+204|Đã xử lý Bobbin chưa?
+205|Đúng rồi, hắn đang đuổi theo Chân Đen.
+206|Tôi đã nói rồi, Germa là anh hùng của tôi.
+207|Họ thật sự đến đây sao?
+208|Cha?
+209|Jinbe không phải người hay đùa.
+210|Vì cả hai đều chống lại Big Mom,
+211|chúng ta không nên tạo thêm kẻ thù-- hắn nói đúng về điều đó.
+212|Mọi thứ sau đó tùy vào lời Mũ Rơm.
+213|Nếu không thành...
+214|chúng ta sẽ giết hắn!
+215|Bếp trưởng! Bếp trưởng!
+216|Không, Pekoms! Anh cần nghỉ ngơi!
+217|Jinbe thật sự đã báo với Mama về con chuột Bege sao?
+218|Tất nhiên!
+219|Giờ chắc Bege đã bị Mama đánh chết rồi.
+220|Chắc?! Chắc thì chưa đủ! Tôi phải đảm bảo báo cho bà ấy...
+221|Khoan nào!
+222|Anh phải tiếp tục nghỉ ngơi, Pekoms.
+223|Nhưng Praline, phòng khi họ ngăn anh ấy báo cho bà...
+224|Nếu lo chuyện đó thì giao cho Jinbe là lựa chọn tốt nhất!
+225|Với tình trạng hiện giờ, anh sẽ lại bị đánh. Cứ im lặng đi!
+226|Anh ấy nói đúng, Pekoms! Là bác sĩ tàu, tôi không cho anh đi!
+227|Đừng nhúc nhích!
+228|Anh ấy nói đúng! Anh ấy nói đúng!
+229|– Ừ. – Nghỉ đi! Nghỉ đi!
+230|Các người cư xử lạ lắm.
+231|Nuốt!
+232|Đêm qua ở vịnh có chuyện gì đó.
+233|Tôi thấy vài người khuân vác đồ đạc!
+234|Nuốt!
+235|Tôi cảm kích vì các người đã cứu tôi, nhưng tôi phải đi!
+236|Khoan, khoan, chúng tôi không thể cho phép!
+237|"Không thể" là sao?
+238|Các người đang giấu gì?!
+239|Nuốt!
+240|Đây rồi!
+241|Đây là căn cứ của Bege!
+242|Vậy Bege là người thế nào?
+243|Cậu nghe Jinbe nói rồi đấy.
+244|Đồ hèn!
+245|Cứ coi hắn là một ông trùm mafia xảo quyệt và tàn bạo.
+246|Anh hùng của tôi! Vinsmoke Sanji của Germa!
+247|Gặp lại anh tôi vui quá!
+248|Là cậu...
+249|Này, mọi người đâu? Ông là Bege à?
+250|Đừng vội. Họ ở đây rero.
+251|"rero" là gì vậy?!
+252|Ồ, Luffy! Sanji!
+253|Sanji!
+254|Làm tôi lo chết đi được, đồ khốn!
+255|Xin lỗi chuyện đó... Hửm?
+256|Mà này, sao các cậu ăn mặc thế này?
+257|Sao hai người không đi tắm luôn?
+258|Sao thong thả vậy?! Không có thời gian đâu! Mà cậu cũng không thích tắm!
+259|Không, hai người cũng phải tắm.
+260|Nói chuyện sau.
+261|Tắm ngay bây giờ sao?!
+262|Cha không gặp ai bẩn đâu.
+263|Ai bẩn?!
+264|Gì?! Lola bị biến thành zombie lợn lòi sao?!
+265|Và cô ấy còn đuổi theo người mình phải lòng!
+266|Nghe đúng là Lola!
+267|Hồi đó... và giờ lại một lần nữa trong khu rừng đáng sợ đó,
+268|nếu không có Lola, tôi không biết mình sẽ ra sao.
+269|Ra vậy! Nhưng các cậu cũng cứu chị tôi! Cảm ơn!
+270|Ôi, tôi khóc vì vui mừng.
+271|Chúng tôi thân nhau cả đời.
+272|Vì là chị em song sinh!
+273|Zombie! Tôi không tưởng tượng nổi người chết lại cử động. Biển cả đúng là xứ thần tiên!
+274|Vậy Lola đã trở lại thành người chưa?
+275|Đúng vậy. Tôi chắc cô ấy vẫn sống tốt làm hải tặc.
+276|Không biết cô ấy tìm được người để cưới chưa...
+277|Big Mom nghe rất giận khi nói về chuyện Lola bỏ trốn khỏi hôn nhân.
+278|Ừ... đó là chuyện lớn.
+279|Gì?
+280|Mama bị tất cả người khổng lồ trên thế giới căm ghét là có lý do.
+281|Tất cả người khổng lồ trên thế giới?
+282|Vì thế dù Totto Land có dân cư đa dạng,
+283|nhưng không có người khổng lồ nào.
+284|Người khổng lồ có thật!
+285|Một ngày nọ,
+286|Lola có một người cầu hôn bất ngờ
+287|nói rằng yêu từ cái nhìn đầu tiên.
+288|Đó chính là Hoàng tử Loki của Elbaf, xứ sở người khổng lồ!
+289|Hoàng tử?! Tuyệt quá!
+290|Mama gần như khóc vì sung sướng.
+291|Bà nghĩ nếu Lola thành công chúa Elbaf,
+292|mối thù lâu đời của bà với người khổng lồ sẽ được giải quyết,
+293|và bà còn được dùng quân đội Elbaf, đất nước được cho là mạnh nhất thế giới.
+294|Ra vậy...
+295|Thì ra cô ấy chạy trốn vì chuyện đó.
+296|Từ đó mọi thứ đi xuống.
+297|Bà định dùng tôi làm người thay thế,
+298|nhưng anh ta nhận ra tôi không phải Lola.
+299|Thế là quan hệ của bà với người khổng lồ càng tệ hơn.
+300|Rồi bà từ bỏ ý định thân thiện với người khổng lồ thật
+301|và bắt đầu đầu tư nghiên cứu để biến người thường thành người khổng lồ.
+302|Cơn giận với Lola chỉ tệ thêm, và cô ấy bị coi là tội phạm ở đất nước này!
+303|Nếu cô ấy quay về, sẽ bị giết!
+304|Hơn nữa, bà không chịu nổi khi nhìn tôi, vì tôi giống hệt Lola.
+305|Cút cái bản mặt chết tiệt đó khỏi mắt ta!
+306|Khi thấy tôi, bà đánh tôi không thương tiếc. Nhiều năm liền, tôi luôn có vết thương mới.
+307|Tôi sợ chính mẹ mình sẽ giết mình!
+308|Tôi không thể coi con quái vật đó là mẹ nữa!
+309|Tuy nhiên, Lola rất vô tư... Chắc cô ấy không biết mẹ muốn giết mình.
+310|Ra vậy... Giờ mọi thứ đã rõ.
+311|Nên khi Bege nói sẽ ám sát Mama, tôi chẳng cảm thấy gì cả.
+312|Các cậu có thể nghĩ tôi tệ, nhưng đó là sự thật.
+313|Chà, tắm sướng thật!
+314|Ôi, như thiên đường!
+315|Không, tôi từ chối sang kiếp sau!
+316|Cảm giác như sau trận chiến... Mình thư giãn quá rồi. Còn chưa bắt đầu mà!
+317|Luffy-san, Luffy-san.
+318|Có sữa trong này. Sữa đấy!
+319|Này, đừng lục tủ lạnh nhà bọn tôi khi chưa hỏi!
+320|Đúng thứ tôi cần. Tôi mất răng rồi.
+321|Và mặt tôi cũng nứt nữa.
+322|Cảm ơn vì sữa!
+323|Khỏe hẳn rồi!
+324|Sao có thể như vậy được?!
+325|Tao không tha cho mày đâu, Chiffon! Không thể tin nổi mày!
+326|Sao mày có thể giúp kẻ muốn giết Mama!
+327|Tiểu thư Chiffon, xin hãy suy nghĩ lại! Cô biết không ai giết nổi Mama mà!
+328|Chị Brûlée!
+329|Chị biết bà ấy đã làm gì em, đúng không?
+330|Em lo cho Lola. Bege và Pez giờ là gia đình duy nhất của em!
+331|Em không cần ai khác!
+332|Ồ, không sao đâu, không sao.
+333|Được rồi, mọi người đã tập hợp đủ chưa?
+334|Các cậu đã chỉnh trang chút chưa?
+335|Như người ta nói, "Quần áo làm nên con người."
+336|Ta không nói chuyện với ai không chăm chút vẻ ngoài.
+337|Vậy còn ba tiếng rưỡi nữa.
+338|Trước tiên hãy quyết định...
+339|chúng ta có hợp tác hay không.
+340|Chúng ngon lắm đúng không, Luffy?
+341|Sao các người không biết kiềm chế?!
+342|Gì? Mấy cái này để bọn tôi ăn mà, đúng không?
+343|Từ góc nhìn của bọn ta, các ngươi chỉ là phiền toái.
+344|Cách dễ nhất là giết hết các ngươi, ngay tại đây.
+345|Chắc chắn chứ?
+346|Nếu tôi chết, các người sẽ không có cơ hội giết Big Mom.
+347|Vì buổi lễ sẽ bị hủy.
+348|Nếu tôi không về trước đám cưới hai tiếng, họ sẽ nghi ngờ.
+349|Ừ. Ta ghét phải thừa nhận, nhưng ngươi nói đúng.
+350|Vậy ta sẽ giữ ngươi sống.
+351|Chúng ta không có thời gian phí vào đe dọa.
+352|Luffy, cậu thấy thế nào? Cậu hợp tác với họ được không?
+353|Cậu nghĩ sao?
+354|Anh là Caesar đúng không?!
+355|Gì?! Caesar?! Đâu?!
+356|Hắn ở đây từ nãy giờ...
+357|Sao các cậu không nhận ra...?
+358|Nghiên cứu này vô nghĩa quá! Tôi không làm nữa!
+359|Cứ làm gì tôi tùy ý đi, Big Mom!
+360|Caesar Clown!
+361|T-T-Tôi đang làm việc hết sức đây! Nói với Big Mom đi!
+362|Không cần.
+363|Gì?
+364|Khi tôi xin cho tôi trông chừng anh, họ đồng ý không hỏi gì.
+365|Giờ tôi là Xe được tin tưởng!
+366|Đó là tim của tôi?!
+367|Tôi sẵn sàng thả anh. Nếu anh giúp tôi đổi lại...
+368|Đồ khốn! Mày biết đang nói chuyện với ai không?!
+369|Tao là thiên tài khoa học Caesar Clown! Tao muốn là hủy diệt cả thế giới được!
+370|Tôi biết anh là ai.
+371|Vì thế tôi mới đến đây.
+372|Chết tiệt!
+373|Tao phục vụ Big Mom, giờ lại phục vụ Bege!
+374|Dù sao tao cũng phải làm!
+375|Ngươi có làm việc không?
+376|Có chứ! Ông nghĩ tôi là ai?!
+377|Cái này hợp ý tôi hơn nhiều so với việc bà ta bắt tôi làm!
+378|Kiệt tác vĩ đại nhất sắp hoàn thành!
+379|Nghe vậy thì tốt.
+380|Băng Mũ Rơm sắp đến đây.
+381|Gì?! Mũ Rơm?!
+382|Trời ơi! Tôi không muốn gặp lại bọn đó nữa!
+383|Có chúng ở đâu là mọi thứ hỏng bét!
+384|Cha muốn ngươi cũng dự cuộc họp.
+385|Đừng đến muộn.
+386|Không thể tin nổi!
+387|Tôi chẳng còn cách nào!
+388|C-Caesar? Không, ta là anh em ruột của Bege...
+389|"Gangster" Gastino!
+390|Hắn còn không thèm giấu...
+391|"Gastino"?
+392|Vì hắn là người khí gas à?
+393|Hắn còn cười y hệt.
+394|Ra vậy. Tôi tưởng anh là người khác. Xin lỗi.
+395|Không, cậu nói đúng! Hắn rõ ràng là Caesar!
+396|Gì?!
+397|Ồ, đúng là ông thật! Ông làm gì ở đây?!
+398|Mày nghĩ tao ở đây nếu có lựa chọn sao, đồ ngốc?!
+399|Vì bọn mày, tao bị giao cho Big Mom,
+400|và cách thoát chết duy nhất là thằng này lấy tim tao và biến tao thành nô lệ!
+401|Tao bị sai khiến khắp nơi!
+402|Nếu gặp Trafalgar Law, nói với hắn là gặp lại tao sẽ giết hắn!
+403|Cả bọn mày nữa, nếu có cơ hội!
+404|Thôi đi! Vô nghĩa quá.
+405|Phí thời gian.
+406|Mũ Rơm,
+407|ngươi có hợp tác với ta hay không?
+408|Trước hết để tôi đấm ông vì đã bắn Pekoms!
+409|Tới đây!
+410|Dừng lại!
+411|Gì?!
+412|Thu nắm đấm lại đi Luffy! Thế này không thể thống nhất được!
+413|Nhưng hắn bắn bạn tôi!
+414|Ai nói xấu Cha là không thể tha thứ!
+415|Không, Gotti! Bình tĩnh!
+416|Thôi đi!
+417|Mặc kệ. Cứ để hắn làm.
+418|Đuổi lũ khốn này ra!
+419|Mày lùi lại!
+420|Sao?!
+421|Tôi biết sẽ thế này mà...
+422|Thôi, đành chịu...
+423|Các người có thích Big Mom không?
+424|– Không đời nào! – Không đời nào! – Không đời nào!
+425|Vậy là cùng phe rồi.
+426|Dù không chung lối sống hay mục tiêu, các người có chung kẻ thù!
+427|Muốn giết nhau thì để sau,
+428|nhưng giờ bắt tay thì ai cũng có lợi!
+429|Vậy kế hoạch là gì?!
+430|Ta đã lên toàn bộ kế hoạch chi tiết tỉ mỉ.
+431|Làm luôn đi! Rồi tôi sẽ hết dính líu với các người!
+432|Ngoại ô Thành phố Ngọt
+433|Ngoại ô Thành phố Ngọt
+434|Thế giới Gương
+435|Thế giới Gương
+436|Căn cứ băng Fire Tank Whole Cake Island
+437|Căn cứ băng Fire Tank Whole Cake Island
+438|Băng Fire Tank
+439|Băng Fire Tank
+440|"Súng Ma" Vito
+441|"Súng Ma" Vito
+442|Gotti "Sát Thủ"
+443|Gotti "Sát Thủ"
+444|Các đầu bếp đang bận chuẩn bị bánh cưới...
+445|Các đầu bếp đang bận chuẩn bị bánh cưới...
+446|Đại Nhà Bếp, tầng 8 Lâu đài Whole Cake
+447|Đại Nhà Bếp, tầng 8 Lâu đài Whole Cake
+448|"Hiệp sĩ Ẩm thực" Streusen Bếp trưởng, băng Big Mom
+449|"Hiệp sĩ Ẩm thực" Streusen Bếp trưởng, băng Big Mom
+450|Vịnh phía Đông
+451|Vịnh phía Đông
+452|Căn cứ băng Fire Tank
+453|Căn cứ băng Fire Tank
+454|4 giờ 15 phút nữa đến tiệc trà
+455|4 giờ 15 phút nữa đến tiệc trà
+456|Nhà tắm nữ Căn cứ của Bege
+457|Nhà tắm nữ Căn cứ của Bege
+458|3 giờ 30 phút nữa đến tiệc trà
+459|3 giờ 30 phút nữa đến tiệc trà

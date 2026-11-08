@@ -108,3 +108,23 @@ Keep lines short like subtitles. Keep Japanese honorifics the English subs keep
 
 - Minks' "-teia" and "-gara" tics are dropped from the Vietnamese; the English line below still shows them. "-saru" is kept.
 - Nekomamushi and Inuarashi: ta/ngươi. Pedro and the Minks call Nekomamushi "ngài".
+
+## Settled while translating Whole Cake Island
+| English | Vietnamese |
+|---|---|
+| Big Mom Pirates / Charlotte Family | băng hải tặc Big Mom / gia tộc Charlotte |
+| Sweet Commanders / Three Sweet Commanders | Tướng Ngọt / Tam Tướng Ngọt |
+| Minister (Cracker, Perospero...) | Bộ trưởng |
+| Homies / Mama | Homies / Mama |
+| Tea Party / Hunger Pangs | tiệc trà / cơn đói |
+| Whole Cake Chateau / Sweet City / Totto Land | Lâu đài Whole Cake / Thành phố Ngọt / Totto Land |
+| Seducing Woods / Mirro-world | Rừng Quyến Rũ / Thế giới Gương |
+| Territorial Sea Slug | Ốc Sên Lãnh Hải |
+| Road / Lode Poneglyph | Road Poneglyph |
+| Germa: Raid Suit, Generalissimo (Judge) | Raid Suit, Đại nguyên soái |
+| Sun Pirates / Fire Tank Pirates | băng hải tặc Mặt Trời / băng Fire Tank |
+| Soul King (Brook) | Vua Linh Hồn |
+| Chess Peacekeepers | Lính Cờ Vua |
+
+- Big Mom's family's verbal tics (-bon, -soir, -rero, -nen, -amour, -jour, -ju, -chocolat...) are dropped from the Vietnamese, like the Minks' tics.
+- Big Mom: ta/ngươi. Her children call her "Mama" and each other anh/chị. Cracker, Brûlée and Judge use ta/ngươi; Sanji to Judge uses tôi/ông.

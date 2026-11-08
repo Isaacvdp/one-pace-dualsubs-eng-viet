@@ -1,0 +1,382 @@
+1|Rainfall Mochi!
+2|Chết tiệt! Hắn lại mạnh trở lại ngay rồi!
+3|Rubber-Rubber...
+4|Kong...
+5|Gun!
+6|Donut!
+7|Power Mochi!
+8|Trong Totto Land, Trên Biển
+9|Sunny
+10|Cậu thay đồ rồi à.
+11|Yên ắng quá...
+12|Yên ắng đến mức đáng ngờ...
+13|An toàn!
+14|Dù sao thì họ cũng không dễ để chúng ta trốn thoát thế này đâu.
+15|Danh dự của một Tứ Hoàng đang bị đe dọa.
+16|Dù vậy...
+17|chúng ta chỉ còn cách tiếp tục tiến lên!
+18|Đúng vậy!
+19|Dù sao chúng ta cũng cần quay lại hướng đi thẳng lúc nãy!
+20|Đúng thế.
+21|Nếu không gặp được Sanji-kun và mọi người đang mang bánh...
+22|không chỉ chúng ta vẫn bị chia cắt...
+23|mà còn phải đối mặt cơn thịnh nộ của Big Mom như sự khinh miệt của Địa Ngục.
+24|Cũng Trên Biển
+25|Gửi tất cả các đảo của Totto Land!
+26|Lập tức điều toàn bộ tàu Tarte từ mỗi đảo!
+27|Để cứu danh dự của băng Big Mom,
+28|hãy truy đuổi ba nhóm hải tặc đáng ghét này!
+29|Băng Mũ Rơm, kẻ đã gây ra hỗn loạn cho băng Big Mom chúng ta!
+30|Và nhóm đã đứng về phía chúng!
+31|Băng hải tặc Xe Tăng Lửa, kẻ đã phản bội nữ hoàng Big Mom của chúng ta...
+32|và âm mưu ám sát bà!
+33|Cùng với bọn Ngư Nhân mất tích, đồng minh của "Hiệp Sĩ Biển" Jinbe...
+34|kẻ đã nổi loạn chống lại chúng ta...
+35|băng hải tặc Mặt Trời!
+36|Bọn hải tặc đó hiện đang tẩu thoát trên vùng biển Totto Land!
+37|Chúng ta đi tìm chúng á? Thế còn Ốc Sên Lãnh Hải thì sao?
+38|Nghe nói chúng mất tích rồi.
+39|Gì cơ?!
+40|Không được để chúng rời khỏi lãnh thổ của ta!
+41|Tìm chúng bằng mọi giá...
+42|và đánh chìm... từng tên một... ngay khi tìm thấy!
+43|Rõ!
+44|Điều ngươi vừa xác nhận...
+45|là ta bất khả chiến bại miễn là ta bình tĩnh, đúng không?
+46|Ngươi sẽ lại mất cảnh giác! Ngươi là kẻ thù...
+47|mà ta có thể đánh bại!
+48|Trông ngươi sắp teo lại rồi à?
+49|Đúng vậy! Gear Fourth hết giờ rồi!
+50|Được rồi, tạm xong!
+51|Cảm ơn đã nhắc tao!
+52|Tao sẽ không dùng được Haki trong 10 phút!
+53|Nên phải chạy xa hết mức có thể!
+54|Vậy ra đó là sức mạnh tăng cường có giới hạn thời gian?
+55|Flowing Mochi!
+56|Để ngươi đi dễ dàng thì ta quá ngây thơ!
+57|Ôi không!
+58|Tao chỉ cần 10 phút!
+59|Không có Haki thì không thể thắng hắn!
+60|Không ổn! Không cắt đuôi được hắn!
+61|Tệ rồi! Tệ thật rồi!
+62|Thất vọng thật. Thế này đã hết rồi sao?
+63|Ôi không!
+64|Đảo Cacao (Thị trấn Chocolat)
+65|Nhà máy Kẹo
+66|Hả? Chuyện gì vừa xảy ra?!
+67|Này, sao vậy? Anh ổn chứ?!
+68|Anh ta chỉ nếm kem tươi thôi...
+69|Đ-Đừng nói là có độc...!
+70|Gì cơ?!
+71|Sao không hỏi anh ta đi?
+72|Tôi chết ngay bây giờ cũng được...
+73|Tôi có thể chết trong hạnh phúc vì nó ngon quá!
+74|Anh ta suýt chết vì nếm thứ ngon!
+75|Nhìn anh ta hạnh phúc chưa kìa!
+76|Kem đó là nguyên liệu bí mật của Sanji-san!
+77|Sức mạnh thật sự của vị ngọt!
+78|Xong rồi!
+79|Loại kem tối thượng, Simsim Whip!
+80|T-Tôi muốn thử!
+81|Pudding-chan, em chưa được nếm đâu...
+82|Hả?
+83|Chúng ta không thể mất một đồng minh đáng tin như em.
+84|Đừng gục ngã trước khi nếm!
+85|Nếu phết loại kem này lên bánh...
+86|Đừng nghĩ tới! Sẽ chết đó!
+87|Bánh chiffon xốp của tôi cũng xong rồi, Chân Đen!
+88|Được!
+89|Giữ nó xuống! Xốp đến mức sắp bay mất!
+90|Phần của tôi cũng xong rồi!
+91|Ngoài kem của Sanji-san....
+92|chúng ta còn có sô cô la siêu ngọt và siêu mịn của tôi!
+93|Đậy nắp lại! Mịn đến mức sắp văng ra khỏi nồi!
+94|5 phút nữa là 6 giờ chiều.
+95|Mọi thứ đang theo đúng kế hoạch.
+96|Tàu sẵn sàng chưa?
+97|Rồi, thưa ngài!
+98|Để tiết kiệm thời gian, chúng ta sẽ hoàn thiện bánh trên tàu!
+99|Hội họp với Sunny càng sớm càng tốt!
+100|Rõ, thưa ngài!
+101|Được rồi!
+102|Cuối cùng cũng đến lúc!
+103|Nào, đi thôi!
+104|Để hạ kẻ đang gây rắc rối cho bạn tôi... Big Mom!
+105|Chồng ơi, sao anh lại cải trang?
+106|Vì anh ngại.
+107|Tránh đường nào mọi người! Chúng tôi đang chở bánh ra cảng!
+108|Oa, tuyệt quá! Họ làm xong nhanh vậy sao?!
+109|Hình dáng chiếc bánh đã hoàn chỉnh!
+110|Mà mùi thơm quá!
+111|Khi hoàn thành, chắc chắn Mama sẽ thích!
+112|Hương thơm tuyệt diệu! Chúng ta đang ở Thiên Đường sao?!
+113|Đúng là Pudding-sama và Chiffon-sama!
+114|Và cả WCI: 31!
+115|Được rồi! Mama đang đến!
+116|Chúng ta phải nhanh lên!
+117|Pudding-sama! Chiffon-sama!
+118|Bảo trọng!
+119|Cứ đợi đấy, Big Mom...
+120|Bà sẽ được nếm chiếc bánh tối thượng!
+121|Power Mochi!
+122|Là Brûlée sao?!
+123|Cứu! Anh ơi!
+124|Cứu!
+125|Đồ ngốc!
+126|Anh ơi!
+127|Sao em lại ở đằng đó?!
+128|Đợi đã, Mũ Rơm!
+129|Chết tiệt!
+130|Brûlée!
+131|Suýt nữa thì toi!
+132|Đây là đâu?
+133|Cảm ơn nhé, Branch!
+134|Tên tôi là Brûlée!
+135|Được rồi, chúng ta đợi ở đây...
+136|một lúc, cho đến khi Haki của tao hồi phục!
+137|C-Cái gì thế...?!
+138|Đám cưới...
+139|Dừng lại!
+140|Không phải đây!
+141|Mama, dừng lại! Đây là đảo con cai quản!
+142|Mama! Đây là Đảo Nuts!
+143|Ở đây không có bánh cũng không có Mũ Rơm!
+144|Mày ở đâu?! Mũ Rơm!
+145|Big Mom?
+146|Ồ! Đó chắc là con gái ta!
+147|Chiffon! Không thể nhầm được!
+148|Đợi một chút, Pudding!
+149|Đó là...
+150|Anh Oven! Xin hãy tránh đường!
+151|Pudding, em định mang chiếc bánh đó đi đâu?!
+152|Anh nghe nói các em sẽ đợi băng Mũ Rơm...
+153|cùng với Mama đang lên cơn Đói Cồn Cào, trên đảo này.
+154|Bọn em sẽ hoàn thiện bánh trên tàu và chặn Mama giữa biển!
+155|Giữa biển á?!
+156|Em muốn chúng ta để Mama đang nổi điên cập bến Thị trấn Chocolat sao?!
+157|Nếu liên lạc với anh Peros, chúng ta có thể hẹn gặp trên biển!
+158|Anh hiểu rồi. Em nói đúng.
+159|Anh hiểu. Em gái yêu quý, em có thể đi!
+160|May quá! Cảm ơn anh Oven!
+161|Nhưng, Chiffon!
+162|Em ở lại đây!
+163|Chị Chiffon!
+164|Ôi, tàn nhẫn quá, Oven-sama!
+165|Sao anh có thể làm vậy với em gái mình?!
+166|Không phải việc của các người! Đây là chuyện gia đình!
+167|Cứ để họ mang bánh ra cảng!
+168|Vâng, thưa ngài!
+169|Chị Chiffon!
+170|Chiffon-chan...
+171|Chiffon...
+172|Sao ngươi dám xuất hiện trước mặt ta!
+173|Ngươi biết chồng ngươi đã âm mưu gì...
+174|đúng không?!
+175|Dù là người nhà, sự phản bội của ngươi cũng không thể tha thứ!
+176|Dừng lại, anh Oven!
+177|Đợi đã, Pudding-chan!
+178|Nếu em làm gì, em cũng sẽ bị coi là kẻ phản bội!
+179|Gì?
+180|Á! Cậu ấy lo cho mình!
+181|Nhưng... mình cũng không thể lộ diện để chiến đấu...
+182|Mình phải làm sao đây?!
+183|Tôi... đã quyết định rồi...!
+184|Món nợ của tôi chưa trả hết cho đến khi Nami và mọi người rời đi an toàn!
+185|Tôi sẽ... giúp làm bánh cho đến khi xong, anh ơi!
+186|Họ đã cứu mạng Lola... tôi không thể trả nợ như thế này!
+187|Đây không phải trận cãi vã giữa anh em hay thời kỳ nổi loạn đơn giản, Chiffon!
+188|Ngươi là kẻ phản bội đã âm mưu giết nữ hoàng!
+189|Ta không ngờ phải giết chính em gái mình...
+190|Dừng lại, anh ơi!
+191|Chúng ta phải làm gương cho những người khác trong đất nước này!
+192|Chị Chiffon!
+193|Tệ rồi... Có lẽ mình không nên lo về hậu quả lúc này!
+194|Bỏ tay khỏi Chiffon! Oven-kun!
+195|Cha sẽ cứu con ngay bây giờ, con gái yêu quý!
+196|Ai đó?!
+197|Đồ khốn! Lẽ ra ta phải quăng ngươi ra biển!
+198|Không biết gã đó là ai...
+199|nhưng tốt nhất là cứu cô ấy thật nhanh...
+200|để không ai thấy mình!
+201|Hửm? Gì vậy?
+202|Chúng ta sẽ bay, Chiffon-chan.
+203|Gì?
+204|Gì? Ông ta vừa đánh ngã Oven-sama sao?!
+205|Ông già đó là ai?!
+206|Mình mạnh hơn mình nghĩ à?
+207|Hả? Chiffon?
+208|Không thể nào là em được!
+209|Ai vừa nãy vậy?!
+210|Chân Đen...
+211|Em an toàn rồi, Chiffon-chan.
+212|Cảm ơn anh!
+213|Chị phải đi trốn đi!
+214|V-Vâng.
+215|Mau ra cảng!
+216|Tránh đường!
+217|Chân Đen đã cứu mình...
+218|Nhưng...
+219|Gã to lớn đó là ai?
+220|Em đây rồi, Chiffon!
+221|Dừng lại, anh Oven!
+222|Con nhãi này...
+223|Đợi đã! Chúng ta cần chị Chiffon để hoàn thành chiếc bánh!
+224|Chiffon!
+225|Dừng lại! Bỏ tay khỏi Chiffon...
+226|Ngươi không chỉ là đứa con vô ơn...
+227|Ta sẽ thiêu ngươi đến tận xương!
+228|Chắc mình phải ra ngoài đó thôi!
+229|Reng, reng, reng...
+230|Reng, reng, reng...
+231|Cạch.
+232|Chuyện gì vậy?!
+233|Oven-sama, chúng tôi tìm thấy tàu của Bege!
+234|Nó đang hướng đến Đảo Cacao!
+235|Hạm đội đang truy đuổi! Chúng tôi sẽ ép chúng cập cảng!
+236|Bege! Đùa à!
+237|Ta tưởng hắn là kẻ máu lạnh, thế mà lại đến cứu ngươi sao?!
+238|Bege?!
+239|Bege!
+240|Là ta đây! Oven!
+241|Oven?!
+242|Ta vừa bắt được đồng bọn của ngươi, Chiffon, trên Đảo Cacao.
+243|Gì cơ?!
+244|Rero?!
+245|Phu nhân bị bắt rồi sao?!
+246|Hiện giờ chúng ta đang từ thị trấn hướng ra cảng!
+247|Nên ngươi và thuộc hạ hãy đến thẳng cảng...
+248|Đảo Cacao, Trước Cảng
+249|và đầu hàng!
+250|Ta là người trung thành với luật pháp.
+251|Ta sẽ không nương tay chỉ vì cô ta là em gái ta.
+252|Nếu ngươi giở trò gì, cô ta sẽ chết.
+253|Rero?!
+254|Bege! Mọi người! Quay đầu chạy đi!
+255|Tôi đến đây vì sự ích kỷ của tôi! Nếu các anh bị bắt, tất cả đều bị xử tử thôi!
+256|Ít nhất các anh hãy tự cứu lấy mình!
+257|Mama ghét tôi..
+258|Còn các anh là...
+259|gia đình thật sự duy nhất của tôi!
+260|Vì vậy, một ngày nào đó...
+261|các anh hãy báo thù cho tôi!
+262|Phu nhân, người nói gì vậy?!
+263|Phu nhân!
+264|Đừng nói nhảm nữa!
+265|Chiffon!
+266|Oven!
+267|Chúng tôi sắp đến cảng!
+268|Chúng tôi sẽ cập bến như anh yêu cầu...
+269|Bege?!
+270|Nên đừng động vào Chiffon nữa!
+271|Anh yêu...
+272|Ngươi quá mềm yếu, Bege.
+273|Điều đó sẽ khiến ngươi mất đầu!
+274|Tàu của Bege đang đến!
+275|Toàn bộ binh sĩ! Vào đội hình phòng thủ!
+276|Hạm đội! Tách sang phải và trái... và chặn mọi đường thoát!
+277|Rõ, thưa ngài!
+278|Tôi thấy tàu của Bege rồi!
+279|Có vẻ hắn thật sự định đầu hàng không chống cự, như đã hứa.
+280|Xe ngựa của Oven-sama sắp đến cảng!
+281|Mũ Rơm?!
+282|Gì?!
+283|Mũ Rơm?! Brûlée?!
+284|Chị Amande!
+285|Gì?! Tên hải tặc... Mũ Rơm Luffy?!
+286|Hắn làm gì ở đây?!
+287|Mama, nhìn kìa! Mũ Rơm ở ngay đó!
+288|Mũ Rơm!
+289|Sao Big Mom lại ở đây?!
+290|Tao tưởng bà ta đang đuổi theo Sunny trên biển!
+291|Cứu em với, Mama!
+292|Mama!
+293|Ôi không! Bà đang đến đây!
+294|Mũ Rơm! Bánh của ta đâu?!
+295|Tao đã nói là không biết!
+296|Mama, anh Peros! Cứu em!
+297|Thả cô ấy ra!
+298|Candy Wall!
+299|Gear Third!
+300|Rubber-Rubber...
+301|Giant Pistol!
+302|Không ổn! Không có Haki thì không phá được!
+303|Liếm.
+304|Nó đang bao vây chúng ta!
+305|Slow Waltz!
+306|Hự!
+307|Chị ơi! Đừng chém em!
+308|Thanh kiếm có tên của ta, Shirauo, đang khát máu... Ta sẽ khiến ngươi đau đớn trước khi chết.
+309|Giờ tao không thể đánh với bọn mày!
+310|Gương! Gương!
+311|Anh Peros!
+312|Kẹo của anh chắn đường em!
+313|Candy Slug!
+314|Đưa nó cho ta!
+315|Chiếc bánh!
+316|Tao phải chạy cho đến khi hồi phục Haki!
+317|Đưa nó cho ta!
+318|Chiếc bánh!
+319|Anh Peros, ngăn bà lại! Đây là thị trấn của em!
+320|Mama, mẹ quá đáng rồi! Mẹ đang phá nát thị trấn!
+321|Ta sẽ không để ngươi thoát! Mũ Rơm!
+322|Chết tiệt! Thị trấn bị phá hủy hoàn toàn!
+323|Hửm? Mũ Rơm đi đâu rồi?!
+324|Trời, suýt nữa thì toi!
+325|Nhưng nếu Big Mom ở đây, nghĩa là...
+326|Nami và mọi người đã thoát an toàn lúc nãy, đúng không?
+327|Trên Biển - Sunny
+328|Tàu kìa!
+329|Băng Big Mom đang đuổi kịp chúng ta!
+330|Rõ! Cuối cùng cũng đến lúc!
+331|Ừ! Chạy trốn chán lắm!
+332|Chiến với chúng thôi!
+333|Ừ, cứ giao cho bọn tôi! Làm thôi, Carrot!
+334|Carrot?
+335|Carrot! Tôi tìm thấy cậu rồi!
+336|Một trận chiến lớn sắp bắt đầu!
+337|Này, Chobro.
+338|Hửm?
+339|Không biết... đêm nay có trăng tròn không nhỉ...
+340|Hmmm?!
+341|Oven-sama!
+342|Lũ ngốc...
+343|Chúng ta làm được rồi! Cha ơi!
+344|Khắc sâu vào mắt con đi, Pez.
+345|Đây là cách sống của Papa.
+346|Cha ơi!
+347|Làm tốt lắm!
+348|Giờ anh định làm gì?! Tôi sẽ theo anh, Bege!
+349|Ai đó cứu với!
+350|Im đi, Branch!
+351|Tên tôi là Brûlée!
+352|Thị trấn Chips
+353|Đây là Thị trấn Chips! Mũ Rơm Luffy ở đây!
+354|Thế giới Gương
+355|Thả tao ra!
+356|Đây là Thị trấn Chockfull!
+357|Đã phát hiện Mũ Rơm!
+358|Gì?! Giờ hắn ở Thị trấn Chockfull sao?!
+359|Thành phố Ngọt
+360|Mũ Rơm xuất hiện ở nhiều nơi khác nhau! Có vẻ hắn đang chạy khắp Thế giới Gương!
+361|Chị Brûlée lại bị bắt nữa sao?!
+362|Đây là Thị trấn Green!
+363|Chúng tôi nhận được nhiều cuộc gọi từ nhà dân báo thấy người khả nghi!
+364|Mày đang làm gì vậy?! Nếu muốn trốn thì sao không đến Đảo Cacao đi?!
+365|Gì? Sao mày biết chuyện đó?
+366|Tao nghe lén! Giờ ai cũng biết rồi!
+367|Gì?! Thật sao?!
+368|Bỏ cuộc đi! Mày không thắng được anh tao!
+369|Haki cạn dần khi dùng...
+370|Nếu gã đó đánh lâu dài... thì Haki Quan Sát của hắn chắc chắn sẽ yếu đi!
+371|Trông mày ngốc nhưng lại đánh rất khôn.
+372|Nhưng... thế vẫn chưa đủ!
+373|Luffy.
+374|Tôi đã huấn luyện cậu...
+375|nhưng Haki là thứ nở rộ hoàn toàn trong sức nóng của trận chiến thật.
+376|Khi đối đầu kẻ thù mạnh... cậu sẽ dần mạnh lên!
+377|Không biết tao có thể nhìn trước tương lai một chút được không.
+378|Mày nói gì vậy?! Đừng có huênh hoang, nhãi ranh!
+379|Tao muốn vượt qua hắn!
+380|Tao muốn đánh bại hắn khi hắn ở sức mạnh tối đa!
+381|Gã...
+382|một tỷ Beri!

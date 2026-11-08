@@ -1,0 +1,357 @@
+1|Chân tôi...
+2|Chết tiệt! Tôi không cử động được!
+3|Chopper-san!
+4|Brook!
+5|Lũ ngốc...
+6|Kẹo đó sẽ từ từ ngấm vào cơ thể các ngươi.
+7|Vô ích thôi. Các ngươi sẽ không cử động được nữa đâu.
+8|Chopper-san!
+9|Bình tĩnh, bình tĩnh nào.
+10|Trời ơi...
+11|Sao các ngươi nghĩ mình lấy lại được tàu?
+12|Để bắt bọn ngươi,
+13|bọn ta đã huy động toàn bộ binh lính trên đảo...
+14|giăng bẫy khắp nơi.
+15|Các ngươi không thoát được đâu.
+16|Chênh lệch sức mạnh quá rõ ràng!
+17|Chết tiệt!
+18|Tôi... tôi còn không biến hình được!
+19|Thả Chopper-san ra!
+20|Đồ ngốc! Muộn rồi!
+21|Đây là hình phạt cho kẻ dám chống lại ta.
+22|Ta sẽ biến mày thành Người Kẹo rồi liếm cho đến khi biến mất.
+23|Liếm!
+24|Kẹo sẽ phủ kín cả người mày,
+25|rồi lấp đầy cơ thể cho đến khi mày không thở nổi nữa.
+26|Và với nỗi đau đó...
+27|chỉ ba phút là mày chết!
+28|Không thể nào...
+29|Rồi sẽ hoàn thành! Một Người Kẹo ngọt ngào!
+30|Chopper-san!
+31|Dừng lại!
+32|Hối hận thì đã muộn rồi!
+33|Nhớ đấy... ta đã cho các ngươi cơ hội!
+34|Ta đã đề nghị thả hai ngươi đi.
+35|Bọn ngươi chẳng hiểu gì cả!
+36|Hòn đảo này...
+37|không hề ngọt ngào chút nào!
+38|Chopper-san!
+39|Sao không ngồi yên mà đếm từng giây đi?
+40|Đây đúng là thứ những kẻ ngọt ngào ngu ngốc như các ngươi đáng nhận...
+41|Ôi, dừng lại! Em không muốn bị làm ngọt đâu!
+42|Ôi, dừng lại!
+43|Ta sẽ biến ngươi thành Người Kẹo rồi liếm ngươi!
+44|Này, anh Peros!
+45|Là Mama...
+46|Đám cưới...
+47|Bà ấy vẫn đang lên cơn đói...
+48|Bánh!
+49|Phải dụ bà ấy tới đảo Cacao, nơi Pudding đang chờ.
+50|Nếu bà ấy biết trên tàu này không có bánh, bà ấy sẽ giết em.
+51|Tôi nghĩ chưa đến mức đó đâu.
+52|Cho tao ăn!
+53|Bánh!
+54|Bờ biển kìa! Ra tàu Sunny!
+55|Hắn vẫn còn sống sao? Mũ Rơm...
+56|Chắc binh lính của ta đã bị sét quét sạch...
+57|Mấy người đó là ai?!
+58|Chúng cướp tàu rồi!
+59|Gì? Brook?! Chopper?!
+60|Cái gì vậy?!
+61|Quay về Thế giới Gương đi.
+62|Nếu ở lại...
+63|vài giây nữa các ngươi sẽ nằm dưới chân hắn đấy.
+64|Nhảy vào gương!
+65|Perospero và Katakuri... Lại đúng hai người này...
+66|Tai họa cứ tiếp diễn!
+67|Các ngươi đến được tận đây... ta phục đấy.
+68|Nhưng giờ các ngươi đến nghĩa địa rồi!
+69|Đây là nơi tất cả các ngươi phải chết!
+70|Thiếu Nữ Kẹo!
+71|Bức tường kẹo!
+72|Rõ ràng đó không chỉ là một bức tường!
+73|Karate Người Cá...
+74|Cao Su...
+75|Cú Đấm Gạch Cá Mập!
+76|Bazooka Phản Lực!
+77|Được rồi!
+78|Chưa đâu, chưa đâu...
+79|Đừng coi thường ta!
+80|Hả? Cái gì vậy?!
+81|Thiếu Nữ Kẹo...
+82|Trang Trí!
+83|To khổng lồ...
+84|Đây là hết đường!
+85|Không ai qua được đây đâu!
+86|Đi vòng ra tàu!
+87|Không, chạy thẳng đi!
+88|Cao Su...
+89|Diều Hâu Đỏ!
+90|Lửa sao?!
+91|Sức mạnh của hắn giống hệt Luffy!
+92|Đám cưới...
+93|bánh!
+94|Bà ấy đến rồi!
+95|Làm sao đây Luffy?! Chúng ta bị bao vây rồi!
+96|Luffy! Đẩy Katakuri ra khỏi tàu!
+97|Bọn tôi sẽ tìm cách ra khơi!
+98|Hiểu rồi!
+99|--Lối này!
+100|Được!
+101|Tên khốn đó! Chắc hắn từ thế giới gương ra!
+102|Bánh cưới!
+103|Ta không muốn cản cơn đói của Mama.
+104|Liếm.
+105|Vũ Trang Hóa Cứng!
+106|Cao Su...
+107|Gatling Diều Hâu!
+108|Sao thế?! Tôi dùng Haki mà vẫn không đánh trúng hắn!
+109|Chopper! Brook! Hai cậu ổn chứ?!
+110|Cố lên!
+111|Ở đâu?
+112|Bánh!
+113|Carrot.
+114|Đừng giật mình trước biến cố bất ngờ này nhé.
+115|Gì?
+116|Tôi nghi rằng...
+117|Luffy và đồng đội của cậu ấy...
+118|chính là những người mà dân tộc chúng tôi...
+119|và gia tộc Kozuki đã chờ đợi suốt nhiều thế kỷ.
+120|Những người sẽ dẫn chúng ta tới bình minh của thế giới!
+121|Nhiều thế kỷ ư?!
+122|Này Mont d'Or, nghe rõ không?
+123|Vâng, em nghe rõ.
+124|Dùng thiết giáp hạm bao vây bờ tây nam Whole Cake Island.
+125|Rõ ngay, anh Peros!
+126|Cạch.
+127|Có vẻ Mũ Rơm và bọn chúng vẫn còn sống.
+128|Coup de...
+129|Gì?
+130|Coup de Burst! Con tàu này có thể bay xa một kilômét!
+131|Nếu cứ ra khơi bình thường, Big Mom sẽ đánh chìm chúng ta ngay!
+132|Tôi không hiểu lắm, nhưng đây là cách thoát tốt nhất, đúng không?
+133|Ừ!
+134|Được! Vậy cược vào nó!
+135|Big Mom đang tới!
+136|Đây rồi!
+137|Carrot! Cậu đi giúp họ chuẩn bị ra khơi!
+138|Gì?
+139|Nhanh lên!
+140|Được!
+141|Ở đó à?
+142|Bánh cưới sao?!
+143|Này Brook, Chopper! Ráng lên!
+144|Dù thoát được khỏi đây, hai cậu chết thì cũng vô nghĩa!
+145|Chúng tôi thấy bọn Mũ Rơm ở bờ tây nam!
+146|Đây là Bộ trưởng Amande trên tàu Nuts Island Tarte.
+147|Chúng tôi sẽ dồn Mũ Rơm và đồng bọn vào đường cùng.
+148|Tệ rồi.
+149|Thiết giáp hạm từ biển tới, Big Mom từ đất liền.
+150|Chúng ta hoàn toàn bị kẹt ở giữa!
+151|Nami! Phải ra khơi thôi!
+152|Tôi biết! Nhưng tôi phải chất thêm hai thùng cola nữa!
+153|Phần còn lại để tôi chất. Cậu đi chuẩn bị cái Coup-de-gì-đó đi!
+154|Được, vậy giao cho cậu nhé!
+155|Sóng Kẹo!
+156|Gì?!
+157|Kẹo sao?!
+158|Chết rồi! Thế này thì không dùng Coup de Burst được!
+159|Có chuyện gì vậy?!
+160|Tệ rồi! Tàu Sunny bị kẹo giữ chặt!
+161|Gì?!
+162|Thấy sức mạnh Sóng Kẹo của tao chưa?!
+163|Tao là người cầu toàn!
+164|À, hắn kia rồi!
+165|Làm sao đây?
+166|Trả Brook và Chopper lại, cả con tàu nữa, đồ kẹo khốn nạn!
+167|Nếu không làm gì...
+168|Bánh!
+169|Các ngươi sẽ bị Mama tiêu diệt...
+170|hoặc bị đại bác của bọn ta nghiền nát!
+171|Dù sao cơ hội sống sót cũng bằng không!
+172|Kiếm Thú: Sư Tử Hộ Vệ Đế Quốc!
+173|Này, ngươi biết tiền truy nã của ta bao nhiêu không?
+174|Bảy trăm triệu.
+175|Kẻ yếu như ngươi không có cơ hội thắng ta đâu.
+176|Ngươi thoát chết rồi. Liếm.
+177|Chết ở đây là vô ích! Bình minh của thế giới sắp đến rồi!
+178|Ta phải trở về đất nước của mình!
+179|Cậu đẹp trai quá.
+180|Tôi sẽ rút xuống còn 50 năm.
+181|Hãy tiếp tục sống đi.
+182|Lúc đó,
+183|nếu cậu không hy sinh mắt trái thì chắc chắn đã chết...
+184|Cậu muốn sống sót đến vậy sao?
+185|Được rồi...
+186|Giờ cậu bao nhiêu tuổi?
+187|Tôi 27...
+188|Cậu bị rút mất 50 năm tuổi thọ, nên coi như đã sống 77 năm.
+189|Giờ không biết cậu định sống thêm bao nhiêu năm nữa...
+190|Ít nhất tôi muốn tự chọn nơi mình chết.
+191|Nhân tiện...
+192|cậu từng là thuyền trưởng băng hải tặc Nox...
+193|"Nox" nghĩa là "đêm", đúng không?
+194|Nghe khá tiêu cực.
+195|Người ta nói: "Đêm nào rồi cũng tàn."
+196|Và...
+197|"nox" cũng giống như...
+198|"ngay trước bình minh".
+199|Nếu tôi có thể làm nền móng cho...
+200|bình minh mới của thế giới mà Sư phụ và mọi người hằng mong mỏi,
+201|thì tôi đã đạt được điều mình muốn nhất.
+202|Tôi nghĩ mình vẫn đủ thời gian cho việc đó...
+203|Cậu từng nói "ngay trước bình minh" và "nox" là một...
+204|Nhưng thứ duy nhất chờ cậu là bóng tối vĩnh hằng gọi là cái chết.
+205|Không...
+206|Roger! Oden-sama! Cho tôi đi cùng!
+207|Tôi làm gì cũng được! Cho tôi đi với!
+208|Nhóc, cậu vẫn phải chờ.
+209|Tôi không phải nhóc, tôi là Pedro!
+210|Thời gian của tôi có hạn.
+211|Nghe này! Ai cũng có lượt của mình.
+212|Hãy kiên nhẫn chờ đợi!
+213|Nó sẽ tự đến. Lượt của cậu ấy...
+214|Tạm biệt, Pedro.
+215|Tôi hiểu rồi, Roger!
+216|Pedro!
+217|Roger...
+218|Roger thì sao?
+219|Họ nói ông ấy đã chết!
+220|Roger nói: "Ai cũng có lượt của mình"!
+221|Cậu nói gì vậy?
+222|Đây là lượt của tôi!
+223|Cái này sẽ phá hết ma thuật của các cậu, đúng không?
+224|Bom sao?!
+225|Dừng lại, đồ ngốc! Cậu định làm gì vậy?!
+226|Buông tôi ra!
+227|Tôi...
+228|đã có linh cảm đây sẽ là chuyến đi cuối cùng của mình.
+229|Cậu nói vậy là sao, Pedro?
+230|Pedro?!
+231|Vĩnh biệt.
+232|Cậu nói vậy là sao, Pedro?
+233|Một ngày nào đó cậu sẽ thấy việc này quan trọng thế nào...
+234|khi để Luffy và mọi người ra khơi!
+235|Pedro!!
+236|Nghe đây!
+237|Các cậu phải tiến lên!
+238|Pedro!
+239|Đừng nói là anh Peros...
+240|Ôi không! Mama và Perospero-sama...
+241|đã bị cuốn vào vụ nổ!
+242|Kẹo hắn tạo ra bắt đầu tan chảy rồi!
+243|Không thể tin anh ấy tự hy sinh...
+244|Sao cậu làm vậy được, Pedro!
+245|Tôi tưởng mình tiêu rồi!
+246|Mọi người ổn chứ?!
+247|Dừng lại, Carrot!
+248|Buông tôi ra! Cho tôi quay lại chỗ Pedro! Biết đâu anh ấy còn sống!
+249|Không! Cậu thấy vụ nổ rồi... Anh ấy đã cứu chúng ta!
+250|Nãy giờ chúng ta chẳng có cơ hội sống sót!
+251|Cậu phải hiểu vì sao Pedro làm vậy! Làm ơn!
+252|Sẵn sàng bay chưa, Nami?!
+253|Rồi, xong hết rồi!
+254|Chopper! Brook! Hai cậu còn ở đó chứ?
+255|Ồ?
+256|Jinbe!
+257|Vâng, họ ở đây!
+258|Ra khơi đi các cậu!
+259|Nếu lãng phí khoảnh khắc này...
+260|thì Pedro sẽ xấu hổ về chúng ta!
+261|Dù thế nào chúng ta cũng phải thoát khỏi đây!
+262|Bằng mọi giá!
+263|Sao ai cũng...
+264|hăng máu thế này?!
+265|Cút khỏi đây, băng hải tặc Big Mom!
+266|Carrot!
+267|Ối...
+268|Đứng dậy! Đứng lên đi Carrot! Và cầm lấy thanh kiếm!
+269|Cô bé không có năng khiếu kiếm thuật.
+270|Pedro! Chuyện này không liên quan đến anh!
+271|Carrot sẽ trở thành nữ kiếm sĩ mạnh dưới sự chỉ dạy của tôi.
+272|Có nhiều cách để mạnh lên. Chắc chắn có cách hợp với cô bé hơn.
+273|Cái gì đây?
+274|Vào tư thế chiến đấu đi.
+275|Cái này hợp với cô hơn.
+276|Cô có thể lơ lửng trên không một lúc.
+277|Tận dụng điều đó và Electro, cô sẽ có sức mạnh và cách chiến đấu của riêng mình.
+278|Thật sao?
+279|Ừ.
+280|Xông vào đi! Tôi sẽ làm bạn tập của cô.
+281|Được rồi!
+282|Em tưởng mình không thể mạnh lên.
+283|Không ngờ có kỹ năng hợp với mình.
+284|Tất cả là nhờ anh, Pedro.
+285|Chiến đấu thế nào không quan trọng.
+286|Từ giờ cô phải là chiến binh mạnh và luôn sẵn sàng.
+287|Ai cũng có lượt của mình.
+288|Đừng lo...
+289|Điện...
+290|Chừng nào tao còn ở đây, bọn mày không ra khơi được đâu!
+291|Tránh xa Carrot ra!
+292|Carrot! Giao hắn cho tôi!
+293|Luffy...
+294|Hy vọng cậu đủ mạnh để đẩy ta ra...
+295|Chúng tôi ra khơi! Tôi là thuyền trưởng con tàu này!
+296|Cao Su... Súng Voi!
+297|Cứ để buồm như vậy.
+298|Hướng tây bắc, Coup de Burst!
+299|Phương vị: 45 độ hướng tây bắc!
+300|Ra vậy...
+301|Làm vậy thì ta chắc chắn không thể tấn công những người khác.
+302|Như thế, dù biết trước chuyện gì sẽ xảy ra cũng không cản được!
+303|Anh! Em đến cứu anh đây!
+304|Chúng ta sẽ trả thù cho anh Peros!
+305|Toàn hạm đội, chuẩn bị bắn vào tàu địch!
+306|Chỉnh tầm bắn đại bác!
+307|Cá Mập, quay lại đây!
+308|Chopper-san, cậu giữ được phía bên đó không? Kéo nó lại gần tàu Sunny trước khi chúng bắn!
+309|Carrot! Cố lên. Đứng dậy được không?
+310|Ừ... Nami, cảm ơn cậu.
+311|Ở đâu?!
+312|Big Mom!
+313|Giờ thì nguy to rồi! Phải thoát trước khi tàu bị phá hủy!
+314|Kia là... Pedro?! Anh ấy còn sống sao?!
+315|Chết tiệt! Pedro, tên khốn đó!
+316|Đó không phải Pedro!
+317|Không...
+318|Trời ơi... Tôi lạnh cả máu...
+319|Áo Giáp Kẹo của tôi bị phá nát hoàn toàn!
+320|Không thể nào... Sao hắn còn sống?!
+321|Có vẻ toàn bộ loạt đạn thứ hai đã bị chặn!
+322|Loạt thứ ba! Nhanh nạp đạn!
+323|B-Buông tao ra!
+324|Nami! Carrot!
+325|Jinbe!
+326|Brook!
+327|Chopper!
+328|Nghe tôi này!
+329|Tôi sẽ quay lại! Phần còn lại giao cho các cậu!
+330|Gì?! Anh nói vậy là sao?!
+331|Khi cần gạt trở về vị trí ban đầu thì Burst đã sẵn sàng!
+332|Được rồi, mọi người! Bám chắc vào!
+333|Hiểu rồi!
+334|Bọn tôi sẵn sàng bất cứ lúc nào!
+335|Bọn tôi cũng sẵn sàng!
+336|Được, bắt đầu nào!
+337|Đừng để bọn Mũ Rơm thoát! Bắn!
+338|Giờ!
+339|Mọi người! Đừng quên hét lên nhé!
+340|Coup de...
+341|Burst!
+342|Amande đây.
+343|Tàu địch đã bay lên trời.
+344|Lên trời sao?!
+345|Này, Luffy đâu rồi?!
+346|Là Mũ Rơm kìa!
+347|Chạy đi!
+348|Thế giới Gương
+349|Ngươi làm được rồi...
+350|Ở đây, ta muốn đánh ngươi bao nhiêu cũng được!
+351|Con đường ra tàu!
+352|Cậu ta tự phá nó!
+353|Vậy đây là quyết tâm của thuyền trưởng sao...
+354|Nhưng... ngươi không phải đối thủ của ta.
+355|Đây là nơi ngươi chết.
+356|Tôi sẽ quay về tàu Sunny!
+357|Ngay khi hạ gục ngươi!

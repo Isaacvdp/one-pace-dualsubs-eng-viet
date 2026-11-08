@@ -1,0 +1,430 @@
+1|Chúng ta đã ra tới biển.
+2|Giờ chỉ cần tới Sunny nữa thôi.
+3|Sông Nước Ép, Sweet City
+4|Ngọt quá, tôi vui lắm!
+5|Hả? Tôi không thích. Dính nhớp hết...
+6|Thấy chưa? Bánh lái trơn tuột...
+7|Coi chừng! Tránh đường cho tôi, cá-san!
+8|Brook! Kia có phải nàng tiên cá không?!
+9|Hả?! Nàng tiên cá-san sao?!
+10|Ồ, là tiên cá đực!
+11|Ồ...
+12|Hắn đang làm gì vậy? Câu cá chăng?
+13|Tôi hết quan tâm rồi...
+14|Bờ biển Tây Nam, Rừng Quyến Rũ
+15|Chừng nào Big Mom còn lên Cơn Đói, bọn mình chỉ biết chạy thôi!
+16|Cơn Đói? Là gì vậy?
+17|Bà ấy đang nổi cơn tam bành!
+18|Cho tới khi bà được ăn món bà thèm...
+19|bà sẽ cứ quậy phá không kiêng nể gì!
+20|Bánh...
+21|cưới!!
+22|Bà gần như mất ý thức rồi...
+23|Lần này món bà thèm có vẻ là bánh cưới!
+24|Có lẽ vì bà chưa được ăn bánh ở đám cưới!
+25|Luffy! Lẽ ra cậu không nên phá cái bánh!
+26|Nhưng kế hoạch thành công mà!
+27|Với lại tôi chưa từng được ăn cái bánh nào ngon thế!
+28|Cậu ăn trong lúc làm nhiệm vụ sao?!
+29|Tôi cũng ăn rồi! Ngon lắm!
+30|Dù sao thì nhanh lên! Chắc chắn gần tới Sunny rồi!
+31|Khó mà biết có đang đi thẳng qua khu rừng này không!
+32|Có thật là đúng đường không?!
+33|Ồ! Nhìn kìa!
+34|Con sông đó trông quen quá!
+35|Sunny chắc ở ngay bên kia sông!
+36|Khoan đã!
+37|Nếu tôi nhớ đúng thì cây cầu đó lúc trước bị gãy rồi!
+38|Cậu nói đúng...
+39|Nếu khu rừng này là kẻ thù thì không thể tin gì hết!
+40|Chúng đang cố lừa chúng ta...
+41|Nên chắc chắn chúng đang thay đổi cảnh quan để làm ta rối...
+42|Nói cách khác...
+43|đây không phải nơi chúng ta nghĩ!
+44|Vivre Card của Lola không giúp được nữa rồi...
+45|Ừ, vì chính Mama đang ở ngay sau lưng chúng ta!
+46|Thế thì càng phải tiếp tục cho hắn ăn, Nami.
+47|Ừ... Zeus!
+48|Nó...
+49|Ngon quá! Ngon cực kỳ!
+50|Nếu để Zeus quay về với Mama thì không đời nào ta thoát được.
+51|Quay lại, Zeus!
+52|Nếu chậm, bà sẽ đuổi kịp!
+53|Ôi không! Mình sẽ bị mắng mất!
+54|Này!
+55|Prometheus!
+56|Sao ngươi dám cãi lệnh Mama, Zeus?!
+57|Zeus! Nhìn tôi đây!
+58|Tôi có một Trứng Thời Tiết tuyệt hảo đầy mây sấm ngon ngọt!
+59|Wow! Trông tuyệt quá!
+60|Ôi, khoan, Zeus!
+61|Này, Mặt Trời!
+62|Sao ngươi dám...
+63|thiêu cháy ông cây!
+64|Cao Su Cao Su...
+65|Hawk Gatling!
+66|Đúng là Luffy của chúng ta!
+67|Cái gì thế?!
+68|Đừng tưởng...
+69|chỉ với thế mà thắng được ta!
+70|Ôi! Ui da!
+71|Nếu Haki Vũ Trang không có tác dụng thì hắn còn khó xơi hơn cả Logia!
+72|Ta sẽ thiêu chết tất cả chúng mày!
+73|Ui da! Nóng quá! Ái, ái, ái!
+74|Quay lại, Zeus!
+75|Tôi sẽ quay! Tôi sẽ quay, nhưng...
+76|tôi muốn ăn thêm một đám mây sấm ngon nữa thôi!
+77|Ngươi...
+78|Jinbe!
+79|Mọi người qua cầu ngay!
+80|Được!
+81|Sóng Giáo!
+82|Mưa Rào!
+83|Có hiệu quả không?!
+84|Tất nhiên!
+85|Hắn chỉ là một khối lửa nén lại!
+86|Hắn chỉ là ngọn lửa biết nói thôi.
+87|Thằng khốn...
+88|Có phải là...?!
+89|Mobile
+90|Kato
+91|Compo
+92|Chuẩn bị đi, băng Mũ Rơm!
+93|Laurin
+94|Rừng Quyến Rũ này sẽ là...
+95|Tablet
+96|Nơi chúng mày chết!
+97|High-Fat
+98|Chết đi!
+99|Cái gì?! Không ngờ chúng đuổi kịp!
+100|Chắc bọn Homies đã đổi cảnh quan!
+101|Chúng đang áp sát từ hai bên...
+102|Vậy chỉ còn một cách...
+103|Ừ, đập chúng thôi!
+104|Anh tên Pedro đúng không? Năm năm trước tôi cũng thấy anh...
+105|Ôi chà!
+106|Con thỏ ngốc này!
+107|Garchu!
+108|Dừng lại!
+109|Vâng!
+110|Anh Tablet!
+111|Chú ý vào!
+112|Diable Jambe!
+113|Flambage Shot!
+114|Cao Su Cao Su...
+115|Eagle Bazooka!
+116|Đừng lạc nhau!
+117|Không thì sẽ không bao giờ gặp lại!
+118|Được!
+119|Ừ!
+120|Được!
+121|Luffy, chặn Carrot lại!
+122|Ừ!
+123|Tôi sẽ không để các người thoát!
+124|Cúi xuống!
+125|Nhận lấy này!
+126|Coi chừng!
+127|Ngươi...!
+128|Bánh!
+129|Đây sao?
+130|Tôi sẽ ăn nó!
+131|Zeus!
+132|Đám mây ngon quá!
+133|Hả?
+134|Đó là...
+135|Cái gì vậy?!
+136|Ngon quá!
+137|Trứng Thời Tiết của tôi ở trong Zeus rồi...!
+138|Hắn đang làm gì vậy?!
+139|Này, Zeus!
+140|Này, mọi người!
+141|Xin lỗi đã để mọi người chờ!
+142|Sao họ...
+143|lại ở trên Sunny?
+144|Tiếc quá. Bạn bè các người không có ở đây. Lick!
+145|Zeus Breeze...
+146|Tempo!
+147|Đừng nói là Luffy và mọi người...
+148|Đó là...
+149|Có vẻ Mama đã dùng Zeus xử xong chúng. Mama sắp tới rồi.
+150|Lick!
+151|Hắn nói vậy, nhưng họ sẽ ổn thôi, đúng không?
+152|Ừ, chắc chắn họ sẽ ổn!
+153|Lick! Chắc bạn bè các người chết rồi...
+154|Vậy hai người định làm gì?
+155|Dù liều mạng cướp lại con tàu này...
+156|thì bạn bè các người cũng sẽ không trở về.
+157|Nếu muốn trốn khỏi đây bằng tàu ngầm đó, ta không ngại cho hai người đi.
+158|Không, cảm ơn.
+159|Kung Fu Point!
+160|Cút khỏi tàu, lũ khốn! Sunny là của bọn tao!
+161|Muốn đánh à?
+162|Tất nhiên!
+163|Bọn tôi sẽ cứu Sunny!
+164|Chắc các người muốn chết. Lick!
+165|Bắt đầu thôi! Một màn trình diễn đứng hoàn toàn!
+166|Ừ!
+167|Khu rừng... Chuyện gì xảy ra vậy?!
+168|Mọi người ổn không?!
+169|Rabiyan, nhanh lên!
+170|Được!
+171|Em xin lỗi vì nhờ chị giúp, chị...
+172|Không sao! Lâu rồi hai chị em mình mới làm bánh chung!
+173|Hơn nữa...
+174|Em đi sao?! Đùa à?!
+175|Bege! Em chẳng nói rồi sao?! Băng Mũ Rơm đã cứu mạng em gái Lola của em!
+176|Nhưng Chiffon, nguy hiểm lắm! Anh lo!
+177|Anh ấy nói đúng! Phu nhân phải trốn cùng chúng tôi!
+178|Ôi, xin lỗi. Tôi lớn tiếng quá...
+179|Chúng tôi không thể đi mà thiếu phu nhân!
+180|Quay lại, Chiffon!
+181|Nguy hiểm sao?! Vâng, em biết chứ!
+182|"Cảm ơn đã cứu Lola." Nói vậy thì dễ quá.
+183|Lòng thành được chứng minh khi giúp những người mình mang ơn!
+184|Em nói đúng, nhưng...
+185|Đó mới là cách làm tròn bổn phận, đúng không anh yêu?
+186|Nếu em có chuyện gì...
+187|hãy chăm sóc giúp em...
+188|Pez nhé!
+189|Chiffon!
+190|Phu nhân!
+191|Em phải cứu Nami và mọi người rồi về với gia đình!
+192|Chị! Anh ấy kia rồi!
+193|Pudding? Em nghe lén à?
+194|S... Sanji-san...
+195|S... S...
+196|Sanji...
+197|S...
+198|S...
+199|S...
+200|Sanji ở đó! Tên ngốc!
+201|Cái gì cơ?!
+202|Mạnh thật!
+203|Clima-Tact của tôi không tạo ra được sét như thế!
+204|Với sức mạnh như vậy...
+205|Big Mom đâu rồi?
+206|Chắc bà bị trúng trực tiếp!
+207|Chắc bà ở trong cái hố khổng lồ đó!
+208|Chúng ta vừa hạ được Big Mom sao?!
+209|Cái gì vậy?
+210|Bánh cưới...!
+211|Giọng Big Mom sao?!
+212|Tôi đã đoán vậy...
+213|Bánh!
+214|Bà còn sống sao?!
+215|Bà không phải người dễ hạ như vậy...
+216|Bà đang leo lên!
+217|Cái hố sâu quá nên bà không leo ra được à?
+218|Chạy đi trong lúc bà còn ở dưới đó!
+219|Ừ. Trong lúc Big Mom không cử động được!
+220|Không, bà đã đang lên rồi...
+221|Mặt đất...
+222|Không thể nào!
+223|Không gì ngăn được Big Mom khi bà lên Cơn Đói!
+224|Bánh...
+225|cưới!
+226|Ôi không! Chạy!
+227|Bánh cưới...
+228|Không... Mặt đất sắp nứt toác!
+229|Bà tới rồi!
+230|Chạy!
+231|Bánh!
+232|Mang nó đến cho ta!
+233|Ta biết các ngươi có nó!
+234|Mũ Rơm!
+235|Bà ở trên đỉnh rồi!
+236|Băng Mũ Rơm!
+237|Hả?
+238|Pudding! Chiffon!
+239|Ôi, Pudding! Em bị sao vậy?! Em đã lừa bọn tôi!
+240|Để ngăn Cơn Đói của Mama...
+241|Thấy chưa? Lẽ ra phải trói cô ta từ sớm!
+242|Để ngăn Mama...
+243|Nhưng sao Chiffon lại đi cùng? Tôi tưởng chị ấy đã chạy cùng nhóm Bege!
+244|Để ngăn Mama...
+245|Muốn đánh à?!
+246|Không, tôi không muốn! Nghe tôi nói đã!
+247|Pudding-chan, em không sao chứ!
+248|Mừng là gương mặt xinh đẹp của em không bị thương!
+249|Đáng yêu quá! Đáng yêu quá!
+250|Pudding, bình tĩnh lại!
+251|Ôi không! Mama tới rồi!
+252|Mama!
+253|Không còn thời gian! Pudding, vào thẳng vấn đề đi!
+254|Được!
+255|Thảm hại! Lũ ngốc! Các ngươi không thoát được đâu!
+256|Dù có trốn bằng tàu,
+257|Mama sẽ đuổi các ngươi tới tận cùng biển cả và nhấn chìm xuống đáy đại dương!
+258|Mày nói gì hả, thằng khốn?!
+259|Không phải vậy, Pudding! Em đang nói gì thế?!
+260|Chị nói đúng! Chị nói đúng! Em đang nói gì vậy?!
+261|Nghe này!
+262|Mama tin rằng các người đã cướp cái bánh cưới bà thật sự muốn ăn!
+263|Cái gì?! Bọn tôi làm gì có bánh!
+264|Tôi biết! Nhưng giờ Mama đang ở trạng thái sẽ đuổi các người khắp biển để lấy cái bánh đó!
+265|Đúng vậy! Nên Sanji, lại đây!
+266|Hãy nhìn bạn bè anh bị Mama giết và sống trong địa ngục!
+267|Không phải vậy!
+268|– Em đang nói gì vậy?! – Chị nói đúng! Em muốn biến mất!
+269|Nếu chỉ định nói thế thì đi đi, lũ ngốc!
+270|Khoan! Không phải vậy!
+271|Chân Đen Sanji!
+272|Gì?
+273|Pudding nói anh cũng giỏi làm đồ ngọt!
+274|Ừ, tôi là đầu bếp xuất sắc.
+275|Được rồi! Vậy hãy giúp bọn tôi nướng cái bánh!
+276|Chúng ta sẽ làm một cái bánh có thể ngăn Mama.
+277|Rồi chúng tôi sẽ giúp các anh trốn thoát!
+278|Chiffon! Tại sao?!
+279|Tôi muốn đền đáp việc các anh cứu Lola! Và tôi sẽ liều mạng để làm điều đó!
+280|Cảm ơn cô, Chiffon!
+281|Ừ!
+282|Hứ! Có lẽ kết quả là vậy! Nhưng khác với chị tôi, tôi không làm vì các người!
+283|Cái bánh tôi định nướng cho mình tình cờ lại đúng là cái Mama đang thèm!
+284|V-V-Và tôi tình cờ ở gần đây! Tôi đâu biết các người ở đây!
+285|N-Nên không phải tôi đến tận đây để ngăn bà vì không muốn anh chết đâu, Sanji...
+286|-san!
+287|Cảm xúc của cô ấy như tàu lượn siêu tốc!
+288|Hiểu rồi! Thế thì tốt!
+289|Nướng bánh ở đâu được?!
+290|Chúng tôi có nguyên liệu dư ở Thị trấn Chocolat!
+291|Trước tiên tới Thị trấn Chocolat và nướng bánh nhanh nhất có thể!
+292|Rồi chở bằng tàu đem tới cho các anh!
+293|Và để Mama, người đang đuổi theo các anh, ăn cái bánh đó!
+294|Như vậy, chúng ta có thể đánh lạc hướng bà khỏi các anh! Nên cố cầm cự tới lúc đó!
+295|Bà đang tới à?!
+296|Bánh cưới...
+297|Khi ra biển, phía trước các anh cũng sẽ có kẻ thù!
+298|Nhưng tôi tin các anh xử lý được!
+299|Bọn tôi sẽ làm được!
+300|Vậy thì... tôi sẽ đi cùng anh!
+301|Hả?!
+302|Ừ, nhanh lên và nhảy lên đi!
+303|K-K-Khoan! Ai cho anh cho cô ta đi cùng, đồ ngốc?!
+304|Bánh!
+305|Bà đứng dậy rồi!
+306|Cái bánh các em đang nướng là cách duy nhất để ngăn Big Mom!
+307|Ừ!
+308|Mọi người!
+309|Giờ tôi rời các anh, nhưng tôi hứa sẽ quay lại!
+310|Ừ!
+311|Được!
+312|Ừ, bọn tôi biết cô sẽ quay lại!
+313|Này!
+314|Pudding!
+315|Chiffon!
+316|Ôi không! Bà lại sắp làm nữa!
+317|Tránh ra!
+318|Các người làm gì ở đây?!
+319|Luffy! Hẹn gặp ngoài biển!
+320|Nhờ cậu đó, Sanji!
+321|Sức Mạnh Quốc Gia!
+322|Đủ rồi đó...
+323|Suýt chút nữa.
+324|Mọi người ổn không?
+325|Đi thôi! Sunny đang đợi bọn mình ở bờ biển!
+326|Khoan! Họ đang đi sai đường.
+327|Rabiyan, xuống lại đi! Bay thẳng từ chỗ lúc nãy ra đường bờ biển!
+328|Rõ!
+329|Luffy-kun và mọi người!
+330|Khoan! Các anh đi sai đường rồi! Phía trước có bức tường!
+331|Hả? Pudding? Là Pudding tốt bụng!
+332|Tôi tưởng đang đi thẳng.
+333|Tất nhiên rồi, chúng ta bị lừa.
+334|Mọi người! Đường bờ biển ở lối này!
+335|Được, đi thôi!
+336|Bọn ta sẽ không để các ngươi đi!
+337|Giao cho tôi!
+338|Ký ức Fil:
+339|Hồi tưởng!
+340|Ôi, tôi phải đi mua sắm.
+341|Anh trai đánh con!
+342|Tôi phải dắt chó đi dạo.
+343|Con trai tôi mất tích. Có ai thấy nó không?
+344|Chuyện gì đang xảy ra vậy?
+345|Dù sao cứ chạy trước khi quá muộn!
+346|Chuyện gì đang xảy ra vậy?
+347|Đó là ký ức của những chủ cũ...
+348|của những linh hồn được dùng để tạo ra Homies.
+349|Những ký ức đó đang tạm thời trở về với họ.
+350|Trong lúc họ bối rối, Mama không điều khiển được chúng.
+351|Nên Luffy-kun và mọi người có thể thoát khỏi khu rừng bây giờ.
+352|Hiểu rồi. Cảm ơn em, Pudding-chan!
+353|Sao?! Anh ở đó từ bao giờ vậy, Sanji...?
+354|-san!
+355|Cũng chỉ một chút thôi.
+356|Cái gì?!
+357|Sao cô không nhận ra?!
+358|Nào, Pudding-chan, mau tới Thị trấn Chocolat thôi.
+359|N-nhảy xuống rồi bơi đi, đồ ngốc!
+360|Mắt em đẹp cả khi tức giận...
+361|Em ổn chứ, Pudding?
+362|T-Tôi ổn... Đ-Đừng có đụng vào tôi!
+363|K-Không thì tôi giết anh đó, Sanji...
+364|-san!
+365|Thấy đường bờ biển phía trước rồi!
+366|Nhanh lên!
+367|Tới rồi! Nhưng... Pudding thật sự đã về phe ta chưa?!
+368|Không biết! Đừng hạ cảnh giác tới khi thoát khỏi lãnh thổ chúng!
+369|Ta sẽ không để các ngươi thoát!
+370|Này, Zeus!
+371|Sao ngươi làm vậy được?!
+372|Sao kéo bọn ta vào chuyện này?!
+373|Tôi xin lỗi... Tôi không cố ý như vậy...
+374|Ta không quan tâm ngươi định làm gì! Lần sau phải chú ý!
+375|Vâng, ngài nói đúng...
+376|Nhưng chúng ngon quá... Mấy quả trứng mây sấm đó.
+377|Hả?!
+378|Này, ngươi có đang nghe ta không?! Lệnh của Mama là tuyệt đối!
+379|Tôi biết...
+380|Đưa nó đây!
+381|Bánh cưới của ta!
+382|Ôi không!
+383|Né đi!
+384|Chết tiệt...
+385|Suýt nữa!
+386|Cảm ơn anh, Jinbe!
+387|Ngươi đáng gờm đấy, bộ xương, so với Lính Gác Cờ Vua của bọn ta...
+388|Đó là vì tôi là...
+389|Vua Linh Hồn!
+390|Kẻ địch cứ chui ra từ cái gương...
+391|Chúng đến từ cái gương trong phòng Nami và Robin. Họ có giận nếu ta làm vỡ không?
+392|Nếu phá được thì cứ phá. Sau này xin lỗi.
+393|Ngươi định xin lỗi ai? Lick.
+394|Các ngươi đã thấy tia sét lúc nãy đúng không?
+395|Không ai trong chúng trở về con tàu này.
+396|Ta đã nói là muốn nương tay với hai ngươi.
+397|Dù cố cách nào, lính của bọn ta vẫn sẽ liên tục chui ra từ gương.
+398|Và rồi các ngươi sẽ cạn sức.
+399|Nếu đầu hàng ngay bây giờ, ít nhất ta sẽ tha mạng...
+400|Bỏ cuộc đi.
+401|Cuộc nói chuyện thật ngu ngốc.
+402|Bọn tao chán phải đáp lại chuyện đó lắm rồi.
+403|Bọn tao chỉ muốn mày rời khỏi tàu bọn tao.
+404|Sunny là tàu của bọn tao!
+405|Các ngươi thật sự muốn đánh với ta sao?
+406|Ra vậy...
+407|Có vẻ các ngươi không coi trọng mạng sống...
+408|Được thôi.
+409|Ta sẽ tự tay giết các ngươi.
+410|Lick.
+411|Ồ! Đó là rìa khu rừng!
+412|Được rồi! Thẳng tiến tới đảo Cacao!
+413|Brook! Chopper!
+414|Đó là tàu của các anh sao?
+415|Ừ, đang bị tấn công.
+416|Chắc họ bị phục kích rồi...
+417|Ôi không! Các anh của em ở đó!
+418|Các anh đang tấn công bạn của Sanji-san...
+419|Hứ! Bạn các người tiêu rồi!
+420|Cho chừa! Hai đứa đó không địch nổi các anh tôi!
+421|Bạn các người sẽ bị biển nuốt chửng!
+422|Em nói gì vậy, Pudding?!
+423|Ôi không! Em không định nói thế!
+424|Anh muốn làm gì? Có nên xuống tàu không?
+425|Không, tôi sẽ đi cùng Pudding-chan.
+426|Gì cơ?
+427|Chắc không? Vậy bọn tôi cứ đi tiếp nhé!
+428|Ừ, không cần lo cho họ.
+429|Thay vào đó, bắt đầu thôi...
+430|làm cái bánh khiến Big Mom ngất xỉu!

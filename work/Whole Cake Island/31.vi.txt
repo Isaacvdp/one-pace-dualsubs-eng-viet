@@ -1,0 +1,304 @@
+1|Các thợ làm bánh!
+2|Thợ làm bánh
+3|Rõ, thưa ngài!
+4|Chúng tôi đến ngay!
+5|Katakuri-sama! Chiến thắng tuyệt vời quá!
+6|Tất nhiên rồi, ngài thắng là điều chắc chắn từ đầu!
+7|Nhưng chúng tôi lo không biết ngài có dùng được bữa ăn nhẹ hôm nay không!
+8|Chúng tôi đã chuẩn bị xong và chờ từ ba giờ!
+9|Chúng tôi biết ngài là người cầu toàn, muốn...
+10|dùng bữa merienda vào giờ cố định mỗi ngày, nên chúng tôi hiểu cảm giác của ngài!
+11|Có điều, trà của ngài...
+12|nguội mất rồi vì đã 40 phút...
+13|Trà đá cũng được.
+14|Ngài ấy thật rộng lượng!
+15|Dù sao thì chúng tôi rất tự hào về món ngọt hôm nay!
+16|Đây là bữa merienda hôm nay!
+17|Dành cho Katakuri-sama hoàn hảo...
+18|Chúng tôi làm từ nguyên liệu hoàn hảo!
+19|Dùng thật nhiều cacao Corioli thượng hạng nhất mà chúng tôi tìm được ở chợ đen...
+20|cùng sữa bò béo ngậy...
+21|có mức cortisol dưới chín...
+22|đã được tiệt trùng trên một Đảo Trên Trời...
+23|chúng tôi đã làm được bánh donut sô cô la ngọt ngào!
+24|Còn món này...
+25|chúng tôi đánh kem cao cấp mà Opera-sama đã tặng...
+26|Bộ trưởng Kem, vài ngày trước.
+27|Ta đã dùng nhiều Haki khi đánh với Mũ Rơm.
+28|Để xử lý đồng bọn đang bỏ chạy của hắn...
+29|ta cần hồi phục năng lượng.
+30|Đường là nguồn sức mạnh!
+31|Ta sẽ dùng.
+32|Ta vào đền đây.
+33|Rõ, thưa ngài!
+34|Đừng cho ai vào.
+35|Tất nhiên rồi! Sẽ không ai làm phiền ngài! Ngài cứ thong thả!
+36|Ngài ấy thật cảnh giác...
+37|Chưa ai từng thấy Katakuri-sama ăn...
+38|Một người thận trọng. Khi ăn người ta thường buông lỏng cảnh giác.
+39|Nhưng ngay cả giờ trà, lúc mọi người thư giãn bên nhau...
+40|ngài ấy vẫn nghiêm nghị tập trung tinh thần và tự nạp dinh dưỡng một mình.
+41|Quả là chiến binh có tiền truy nã hơn một tỷ, và là trụ cột của băng Big Mom...
+42|Đẳng cấp hoàn toàn khác với tên thuyền trưởng của băng hải tặc quèn đó...
+43|Hả?
+44|Sao vậy?
+45|Nó không có ở đó à?
+46|Gì cơ?
+47|Tay của Mũ Rơm...
+48|C-Cái gì vậy?!
+49|Chuyện gì đang xảy ra?!
+50|Mochi đang di chuyển!
+51|Ngươi tưởng ta mù à?!
+52|Sao nó lại di chuyển?!
+53|Tôi biết đâu được!
+54|Gì?! Mũ Rơm!
+55|Hắn chưa chết sao?!
+56|Làm sao hắn chui ra khỏi đống mochi đó được?!
+57|Tao ăn hết mochi rồi!
+58|Gì cơ?!
+59|Lũ hải tặc ở đây đánh nhau kiểu quái gì vậy?! Chẳng lẽ cứ ăn là thắng?!
+60|Chỉ có mình ngươi ăn được nhiều thế thôi!
+61|Này! Tên đó đâu rồi?!
+62|Katakuri-sama không có ở đây lúc này!
+63|Ngài ấy đã rời khỏi Thế giới Gương từ trước!
+64|Ngài ấy có việc quan trọng! Giờ chúng ta cũng đi thôi nhé?!
+65|Tạm biệt!
+66|Tao cảm nhận được tiếng nói của thứ gì đó mạnh trong đó.
+67|Chết tiệt! Haki Quan Sát sao?!
+68|Hắn đang ăn donut à?
+69|Hít, hít.
+70|Haki Quan Sát?
+71|Không, hắn chỉ có cái mũi thính thôi...
+72|Tên khốn đó! Nó nằm khểnh ra chỉ vì tưởng mình thắng rồi sao?!
+73|Đừng ngu ngốc! Kẻ ngu như ngươi không thể hiểu được Katakuri-sama!
+74|Ngài ấy đang trò chuyện với thần chiến tranh trong đền!
+75|Đây là thời khắc thiêng liêng. Không ai được phép... làm phiền...
+76|C-Cái gì thế...?
+77|Này, mày đi đâu vậy?!
+78|Rốt cuộc tên ngốc đó sợ rồi!
+79|Đúng như dự đoán từ thuyền trưởng của băng hải tặc yếu kém!
+80|Hắn chỉ giỏi chạy trốn!
+81|Hắn quay lại sao?!
+82|Tại sao?!
+83|Tao lại gầy rồi!
+84|Hả?! Cơ thể con người lại hoạt động như thế sao?!
+85|Được rồi! Tao sẵn sàng rồi! Tới đây!
+86|Dừng lại!
+87|Đi đi, đi đi!
+88|Mày không được lại gần đó!
+89|Rubber-Rubber...
+90|Elephant Gun!
+91|Katakuri-sama! Chúng tôi thành thật xin lỗi!
+92|Ahh, donut!
+93|Ngon quá... donut!
+94|Ngon đến tận xương, donut!
+95|Ở một mình, ta ăn donut! Nằm ngửa, ta ăn donut!
+96|Thú vui bị cấm, cảm giác tội lỗi và...
+97|Donut!
+98|Đây là khoảng thời gian hạnh phúc.
+99|Donut, donut... Ôi, donut!
+100|Ngon tuyệt, donut!
+101|Anh Katakuri là siêu nhân!
+102|Anh ấy chưa từng nằm xuống trong đời!
+103|Anh ấy là người khinh cả mặt đất!
+104|Anh ấy luôn đĩnh đạc...
+105|điềm tĩnh và mạnh mẽ!
+106|Anh ấy là con người hoàn hảo!
+107|Đó là anh Katakuri của chúng ta!
+108|Mày đã thấy ta ăn rồi!
+109|Trận đấu của chúng ta chưa kết thúc đâu!
+110|Gì?
+111|X-Xin tha mạng!
+112|Chúng tôi không thấy! Chúng tôi không thấy gì hết!
+113|Chúng tôi sẽ không nói với ai! Dù có bị xé toạc miệng!
+114|Ngươi nói miệng ai bị xé toạc?
+115|Square Mochi!
+116|Khôngggg!!
+117|Vậy là ngươi vẫn còn sống! Là lỗi của ta khi không tiễn ngươi chết đến cùng!
+118|Ta đã đến giới hạn kiên nhẫn rồi!
+119|Á!
+120|Tao cũng hơn mày về Haki Vũ Trang!
+121|Đừng tưởng có thể chống lại ta!
+122|Ngươi chỉ là con giun với ta thôi!
+123|Ta không thể để kẻ nào đã thấy bộ dạng thật của ta...
+124|sống sót!
+125|Chết tiệt!
+126|Hắn không né... và cú đá của tao trúng rồi!
+127|Tại sao?
+128|Thì sao nếu ta bị đá?!
+129|Ta gạt nó đi dễ dàng!
+130|Hắn không tấn công lại ngay!
+131|Tao hiểu rồi...
+132|năng lực của mày.
+133|Hả? Ngươi hiểu gì?!
+134|Ta đã nói mấy lần rồi! Năng lực của ngươi không thắng được năng lực của ta!
+135|Tới đây!
+136|Lần này tao sẽ khiến mày chết hẳn!
+137|Gear Fourth!
+138|Rainfall Mochi!
+139|Boundman!
+140|Ngươi mạnh nhưng không phải bất khả chiến bại!
+141|Đồ khốn!!
+142|Bị nghiền nát đi!
+143|Rubber-Rubber...
+144|Kong Gun!
+145|Tao tưởng mày bất khả chiến bại!
+146|Vì Haki Vũ Trang là sức mạnh biến mọi thứ thành hữu hình...
+147|Và vì nó có tác dụng cả với Logia...
+148|nên tao thấy lạ khi đòn của tao cứ xuyên qua người mày!
+149|Nhưng tao đã sai!
+150|Mày cũng có thể bị...
+151|đánh trúng!
+152|Và dù đối đầu với lớp phòng thủ Vũ Trang cực cứng của mày...
+153|Gear Fourth... sẽ không thua!
+154|Rubber-Rubber...
+155|Culverin!
+156|Năng lực mochi của mày không phải thứ đáng gờm!
+157|Mà là Haki Quan Sát của mày, đúng không?!
+158|Rubber-Rubber...
+159|Rhino Schneider!
+160|Anh Katakuri...
+161|là siêu nhân mà lưng chưa từng chạm đất một lần kể từ khi sinh ra!
+162|Rubber-Rubber...
+163|Kong Organ!
+164|Ngươi nhận ra rồi...
+165|Ta rất nể phục.
+166|Ngươi nói đúng. Ta biến hình để né đòn của ngươi một cách hiệu quả.
+167|Tất cả là nhờ năng lực nhìn thấy tương lai bằng Haki của ta.
+168|Vì ta hơi bối rối...
+169|nên ta đã cho ngươi cơ hội đánh trúng ta.
+170|Haki Quan Sát không dùng được nếu không bình tĩnh.
+171|Đã bao nhiêu năm rồi ta mới bị đấm?
+172|Ta bắt đầu hiểu em trai Cracker của ta...
+173|đã bị ngươi đánh bại thế nào.
+174|Là tên bánh quy đó sao?!
+175|Peerless Donuts!
+176|Lần này không phải mochi à?! Đồ khốn!
+177|Rhino...
+178|Power Mochi!
+179|Ta sẽ không để lộ sơ hở lần thứ hai...
+180|Chắc là lại quay về điểm xuất phát rồi.
+181|Đảo Cacao
+182|Tôi xin các người! Làm ơn mở cửa!
+183|Nhà máy Kẹo
+184|Chúng tôi không thể, Pound-san! Xin hãy bỏ cuộc và lùi lại.
+185|Tại sao không?
+186|Pudding-sama đã nói rất rõ về chuyện này.
+187|Tôi chỉ muốn nhìn thoáng qua Chiffon!
+188|Ông ta là ai vậy?
+189|Tôi nghĩ ông ấy là chồng thứ 25 của Mama.
+190|À...
+191|Tôi nhận ra cô ấy ngay!
+192|Chiffon không hề thay đổi từ ngày được sinh ra!
+193|Vẫn đáng yêu như mọi khi!
+194|Tôi chỉ muốn gặp con bé và nói vài lời thôi!
+195|Này! Này!
+196|Ngoài kia có hơi ồn không?
+197|Có gã nào đó đang la hét nhỉ? Nhưng đừng lo. Không ai vào đây được!
+198|Có chuyện gì vậy, Pudding?
+199|Không có gì. Chị Brûlée, em đang nghe.
+200|Vậy, lúc 1 giờ sáng nay,
+201|tàu của băng Mũ Rơm, mà chúng ta đã mất dấu, sẽ xuất hiện ở Đảo Cacao!
+202|Ở đây ư?! Lúc 1 giờ sáng?
+203|Kế hoạch là gặp Nami-san và mọi người trên biển...
+204|rồi giao bánh cưới...
+205|Sao tàu của băng Mũ Rơm lại đến Đảo Cacao?
+206|Vì đó là nơi họ hội ngộ với thuyền trưởng bị lạc, Mũ Rơm Luffy.
+207|Tôi hiểu rồi... Nhưng thế này không ổn. Big Mom và các con của bà đã biết kế hoạch của chúng ta.
+208|Tuy nhiên...
+209|Mũ Rơm Luffy sẽ không bao giờ đến được Đảo Cacao!
+210|Ý chị là sao?
+211|Hắn liều lĩnh thách đấu tay đôi với anh Katakuri!
+212|Nên hắn chắc chắn sẽ bại... đáng đời hắn!
+213|Một, hai!
+214|Bây giờ là 4 giờ chiều rồi nhỉ?
+215|Nghĩa là chín tiếng nữa,
+216|băng Mũ Rơm sẽ đến Đảo Cacao và chờ thuyền trưởng, người sẽ không bao giờ xuất hiện.
+217|Còn Mama, với cơn Đói Cồn Cào, sẽ dẫn bà và anh Peros quay về Đảo Cacao!
+218|Mọi người sẽ tập trung đông đủ!
+219|Trong tình huống đó chúng ta không thể thất bại!
+220|Em lo cho Mama nhé, Pudding!
+221|Em là hy vọng duy nhất của chúng ta!
+222|Chị cứ tin em, chị Brûlée!
+223|Em sẽ chặn Mama lại bằng chiếc bánh cưới tuyệt nhất từ trước đến nay!
+224|Chị mong chờ đấy.
+225|À, nhân tiện,
+226|dù băng Mũ Rơm có đến đó sớm hơn, cũng đừng lo.
+227|Cứ giao họ cho quân của anh Oven vừa mới tới đó!
+228|Gì?! Anh Oven ở đây sao?!
+229|Là Oven-sama!
+230|Oven-sama!
+231|Charlotte Oven - Con trai thứ 4 nhà Charlotte, Bộ trưởng Đồ Nướng Cháy
+232|Ý các người là sao khi nói tôi không được vào nhà máy?!
+233|Đó là lệnh của Pudding-sama...
+234|Ngay cả tôi cũng không sao?!
+235|Đúng vậy, không một ai.
+236|Chà, nếu em gái tôi muốn vậy thì tôi chấp nhận.
+237|Mà, sao trước nhà máy ồn ào vậy?!
+238|Gì? À, đó là vì...
+239|Này! Chiffon!
+240|Gã đó...
+241|D-Đừng làm đau tôi nữa!
+242|Câm miệng, đồ khả nghi!
+243|C-Cháu không nhớ ta sao, Oven-kun?!
+244|Tôi nhớ ông, cha dượng cũ của tôi.
+245|T-Ta mừng vì cháu còn nhớ.
+246|Ông từng là cha dượng của tôi.
+247|Vì thế tôi phải loại bỏ ông.
+248|Gì?
+249|Không biết ai đang làm ồn ngoài kia...
+250|Anh thấy phiền à?
+251|Sanji-san! Anh đang nghe sao?
+252|Ừ.
+253|Luffy-kun đang gặp nguy!
+254|Phải.
+255|Tôi không tin cậu ấy đang đấu tay đôi với anh Katakuri.
+256|Quá liều lĩnh!
+257|Chắc vậy.
+258|Anh Katakuri là siêu nhân! Tiền truy nã hơn một tỷ!
+259|Chưa bao giờ bại trận! Chúng ta phải làm sao đây?!
+260|Vậy thì hôm nay...
+261|anh ta sẽ thua lần đầu tiên.
+262|Việc chúng ta phải làm bây giờ là...
+263|...làm chiếc bánh tuyệt nhất từ trước đến nay, đúng không?
+264|Thằng bạn ngốc của anh...
+265|sẽ bị anh Katakuri nghiền nát hoàn toàn!
+266|Sanji!
+267|Pudding-chan.
+268|Không sao. Làm bánh thôi.
+269|Đây là dự án chung đầu tiên của chúng ta nhỉ?
+270|...san!
+271|Oa! Pudding-sama đang bốc hơi!
+272|Có ai nướng cô ấy à?!
+273|Không thể nào!
+274|Pudding-sama!
+275|Trên Biển - Sunny
+276|Không ai đuổi theo chúng ta!
+277|Lạ thật. Ở vùng biển này... không thể nào không có kẻ truy đuổi!
+278|Cậu nghĩ chuyện gì đang xảy ra?
+279|Chắc chắn là bẫy!
+280|Đừng lo! Chúng ta sẽ không lơ là dù chỉ một khoảnh khắc!
+281|Nhân tiện, không biết Aladine và mọi người có ổn không...
+282|Mong là họ đã trốn thoát an toàn...
+283|Gì cơ?!
+284|Mama đang phá hủy Đảo Nuts?! Anh nói vậy là sao, anh Peros?!
+285|Thì, ý anh là...!
+286|Mont d'Or-sama! Có chuyện rồi!
+287|Lần này là gì nữa?! Chúng ta đã đủ chuyện rồi!
+288|Nhìn xuống biển... chúng tôi phát hiện một sự thật kinh khủng...
+289|Chuyện là...
+290|Gì cơ?!
+291|Cock-a?!
+292|Tất cả Ốc Sên Lãnh Hải biến mất rồi sao?!
+293|Tại sao?!
+294|Chúng chết hết rồi à?!
+295|Không còn một con nào sao?!
+296|Tôi không biết...
+297|Có hàng chục nghìn con! Sao có thể biến mất đột ngột vậy?!
+298|C-Có lẽ chúng bị bắt cóc?
+299|Bởi ai, đồ ngốc?!
+300|Thế thì tàu địch có thể đi đâu tùy thích!
+301|Làm gì đi chứ!
+302|L-Làm gì ạ...?
+303|Tìm hiểu tại sao chúng biến mất! Nhanh lên!
+304|V-Vâng, thưa ngài!

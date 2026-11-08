@@ -1,0 +1,392 @@
+1|Nhân tiện, cậu từng đọc WEN chưa?
+2|WEN đó, biết chứ? Báo Kinh tế Thế giới?
+3|Cậu biết mà, đúng không?
+4|Có một truyện tranh trên WEN đó!
+5|Có một con robot khổng lồ như trong mơ! Sora, Chiến binh Biển cả!
+6|Tôi đọc suốt luôn!
+7|Sora, người hùng đi được trên mặt nước,
+8|cùng một robot biến hình và một con hải âu,
+9|chiến đấu với đạo quân ác Germa 66. Là câu chuyện về người hùng biển cả!
+10|Có fan khắp thế giới!
+11|Nghe nói dựa trên chuyện có thật về các anh hùng Hải Quân.
+12|"Hải Quân"
+13|Tức là một loại tài liệu giáo dục để tẩy não trẻ con!
+14|Dạy chúng rằng "Hải Quân luôn đúng và mạnh"!
+15|Nhưng đó không phải điều tôi thích ở nó!
+16|Là Germa! Germa 66!
+17|Đạo quân ác của họ luôn dồn Sora vào đường cùng bằng mọi cách!
+18|Họ là những kẻ ác mà anh hùng!
+19|Ừ, họ bị đánh bại vì cốt truyện mỗi lần,
+20|nhưng tôi luôn cổ vũ họ bằng sự nhiệt thành đến siết chặt nắm tay!
+21|Tôi đã cổ vũ các cậu đó!
+22|Đừng tính tôi vào! Tôi chẳng liên quan gì đến họ!
+23|Đừng nói vậy! Thật ra tôi vui khi được gặp các cậu ngoài đời!
+24|Sao anh không nói với họ đi?
+25|Này, mở ra!
+26|Nghe này...
+27|Đừng đi theo tôi nữa! Tôi tưởng đây là phòng của tôi!
+28|Căn phòng này cũng của tôi! Cho tôi ra! Khốn kiếp!
+29|Sao các người đối xử tệ với tôi thế?! Tôi là nhà khoa học thiên tài!
+30|Ông vẫn chưa bỏ cuộc à?!
+31|Bọn tôi chỉ được bảo bắt ông thôi, Caesar!
+32|Còn cậu ấy là chú rể quý giá sẽ
+33|kết nối gia tộc Vinsmoke với chúng ta, gia tộc Charlotte!
+34|Hai người giá trị khác nhau.
+35|Tôi không cưới đâu. Ra ngoài đi.
+36|"Ra ngoài"?!
+37|Hắn lại ăn nói thô lỗ với Vito!
+38|Tôi không chịu nổi! Xin lỗi anh ấy đi!
+39|Gotti! Whoa, khoan! Khoan!
+40|Cậu ấy đâu có thô lỗ với tôi đến thế!
+41|Tôi không sao. Cảm ơn. Bọn tôi chỉ đùa thôi.
+42|Tôi thì không.
+43|Gotti. Tôi muốn cả cậu lẫn Vito ra ngoài!
+44|Ồ, lại nói nữa rồi! Mày chết chắc!
+45|Không, Gotti!
+46|Muốn nói gì thì nói!
+47|Nhưng tôi không dung thứ ai xúc phạm bạn bè tôi!
+48|Tôi bảo "Khoan" mà! Xin đừng làm thế!
+49|Cậu không cần dung thứ tôi.
+50|Tôi cũng đâu muốn làm bạn với cậu.
+51|Đồ chó...
+52|Gotti!
+53|Mấy người làm gì vậy?!
+54|Thưa bà!
+55|Mày có biết hắn là con trai Vinsmoke không?!
+56|Nếu mày chạm một ngón tay vào hắn,
+57|đầu cha sẽ lìa khỏi cổ! Mày không hiểu sao?! Hả?!
+58|Muốn tao chặt đầu mày trước không, đồ ngốc?!
+59|Á! Con xin lỗi! Thưa bà! Con xin lỗi!
+60|Này, mày...
+61|Ui, ui, ui!
+62|Con xin lỗi! Thưa bà! Con xin lỗi!
+63|Phạt hôm nay không có cơm!
+64|Không, xin bà!
+65|Xin lỗi đã làm phiền. Để lúc khác tôi nghe về Germa vậy...
+66|Không.
+67|À...
+68|Cô ấy giống bà ấy...
+69|Tôi chịu không nổi nữa... tôi sắp chết...
+70|Nóng quá... tôi sắp chết...
+71|Tôi không chịu nổi nóng... ước gì cởi được lớp lông này...
+72|Bọn tôi cũng như cậu... Tộc Mink chúng tôi chịu nóng kém.
+73|Nóng thật. Tôi sắp thành xác ướp mất.
+74|Xác ướp...
+75|Xác ướp?
+76|Xác ướp! Nami-san, nếu tôi thành xác ướp,
+77|tôi sẽ sống động hơn chút, đúng không?
+78|Tôi không quan tâm!
+79|Vậy thì, cho tôi xem quần lót của cô được không?
+80|Tôi không còn sức mà đập anh nữa.
+81|Nami, tôi đói quá mà trời lại nóng...
+82|Tôi cần dinh dưỡng...
+83|Hết đồ ăn mà không câu cá được vì bão mấy ngày liền
+84|và cuối cùng trời cũng quang.
+85|Bằng cách nào đó câu cá đi trước khi thời tiết đổi!
+86|Cả bọn sẽ chết đói trước khi đến nơi!
+87|Đồ ăn...
+88|Bọn tôi cũng muốn lắm, nhưng Nami à...
+89|Nước sôi lên vì nóng quá!
+90|Gì cơ?!
+91|Vậy thì quanh đây sẽ không có cá.
+92|Phải làm sao đây?!
+93|Lương khẩn cấp...
+94|Đừng nhìn tôi!
+95|Luffy! Cá cắn câu rồi!
+96|Có cá! To lắm!
+97|– Kéo lên đi, Luffy! – Luffy-san, cố lên...
+98|Cậu làm được mà, Luffy!
+99|Đồ ăn...
+100|Đồ ăn!
+101|Cậu ấy làm được rồi!
+102|Luffy!
+103|To quá!
+104|Ăn thôi!
+105|Tôi làm được rồi!
+106|Màu của nó trông không đúng lắm.
+107|Ăn được không?
+108|Các cậu nói gì vậy?! Làm gì có cá nào không ăn được!
+109|Luffy! Đợi chút! Tôi đi kiểm tra nhanh!
+110|Gì thế?
+111|Cuốn bách khoa về cá đâu?!
+112|Kệ sách của Sanji toàn ảnh khỏa thân!
+113|Tìm thấy rồi!
+114|Được rồi.
+115|Không, không phải cuốn này.
+116|Đây rồi!
+117|Luffy! Coi chừng da nó! Da con cá đó cực độc!
+118|Nhìn này! Tôi tìm thấy ghi chú của Sanji!
+119|Da nó ngon lắm!
+120|Luffy! Khoan! Để tôi nướng cho cậu!
+121|Đây, thử đi, Carrot.
+122|Da nhớt quá...
+123|Luffy!
+124|– Chúng ta cũng ăn nhé? – Ừ!
+125|Ngon quá! Ngon quá đi, Nami!
+126|– Vâng, ngon đến phát khóc! – Sống thật hạnh phúc! Grr!
+127|Ngon quá!
+128|Tôi chỉ nấu đúng như ghi chú của Sanji-kun.
+129|Chopper, cậu cũng cần sức trước đã. Ăn đi.
+130|Luffy sắp... c-chết!
+131|L-Lạnh quá...
+132|Khóc cũng chẳng ích gì!
+133|Đây! Muốn chăm sóc Luffy thì cậu phải có sức, Chopper!
+134|Nào, ăn đi!
+135|Được!
+136|Nhưng dù muốn chữa cho cậu ấy, chúng ta thiếu thảo dược giải độc!
+137|Ngon!
+138|Phải tìm đảo thôi, Nami!
+139|Chúng ta thiếu thảo dược!
+140|Ngon!
+141|Đồ ăn...
+142|Nhưng tìm được đảo đâu dễ...
+143|Bách khoa của Sanji-kun nói nó cực độc
+144|và ăn da là chết ngay, đúng không?
+145|Ừ.
+146|Ngon!
+147|Nhưng cậu ấy vẫn sống! Chẳng phải cậu ấy có kháng thể mạnh sao?
+148|Cậu ấy có sức sống thuộc hàng nhất nhân loại!
+149|Nhưng cậu ấy đang rất nguy kịch!
+150|Ngon!
+151|Luffy, cậu ổn không?
+152|Dòng sông... đẹp quá...
+153|Cậu ấy đang thấy sông Styx!
+154|Sắp đến lãnh thổ Mama rồi.
+155|Quanh Whole Cake Island có vài hòn đảo.
+156|Tôi đoán Chân Đen và mọi người đã đi qua mấy đảo đó
+157|và đến Whole Cake Island rồi.
+158|Đừng lơ là cảnh giác, mọi người...
+159|Tôi sẽ canh gác!
+160|Tôi định ghé hòn đảo đầu tiên. Lấy thuốc giải ở đó.
+161|Được.
+162|Gì? Lần này là tuyết sao?
+163|Đẹp quá!
+164|Không phải tuyết! Là những đám mây đường sao?!
+165|Đúng vậy. Và thứ đang rơi là bão kẹo bông.
+166|Gì?! Kẹo bông?!
+167|Tuyệt! Tuyệt!
+168|Ngọt...
+169|Ồ? Ai đó?
+170|Ốc sên truyền tin của cậu đang nhận tín hiệu cảnh báo.
+171|Nghĩa là chắc chắn chúng ta đang ở lãnh thổ Big Mom.
+172|Kẹo bông!
+173|Mọi người! Trốn hoặc cải trang đi!
+174|Ngọt quá!
+175|Các cậu có nghe không?!
+176|Tôi thấy gì đó, Pekoms!
+177|Là một con tàu! Có tàu đang tiến về phía chúng ta!
+178|Gì?! Chúng đến rồi sao?!
+179|Ý cậu là sao?!
+180|– Chắc là một tarte, tàu do thám của bọn tôi. – Gì?!
+181|– Tôi không thấy rõ vì sương mù. – Làm sao đây?
+182|– Tôi sẽ lo liệu, nên các cậu đi trốn đi! – Rõ!
+183|– Ôi không! Luffy trông rất yếu! – Gì?!
+184|Chắc độc đã lan sâu hơn trong người cậu ấy!
+185|Nguy hiểm quá! Phải chữa ngay!
+186|Trên tàu do thám đó không có thuốc giải sao?!
+187|– Tôi sẽ hỏi họ giúp cậu! Mau trốn đi! – Được!
+188|Chopper-san, nhanh lên!
+189|Gì?!
+190|Luffy...
+191|Đó là ốc sên truyền tin à?
+192|To quá!
+193|Có một con số.
+194|Sáu mươi sáu?
+195|Đây là Germa. Đó có phải tàu của băng Mũ Rơm không?
+196|Đó là tàu của Germa 66!
+197|Germa 66... Tổ chức do cha của Sanji-kun đứng đầu...
+198|Sao các ngươi ở đây, băng Mũ Rơm?!
+199|Sắp đâm nhau rồi! Mọi người, cuộn buồm lại!
+200|Luffy, tôi sẽ quay lại.
+201|Chúng ta tránh được va chạm rồi...
+202|Sanji!
+203|Sanji!
+204|Ồ, hàng lông mày xoắn đó! Là Sanji-san!
+205|Gì? Sanji? Là Sanji sao?!
+206|Sanji!
+207|Sanji-kun!
+208|Tuyệt! Không ngờ gặp cậu sớm vậy!
+209|May quá...
+210|Này, Sanji! Có chuyện rồi! Luffy ăn cá bị trúng độc và sắp chết!
+211|Trên tàu đó có thuốc giải không?!
+212|Sanji!
+213|Đừng gọi tao là "Sanji" nữa!
+214|Các ngươi nhầm người rồi!
+215|Thì, tất nhiên tao giống hắn.
+216|Tên tao là Yonji!
+217|Yonji?!
+218|Không phải "San(ba)-ji" mà là "Yon(bốn)-ji"?!
+219|Giống hắn, lông mày xoắn mà không phải hắn?!
+220|Quan hệ của tao với Sanji bạn các ngươi là bí mật của bí mật.
+221|Tuyệt đối tuyệt mật!
+222|Chắc chắn là em trai hắn rồi...
+223|Vậy là anh ấy cũng có em trai...
+224|Gì?! Sao cậu biết đó là em trai anh ấy?!
+225|Dễ thương! Dễ thương quá...
+226|Anh thật sự không phải Sanji sao?!
+227|Thưa điện hạ.
+228|Tôi không nghĩ họ chở Hoàng tử Sanji trên tàu đó.
+229|Vậy là chúng ta lỡ nhau rồi.
+230|Đúng. Quay về thôi. Chuyến đi công cốc.
+231|Khoan, Sanji!
+232|Tao là Yonji!
+233|Ôi, Luffy...
+234|Phát ban khắp người cậu ấy!
+235|Cậu ấy đang mất sức đề kháng!
+236|Độc này nặng quá! Luffy có kháng thể mạnh, nhưng mà...
+237|Luffy, cố lên!
+238|Này, chỉ là độc cá thôi! Tôi tưởng cậu sẽ làm Vua Hải Tặc!
+239|Luffy! Đừng chết!
+240|Luffy-san!
+241|Này, xin anh! Chắc các anh có thuốc giải!
+242|Bọn tôi dùng hết rồi, nhưng cậu ấy vẫn cần thêm!
+243|Này!
+244|Nếu anh là em trai Sanji-san, xin hãy cứu Luffy-san!
+245|Xin lỗi. Tao không có hứng cứu người.
+246|Hay các ngươi muốn thử cướp thuốc của bọn tao?
+247|Như hải tặc?
+248|Đồ khốn!
+249|Hoàn toàn khác Sanji-kun! Dù anh ta cũng mê gái!
+250|Anh ta chẳng tử tế chút nào!
+251|Chỉ cần nói một tiếng là tôi giết hắn!
+252|Yonji.
+253|Đừng keo kiệt nữa!
+254|Thưa điện hạ!
+255|Chuyện gì vậy?!
+256|Luffy!
+257|Ồ, tiểu thư Reiju!
+258|Luffy!
+259|Luffy!
+260|– Luffy-san! – Không!
+261|Có kẻ xâm nhập!
+262|Cô là ai?!
+263|Xin chào. Tôi xin lỗi.
+264|Em trai tôi là một tên máu lạnh khốn nạn.
+265|Em trai?
+266|Cô là chị của anh ta à?
+267|Lông mày cô ấy cũng xoắn!
+268|Đẹp quá!
+269|Reiju!
+270|Anh ta đang bay sao?!
+271|Con khốn! Sao dám làm nhục tao?!
+272|Im đi! Em nên thấy xấu hổ!
+273|Gì? Anh ta đang lơ lửng trên không sao?
+274|Là khoa học!
+275|Cái gì?!
+276|Germa 66 là nhóm chiến binh tự rèn luyện bằng khoa học.
+277|Có thể nói họ là đội chiến đấu khoa học.
+278|Và Mama...
+279|muốn có công nghệ đó!
+280|Pekoms-san, nếu tôi nhớ đúng, Vinsmoke là...
+281|tên của một hoàng tộc, phải không?
+282|Nếu tôi nhớ đúng, đó là gia tộc
+283|đã dùng vũ lực chinh phục North Blue từ xưa!
+284|Ý ông "hoàng tộc" là như Vivi và Neptune sao?!
+285|Gì? Họ là gia tộc danh tiếng đến vậy sao?
+286|Đúng thế. Họ là đồng nghĩa với "cái ác" ở một thời đại xưa.
+287|Vì vậy họ được dùng làm hình mẫu cho truyện tranh.
+288|Ông Bộ Xương, ông biết nhiều về lịch sử quá.
+289|Tôi sống lâu rồi...
+290|Mà giờ tôi chết rồi.
+291|Nhưng đó không chỉ là chuyện quá khứ. Chúng tôi vẫn là hoàng tộc.
+292|Germa là quốc gia không có đất.
+293|Chúng tôi không có lãnh thổ để cai trị, nhưng được quyền dự Reverie.
+294|Ồ, xin thứ lỗi.
+295|Nếu vậy, cho tôi xem quần lót của cô được không?
+296|Dừng lại!
+297|Được rồi, giờ cho tôi nhé?
+298|Có vẻ cậu ấy ăn cá đá giáp ở Biển Sôi, đúng không?
+299|Gì? Sao cô biết?
+300|Cách độc này phát tác rất đặc biệt.
+301|Chắc cậu ấy tham ăn. Nó có thể giết một người khổng lồ ngay lập tức.
+302|Gì?! Ôi không! Vậy thì không cách nào cứu Luffy...
+303|Tôi không nên làm bác sĩ tàu nữa!
+304|Nhưng cậu bé này may mắn.
+305|Vì độc này là...
+306|một trong những thứ tôi thích nhất!
+307|C-Cô định làm gì?
+308|Nào, để tôi nhận!
+309|Gì?! Whoa! Whoa! Whoa! Hút độc như thế là cô sẽ chết đó!
+310|Ôi! Ghen tị quá! Chụt!
+311|Ước gì tôi đổi chỗ được với cậu ấy! Dù môi tôi...
+312|mất rồi!
+313|Vết ban đang chuyển sang người cô ấy!
+314|Gì?!
+315|Vết ban trên người Luffy hết sạch rồi!
+316|Cô hút hết rồi sao?! Cô có sao không?!
+317|Vâng, tất nhiên. Tôi là Poison Pink.
+318|Poison...
+319|...Pink?
+320|Ngon lắm!
+321|Gì?! Chuyện gì xảy ra vậy?!
+322|Luffy! Luffy!
+323|– Nhẹ cả người! – Cậu ổn chứ?!
+324|Nhẹ nhõm quá!
+325|Luffy!
+326|Ồ? Tôi ngủ quên lúc ăn cá à?
+327|Da ngon lắm! Còn không?
+328|– Không! Cậu không nhớ sao?! – Không.
+329|Sanji!
+330|Là phụ nữ!
+331|Ờ phải. Ai đây?
+332|Luffy-san, chị ấy đã cứu mạng cậu!
+333|Gì? Cảm ơn chị vì... chuyện gì nhỉ?
+334|Vậy đó là Mũ Rơm Luffy...
+335|Ồ! Chị là chị của Sanji!
+336|Vâng.
+337|Sanji là một thành viên của gia tộc Vinsmoke chúng tôi.
+338|Cha chúng tôi chia tay Sanji khi cậu ấy còn bé
+339|và vẫn luôn tìm cậu ấy.
+340|Khi lệnh truy nã Sanji được lưu hành hai năm trước,
+341|cha chúng tôi lập tức nhờ Tổng bộ Hải Quân truy lùng cậu ấy.
+342|Nhưng họ bắt nhầm người, một kẻ tên Duval.
+343|Duval!
+344|Là gã thuộc Đội Cưỡi Cá Chuồn mà chúng ta gặp trước Sabaody...
+345|À, tôi nhớ rồi! Sanji-san cũng từng giận chuyện đó.
+346|Mới gần đây chính phủ gọi cho chúng tôi nói rằng
+347|họ cuối cùng cũng chụp được hình Chân Đen Sanji giữa cơn hỗn loạn
+348|do sự trở lại của băng Mũ Rơm gây ra.
+349|Cha chúng tôi lập tức tăng tiền truy nã
+350|và bắt họ đổi "SỐNG HOẶC CHẾT"...
+351|... thành "CHỈ BẮT SỐNG".
+352|Vì vậy chỉ riêng lệnh truy nã của Sanji-kun bị đổi chút ít.
+353|Giờ Sanji ở đâu?
+354|Tôi không biết.
+355|Có thể cậu ấy ở với Big Mom hoặc với cha chúng tôi.
+356|Bọn tôi đến chào đón cậu ấy, nhưng chắc là lỡ nhau rồi.
+357|Thôi, nếu cậu ấy dự được tiệc trà thì thế là đủ.
+358|Và tôi cũng được gặp các cậu.
+359|Cảm ơn các cậu đã chăm sóc em trai tôi bấy lâu nay.
+360|Chị gái của Sanji!
+361|Cảm ơn chị đã cứu mạng tôi.
+362|Nhưng...
+363|Tôi vẫn muốn Sanji về! Cậu ấy là bạn tôi!
+364|Tôi sẽ giành lại Sanji bằng mọi giá!
+365|Thấy chưa? Cô ta cứu mạng kẻ thù của chúng ta.
+366|Này, ngươi! Ngươi là Pekoms của băng Big Mom, đúng không?
+367|Sao ngươi ở cùng băng Mũ Rơm?
+368|Tao có lý do riêng! Sao tao phải giải thích với bọn mày?!
+369|Giữa bọn tao chưa có tình nghĩa gì!
+370|Đúng vậy!
+371|Tôi sẽ giả như chưa thấy gì, tạm thời.
+372|Ừ, bọn tôi không muốn gây rắc rối làm hỏng hôn sự của em trai.
+373|Tốt nhất tất cả cùng cẩn thận.
+374|Thế là khôn ngoan!
+375|Nhổ neo! Quay về thôi.
+376|Thôi, chúc may mắn.
+377|Có vẻ họ không đánh nhau với Germa.
+378|Vâng, chắc chắn đó là tàu của họ. Mũ Rơm Luffy cũng ở trên đó.
+379|Ông muốn làm gì...
+380|Jinbe?
+381|Gotti "Sát thủ" Băng Hải tặc Xe Tăng Lửa
+382|Gotti "Sát thủ" Băng Hải tặc Xe Tăng Lửa
+383|Vài ngày sau...
+384|Vài ngày sau...
+385|Trên tàu Thousand Sunny
+386|Trên tàu Thousand Sunny
+387|Ốc Sên Biển Lãnh Thổ
+388|Ốc Sên Biển Lãnh Thổ
+389|Vinsmoke "Winch Green" Yonji Germa 66
+390|Vinsmoke "Winch Green" Yonji Germa 66
+391|Vinsmoke "Poison Pink" Reiju Germa 66
+392|Vinsmoke "Poison Pink" Reiju Germa 66

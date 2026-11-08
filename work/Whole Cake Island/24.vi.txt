@@ -1,0 +1,298 @@
+1|Quân đồng minh! Tạm thời vào lâu đài trú ẩn đã!
+2|Được, nhanh lên!
+3|Ừ, tôi cũng muốn vào!
+4|Băng Fire Tank! Yểm trợ cho họ!
+5|– Rero! – Rõ!
+6|Chết tiệt!
+7|Bege! Tao tận mắt thấy rồi!
+8|Không ngờ mày âm mưu ám sát Mama!
+9|Kế hoạch của hắn là vậy ngay từ đầu sao?!
+10|Vào trong lâu đài mau, rero!
+11|Rook: Chuẩn bị pháo!
+12|Khai hỏa!
+13|Ngầu quá!
+14|Là robot! Robot lâu đài!
+15|Sao cậu còn hào hứng được lúc này vậy?!
+16|Cầm cự được bao lâu nữa?
+17|Màng nhĩ tôi sắp nát rồi, nen!
+18|Mochi?
+19|Đó là...
+20|Hộp Tamate?!
+21|Được rồi!
+22|C-Cái quái gì thế này?
+23|Ai dám động vào ta, Gastino-sama?!
+24|Anh trai!
+25|Hắn sắp giết em rồi!
+26|Anh trai! Cảm ơn anh!
+27|Đi thôi!
+28|Tao không cho mày đi đâu!
+29|Yểm trợ họ đi, rero! Nhanh lên, rero!
+30|Nami!
+31|Tao sẽ bóp chết mày!
+32|Nami-san!
+33|Nami!
+34|Bọn tao sẽ đấu với mày!
+35|Hắt-xì... ui.
+36|– Ui da, nóng quá!
+37|– Giờ thì mày không thoát được đâu!
+38|Chobro!
+39|Genieee!
+40|Đi nào! Germa 66!
+41|Lũ khốn phiền phức!
+42|Tất cả chết cháy đi!
+43|Đ-Đó là...?!
+44|Khoa học của Germa.
+45|Hóa ra Giáp Ký Ức của họ trông như vậy! Còn chống được lửa nữa!
+46|Tao sẽ lại trói chúng bằng kẹo!
+47|Sóng Kẹo!
+48|Lũ bọ chét đáng ghét!
+49|Các người to xác đấy, nhưng không có nghĩa là mạnh.
+50|Nami-san!
+51|Mọi người ổn chứ?!
+52|Tôi ổn!
+53|Sanji-kun!
+54|Thấy em không sao là anh mừng rồi, Nami-san!
+55|Cao Su Cao Su...
+56|Roi Phản Lực!
+57|Luffy!
+58|– Nhanh lên! – Lối này!
+59|Chúng ta cũng nên rút lui, rero!
+60|Chà chà, đây là Hộp Tamate, kho báu bí mật huyền thoại.
+61|Ở xa chỗ náo loạn thế này thì chẳng ai thấy ta! Ta thích cái hỗn loạn lúc này, nen!
+62|Nhân cơ hội này ta sẽ đổi thứ bên trong...
+63|Đây là cơ hội cuối cùng!
+64|Khai hỏa!
+65|Chết tiệt!
+66|Tường Kẹo!
+67|Perospero!
+68|Ôi, đau quá...
+69|Vậy là Germa cũng hợp tác với các người à?
+70|Hy vọng lũ khốn các ngươi đã sẵn sàng nhận lấy hậu quả.
+71|Các ngươi sẽ không cười được lâu đâu!
+72|Rook: Di chuyển!
+73|Chúng ta sẽ bắn vào lưng bà ta đến hết đạn!
+74|Xuống địa ngục đi, Big Mom!
+75|Pháo...
+76|Khai hỏa!
+77|Chuyện gì vừa xảy ra?!
+78|Cha, các khẩu pháo bên trái bị phá hết rồi!
+79|Còn lại thì bị mochi làm kẹt!
+80|Không bắn được nữa!
+81|K-Katakuri!
+82|Bên trong Big Father
+83|Tôi có tin xấu cho mọi người trong lâu đài...
+84|Tay chân Big Father bị kẹt dưới kẹo rồi!
+85|Chúng ta không thể cử động nữa!
+86|Chúng ta bị bao vây bởi băng hải tặc của Tứ Hoàng Big Mom.
+87|và giờ phải ẩn nấp trong lâu đài khi đang bị vây hãm!
+88|Không...
+89|Ai bước ra ngoài sẽ chết.
+90|Ra đây mau!
+91|Sao mày để chúng lợi dụng mình như vậy?
+92|E-Em mới là nạn nhân đây, anh trai!
+93|Nhanh tiêu diệt từng đứa một đi!
+94|Chất độc? Người phụ nữ đó phiền phức thật...
+95|Thấy ngươi rồi!
+96|Anh giỏi quá, Bege! Anh biến thành được cả lâu đài khổng lồ!
+97|Trái Lâu Đài ngầu thật!
+98|Giờ không phải lúc khen! Nghĩ đến tình cảnh của chúng ta đi!
+99|Chết tiệt...
+100|Chúng ta đã lên kế hoạch vụ ám sát này hơn một năm...
+101|vậy mà thất bại!
+102|Chúng ta chưa từng thất bại khi ám sát ai...
+103|Rốt cuộc Tứ Hoàng vẫn ở ngoài tầm với của ta...
+104|Giờ làm sao đây?
+105|Chúng ta không còn nhiều thời gian. Lý do là thế này.
+106|Nghe cho kỹ, các người!
+107|Ta chính là lâu đài này. Nó mạnh, nhưng không bất khả chiến bại.
+108|Nếu lâu đài bị phá, ta chết. Nghĩa là lâu đài biến mất...
+109|rồi tất cả các người sẽ bị quăng ra ngoài làm mồi cho lũ quái vật!
+110|Làm mồi?!
+111|Tao sẽ không tha cho chúng...
+112|Mama!
+113|Con cảm nhận được cơn giận của Mama...
+114|Ngoài kia là địa ngục, trong này cũng là địa ngục.
+115|Chúng ta nguy to rồi!
+116|Đừng đổ lỗi cho tôi, Bege! Mấy bệ phóng đó là hàng tối tân, đẳng cấp thế giới...
+117|– C-Cái gì vừa rồi? – Cha!
+118|Này, Bege! Anh sao thế?!
+119|Anh yêu, anh ổn chứ?!
+120|Chẳng lẽ...
+121|Nhìn ra ngoài!
+122|Gì cơ?
+123|Ngoài kia?
+124|Lũ khốn các ngươi!
+125|Ra đây!
+126|Bege!
+127|Mũ Rơm!
+128|Em sợ quá!
+129|Bà ta đang nhìn chúng ta!
+130|Big Mom tỉnh lại rồi!
+131|Tất cả ra khỏi lâu đài đi!
+132|Lộ mặt ra, lũ ngốc!
+133|Anh yêu!
+134|Cha!
+135|Vậy là ngươi phản bội ta?
+136|Bege!
+137|Anh yêu! Cố lên!
+138|Em sợ quá!
+139|Ra đây, Bege! Mũ Rơm!
+140|Bege!
+141|Giữ chặt Pez!
+142|Ra đây!
+143|Khoan!
+144|Mama! Là con đây! Bege là chồng con! Chúng con có con với nhau rồi!
+145|Xin hãy tha cho anh ấy và để chúng con đi!
+146|Chiffon!
+147|Con vẫn giống hệt Lola!
+148|Bà ta sắp tấn công!
+149|Coi chừng!
+150|Lùi lại, Chiffon!
+151|Madame!
+152|Mama! Xin mẹ!
+153|Ta đã bảo đừng đem cái bộ mặt đó đến đây!
+154|Suýt nữa thì...
+155|Cô ổn chứ?
+156|Madame!
+157|Con cũng dính vào âm mưu ám sát này sao, Chiffon?!
+158|Chắc chắn con sẽ không sống đến bữa ăn nhẹ ngày mai!
+159|Mama!
+160|Nếu bà ta phá lâu đài và Bege chết... thì tất cả sẽ xuất hiện ngay trước mặt chúng ta!
+161|Đừng để một tên nào thoát!
+162|Băng Fire Tank... băng Mũ Rơm...
+163|Cả Jinbe nữa! Và Germa 66!
+164|Chúng phá hỏng đám cưới và Tiệc Trà!
+165|Không ngờ chúng dám coi thường chúng ta.
+166|Phải vắt kiệt chúng và làm gương cho cả thế giới.
+167|Ra đây!
+168|Bege!
+169|Anh yêu!
+170|Anh ổn chứ?
+171|Chết tiệt, bà già đó!
+172|Big Father chịu được đạn pháo mà không xước...
+173|nhưng không chống nổi bà ta!
+174|Tôi phải ra đó đá đít bà ta!
+175|Không, Luffy!
+176|Chopper, giữ cậu ấy lại!
+177|Được!
+178|Cái gì?! Này! Thả tôi ra!
+179|Này, Chopper! Thả tôi ra!
+180|Luffy! Đừng nóng nảy!
+181|Chúng ta đến đây để đưa Sanji-kun về, nhớ không?!
+182|Chúng ta đã có bản sao Poneglyph cần thiết...
+183|còn giúp Sanji-kun cứu gia đình anh ấy nữa!
+184|Chúng ta hoàn thành nhiệm vụ rồi!
+185|Thay vì đánh nhau, cậu nên giúp bọn tôi nghĩ kế thoát thân!
+186|Nếu định đấu với bà ta thì đã đem theo Zoro và cả băng rồi! Đúng không?!
+187|Luffy-san, Nami-san nói đúng đấy.
+188|Chúng ta đi được tới đây là nhờ đi nhóm nhỏ như vậy.
+189|Hãy trốn thoát và hội ngộ với Zoro-san cùng mọi người ở đất nước Wano!
+190|Bege!
+191|Cha!
+192|Bege!
+193|Thấy chưa?! Bege đang...
+194|Vậy giờ phải làm sao?!
+195|Bege đang liều mạng vì chúng ta!
+196|Chết tiệt...
+197|Kế hoạch của tao tan nát hết rồi...
+198|Nên tao nhất quyết không ngồi nhìn chúng mày hưởng thành quả đâu!
+199|Khoan đã, Bege-san! Anh không thể kéo bọn tôi chết chung!
+200|Tôi đã làm xong phần việc của mình!
+201|Trả tim cho tôi ngay lập tức!
+202|Kéo chết chung...?
+203|Ý đó nghe cũng không tồi.
+204|Như tao nói từ đầu, tao không quan tâm chúng mày sống chết ra sao!
+205|Nhưng...
+206|thuộc hạ quý giá của tao...
+207|vợ yêu và con trai tao đều ở đây.
+208|Tao không thể để họ chết!
+209|Anh yêu!
+210|Cha!
+211|Bege!
+212|Chỉ có một cách...
+213|để mọi người đều sống sót!
+214|Chỉ một cách thôi?!
+215|Là gì vậy?!
+216|Ra đây!
+217|Ta sẽ phá nát nó!
+218|Nó không trụ được lâu nữa...
+219|Chuẩn bị tấn công bất cứ lúc nào...
+220|Ta có thể nghiền nát chúng bằng cái này!
+221|Hãy diệt sạch...
+222|từng đứa một!
+223|Ra mau đi! Rồi ta sẽ nhốt tất cả các ngươi vào chiều không gian gương của ta!
+224|Cách duy nhất để sống sót... là...
+225|Căn phòng bên trong Big Father này... thật ra nằm trong cơ thể tôi.
+226|Này!
+227|Đừng hoảng!
+228|Dù bị tấn công thế nào...
+229|Dù Big Father nghiêng hay đổ...
+230|chỉ mình tôi bị thương.
+231|Miễn là các người ở đây, các người sẽ không bị thương chút nào.
+232|– Nghĩ lại thì... – Chỉ có Bege-san đang chịu khổ.
+233|Chúng ta nghe được giọng Big Mom...
+234|Nhưng trong này vẫn yên tĩnh.
+235|Đúng vậy...
+236|Và điều đó không đổi dù tôi trở lại hình dạng người.
+237|Nghe đây... Tôi sẽ trở lại thành người trong khi các người vẫn ở bên trong!
+238|Rồi Caesar sẽ đón tôi và bay đưa chúng ta thoát thân!
+239|Nếu suôn sẻ, chúng ta sẽ thoát khỏi mớ hỗn độn này.
+240|Này! Sao mày dám đặt mạng tao vào nguy hiểm mà không hỏi tao một câu, đồ khốn!
+241|Đó là nhiệm vụ tự sát!
+242|Vừa ra là chúng bắn tụi mình thành tổ ong! Kế hoạch đó thành công không có lấy một phần trăm!
+243|Nhiều tên dùng Haki Vũ Trang lắm!
+244|Dù tao biến thành khí cũng không đỡ nổi!
+245|Cho tôi hỏi một câu.
+246|Sanji...
+247|Sao cậu lại cứu bọn tôi?
+248|Bọn tôi là kẻ thù đã sa ngay vào bẫy của chúng!
+249|Vì cha tôi sẽ buồn...
+250|nếu tôi vẫn còn đeo bám mối hận từ thời thơ ấu...
+251|Làm ơn cho con ra!
+252|Cha! Con xin lỗi!
+253|Con xin lỗi vì sinh ra đã yếu đuối!
+254|Cứu con với, cha!
+255|Ông ấy sẽ kinh ngạc khi thấy tôi hóa thành kẻ nhỏ nhen như vậy...
+256|khi tôi cười trừ trước cái chết của người ruột thịt.
+257|Đừng để bị cảm lạnh.
+258|Tôi không muốn sống một đời mà xấu hổ đến mức...
+259|không dám nhìn mặt ông ấy!
+260|Đừng bao giờ nhận ta là cha ngươi...
+261|dù chỉ với một người!
+262|Ta không muốn ai biết nỗi nhục của ta!
+263|Hiểu chưa?
+264|Mười ba năm trước,
+265|tôi trốn khỏi Germa, và Vinsmoke Sanji đã chết ngoài biển.
+266|Đó chính là điều ông muốn.
+267|Vậy hãy thừa nhận đi!
+268|Ông không phải cha tôi, Vinsmoke Judge!
+269|Đừng bao giờ xuất hiện trước mặt chúng tôi nữa!
+270|Ta hiểu rồi.
+271|Vậy ta hứa với con...
+272|ta sẽ không bao giờ lại gần con...
+273|hay East Blue nữa!
+274|Tôi đã làm phần việc của mình rồi!
+275|Cái này không có trong thỏa thuận!
+276|Nếu không làm, dù sao ngươi cũng chết thôi, Caesar!
+277|Mở cổng!
+278|Băng Bege! Cho đến khi Caesar Clown đưa các ngươi bay đến nơi an toàn...
+279|Germa sẽ canh gác cho các ngươi!
+280|K-Khoan đã!
+281|Ai cho các người quyền quyết định tôi phải làm gì?!
+282|Thái độ độc đoán của ông vẫn không đổi, Judge!
+283|À phải... Germa cũng bay được mà.
+284|Vậy thì... chúng tôi bỏ các người lại.
+285|Không thành vấn đề.
+286|Được rồi, nếu muốn câu giờ thì tôi sẽ...
+287|– Không cần đâu, Luffy. – Nhưng mà...
+288|Ta không cần sự giúp đỡ từ một kẻ thất bại!
+289|Đây là cách họ muốn chuộc lỗi.
+290|Khoan, khoan! Whoa-whoa!
+291|Tao có bảo sẽ giúp đâu, lũ ngốc!
+292|Caesar!
+293|Im đi và làm đi!
+294|Ui da!
+295|Các người sẽ trả giá!
+296|Ra đây mau!
+297|Bege!
+298|Germa! Bắt đầu tấn công!

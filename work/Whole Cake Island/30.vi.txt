@@ -1,0 +1,356 @@
+1|Kẹo, kẹo... nhầy nhụa!
+2|Xong đời là sao?! Bên đó có chuyện gì?!
+3|Này, mọi người!
+4|Nếu bị cuốn vào con sóng đó, chúng ta tiêu đời!
+5|Phải rồi! Chúng ta có Coup de Burst!
+6|Không dùng được! Không đủ cola!
+7|Pedro, xin lỗi! Anh đã hy sinh để cứu chúng tôi, nhưng...
+8|Mọi người, nghe đây!
+9|Bánh của ta!
+10|Khoan! Khoan, khoan đã!
+11|Khoan đã, Mama!
+12|Nếu làm vậy thì bánh cũng chìm xuống biển đấy!
+13|Mama!
+14|Nhanh lên!
+15|Được!
+16|C-Cái này được chưa, Jinbe-san?!
+17|Được, tốt rồi!
+18|Nhưng liều quá! Cậu định tự mình xử lý buồm của cả con tàu!
+19|Nami! Gió thế nào?!
+20|Gió mạnh đang thổi từ phía nam!
+21|Được rồi!
+22|Anh định làm gì, Jinbe?!
+23|Tôi sẽ đổi hướng tàu nhanh nhất có thể!
+24|Gì?!
+25|Anh đùa à?! Sao anh muốn quay tàu?!
+26|Chúng ta sẽ vào Green Room!
+27|Đây rồi! Đây rồi!
+28|Green Room?! Là gì vậy?!
+29|Sao chúng ta lại lao về phía con sóng, Jinbe?!
+30|Hiểu rồi! Green Room anh nói chắc là Thiên đường!
+31|Bác sĩ! Tôi sắp qua chỗ ông rồi!
+32|Hết rồi! Không thể nào! Chúng ta đâu có lướt sóng!
+33|Pedro!
+34|Bám chắc vào tàu!
+35|Ào!
+36|Sao vậy?! Chuyện gì xảy ra?!
+37|Này, nghe không?!
+38|Ai đó! Nói gì đi!
+39|Hả?
+40|Đây là Thiên đường sao? Đẹp quá...
+41|Đây là con tàu tốt!
+42|Green Room nằm trong những con sóng dâng. Đó là căn phòng sóng hình thành trong chốc lát.
+43|Từ trước đến nay nó luôn là sân chơi hoàn hảo của trẻ em Người Cá!
+44|Vậy chỗ này là...
+45|Bên trong con sóng?!
+46|Chúng ta sẽ lướt xuyên qua! Bám chắc!
+47|Chúng ta có con tàu tốt... và nữ hoa tiêu giỏi!
+48|Có người lái giỏi... con tàu này sẽ bất bại!
+49|Tuyệt vời! Anh ấy điều khiển thuyền buồm như một phần cơ thể mình!
+50|Tôi chưa từng thấy người lái nào như vậy!
+51|Anh tuyệt quá, Jinbe!
+52|Vậy chúng ta không chết sao?!
+53|Đám cưới...
+54|Thôi vậy... Lũ yếu đuối đáng đời!
+55|Liếm!
+56|Perospero đây.
+57|Này, Katakuri.
+58|Bọn anh xử lý hết chúng rồi!
+59|Gì?!
+60|Này, Nami! Brook! Carrot!
+61|Trời ơi!
+62|Bọn em vừa định xâm nhập tàu!
+63|Hủy kế hoạch, các em!
+64|Có vẻ con tàu đã chìm xuống biển rồi.
+65|Nhưng lạ lắm, chị ơi.
+66|Phía bên kia gương không có vẻ gì là ở dưới nước.
+67|Nhìn kìa!
+68|Không thể nào!
+69|Nhưng để chắc, bắn thêm một lần nữa.
+70|Ôi! Cái gương! Chị ơi, nó đột nhiên vỡ rồi!
+71|Gì? Gì? Chuyện gì vậy?!
+72|Nami-san! Sao cậu đập gương?!
+73|Luffy-san không thể quay lại tàu nếu không có nó!
+74|Để tớ tập trung vào tên này thôi!
+75|Đập hết đi! Mọi cái gương trên tàu!
+76|Nhưng...
+77|Cậu muốn cản đường Luffy sao?!
+78|Đây là lệnh của thuyền trưởng! Nhanh lên!
+79|Vẫn còn vài cái gương!
+80|Em tìm thấy một cái, Joscar!
+81|Em cũng thấy rồi, Mascar!
+82|Làm thôi, Joscar!
+83|Làm thôi, Mascar!
+84|Nhớ tìm hết các gương!
+85|Bắn!
+86|Gì?!
+87|Chuyện gì vậy?!
+88|Đây là cái cuối!
+89|Bọn chúng còn sống không?
+90|Anh Peros nói đã xử lý hết rồi...
+91|Chắc tàu chìm và gương bị áp lực nước làm vỡ, Joscar!
+92|Ừ, chắc vậy, Mascar!
+93|Có gì đó không ổn...
+94|Này, Luffy!
+95|Cậu ổn chứ?!
+96|Chopper!
+97|Tớ có chuyện muốn nói, nên tránh xa kẻ địch đi!
+98|Được!
+99|Mọi người ổn chứ?!
+100|Này! Mũ Rơm đang chạy trốn!
+101|Chuyện gì vậy?! Tên kẹo đó nói tàu Sunny đã chìm!
+102|Bọn tớ tưởng cũng sắp chìm! Nhưng Jinbe đã làm điều phi thường!
+103|Bọn tớ ổn cả, Luffy!
+104|Luffy-san! Bọn tôi đã đập hết gương trên tàu!
+105|Ra vậy! Làm tốt lắm!
+106|Như vậy kẻ địch không tới đây được, nhưng cậu cũng không về được!
+107|Ừ, không sao! Tớ sẽ tìm cách...
+108|Không đâu! Cậu còn chẳng có kế hoạch!
+109|Nghe kỹ đây, Luffy!
+110|Sanji-kun đang nướng bánh ở đảo Cacao ngay lúc này!
+111|Chỗ đó là nơi bọn tớ đang tới!
+112|Sớm nhất là 10 tiếng nữa sẽ tới!
+113|Khoảng 1 giờ sáng!
+114|Nên sau khi đánh bại tên đó...
+115|hãy tìm gương dẫn tới đảo Cacao! Bọn tớ gặp cậu ở đó!
+116|Chết tiệt! Không gỡ ra được!
+117|Có chuyện gì sao, Luffy?
+118|Nghe tôi không?
+119|Luffy!
+120|Ừ!
+121|Này! Tập trung đi!
+122|Có thể cậu ấy gặp nguy!
+123|Làm ơn trả lời đi!
+124|Luffy!
+125|Cậu ổn chứ, Luffy?!
+126|Luffy-san!
+127|Mochi Cây Liễu!
+128|Luffy?
+129|Cậu ổn chứ, Luffy-san?!
+130|Sao vậy, Luffy?!
+131|Nhanh đến đó nhé, mọi người!
+132|Chắc tớ sẽ tới đó sớm thôi... và sẽ chán vì chờ!
+133|Ừ!
+134|Hẹn gặp lại mọi người!
+135|Ừ!
+136|Bọn truy đuổi sắp tới rồi! Hãy canh chừng!
+137|Rõ!
+138|Lên đài quan sát đi, Carrot!
+139|Được, Chobro!
+140|Tiếp theo ngươi sẽ nói...
+141|"Tao không định chết ở nơi như thế này."
+142|Đó thật sự là lời cuối của ngươi sao?
+143|Tao không định chết ở nơi như thế này!
+144|Không ai chết vì muốn chết.
+145|Hầu hết mọi người...
+146|chết trái với ý muốn.
+147|Anh ấy nói đúng!
+148|Sao mày không chết đi cho rồi, Mũ Rơm?!
+149|Nhánh!
+150|Tên tao là Brûlée!
+151|Đừng tưởng chỉ bằng tinh thần mà thắng được anh ấy, nhóc!
+152|Anh Katakuri không chỉ là người chưa từng bại trận!
+153|Anh là siêu nhân chưa từng chạm lưng xuống đất từ khi sinh ra!
+154|Thôi đi, Brûlée!
+155|Truyền thuyết kể rằng: ngay khi được sinh ra, anh đã đứng dậy...
+156|và ngồi lên ghế để ngủ.
+157|Anh chưa từng nằm xuống trong đời! Anh là người khinh cả mặt đất!
+158|Anh luôn đĩnh đạc...
+159|điềm tĩnh và mạnh mẽ!
+160|Anh là con người hoàn hảo!
+161|Đó là anh Katakuri của chúng ta!
+162|Anh là kiệt tác lớn nhất của gia tộc Charlotte!
+163|Nên tên lính quèn như mày thách đấu anh ấy...
+164|thật là lố bịch!
+165|Im đi! Biến đi!
+166|Mày định làm gì... em gái tao?!
+167|Anh!
+168|Mochi Đâm!
+169|Ối...
+170|Suýt nữa!
+171|Tớ suýt bị nghiền nát!
+172|Cây giáo này tên là Mole!
+173|Tay ngươi... hay chân ngươi? Muốn bị chặt phần nào trước?
+174|Ta sẽ chặt giúp ngươi!
+175|Xin hãy bắt đầu từ cái đầu, anh ơi!
+176|Im đi, đồ ngốc!
+177|Cao Su...
+178|Súng Trường Khổng Lồ!
+179|Tao đã nghe hết!
+180|Mũ Rơm!
+181|Ta biết chỗ hẹn của các ngươi.
+182|Muốn chơi với sóng nữa không, Mama?
+183|Ngoài biển - Trong lãnh thổ
+184|Nào! Làm thôi!
+185|Mama, bà có nghe không?
+186|Gì?! Tàu của chúng chưa chìm sao?!
+187|Chị chắc chứ, Brûlée?!
+188|Chắc! Em nghe thấy giọng chúng!
+189|Nhưng quái vật kẹo của em đã nuốt chúng bằng sóng khổng lồ!
+190|Sao chúng thoát được?!
+191|Em không biết chúng làm thế nào!
+192|Nhưng chắc chắn chúng còn sống! Tối nay chúng sẽ xuất hiện ở đảo Cacao.
+193|Đó là lời hứa với Mũ Rơm Luffy. Không sai đâu!
+194|Điều chúng không biết là...
+195|đó cũng là đích đến cuối cùng của chúng ta!
+196|Mama! Chiếc bánh bà muốn ở Thị trấn Chocolat trên đảo Cacao!
+197|Bà có háo hức không?
+198|Em nói dối bà vì tuyệt vọng,
+199|nhưng nếu đưa Mama tới đó thế này, em che đậy được lời nói dối!
+200|Pudding đang nướng bánh ở đảo Cacao!
+201|Dù thế nào mọi chuyện cũng sẽ êm xuôi!
+202|Bánh cưới!
+203|Mama, hướng đó đúng không?!
+204|Khoan! Đó là đảo Nuts!
+205|Này, này, bà làm gì vậy?!
+206|Mama! Tàu của chúng không đi hướng đó! Bánh ở đảo Cacao!
+207|Đám cưới...
+208|Không, Mama! Dừng lại!
+209|bánh!
+210|Đừng đi hướng đó!
+211|Thế giới Gương
+212|Hắn không bao giờ học!
+213|Đồ khốn!
+214|Cao Su...
+215|Khoan Xoắn Magnum Gấu Xám!
+216|Chết tiệt!
+217|Hắn luôn đánh trúng tớ khi tớ né!
+218|Càng làm tớ mệt hơn!
+219|Ta cũng vậy.
+220|Chưa ai né đòn của ta như ngươi.
+221|Thật căng thẳng!
+222|Ngươi định cướp Mole khỏi ta...
+223|Chết tiệt! Suýt nữa là lấy được!
+224|Mochi Chảy!
+225|C-Cái quái gì vậy?!
+226|Mặt đất hóa thành mochi!
+227|Giống hệt chiêu của Doflamingo!
+228|Nghe đây, nhóc con!
+229|Năng lực Trái Ác Quỷ còn một giai đoạn nữa gọi là "Thức Tỉnh"!
+230|Dĩ nhiên năng lực của ta đã thức tỉnh.
+231|Ôi không!
+232|Vô ích thôi.
+233|Với độ đàn hồi và độ dính của ngươi, ngươi không cử động được nữa.
+234|Ta nên chặt ngươi ra nhỉ?
+235|Hay để ngươi ngạt thở trong mochi?
+236|Ngươi muốn chết thế nào?
+237|Tao không chết đâu!
+238|Gear Fourth sao?
+239|Thú vị đấy.
+240|Whole Cake Island - Thành phố Ngọt
+241|Lạ thật...
+242|Chúng ta chưa nhận được báo cáo về vị trí tàu Mũ Rơm.
+243|Lũ Ốc Sên Lãnh Hải đang làm gì vậy?!
+244|Im đi, Pekoms!
+245|Đừng khóc nữa!
+246|Anh Pedro!
+247|Tôi thấy thương hại anh ta...
+248|Khó tin người bạn thuở nhỏ...
+249|và là anh trai của cậu lại chọn chết bằng đánh bom tự sát...
+250|Anh ta là kẻ thù của chúng ta!
+251|Thật vậy...
+252|Chết ở đây là vô ích! Bình minh của thế giới sắp đến rồi!
+253|Ta phải trở về đất nước của mình!
+254|Cái này sẽ phá hết ma thuật của các cậu, đúng không?
+255|Bom sao?!
+256|Vĩnh biệt.
+257|Tôi cũng bị sốc...
+258|Năm năm trước tôi thấy Pedro van xin tha mạng, nước mắt đầm đìa.
+259|Vậy mà chính người đó hy sinh mạng sống để họ ra khơi!
+260|Ai quan tâm?
+261|Anh...
+262|Có lẽ chúng ta vẫn đang đánh giá thấp Mũ Rơm Luffy!
+263|Ý anh là gì?
+264|Ý tôi là chúng ta nên nghiêm túc hơn!
+265|Mama sẽ không bao giờ bị hạ bởi thằng nhóc như hắn!
+266|Anh nói Mũ Rơm Luffy yếu hơn bà ấy nhiều đến vậy sao?
+267|Dĩ nhiên! Bà ấy ở đẳng cấp khác với hải tặc!
+268|Anh vẫn nói được thế khi nhìn lâu đài đổ nát của Mama sao?!
+269|Đó chỉ là tình cờ!
+270|Tai nạn ư?! Vậy Ốc Sên Biển bỏ bê nhiệm vụ canh gác cũng là tình cờ sao?!
+271|Gì?! Anh nói tất cả những chuyện này cũng nằm trong kế hoạch của chúng sao?!
+272|Ít nhất là,
+273|kể từ khi bọn Mũ Rơm tới, những sự cố bất ngờ liên tục xảy ra!
+274|Kẻ thống trị kiêu ngạo sẽ bị rút thảm dưới chân.
+275|Để ngăn khả năng một phần triệu danh tiếng của Mama bị vấy bẩn...
+276|nên điều hạm đội mạnh tới biên giới lãnh thổ làm phòng tuyến cuối cùng!
+277|Reng, reng, reng... reng, reng, reng... Cạch.
+278|Mont d'Or-sama.
+279|Gì?
+280|Có cuộc gọi từ Custard-sama qua ốc sên truyền tin.
+281|Custard đang đuổi theo Bege mà, đúng không?
+282|Mont d'Or đây. Cô xử lý Bege chưa?
+283|Ừm...
+284|Bọn em mất dấu tàu của hắn.
+285|Gì?!
+286|Lũ Ốc Sên Lãnh Hải không gửi vị trí con tàu cho chúng ta!
+287|Hả?! Không chỉ riêng chúng ta sao?!
+288|Gì?!
+289|Chúng ta cũng chưa nhận được vị trí bọn Mũ Rơm!
+290|Thật sao?!
+291|Dù sao cũng cứ tìm Bege! Nghe đây! Không để hắn thoát bằng mọi giá!
+292|Em hiểu!
+293|Cạch.
+294|Này! Kiểm tra ngay!
+295|Gì?
+296|Tôi bảo kiểm tra Ốc Sên Lãnh Hải dưới đáy biển!
+297|Rõ, thưa ngài!
+298|Dưới đó rốt cuộc đang xảy ra chuyện gì?!
+299|Ngoài biển - Nostra Castello
+300|Nostra Castello: "Lâu đài của chúng ta" trong tiếng Ý.
+301|Tôi tưởng sẽ có nhiều tàu đuổi theo hơn!
+302|Chuyện gì vậy?
+303|Có lẽ chúng không theo dõi vị trí của ta.
+304|Ốc Sên Lãnh Hải sao?
+305|Ừ.
+306|Nếu có Ốc Sên Lãnh Hải thì ốc sên truyền tin phải phản ứng.
+307|Nhưng chúng im lặng.
+308|Tôi chưa từng nghe chuyện như vậy!
+309|Nhưng tốt thôi. Giữ tốc độ tối đa!
+310|Mau tới đảo Cacao!
+311|Đi đường ngắn nhất để đón Chiffon!
+312|-Ừ! -Ừ!
+313|Cạch.
+314|Nusstorte đây, nói từ tàu của Germa.
+315|Nusstorte: "Engadner Nusstorte", bánh tart hạt của Thụy Sĩ.
+316|Anh! Mọi chuyện với Germa thế nào?!
+317|Bọn anh nghiền nát chúng bằng mười nghìn lính. Vương quốc của chúng tan hoang!
+318|Ồ!
+319|Đúng như dự đoán! Nhưng anh đừng quá tay như vậy...
+320|Với sức mạnh của ta, việc đó dễ như ăn bánh...
+321|Nhân tiện, anh...
+322|Vương quốc Germa
+323|Anh không phá hệ thống nhân bản của chúng chứ?
+324|Dĩ nhiên không. Đó là mục đích bọn anh đến đây.
+325|Nhưng ngoài ra, nơi đó đã bị phá hủy hoàn toàn.
+326|Đó là điều tối thiểu ta làm được!
+327|Germa chết tiệt! Chúng đã tiêu đời từ khi lọt vào tầm ngắm của ta!
+328|Còn bọn Mũ Rơm thì sao?
+329|Thật ra bọn anh lỡ để chúng thoát.
+330|Chúng đang đi thẳng hướng tây...
+331|Thôi, bắt được chúng chỉ là vấn đề thời gian.
+332|Giao cho em!
+333|Ừ, làm tốt lắm!
+334|Cạch.
+335|Và đó là cách làm...
+336|Vậy Luffy-kun và mọi người ổn.
+337|Giờ chúng ta làm gì?
+338|Đi thôi! Ra khơi!
+339|Rõ!
+340|Bóng Cơ Bắp!
+341|Sao ta phải đứng đây nhìn...
+342|khi đã biết ngươi sẽ tăng sức mạnh?
+343|Này, Mũ Rơm Luffy.
+344|Ta nói luôn cho ngươi biết...
+345|ta không coi thường ngươi!
+346|Mochi Gương!
+347|Gì? Đó cũng là mochi sao?!
+348|Tệ rồi! Nếu bị nghiền dưới đống mochi đó, tớ sẽ bị chôn sống!
+349|Phải, ngươi sẽ ngạt thở.
+350|Đây là nơi ngươi chết!
+351|Tiếc là trận đấu phải kết thúc thế này... nhưng nó khiến ta hơi bực.
+352|Vì ngươi cầm cự lâu hơn dự kiến nhiều.
+353|Ta đã trễ 40 phút bữa merienda hôm nay.
+354|Merienda: từ tiếng Tây Ban Nha chỉ bữa ăn nhẹ.
+355|Nỗi đau sẽ không kéo dài...
+356|Vĩnh biệt, Mũ Rơm...

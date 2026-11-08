@@ -1,0 +1,332 @@
+1|Tôi không muốn họ thấy mặt tôi!
+2|Nếu thấy, họ sẽ giết tôi!
+3|Im đi!
+4|Họ biết là cô rồi.
+5|Rõ ràng bọn chúng đang phá phách bằng năng lực của cô!
+6|Được rồi! Tấm gương này là mấu chốt để liên quân thoát ra.
+7|Làm xong việc này, tôi sẽ lấy lại trái tim.
+8|Rồi tôi sẽ dạy cho tất cả bọn chúng một bài học!
+9|Bên trong thế nào rồi?
+10|Tôi vẫn chưa nghe tiếng gào nào... Big Mom đang làm gì vậy?
+11|Đúng như kế hoạch...
+12|Bánh nát rồi... và đàn Mũ Rơm đang tung hoành...
+13|Chân dung Mẹ Carmel cũng đã vỡ...
+14|Vậy sao Big Mom vẫn không gào?!
+15|Chuyện gì đang xảy ra?!
+16|Luffy-san, nghe tôi nói!
+17|Big Mom đã chịu quá nhiều cú sốc liên tiếp,
+18|nên không biết dồn cơn giận vào đâu.
+19|Được! Cậu bảo vậy thì tôi làm!
+20|Cứ giao cho tôi!
+21|Chặn Mũ Rơm lại! Đừng để hắn đến gần Mama!
+22|Sao các ngươi cản đường tao?!
+23|Bege!
+24|Bege, đồ khốn...
+25|Xuống địa ngục đi, Katakuri!
+26|Anh làm gì vậy, Gang Bege?!
+27|Ta biết ngươi sẽ phản bội, Bege...
+28|Anh Peros!
+29|Mau bắn bọn chúng đi!
+30|Ừ, biết rồi.
+31|Trời ơi... Người nhìn thấy tương lai bận rộn thật...
+32|Nhưng riêng trường hợp này, ta cũng thấy được tương lai.
+33|Mắc kẹt trong kẹo của ta, tất cả các ngươi sẽ chết với bộ mặt thảm hại.
+34|Không thể có kết cục nào khác!
+35|Giá mà chúng ta có Raid Suit...
+36|thì các ngươi đâu thoát được thế này!
+37|Raid?
+38|Đó là gì? Một loại vũ khí à? Liếm.
+39|Ôi chà, sao các người lại muốn mang thứ đó đến đám cưới của con trai mình?
+40|Chạy đi, Reiju!
+41|Lại là ngươi!
+42|Đừng cản đường tao!
+43|Sanji...
+44|Hắn làm gì vậy? Hắn gây rắc rối...
+45|Sanji...
+46|Cha đã đánh giá thấp lòng tốt của con.
+47|Dù chúng ta đã đối xử với con như vậy, con vẫn không bỏ rơi chúng ta.
+48|Cha luôn ghét làm một Vinsmoke
+49|và luôn thấy xấu hổ về điều đó.
+50|Nhưng...
+51|...khi thấy con trưởng thành,
+52|cha đã thấy nhẹ nhõm!
+53|Vì cha nhận ra dòng máu của chúng ta vẫn còn lương tâm...
+54|Cảm ơn con... Sanji!
+55|Ôi không! Gia đình Sanji...
+56|Đồ khốn!
+57|Pedro!
+58|Đừng chạm vào nó, Luffy! Đi đi!
+59|Cảm ơn!
+60|Năm Ngàn Viên Gạch...
+61|...Quyền!
+62|Bege!
+63|Xuống địa ngục đi, Katakuri!
+64|Ồ không, đừng hòng!
+65|Mama...
+66|Mama... Không!
+67|M...
+68|Mẹ...
+69|M...
+70|Mẹ ơi!
+71|Mama!
+72|Được rồi!
+73|Giờ thì tự lo phần còn lại đi.
+74|Ừm, chắc họ không nghe thấy tôi.
+75|Mama bị thương rồi?!
+76|Bà ấy yếu đi rồi!
+77|Này! Ai đó chặn Bege và người của hắn lại!
+78|Bege!
+79|Sao dám phản bội chúng ta!
+80|Tạm biệt, Big Mom!
+81|Mẹ...
+82|Này... Nghe con nói, Mẹ.
+83|Không ai chịu nghe con cả.
+84|Này, Mẹ... Mẹ đi đâu rồi?
+85|Nước mắt của Big Mom...
+86|Câu chuyện này bắt đầu từ 63 năm trước, ở Elbaf trong Tân Thế Giới.
+87|Hòn đảo quê hương của các chiến binh Elbaf, nổi tiếng nhất trong loài Người Khổng Lồ.
+88|Nào, đi thôi.
+89|Charlotte Linlin (Con người, Năm tuổi)
+90|Đây là đâu vậy?
+91|Lát nữa cha sẽ nói. Mau xuống khỏi đó đi, Linlin.
+92|Vâng!
+93|Hự!
+94|Này này.
+95|Mình đang ở đâu vậy? Mọi người đi đâu à?
+96|Cha có việc cần làm gần đây.
+97|Linlin, con ngoan ở đây đợi bọn ta nhé?
+98|Hả?! Con muốn đi cùng...
+99|Nếu ngoan, con được ăn thỏa thích kẹo trong ba lô!
+100|Đúng rồi!
+101|Cái gì?!
+102|Ăn hết luôn sao?! Vậy con đợi, con đợi!
+103|Con sẽ đợi cha mẹ!
+104|Hẹn gặp lại nhé!
+105|Về sớm nhé!
+106|Linlin...
+107|Đừng khóc vội.
+108|Sau những gì con bé gây ra, chỉ bị đày đi là còn may.
+109|Con bé... quá sức với chúng ta.
+110|Nghe nói Thánh Mẫu sống ở đây. Bà sẽ cứu Linlin.
+111|Đi thôi! Chúng ta đang ở vùng nguy hiểm!
+112|Tạm biệt!
+113|Oa! Cá to quá.
+114|GẦM
+115|Lạ thật. Họ đi lâu quá.
+116|Mình đói rồi...
+117|Mama, Papa... Hai người đi đâu rồi?
+118|Sao còn chưa về?!
+119|Còn về Elbaf,
+120|một thế kỷ trước, nơi đây là quê hương của các chiến binh Khổng Lồ khiến cả thế giới khiếp sợ.
+121|Họ là băng Hải Tặc Chiến Binh Khổng Lồ!
+122|Họ gieo rắc kinh hoàng khắp thế giới và thiêu rụi vô số thành phố.
+123|Tuy nhiên,
+124|khi hai thuyền trưởng của băng Chiến Binh Khổng Lồ đột nhiên biến mất...
+125|họ đã đi vào huyền thoại.
+126|Không lâu sau, một số thành viên còn lại,
+127|chủ quan sau khi mất người dẫn đầu...
+128|đã bị Hải Quân bắt và kết án tử hình.
+129|Giết chúng đi!
+130|Xin hãy chờ đã!
+131|Dừng hành quyết lại!
+132|Thiên đường tìm kiếm sự hòa giải trong hòa bình!
+133|Cho đến khi một nữ thánh lang thang xuất hiện!
+134|Sơ Carmel
+135|Tên bà là Sơ Carmel.
+136|Thiên đường tìm kiếm cái gì?! Bà nói nhảm gì vậy?!
+137|Bà có biết chúng đã gây ra bao nhiêu kinh hoàng không...
+138|Càng có lý do để sám hối! Sao ông không hiểu?
+139|Nếu giết những người này,
+140|các chiến binh Elbaf sẽ lập quân đội để báo thù nhân loại!
+141|Hãy tha thứ tội lỗi của họ!
+142|Tôi sẽ dẫn dắt họ!
+143|Đến một thế giới nơi mọi chủng tộc nắm tay nhau
+144|và cùng cười!
+145|Dần dần, bà trở thành "Mẹ" Carmel và lập một cô nhi viện...
+146|...gọi là Nhà Cừu, nơi bà nhận nuôi những đứa trẻ
+147|không nơi nương tựa, bất kể thân phận hay chủng tộc.
+148|Trên Elbaf, quê hương của Người Khổng Lồ...
+149|bà làm cầu nối ngoại giao để gắn kết loài người và Người Khổng Lồ...
+150|Rồi 37 năm sau...
+151|Sẽ ổn thôi, Linlin.
+152|Mẹ Carmel (80 tuổi) và các em nhỏ Nhà Cừu
+153|Tất cả chúng ta sẽ sống hạnh phúc bên nhau cho đến khi cha mẹ con về!
+154|Họ sẽ không về đâu! Cậu bị bỏ rơi rồi!
+155|Tất cả bọn trẻ ở đây đều khá thú vị.
+156|Thú vị đến mức cha mẹ chúng tôi bỏ rơi chúng tôi!
+157|Các con sẽ làm bạn ngay thôi.
+158|Vâng! Cảm ơn mẹ!
+159|Con đói quá!
+160|Cậu to quá! Cậu là Người Khổng Lồ à?
+161|Vậy thì ăn thôi!
+162|Có một hoàng tử bị đuổi khỏi đất nước sau một cuộc đảo chính...
+163|Có những đứa trẻ nghèo khó suýt rơi vào cảnh nô lệ...
+164|Có những đứa trẻ rắc rối mà cha mẹ không quản nổi...
+165|Tất cả sống trong một ngôi làng Khổng Lồ nơi quá khứ không còn ám ảnh họ.
+166|Này, Mẹ!
+167|Bạn mới à?
+168|Nhưng quan trọng nhất, với Linlin, người luôn to hơn tất cả mọi người,
+169|Elbaf là nơi đầu tiên...
+170|mà con người, nhà cửa và cảnh vật đều to bằng cô.
+171|Đó là một nơi dễ chịu đối với cô.
+172|Tuyệt quá!
+173|Hôm sau
+174|Sao lại thế? Sao lại thế?
+175|Ôi không. Sao vậy, Linlin?
+176|Mẹ ơi, nghe con nói...
+177|Một con gấu và một con sói đang đánh nhau trong rừng.
+178|Con muốn chúng làm bạn vì đánh nhau là xấu.
+179|Nên hôm qua con nhốt chúng vào cùng một cái lồng.
+180|Rồi bác Gấu ăn thịt bác Sói!
+181|Nên con đánh bác Gấu.
+182|Bác Gấu có vẻ hối hận rồi. Con đánh mấy lần?
+183|Chỉ một lần thôi...
+184|Chết... ngay lập tức?!
+185|Ồ, mẹ hiểu rồi!
+186|Con chỉ muốn chúng làm bạn thôi!
+187|Linlin, con thật là đứa trẻ ngoan!
+188|Vâng!
+189|Vậy thì đi chơi với mọi người nào!
+190|Vâng!
+191|Với Linlin, Carmel là người đầu tiên thực sự hiểu cô.
+192|Em thấy rồi! Linlin giết một con gấu chỉ bằng một cú đánh!
+193|Nguy hiểm quá!
+194|Cậu có nghe là nó làm Eiri-kun người Khổng Lồ bị thương không?
+195|Nó chỉ vỗ ông ấy để đập con muỗi thôi!
+196|Nó làm gãy nhiều xương của ông ấy!
+197|Á! Á!
+198|Con đang làm gì vậy, Linlin?
+199|Gì ạ?
+200|Mẹ! Cứu con!
+201|À, ông ấy có thêm một khớp nên con định giật nó ra giúp ông.
+202|Không, ông ấy thuộc Tộc Tay Dài! Với họ đó là bình thường!
+203|Ồ... Con hiểu rồi...
+204|Á!
+205|Linlin, con đang làm gì vậy?!
+206|Ông ấy có vây nên con định giật ra giúp ông.
+207|Đừng làm vậy. Người Cá có đặc điểm cơ thể của loài cá.
+208|Ồ... Con hiểu rồi...
+209|Em sợ chết khiếp!
+210|Mọi người, hãy tha thứ cho con bé!
+211|Linlin là một đứa trẻ tốt bụng!
+212|Carmel tha thứ cho tất cả.
+213|Chạy đi, chạy đi!
+214|Linlin sắp giết chúng ta!
+215|Chạy đi, chạy đi! Chạy đi, chạy đi!
+216|10 tháng sau, tại Vùng đất Chiến tranh Elbaf, Tân Thế Giới.
+217|Kashi
+218|Các chiến binh dũng mãnh đã đón Linlin bằng vòng tay rộng mở.
+219|Oimo
+220|Chờ đã, chờ đã.
+221|Gần 40 năm rồi...
+222|Cậu đã từng thấy trận đấu tay đôi nào kéo dài thế chưa?
+223|Oimo đồng ý! Mười năm nữa mình đi xử bọn họ!
+224|Này, Linlin! Các em chuẩn bị xong chưa?
+225|Kashi, chuẩn bị gì vậy?
+226|Ồ, Linlin-chan, chắc đây là lần đầu của em.
+227|Trước Lễ hội Đông chí, Elbaf nhịn ăn 12 ngày!
+228|Nhịn ăn?
+229|Bọn mình sẽ không ăn gì. Chỉ được uống nước.
+230|12 ngày bắt đầu từ ngày mai!
+231|Cái gì?!
+232|Em sẽ đói lắm!
+233|Nhưng nếu chịu được, chúng ta sẽ có lễ hội!
+234|Đối thủ thật sự của cậu là chính mình, Hajrudin!
+235|Đứng dậy, Hajrudin!
+236|Hajrudin
+237|Cậu bé Khổng Lồ Hajrudin này...
+238|...sau này sẽ gặp Luffy ở Dressrosa và cảm phục ý chí của cậu.
+239|Cùng với Bartolomeo và những người khác,
+240|cậu đã cạn chén rượu với Luffy như cha con.
+241|Giờ cậu là thành viên của Đại Hạm đội Mũ Rơm.
+242|Cậu bé cứng cỏi!
+243|Trưởng lão Dorry hoặc Brogy sẽ trở về...
+244|và băng Hải Tặc Chiến Binh Khổng Lồ sẽ được tái lập!
+245|Con là chiến binh! Con phải tự rèn luyện mình, Hajrudin!
+246|Vâng!
+247|Ta thích tinh thần đó! Raideen!
+248|Vâng!
+249|Ngài Râu Thác! Ngài Râu Núi!
+250|"Râu Núi" Jarl "Râu Thác" Jorl
+251|(345 tuổi)
+252|(344 tuổi)
+253|Ý tưởng buôn bán thay vì cướp bóc của Carmel cũng hay thôi.
+254|Nhưng chúng ta không được quên mình là chiến binh!
+255|Vâng!
+256|Ngài Jarl và ngài Jorl ngầu quá!
+257|Cựu Đồng Thuyền trưởng băng Hải Tặc Chiến Binh Khổng Lồ (Hai trong những chiến binh lâu đời nhất thế giới) Anh hùng của Người Khổng Lồ
+258|Hai chiến binh được kính trọng nhất của tộc Khổng Lồ!
+259|Sau này em cũng muốn được như họ!
+260|Hôm nay hai vị đến đây làm gì?
+261|Bọn ta đến ăn semla trong làng. Bọn ta đến thăm các em ở Nhà Cừu.
+262|Rất vui được gặp con, Linlin.
+263|Semla là gì vậy?
+264|Là món ngọt ngon tuyệt!
+265|Cái gì?! Món ngọt?
+266|Ăn semla trước kỳ nhịn ăn sẽ cho ta nhiều dinh dưỡng!
+267|Giờ mình ăn luôn à? Món ngọt đó?!
+268|Kem ngọt đặt trong bánh mì ngọt với bột hạnh nhân,
+269|phủ một lớp đường bột bên trên!
+270|Đó là niềm vui trước kỳ nhịn ăn!
+271|Nghe ngon quá!
+272|Được rồi, mọi người!
+273|Chúng ta mừng Hoàng tử Loki mới chào đời ở lâu đài.
+274|Và Road cùng Goldberg chào đời trong làng!
+275|Chúng ta cảm tạ Mặt Trời vì sự lớn lên của họ!
+276|Cảm tạ Mặt Trời!
+277|Cảm ơn vì bữa ăn!
+278|Ừ! Semla!
+279|Có đủ cho mọi người!
+280|Ngọt quá!
+281|Ngon quá!
+282|Em vui quá!
+283|Ngon! Ngon! Ngọt! Ngọt! Ngon! Ngon!
+284|Ngon! Ngon!
+285|Ngon! Ngon!
+286|Này này! Linlin!
+287|Đừng ăn nhanh thế! Sẽ không đủ chia đâu!
+288|Đừng quên cảm tạ Mặt Trời!
+289|Semla!!
+290|Ngon quá! Ngon quá đi! Semla!
+291|Ngày thứ 3 nhịn ăn
+292|Mẹ ơi... con đói chết mất...
+293|Lễ hội Đông chí mừng cái chết và sự tái sinh của Mặt Trời.
+294|Sau mùa đông khắc nghiệt, Mặt Trời sẽ lại chiếu xuống chúng ta.
+295|Ngày thứ 4 nhịn ăn
+296|Càng chịu khổ, chúng ta càng trân trọng Mặt Trời.
+297|Nên... cố lên nào!
+298|Mẹ đã nói vậy thì con... sẽ cố...
+299|Ngày thứ 5 nhịn ăn
+300|Em gầy đi rồi...
+301|Cậu chẳng thay đổi gì cả.
+302|Vậy sao? Lạ thật...
+303|Linlin!
+304|Con làm tốt lắm! Chỉ còn một chút nữa thôi!
+305|Vâng!
+306|Linlin thật lòng yêu Mẹ.
+307|Ngày thứ 6 nhịn ăn
+308|Semla ngon quá...
+309|Con...
+310|...muốn ăn thêm.
+311|Ngày thứ 7 nhịn ăn
+312|Ôi không!
+313|Mẹ ơi, cứu với!
+314|Có chuyện gì vậy, Gerth?!
+315|Linlin-chan đang...!
+316|Đây là...
+317|Semla!!
+318|Sao dám...
+319|Linlin!
+320|Mang semla cho tao...
+321|Semla!
+322|Linlin đã phá hủy làng Elbaf!!
+323|Đúng là ác mộng!
+324|Con đã phạm sai lầm nghiêm trọng, Linlin! Con không có quyền cảm tạ Mặt Trời!
+325|Ngay cả trẻ con cũng chỉ được tha thứ có giới hạn!
+326|Ngài Jorl!
+327|Semla... Semla...
+328|Xin lỗi, Carmel...
+329|Nó có thể trông như một đứa trẻ...
+330|Đừng làm vậy! Ngài Jorl!
+331|nhưng nó là quỷ!
+332|Semla...

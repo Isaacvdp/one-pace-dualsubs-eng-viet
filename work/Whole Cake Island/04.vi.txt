@@ -1,0 +1,401 @@
+1|Sau khi người dẫn đường Pekoms biến mất, nhóm Luffy rời đảo Cacao
+2|và đang theo chỉ dẫn của Pudding đến Whole Cake Island
+3|nơi Tứ Hoàng Big Mom ngự trị.
+4|Tôi lo cho Pekoms. Phải đi tìm ông ấy!
+5|Cảm ơn cậu, nhưng không dễ đâu. Ông ấy rất mạnh nên sẽ không sao.
+6|Ừ, nhưng mà...
+7|Dù sao ta cũng phải đến Whole Cake Island
+8|mà không bị kẻ địch nhìn thấy.
+9|Này, giờ chúng ta đang ở đâu?
+10|Chúng ta chưa đi xa đảo Cacao lắm.
+11|Này, tôi thấy một hòn đảo!
+12|Yay! Ở đó sẽ có món gì nhỉ?!
+13|Tôi ngửi là biết! Chắc chắn là đồ ngọt!
+14|Hòn tiếp theo chắc là thị trấn làm từ mứt.
+15|Mứt?!
+16|Nhưng chúng ta không dừng ở đó.
+17|Hả?!
+18|Đây, nhìn này.
+19|Khi thấy đảo Mứt,
+20|thay vì lại gần, ta rẽ theo hướng của log pose thứ hai.
+21|Nhưng nó ngọt mà! Nami!
+22|Sao lại không ghé dù nó ngọt?!
+23|Để xem nào...
+24|Hướng đó.
+25|Được!
+26|Luffy, mạn phải! Quay sang ba giờ!
+27|"Sanji" là chơi chữ của "ba giờ"
+28|Đúng rồi! Chopper! Carrot! Ta đi về hướng Sanji!
+29|Nhưng nó ngọt mà!
+30|Ta đi đón Sanji! Bẻ lái hết mạn phải!
+31|Quá tay rồi!
+32|Cậu lái dở quá, Luffy-san !
+33|Cậu cũng vậy, Brook!
+34|Nhưng nó ngọt mà...!
+35|Cô ấy nói, rẽ sang đảo kế tiếp trước khi lại quá gần đảo khác
+36|thì ta tránh được mạng lưới giám sát của chúng.
+37|Ồ, ra đó là cách đọc bản đồ.
+38|Cậu làm được không?
+39|Cứ giao cho tôi.
+40|Luffy-san, để tôi lo.
+41|Được.
+42|Được rồi, mọi người, tôi sẽ nấu món gì đó cho!
+43|Cái gì?!
+44|Tôi phải nấu!
+45|Làm ơn đi!
+46|Luffy, đợi chút!
+47|Cậu muốn gì, Nami? Tôi sẽ nấu.
+48|Không!
+49|Lần này tôi sẽ không làm hỏng đâu!
+50|Tôi làm cho! Cậu đừng bao giờ bước vào bếp nữa!
+51|Tôi không trả cậu đồng nào đâu!
+52|Tôi không cần tiền của cậu!
+53|Cái gì?!
+54|Tôi xem được không, Pedro? Tôi muốn giúp!
+55|Được.
+56|Để xem nào...
+57|Này! Nước màu nho kìa!
+58|Nho?
+59|Quanh đây có một hòn đảo tràn nước ép ra.
+60|Không hại gì cho chúng ta đâu.
+61|Gì cơ?! Là nước ép sao?!
+62|Nơi này đúng là thiên đường!
+63|Pedro, sao ông biết rõ vùng này vậy?
+64|Tôi từng đến đây một lần.
+65|Gì cơ?
+66|Khổng lồ quá!
+67|Wow! To thật!
+68|Đó là rết biển khổng lồ. Chúng sống ở vùng này.
+69|Không! Rết biển khổng lồ, đi đi!
+70|Chúng ta sẽ bị ăn mất!
+71|Luffy, đây là việc của cậu!
+72|Được!
+73|Tôi cũng sẽ góp chút sức!
+74|Nó tới rồi!
+75|Gum-Gum...
+76|Gatling!
+77|Trong lúc đó, tại Whole Cake Island...
+78|Croquembouche!
+79|– Mama! Dừng lại! Mama! – Mama! Dừng lại! Mama!
+80|Mama... Mama, xin hãy dừng lại!
+81|Tránh ra!
+82|Croquembouche!
+83|Ôi không! Là cơn bệnh của Mama!
+84|Nhanh lên! Lần này bà ấy muốn gì chứ?!
+85|Bà muốn...
+86|croquembouche!
+87|Croquembouche ?!
+88|Là món tráng miệng trang trí bằng bánh su kem xếp chồng lên nhau sao?
+89|Đây sẽ là thử thách.
+90|Ồ! Không, khoan đã!
+91|Tôi nghĩ có một đoàn khách du lịch gồm
+92|bánh su kem đang ở khách sạn trong thành phố!
+93|Họ đã trả phòng sáng nay rồi.
+94|Hay ta làm một cái? Đầu bếp trưởng nghĩ sao?
+95|Tôi muốn làm phần bột thật đặc biệt. Lấy giúp tôi hạnh nhân được không?
+96|Tôi sẽ báo bộ trưởng các loại hạt!
+97|Mama đang tiến về Sweet City!
+98|Bà đang đến đây sao?! Đây là thủ đô! Lâu đài của Mama ở đây!
+99|Không thể ngăn bà được! Bà đang mất trí vì cơn bệnh!
+100|Số người chết vẫn đang tăng!
+101|Ban lệnh sơ tán ở Sweet City!
+102|Giờ chỉ croquembouche mới ngăn được Mama!
+103|Lối này! Nhanh sơ tán! Mau lên!
+104|Mama, xin hãy dừng lại!
+105|Mama, đừng làm vậy!
+106|Mang croquembouche cho ta!
+107|Mama vào Sweet City rồi! Bà vào Sweet City rồi!
+108|Ôi, bà ấy đến rồi...
+109|Cơn thèm ăn cuồng loạn của Mama thật phiền phức!
+110|Không biết khi nào cơn bệnh sẽ phát tác.
+111|Sự tàn phá kéo dài cho đến khi bà được ăn món mình thèm.
+112|Còn tệ hơn mọi loại thiên tai.
+113|Dù sao cũng phải sơ tán toàn bộ dân!
+114|Chạy đi! Nhanh lên!
+115|Big Mom đang nổi cơn thịnh nộ!
+116|– Dừng lại! – Đừng làm ở thành phố này!
+117|Mama! Mama! Đừng ở thành phố này!
+118|– Bà sẽ phá luôn lâu đài của mình! – Vô ích. Bà không nghe thấy đâu.
+119|Croquembouche!
+120|Croquembouche!
+121|Không phải cái này!
+122|N-Nhìn lên kìa!
+123|Không phải vị này!
+124|Lũ vô dụng các ngươi cũng không phải!
+125|Sai hết rồi!
+126|Croquembouche!
+127|Cảm ơn ông!
+128|Ồ, là bộ trưởng Moscato!
+129|Con trai thứ 16 nhà Charlotte và là bộ trưởng kem Ý!
+130|Ông ấy là người nhà của Mama! Chắc chắn ông ấy ngăn được bà!
+131|Moscato đây! Croquembouche thế nào rồi?!
+132|Nghe nói khoảng nửa tiếng nữa mới xong!
+133|Lúc đó thì muộn mất! Không thể để bà phá lâu đài!
+134|Không phải cái này!
+135|Mama! Dừng lại!
+136|Ai đó?!
+137|Mama! Là con đây! Moscato!
+138|Croquembouche của ta đâu?
+139|Croquembouche...
+140|Croquembouche!
+141|Cho con 30 phút! Các đầu bếp đang làm nhanh hết mức!
+142|Không, anh Mos! Không thể ngăn bà được!
+143|Tôi không thể để bà phá hủy thủ đô!
+144|Tránh đường!
+145|Mama không nhận ra con sao?!
+146|Mạng...
+147|hay...
+148|món ngọt!
+149|Mạng hay món ngọt...
+150|Tuổi thọ hay đồ ăn vặt!
+151|Mama đùa đấy à! Đó là con ruột của bà!
+152|Mama, đừng làm vậy!
+153|C-Chúng con có kem tươi đây! Chưa có bột, nhưng Mama, đừng!
+154|M-Món ngọt vẫn chưa tới!
+155|Vậy ta lấy món ngọt này.
+156|Đừng cản đường ta!
+157|Mama!
+158|Moscato, bình tĩnh!
+159|Không! Chỉ cần lộ chút sợ hãi là tuổi thọ bị lấy đi!
+160|Xin tha cho con, Mama! Con sẽ không cản bà nữa!
+161|Chỉ xin bà! Đừng giết con!
+162|Cho ta 40 năm.
+163|Anh ơi!
+164|Bộ trưởng Moscato!
+165|Bà đã giết...
+166|con ruột của mình!
+167|Croquembouche!
+168|Chạy đi! Giờ không ai ngăn được bà nữa!
+169|Kinh khủng quá.
+170|Có ai đang đến từ sông nước ép!
+171|– Đó là... – Người đó là...
+172|Không nhầm được!
+173|Mọi người tránh ra!
+174|Là đại ca Jinbe!
+175|Cứu với!
+176|Chúng ta sẽ bị ăn mất!
+177|Bên hông ông ấy có một croquembouche!
+178|Ông ấy bắt lũ bánh su kem du lịch đó cho chúng ta!
+179|Chúng được phủ kẹo! Bộ trưởng kẹo làm à?!
+180|Nhìn bên này!
+181|Đừng cản đường ta!
+182|Bắt lấy!
+183|Ngon quá!
+184|– Phải! – Mama nguội rồi!
+185|Chính là nó!
+186|Miễn là ngon thì mọi chuyện đều ổn...
+187|Cảm ơn đại ca Jinbe!
+188|Báo các đầu bếp! Khủng hoảng qua rồi!
+189|Triệu tập tất cả bộ trưởng!
+190|Khôi phục thủ đô nhanh nhất có thể!
+191|Ôi, Jinbe trung thành của ta, Hiệp sĩ Biển!
+192|Làm tốt lắm khi mang poneglyph về cho ta hôm trước.
+193|Dù ta không đọc được.
+194|Hôm nay ngươi muốn gì? Sao lại ra đây?
+195|Ồ? Thành phố trông đẹp hơn bao giờ hết.
+196|Ngươi làm à?
+197|Không, tôi vừa đến, và tôi không biết đã xảy ra chuyện gì, thưa bà.
+198|Ồ...?
+199|Hôm nay tôi đến...
+200|để nói với bà một điều quan trọng.
+201|Ngươi sẽ không rời băng của ta chứ?
+202|Mũ Rơm Luffy rồi sẽ thay đổi thế giới!
+203|Tôi biết cậu ấy còn trẻ, nhưng tôi không nghĩ ai trong số
+204|Tứ Hoàng hiện nay sẽ trở thành vua của biển cả!
+205|Tôi nghĩ Mũ Rơm Luffy mới là người đó!
+206|Tôi...
+207|muốn giúp cậu ấy!
+208|Tôi quá...
+209|yếu!
+210|Tôi... tôi muốn lên tàu của cậu ấy
+211|và dâng hiến cả đời cho cậu ấy!
+212|Tôi tin hành trình đó cuối cùng sẽ mang lại tự do thật sự cho người cá!
+213|Suốt hai năm qua,
+214|ngươi kể cho bọn ta nhiều về Luffy-kun.
+215|Ta đã nghĩ nếu ngươi thích cậu ta đến thế thì nên đi theo cậu ta.
+216|T-Tôi nói vậy thật sao?!
+217|Tôi nói về cậu ấy nhiều đến vậy sao?!
+218|Đi đi, Jinbe!
+219|Mọi người chắc chứ?
+220|Ở đây không ai có quyền phản đối, thuyền trưởng!
+221|Phải! Ngài từng là binh sĩ quân đội Neptune, nhưng ngài trở thành hải tặc
+222|để chiến đấu cùng bọn tôi, những nô lệ cũ trốn khỏi Mary Geoise!
+223|Ngài làm Thất Vũ Hải để nâng cao địa vị xã hội cho người cá chúng ta!
+224|Và ngài liên minh với băng hải tặc Big Mom
+225|để bảo vệ bọn tôi và quê hương, Vương quốc Ryugu, dưới danh nghĩa Big Mom!
+226|Ngài luôn đưa ra lựa chọn vì người khác!
+227|Ngài làm đủ rồi, Jinbe.
+228|Phải! Hãy tự do đi, Jinbe-san !
+229|– Đi đi, Jinbe! – Phải, thuyền trưởng Jinbe!
+230|Bọn tôi sẽ ổn khi không có ngài. Đừng coi thường bọn tôi!
+231|Từ giờ hãy sống cho chính mình!
+232|Các cậu... Cảm ơn!
+233|Nói vậy chứ... tôi không nghĩ Big Mom sẽ dễ dàng để thuyền trưởng đi.
+234|Nếu bà nổi giận với cả bọn mình, chỉ còn cách chạy thôi!
+235|Nhưng còn Aladine-san thì sao?
+236|Anh ấy đã cưới cô Praline và trở thành thành viên gia tộc Big Mom.
+237|Ồ?
+238|Mọi người lo cho tôi à?
+239|Ôi, phu nhân!
+240|Các người đang nói xấu sau lưng tôi à?
+241|Cô nghe thấy chúng tôi nói gì sao?!
+242|Này, anh đang giấu tôi chuyện gì à?!
+243|Aladine! Đừng nói là anh định bỏ tôi lại nếu Mama nổi giận!
+244|Không, tất nhiên tôi sẽ hỏi em...
+245|Không cần hỏi!
+246|Em nhất định chọn anh chứ không phải Mama! Có chuyện gì thì hãy mang em theo!
+247|Ôi, nồng nhiệt quá!
+248|Xin lỗi, Wadatsumi.
+249|Tôi chỉ đưa cậu đến đây, nhưng như cậu nghe rồi, tôi phải đi.
+250|Không sao! Tôi rất vui khi được ở bên những người này.
+251|Này Praline, em nghĩ Mama sẽ tha thứ cho anh... ý anh là, cho chúng ta chứ?
+252|Ừm, trước đây có tiền lệ, nhưng những ai muốn rời băng của bà...
+253|đều đã chết.
+254|Bộ trưởng Moscato!
+255|Bộ trưởng Moscato chết rồi!
+256|Đừng chết, bộ trưởng Moscato!
+257|Bộ trưởng Moscato!
+258|Họ đến rồi.
+259|Mau mang ông ấy đi.
+260|Vâng, thưa bà.
+261|Lùi lại.
+262|Nghe này, mọi người.
+263|Từng giây cuối cùng. Được chứ?
+264|Bộ trưởng Moscato...
+265|Này, bộ trưởng Mont d'Or, anh nghĩ đại ca Jinbe cũng sẽ bị giết chứ?!
+266|Sao tôi biết được?!
+267|Khi ai đó làm Mama giận, chắc chắn sẽ như thế này,
+268|dù là con ruột của bà!
+269|Ta đoán ngươi sắp đi rồi, Jinbe.
+270|– Sao vậy, đại ca?! – Đừng đi, đại ca! Sao anh phải đi?!
+271|Im đi!
+272|Đừng hỏi người ta sao lại đi! Thảm hại!
+273|Ai quan tâm chứ?!
+274|Đã là hải tặc thì tất nhiên muốn sống theo ý mình.
+275|Ta có ngon không? Nói đi, ta có...?!
+276|Dù vậy,
+277|bị phản lời thề trung thành là nỗi nhục của một chủ nhân.
+278|Jinbe, ngươi biết điều này nghĩa là ta mất một tài sản mạnh mẽ: ngươi.
+279|Vâng, nhưng...
+280|Không "nhưng"! Ngươi cũng phải mất thứ gì đó!
+281|Ngươi phải trả giá!
+282|Mang vòng quay roulette đến đây!
+283|Gì cơ?
+284|Giờ, quay đi.
+285|Ta nóng lòng xem ngươi sẽ mất gì!
+286|Trong lúc đó, Luffy và mọi người đang đi qua lãnh thổ của Big Mom.
+287|Ngọt quá!
+288|Mà thuyền không nhúc nhích chút nào.
+289|Không...
+290|Thôi, cứ ở đây ngủ đi!
+291|Không! Lỡ lũ kiến tấn công lại thì sao?!
+292|Khi mặt trời mọc, nó sẽ lại chảy.
+293|Nhưng ban đêm trời lạnh nên nó đông lại.
+294|Nói trước mấy chuyện đó đi chứ!
+295|Phải làm nó tan chảy rồi thoát khỏi vùng siro tinh bột này!
+296|Ừ!
+297|Kéo đi!
+298|Chúng ta vừa ru cả đàn kiến ngủ!
+299|Chúng thức dậy thì phiền lắm.
+300|Đúng vậy.
+301|Lũ kiến biển đó từng ăn mất tàu của tôi.
+302|Ôi trời!
+303|Một lần? Ông đến đây làm gì?
+304|Pedro từng là hải tặc cùng với Pekoms.
+305|Cái gì?! Thật sao?!
+306|Tôi đã quá ngây thơ.
+307|Tôi tự xem mình là nhà thám hiểm, nhưng lại thành kẻ bị truy nã.
+308|Tôi chỉ đi cùng Pekoms được nửa đường.
+309|Tôi tin các cậu nên tôi có thể nói.
+310|Tôi tìm poneglyph vì muốn giúp ngài Nekomamushi.
+311|Nhưng khi xâm phạm lãnh thổ Big Mom, đó thành chuyến đi cuối cùng của tôi.
+312|Tôi...
+313|đã bị đánh bại ở đây một lần.
+314|Tôi hiếm khi kể với ai chuyện này.
+315|Tôi không biết điều đó.
+316|Ông có ký ức tồi tệ mà vẫn quay lại sao?
+317|Nếu kinh nghiệm của tôi giúp các cậu đưa Sanji về dù chỉ chút ít, tôi sẽ vui.
+318|Hơn nữa,
+319|có lẽ việc tôi đi cùng cũng không tệ.
+320|Tôi nghe nói các vị vua của chúng tôi đã cho các cậu xem lode poneglyph ở Cây Cá Voi.
+321|Đúng vậy.
+322|Tôi đã rất ngạc nhiên.
+323|Dù các cậu có thể đã cứu chúng tôi,
+324|họ chưa từng cho ai ngoài tộc Kozuki xem...
+325|suốt 26 năm...
+326|kể từ khi cho băng hải tặc của Gol D. Roger xem.
+327|Vua Hải Tặc?!
+328|Sau đó Roger đến Laugh Tale và được gọi là Vua Hải Tặc.
+329|Các cậu làm Công tước Inuarashi và ngài Nekomamushi nhớ đến họ.
+330|Họ mong các cậu trở thành người cần đến lode poneglyph.
+331|Cậu sẽ làm gì sau khi đánh bại Kaido?
+332|Xa quá! Tôi chưa nghĩ tới...
+333|Tiếp theo, cậu sẽ cần lode poneglyph mà Big Mom có!
+334|Nếu vậy thì đây là cơ hội lớn nhất của chúng ta!
+335|Vì đã vào sâu lãnh thổ của bà ta đến thế này,
+336|ta nên đánh cắp luôn lode poneglyph của Big Mom ngoài việc đưa Sanji về!
+337|Gì cơ? Nhưng mà...
+338|Không chỉ Sanji mà còn cả lode poneglyph sao?
+339|Ừm, Robin cũng nhờ tôi lấy nó, nhưng tôi muốn cứu Sanji trước...
+340|Tôi biết.
+341|Tôi sẽ lấy lode poneglyph. Các cậu lo vụ Sanji.
+342|Gì cơ?
+343|Khi tới đảo, cho tôi chút thời gian được không?
+344|Lần này tôi sẽ lấy được!
+345|Không, nếu ông làm vì chúng tôi thì chúng tôi sẽ đi cùng!
+346|Không, các cậu hãy bảo vệ Sanji.
+347|Ngay cả sau khi đưa cậu ấy về, mọi chuyện vẫn khó khăn.
+348|Được. Vậy tôi giao cho ông!
+349|Tuyệt!
+350|Đừng quyết định dễ dàng thế!
+351|Không biết Luffy-san sinh ra đã may mắn không...
+352|Gì vậy, Brook?
+353|Không có gì. Tôi cũng may mắn.
+354|Cậu nói gì vậy? Kỳ cục.
+355|Ồ, lũ kiến dậy rồi!
+356|Không!
+357|Chúng tới rồi!
+358|Cứu Sunny !
+359|Này, mọi người!
+360|Dậy đi!
+361|Hả? Chuyện gì vậy?
+362|Nhìn kìa! Nhìn kìa!
+363|Cuối cùng cũng tới rồi!
+364|Wow, khổng lồ quá!
+365|Vậy đây là nơi một Tứ Hoàng sống!
+366|Có một cái bánh!
+367|Chiếc bánh nguyên cái cao nhất kia là lâu đài nơi Big Mom sống.
+368|Lâu đài sao?!
+369|Nami-san, ta cứ đi thẳng như thế này nhé?
+370|Ừ, mũi đất đó là nơi duy nhất không có canh gác.
+371|Tôi hiểu rồi.
+372|Đó là nơi Pudding-san đã nói.
+373|Ừ, phải cảm ơn cô ấy thật nhiều.
+374|Nếu không có cô ấy, không biết ta có đến được đây không.
+375|Đúng vậy.
+376|Này, có ai ở đó!
+377|Sanji?
+378|Là Sanji à?! Này!
+379|Sanji!
+380|Whole Cake Island
+381|Whole Cake Island
+382|Charlotte Moscato, Con trai thứ 16 nhà Charlotte, Bộ trưởng Kem Ý
+383|Charlotte Moscato, Con trai thứ 16 nhà Charlotte, Bộ trưởng Kem Ý
+384|Cựu Thất Vũ Hải Jinbe, Thuyền trưởng băng hải tặc Mặt Trời
+385|Cựu Thất Vũ Hải Jinbe, Thuyền trưởng băng hải tặc Mặt Trời
+386|Nữ hoàng Charlotte Linlin của Totto Land, Một trong Tứ Hoàng, Thuyền trưởng băng hải tặc Big Mom
+387|Nữ hoàng Charlotte Linlin của Totto Land, Một trong Tứ Hoàng, Thuyền trưởng băng hải tặc Big Mom
+388|Vài giờ trước...
+389|Vài giờ trước...
+390|Aladine (Người cá Brotula), Phó thuyền trưởng băng hải tặc Mặt Trời
+391|Aladine (Người cá Brotula), Phó thuyền trưởng băng hải tặc Mặt Trời
+392|Charlotte Praline (Nửa người, nửa nàng tiên cá cá mập đầu búa), Con gái thứ 21 nhà Charlotte
+393|Charlotte Praline (Nửa người, nửa nàng tiên cá cá mập đầu búa), Con gái thứ 21 nhà Charlotte
+394|Hiện tại: Whole Cake Island
+395|Hiện tại: Whole Cake Island
+396|Sweet City, Thủ đô của Whole Cake Island
+397|Sweet City, Thủ đô của Whole Cake Island
+398|Sweet City, Whole Cake Chateau
+399|Sweet City, Whole Cake Chateau
+400|Hôm sau...
+401|Hôm sau...
