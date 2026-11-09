@@ -43,3 +43,14 @@ Put the `.vi.ass` next to the .mkv with the same name in front (the
 `--video-dir` option does this). VLC loads it automatically; if it shows the
 built-in English track instead, pick it under Subtitle > Sub Track. Or drag the
 .ass file onto the playing video.
+
+## Lines without Vietnamese ("! N lines have no Vietnamese")
+
+The repo's English can be worded differently from the English inside your
+videos (One Pace re-releases episodes with revised subtitles). Combining saves
+every unmatched line into `work/<Arc>/NN.en.txt`. Push or send those files, run
+`python dualsub.py todo <range> --arc <Arc>` to list them per episode in
+`NN.todo.txt`, translate them into `NN.todo.vi.txt`, and combine again.
+
+To avoid this for a new arc, export from the videos themselves (on the machine
+that has them): `python dualsub.py export 1-30 --arc Wano --video-dir "D:\One Pace\Wano"`.

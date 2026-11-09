@@ -7,7 +7,7 @@ description: Translate a One Pace arc's English subtitles to Vietnamese and buil
 
 Arguments: arc name as in One Pace file names (e.g. `Wano`) and an episode range.
 
-1. Export: `python dualsub.py export <range> --arc <Arc>` from the project folder. Note the line count per episode from the output; don't read the .en.txt files yourself.
+1. Export: `python dualsub.py export <range> --arc <Arc>` from the project folder. If the user's videos are on this machine, add `--video-dir <folder>` so the English comes from the videos themselves (the repo's wording can differ from a release). Note the line count per episode from the output; don't read the .en.txt files yourself.
 
 2. Translate with helpers. Spawn them in ONE message, all with `model: "sonnet"`, about 3 episodes (~1,100 lines) each. Batching keeps overhead down: every helper pays to read the glossary and system prompt. Use this prompt, filling in ARC and EPISODES:
 
@@ -18,3 +18,6 @@ Arguments: arc name as in One Pace file names (e.g. `Wano`) and an episode range
 4. Consistency pass: collect the new terms from the helpers' replies. Where two helpers translated the same term differently, pick one, fix it with a single regex script over `work\<Arc>\*.vi.txt`, and add it to glossary.md under a section for this arc.
 
 Don't read whole translated files to review them; spot-check 10-20 lines with a script if needed.
+
+## Fixing lines without Vietnamese
+When combining reports "! N lines have no Vietnamese", those lines were saved into `work/<Arc>/NN.en.txt`. Run `python dualsub.py todo <range> --arc <Arc>`; it writes `NN.todo.txt` per episode. Give helpers the same prompt but with `NN.todo.txt` as input and `NN.todo.vi.txt` as output. Then run `todo` again: it folds the results into `NN.vi.txt` and should report 0 lines left.

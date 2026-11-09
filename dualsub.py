@@ -144,6 +144,9 @@ def translations(arc, ep):
     if not vi_file.exists():
         return None
     en, vi = read_numbered(en_file), read_numbered(vi_file)
+    todo_vi = vi_file.with_name(f"{ep:02d}.todo.vi.txt")
+    if todo_vi.exists():  # translations of lines added later, not folded in yet
+        vi.update(read_numbered(todo_vi))
     out = {}
     for n, text in en.items():
         if n in vi:
@@ -164,8 +167,19 @@ def find_video(video_dir, arc, ep, src):
     return None
 
 
-def export(arc, ep, src):
-    items = translatable(src.read_text(encoding="utf-8-sig").splitlines())
+def export(arc, ep, src, args):
+    """With --video-dir, export the English inside the video itself: the repo's copy can be
+    worded differently from what a given release contains."""
+    if args.video_dir:
+        video = find_video(args.video_dir, arc, ep, src)
+        if not video:
+            print(f"  ! no video for {arc} {ep:02d} in {args.video_dir}")
+            return
+        with tempfile.TemporaryDirectory() as tmp:
+            src = extract_english(video, video_tracks(video), tmp) or src
+            items = translatable(src.read_text(encoding="utf-8-sig").splitlines())
+    else:
+        items = translatable(src.read_text(encoding="utf-8-sig").splitlines())
     (WORK / arc).mkdir(parents=True, exist_ok=True)
     out = WORK / arc / f"{ep:02d}.en.txt"
     if out.with_name(f"{ep:02d}.vi.txt").exists():
@@ -174,6 +188,29 @@ def export(arc, ep, src):
         return
     out.write_text("".join(f"{n}|{text}\n" for n, (_, text) in enumerate(items, 1)), encoding="utf-8")
     print(f"  {arc}/{out.name}: {len(items)} lines")
+
+
+def todo(arc, ep):
+    """Fold NN.todo.vi.txt into NN.vi.txt, then list the lines still untranslated in NN.todo.txt."""
+    folder = WORK / arc
+    en_file, vi_file = folder / f"{ep:02d}.en.txt", folder / f"{ep:02d}.vi.txt"
+    todo_en, todo_vi = folder / f"{ep:02d}.todo.txt", folder / f"{ep:02d}.todo.vi.txt"
+    if not vi_file.exists():
+        print(f"  {arc} {ep:02d}: not translated at all yet, use the normal translation")
+        return
+    vi = read_numbered(vi_file)
+    if todo_vi.exists():
+        done = {n: t for n, t in read_numbered(todo_vi).items() if n not in vi}
+        with vi_file.open("a", encoding="utf-8") as f:
+            f.writelines(f"{n}|{t}\n" for n, t in sorted(done.items()))
+        vi.update(done)
+        todo_vi.unlink()
+    left = {n: t for n, t in read_numbered(en_file).items() if n not in vi}
+    if left:
+        todo_en.write_text("".join(f"{n}|{t}\n" for n, t in left.items()), encoding="utf-8")
+    elif todo_en.exists():
+        todo_en.unlink()
+    print(f"  {arc} {ep:02d}: {len(left)} lines to translate")
 
 
 def build(arc, ep, src, args, out=None):
@@ -198,6 +235,16 @@ def build(arc, ep, src, args, out=None):
             vi_by_line[i] = text
     if missing:
         print(f"  ! {len(missing)} of {len(items)} lines have no Vietnamese, e.g. {missing[:3]}")
+        # The video's English differs from what was translated: queue those lines in the
+        # .en.txt so `todo` can hand them out for translation.
+        en_file = WORK / arc / f"{ep:02d}.en.txt"
+        en = read_numbered(en_file)
+        new = [t for t in dict.fromkeys(missing) if t not in en.values()]
+        if new:
+            start = max(en, default=0) + 1
+            with en_file.open("a", encoding="utf-8") as f:
+                f.writelines(f"{start + k}|{t}\n" for k, t in enumerate(new))
+            print(f"    added {len(new)} of them to work/{arc}/{en_file.name} to be translated")
 
     if out is None:
         video = find_video(args.video_dir, arc, ep, src) if args.video_dir else None
@@ -221,6 +268,23 @@ def mkvtool(name):
     return exe
 
 
+def video_tracks(video):
+    return json.loads(subprocess.run([mkvtool("mkvmerge"), "-J", str(video)], capture_output=True, text=True,
+                                     encoding="utf-8", check=True).stdout)["tracks"]
+
+
+def extract_english(video, tracks, folder):
+    """Write the video's own English .ass track into folder; None if it has none."""
+    english = sorted((t for t in tracks if t["type"] == "subtitles" and t["codec"] == "SubStationAlpha"),
+                     key=lambda t: t["properties"].get("language") != "eng")
+    if not english:
+        return None
+    path = Path(folder) / "english.ass"
+    subprocess.run([mkvtool("mkvextract"), str(video), "tracks", f"{english[0]['id']}:{path}"],
+                   capture_output=True, check=True)
+    return path
+
+
 def mux(arc, ep, src, args):
     """Copy the video into <video-dir>/dual/ with our subs as the first, default subtitle track."""
     video = find_video(args.video_dir, arc, ep, src)
@@ -228,17 +292,11 @@ def mux(arc, ep, src, args):
         print(f"  ! no video for {arc} {ep:02d} in {args.video_dir}")
         return
     exe = mkvtool("mkvmerge")
-    tracks = json.loads(subprocess.run([exe, "-J", str(video)], capture_output=True, text=True,
-                                       encoding="utf-8", check=True).stdout)["tracks"]
+    tracks = video_tracks(video)
 
     # Base the subs on the English track inside this video, so the timing always fits it.
-    english = sorted((t for t in tracks if t["type"] == "subtitles" and t["codec"] == "SubStationAlpha"),
-                     key=lambda t: t["properties"].get("language") != "eng")
     with tempfile.TemporaryDirectory() as tmp:
-        if english:
-            src = Path(tmp) / "english.ass"
-            subprocess.run([mkvtool("mkvextract"), str(video), "tracks", f"{english[0]['id']}:{src}"],
-                           capture_output=True, check=True)
+        src = extract_english(video, tracks, tmp) or src
         ass = build(arc, ep, src, args, out=out_file(arc, ep, args))
     if not ass:
         return
@@ -263,7 +321,7 @@ def mux(arc, ep, src, args):
 
 def main():
     p = argparse.ArgumentParser(description="English + Vietnamese dual subs for One Pace.")
-    p.add_argument("command", choices=["export", "build", "mux"])
+    p.add_argument("command", choices=["export", "build", "mux", "todo"])
     p.add_argument("episodes", help="e.g. 16, 1-48 or 3,5,7")
     p.add_argument("--arc", default="Dressrosa")
     p.add_argument("--video-dir", type=Path, help="folder with the videos; output is saved next to the matching one")
@@ -279,9 +337,11 @@ def main():
     for ep, src in english_subs(args.arc, parse_episodes(args.episodes)).items():
         print(src.name)
         if args.command == "export":
-            export(args.arc, ep, src)
+            export(args.arc, ep, src, args)
         elif args.command == "build":
             build(args.arc, ep, src, args)
+        elif args.command == "todo":
+            todo(args.arc, ep)
         else:
             mux(args.arc, ep, src, args)
 
