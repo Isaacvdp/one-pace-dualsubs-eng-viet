@@ -1,56 +1,114 @@
-# One Pace dual subs (English + Vietnamese)
+# One Pace with English + Vietnamese subtitles
 
-Takes One Pace's English release subtitles from
-[one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles)
-and adds a Vietnamese line above every spoken line. The English keeps its
-original font (Impress BT, embedded in the One Pace .mkv), timing, signs and
-karaoke; the Vietnamese uses Arial in pale yellow.
+Watch [One Pace](https://onepace.net) in Japanese with Vietnamese and English
+subtitles on screen at the same time:
 
-## Workflow (one arc at a time)
+```
+Ta sẽ nhấn chìm ngươi trong bóng tối, Mũ Rơm!      <- Vietnamese (pale yellow)
+I'll engulf you in darkness, Straw Hat!             <- One Pace's English, unchanged
+```
 
-1. `python dualsub.py export 1-48` - downloads the English subs to `english/Dressrosa/`
-   and writes `work/Dressrosa/NN.en.txt` (numbered dialogue lines).
-2. Claude Code translates each file to `work/Dressrosa/NN.vi.txt` with the same
-   line numbers, following [glossary.md](glossary.md).
-3. `python dualsub.py build 1-48 --video-dir "D:\One Pace\Dressrosa"` - writes
-   `<video name>.vi.ass` next to each video. Without `--video-dir` the files go to `out/Dressrosa/`.
+The English keeps One Pace's own font, timing, signs and song lyrics. The
+Vietnamese is added above every spoken line.
 
-Other arcs: add `--arc "Wano"` (the name as used in One Pace's file names).
+## Arcs translated so far
 
-Vietnamese goes on top at size 40 (English is 55). Options: `--order en-vi`
-puts English on top, `--size 46` changes the Vietnamese size, `--font "Segoe UI"`
-changes its font.
+| Arc | Episodes |
+|---|---|
+| Dressrosa | 1, 16–48 |
+| Zou | 1–10 |
+| Whole Cake Island | 1–39 |
 
-## One file per episode (recommended)
+The Vietnamese is translated by AI (Claude), following a shared
+[glossary](glossary.md) so names, terms and pronouns stay consistent.
 
-Drag the video folder onto `make_videos.bat` and type the episodes (e.g. `16-48`).
-Same as running:
+## One-time setup (Windows)
 
-    python dualsub.py mux 16-48 --video-dir "D:\One Pace\Dressrosa"
+1. **Python**: install it from [python.org](https://www.python.org/downloads/).
+   During installation, tick **"Add python.exe to PATH"**.
+2. **MKVToolNix**: install it from [mkvtoolnix.download](https://mkvtoolnix.download/downloads.html#windows).
+   It's the free tool that puts the subtitles into the video files.
+3. **This project**: on this page click **Code → Download ZIP** and unzip it anywhere.
+   (Or use `git clone` if you know git.)
 
-Builds the subs and writes a copy of each video to `D:\One Pace\Dressrosa\dual\` as `Dressrosa 16.mkv` and so on,
-with "Tiếng Việt + English" as the first, default subtitle track. The original
-English track stays in the file but is no longer default, and the embedded
-fonts are kept. Nothing is re-encoded, so it takes seconds per episode. The
-originals are left alone; delete them once you're happy with the copies.
-It also writes `dual\<Arc>.m3u8`: double-click it and VLC plays the episodes
-back to back.
-Needs MKVToolNix (`winget install MoritzBunkus.MKVToolNix`).
+## Make your videos
 
-## Watching in VLC (separate .ass file)
+1. Download the One Pace episodes and keep each arc in its own folder.
+   The folder name must contain the arc's name, like One Pace's own downloads do,
+   for example `[One Pace][823-902] Whole Cake Island [720p]`.
+2. **Drag that folder onto `make_videos.bat`** (in the project folder).
+3. When it asks which episodes, **press Enter** to do all of them, or type a range like `1-19`.
 
-Put the `.vi.ass` next to the .mkv with the same name in front (the
-`--video-dir` option does this). VLC loads it automatically; if it shows the
-built-in English track instead, pick it under Subtitle > Sub Track. Or drag the
-.ass file onto the playing video.
+That's it. It takes a few seconds per episode. Your original videos aren't
+changed: the new ones go into a `dual` folder inside your video folder:
 
-## Lines without Vietnamese ("! N lines have no Vietnamese")
+```
+[One Pace][823-902] Whole Cake Island [720p]\
+    [One Pace] Chapter 823-824 [720p][...].mkv      your original files
+    ...
+    dual\
+        Whole Cake Island 01.mkv                     with Vietnamese + English
+        Whole Cake Island 02.mkv
+        ...
+        Whole Cake Island.m3u8                       playlist
+```
 
-The repo's English can be worded differently from the English inside your
-videos (One Pace re-releases episodes with revised subtitles). Combining saves
-every unmatched line into `work/<Arc>/NN.en.txt`. Push or send those files, run
-`python dualsub.py todo <range> --arc <Arc>` to list them per episode in
-`NN.todo.txt`, translate them into `NN.todo.vi.txt`, and combine again.
+## Watch
 
-To avoid this for a new arc, export from the videos themselves (on the machine
-that has them): `python dualsub.py export 1-30 --arc Wano --video-dir "D:\One Pace\Wano"`.
+Double-click the `.m3u8` playlist in the `dual` folder. VLC plays the episodes
+in order, one after another, with the Vietnamese + English subtitles already
+on. Opening a single `.mkv` works too.
+
+The original English-only subtitles are still in each file if you ever want
+them: in VLC, **Subtitle → Sub Track**.
+
+## What the messages mean
+
+| Message | Meaning |
+|---|---|
+| `Arc: Whole Cake Island` | The arc it found from the folder name. |
+| `62 of 365 lines are worded differently in this video, matched by timing` | Fine. Your download has slightly different English wording than the version that was translated (One Pace sometimes revises subtitles). Those lines got the Vietnamese of the line shown at the same moment. |
+| `! 6 of 580 lines have no Vietnamese` | Those lines show in English only, usually short on-screen captions or lines that are new in your version. |
+| `couldn't tell which arc this is` | Rename the folder so it contains the arc name, e.g. `Zou`. |
+| `isn't translated yet` | That episode has no Vietnamese yet (see the table above). |
+
+## Changing how it looks
+
+From a command prompt in the project folder:
+
+```
+python dualsub.py mux --video-dir "D:\One Pace\Zou" --size 44        bigger Vietnamese (default 40; English is 55)
+python dualsub.py mux --video-dir "D:\One Pace\Zou" --order en-vi    English on top
+python dualsub.py mux --video-dir "D:\One Pace\Zou" --font "Segoe UI"
+```
+
+## Translating a new arc
+
+New arcs are translated with [Claude Code](https://claude.com/claude-code).
+Open Claude Code in this project folder and type, for example:
+
+```
+/translate-arc Wano 1-30
+```
+
+It downloads the arc's English subtitles from One Pace's
+[public subtitle repository](https://github.com/one-pace/one-pace-public-subtitles),
+translates them into `work/<Arc>/`, checks every line is there and updates the
+glossary. If your videos are on the same computer, it can take the English from
+your videos instead, so the wording matches your download exactly:
+
+```
+python dualsub.py export 1-30 --arc Wano --video-dir "D:\One Pace\Wano"
+```
+
+## Project layout
+
+```
+dualsub.py           the tool
+make_videos.bat      drag-and-drop wrapper
+glossary.md          translation rules: terms, names, pronouns
+work/<Arc>/          NN.en.txt (English lines) and NN.vi.txt (Vietnamese, same line numbers)
+english/, out/       downloaded and generated files (not in git)
+```
+
+English subtitles are by the One Pace team. This project only adds the Vietnamese.

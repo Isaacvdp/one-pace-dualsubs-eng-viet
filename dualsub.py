@@ -1,14 +1,15 @@
 """English + Vietnamese dual subtitles for One Pace.
 
-Keeps One Pace's English release .ass untouched (same font, timing and
-typesetting) and puts the Vietnamese translation right under every spoken line.
+Keeps One Pace's English subtitles untouched (same font, timing and
+typesetting) and puts the Vietnamese translation above every spoken line.
 
-    python dualsub.py export 1-48     # download English subs, write work/<arc>/NN.en.txt
+    python dualsub.py mux --video-dir "D:\\One Pace\\Dressrosa"   # what make_videos.bat runs
+    python dualsub.py export 1-30 --arc Wano    # write work/<arc>/NN.en.txt for translating
     (translate each work/<arc>/NN.en.txt into work/<arc>/NN.vi.txt, same line numbers)
-    python dualsub.py build 1-48 --video-dir "D:\\One Pace\\Dressrosa"
-    python dualsub.py mux 1-48 --video-dir "D:\\One Pace\\Dressrosa"   # new .mkv files with our subs as default
+    python dualsub.py build 1-30 --arc Wano     # just the .ass files, into out/<arc>/
 """
 import argparse
+import difflib
 import json
 import re
 import shutil
@@ -30,6 +31,11 @@ RELEASE_DIR = "main/Release/Final Subs/"
 DIALOGUE_STYLES = re.compile(r"^(main|secondary|flashbacks?|thoughts|narrator|note|captions\d*)(-[\w+]+)?$", re.I)
 VI_STYLE = "Vietnamese"
 
+# Matching reworded lines by timing: seconds of slack for retimed lines, and how alike the
+# wording must be at minimum.
+TIMING_SLACK = 0.5
+MIN_SIMILARITY = 0.4
+
 
 def http(url):
     req = urllib.request.Request(url, headers={"User-Agent": "onepace-dualsubs"})
@@ -37,7 +43,9 @@ def http(url):
         return r.read()
 
 
-def parse_episodes(spec):
+def parse_episodes(spec, arc):
+    if spec.strip().lower() in ("", "all"):  # every translated episode of the arc
+        return sorted(int(f.name[:2]) for f in (WORK / arc).glob("*.vi.txt"))
     eps = set()
     for part in spec.split(","):
         a, _, b = part.partition("-")
@@ -144,9 +152,6 @@ def translations(arc, ep):
     if not vi_file.exists():
         return None
     en, vi = read_numbered(en_file), read_numbered(vi_file)
-    todo_vi = vi_file.with_name(f"{ep:02d}.todo.vi.txt")
-    if todo_vi.exists():  # translations of lines added later, not folded in yet
-        vi.update(read_numbered(todo_vi))
     out = {}
     for n, text in en.items():
         if n in vi:
@@ -190,61 +195,89 @@ def export(arc, ep, src, args):
     print(f"  {arc}/{out.name}: {len(items)} lines")
 
 
-def todo(arc, ep):
-    """Fold NN.todo.vi.txt into NN.vi.txt, then list the lines still untranslated in NN.todo.txt."""
-    folder = WORK / arc
-    en_file, vi_file = folder / f"{ep:02d}.en.txt", folder / f"{ep:02d}.vi.txt"
-    todo_en, todo_vi = folder / f"{ep:02d}.todo.txt", folder / f"{ep:02d}.todo.vi.txt"
-    if not vi_file.exists():
-        print(f"  {arc} {ep:02d}: not translated at all yet, use the normal translation")
-        return
-    vi = read_numbered(vi_file)
-    if todo_vi.exists():
-        done = {n: t for n, t in read_numbered(todo_vi).items() if n not in vi}
-        with vi_file.open("a", encoding="utf-8") as f:
-            f.writelines(f"{n}|{t}\n" for n, t in sorted(done.items()))
-        vi.update(done)
-        todo_vi.unlink()
-    left = {n: t for n, t in read_numbered(en_file).items() if n not in vi}
-    if left:
-        todo_en.write_text("".join(f"{n}|{t}\n" for n, t in left.items()), encoding="utf-8")
-    elif todo_en.exists():
-        todo_en.unlink()
-    print(f"  {arc} {ep:02d}: {len(left)} lines to translate")
+def similarity(a, b):
+    return difflib.SequenceMatcher(None, a.casefold(), b.casefold()).ratio()
 
 
-def build(arc, ep, src, args, out=None):
+def timed_lines(path, found):
+    """(start, end, English, Vietnamese) for each translated line of the file the translation was made from."""
+    lines = path.read_text(encoding="utf-8-sig").splitlines()
+    out = []
+    for i, en in translatable(lines):
+        if en in found:
+            f = split_dialogue(lines[i])
+            out.append((seconds(f[1]), seconds(f[2]), en, found[en][0]))
+    return out
+
+
+def local_offset(start, anchors):
+    """How far this video runs ahead of the reference around `start`: the median shift of the
+    nearest lines that match word for word. Handles re-cut episodes where the shift changes."""
+    near = sorted(anchors, key=lambda a: abs(a[0] - start))[:7]
+    shifts = sorted(video - ref for video, ref in near)
+    return shifts[len(shifts) // 2] if shifts else 0.0
+
+
+def by_timing(start, end, en, reference):
+    """Vietnamese of the reference line on screen at the same moment with the closest wording.
+
+    A re-release often rewords lines ("Mistress Smoothie" -> "Smoothie-sama") but they stay where
+    they were, so a line overlapping in time with similar wording is the same line."""
+    best_score, best = 0.0, None
+    for ref_start, ref_end, ref_en, vi in reference:
+        overlap = min(end, ref_end) - max(start, ref_start) + TIMING_SLACK
+        if overlap <= 0:
+            continue
+        sim = similarity(en, ref_en)
+        if sim >= MIN_SIMILARITY and sim > best_score:
+            best_score, best = sim, vi
+    return best
+
+
+def build(arc, ep, src, args, out=None, reference=None):
     """Write the dual .ass. src may be the repo file or the track pulled from the video:
-    translations are matched by English text, so small differences between the two don't matter."""
+    translations are matched by English text, and lines worded differently in the video are
+    matched by timing against reference (the file the translation was made from)."""
     found = translations(arc, ep)
     if found is None:
         print(f"  ! {arc} {ep:02d} isn't translated yet, skipped")
         return None
     lines = src.read_text(encoding="utf-8-sig").splitlines()
     items = translatable(lines)
-    vi_by_line, seen, missing = {}, {}, []
+    ref = timed_lines(reference, found) if reference else []
+    ref_starts = {}
+    for ref_start, _, ref_en, _ in ref:
+        ref_starts.setdefault(ref_en, []).append(ref_start)
+    times = {i: (seconds(f[1]), seconds(f[2])) for i, _ in items for f in [split_dialogue(lines[i])]}
+    # Lines matching word for word anchor the timing between the video and the reference.
+    anchors, counts = [], {}
+    for i, en in items:
+        if en in ref_starts:
+            k = counts[en] = counts.get(en, -1) + 1
+            if k < len(ref_starts[en]):
+                anchors.append((times[i][0], ref_starts[en][k]))
+
+    vi_by_line, seen, timed, missing = {}, {}, 0, []
     for i, en in items:
         options = found.get(en)
-        if not options:
-            missing.append(en)
-            continue
-        k = seen[en] = seen.get(en, -1) + 1
-        text = options[min(k, len(options) - 1)]
+        if options:
+            k = seen[en] = seen.get(en, -1) + 1
+            text = options[min(k, len(options) - 1)]
+        else:
+            start, end = times[i]
+            shift = local_offset(start, anchors)
+            text = by_timing(start - shift, end - shift, en, ref)
+            if not text:
+                missing.append(en)
+                continue
+            timed += 1
         # Lines that read the same in both languages ("Luffy!", "Zou?") are shown once.
         if text.casefold() != en.casefold():
             vi_by_line[i] = text
+    if timed:
+        print(f"  {timed} of {len(items)} lines are worded differently in this video, matched by timing")
     if missing:
         print(f"  ! {len(missing)} of {len(items)} lines have no Vietnamese, e.g. {missing[:3]}")
-        # The video's English differs from what was translated: queue those lines in the
-        # .en.txt so `todo` can hand them out for translation.
-        en_file = WORK / arc / f"{ep:02d}.en.txt"
-        en = read_numbered(en_file)
-        new = [t for t in dict.fromkeys(missing) if t not in en.values()]
-        if new:
-            start = max(en, default=0) + 1
-            with en_file.open("a", encoding="utf-8") as f:
-                f.writelines(f"{start + k}|{t}\n" for k, t in enumerate(new))
-            print(f"    added {len(new)} of them to work/{arc}/{en_file.name} to be translated")
 
     if out is None:
         video = find_video(args.video_dir, arc, ep, src) if args.video_dir else None
@@ -289,15 +322,17 @@ def mux(arc, ep, src, args):
     """Copy the video into <video-dir>/dual/ with our subs as the first, default subtitle track."""
     video = find_video(args.video_dir, arc, ep, src)
     if not video:
-        print(f"  ! no video for {arc} {ep:02d} in {args.video_dir}")
+        if not args.all_episodes:
+            print(f"  ! no video for {arc} {ep:02d} in {args.video_dir}")
         return
+    print(f"{arc} {ep:02d}: {video.name}")
     exe = mkvtool("mkvmerge")
     tracks = video_tracks(video)
 
     # Base the subs on the English track inside this video, so the timing always fits it.
     with tempfile.TemporaryDirectory() as tmp:
-        src = extract_english(video, tracks, tmp) or src
-        ass = build(arc, ep, src, args, out=out_file(arc, ep, args))
+        ass = build(arc, ep, extract_english(video, tracks, tmp) or src, args,
+                    out=out_file(arc, ep, args), reference=src)
     if not ass:
         return
     subs = [t["id"] for t in tracks if t["type"] == "subtitles"]
@@ -319,11 +354,21 @@ def mux(arc, ep, src, args):
     print(f"  -> {target}")
 
 
+def detect_arc(video_dir):
+    """The translated arc named in the video folder's path or its video file names."""
+    arcs = sorted((f.name for f in WORK.iterdir() if f.is_dir()), key=len, reverse=True)
+    names = [str(video_dir.resolve())] + [v.name for v in video_dir.iterdir()]
+    for arc in arcs:
+        if any(arc.lower() in name.lower() for name in names):
+            return arc
+    return None
+
+
 def main():
     p = argparse.ArgumentParser(description="English + Vietnamese dual subs for One Pace.")
-    p.add_argument("command", choices=["export", "build", "mux", "todo"])
-    p.add_argument("episodes", help="e.g. 16, 1-48 or 3,5,7")
-    p.add_argument("--arc", default="Dressrosa")
+    p.add_argument("command", choices=["export", "build", "mux"])
+    p.add_argument("episodes", nargs="?", default="all", help="e.g. 16, 1-48 or 3,5,7; default: all translated")
+    p.add_argument("--arc", help="arc name as in One Pace's file names; with --video-dir it's found automatically")
     p.add_argument("--video-dir", type=Path, help="folder with the videos; output is saved next to the matching one")
     p.add_argument("--out", type=Path, default=HERE / "out", help="output folder when --video-dir isn't used")
     p.add_argument("--order", choices=["en-vi", "vi-en"], default="vi-en", help="which language goes on top")
@@ -333,15 +378,25 @@ def main():
     args.out.mkdir(parents=True, exist_ok=True)
     if args.command == "mux" and not args.video_dir:
         p.error("mux needs --video-dir")
+    if args.video_dir and not args.video_dir.is_dir():
+        p.error(f"folder not found: {args.video_dir}")
+    if not args.arc:
+        args.arc = detect_arc(args.video_dir) if args.video_dir else None
+        if not args.arc:
+            arcs = ", ".join(f.name for f in WORK.iterdir() if f.is_dir())
+            p.error(f"couldn't tell which arc this is; put the arc name in the folder name "
+                    f"or pass --arc. Translated arcs: {arcs}")
+        print(f"Arc: {args.arc}")
 
-    for ep, src in english_subs(args.arc, parse_episodes(args.episodes)).items():
-        print(src.name)
+    # With "all", episodes missing from a partial download are skipped without a warning.
+    args.all_episodes = args.episodes.strip().lower() in ("", "all")
+    for ep, src in english_subs(args.arc, parse_episodes(args.episodes, args.arc)).items():
+        if args.command != "mux":
+            print(src.name)
         if args.command == "export":
             export(args.arc, ep, src, args)
         elif args.command == "build":
             build(args.arc, ep, src, args)
-        elif args.command == "todo":
-            todo(args.arc, ep)
         else:
             mux(args.arc, ep, src, args)
 

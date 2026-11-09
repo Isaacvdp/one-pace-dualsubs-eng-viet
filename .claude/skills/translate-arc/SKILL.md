@@ -19,5 +19,5 @@ Arguments: arc name as in One Pace file names (e.g. `Wano`) and an episode range
 
 Don't read whole translated files to review them; spot-check 10-20 lines with a script if needed.
 
-## Fixing lines without Vietnamese
-When combining reports "! N lines have no Vietnamese", those lines were saved into `work/<Arc>/NN.en.txt`. Run `python dualsub.py todo <range> --arc <Arc>`; it writes `NN.todo.txt` per episode. Give helpers the same prompt but with `NN.todo.txt` as input and `NN.todo.vi.txt` as output. Then run `todo` again: it folds the results into `NN.vi.txt` and should report 0 lines left.
+## Lines without Vietnamese
+Combining matches lines worded differently in the user's video by timing, and prints how many. If many lines still show "! N lines have no Vietnamese", the video's English is genuinely different (new lines); ask the user whether that's acceptable before re-translating anything.
