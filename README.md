@@ -96,7 +96,7 @@ Extended Cut episodes).
 From a command prompt in the project folder:
 
 ```
-python dualsub.py mux --video-dir "D:\One Pace\Zou" --size 52        bigger Vietnamese (default 48; English is 55)
+python dualsub.py mux --video-dir "D:\One Pace\Zou" --size 52        bigger Vietnamese (default 48; English is 55; scaled up for Wano and Reverie)
 python dualsub.py mux --video-dir "D:\One Pace\Zou" --order en-vi    English on top
 python dualsub.py mux --video-dir "D:\One Pace\Zou" --font "Segoe UI"
 ```

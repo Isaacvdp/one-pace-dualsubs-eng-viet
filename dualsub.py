@@ -153,10 +153,21 @@ def translatable(lines):
     return out
 
 
-def vi_style_line(font, size):
+def vi_style_line(font, size, scale=1.0):
     # Pale yellow, same outline/shadow feel as the One Pace "Main" style.
-    return (f"Style: {VI_STYLE},{font},{size},&H00A0F0FF,&H000000FF,&H00000000,&H78000000,"
-            "0,0,0,0,100,100,0,0,1,2.2,0.6,2,120,120,18,1")
+    # Sizes are for a 720-line script; scale fits them to scripts drawn on another canvas (Wano: 1080).
+    r = lambda v: f"{v * scale:g}"
+    return (f"Style: {VI_STYLE},{font},{round(size * scale)},&H00A0F0FF,&H000000FF,&H00000000,&H78000000,"
+            f"0,0,0,0,100,100,0,0,1,{r(2.2)},{r(0.6)},2,{round(120 * scale)},{round(120 * scale)},{round(18 * scale)},1")
+
+
+def canvas_scale(lines):
+    """Script height / 720: the --size and margins are meant for One Pace's usual 720-line scripts."""
+    for line in lines:
+        m = re.match(r"PlayResY:\s*(\d+)", line)
+        if m:
+            return int(m.group(1)) / 720
+    return 1.0
 
 
 def is_effect(line):
@@ -192,7 +203,7 @@ def build_dual(lines, vi_by_line, order, font, size, hardsub=False):
         if line.strip().lower() in ("[v4+ styles]", "[v4 styles]"):
             in_styles = True
         elif in_styles and line.startswith("Format:"):
-            out.insert(j + 1, vi_style_line(font, size))
+            out.insert(j + 1, vi_style_line(font, size, canvas_scale(lines)))
             break
     return [line for line in out if not is_effect(line)]
 
@@ -401,9 +412,31 @@ def mkvtool(name):
     return exe
 
 
-def video_tracks(video):
+def video_info(video):
     return json.loads(subprocess.run([mkvtool("mkvmerge"), "-J", str(video)], capture_output=True, text=True,
-                                     encoding="utf-8", check=True).stdout)["tracks"]
+                                     encoding="utf-8", check=True).stdout)
+
+
+def video_tracks(video):
+    return video_info(video)["tracks"]
+
+
+# One Pace's dialogue fonts. Releases with burned-in English (mp4) carry no fonts, so the player
+# would draw our subs in a stand-in font; for the invisible English spacer that wraps differently
+# from the burned-in text and leaves a gap under the Vietnamese.
+FONT_FILES = ["Impress BT.TTF", "ImpressBT-Pace-Regular.ttf", "ImpressBT-Pace-Italics.ttf"]
+
+
+def dialogue_fonts():
+    folder = ENGLISH / "fonts"
+    paths = []
+    for name in FONT_FILES:
+        path = folder / name
+        if not path.exists():
+            folder.mkdir(parents=True, exist_ok=True)
+            path.write_bytes(http(RAW + urllib.parse.quote(f"main/Other/Common Fonts/{name}")))
+        paths.append(path)
+    return paths
 
 
 def extract_english(video, tracks, folder):
@@ -427,7 +460,8 @@ def mux(arc, ep, src, args):
         return
     print(f"{arc} {ep:02d}: {video.name}")
     exe = mkvtool("mkvmerge")
-    tracks = video_tracks(video)
+    info = video_info(video)
+    tracks = info["tracks"]
 
     # Base the subs on the English track inside this video, so the timing always fits it.
     with tempfile.TemporaryDirectory() as tmp:
@@ -445,8 +479,11 @@ def mux(arc, ep, src, args):
         cmd += ["--default-track-flag", f"{t}:no", "--forced-display-flag", f"{t}:no"]
     cmd += [str(video),
             "--language", "0:vi", "--track-name", "0:Tiếng Việt + English",
-            "--default-track-flag", "0:yes", str(ass),
-            "--track-order", ",".join([f"0:{t}" for t in others] + ["1:0"] + [f"0:{t}" for t in subs])]
+            "--default-track-flag", "0:yes", str(ass)]
+    if not info.get("attachments"):  # mkv releases bring their own fonts
+        for font in dialogue_fonts():
+            cmd += ["--attachment-mime-type", "font/ttf", "--attach-file", str(font)]
+    cmd += ["--track-order", ",".join([f"0:{t}" for t in others] + ["1:0"] + [f"0:{t}" for t in subs])]
     result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
     if result.returncode >= 2:  # 1 = finished with warnings
         print(result.stdout[-500:])
@@ -518,7 +555,7 @@ def main():
     p.add_argument("--out", type=Path, default=HERE / "out", help="output folder when --video-dir isn't used")
     p.add_argument("--order", choices=["en-vi", "vi-en"], default="vi-en", help="which language goes on top")
     p.add_argument("--font", default="Arial", help="font for the Vietnamese line")
-    p.add_argument("--size", type=int, default=48, help="Vietnamese font size (English is 55)")
+    p.add_argument("--size", type=int, default=48, help="Vietnamese font size, scaled up on 1080-line scripts like Wano (English is 55)")
     args = p.parse_args()
     args.out.mkdir(parents=True, exist_ok=True)
     if args.command == "mux" and not args.video_dir:
