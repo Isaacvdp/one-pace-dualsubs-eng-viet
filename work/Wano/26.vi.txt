@@ -1,0 +1,706 @@
+1|Bắt lấy Mũ Rơm Luffy!
+2|Chúng tới rồi!
+3|Hình dung ra haki...
+4|chảy khắp cơ thể tôi.
+5|Mày là của tao!
+6|Không phải thế!
+7|Xuống địa ngục đi!
+8|Lạ thật...!
+9|Vẫn không phải!
+10|Haki bề mặt thế này không đủ để hạ Kaido.
+11|Phải làm haki chảy vào bên trong kẻ địch...
+12|Nếu làm được haki chảy vào...
+13|thì tôi có thể đập nát cả lớp da dày của Kaido.
+14|Á! Tôi mạnh tay quá!
+15|Mày tiêu rồi!
+16|Chết tiệt! Vẫn không phải thế!
+17|Nhưng mà...
+18|Tôi vẫn còn nhiều đối thủ để luyện tập.
+19|Tôi sẽ không dừng cho tới khi làm chủ được ryuo!
+20|Ngài Mũ Rơm đúng là người kiên trì.
+21|Đi thôi, Chopperemon!
+22|Được.
+23|Đi cứu Olin!
+24|Hả?!
+25|Không đời nào! Đừng lo cho Olin! Cô ta đi rồi tôi mừng!
+26|Phải giúp Luffytaro, Kiku!
+27|Sao cậu ấy còn chưa chạy đi?
+28|Đi nào!
+29|Rõ!
+30|Quản ngục, có nên nhốt tù nhân vào phòng giam trước khi chúng nảy ra ý gì không?
+31|Nghĩ hay lắm.
+32|Luffytaro đúng là phi thường.
+33|Ừ, cậu ấy mạnh thật.
+34|Có thể đây là cơ hội...
+35|Lính canh đang bị dàn mỏng... Giờ hoặc không bao giờ!
+36|Không cần lo.
+37|Lấy độc trị độc.
+38|Daifugo, tới lúc làm chuyện đó rồi.
+39|Chuyện đó hả? Rõ...
+40|Các tù nhân, nghe cho kỹ!
+41|Tù nhân Luffytaro, đồng bọn của các ngươi, đang nổi loạn gây chuyện.
+42|Các ngươi biết điều đó nghĩa là gì chứ?
+43|Hắn đang nói cái gì vậy?!
+44|Hãy làm mọi cách để khống chế Luffytaro!
+45|Hả? Đùa chắc. Không đời nào họ nghe lời các ngươi.
+46|Gì cơ?
+47|C-C-Cái gìii?!
+48|Dừng lại! Tôi đứng về phía các người mà!
+49|Các người có muốn trốn không hả?!
+50|Bọn tôi chán ngấy lính canh rồi!
+51|Tôi thừa nhận là tôi đã phấn khích khi thấy cậu quậy tung lên!
+52|Nhưng trốn khỏi đây cũng không chấm dứt được triều đại của Kaido và Orochi!
+53|Bọn tôi đã chiến đấu để báo thù cho ngài Kozuki Oden!
+54|Nhưng tên hải tặc Kaido đó...
+55|...đã giết gia đình và bạn bè bọn tôi rồi đè bẹp bọn tôi!
+56|Vụ hành quyết ngài Yasuie
+57|đã mang nỗi sợ và tuyệt vọng của thất bại năm xưa quay lại.
+58|Ra khỏi đây thì bọn tôi chẳng có nơi nào để đi, cũng chẳng có gì để ăn.
+59|Trong đất nước này không còn tự do ở bất cứ đâu nữa!
+60|Đúng vậy! Cứ nằm im ở đây còn hơn!
+61|Đừng có ích kỷ như thế!
+62|Chính các người mới ích kỷ!
+63|Cậu là người ngoài từ hải ngoại tới, muốn chạy hay muốn đánh thì tùy...
+64|nhưng từ giờ đừng lôi bọn tôi vào!
+65|Đừng cho bọn tôi thêm hy vọng hão nữa, chết tiệt!
+66|Các người...
+67|Mọi người có sao không?
+68|Này, cố lên!
+69|Này, giờ không phải lúc lo cho người khác đâu.
+70|Nóng... Nóng quá...! Cứu tôi...!
+71|Ối!
+72|Sao vậy?!
+73|Cái quái gì thế này?!
+74|Ta bảo các ngươi lo cho thân mình rồi mà!
+75|Đây là dịch lây lan. Chạm vào là nhiễm.
+76|Chúng là gương cho những kẻ còn lại!
+77|Hễ ai hành động kỳ quặc, ta sẽ bắn đạn nhiễm bệnh!
+78|Ngài Tuyệt Vời Queen rất thích các phát minh của mình.
+79|Chế tạo vũ khí cơ khí và virus là sở thích của ngài.
+80|Ôi, nóng quá.
+81|Nếm thử một viên của ngài Tuyệt Vời Queen...
+82|đạn dịch đi!
+83|Mũ Rơm, ngươi thật sự nghĩ tù nhân sẽ chiến đấu cho ngươi sao?!
+84|Tiếc là tinh thần phản kháng của chúng đã bị bẻ gãy rồi!
+85|Im đi! Mày không bắn trúng tao được đâu!
+86|Nhìn quanh đi, đồ ngốc! Bắn trúng ai thì nó cũng lan ra thôi!
+87|Này, tản ra! Tất cả sẽ bị nhiễm hết!
+88|Không sao đâu.
+89|Chúng ta sẽ chết ở đây thôi.
+90|Chết tiệt! Giá mà tôi nói hết được với họ, họ sẽ đổi ý ngay!
+91|Hết đường rồi, Mũ Rơm!
+92|Này, cậu bé mũ rơm, thả cá ra khỏi lưới đi.
+93|Hãy cho họ biết vẫn còn hy vọng.
+94|Rằng chúng ta còn một cơ hội cuối để hạ Kaido.
+95|Giọng nói phát ra từ phòng giam bị phong tỏa.
+96|Vậy là tên cứng đầu đó vẫn còn sống...
+97|Quản ngục, trong đó chẳng phải có một con thú sao?!
+98|Đúng vậy, các ngươi chưa từng được cho biết.
+99|Trong phòng giam đó không hề có con thú nào.
+100|"Giết hắn bằng cách cho ăn cá nhiễm nước thải công nghiệp."
+101|Ngài Orochi ra lệnh đó mười ba năm trước, định xử tử tên đó.
+102|Không thể cãi lệnh ngài Orochi nên bọn ta để hắn sống.
+103|Thật ra lẽ ra hắn phải bị xử tử trước mọi người.
+104|Người trong phòng giam đó...
+105|là một trong Cửu Hồng Bao!
+106|Cái gì?! Không thể nào!
+107|Tôi tưởng họ chết hết rồi!
+108|Vậy giết hắn ngay! Dàn dựng thành tai nạn!
+109|Tiếng cười đó...
+110|Không nhầm vào đâu được, là Kawamatsu!
+111|Này!
+112|Kawamatsu!
+113|Tại hạ tới đây!
+114|Đây rồi, tên nhãi bẩn thỉu.
+115|Ông ta là một trong Cửu Hồng Bao huyền thoại sao?!
+116|Công giết hắn là của tao!
+117|Đau thật đấy!
+118|Cái gì vậy? Kim sao?!
+119|Không, là xương cá.
+120|Ninpo: Thuật Sóc Bay!
+121|Ôi... Ôi không!
+122|Kẻ xâm nhập đã trốn thoát!
+123|Kawamatsu!
+124|Đây là chìa khóa còng và thanh kiếm của các hạ!
+125|Các hạ đến thật đúng lúc, Raizo!
+126|Tại hạ nhớ ngươi lắm, thanh kiếm yêu quý của ta...
+127|Sotomuso!
+128|Các vị...
+129|có thích đấu sumo không?
+130|Kawamatsu...
+131|cứu viện đến rồi!
+132|Chuẩn bị...!
+133|Đi!
+134|Yagura Ryuo!
+135|Cái quái...?
+136|Ai bay trước thì thua.
+137|Các hạ vẫn mạnh như xưa, Kawamatsu.
+138|Chiêu đó...
+139|Nhẹ cả người.
+140|Đồ khốn!
+141|Như bơi giữa dòng thác của một con sông lớn.
+142|Chiêu này gọi là
+143|Kappa Style...
+144|River of Retribution!
+145|Cá nhiễm độc có ngon không?
+146|Thật ra vị của chúng kinh khủng, làm tại hạ buồn nôn và hỏng cả ruột.
+147|Nhưng tại hạ vẫn sống sót suốt mười ba năm!
+148|Gánh nặng này chỉ như làn gió nhẹ so với nỗi đau tại hạ dành cho chủ công.
+149|Tại hạ đã chờ khoảnh khắc này!
+150|Kappa Kawamatsu đã nhập cuộc!
+151|Kawamatsu!
+152|Là Kiku sao?!
+153|Các hạ chẳng thay đổi chút nào!
+154|Tại hạ mừng quá khi thấy các hạ còn sống!
+155|Raizo, tại hạ cũng vậy.
+156|Hả?! Kiku! Cô tới từ lúc nào?!
+157|Chuyện gì vậy?! Gã mặt to kia là ai?!
+158|Là kẻ xâm nhập! Hắn đã cướp chìa khóa và thanh kiếm từ tháp!
+159|Còn chờ cái quái gì nữa?! Bắt chúng ngay!
+160|– Rõ! – Rõ!
+161|Sao ngươi lại quay lại làm cái quái gì?!
+162|Kawamatsu...
+163|Các hạ ổn chứ, bằng hữu?
+164|Tại hạ xin lỗi. Tại hạ cảm giác sắp nôn hết mười ba năm bữa trưa.
+165|Chuẩn bị đạn dịch! Kết liễu chúng!
+166|Mọi người, chuẩn bị chiến đấu!
+167|Tránh xa Luffytaro ra!
+168|Kiku! Raizo!
+169|Ồ! Ông già!
+170|Cái gì...? Chẳng lẽ ông là Đại ca Hyogoro thật sao?!
+171|Đúng vậy. Nhưng quan trọng hơn... Kiku! Raizo!
+172|Hãy cho họ biết các hạ là ai!
+173|Có người tinh thần đã gãy, có người đã chiến đấu và thất bại.
+174|Muốn truyền cảm hứng cho họ thì phải tháo mấy tấm vải che mặt đó ra!
+175|Ông nói đúng,
+176|Đại ca Hyogoro.
+177|Quả thật vậy.
+178|Trước hết ta phải có được lòng tin của họ.
+179|Nếu không lộ thân phận, ta chỉ như những bóng ma...
+180|Không thể nào...! Chiếc mặt nạ đó...!
+181|Chẳng phải ông ấy là chiến binh đã chết ở lâu đài Oden sao...?
+182|Kiếm sĩ đẹp nhất Wano...
+183|Kikunojo Tuyết Lưu Luyến?!
+184|Cái gì?! Ông là đàn ông sao?!
+185|Trong lòng tại hạ là phụ nữ.
+186|Cái mặt nạ đó đáng sợ quá!
+187|Còn đây là...
+188|Raizo Sương Mù, ninja đối thủ của Fukurokuju!
+189|Và kia là samurai Yokozuna Kawamatsu, võ sĩ sumo vĩ đại nhất mọi thời đại!
+190|Ông già bên cạnh họ chắc là Hyogoro Hoa thật sự!
+191|Vậy...
+192|Luffytaro là cái quái gì?
+193|Kệ đi, nhóm này tuyệt quá!
+194|Cái gì?! Còn tôi thì sao?!
+195|Mọi chuyện đúng như lời nói mê của ngài Orochi!
+196|Phải báo cho Phó vương Kaido bằng cách nào đó!
+197|Không...
+198|Giờ các ngươi đã thấy bọn ta thì phải giữ im lặng.
+199|Hạ chúng!
+200|Ninpo: Phi Tiêu Hoa!
+201|Heavy Gong!
+202|Gum-Gum...
+203|Gatling!
+204|Nếm đạn dịch này đi!
+205|Cái gì?!
+206|Không bắn trúng hắn được bằng đạn dịch, Phó quản ngục Daifugo!
+207|Ta đã bảo lũ ngốc các ngươi là bắn trúng ai cũng không quan trọng!
+208|Lũ khốn! Trước thì bỏ đói tù nhân, giờ lại bắn họ!
+209|Tôi không thể để các người dùng virus làm vũ khí!
+210|Dừng lại! Bọn ta không để các ngươi cản đường Phó quản ngục Daifugo!
+211|Đi thôi, Chopper!
+212|Được rồi!
+213|Gum-Gum...
+214|Heavy Stamp!
+215|Để đồng bào của chúng ta yên!
+216|Như cậu ấy nói!
+217|Là quỷ!
+218|Kappa Style...
+219|Yorikiri!
+220|Ninpo: Phi Tiêu Sét!
+221|Hãy dùng những thứ này, bằng hữu của cậu Luffy.
+222|Bằng hữu?!
+223|Chắc chắn có một món dùng được.
+224|Chết tiệt!
+225|Tôi bị bắn rồi!
+226|Nóng quá! Nóng quá!
+227|Cứu tôi không thì nó lan ra mất!
+228|Tránh xa tôi ra!
+229|Aaa, nóng, nóng, nóng!
+230|Chết tiệt, bọn khốn đó chỉ nhắm vào tù nhân!
+231|À, phải rồi. Ta quên nói một điều.
+232|Tên của căn bệnh.
+233|Sốt cao lan ra từ chỗ trúng đạn.
+234|Cơn đau thiêu đốt lan khắp cơ thể.
+235|Aaa, nóng quá!
+236|Nạn nhân ói ra máu.
+237|Rồi đau đớn quằn quại...
+238|và lây nỗi đau đó sang người khác không phân biệt!
+239|Cứu tôi...!
+240|Dừng lại!
+241|Tôi đau quá...!
+242|Buông ra!
+243|Xem đây!
+244|Đó là kết cục của người nhiễm bệnh!
+245|Cứu tôi...
+246|Họ như cây khô héo mục nát!
+247|Cứu tôi...
+248|Tránh ra. Đừng lại gần.
+249|Đó là...
+250|Kiệt tác của ngài Tuyệt Vời Queen!
+251|Bệnh dịch này tên là Mummy!
+252|Đi!
+253|Giờ các ngươi là vũ khí người, chỉ cần chạm một cái là hạ được kẻ địch!
+254|Không thể để virus lan ra!
+255|Mọi người, đừng nhúc nhích!
+256|Tôi sẽ xoay xở bằng cách nào đó!
+257|Tôi sẽ chữa cho từng người một!
+258|Những kẻ còn lại, mau di chuyển!
+259|Hay ta coi các ngươi là phản loạn?
+260|Chết tiệt!
+261|Họ không chịu dừng!
+262|Rốt cuộc,
+263|cả Udon đều chống lại chúng ta!
+264|Cút khỏi đây!
+265|Nếu các người không đến...
+266|bọn tôi đã không gặp số phận này!
+267|Dù các người thật sự là...
+268|các samurai Hồng Bao tưởng đã chết hai mươi năm trước...
+269|các người cũng không thể thắng!
+270|Kaido...!
+271|Con rồng bay khổng lồ đó...!
+272|Băng Bách Thú...!
+273|Không ai đánh bại được chúng!
+274|Nhìn bọn tôi đi...
+275|Chỉ một thuộc hạ của Kaido tạo ra thứ vũ khí này...
+276|mà đã gây ra tai họa này!
+277|Sức mạnh của nó thật khủng khiếp!
+278|Đúng vậy! Nếu những kẻ ngoài như các người không đến...
+279|bọn tôi vẫn duy trì được cuộc sống thường ngày ở Udon!
+280|Bọn tôi đã không phải trải qua chuyện này!
+281|Không, Luffytaro! Đừng chạm vào họ!
+282|Dừng lại! Tất cả mọi người!
+283|Đồ ngốc! Cậu tự làm mình nhiễm bệnh rồi!
+284|Cậu ta ngốc à?!
+285|Dừng lại đi!
+286|Cậu sẽ chết đấy!
+287|Cậu đang làm gì vậy, cậu Luffytaro?!
+288|Ngài Mũ Rơm!
+289|"Tai họa" cái gì?!
+290|"Sức mạnh khủng khiếp" cái gì?!
+291|Căn bệnh này...
+292|chẳng đau chút nào cả!
+293|Nói dối!
+294|Tránh xa họ ra ngay!
+295|Luffy!
+296|Mọi samurai tôi gặp đều cứng cỏi kinh khủng!
+297|Nhưng các người thì...!
+298|Tinh thần các người đã bị đập nát!
+299|Gọi đó là "cuộc sống thường ngày" à?!
+300|Họ bảo gì thì làm, rồi nhận mấy cái bánh bao ngốc nghếch...!
+301|Họ chỉ cho đủ để sống sót mà các người gọi đó là sống sao?!
+302|Tỉnh lại đi!
+303|Các người biết thế là gì không?!
+304|Nô lệ!
+305|Anh lớn và mọi người không sao đâu!
+306|Họ thật sự không sao ư...?
+307|Tôi từ nước khác tới thì có gì sai?!
+308|Người ngoài bảo vệ đất nước này thì có gì sai?!
+309|Tôi đã hứa!
+310|Tôi đã hứa... với người bạn...
+311|đã chia phần ăn của mình cho tôi ở Kuri!
+312|Tôi sẽ biến đây thành đất nước nơi ai cũng được ăn no!
+313|Tôi sẽ làm cho điều đó thành bình thường với các người!
+314|Trước khi rời khỏi đất nước này,
+315|tôi sẽ biến nó thành nơi các người ăn bao nhiêu cũng được!
+316|Anh lớn...
+317|Tôi sẽ giữ lời hứa đó...!
+318|Nếu không... đất nước này sẽ trở thành...
+319|địa ngục vĩnh viễn!
+320|Tôi đã nghe về Oden.
+321|Ông ấy thật tuyệt vời!
+322|Nhưng ngày Kaido giết ông ấy hai mươi năm trước...
+323|đất nước này đã ngừng tiến lên!
+324|Bọn tôi đến để đánh bại Kaido!
+325|Bọn tôi không cần đồng minh chỉ biết cản đường!
+326|Vậy nên giờ là lúc các người quyết định!
+327|Các người đứng về phía bọn tôi không?!
+328|Hay về phía Kaido?!
+329|Cậu nghiêm túc sao?
+330|Cậu sẽ cho bọn tôi...
+331|một cơ hội nữa sao?
+332|Cậu ấy đã chiếm được trái tim họ!
+333|Khí chất lãnh đạo thật đáng nể!
+334|Có chuyện rồi.
+335|Hắn đã khuấy động lòng họ.
+336|Nhưng nếu giờ ta bắn một phát lúc họ mất cảnh giác,
+337|tất cả sẽ hoảng loạn...
+338|và lật ngược tình thế có lợi cho ta.
+339|Ta sẽ rải lượng virus bằng 200 viên đạn dịch
+340|bằng phát đạn dịch này!
+341|Ăn một bát to nước mũi voi đi!
+342|Không được, quản ngục! Quá đà rồi!
+343|Không, xin đừng!
+344|Này, Babanuki trông như sắp bắn thứ gì đó về phía này.
+345|Cái gì?!
+346|Quá muộn rồi!
+347|Elephant Achoo!
+348|Cái gì?!
+349|Cái gì?! Cái gì?! Cái gì?!
+350|Tôi buộc phải làm vậy. Tôi đã thấy một tương lai khá tệ.
+351|Quản ngục Babanuki!
+352|Quản ngục!
+353|Thật là...
+354|một người đáng gờm...!
+355|Phần còn lại giao cho các người.
+356|Bọn tôi sẽ lo!
+357|Này, khoan! Các ngươi nhớ cho kỹ!
+358|Chống lại lính canh sẽ ra sao?!
+359|Đầu tiên, bọn ta chặt cả hai tay các ngươi!
+360|Bọn tôi biết, và bọn tôi không quan tâm!
+361|Bọn tôi đã quyết định nổi dậy rồi!
+362|Đây là trả thù cho ngần ấy năm...!
+363|Bắt đầu thôi!
+364|Ừ!
+365|Còn tám ngày nữa là trận chiến cuối cùng...
+366|Quân chủ lực của địch không hề hay biết...
+367|Udon đã bị chiếm!
+368|Ngài làm được rồi, ngài Mũ Rơm!
+369|Ngài đã mang đến cho chúng ta một viện binh đáng nể,
+370|Kin'emon!
+371|Ninpo
+372|Ninpo
+373|Ninpo
+374|Ninpo
+375|Sóc Bay
+376|Sóc Bay
+377|Sóc Bay
+378|Thuật
+379|Thuật
+380|Thuật
+381|Thuật
+382|Thuật
+383|River of Retribution
+384|River of Retribution
+385|Yokozuna Kawamatsu, thuộc hạ gia tộc Kozuki
+386|Báo
+387|HYO
+388|Udon
+389|Udon
+390|Udon
+391|Udon
+392|Udon
+393|Udon
+394|Udon
+395|Udon
+396|Udon
+397|Udon
+398|Udon
+399|Udon
+400|Udon
+401|Udon
+402|Udon
+403|Udon
+404|Udon
+405|Udon
+406|Udon
+407|Udon
+408|Udon
+409|Udon
+410|Udon
+411|Udon
+412|Udon
+413|Udon
+414|Udon
+415|Udon
+416|Udon
+417|Udon
+418|Udon
+419|Udon
+420|Udon
+421|Udon
+422|Udon
+423|Udon
+424|Udon
+425|Udon
+426|Udon
+427|Udon
+428|Udon
+429|Udon
+430|Udon
+431|Udon
+432|Udon
+433|Udon
+434|Udon
+435|Udon
+436|Udon
+437|Udon
+438|Udon
+439|Udon
+440|Udon
+441|Udon
+442|Udon
+443|Udon
+444|Udon
+445|Udon
+446|Udon
+447|đã
+448|đã
+449|đã
+450|đã
+451|đã
+452|đã
+453|đã
+454|đã
+455|đã
+456|đã
+457|đã
+458|đã
+459|đã
+460|đã
+461|đã
+462|đã
+463|đã
+464|đã
+465|đã
+466|đã
+467|đã
+468|đã
+469|đã
+470|đã
+471|đã
+472|đã
+473|đã
+474|đã
+475|đã
+476|đã
+477|đã
+478|đã
+479|đã
+480|đã
+481|đã
+482|đã
+483|đã
+484|đã
+485|đã
+486|đã
+487|đã
+488|đã
+489|đã
+490|đã
+491|đã
+492|đã
+493|đã
+494|đã
+495|đã
+496|đã
+497|đã
+498|đã
+499|đã
+500|đã
+501|đã
+502|đã
+503|đã
+504|đã
+505|đã
+506|đã
+507|đã
+508|đã
+509|đã
+510|đã
+511|đã
+512|đã
+513|đã
+514|đã
+515|đã
+516|đã
+517|đã
+518|đã
+519|đã
+520|đã
+521|đã
+522|đã
+523|đã
+524|đã
+525|đã
+526|đã
+527|đã
+528|đã
+529|đã
+530|đã
+531|đã
+532|đã
+533|đã
+534|đã
+535|đã
+536|đã
+537|đã
+538|đã
+539|đã
+540|đã
+541|đã
+542|đã
+543|đã
+544|đã
+545|đã
+546|đã
+547|đã
+548|đã
+549|đã
+550|đã
+551|đã
+552|đã
+553|đã
+554|đã
+555|đã
+556|đã
+557|đã
+558|đã
+559|đã
+560|đã
+561|đã
+562|đã
+563|đã
+564|đã
+565|bị
+566|bị
+567|bị
+568|bị
+569|bị
+570|bị
+571|bị
+572|bị
+573|bị
+574|bị
+575|bị
+576|bị
+577|bị
+578|bị
+579|bị
+580|bị
+581|bị
+582|bị
+583|bị
+584|bị
+585|bị
+586|bị
+587|bị
+588|bị
+589|bị
+590|bị
+591|bị
+592|bị
+593|bị
+594|bị
+595|bị
+596|bị
+597|bị
+598|bị
+599|bị
+600|bị
+601|bị
+602|bị
+603|bị
+604|bị
+605|bị
+606|bị
+607|bị
+608|bị
+609|bị
+610|bị
+611|bị
+612|bị
+613|bị
+614|bị
+615|bị
+616|bị
+617|bị
+618|bị
+619|bị
+620|bị
+621|bị
+622|bị
+623|bị
+624|chiếm
+625|chiếm
+626|chiếm
+627|chiếm
+628|chiếm
+629|chiếm
+630|chiếm
+631|chiếm
+632|chiếm
+633|chiếm
+634|chiếm
+635|chiếm
+636|chiếm
+637|chiếm
+638|chiếm
+639|chiếm
+640|chiếm
+641|chiếm
+642|chiếm
+643|chiếm
+644|chiếm
+645|chiếm
+646|chiếm
+647|chiếm
+648|chiếm
+649|chiếm
+650|chiếm
+651|chiếm
+652|chiếm
+653|chiếm
+654|chiếm
+655|chiếm
+656|chiếm
+657|chiếm
+658|chiếm
+659|chiếm
+660|chiếm
+661|chiếm
+662|chiếm
+663|chiếm
+664|chiếm
+665|chiếm
+666|chiếm
+667|chiếm
+668|chiếm
+669|chiếm
+670|chiếm
+671|chiếm
+672|chiếm
+673|chiếm
+674|chiếm
+675|chiếm
+676|chiếm
+677|chiếm
+678|chiếm
+679|chiếm
+680|chiếm
+681|chiếm
+682|chiếm
+683|chiếm
+684|chiếm
+685|chiếm
+686|chiếm
+687|chiếm
+688|chiếm
+689|chiếm
+690|chiếm
+691|chiếm
+692|chiếm
+693|chiếm
+694|chiếm
+695|chiếm
+696|chiếm
+697|chiếm
+698|chiếm
+699|chiếm
+700|chiếm
+701|chiếm
+702|chiếm
+703|chiếm
+704|chiếm
+705|chiếm
+706|chiếm

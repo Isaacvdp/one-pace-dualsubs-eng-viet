@@ -1,0 +1,332 @@
+1|Nhờ cả vào ngài đấy.
+2|Cứ giao cho tại hạ.
+3|Tại hạ xin đảm nhận...
+4|đưa thi thể ngài Yasuie về an táng ở Kuri.
+5|Xin hãy chăm sóc ngài ấy thật chu đáo.
+6|Đương nhiên rồi...
+7|Chúng tôi cũng mang ơn ngài Yasuie rất nhiều...
+8|Xong hết rồi! Đi thôi, Nami với Kanjuro!
+9|Ừ!
+10|À, tại hạ đến ngay! Mau lên nào!
+11|Thượng lộ bình an nhé!
+12|Tại một bến tàu trên đường từ Hoa Đô đến Kuri...
+13|Để bắt bọn phản tặc đê tiện đã ám sát ngài Orochi,
+14|chúng ta đã lập các trạm kiểm soát khắp Hoa Đô!
+15|Tất cả ngẩng mặt lên cho ta xem!
+16|Giờ làm sao đây?
+17|Có vẻ chạy thoát không dễ đâu.
+18|Không lên được chiếc thuyền đó thì không tới Kuri được.
+19|Phải nghĩ cách qua mặt chúng.
+20|Cái gì?!
+21|Nguyền rủa chúng mày!
+22|Bọn họ bị ma ám rồi!
+23|Cá-các người qua đi!
+24|Cuối cùng cũng qua được...!
+25|Otoko sao rồi?
+26|Con bé khóc mệt nên ngủ say trong vòng tay tôi.
+27|Tôi thật sự không biết nói gì với con bé...
+28|Cha ơi!
+29|Cha ơi!
+30|Bonekichi, đưa con bé cho tôi.
+31|Cậu không đủ ấm đâu.
+32|Phũ phàng quá!
+33|Không phải vậy chứ...?
+34|Ki-kia là...!
+35|Thuyền ư?
+36|Thuyền...
+37|Thuyền kìa!
+38|Tôi cạn lời rồi, Ashura!
+39|Cần sửa chữa chút ít...
+40|nhưng chúng tôi đã vớt chúng từ mọi bến cảng Wano bị Kaido phá hủy.
+41|Đủ để chở hàng ngàn chiến binh đến Onigashima!
+42|Các vị thật đáng tin cậy! Ta khâm phục các vị hơn rồi!
+43|Phải, tôi cũng vậy. Trước giờ ông đâu có biết điều thế này.
+44|Đâu phải tôi ngủ suốt hai mươi năm đâu chứ!
+45|Lát nữa tại hạ sẽ nhờ ngài Franosuke bảo dưỡng chúng!
+46|Hành trình cho đến nay thật dài và gian khổ,
+47|nhưng giờ ngày đột kích đã ở ngay trước mắt!
+48|Rõ ràng tao đã đạp con thuyền rơi khỏi thác rồi mà...
+49|King, đồ khốn! Lúc nào cũng làm ẩu!
+50|Queen, anh ơi... Sao lại đưa bà ta đến đây?
+51|Im đi! Mất liên lạc ở Udon! Biết làm sao bây giờ?!
+52|King!
+53|Ta sẽ bỏ qua chuyện ngươi đã làm với ta,
+54|nếu ngươi gia nhập ta.
+55|Đủ loại người sống ở đất nước ta... trừ ba loại.
+56|Một trong số đó dường như đã phai mờ vào sương khói thời gian...
+57|vậy mà ngươi lại đứng đây bằng xương bằng thịt.
+58|Ta từ chối!
+59|Tiếc thật.
+60|Thôi, mở cái còng này ra đi.
+61|"Thôi" cái gì chứ?! Kệ đi, bà già này!
+62|Nghe chưa?
+63|Big Mom và Tổng đốc Kaido từng cùng một băng hải tặc.
+64|Chuyện gì thế này? Thả bà ấy ra.
+65|– Tổng đốc Kaido! – Tổng đốc Kaido!
+66|Cuối cùng ngươi cũng chịu lộ mặt, Linlin.
+67|Kaido.
+68|Này, các ngươi! Đã bảo thả ta ra rồi mà.
+69|– Gì cơ?! – Gì cơ?!
+70|Không thể nào! Chắc là đùa thôi...
+71|Thả bà ấy ra!
+72|Kaido...!
+73|Đã bao nhiêu thập kỷ rồi nhỉ...?
+74|Napoleon!
+75|Vâng, Mama!
+76|Mừng quá, bà trở lại bình thường rồi!
+77|Con nhút nhát trước người lạ nên chẳng làm được gì!
+78|Ta đã nói sẽ giết ngươi nếu ngươi lộ mặt ở đây.
+79|Đứa ngu nào lại đi xa thế này để tự nộp mạng chứ?
+80|Nhị Kiếm Lưu...
+81|Phượng Hoàng Bảy Mươi Hai Cân!
+82|Tao nhiều vũ khí hơn mày!
+83|Rốt cuộc ngươi là ai hả?!
+84|Là bạn... hay là thù?!
+85|Ngươi là cái quái gì vậy?!
+86|Sao lại cướp vũ khí của người qua cầu?!
+87|Trả kiếm lại cho tôi.
+88|Đừng bỏ mạng vì một thanh kiếm.
+89|Ta không thể cho trả lại! Kiếm nào ta cũng cho, trừ thanh đó!
+90|Thanh kiếm ngươi mang là Shusui, quốc bảo của Wano bị đánh cắp!
+91|Cái gì? Shusui?!
+92|Tai họa của chúng ta bắt đầu từ lúc nó bị lấy đi!
+93|Thần Kiếm nổi giận,
+94|khiến từng vùng bại trận liên tiếp, cho đến khi cả nước rơi vào tay quân xâm lược!
+95|"Thần" gì mà nhảm nhí thế?!
+96|Đồ phạm thượng!
+97|Dừng tay lại!
+98|Điều gì khiến một samurai và một nhà sư đánh nhau ở chốn hoang vu này?
+99|Buồn cười nhất là cả hai đều không định giết đối phương!
+100|Người cá?
+101|Kawa... matsu...
+102|Kawamatsu?! Là ông sao?!
+103|Sao ngươi biết tên ta?!
+104|Bao giờ họ mới thôi đánh nhau đây?!
+105|Có nên sơ tán vào đất liền không?!
+106|Nghe đây, các anh em!
+107|Thằng ngu nào lại bỏ chạy khi đại ca đang đánh nhau?!
+108|Đồ nhát cáy!
+109|Queen, anh đến đây từ khi nào?
+110|Anh cũng chạy à?!
+111|Không-không phải vậy...
+112|Thôi, Udon có tin gì không?
+113|Về chuyện đó, ốc sên truyền tin vẫn chưa kết nối được.
+114|Được! Để ta đi xem sao!
+115|Ngài Tuyệt Vời định trốn! Không công bằng!
+116|Không, ta nói là "ta đi xem sao"!
+117|Đưa đây!
+118|À, vâng ạ!
+119|Alo, Queen đây!
+120|– Được rồi! Queen! – Được rồi! Queen!
+121|Tôi là Quản ngục Babanuki ở Udon.
+122|Ừ. Có vẻ ốc sên truyền tin đã hoạt động lại rồi.
+123|Vâng, mới vừa nãy thôi.
+124|Tôi dẫn nhiều người về cùng.
+125|Nếu bên ngài thiếu người, chúng tôi có thể sang.
+126|Cách tìm cớ để đi mới ngầu làm sao!
+127|Tạm thời chưa cần đâu.
+128|Chậc!
+129|– Từ chối! – Từ chối!
+130|Mũ Rơm Luffy, thuyền trưởng Kid,
+131|và mọi tên gây rối đều đã bị nhốt trong phòng giam.
+132|Ra vậy...
+133|Nên tôi gọi báo mọi chuyện đều ổn.
+134|Báo tao là có chuyện đi!
+135|Ngài Tuyệt Vời!
+136|Hết.
+137|Thế nào ạ, thưa thầy?!
+138|Giỏi lắm! Cảm ơn nhé!
+139|Ngoan lắm!
+140|Tất nhiên rồi!
+141|Đây là phép thuật gì vậy?!
+142|Một viên bánh kê đã thuần phục kẻ địch!
+143|Có vẻ nó có tác dụng với động vật và những người có sức mạnh động vật.
+144|Mọi chuyện trơn tru quá.
+145|Tất cả nhờ ngươi, Caribou!
+146|Ồ, phải rồi!
+147|Tất cả là nhờ tôi!
+148|Giờ bọn địch bên ngoài tưởng hàng ngàn tù nhân chúng ta đang ngồi yên trong phòng giam!
+149|Không biết kẻ địch sẽ sửng sốt đến mức nào vào ngày chiến đấu!
+150|Các người nợ tôi đấy!
+151|Đã hiểu!
+152|Tuyệt! Cuối cùng cũng liên lạc được với nhóm Kin'emon.
+153|Bác sĩ Chopperemon!
+154|Chúng tôi thề sẽ báo đáp ơn này, dù phải trả giá bằng mạng sống!
+155|Không sao. Đây là loại virus tương đối dễ chữa.
+156|Vả lại, món nợ của samurai nặng quá, tôi không gánh nổi.
+157|Ơn trời!
+158|Ngay cả Luffytaro cũng khỏe lại rồi...
+159|Đi thôi các cậu!
+160|– Ừ! – Ừ!
+161|– Luffytaro! – Anh đỉnh lắm!
+162|– Làm thôi! – Chuẩn luôn!
+163|Có vẻ cậu ấy lại khỏe mạnh và được yêu mến rồi.
+164|Nhờ cậu chủ Momonosuke đưa cậu ấy đến đây mà cậu ấy giành được lòng tin của họ!
+165|Không thể nhầm được.
+166|Ngài vẫn chẳng đổi thay chút nào...
+167|Lâu lắm rồi...
+168|Đại ca Hyogoro!
+169|Ồ, là họ!
+170|Omasa, Bút Đẫm Máu!
+171|Tsunagoro Mũ Nứt!
+172|Ocho Nguyệt Hoa!
+173|Yatappe Mắt Rắn!
+174|Các đại ca mỗi vùng vẫn ở đây suốt!
+175|Không ngờ tại hạ lại có ngày được phụng sự các vị lần nữa.
+176|Tại hạ mừng vì các vị bình an vô sự!
+177|Lời khen của ngài phí với hạng như chúng tôi.
+178|Phải, phí như đi đại tiện sau khi tắm.
+179|Đúng thế!
+180|Chắc chắn rồi.
+181|Họ lạ thật! Mà ông già, tự nhiên ông ra dáng đại ca với họ thế!
+182|"Ông già"?!
+183|Chết rồi!
+184|– Nhổ móng nó! – Chặt ngón tay nó!
+185|Xé tai nó!
+186|Liệu hồn đi, thằng nhãi!
+187|Móng nào và mấy cái?
+188|– Xin lệnh, đại ca? – Xin lệnh, đại ca?
+189|Đủ rồi! Ta nợ cậu ấy một mạng!
+190|Chúng tôi sẽ lập tức gom hết quân phản loạn còn ẩn náu khắp nước.
+191|Ừ! Nhờ cả vào các vị!
+192|– Đã hiểu! – Đã hiểu!
+193|Cậu thoát chết rồi đấy, chàng trai...
+194|Từ giờ nhớ cẩn thận.
+195|Ai thèm quan tâm, lũ khốn!
+196|Bất ngờ thật!
+197|Hóa ra kẻ ở Kuri đã cuỗm bản vẽ...
+198|lại chính là ngài!
+199|Chúng tôi vẫn đang tìm bản vẽ dinh thự của Kaido trên Onigashima!
+200|Ồ, nhưng tại hạ đã làm phiền ngài Franosuke nhiều rồi...
+201|Nhưng giờ ta có thể lập kế hoạch xâm nhập lãnh địa địch!
+202|Ngài thật phi thường!
+203|Trước giờ ngài vẫn biết điều thế này sao?
+204|Đủ rồi đấy, Chó!
+205|Raizo phải không? Mọi chuyện sao rồi? Đã cứu Luffytaro chưa?
+206|Chúng tôi đã làm được việc đó và còn nhiều hơn thế!
+207|Chuyện dài lắm, nhưng ước tính sơ bộ lực lượng hiện tại là...
+208|Ba-ba ngàn rưỡi?!
+209|Sao có nhiều thế được?!
+210|Ngài Luffy được cứu an toàn, còn tìm và giải thoát cả Kawamatsu nữa sao?!
+211|Ồ, Kawamatsu cũng bị bắt à?
+212|Các vị còn chiếm cả khu mỏ nữa sao?!
+213|Các vị làm được nhiều hơn là cứu Luffy!
+214|Onigashima, chúng ta đến đây!
+215|– Ừ! – Ừ!
+216|Vẫn còn những chiến binh sẽ gia nhập hàng ngũ ta!
+217|Tuy nhiên, tại hạ phải báo một vấn đề còn tồn đọng.
+218|Có vài xưởng vũ khí rải rác khắp Wano,
+219|nhưng gần như toàn bộ sản phẩm là máy móc chiến tranh để xuất khẩu!
+220|Samurai quen dùng kiếm và giáo hơn.
+221|Hiện giờ rất khó kiếm chúng vì Orochi cấm mang vũ khí.
+222|Nếu không trang bị được cho quân khởi nghĩa, cuộc chiến sẽ kết thúc trước khi bắt đầu!
+223|Phải, tại hạ hiểu!
+224|Vấn đề đúng là nghiêm trọng.
+225|Biết tìm kiếm ở đâu đây...?
+226|Bên tôi cũng có tiến triển, nhưng lát nữa tôi sẽ kể!
+227|Tại hạ cần đánh giá sức chiến đấu,
+228|nên tại hạ sẽ đến làng Amigasa và lập nơi đó làm căn cứ.
+229|Raizo, khi gặp lại hãy kể hết về nhóm của ngài nhé!
+230|Đã hiểu!
+231|Được, đi thôi!
+232|Tại hạ không thể tin nổi...
+233|Có thật là ngài không?!
+234|Kawamatsu!
+235|Hả?
+236|Không thể nào...!
+237|Khoan... ngài là...?
+238|Kawamatsu!
+239|Thật bất ngờ khi gặp ngài ở đây!
+240|Hơn hết, tại hạ vui mừng khôn xiết khi thấy công chúa Hiyori bình an!
+241|Phải rồi, cô bé có nói một con kappa đã nuôi mình sau khi cha mẹ mất.
+242|Xin hãy tha lỗi vì lúc đó tại hạ đã sợ hãi bỏ chạy.
+243|Dù chỉ là chút vụn, ngài vẫn luôn chia cho tại hạ mọi thức ăn ngài tìm được...
+244|Than ôi, tu luyện của tại hạ chưa hoàn tất...
+245|Kawamatsu...
+246|Tôi không đành lòng nhìn ngài hao mòn từng năm.
+247|Nếu chỉ có một mình, ngài sẽ sống sót...
+248|Tôi bị ám ảnh bởi ý nghĩ rằng sự hiện diện của mình khiến ngài chết...!
+249|Công chúa!
+250|Vậy nghĩa là...?
+251|Xin lỗi, Kawamatsu.
+252|Nếu tôi không hành động, ngài không thể sống sót!
+253|Tôi đã quá sợ hãi... nên bỏ chạy.
+254|"Kawamatsu thân mến,
+255|Cảm ơn ông vì tất cả. Giờ tôi sẽ ổn. Hiyori."
+256|Cái gì?!
+257|C-Công chúa Hiyori!
+258|Công chúa Hiyori!
+259|Công chúa!
+260|Công chúa...
+261|Ngài cũng không ở đây...
+262|Công chúa Hiyori!
+263|Ngài ở đâu, công chúa Hiyori?!
+264|Công chúa Hiyori...
+265|Công chúa Hiyori...
+266|Công chúa... Ngài đã đi đâu...?
+267|Công chúa...
+268|Công chúa Hiyori!
+269|Xin lỗi. Tại hạ thật sự xin lỗi.
+270|Lý do tử tế quá! Thì ra là vậy!
+271|Nhờ ngài mà tôi béo tốt hẳn lên!
+272|Ai...?!
+273|Bọn ta đến báo thù đây, Gyukimaru!
+274|Bọn ta chịu đủ chuyện ngươi cướp vũ khí rồi!
+275|Hôm nay bọn ta lấy lại hết!
+276|Chắc giờ ngươi không nhúc nhích nổi! Khẩu súng này dùng để săn thú dữ!
+277|Núp sau cây đi, công chúa Hiyori!
+278|Vâng!
+279|Hửm? Chúng đi cùng Gyukimaru à?
+280|Kệ. Giết hết chúng!
+281|Chết đi!
+282|Kappa Lưu...
+283|Nhị Kiếm Lưu...
+284|Dòng Sông Báo Oán!
+285|Tê Giác Xoay!
+286|Ngài Kawamatsu!
+287|Kawamatsu!
+288|Công chúa Hiyori, người không sao chứ?
+289|Ngài Kawamatsu...
+290|Này, khoan! Lại bỏ chạy nữa à?!
+291|Đồ khốn! Trả Shusui cho tao!
+292|Ngài Kawamatsu, may quá... thấy ngài bình an!
+293|Thị trấn Ebisu
+294|Đất nước Wano
+295|Đất nước Wano
+296|Kuri
+297|Kuri
+298|Kibi
+299|Kibi
+300|Hoa Đô
+301|Hoa Đô
+302|Ringo
+303|Ringo
+304|Udon
+305|Udon
+306|Hakumai
+307|Hakumai
+308|Oni
+309|Oni
+310|Tây Nam Kuri
+311|Onigashima
+312|Ngày hôm sau
+313|Cầu Oihagi Ringo
+314|Oni- gashima
+315|Khu mỏ tù nhân Udon
+316|Omasa
+317|của Udon
+318|Tsunagoro
+319|của Hakumai
+320|Ocho
+321|của Ringo
+322|Yatappe
+323|của Kibi
+324|Kibi
+325|Kibi
+326|Hoa Đô
+327|Hoa Đô
+328|Ringo
+329|Hakumai
+330|Hakumai
+331|Udon
+332|Cầu Tặc Ringo

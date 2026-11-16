@@ -1,0 +1,420 @@
+1|Gì cơ?!
+2|Oden, ngài đi sao?!
+3|Sẽ bớt rắc rối, nhưng chúng ta sẽ nhớ ngài ấy.
+4|Nghe nói có một con quái vật sống ở Kuri.
+5|Một con quỷ tên là Ashura Doji.
+6|Kuri là một khối ung nhọt của Wano...
+7|Ngay cả Tướng quân Sukiyaki cũng không kiểm soát được.
+8|Chính quyền bất lực trong việc bắt tội phạm trốn vào Kuri.
+9|Nhưng nếu yếu thì họ cũng sẽ chết ở đó thôi.
+10|Một vùng vô pháp như vậy chẳng khác nào một đất nước khác!
+11|Thú vị thật! Ta sẽ đi du ngoạn khắp Wano!
+12|Bảo trọng nhé!
+13|Kin! Denjiro!
+14|Lại đến thăm chúng tôi nhé!
+15|Hẹn gặp lại!
+16|Ngài ấy muốn đến thì đến, muốn đi thì đi.
+17|Ngài ấy là người tự do.
+18|Yasuie-sama!
+19|Có chuyện rồi!
+20|Xem tình trạng phòng ngài ấy ở này!
+21|Lối sống kiểu gì mà ra nông nỗi này?!
+22|Phải bắt ngài ấy trả tiền sửa chữa!
+23|Hoặc ta cứ giả vờ là bị thiên tai...
+24|Thưa ngài, ngài quá mềm yếu với ngài ấy!
+25|Yasuie-sama!
+26|Lại chuyện gì nữa?
+27|Mất tiền sao?
+28|Vâng, và thần chắc chắn nó đã được khóa trong két!
+29|Ừm...
+30|Thật đau lòng khi phải nói điều này...
+31|nhưng thần đã chứng kiến toàn bộ!
+32|Ừm... Oden-sama...
+33|đã nhét tiền vào túi trong ngực áo...
+34|Ta biết ngay là hắn làm mà!
+35|Hắn cắn lại bàn tay đã nuôi hắn!
+36|Không thể tha thứ!
+37|Ta nghĩ Oden sẽ lấy một cách công khai.
+38|Ngươi chắc chứ, Orochi?
+39|V-Vâng! Xin ngài thứ lỗi!
+40|Thần sợ đến mức không thể ngăn ngài ấy!
+41|Sau khi rời Hakumai, nhóm của Oden tiếp tục gây rắc rối khắp Wano
+42|trên đường hướng đến Kuri.
+43|Hai người định theo ta đến bao giờ?!
+44|Mãi mãi!
+45|Bọn tôi yêu ngài lắm!
+46|– Trông ngài ấy bực quá! – Trông ngài ấy bực quá!
+47|Này! Sao các ngươi đứng ngoài đó?
+48|Là thuộc hạ, bọn tại hạ phải đứng canh.
+49|Vào đây đi, lũ ngốc!
+50|– Oden! – Oden!
+51|Ngài đang làm gì vậy?
+52|Ta đang ghi nhật ký hành trình.
+53|Nghe nói những người đi biển ngày nào cũng ghi vào đó trên tàu.
+54|Sau đây là lời của chính Oden về các chuyến đi của ngài.
+55|Ở Ringo, bọn ta gặp hai anh em đói khát mặc quần áo rách rưới.
+56|Cút đi!
+57|Họ cố kiếm tiền bằng cách nhảy múa, nhưng người ta thờ ơ.
+58|Sao hai ngươi cứ theo ta?!
+59|Đừng ăn nữa, lũ nhóc!
+60|Em muốn ăn thêm.
+61|Ta bảo dừng lại!
+62|Đừng cho nó thêm nữa!
+63|Họ nói mình là người thừa kế một phái múa,
+64|nhưng cha họ bị bắt nên gia đình tan nát.
+65|Họ trơ trẽn ăn oden của bọn ta, vừa ăn vừa khóc nức nở.
+66|Ở Kibi, có một con quỷ chuyên thu tóc của cả người sống lẫn người chết.
+67|Hắn là một gã quái dị kiếm sống bằng cách bán bàn chải làm từ tóc.
+68|Ối! Tôi đầu hàng! Tôi đầu hàng! Tôi đầu hàng! Tôi tưởng ngài là xác chết!
+69|Ta đấm hắn vì dám nhắm vào tóc ta, nhưng rồi hắn cũng bắt đầu theo ta.
+70|Hắn nói đã chịu khổ sở vì bị ngược đãi, và cũng đáng đời.
+71|Ở Udon rừng rậm, có tin đồn về một tên cướp núi khét tiếng.
+72|Người ta nói phụ nữ sẽ bị bắt cóc, còn đàn ông bị đánh te tua.
+73|Sao các ngươi ai cũng theo ta?!
+74|Ngài nói gì lạ vậy!
+75|Đó là tên cướp núi sao?!
+76|Nhảy!
+77|Oden-sama!
+78|Ninja thiên tài Raizo đã rời Oniwabanshu của gia tộc Kozuki sau khi bị một nữ ninja làm tan nát trái tim.
+79|Tại hạ không thể sống lẩn trốn thêm nữa!
+80|Trông ngài ấy bực quá...
+81|Kozuki Oden đã đến Kuri?
+82|Hắn là con trai tướng quân!
+83|Tao muốn tự tay giết hắn!
+84|Bắt hắn và mang đến đây!
+85|– Rõ! – Rõ!
+86|Những kẻ nắm quyền... Bọn tao ghét chúng nhất!
+87|Oden đâu rồi?
+88|Ngài ấy đi về phía nam đây để đi đại tiện.
+89|Chẳng phải là hôm qua sao?
+90|Thỉnh thoảng ngài ấy biến mất một hai ngày vì hứng chí, đúng không?
+91|Này, Raizo! Có một cổng vào Kuri ở phía nam!
+92|Gì cơ?!
+93|Chết tiệt! Tại hạ đã thề chết vì ngài ấy, vậy mà giờ lại đến muộn ở chiến trường!
+94|Nơi này nồng nặc mùi chết chóc, máu và bạo lực!
+95|Cứ như một thế giới khác.
+96|Mọi sát khí của chúng đều nhắm vào ta!
+97|Tao sẽ chặt đầu mày, Kozuki Oden!
+98|Ngươi là Kozuki Oden hả?
+99|Ta đã bị từ mặt,
+100|nên không còn tên nữa!
+101|Mày muốn vào thì cứ vào, nhưng ai muốn ra thì bọn tao giết!
+102|Nhất là samurai!
+103|Thật gò bó!
+104|Làm sao có người sống nổi ở nơi như thế này?!
+105|Buồn cười thật.
+106|Mày sẽ không bao giờ rời khỏi nơi này!
+107|Không, đừng hòng nghĩ đến chuyện rời đi!
+108|"Đừng hòng nghĩ đến chuyện rời đi"?
+109|Đó là luật ta ghét nhất!
+110|Ở đây ta đặt ra luật!
+111|Chém hắn!
+112|Vậy ngươi là trùm à?
+113|– Oden! – Oden!
+114|Oden!
+115|Nhìn kìa! Cổng bị phá rồi!
+116|Thằng khốn lớn lên trong nhung lụa ở kinh đô...
+117|làm sao hiểu được sống trong địa ngục là thế nào?!
+118|Chỉ có thế thôi sao ngươi muốn nói?!
+119|Nhìn kìa!
+120|Trên kia!
+121|Oden! Bọn tại hạ đến yểm trợ ngài!
+122|Ta phải xin lỗi.
+123|Hình như ta đã xong việc rồi.
+124|Mất cả một ngày một đêm.
+125|Giết tao đi!
+126|Dù sao tao cũng biết tương lai thế nào rồi.
+127|Tao chẳng còn gì để sống!
+128|Đây là Ashura Doji khét tiếng sao?!
+129|Này, các ngươi!
+130|Các ngươi còn yêu ta không?
+131|Hãy cho ta mượn trí tuệ và sức mạnh của các ngươi!
+132|Ta đã quyết định rằng lũ cặn bã vô dụng ở đây...
+133|cần ta làm vua của chúng!
+134|Thưa Tướng quân! Oden-sama lại làm loạn rồi!
+135|Gì? Lần này nó làm gì?!
+136|Xem cái này!
+137|Vùng Kuri vô pháp đó...
+138|Chỉ có nó mới làm được điều này...
+139|Tất cả đều là sự thật sao?
+140|Dẫn dắt đám côn đồ của vùng đất Kuri đẫm máu như địa ngục,
+141|Oden đã tận dụng nguồn năng lượng dồi dào của họ để biến vùng đất hoang dã thành nơi có thể sinh sống.
+142|Sau khi nghe về thành tích này, Tướng quân Kozuki Sukiyaki đã thu hồi lệnh từ mặt
+143|và ban cho con trai danh hiệu daimyo của Kuri.
+144|Oden-sama vĩ đại của chúng ta sẽ trở thành daimyo của Kuri!
+145|Hoan hô!
+146|Vậy thì nó sẽ thành một tỉnh chính thức!
+147|Không thể tin được! Nhưng bọn tôi đã kiên trì đến cùng!
+148|Kin...
+149|Anh làm được rồi! Oden yêu quý của chúng ta đã làm được!
+150|Hoan hô!
+151|Ngài tuyệt vời, Oden!
+152|Cuối cùng ngài cũng là Kuri–
+153|Oden!
+154|Quá đúng!
+155|Daimyo!
+156|– Oden-sama! – Oden-sama!
+157|Có chuyện gì vậy, Ashura?
+158|Ta...
+159|chưa từng thấy hòa bình.
+160|Cảm ơn ngài, Oden!
+161|Dừng lại! Ngươi làm ta rợn người!
+162|Thằng khốn!
+163|Mày làm gì vậy?! Dừng lại!
+164|Này!
+165|Tao bảo "Dừng lại" mà!
+166|Chết tiệt!
+167|Thôi đi chứ!
+168|Giờ thì, một daimyo cần có thuộc hạ.
+169|Thay vì vây quanh mình bằng những người khôn ngoan, điềm đạm như thường lệ...
+170|ta thích có tất cả các ngươi hơn.
+171|Hãy làm samurai của ta!
+172|– Oden-sama! – Oden-sama!
+173|D-D-Dừng lại!
+174|Nước mũi của ngươi! Nước mũi của ngươi! Nó đang chảy! Ôi, dính vào ta rồi!
+175|Dừng lại!
+176|Sáu năm sau thời điểm đó... tức ba mươi ba năm trước hiện tại...
+177|trên khắp thế giới, các thành viên tan rã của băng Rocks huyền thoại
+178|mỗi người lập một băng mới, mở rộng thế lực và trở nên khét tiếng.
+179|Chúng là gì vậy? Động vật à?
+180|Người lông lá?
+181|Quái vật dị dạng?
+182|Cậu lấy được chưa?
+183|Rồi...
+184|Vào quá khứ xa xưa, nhiều thế kỷ trước,
+185|tộc Mink chúng tôi và samurai của gia tộc Kozuki ở Wano
+186|đã thề kết nghĩa huynh đệ.
+187|Chết tiệt! Wano tệ nhất!
+188|Khốn kiếp! Thả tao xuống!
+189|Tôi là kappa!
+190|Vậy thì mày là quái vật!
+191|Giá mà bọn tôi đừng ra khơi!
+192|Giá mà bọn tôi đừng đến đây!
+193|Đây không phải cách đối xử với huynh đệ!
+194|Quái vật mèo, quái vật chó, và một con kappa...
+195|Bãi biển này bị nguyền à?
+196|Thiêu sống chúng đi!
+197|Đừng làm thế!
+198|Thế là đủ nguyên liệu cho món oden hôm nay rồi...
+199|Lũ khốn các ngươi!
+200|Tất cả các ngươi nên thấy xấu hổ!
+201|Các ngươi sợ điều khác biệt vì ngu dốt!
+202|Hành hạ những sinh vật nhỏ bé như vậy thật đáng hổ thẹn!
+203|Cảm ơn ngài...
+204|Tạm biệt.
+205|– Đừng bỏ bọn tôi như vậy! – Đừng bỏ bọn tôi như vậy!
+206|Vậy ai mới là quái vật?
+207|Họ đã theo ta.
+208|Cảm ơn đã cứu bọn tôi!
+209|Nóng quá!
+210|Vừa đói, vừa đắm tàu, lại bị đám đông hung hãn, bọn tôi suýt chết!
+211|Ối!
+212|Này! Nóng quá không ăn được!
+213|Ồ...
+214|Ta vẫn chưa quen nhìn động vật biết nói.
+215|Tộc Mink!
+216|Cha ta từng kể về họ.
+217|Ta đã nghĩ vậy!
+218|Nước bọn tôi cũng có biểu tượng đó!
+219|You-gara và dân tộc bọn tôi là huynh đệ!
+220|Và ngài đã cứu mạng bọn tôi!
+221|Bọn tôi đang đói lả...
+222|Ra vậy...
+223|Cứ ăn bao nhiêu tùy thích.
+224|Mời người ơn của chúng ta.
+225|Ối!
+226|Đừng ngại.
+227|Ngươi sẽ thích củ cải.
+228|Tôi sẽ không quên ơn này.
+229|Nóng!
+230|Thử hanpen đi.
+231|Ối!
+232|Konnyaku–
+233|Không! Nóng quá không ăn được!
+234|Lưỡi tôi nhạy cảm như lưỡi mèo!
+235|Mèo hư!
+236|Này! Khoan, Mèo!
+237|Này, Mèo!
+238|Oden sinh ra...
+239|để bị nấu sôi!
+240|– Cũng ngầu đấy! – Cũng ngầu đấy!
+241|Ta thấy ngon mà.
+242|Còn ngươi là gì?!
+243|Con tàu mẹ con tôi đi bị đắm, và...
+244|bọn tôi dạt vào đất nước này.
+245|Bọn tôi cầu cứu, nhưng người ta ném đá vì bọn tôi là người cá.
+246|Mẹ tôi bị thương nên bọn tôi không thể quay về nơi mình đến.
+247|Trước khi mất, mẹ tôi dặn,
+248|"Người cá bị phân biệt đối xử...
+249|nên hãy nói con là kappa."
+250|Tôi là Kawamatsu Kappa.
+251|Tôi sống nhờ đồ ăn thừa.
+252|Cảm ơn ngài đã cứu tôi và đãi tôi bữa ăn ngon thế này.
+253|Tôi sẽ không bao giờ quên.
+254|Tôi ăn phần còn lại được không?
+255|Vớ vẩn. Bọn ta sẽ nấu thêm, đợi chút thôi.
+256|Không, không cần đâu. Vẫn ăn được mà.
+257|Ôi không...
+258|Ta đã không bày tỏ lòng biết ơn đúng cách.
+259|Ta đã lãng phí đồ ăn.
+260|Ngươi lớn rồi đấy.
+261|Mèo xin lỗi nhìu lắm, Kappa!
+262|Mèo cũng ăn luôn!
+263|Vẫn nóng quá!
+264|Con mèo thú vị thật!
+265|Mèo!
+266|Chắc chắn vẫn còn những sinh vật ta chưa từng thấy ngoài kia.
+267|Gặp các ngươi khiến ta lại thêm khao khát một ngày nào đó ra khơi!
+268|Hay quá!
+269|Thế giới rộng lớn lắm!
+270|Thôi, bảo trọng nhé!
+271|Cho bọn tôi ở lại đây đi!
+272|Các ngươi nghe lén bọn ta à?!
+273|Bọn tôi không có nơi nào để đi!
+274|Được rồi! Được rồi!
+275|Hoan hô!
+276|Lại thêm người...
+277|Chắc ngài đúng là không thể từ chối ai.
+278|Thế cũng được, nhưng bọn ta đang gặp khó khăn.
+279|Ngài lại cho Orochi vay tiền mà không hỏi ta!
+280|Sao lại giúp tên đáng ghét đó?!
+281|Là thế này...
+282|Hắn giờ có thể đã độc lập, nhưng với mối quan hệ với Yasuie, ta không thể bỏ rơi hắn.
+283|Bước chân im lặng. Bước chân lén lút. Bước chân ninja.
+284|Hiểu chưa? Đây là những điều cơ bản.
+285|– Rõ! – Rõ!
+286|Đi thôi!
+287|Đừng sợ Yasuie!
+288|Bước chân im lặng. Bước chân lén lút. Bước chân ninja.
+289|– Bước chân im lặng. Bước chân lén lút. Bước chân ninja. – Bước chân im lặng. Bước chân lén lút. Bước chân ninja.
+290|Sao các ngươi lại muốn ăn trộm nhiều tiền thế này?
+291|Oden-sama hết tiền rồi!
+292|Muốn giết bọn ta thì làm đi, đồ nhím!
+293|Nếu giúp được Oden-sama...
+294|thì tôi vui lòng chết!
+295|Chết tiệt Oden. Ngươi đúng là biết chọn người.
+296|Ta đưa các ngươi số tiền các ngươi định trộm.
+297|– Gì?! – Gì?!
+298|Yasuie-sama! Đây là công quỹ của Hakumai!
+299|Và sao?
+300|Các ngươi cũng có thể lấy cái này. Của các ngươi đấy!
+301|Còn nhiều tiền hơn nữa?!
+302|Đùa à! Đây là bẫy sao?!
+303|Các ngươi yêu Oden không?
+304|Vậy thì cầm số tiền này, ăn mặc cho tử tế, học cách cư xử, mua sách và học đi!
+305|Những thứ này không hợp với bọn tôi!
+306|Ta là...
+307|Không! Nói từ bụng ra!
+308|Ta là...!
+309|Có một đám thuộc hạ hạ đẳng như các ngươi chỉ làm nhục Oden!
+310|Oden-sama, xin ngài vui lòng nói rõ tâm trạng ngài sáng nay thế nào?
+311|Món ganmodoki này thật tuyệt hảo!
+312|Các ngươi bị làm sao vậy?! Tất cả làm ta rợn người!
+313|Ngài ấy là người một ngày nào đó sẽ trở thành tướng quân của Wano!
+314|Những người phục vụ ngài ấy phải là những samurai giỏi nhất Wano!
+315|Dĩ nhiên, bảo vệ chủ nhân là điều bắt buộc.
+316|Kinh đô...
+317|Không, cả đất nước Wano sẽ có các ngươi làm người bảo vệ!
+318|Nghe nói daimyo của Kuri và đoàn tùy tùng sắp đến kinh đô.
+319|Cẩn thận đừng bị cướp.
+320|Thuộc hạ của Oden-sama là đám côn đồ nổi tiếng.
+321|Nhìn kìa! Họ đến rồi!
+322|– Hả...? – Hả?
+323|Gì?!
+324|Ôi trời! Nhìn các samurai kìa!
+325|Thuộc hạ của Oden-sama lúc nào cũng đường hoàng thế này sao?
+326|Tôi suýt không nhận ra!
+327|Cứ như đoàn rước của tướng quân vậy!
+328|Dáng vẻ uy nghi của các samurai ấy huy hoàng đến mức có người quên cả thở.
+329|Và khắp kinh đô, người ta quỳ rạp xuống.
+330|Này, Phụ thân!
+331|Oden!
+332|Con đã trở thành một người đàn ông tuyệt vời!
+333|Ai cũng ngạc nhiên!
+334|Con chỉ được biến thành người đàn ông tuyệt vời thôi.
+335|Nhưng con vẫn như xưa!
+336|C-C-Con trai ta Oden biết biết ơn người khác sao?!
+337|Sao cha lại sợ thế?
+338|Nghe tin cha ốm, Oden vội về kinh đô và nhẹ nhõm khi thấy ông khỏe mạnh.
+339|Tuy nhiên, đó sẽ là lần cuối họ trò chuyện với nhau.
+340|Có vẻ nơi này có người ở.
+341|Pops, sửa phải mất một tuần.
+342|Nước làm hỏng hầu hết hàng hóa!
+343|Phải kiếm đồ tiếp tế.
+344|Ai muốn đi?!
+345|Gần như ai cũng đi vì cần vận động.
+346|Chúng ta đã leo lên thác đúng không?
+347|Sao ở đây lại có biển và đảo?
+348|Có chuyện rồi, Kanjuro-dono!
+349|Chuyện gì?
+350|Bình tĩnh! Ngươi ồn quá!
+351|Có báo cáo một tàu hải tặc cập bến cảng Itachi!
+352|Hải tặc?!
+353|Oden-sama!
+354|Ngài đi đâu vậy?!
+355|Đến cảng!
+356|Ta đi đây! Ta đi đây!
+357|Được rồi, bọn tôi đi lấy đồ tiếp tế.
+358|Em cũng đi!
+359|Không được.
+360|Em chỉ là học việc!
+361|Đừng nói thế!
+362|Pops! Em đi được không?
+363|Tùy ngươi.
+364|Được rồi! Đi thôi!
+365|Nhanh lên! Nhanh lên!
+366|Tôi đã bảo học việc không được đi!
+367|Ở lại đây!
+368|Gì cơ?!
+369|Oden-sama đã đến cảng?!
+370|Sao các ngươi để ngài ấy đi?!
+371|Nghe nói có tàu hải tặc ở cảng Itachi!
+372|Lại còn khác thường nữa!
+373|Họ nói tàu to và bọn hải tặc trông dữ tợn!
+374|Phải ngăn ngài ấy lại!
+375|Ngài ấy chỉ đi đuổi chúng thôi, đúng không?!
+376|Không đời nào!
+377|Chắc chắn các vị biết về...
+378|ước mơ của Oden-sama!
+379|Đó là tàu hải tặc sao?!
+380|Ta đã chờ đợi...
+381|khoảnh khắc này!
+382|Rắc rối đến rồi.
+383|Này, tất cả lùi lại!
+384|– Gì? – Gì?
+385|Có thứ gì đang đến!
+386|Một thứ không tưởng!
+387|Giỏi lắm!
+388|Các ngươi đã vượt qua thời tiết khủng khiếp và thác nước! Ấn tượng thật!
+389|Ta đã chờ các ngươi, hải tặc!
+390|Các ngươi thật phi thường!
+391|Tao sẽ bắt mày trả giá!
+392|Lại đây, thằng nhãi!
+393|Ta đã chờ một người như ngươi!
+394|Tên ta là Kozuki Oden!
+395|Ta không biết ngươi là ai, nhưng xin cho phép ta...
+396|lên tàu của ngươi!
+397|Hakumai Wano
+398|Ringo
+399|Izo Con trai cựu chưởng môn phái múa Hanayanagi
+400|Kikunojo Em trai của Izo
+401|Kibi
+402|Kanjuro Quỷ của Kibi
+403|Udon
+404|Raizo Cựu thành viên Oniwabanshu của gia tộc Kozuki
+405|Vùng vô pháp Kuri
+406|Ashura Doji Con quái vật mạnh nhất Kuri
+407|Kuri
+408|Hoa Đô
+409|Cải tạo Kuri
+410|Bãi biển Kuri Wano
+411|Gân bò
+412|Gân bò
+413|Inuarashi Mink
+414|Neko- mamushi Mink
+415|Kawamatsu "Kappa"
+416|Hakumai
+417|Ba năm sau Ba mươi năm trước hiện tại
+418|Hoa Đô
+419|Cùng năm đó... Cảng Itachi Kuri
+420|Thuyền trưởng Edward Newgate Băng Râu Trắng

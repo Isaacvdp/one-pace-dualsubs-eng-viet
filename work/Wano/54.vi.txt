@@ -1,0 +1,475 @@
+1|Hòn đảo đang bay sao?!
+2|Chuyện này... thật sự đang xảy ra sao?!
+3|Kaido rốt cuộc mạnh đến mức nào?!
+4|Gì?!
+5|Tại sao?!
+6|Sao lại thế?!
+7|Marco Phượng Hoàng?!
+8|Vậy thì thử cái này nào!
+9|Ái! Ui da, da, da!
+10|Chopper!
+11|Nóng! Nóng! Cháy mất!
+12|Này! Quá đáng rồi đấy!
+13|Tôi tưởng chúng ta cùng phe chứ!
+14|Marco!
+15|Marco...!
+16|Bọn họ nóng tính thật...
+17|Ui da, da, da, da, da...
+18|Chopper! Tôi sẽ dập lửa!
+19|Nó đang đốt cánh tay tôi!
+20|Nó cũng sẽ thiêu cả tôi–
+21|Hay không?
+22|Ngọn lửa này...
+23|Ái! Ái! Ui da...
+24|Chopper, cậu yên tâm đi!
+25|Hả?
+26|Nóng thật–
+27|Hay không?
+28|Tôi đang cháy mà không bị bỏng!
+29|Ngọn lửa này ấm áp dễ chịu...
+30|ấm quá...
+31|– Bác sĩ Chopper! – Bác sĩ Chopper!
+32|Chúng tôi đã sẵn sàng sản xuất kháng thể!
+33|Mau đến đây!
+34|Một bầy quỷ băng!
+35|Miyagi! Tristan! Ra khỏi đây đi!
+36|Phải làm ấm chúng bằng cách nào đó!
+37|Phoenix Pyreapple!
+38|Á!
+39|Ui da, da, da, da, da, da...
+40|Ồ, không nóng lắm...
+41|Cái lạnh trong người tôi đang tan dần!
+42|Ui da, da, da, da...
+43|Gì?!
+44|T-Tôi vừa làm gì vậy...?!
+45|Omasa!
+46|May quá! Cô tỉnh lại rồi!
+47|Omasa...!
+48|Như cậu nói đấy, nó đang hút hết nhiệt cơ thể.
+49|Khi hết thể lực, cô sẽ biến lại thành quỷ!
+50|Tôi chỉ câu giờ được một chút thôi!
+51|Anh là ân nhân của chúng tôi!
+52|Thời gian chính là thứ bác sĩ cần!
+53|Miyagi! Tristan!
+54|Hai người ổn chứ?!
+55|V-Vâng!
+56|Chúng tôi ổn!
+57|Mau bắt tay vào việc thôi!
+58|Chúng tôi sẽ hỗ trợ cậu hết sức!
+59|Cảm ơn! Ở trong tòa tháp đó tôi tập trung được!
+60|Marco!
+61|Hắn và con tanuki chết tiệt đó đúng là chọc tức tao hết sức!
+62|Này, lũ vô dụng! Bắt con tanuki đó đi!
+63|Sao hắn lại thèm cứu cái lũ rác rưởi chúng mày?!
+64|Nhưng... con tanuki đó...
+65|Tập trung vào mục tiêu!
+66|Nếu không muốn chết thì nghiền nát con tanuki đó và đoạt lại kháng thể!
+67|Ra vậy... Tôi nghĩ mình nắm được tình hình rồi.
+68|Này, Roronoa!
+69|Chẳng phải cậu đang đi chặt Kaido sao?
+70|Nếu muốn lên sân thượng...
+71|tôi sẽ cho cậu đi nhờ!
+72|Các cậu quá giỏi để phí sức với đám tép riu này!
+73|Nhưng Chopper cần chúng ta hỗ trợ...!
+74|Đừng lo... Ngài Bộ Xương!
+75|Chúng tôi sẽ giữ vững phòng tuyến cho ngài Tanuki!
+76|Cảm ơn các bạn! Tôi trông cậy vào các bạn!
+77|Đứng lại, đồ khốn!
+78|Apoo!
+79|Trả kháng thể lại đây...!
+80|Nếu tôi mất nó...
+81|tôi tiêu đời mất!
+82|Thôi đi!
+83|Hắn không chịu gục!
+84|Tôi không ngại nhận thêm một việc nữa!
+85|Ngài Tanuki, mau vào tháp đi!
+86|– Apoo! – Apoo!
+87|Tên này...
+88|Drake?!
+89|Vậy là hắn thật sự đã đổi phe!
+90|Roronoa Zoro. Nếu cậu coi tôi là đồng minh...
+91|thì tôi sẽ giữ chân chúng ở đây trong lúc cậu đi tiếp!
+92|Ít ra anh biết đặt cược vào ngựa thắng!
+93|Sanji! Sanji!
+94|Có lẽ Sanji cảm nhận được kẻ địch mạnh nên đã ở lại cầm chân chúng ở tầng ba!
+95|Có thể...!
+96|Haki Quan Sát của tôi chắc vẫn chưa giỏi lắm.
+97|Tôi hoàn toàn không cảm nhận được hơi thở của Sanji!
+98|Cậu có cảm thấy gì không, Jinbe?!
+99|Có...
+100|Trong này có khá nhiều kẻ địch...
+101|Và...
+102|chúng khá mạnh!
+103|Có vẻ phải có một người ở lại tầng này!
+104|Tôi sẽ mở đường. Cậu đi trước đi!
+105|Bắt đầu thôi!
+106|General...
+107|Launcher!
+108|Đến lúc quậy tưng bừng rồi!
+109|General...
+110|Cannon!
+111|Lùi lại, các người!
+112|Thằng nào bắn bừa bãi thế hả?!
+113|Mày tự chuốc lấy rồi!
+114|Tôi khoái cái dáng này, anh bạn!
+115|Một con ba sừng!
+116|Ra ngươi là khủng long!
+117|Bỏ cuộc đi! Đây là sinh vật mạnh nhất từng tồn tại!
+118|Ta xử xong thì ngươi chỉ còn là đống sắt vụn!
+119|Không gì làm xước được lớp Wapometal bóng loáng này!
+120|Là Tobiroppo!
+121|Chúng đi đâu rồi?!
+122|Ta tức quá đi mất!
+123|Ta sẽ bổ cái đầu đáng ghét của ả ra! Con đàn bà đó!
+124|Hắn chạy đường đó rồi!
+125|Chậm lại đi, đồ ngốc!
+126|Đợi bọn tao với!
+127|Chết tiệt! Cái gì thế này?!
+128|Thả tao ra!
+129|Đừng vùng vẫy nữa...
+130|Ngoan nào... Đừng cố chạy.
+131|Dù sao thì...
+132|chẳng phải anh nói anh yêu em sao?
+133|Ở bên em mãi mãi. Em sẽ biến anh thành thú cưng của em.
+134|Đừng nực cười! Tao...
+135|Tao có chỗ phải đến!
+136|Nhưng...
+137|nhìn đâu...
+138|tôi cũng thấy...
+139|toàn phụ nữ, phụ nữ, phụ nữ...!
+140|Đây là...
+141|thiên đường sao?
+142|Rõ ràng hắn mất trí rồi.
+143|Anh đáng yêu quá đi...
+144|Vậy là Mũ Rơm đã đi trước...
+145|Chuyện này sẽ khiến Kaido già đau đầu đây...
+146|Làm ơn đừng...
+147|bắt nạt người của tôi nữa.
+148|Cựu Thất Vũ Hải Jinbe, Hiệp sĩ Biển, mà cư xử như trẻ con sao?
+149|Tôi là hoa tiêu của băng Mũ Rơm!
+150|Xin hãy dùng danh xưng xứng đáng hơn này cho tôi!
+151|Ồ, xin lỗi nhé.
+152|Tôi từng thoáng thấy ông hồi còn làm Thất Vũ Hải...
+153|Gì?!
+154|Thôi, không quan trọng.
+155|Ngươi là ai?
+156|Trời, tôi có thể là ai được chứ?
+157|Có lẽ bỏ mặt nạ ra sẽ giúp tôi nhớ lại.
+158|Tôi rất muốn thấy ông thử đấy.
+159|Chúng ta có thể trốn ở đây một lúc vì căn phòng này đã bị bỏ quên từ lâu.
+160|Tôi đang thấy gì thế này?
+161|Một bức tượng rồng.
+162|Nó từng đứng ở cổng vào đảo, nhưng được dời vào đây sau khi bạn tôi làm vỡ nó.
+163|Bạn của cậu?
+164|Vâng...
+165|Vài năm trước...
+166|anh ấy đến để giết cha tôi!
+167|Chuyện gì vậy? Chỗ này vắng tanh...
+168|Kẻ đột nhập!
+169|Nếu không phải Kaido thì cút đi!
+170|Ace!
+171|Các cậu, mau đi cứu bọn trẻ trong khi còn có thể!
+172|Rõ!
+173|Cứ giao cho bọn tôi!
+174|Tên này không chịu gục!
+175|Ngươi là ai?! Nói tên ra!
+176|Tôi cũng muốn hỏi cậu đấy!
+177|Tôi là Ace!
+178|Tôi đến để lấy đầu Kaido!
+179|Tìm thấy rồi! Ở đây!
+180|Đừng sợ. Bọn anh sẽ đưa tất cả các em ra khỏi đây.
+181|Ừ, nhưng phải nhanh lên.
+182|Cậu khá mạnh đấy.
+183|Ace!
+184|Bọn trẻ đều ổn cả!
+185|Nhưng không tìm thấy Kaido đâu cả!
+186|Gì?!
+187|Cha tôi đi viễn chinh rồi!
+188|Ngay lúc này...
+189|không có một cán bộ nào ở đây cả!
+190|Cha cậu?!
+191|– Gì?! – Gì?!
+192|Vậy cô ấy là con gái Kaido sao?!
+193|Tôi là Yamato!
+194|Tôi nghĩ đã đến lúc cậu thôi phá phách khắp nơi!
+195|Nếu có thời gian tự hỏi tôi là ai,
+196|thì cũng có thời gian rời đi và trả lũ trẻ này về với gia đình!
+197|Tôi nhận lời đề nghị đó.
+198|Nhưng để bọn tôi đi như vậy có khôn ngoan không?
+199|Tôi đâu có nghĩa vụ bảo vệ hòn đảo này.
+200|Được rồi, về lại Wano thôi.
+201|Gia đình các em đang đợi.
+202|Thật sự không biết cảm ơn các vị thế nào cho đủ!
+203|Cậu chắc không, Ace?
+204|Vậy là phải về đất liền mà không có cậu.
+205|Đúng vậy. Hãy đưa các em về an toàn. Tôi sẽ theo sau.
+206|Tôi không tin người mạnh như cậu lại không phải thuyền trưởng của một băng nào đó...
+207|Phân thắng bại đi!
+208|Dù sao tôi cũng đang chán.
+209|Chiến thôi!
+210|Hỏa Quyền!
+211|Chuyện gì vậy? Người mạnh như cậu lẽ ra phải ở ngoài biển chứ?!
+212|Tất cả là lỗi của ông ta...
+213|Lỗi của Kaido!
+214|Trong bao nhiêu người, sao lại là ông ta làm cha?
+215|Tất cả là lỗi của cha cậu sao?
+216|Đó là cớ của cậu à?
+217|Cậu không thể...
+218|chọn cha mẹ được, Yamato!
+219|Im đi! Cậu tưởng tôi không biết sao?!
+220|Cậu thật sự biết sao?
+221|Xiềng xích trên người là một chuyện, nhưng nếu cậu ghét cha mình đến thế...
+222|sao còn tự xiềng cả trái tim mình?!
+223|Yamato!
+224|Cậu muốn làm gì?!
+225|Tôi thừa nhận...
+226|tôi đã tự kìm hãm mình.
+227|Nhưng giờ tôi nhận ra...
+228|tôi muốn ra khơi và phiêu lưu!
+229|Tôi muốn sống tự do như Oden!
+230|Ra khơi...
+231|Ra biển...
+232|Tôi muốn rời khỏi hòn đảo chết tiệt này...!
+233|Tôi muốn sống tự do!
+234|Chính là tinh thần đó, Yamato!
+235|Có những mong muốn đó là điều tốt!
+236|Giờ cậu biết mình phải làm gì rồi.
+237|Ừ!
+238|Và anh ấy về nhà trong bộ dạng rách tươm!
+239|Hồi nhỏ, anh ấy gây cho bọn tôi đủ thứ rắc rối!
+240|Em trai cậu đúng là không tầm thường!
+241|Phải không?!
+242|Nói tôi nghe, ngoài kia thế nào?!
+243|Có nhiều tân binh trẻ không?!
+244|Trẻ à...? Để tôi nghĩ...
+245|Ai cũng bàn tán về một gã tên Caven-gì đó.
+246|Vậy sao?!
+247|À, tôi thì ở đẳng cấp riêng,
+248|nhưng tôi nghe nói có mấy gã nguy hiểm đang quậy phá khắp các biển.
+249|Ừm! Ừm!
+250|Có Kid ở phía nam...
+251|Law ở phía bắc và Bege ở phía tây.
+252|Nhưng kẻ mạnh nhất sẽ ra khơi trong vài năm nữa...
+253|Em trai tôi!
+254|Nó sẽ thổi bay hết bọn họ!
+255|Cậu thích nói về em trai quá nhỉ.
+256|Thì sao?! Cậu nên nghe đi!
+257|Ui da, da, da!
+258|Cậu... Đau đấy!
+259|K-Khoan, dừng lại!
+260|Thật ra tôi mới là người làm vỡ tượng rồng này trước.
+261|Nhưng anh ấy nói...
+262|"Hãy để đây là lời cảnh báo cho Kaido rằng tôi sẽ quay lại!"
+263|Ra vậy...
+264|Tôi không biết từng có một hải tặc định cứu Wano...
+265|Cha tôi đã nổi giận,
+266|nhưng cuối cùng ông ta không bao giờ gặp Ace.
+267|Khoan...
+268|Cha cậu?
+269|Tôi chưa nói Kaido là cha tôi sao?
+270|Gì– Này, đừng sợ thế!
+271|Này, nhưng tôi thật sự ghét ông ta!
+272|Như đã nói, tôi là Oden!
+273|Như vậy càng khó hiểu hơn!
+274|Tôi không đáng sợ! Tôi ghét Kaido!
+275|Tôi khao khát biển cả và phiêu lưu nên đã trở thành Oden, người sống tự do!
+276|Chúng tôi hiểu đại khái rồi.
+277|Cảm ơn đã chăm sóc bọn tôi!
+278|Đừng khách sáo nữa, lại đây!
+279|Nhưng Yamato,
+280|vị cứu tinh của Wano ấy giờ ở đâu?
+281|Ace...
+282|đã mất hai năm trước.
+283|Otama, em biết Ace sao?!
+284|Vâng, anh ấy như anh trai của em!
+285|Em quyết tin vào Ace và cố trở thành kunoichi,
+286|nhưng anh Luffy xấu tính nói với em...
+287|Ace chết rồi.
+288|Anh ấy nói với em một cách đột ngột.
+289|Em buồn lắm.
+290|À, xin lỗi em nhé.
+291|Anh ấy vốn là vậy mà.
+292|Nhưng em biết không, Otama, Luffy cũng đã rất đau khổ.
+293|Hồi chuyện đó xảy ra...
+294|Hả?
+295|Hắn đang phá đám!
+296|Nghe đây, mọi người!
+297|Chặn Marco lại!
+298|Đừng để hắn tự do!
+299|Thôi nào, hắn đã cứu chúng ta mà...
+300|Nhưng nếu không làm theo ý Ngài Tuyệt Vời, hắn cũng giết chúng ta thôi...
+301|Đừng đứng đực ra đó!
+302|Ta đã ra lệnh rồi!
+303|Lúc này tôi sẽ không đối đầu trực tiếp với Kaido.
+304|Nico Robin! Người Xương! Hai người có nơi phải đến!
+305|Đến lâu đài đi!
+306|Cơ hội của chúng ta đây.
+307|Nếu anh đã nói vậy!
+308|Xuống địa ngục đi, Marco!
+309|Ngươi tiêu rồi, Marco Phượng Hoàng!
+310|Sẵn sàng chưa?
+311|Làm đi!
+312|Marco chết tiệt!
+313|Làm tốt lắm!
+314|Cậu thư thái thật đấy, sắp đối đầu một Tứ Hoàng mà!
+315|Tôi sợ Kaido làm gì?
+316|Thuyền trưởng ra lệnh thì tôi làm theo.
+317|Nhìn tôi này, cổ vũ cho Mũ Rơm– Không...
+318|cổ vũ cho cả đám Thế hệ Tồi tệ nhất các cậu!
+319|Không biết anh ấy sẽ nghĩ sao khi nghe em trai mình cũng gây sự với một Tứ Hoàng...
+320|Con xin cha, Pops!
+321|Ta bảo không, thằng nhóc con!
+322|Ace, ta đã nói với con nhiều lần rồi...
+323|chỉ huy Sư đoàn 2 trước con là ai...
+324|và vì sao vị trí đó bỏ trống lâu như vậy.
+325|Wano theo chính sách bế quan nên thông tin không bao giờ lọt ra ngoài.
+326|Mấy năm sau chúng ta mới biết ngài Oden đã chết.
+327|Chúng ta từng tính đột kích Wano, nhưng để làm gì?
+328|Cậu có tưởng tượng được cái giá phải trả không?
+329|Cái giá?
+330|Vậy thì để con đi một mình!
+331|Con đã hứa...
+332|Kozuki Oden còn không hạ được hắn...
+333|Nghĩa là cậu có giỏi nhất ngày cũng không thắng nổi!
+334|Đừng đánh giá quá cao bản thân, Ace!
+335|Này, sức mạnh của Oden là thật đấy!
+336|Cậu thật sự muốn hạ mấy nhân vật lớn, Chỉ huy Ace!
+337|Thôi đi, Teach!
+338|Ace không bị thúc đẩy bởi chuyện săn "nhân vật lớn".
+339|Chết tiệt...
+340|Mình phải mạnh hơn để thực hiện lời hứa...
+341|Đó là gánh nặng cậu đang mang nhỉ?
+342|Ace, nếu Pops cho phép, đừng quên rủ tôi theo.
+343|Tính cả tôi nữa.
+344|Vậy thì có lẽ giờ ta có thể đá đít hắn rồi...
+345|Sao cậu vẫn đánh giá sai tình hình thế...?
+346|Marco!
+347|Đừng tưởng bọn ta để ngươi đi qua!
+348|Hơn nữa, tất cả samurai trên kia chắc đã chết hết rồi!
+349|Và khi con trai Kozuki Oden chết, trận chiến sẽ kết thúc!
+350|Wano sẽ tái sinh thành đế chế hải tặc Tân Onigashima!
+351|Nếu ngươi tin vậy thì đầu óc ngươi có vấn đề thật!
+352|Đừng ríu rít nữa, chú chim nhỏ!
+353|Chết tiệt! Hắn bất tử sao?!
+354|Đó là loại sức mạnh gì vậy?
+355|Các ngươi đang đối đầu với sức mạnh của một thời đại mới!
+356|Băng Bách Thú sẽ nghiền nát "thời đại mới" này, cùng mọi thứ khác!
+357|Gì–
+358|Thôi nào... Cứ để hắn đi qua!
+359|Và bay lên nào!
+360|Anh thật sự ném tôi sao?!
+361|Gì?!
+362|A...
+363|Anh Luffy là em trai của Ace sao?!
+364|Đúng vậy.
+365|Em không biết sao?
+366|Vì khi em nhắc đến Ace, anh ấy nói rất nhẹ nhàng...
+367|Ace chết rồi.
+368|Em đã nói mấy lời khó nghe với anh...
+369|Nếu anh ấy bận tâm thì đã nói lại em rồi.
+370|Đừng lo!
+371|Nhưng...
+372|Anh Luffy... Em xin lỗi!
+373|Như đã nói, đừng lo.
+374|Dù sao thì, thử "Chiến lược Otama" của em xem sao!
+375|Gì?!
+376|Người mà ngươi nhắc đến là con trai Roger,
+377|và là anh trai của Luffy sao?!
+378|Có thật không?!
+379|Ừm.
+380|Các ngươi đã đưa Luffy đến Wano, đúng không?
+381|Đúng vậy...
+382|Hải tặc nhiều như sao trên trời, nhưng họ lại là những người các ngươi gặp...
+383|và các ngươi đưa họ đến đất nước này...
+384|Ta không thể coi đó là gì khác ngoài định mệnh!
+385|Bởi vì...
+386|Tên Luffy mang chữ cái D!
+387|Ngon quá!
+388|Lửa đúng là hợp khẩu vị!
+389|Ngon tuyệt!
+390|Giờ tôi no căng rồi!
+391|Tôi nạp đầy năng lượng rồi!
+392|Các con ăn xong chưa?
+393|Rồi, Mama!
+394|Con sẵn sàng rồi!
+395|Được rồi, đi thôi!
+396|Mũ Rơm vẫn chưa đến sao?
+397|Này, Kaido!
+398|Ngươi giết bao nhiêu cũng được miễn là chừa Nico Robin lại.
+399|Chẳng phải ngươi có một người tộc Ba Mắt đọc được chữ cổ sao?
+400|Ồ, Pudding à?
+401|Ta không chắc con bé đọc được.
+402|Ta không đợi được sự thức tỉnh thật sự của nó nữa.
+403|Ừ, có lý...
+404|Chúng tôi chỉ giúp được đến đây thôi, nên xin hãy đi tiếp!
+405|Đây là cầu thang lên sân thượng!
+406|Cảm ơn, Shishimamushi!
+407|Là Shishilian.
+408|Ừ, tôi sẽ không bao giờ quên...
+409|Cách các anh liều mạng bảo vệ Raizo!
+410|Cảm ơn!
+411|Hẹn gặp lại!
+412|Vậy ngươi định thả hòn đảo này xuống đâu?
+413|Ở Hoa Đô có một tòa lâu đài tượng trưng cho gia tộc Kozuki.
+414|Nghe nói họ đang có lễ hội.
+415|Khá nhiều người sẽ chết.
+416|Ai quan tâm?
+417|Kiếm thêm nô lệ dễ mà...
+418|Sẽ là một kinh đô huy hoàng.
+419|Còn Lode Poneglyph?
+420|Có ở đó không?
+421|Bộ mặt thật của ngươi lộ ra rồi!
+422|Đừng nói thế!
+423|Ngươi như em trai của ta vậy!
+424|Cái ngày Rocks bị đánh bại ở God Valley,
+425|ta đã đưa ngươi Trái Cá-Cá Huyền Thoại.
+426|Ngươi mắc nợ ta cả đời, Kaido!
+427|Sao cũng được!
+428|Đi lấy nó trước, rồi hãy nói chuyện!
+429|Đi lấy One Piece thôi!
+430|Đi lấy One Piece thôi!
+431|Marco Phượng Hoàng Cựu thành viên băng Râu Trắng
+432|Marco Phượng Hoàng Cựu thành viên băng Râu Trắng
+433|Miyagi, Bác sĩ tộc Mink
+434|Miyagi, Bác sĩ tộc Mink
+435|Miyagi, Bác sĩ tộc Mink
+436|Tristan, Y tá tộc Mink
+437|Tristan, Y tá tộc Mink
+438|Tristan, Y tá tộc Mink
+439|X Drake Cựu thành viên Tobiroppo Trái Cổ Long: Allosaurus
+440|X Drake Cựu thành viên Tobiroppo Trái Cổ Long: Allosaurus
+441|X Drake Cựu thành viên Tobiroppo Trái Cổ Long: Allosaurus
+442|Tầng 4 bên trong lâu đài
+443|Tháp Não Phải bên trong mái vòm
+444|Tháp Não Phải bên trong mái vòm
+445|Sasaki Tobiroppo Trái Cổ Long: Triceratops
+446|Sasaki Tobiroppo Trái Cổ Long: Triceratops
+447|Sasaki Tobiroppo Trái Cổ Long: Triceratops
+448|Bên ngoài mái vòm Onigashima
+449|Bên ngoài mái vòm Onigashima
+450|Ulti Tobiroppo Trái Cổ Long: Pachycephalosaurus
+451|Ulti Tobiroppo Trái Cổ Long: Pachycephalosaurus
+452|Ulti Tobiroppo Trái Cổ Long: Pachycephalosaurus
+453|Page One Tobiroppo Trái Cổ Long: Spinosaurus
+454|Page One Tobiroppo Trái Cổ Long: Spinosaurus
+455|Page One Tobiroppo Trái Cổ Long: Spinosaurus
+456|Sảnh tiệc Tầng 3 bên trong lâu đài
+457|Black Maria Tobiroppo Trái Nhện Cổ Đại: Rosamygale Grauvogeli
+458|Black Maria Tobiroppo Trái Nhện Cổ Đại: Rosamygale Grauvogeli
+459|Black Maria Tobiroppo Trái Nhện Cổ Đại: Rosamygale Grauvogeli
+460|Quán cà phê Mèo Lớn Tầng 4
+461|Quán cà phê Mèo Lớn Tầng 4
+462|Who's-Who Tobiroppo Trái Mèo Cổ Đại: Hổ Răng Kiếm
+463|Who's-Who Tobiroppo Trái Mèo Cổ Đại: Hổ Răng Kiếm
+464|Who's-Who Tobiroppo Trái Mèo Cổ Đại: Hổ Răng Kiếm
+465|Kho Cấm bên trong mái vòm
+466|Kho Cấm bên trong mái vòm
+467|Tam Tai Queen Trái Cổ Long: Brachiosaurus
+468|Tam Tai Queen Trái Cổ Long: Brachiosaurus
+469|Tam Tai Queen Trái Cổ Long: Brachiosaurus
+470|Tam Tai King Trái Cổ Long: Pteranodon
+471|Tam Tai King Trái Cổ Long: Pteranodon
+472|Tam Tai King Trái Cổ Long: Pteranodon
+473|Kho Cấm bên trong mái vòm
+474|Tầng 5 bên trong lâu đài
+475|Tầng 5 bên trong lâu đài

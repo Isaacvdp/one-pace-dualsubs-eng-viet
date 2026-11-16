@@ -1,0 +1,509 @@
+1|Big Bro!
+2|Boss Holdem!
+3|– Boss Holdem! – Boss Holdem!
+4|Tama!
+5|Big Bro!
+6|Hold on tight!
+7|I will!
+8|Alright! Let's run!
+9|Boss Holdem!
+10|Boss Holdem!
+11|No way...! He beat a headliner with one blow?!
+12|Who is he?!
+13|Luffy, you moron! Now you've done it...
+14|Luffytaro!
+15|Otama!
+16|Don't worry! Leave the kid to Luffytaro!
+17|Keep going! We need to reach the town's entrance!
+18|Take back the treasure ship! We can't lose our food!
+19|Hold on tight!
+20|Okay, Big Bro! I won't let go no matter what!
+21|B-Big Bro...
+22|Slice him up!
+23|Outta the way!
+24|I've gotta catch up to Zoro before they eat all the good stuff!
+25|That's perfect! Let's hitch a ride! I'm gonna jump!
+26|Huh?
+27|Who's there?!
+28|Who's holding me in his arms?!
+29|Giddyup, horse!
+30|Wait, what're you doing?!
+31|– What?! She's a human?! – What?! She's a human?!
+32|No, she's a horse!
+33|How dare you get on Madam Speed like that?!
+34|Yank them down!
+35|Get off of me, you jackasses!
+36|Hey, Tama, make a dumpling!
+37|What?!
+38|Just do it!
+39|Millet Dumpling!
+40|Now, tame the horse!
+41|What? That's impossible! It doesn't work on humans!
+42|You don't know until you try!
+43|That looks delicious!
+44|Where would you like to go, Master?!
+45|You did it!
+46|It worked!
+47|But... why?
+48|She's half-horse, isn't she?
+49|Madam Speed...
+50|After her!
+51|She's too fast!
+52|Alright, Horsella! Follow that treasure ship!
+53|I'm not your servant!
+54|My name is Speed! Don't call me Horsella like we're friends or something!
+55|I want you to do as Big Bro says, Horsella.
+56|Of course, Master!
+57|I can't believe a headliner like Speed is obeying them!
+58|Do they have some kind of dirt on her?
+59|Big Bro...
+60|Red Hawk!
+61|Fire Fist!
+62|Big Bro... Back there...
+63|you were just like Ace.
+64|Hm? What?
+65|Did you say something?
+66|No!
+67|Never mind.
+68|Your life is mine.
+69|What'd you say?!
+70|Take him out!
+71|– Yeah! – Yeah!
+72|Room!
+73|That ability...
+74|Those tattoos...
+75|Is he...?!
+76|He could be!
+77|They did have an alliance!
+78|Roronoa is with that group but at least he knows the plan.
+79|He surely wouldn't do anything stupid like taking down Holdem.
+80|Boss Holdem!
+81|This is bad! We've gotta report this to Master Jack!
+82|If they were to do something to him...
+83|that would be it...
+84|for our plan...
+85|Get lost, Hawkins!
+86|Shambles!
+87|Help me!
+88|Wait?! How am I alive?!
+89|What the hell?! His lower body's moving by itself!
+90|Just... what kind of ability was that?
+91|Straw Sword!
+92|Take off your mask...
+93|Trafalgar Law!
+94|I knew it wasn't gonna be that easy, Basil Hawkins!
+95|But...
+96|Blah, blah, blah! Time to shut you up!
+97|Get him!
+98|Wait!
+99|Amputate!
+100|Takt!
+101|Shambles!
+102|You cut up all my proxies.
+103|You certainly adapt quickly.
+104|I was just bluffing.
+105|Murder isn't my style. I am a doctor, after all.
+106|Welcome to Wano. It's been some time since that fateful day at Sabaody.
+107|Since your allies are here too, I'm assuming you're not here as a tourist.
+108|You thought I didn't know?
+109|I've already crossed paths with Straw Hat's group.
+110|If you were looking to silence me, I'm afraid it's too late.
+111|The thieves fled after defeating Boss Holdem!
+112|We've already informed Master Jack!
+113|They beat Holdem and now Jack has been notified?
+114|As you just heard, your efforts were in vain.
+115|And of course, this means Captain Kaido will become aware of these goings on.
+116|Those morons! This is the worst-case scenario!
+117|Hey, you guys! Get out the way!
+118|Roronoa?!
+119|Excuse us! We need to pass! We're in a hurry!
+120|Get them! They stole our food!
+121|Roronoa!
+122|Oh, Traffy.
+123|You idiot!
+124|Is there a problem, Traffy?
+125|Screw you!
+126|What?! Who is that?!
+127|Not only did you become a fugitive, you drew Jack's attention!
+128|You promised that you were gonna stay out of trouble!
+129|My bad.
+130|Also...
+131|why are you even in Kuri?!
+132|You were supposed to pose as a ronin in the Flower Capital!
+133|They know each other?
+134|Is everything okay?
+135|No, it's not!
+136|I'm sorry!
+137|I had no choice!
+138|I ran into Luffy.
+139|Straw Hat! It's always him!
+140|Zorojuro! We're leaving town!
+141|Alright...
+142|Let's unload at Okobore Town!
+143|Mom! I'm hungry!
+144|You have to endure it.
+145|What is it?
+146|Th-That's...
+147|a treasure ship!
+148|There are so many fish!
+149|Food! There's food!
+150|A treasure ship is here!
+151|We're saved!
+152|Amazing!
+153|Hurry, everyone!
+154|It's food!
+155|Can we have it?!
+156|Thank goodness!
+157|We can survive!
+158|It's delicious!
+159|There's so much food!
+160|We won't starve! This is so great!
+161|What a relief...
+162|Whoa-whoa-whoa, wait!
+163|Those aren't leftovers yet!
+164|Stay away from the treasure ship!
+165|You trash!
+166|You shouldn't even be touching that food!
+167|You idiots forgot your place!
+168|We won't let you pass!
+169|So you're siding with the trash!
+170|This is coming out of your hides, you fools!
+171|Hey!
+172|Sorry to keep you waiting!
+173|It's water!
+174|It won't poison you! Help yourselves!
+175|It's been years since we've had this much drinking water!
+176|Thank goodness! Thank goodness!
+177|I'm Luffytaro, in case anyone comes and asks!
+178|Thank you, Luffytaro!
+179|Big Bro!
+180|Tama!
+181|Oh?
+182|Traffy!
+183|It's good to see you!
+184|Straw Hat...
+185|in Wano, this is considered an insurrection.
+186|An insurrection? This is nothing like that!
+187|Here!
+188|It's an apple!
+189|Tama...
+190|I'm paying you back for feeding me.
+191|This is just the start!
+192|Look at all this meat!
+193|Hey! Guys!
+194|Save some meat for me!
+195|Meat! Meat, meat!
+196|Meat, meat, meat, meat!
+197|Meat!
+198|Boss Holdem!
+199|The fire is spreading!
+200|Where are the firefighters?!
+201|Boss Holdem! Stay with us!
+202|Please wake up!
+203|Only the lion woke up! That's scary!
+204|That's right...
+205|It's Monkey D. Luffy, Roronoa Zoro,
+206|and Trafalgar Law.
+207|I don't want to sell myself short...
+208|but when the foe is as troublesome as these three, it's too much even for me.
+209|It's so delicious!
+210|Good for you, Tama!
+211|Y-Yes!
+212|I don't know if I could ever top a wonderful birthday like this!
+213|Tama!
+214|Don't set the bar too low!
+215|I'm gonna make this normal for you!
+216|Before we leave this country,
+217|I'll make it a place where you can eat as much as you want!
+218|When we come back to this country...
+219|we'll make it a place where you can eat as much as you want!
+220|Hm? You don't want that?
+221|What?!
+222|Wh-Wh-What?!
+223|O-Of course...
+224|Of course, and it makes me happy!
+225|It just surprised me a bit...!
+226|I see!
+227|Man! You've really gone and done it!
+228|Now, they'll really come after us! Stay on your guard!
+229|Like you can talk!
+230|We shouldn't stick around here. Time to go!
+231|Follow me!
+232|We'll go to the ruins of Oden Castle at the top of that mountain!
+233|Okay, I'm heading off too!
+234|Thank you!
+235|Alright, take good care of her, Horsella!
+236|I am Speed, a headliner of the Beast Pirates!
+237|I don't take orders from you, fool!
+238|Servants naturally protect their masters!
+239|Why is a headliner obeying that kid?
+240|Big Bro...
+241|Hm? What is it?
+242|I'll never forget...
+243|I'll never ever forget the taste of the oshiruko soup and the apple that I had today!
+244|Great!
+245|When I return to Amigasa Village, I'm gonna give this apple to my master!
+246|Say hi to Grandpa Nose for me! I promise I'll bring back the dog!
+247|I will!
+248|Komachiyo!
+249|I want you to help Big Bro!
+250|Oh, yeah!
+251|Let me borrow this sword for a little longer! Without it, I can't call myself a samurai!
+252|You're not even using it!
+253|Seriously, just let me take a look at it!
+254|I'll let my master know!
+255|Yeah, thanks!
+256|We must get going, Master!
+257|Oh, thank you!
+258|Have a safe journey!
+259|Okay! Well then...!
+260|See you around!
+261|See ya!
+262|Tama!
+263|All right...
+264|Luffy!
+265|Time to get going!
+266|Mr. Luffytaro!
+267|– Mr. Luffytaro! – Mr. Luffytaro!
+268|I've never seen this much food before!
+269|My grandfather is better!
+270|I lived to see this dream come true!
+271|Our child is healthy again!
+272|I've never eaten this much before!
+273|That's good!
+274|All right, then!
+275|– Thank you for the treasure ship! – Thank you for the treasure ship!
+276|– Thank you! – Thank you!
+277|– Come visit again! – Thank you!
+278|Pirates shouldn't be such do-gooders.
+279|It makes me sick!
+280|That was a nice thing we did!
+281|It's still theft.
+282|Guys!
+283|Take care of yourselves!
+284|You didn't become her servant by eating that dumpling, huh?
+285|So...
+286|why are you coming with us?
+287|I-I'm sorry! I've always wanted to visit Oden Castle!
+288|I will head home right after, so I will not be a burden.
+289|Should I be worried?
+290|Nah!
+291|Kiku's a good, strong person, so it's gonna be fine!
+292|Actually...
+293|she's hiding something!
+294|Hey, Traffy, why are we going to the castle?
+295|It's not a castle anymore...
+296|Only the deserted ruins remain.
+297|Why does he wanna go to Oden Castle?
+298|Luffytaro and his allies are good people...
+299|but I can't drop my guard yet.
+300|Since we last saw you...
+301|we made a plan and set about following it...
+302|You'll see once you get there.
+303|First...
+304|you're going to meet the ghosts of Wano.
+305|Ghosts?
+306|Get ready for a shock...
+307|Yeah... I was stunned, too.
+308|There, you'll learn...
+309|an unbelievable truth!
+310|Anyway...
+311|we can continue this conversation once we reach the ruins of Oden Castle at the summit.
+312|You're no fun!
+313|There's a threat.
+314|Yeah.
+315|Maybe it's one of Orochi's assassins.
+316|Luffy, you go on ahead.
+317|I'll catch up to you after I take care of this.
+318|Thanks.
+319|I can feel your bloodlust.
+320|There's no castle here!
+321|I did say "ruins."
+322|Oh, yeah.
+323|It's this way. Follow me.
+324|What? Hey, Kiku!
+325|What's wrong with her?
+326|Oh! Come to think of it, Zoro hasn't returned yet, either.
+327|This place is creepy.
+328|It's been abandoned for twenty years.
+329|What are those?
+330|"Kozuki Oden..."?
+331|Look at the other graves, too.
+332|"Kozuki..."
+333|Momonosuke is...
+334|You know the kid that grave belongs to.
+335|What?! What are you talking about, Traffy?!
+336|It's not just him.
+337|"Raizo"?!
+338|"Kanjuro"?!
+339|"Kin'emon"?!
+340|Why are their graves here?!
+341|Wait a minute, when we were making our way to Wano...
+342|I couldn't get in touch with Kin'emon...
+343|D-Don't tell me...
+344|he's dead!
+345|Okay, time to head back.
+346|Where did they go?
+347|It's a dock.
+348|No way...
+349|They can't be dead!
+350|I thought Kin'emon was waiting here...
+351|He's been gone for quite a while.
+352|Gone?!
+353|He might emerge at night.
+354|He showed up repeatedly last night.
+355|That sounds like he's a ghost or something!
+356|What's up with these graves?! Spit it out, Traffy!
+357|Is there something you don't wanna say?!
+358|I'm not the one who should be telling you about it.
+359|Sir Luffy!
+360|What?
+361|Kin!
+362|I'm glad that you're alive!
+363|I'm sorry that I couldn't come to get you...
+364|It's so great that you arrived safely.
+365|I'm afraid I have a bad case of the runs.
+366|I thought I'd be confined to the outhouse again tonight.
+367|But I'm starting to feel a little better.
+368|Well, at any rate, it was pretty bad.
+369|He's alive, Traffy!
+370|When did I say he wasn't?
+371|I meant he might emerge from the bathroom tonight.
+372|That was misleading!
+373|Sir Kin!
+374|Kiku!
+375|You're back!
+376|I really missed you!
+377|I was so uneasy!
+378|Oh, really...
+379|Honestly! If you were back, why didn't you come tell me?!
+380|I was worried about you. How cold of you!
+381|I-I'm sorry!
+382|Lord Momonosuke is okay, too?
+383|Yes.
+384|Momo's alive, too, huh?
+385|Wait, Kiku and Kin know each other?
+386|Seems like they're very close.
+387|What?
+388|Kiku, why are you with Sir Luffy?
+389|What?! Are these the ones who...?!
+390|I don't know who to tell what first...!
+391|But you are correct, Kiku!
+392|They are strong allies that are going to help us take down Orochi!
+393|Sir Luffy and Sir Law!
+394|Wow!
+395|Hey, Luffy!
+396|You arrived safely!
+397|Lord Momonosuke?!
+398|Luffy, I was just practicing my swordsmanship!
+399|Good!
+400|Watch this!
+401|Lord Momonosuke, I'm glad that you're okay!
+402|Indeed, Kiku. It'd been a while.
+403|Is Dog Pops here in Wano, too, Momo?
+404|What? Momo?!
+405|It's rude to address Lord Momonosuke so casually!
+406|Oh, it's fine, Kiku.
+407|What? Okay.
+408|Of course, Inuarashi is here, too.
+409|So he is!
+410|So that just leaves the others now.
+411|Are we there yet? We've been walking for ages.
+412|He said to look for the castle ruins, so it has to be on this mountain.
+413|I'm glad that we finally got in touch with him!
+414|Hey!
+415|Luffy, there you are!
+416|– Luffy! – Luffy!
+417|Guys! Over here!
+418|Luffy!
+419|I'm glad that you're okay!
+420|Garchu!
+421|Luffy! You're dressed like a samurai! That's so cool!
+422|What took you guys so long?!
+423|We even searched the seabed for you!
+424|We found your vivre card, so we knew you were alive, at least.
+425|Onami!
+426|Momo!
+427|Kin'emon, how are you doing?
+428|I'm getting by.
+429|Momonosuke, you look good.
+430|I thought so, you dirty brat!
+431|So you've returned to the crew, Sir Sanji.
+432|Yeah, sorry to make you worry.
+433|Kin!
+434|Are these some of Luffytaro's friends?
+435|What a lovely lady!
+436|Hey!
+437|That's enough! Get off of her!
+438|You're being insolent, Bonekichi!
+439|Leave him alone, Brook!
+440|Right, Momo?
+441|Onami...
+442|Momo!
+443|Momo!
+444|These are indeed Sir Luffy's friends.
+445|The people we will rely on!
+446|Lord Momonosuke, I'm glad you're able to smile again.
+447|Captain!
+448|Oh, you guys.
+449|How's Bepo doing?
+450|He hasn't come out of the bush yet. He's still got the runs.
+451|What's wrong with everyone?
+452|Straw Hat.
+453|Huh?
+454|Let's talk inside.
+455|Okay.
+456|We stole safe food from the farm.
+457|So you're the one who did it!
+458|This ruined castle will be our headquarters.
+459|What a messy room!
+460|I'm sorry, everyone...
+461|Sir Luffy! Everyone!
+462|Thank you for coming to Wano!
+463|As ever, I am extremely grateful!
+464|Don't mention it!
+465|Yeah!
+466|First things first, there is a secret we haven't told you about...
+467|aside from Lord Momonosuke's true identity.
+468|You guys have so many secrets!
+469|Just tell us everything already! You can trust us!
+470|He's right.
+471|We're friends!
+472|You're absolutely right. I'm sorry!
+473|It's just that you're not going to believe what I'm about to say.
+474|What is it? Just say it!
+475|You know Kanjuro and Raizo.
+476|And the three of us here.
+477|The five of us...
+478|are really...
+479|from the past!
+480|Huh?
+481|– What? – What?
+482|The past...?
+483|What do you mean by that?
+484|The thing is, we are from a Wano twenty years in the past...
+485|verily crossing through time to the present day.
+486|Huh?!
+487|Huuuuuuh?!
+488|Grave of...
+489|Retainer Kanjuro
+490|Retainer Raizo
+491|Retainer Kin'emon
+492|Kozuki Momonosuke
+493|Kozuki Oden
+494|Mo-
+495|mo-
+496|no-
+497|suke
+498|Kin'emon
+499|Grave of Kin'emon
+500|Grave of...
+501|Kozuki Oden
+502|Retainer Kin'emon
+503|Kozuki Momonosuke
+504|Retainer Kanjuro
+505|Retainer Raizo
+506|Kin'emon
+507|Kanjuro
+508|Raizo
+509|Momonosuke

@@ -1,0 +1,378 @@
+1|Này! Mày làm oshiruko dính đầy người tao rồi!
+2|Thứ đó đâu có ăn nổi!
+3|Mày cứ tự đổ lên người mình đi!
+4|Mang thêm súp ra đây!
+5|Chơi trò ném đồ ăn nào!
+6|Đổ hết ra!
+7|Tại sao?!
+8|Bọn ngu chúng mày bị làm sao vậy?!
+9|Sao bọn mày được phần đồ ăn này?!
+10|Hắn đang làm gì vậy?!
+11|Súp đậu đỏ ngon đến thế sao?!
+12|Ừ, ngon lắm.
+13|Chẳng món nào sánh bằng.
+14|Vậy sao...
+15|bọn mày được phí phạm nó còn Tama thì phải đói?!
+16|Gum-Gum...
+17|Elephant Gun!
+18|Đại ca, nhìn kìa!
+19|Là Mũ Rơm!
+20|Thằng ngốc đó định làm gì vậy?!
+21|Bọn ta đã cải trang để lẻn qua đại sảnh yến tiệc...
+22|Thôi kệ...
+23|Nhóc?
+24|Kệ hắn!
+25|Trong lúc chúng chú ý thằng ngốc đó, ta lẻn qua luôn.
+26|Cái gì...?!
+27|Thật tình...
+28|Cậu lúc nào cũng phải làm ầm lên!
+29|Tôi đã đi thẳng đến nguồn gốc rồi...
+30|mà cậu lại phá hỏng hết!
+31|Sao cậu không thể lẻn vào im lặng được hả?!
+32|Thật á?
+33|Hắn có nghe lại mình nói gì không vậy?
+34|Mấy tên này đáng bị vậy lắm!
+35|Chúng đổ oshiruko chơi cho vui!
+36|Oshiruko?!
+37|Món súp này ngon lắm mà!
+38|Vậy thì tôi sẽ chém chúng nát vụn!
+39|Đây là bất ngờ kiểu gì vậy?
+40|Oshiruko?
+41|Sao chuyện đó lại làm họ nổi điên?
+42|Mấy tên đó hết thuốc chữa.
+43|Tôi không làm việc chung với họ được.
+44|Trời, ta rước họa vào thân rồi.
+45|Nhưng chưa đến lúc bắt đầu trận chiến.
+46|Biết rồi, nhưng chúng vẫn chưa biết bọn mình là ai.
+47|Vậy... Vui chưa?
+48|Rồi!
+49|Vậy thì...
+50|chuồn thôi!
+51|Được!
+52|Chúng đang bỏ chạy!
+53|Bắt chúng lại!
+54|Này...
+55|Có chuyện ồn ào gì vậy?
+56|Đừng nói là...
+57|Chúng là...?
+58|A-pow-pow! Yo, nghe nè!
+59|Yo, Queen! Tôi có tin của thế kỷ! Sốc đến té ngửa!
+60|Nên nghe cho kỹ nhé?!
+61|Được, Apoo!
+62|Apoo! Apoo!
+63|Đừng có ngu! Kể tin đó ra cho tụi tôi nghe!
+64|Anh Apoo! Cho tôi một câu rap hay đi, 'poo!
+65|Giọng đó...
+66|Nghe nè!
+67|Trại lao động Udon? Là địa bàn của ngươi! Định vượt ngục? Vô ích thôi!
+68|Vào trong rồi là như chuột mắc bẫy!
+69|Nhưng nhìn hai tên kia! Chuyện gì vậy?!
+70|Ô, đánh nhé?
+71|Giờ nhìn kỹ hai tên đang quậy tung lên kia,
+72|mấy tên vượt ngục dưới đó trông quen quen!
+73|Không thể nào!
+74|Có thể đó! Không phải ảo đâu, yo!
+75|Là Mũ Rơm Luffy và Thợ Săn Hải Tặc Zoro!
+76|Vậy là hắn đã vượt ngục...
+77|Đây là Quản ngục Babanuki ở Udon.
+78|Vậy là mọi chuyện ổn cả.
+79|Tối nay, chúng ta ăn mừng Lễ hội Vàng!
+80|Nên hãy bắt chúng làm quà cho ta!
+81|Này, Queen!
+82|Bắt chúng đem đến cho ngài thì được thưởng gì?
+83|Ừ thì, đúng lúc ta đang muốn loại một kẻ...
+84|khỏi Tobiroppo!
+85|Ai bắt được lũ chuột này cho ta thì được chỗ trống đó!
+86|Tobiroppo hả?
+87|Phần thưởng đúng ý tao!
+88|Chỗ đó coi như của tao rồi!
+89|Apoo!
+90|Kia chắc là lâu đài của Kaido!
+91|Dọn đường rồi vào trong thôi!
+92|Được!
+93|Mấy tên này có vẻ phiền phức thật!
+94|Chúng là ai vậy?
+95|Chắc là bọn đã ăn trái SMILE!
+96|Nghe nhạc chiến của tao đây!
+97|Scratch!
+98|Bop!
+99|Luffy!
+100|Cái gì...?! Có cái gì đấm tôi sao?!
+101|Tên đó từng liên minh với băng Jaggy...
+102|Slash!
+103|Zoro!
+104|Tôi bị chém sao?!
+105|Nhưng hắn đâu có kiếm!
+106|Tôi cũng không thấy đòn tấn công nào...!
+107|Hắn có năng lực gì vậy?
+108|Boom!
+109|Luffy!
+110|Ch-Ch-Ch-Ch... Nghe nè!
+111|Ôi chao, tha cho tôi đi!
+112|Dễ ợt!
+113|Vô ích thôi! Phải rút khỏi đây!
+114|Này, bọn mày!
+115|Đừng để chúng thoát!
+116|Muốn có chỗ trong Tobiroppo thì phải làm việc cho ra hồn!
+117|Nếu ta bị đánh tơi tả ở đây...
+118|ta sẽ không hạ nổi Kaido!
+119|Đúng như dự đoán, không chỉ đông người.
+120|Chúng khá mạnh!
+121|Tobiroppo, tao đến đây!
+122|Xin lỗi.
+123|Giờ tôi ổn rồi.
+124|Tất nhiên rồi.
+125|Chắc mấy bộ cải trang này giờ vô nghĩa rồi.
+126|Phải.
+127|Mặc chúng đánh nhau cũng khó nữa.
+128|Được rồi!
+129|Hết giấu giếm! Mau phá vòng vây thôi!
+130|Ừ!
+131|Vô ích thôi.
+132|Bọn mày nằm trong tầm của tao.
+133|Nghe nè!
+134|Làm sao đây?
+135|Scratch!
+136|Đừng, Kid!
+137|Mày sẽ lộ cả tụi tao đó!
+138|Tao đếch quan tâm!
+139|Thằng khốn phản bội đó...!
+140|Mọi chuyện đều tại hắn!
+141|Xuống địa ngục đi, Apoo!
+142|Kid!
+143|Thằng nhãi...
+144|Gibson!
+145|Ôi, Jaggy!
+146|Thằng ngốc đó!
+147|Apoo!
+148|Này, tên đó là kẻ mạo danh!
+149|Cái gì?!
+150|Đừng nói là...!
+151|Chẳng lẽ...?!
+152|Là thuyền trưởng Kid!
+153|Kid làm cái quái gì ở đây vậy?
+154|Hắn lẽ ra cũng bị nhốt ở Udon mà!
+155|Ngươi phải giải thích cho ra lẽ, Babanuki!
+156|Ngươi hăm hở lập liên minh như vậy...
+157|Hồi đó...
+158|Lẽ ra ta phải nhận ra!
+159|Ngươi đã là tay trong của Kaido rồi!
+160|Kaido biết mọi nước đi của bọn ta...
+161|vì ngươi báo cáo cho hắn, đúng không?!
+162|Rốt cuộc ngươi vẫn chỉ là thằng nhóc!
+163|Cái gì?!
+164|Ngươi tưởng liên minh của bọn ta đủ mạnh để hạ một Tứ Hoàng sao?!
+165|Tỉnh lại đi!
+166|Vì có bao giờ ngươi nghe...
+167|một liên minh hải tặc nào có kết thúc có hậu chưa?!
+168|Scratch!
+169|Slash!
+170|Tôi tưởng cậu chết rồi...
+171|Sao hả, Kid?
+172|Đồ cặn bã!
+173|Queen!
+174|Chúng đang quậy tung lên!
+175|Làm sao bắt sống được khi như vầy?!
+176|Ai bảo không được giết chúng?
+177|Repel!
+178|Kẻ nào muốn chết thì cứ tới đây!
+179|Tao sẽ làm đao phủ cho!
+180|Hắn kia rồi!
+181|Tao biết Killer cũng ở đây mà!
+182|Kid! Rút khỏi đây thôi!
+183|Đánh nhau ở đây chẳng được gì!
+184|Có lẽ cậu nói đúng...
+185|Này, đứng lại!
+186|Dù giết chúng, các ngươi cũng không vào được Tobiroppo đâu!
+187|Ôi chao, dừng lại đi!
+188|Ngươi làm bọn ta bị thương đó!
+189|Tránh ra!
+190|Ai đó ngăn hắn lại!
+191|Chắc đến lượt tôi rồi...
+192|Đến lúc chuồn!
+193|Có vẻ họ không điều khiển nổi hắn! Mà hắn là ai?!
+194|Người khổng lồ? Không, quá to!
+195|Giỏi lắm, Haccha!
+196|Có vẻ tôi sẽ lấy đầu Kid!
+197|Jaggy! Phóng thẳng đến lâu đài thôi!
+198|Trời...
+199|Tôi biết thế nào cậu cũng gây chuyện, Jaggy!
+200|Người nói câu đó thật hay, Luffy!
+201|Cậu cũng chẳng kém, Roronoa!
+202|Họ hết thuốc chữa.
+203|Yay!
+204|Một khi tao mở nhạc chiến, không ai thoát được!
+205|Bắt đầu nào!
+206|Encore! Nghe nè!
+207|Này! Bịt tai lại!
+208|Nghe nè!
+209|Boom!
+210|Nghe này, mọi người!
+211|Apoo tấn công bằng chính âm thanh!
+212|Nghe thấy đòn đánh thì đã quá muộn để né rồi!
+213|Nên phải để mắt đến hắn!
+214|– Gì? – Gì?
+215|Vì quan trọng nên tôi nói lại lần nữa!
+216|Rõ!
+217|Cuối cùng họ cũng liên lạc rồi!
+218|Họ nói tàu vẫn ổn nên sẽ sớm đến đây!
+219|Lạ thật...
+220|Bà chắc chứ, Big Mom?
+221|Chưa có tin nào về tàu mới đến từ Cảng Mogura...
+222|Cảng?
+223|Có cảng sao?
+224|Hả...?!
+225|Trong khi đó, quân phía đông do Kin'emon dẫn đầu
+226|tiến đến cửa sau lâu đài như kế hoạch.
+227|Các chiến hữu!
+228|Trước khi tiến lên, tại hạ xin sửa đổi kế hoạch!
+229|Có vẻ hiện giờ chúng vẫn chưa biết chúng ta đến!
+230|Vậy nên hãy chia quân thêm lần nữa!
+231|Một nửa sẽ xâm nhập Skull Dome từ bên hông,
+232|lẫn vào giữa quân địch và chờ thời cơ ra tay.
+233|Nửa còn lại sẽ lẻn vào bằng cửa sau.
+234|Ở đó ta sẽ phục kích Kaido và Orochi từ hai phía!
+235|Tôi hồi hộp quá!
+236|Không biết Momo có ở đó không.
+237|Các samurai tiến sát lâu đài nơi Orochi và Kaido ngự.
+238|Dừng lại!
+239|Tuy nhiên, đã có một sai lầm trong tính toán.
+240|Ra vậy.
+241|Bản vẽ của dinh thự đã quá cũ.
+242|Có thêm công trình cũng chẳng lạ.
+243|Nhưng 2.000 binh sĩ qua cây cầu đó thì quá lộ liễu!
+244|Này, Kin'emon...
+245|Đó... Đó... Đó...
+246|Kia có phải là lầu hoan lạc không?!
+247|Lầu hoan lạc này thuộc về Black Maria, một thành viên Tobiroppo.
+248|Chắc trong đó có cả đống người đẹp!
+249|Ôi, Sanji!
+250|Khoan, ngài Sanji!
+251|Cứ như anh ta bị hút vào vậy!
+252|Bọn em cũng sẽ lẻn vào!
+253|Chúng em sẽ lập nhóm tìm cậu chủ Momonosuke!
+254|Anh đã lo cho cậu ấy lắm mà!
+255|Cứ thừa nhận đi!
+256|Cứ để việc cứu Momo cho bọn em!
+257|Vậy các anh có thể tập trung vào trận chiến!
+258|Cô Nami! Cô Carrot! Shinobu!
+259|Tại hạ vô cùng biết ơn!
+260|Thật ra, chuyện này luôn đè nặng lên tại hạ!
+261|Tại hạ trông cậy vào các cô!
+262|Có người đi ra từ lầu hoan lạc!
+263|Là...?
+264|Chắc anh ta không tìm được cô nào...
+265|Sau khi nghe tiếng ồn Luffy và đồng bọn gây ra,
+266|gần như toàn bộ thuộc hạ của Kaido và Orochi đã rời lầu hoan lạc...
+267|Có kẻ xâm nhập!
+268|Bắt chúng!
+269|Hạ chúng đi!
+270|Là Killer!
+271|Này! Này! Này!
+272|Yo! Yo!
+273|Sao lâu vậy?
+274|Tên đó không mạnh đến thế!
+275|Các ngươi biết chưa?
+276|Killer ăn một trái SMILE bị lỗi,
+277|và trở thành Pleasure!
+278|Này, Killer!
+279|Ăn cái này đi, ta cho ngươi cơ hội cứu thuyền trưởng!
+280|Cười cái quái gì?!
+281|Lũ khốn!
+282|Tao sẽ tiễn mọi kẻ cười mày xuống địa ngục!
+283|Vậy à?
+284|Này, Jaggy!
+285|Đừng gây thêm rắc rối nữa!
+286|Vậy là chúng đã vượt ngục Udon...
+287|Có nên đuổi theo không?
+288|Lập công cũng chẳng hại gì...
+289|Thôi đi!
+290|Chỉ là vài con chuột.
+291|Tập trung tìm Yamato cho ta đi!
+292|Chuyện đó quan trọng hơn nhiều.
+293|Đừng để Sasaki giành trước chúng ta!
+294|Rõ, thưa ngài!
+295|Còn chần chừ gì?! Làm lạnh đám phế vật này đi, yo!
+296|Chôn chúng sâu sáu thước!
+297|Dù sao đi nữa...
+298|Tôi không tin nổi lời Queen nói...
+299|Tôi đã muốn...
+300|tự tay giết một người.
+301|Phụ nữ đã đi thì đàn ông cũng không ở lại lâu.
+302|Có vẻ chúng ta qua được rồi!
+303|Đội thâm nhập tầng biểu diễn, chúc may mắn!
+304|– Rõ! – Rõ!
+305|Tuyệt! Đúng tinh thần đó, các bạn!
+306|Những người còn lại, theo tại hạ!
+307|– Rõ! – Rõ!
+308|Xạ thủ kiêm tài xế Usopp,
+309|đưa Brachio-Tank 5 tiến chậm, đi cùng tốc độ với bộ binh!
+310|Rõ, chỉ huy xe tăng Chopper!
+311|Đang tiến chậm và ổn định!
+312|Phòng khi có chuyện, để mắt tới cửa sổ lầu hoan lạc!
+313|Cứ để tôi!
+314|Nếu thấy bóng người...
+315|Kin'emon!
+316|Tiếng ồn ngoài kia là gì vậy?
+317|Mọi người, xuống nước!
+318|Cái gì?!
+319|Đi thôi, các anh chị em!
+320|– Rõ! – Rõ!
+321|King...
+322|Tao sẽ trả thù thằng khốn đó dù có là việc cuối cùng!
+323|Leo lên tận đỉnh!
+324|Mà sao đây lại là đường vào duy nhất chứ?!
+325|Thật quá vô lý!
+326|Không, vô lý là băng Big Mom liên minh với băng Bách Thú!
+327|Chắc là đùa!
+328|Mama đang nghĩ gì vậy?!
+329|Mama đã quyết định rồi!
+330|Quên liên minh đi!
+331|Nhớ lý do thật sự chúng ta đến đây!
+332|Đúng vậy!
+333|Để lấy lại danh dự, phải tìm Mũ Rơm, giết hắn...
+334|...rồi bêu đầu hắn cho cả thế giới thấy!
+335|Man rợ quá!
+336|Quan trọng hơn...
+337|Tôi có thể trở thành người được Kaido sủng ái mới!
+338|Biến đi, Flampe!
+339|Tới nơi rồi!
+340|Wano!
+341|Chưa biết ngoài kia có gì!
+342|Chuẩn bị chiến đấu!
+343|Đừng lơ là!
+344|Lần trước, ngay tại chỗ này, tên King khốn kiếp đó...
+345|Đó là...!
+346|Cái gì?! King?!
+347|Thằng khốn đó quay lại–
+348|Không, không phải hắn!
+349|Marco?!
+350|Hừm...
+351|Vậy tin đồn về liên minh băng Big Mom và băng Bách Thú...
+352|không chỉ là lời đồn.
+353|Giờ thì...
+354|xuống lại đi!
+355|Phoenix Brand!
+356|Có ta ở đây thì không được đâu!
+357|Đùa nhau chắc!
+358|– Lại nữa?! – Lại nữa?!
+359|Sao hắn lại ở đây?!
+360|Lần tới khi các ngươi lên được Wano,
+361|có lẽ sẽ thấy mọi thứ hơi khác đi.
+362|Hả?!
+363|Một con tàu lớn đang rơi từ trên trời xuống!
+364|Nhìn lên kia.
+365|Lâu rồi không thấy bản mặt đó...
+366|từ sau cuộc chiến.
+367|Marco.
+368|Haccha Một trong Những Con Số
+369|Haccha Một trong Những Con Số
+370|BOOM
+371|Vị trí hiện tại
+372|Vị trí hiện tại
+373|Vị trí hiện tại
+374|Công trình: "Sweet Entanglement"
+375|Thác nước bên ngoài Wano
+376|Marco "Phượng Hoàng" Cựu Chỉ huy Sư đoàn 1 băng Râu Trắng
+377|Marco "Phượng Hoàng" Cựu Chỉ huy Sư đoàn 1 băng Râu Trắng
+378|Marco "Phượng Hoàng" Cựu Chỉ huy Sư đoàn 1 băng Râu Trắng

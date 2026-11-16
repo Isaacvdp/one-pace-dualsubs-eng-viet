@@ -128,3 +128,49 @@ Keep lines short like subtitles. Keep Japanese honorifics the English subs keep
 
 - Big Mom's family's verbal tics (-bon, -soir, -rero, -nen, -amour, -jour, -ju, -chocolat...) are dropped from the Vietnamese, like the Minks' tics.
 - Big Mom: ta/ngươi. Her children call her "Mama" and each other anh/chị. Cracker, Brûlée and Judge use ta/ngươi; Sanji to Judge uses tôi/ông.
+
+## Settled while translating Reverie
+
+| English | Vietnamese |
+|---|---|
+| Great Pirate Era / Pirate Era | Kỷ nguyên Đại Hải Tặc |
+| World Nobles / Celestial Dragon "Saint X" | Quý tộc Thế giới / Ngài X (the group stays Thiên Long Nhân) |
+| Cipher Pol 0 / CP0 | Cipher Pol 0 / CP0 |
+| Rear Admiral / Captain / Lt. Commander (Marines) | Chuẩn Đô đốc / Đại tá / Trung tá |
+| Revolutionary Army Commander | Tư lệnh Quân Cách Mạng |
+| Pinkbeard | Râu Hồng |
+| Mermaid Princess / Fishman | Công chúa Tiên Cá / người cá |
+| Ryugu Kingdom / Sakura Kingdom | Vương quốc Ryugu / Vương quốc Sakura |
+| Red Port / Bondola / Travelator | Cảng Đỏ / bondola / băng chuyền |
+
+- Neptune keeps his "-jamon" tic; Brook's "do-re-mi" sound puns become Vietnamese notes.
+
+## Settled while translating Wano
+
+| English | Vietnamese |
+|---|---|
+| Land of Wano / Flower Capital | Wano Quốc / Hoa Đô |
+| Beasts Pirates / Viceroy Kaido | băng Bách Thú / Tổng đốc Kaido |
+| Calamities / All-Stars / Superstars (King, Queen, Jack) | Tam Tai |
+| Soaring Six | Tobiroppo |
+| Headliners, Gifters, Pleasures, Waiters, Numbers, SMILE | kept in English (Trái SMILE) |
+| Shogun Orochi / Oniwabanshu | Tướng quân Orochi / Oniwabanshu |
+| Kozuki clan / Kurozumi clan | gia tộc Kozuki / gia tộc Kurozumi |
+| Nine Red Scabbards / Red Scabbards | Cửu Hồng Bao / Hồng Bao |
+| daimyo / oiran | daimyo / hoa khôi |
+| Warden / Vice Warden | Quản ngục / Phó Quản ngục |
+| Witching Hour Boy / Napping Kyoshiro / Soba Mask | Cậu Bé Giờ Ma / Kyoshiro Ngủ Gật / Soba Mask |
+| Fire Festival / Golden Festival | Lễ hội Lửa / Lễ hội Vàng |
+| Millet Dumpling | Bánh Bao Kê |
+| Performance Floor / Plague Rounds | Tầng Biểu diễn / đạn dịch |
+| Seastone / Conqueror's Haki / ryuo | Hải Lâu Thạch / Haki Bá Vương / ryuo |
+| Clear-Clear / Time-Time / Ancient Saur-Saur Fruit | Trái Tàng Hình / Trái Thời Gian / Trái Cổ Long |
+
+- Samurai who speak humbly (Kin'emon, Kiku, Denjiro...) say "tại hạ". Oden uses ta; Toki says thiếp/chàng to Oden.
+- Sir X = X-dono, Lord/Lady X = X-sama (Oden-sama, Toki-sama, Momonosuke-sama).
+- Queen, Jack and Orochi use tao/mày to underlings and enemies.
+
+## Settled while translating End of Wano
+- Wisdom Kings = Minh Vương (Ngũ Đại Minh Vương); Dragon King (Kaido, in narration) = Long Vương; Blue Dragon = Thanh Long
+- The kabuki narrator calls himself "tại hạ" and keeps a slightly literary tone
+- Luffy ↔ Momo: tao/mày in the flashback quarrel, tôi/cậu at the farewell

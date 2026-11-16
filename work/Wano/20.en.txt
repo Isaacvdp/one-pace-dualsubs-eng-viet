@@ -1,0 +1,463 @@
+1|Oh, Inuarashi!
+2|Where have you been?
+3|Something wrong, Kin'emon?
+4|We're in a real predicament!
+5|The enemy knows about the flyer and the moon tattoo?!
+6|That's right! It's all a big mess!
+7|What do we do, Your Grace?!
+8|We were distributing these covertly...
+9|I do not know how it leaked...
+10|We chose this coded symbol on the off chance it fell into the wrong hands.
+11|But they've somehow uncovered the connection between this and the tattoo.
+12|Right now in the capital...
+13|Kaido and Orochi's underlings are apprehending our allies!
+14|– You're under arrest! – You're under arrest!
+15|Stop resisting, rebel scum!
+16|He had a flyer on him!
+17|Settle down!
+18|He's got the moon tattoo, too!
+19|Anyone with that mark on their ankle is a rebel!
+20|Report any you see!
+21|Word travels fast.
+22|The entire capital will have heard by now.
+23|Patrolling bathhouses is just going to waste our time.
+24|How fortunate for you.
+25|What's that supposed to mean?
+26|That's Stealth Black for you...!
+27|I'll get him next time!
+28|You're just as culpable for letting them escape.
+29|Oh, Komurasaki...!
+30|Boss Kyoshiro...
+31|Komurasaki's wake has been canceled.
+32|Things might get out of hand if this many grief-stricken people pour in.
+33|The funeral tomorrow will probably be even more crowded.
+34|May she rest in peace!
+35|Many are placing the blame for this upon your shoulders...
+36|Please be careful.
+37|They should mind their own business.
+38|There was no other way...
+39|The one with the most to lose...
+40|is me.
+41|Certainly.
+42|Lord Orochi is still in a foul mood.
+43|I'd wager this is the thorn in his side.
+44|Stop it, you two!
+45|Arguing won't resolve any of this!
+46|We're on the same side!
+47|They're arresting everyone who sympathizes with our goal of eliminating Orochi...
+48|ever since your crew slipped up!
+49|What was that?!
+50|That little bear and his pals...
+51|must have told them the plan!
+52|Bepo and the others would rather die than talk! Don't underestimate them!
+53|Wait! You're doing exactly what the enemy wants, Traffy!
+54|Don't you tell me what to do, Black Leg!
+55|Both of you, simmer down.
+56|You're the one who needs to cool your head!
+57|You have to...
+58|You have to trust each other!
+59|You're the most untrustworthy person I know!
+60|I didn't see a thing...
+61|How'd your face end up like that after a few punches...?
+62|Are you trying to run?!
+63|We need to eliminate those who were captured!
+64|They must be silenced!
+65|What did you say?!
+66|That is the way of the ninja world!
+67|You're scary, Shinobu!
+68|This isn't some game we're playing!
+69|We've been waiting twenty years for this moment!
+70|If we fail, we won't get another chance!
+71|That's enough, Shinobu!
+72|Kan! My lord!
+73|Things do not always go as planned!
+74|I understand your frustration well...
+75|but it's a miracle we found allies whose goals aligned with our own!
+76|Without them, Lord Oden's wish will never come to pass!
+77|Pardon the intrusion! Pardon me!
+78|I was outside and couldn't help but overhear!
+79|You all have lovely voices!
+80|Hold it! Who are you?!
+81|Oh?
+82|Wow! What beauty! A goddess, no less!
+83|Oh, you!
+84|Please, come in.
+85|Oh, thank you kindly.
+86|Hey!
+87|As I live and breathe...
+88|Little Shinobu?!
+89|Young Kanjuro!
+90|Oh, I see, I see!
+91|Then what I have is the genuine article, isn't it?!
+92|It's all anyone can talk about in the capital!
+93|I can't hold my excitement!
+94|Is it set to begin?! The great battle?!
+95|My sword...
+96|My sword!
+97|You're...
+98|You scared me!
+99|Please, do not move...
+100|It will aggravate your wound...
+101|She's right! You don't need to get up yet!
+102|Where am I?
+103|You saved our lives earlier. Thank you so much.
+104|Thank you!
+105|But in result, you were terribly wounded!
+106|I am truly... at a loss as to how to apologize.
+107|It's my own fault I was hurt.
+108|You have nothing to apologize for...
+109|Where'd that guy go?!
+110|He still has Shusui!
+111|Please do not venture out with such an injury!
+112|That hurts!
+113|That's my wounded side, you idiot!
+114|I'm so sorry!
+115|Honestly...!
+116|See ya!
+117|Do not go! Your wound has not yet healed!
+118|Ow, ow, ow, ouch!
+119|I just told you that's my wounded arm! Pay attention!
+120|I-I am so sorry!
+121|Ow, ow, ow...
+122|It'll be okay, Mr. Samurai!
+123|You'll get better soon!
+124|I stole this toad oil ointment in the capital...
+125|I mean, I bought it!
+126|You stole it.
+127|D-Did not.
+128|Well, I don't care either way.
+129|This toad oil is amazing!
+130|It makes sword cuts disappear!
+131|Toad oil, huh? Well, I hope it works!
+132|Hey, Mr. Samurai!
+133|Don't leave us!
+134|Got something to eat?
+135|Yes! Would you like some now?!
+136|Gyukimaru?
+137|Th-That's right.
+138|The whole city is familiar with "Gyukimaru of Bandit's Bridge."
+139|The named blade Shusui has already been returned to where it belongs.
+140|It's a treasure that was stolen from the grave of the legendary samurai of Wano, Ryuma!
+141|It's unknown where he resides,
+142|but he'll confront any armed individual who attempts to cross the bridge.
+143|Ah, so he's always there? No need to rush then...
+144|I'm still curious about Gyukimaru,
+145|but first, who are you two?
+146|Why was that grim reaper- looking guy after you?
+147|It's because we incurred the wrath of the shogun of Wano.
+148|The shogun, huh?
+149|Oro... Oroshi?
+150|It's Orochi.
+151|Hey, Mr. Samurai!
+152|My name is Toko!
+153|If you use the "O" honorific, you get "Otoko," and that means "man."
+154|It's funny, right?!
+155|No, not really.
+156|What? What?!
+157|Everyone says it's funny! Why don't you think so?!
+158|Beats me.
+159|Though you wear the garb of a Wanese samurai,
+160|you are actually from overseas, correct?
+161|You don't look like a bad...
+162|A bad per...
+163|A bad person.
+164|Just say it!
+165|I apologize!
+166|Mr. Samurai, you're pretty scary!
+167|But you're a really nice person because you saved us!
+168|Um...
+169|I wish to tell you a secret, but you must promise to keep it.
+170|What is it?
+171|I'm... looking for my older brother.
+172|We were separated twenty years ago...
+173|And now, I think he might be in Wano!
+174|His name is...
+175|Kozuki Momonosuke.
+176|I'm his younger sister.
+177|My name is Hiyori!
+178|Momonosuke's younger sister?!
+179|I knew it!
+180|I'm so glad I summoned the courage to tell you!
+181|I kind of took a chance.
+182|You do know my brother, don't you?!
+183|And he is okay, right?!
+184|Wait! Calm down!
+185|I need to collect my thoughts.
+186|Lately, rumors abound concerning the return of the Kozuki Clan.
+187|Coincidentally, a strong, kindhearted samurai from overseas is here.
+188|I thought he might be my brother's ally!
+189|Or are you an enemy trying to track him down?!
+190|I'm his ally.
+191|I'm definitely his ally.
+192|I am so relieved.
+193|Do you know if Kin'emon is alive?
+194|Are Kanjuro, Raizo, and Kikunojo all with him?
+195|Kikunojo?
+196|Oh, you mean Kiku?
+197|Yeah, but wait... Something doesn't add up.
+198|Are you really Momo's sister?
+199|Let me explain.
+200|I see.
+201|That's right.
+202|Momo from twenty years ago appears to be eight years old,
+203|and you're supposed to be his younger sister,
+204|but you aged twenty years and you're now twenty-six...
+205|Yes.
+206|By the way...
+207|Huh?
+208|...is it okay for her to hear all of this?
+209|It's okay because I already knew!
+210|It was a secret between Big Sis and me!
+211|Otoko is one of the few close friends who knows my true identity.
+212|Her cheerfulness sustains me day-to-day...
+213|Twenty years ago, I was still a little girl like her...
+214|but I will never forget what happened that day.
+215|You must escape... to the future!
+216|Mother, please don't do this!
+217|Mother! Mother!
+218|I couldn't make sense of anything that was happening.
+219|In the blazing fire,
+220|my brother and the others disappeared right before my eyes...
+221|It was the same day I lost my father Oden,
+222|and even my mother...
+223|In a single day, I suddenly lost everything.
+224|I was told my brother would return in twenty years...
+225|but for something so uncertain, my hope was fleeting...
+226|I did not have the will to go on for all those years.
+227|Why didn't you travel through time too?
+228|In case something happened either to my brother or to me...
+229|they did not want the Kozuki bloodline to end.
+230|That's too cruel...
+231|But my father's retainer,
+232|Kawamatsu the Kappa, provided emotional support and raised me with patience.
+233|A kappa?!
+234|Indeed.
+235|It is hard to believe such creatures exist, but he takes great pride in being one.
+236|On the day that the castle burned, we were surrounded by the enemy,
+237|but we escaped undetected through a drainage channel in the moat.
+238|Princess! I ask for patience!
+239|After losing my father, mother, and brother,
+240|I couldn't speak from the shock of it all, but he was always upbeat and supportive.
+241|Princess! This is the Kappa Dance!
+242|♪ Come on! Kappappa, kappappa, ♪ ♪ kappappa and pa! ♪
+243|♪ Kappappa, kappappa... ♪
+244|Go ahead and eat, Princess.
+245|Kawamatsu, you're hungry too, aren't you?
+246|No, my tummy's upset. That's why it's growling.
+247|Please... Please eat at least half.
+248|No, I'm fine. I found a grilled fish swimming in the river earlier.
+249|A grilled fish in the river?
+250|That's right!
+251|So I filleted it real quick and ate it on the way.
+252|He did not eat much himself, but he did his best to feed me.
+253|Due to the kindness of my dutiful protector, Kawamatsu,
+254|I gradually learned to laugh again.
+255|Where's this guy now?
+256|I think when I was about thirteen,
+257|we were separated...
+258|But Kawamatsu is a strong samurai,
+259|so he must still be out there, awaiting the day of the great battle!
+260|How I wish to see him and the others again...
+261|I wanna see a kappa too!
+262|Uh-huh!
+263|Zorojuro...
+264|Who else is preparing for the great battle?
+265|Well, let's see...
+266|What?!
+267|Then Doggy and Kitty are preparing too?!
+268|Yeah.
+269|I heard that they were both dead, so I thought I would never see them again!
+270|Nekomamushi might not be in Wano yet...
+271|What are you doing?
+272|I am so, so happy...
+273|You crack me up, Big Sis!
+274|But I will not cry!
+275|I am the daughter of a samurai!
+276|If Doggy and Kitty will be there,
+277|then it's possible the entirety of the Nine Red Scabbards will assemble!
+278|I'm not so sure of that.
+279|Kin'emon.
+280|Kanjuro.
+281|Raizo.
+282|Okiku.
+283|Inuarashi.
+284|Nekomamushi.
+285|All we know is those six and Momonosuke.
+286|We haven't met the last three yet.
+287|I spoke of the first of those three, Kawamatsu,
+288|and there's Denjiro and Ashura Doji.
+289|I do not know where they are or if they are safe...
+290|But now, with everyone in the capital in an uproar about this flyer...
+291|I just know they will appear!
+292|Is that the flyer we handed out to the rebels?
+293|Yes.
+294|Thanks to that uproar, the message has spread very fast, which you'd think is a good thing,
+295|but it actually puts us in a tight spot...
+296|seeing as the rendezvous point was compromised and our allies caught.
+297|Things are looking a bit dicey.
+298|It will be all right.
+299|That is my belief.
+300|Well...
+301|Too many captains sink the ship. I'm gonna stop fretting.
+302|Oh, yes! Certainly!
+303|Before anything else, I want you to get well!
+304|Now, get some rest.
+305|Yeah, you don't have to tell me twice...
+306|Otoko, this is a miracle!
+307|I am overjoyed!
+308|My brother is alive!
+309|I'm happy for you, Big Sis!
+310|I'm happy for you, Big Sis!
+311|Toko, this is great!
+312|Can't they keep it down? So much for sleeping!
+313|But he is only eight!
+314|How peculiar.
+315|My brother is still a child.
+316|I suppose Kin'emon and the others haven't changed in twenty years either.
+317|I cannot help but wonder how our reunion will be.
+318|Perhaps it is better not to see them before the great battle.
+319|I should not interfere in a samurai's struggle.
+320|Agreed, Otoko?
+321|I didn't they'd have caught so many ruffians!
+322|People, take a good, long look at them!
+323|Take in the faces of fools who would rise up against Shogun Orochi and Lord Kaido!
+324|Get your ass in there already!
+325|Too bad for you.
+326|You've been outed, your scheme revealed!
+327|You have failed.
+328|Sir Fukurokuju, please wait!
+329|What would lead you believe that this ankle tattoo marks us as rebels?!
+330|This is just a popular design! We have nothing to do with any kind of rebellion!
+331|Enough! What's your explanation for this flyer, then?!
+332|With the reversed crescent moon at its center?
+333|A sign of rebellion against Shogun Orochi, perhaps?
+334|It's a dead ringer for your tattoos.
+335|Shogun Orochi is the one giving the order, so sit down and shut up!
+336|We're in a serious jam...
+337|Will everyone think...
+338|that we blabbed about the plan?
+339|Don't worry...
+340|Captain will continue to believe in us...
+341|Come on, come on! Wipe the floor with them already!
+342|I wish I could join a sumo match too...
+343|I'm Madilloman! A Gifter who ate the Armadillo SMILE Fruit!
+344|Oh, you look like you have tough body!
+345|Perfect for my training!
+346|You moron!
+347|I'm rockin' seastone bullets in these bad boys!
+348|You're finished, fellas!
+349|They're "finished"?
+350|How blind are these idiots?! It's far from "finished."
+351|Gramps!
+352|Go right, duck, and then jump.
+353|Huh?!
+354|Get dead!
+355|Run!
+356|Okay!
+357|"Go right"!
+358|"Duck"!
+359|And...
+360|You little...!
+361|..."jump"!
+362|– Whaaat?! – Whaaat?!
+363|Ow, ow, ow...
+364|Damn, damn, damn, damn, damn, damn!
+365|Good job, gramps! Keep it up!
+366|What the...?! Are you able to peek into the future?
+367|Screw you!
+368|That's pure nonsense! What'd you actually do?!
+369|Gramps! Go left next!
+370|What?!
+371|Why, you...!
+372|"Left"!
+373|Dammit, that geezer!
+374|Try this on for size!
+375|"Left"! "Left"! "Left"! "Left"!
+376|You little cheat!
+377|Bull's-eye!
+378|Guns can't take me down!
+379|Y-You sneaky little...!
+380|It's not over yet!
+381|Send him flying without making contact!
+382|That's not it.
+383|That's just the normal armament...
+384|Oh, crap!
+385|Armadi-Guard!
+386|This isn't it...
+387|This is still just the normal armament...
+388|Huh?! Weren't you gonna hit me?!
+389|Alpaca Fencing!
+390|Hey! Which way next?!
+391|Sir Straw Hat!
+392|Alright! Stop right there!
+393|This good?!
+394|It'll be easier this way!
+395|I'm so sorry...!
+396|Ready when you are, Alpacaman!
+397|Bring it!
+398|Put me down! It's not right for me to burden you this way!
+399|Nope. Actually, the heavier the better.
+400|What?!
+401|It's good for my training!
+402|I see, I see...!
+403|This flyer told us all we needed to know of the upcoming battle!
+404|Two birds on fire... That means twilight on the day of the Fire Festival!
+405|The rendezvous point for the raid is Habu Port!
+406|Young Kin'emon must've put his brain into overtime for this.
+407|Young... Kin'emon?
+408|Oh, why are you giving me that look,
+409|Little Shinobu?!
+410|So, that's how things are. The dejected looks on your faces make total sense.
+411|The plan's as good as ruined,
+412|what with our enemies aware of it.
+413|Mm-hmm. That is correct...
+414|Allies who bear the reversed crescent moon tattoo—the sign of our rebellion—
+415|are getting rounded up now.
+416|If only there was some way to take it back and tell them, "It was all fake!"
+417|But that would mislead your allies as well.
+418|Before this, however, I didn't know about the crescent moon ankle tattoo.
+419|It brought in allies like myself.
+420|That wasn't it! I can't do it right!
+421|What?!
+422|This whole time, when you hit a foe you say, "That wasn't it"!
+423|What are you trying to do?
+424|I wanna send enemies flying with a punch that doesn't even touch them!
+425|If I do that...
+426|I think I can break through Kaido's tough scales!
+427|Send enemies flying with a punch that doesn't touch...
+428|Yeah. I won't know if it works until I actually do it.
+429|The thing is, I've seen it before...
+430|Both Rayleigh...
+431|and that battle-axe guy...
+432|used the same armament haki.
+433|How is theirs different from mine?!
+434|Haki must be a foreign concept.
+435|You know something?!
+436|In Wano, we utilize an invisible power that stems from the body and covers one's blade.
+437|A good sword will cut even iron when you need it to,
+438|and when you don't, it won't even nick a sheet of paper.
+439|It's at the swordsman's discretion!
+440|Gramps...!
+441|Check out this geezer! Ready for us to end you?!
+442|Sir Straw Hat.
+443|Watch as I demonstrate the power honed through my days of sword fighting.
+444|Despite being the centerpiece of a sick execution game,
+445|he's using it as a training opportunity?!
+446|Sir Straw Hat! Give me directions!
+447|Okay!
+448|He'll swing down his right sword, full force!
+449|I got it!
+450|Damn you, geezer!
+451|He knocked him back!
+452|Gramps...
+453|Old man Hyo dropped that Gifter!
+454|Alpacaman!
+455|That old weakling... I swear he had one foot in the grave.
+456|But he's surprisingly spry!
+457|Could old man Hyo actually be
+458|the renowned Hyogoro the Flower?!
+459|Sir Straw Hat...
+460|if this is something that you are striving to accomplish,
+461|perhaps I can be of some assistance.
+462|You gotta teach me!
+463|That's exactly it!

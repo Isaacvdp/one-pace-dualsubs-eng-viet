@@ -1,0 +1,447 @@
+1|Năm và một; chẵn thắng.
+2|Chà!
+3|Người ta bảo tất cả tùy vào ván xúc xắc...
+4|nhưng vận may đang theo ngài, thưa ngài! Ngài đang thắng liên tiếp!
+5|Đây.
+6|Cầm lấy tiền sushi trên thuyền.
+7|Chà! Nhiều hơn số tôi trả đấy, thưa ngài!
+8|Đừng lo. Tôi sẽ thắng thêm.
+9|Chà chà!
+10|Bọn tôi chỉ ghé vào đây trú mưa thôi!
+11|Ở với ngài thì tôi sẽ chẳng bao giờ đói!
+12|Thật đấy! Ngài là người khôn khéo nhất Wano!
+13|Tôi nghĩ tối nay rượu sake sẽ ngon.
+14|Nào, đặt cược đi!
+15|Lẻ!
+16|Chà! Ngài không phải tay vừa đâu, thưa ngài!
+17|Có người cược lẻ!
+18|Xong rồi.
+19|Bắt đầu nào!
+20|Ồ!
+21|Phái Vô Kiếm...
+22|Long Quyển!
+23|Ồ?! Chúng gian lận!
+24|Tệ thật.
+25|Các người! Ra đây!
+26|Ít ra thì lòng hiếu khách của các người có vẻ không thiếu.
+27|Mọi người! Xử hắn!
+28|Phái Nhất Kiếm...
+29|Long Chấn!
+30|Úi, khoan đã, thưa ngài!
+31|Chúng ta sống trên ranh giới giữa chẵn và lẻ, cũng như thiện và ác.
+32|Dừng ở đây thôi!
+33|Được chứ?!
+34|Nào, quản lý, ván vừa rồi có khiếu nại.
+35|Khốn kiếp! Cầm lấy đi! Đừng bao giờ quay lại!
+36|Úi chà! Tôi sợ cứng người! Ngài cũng sợ phải không, thưa ngài?!
+37|Anh im được không?
+38|Chà chà! Ngài thật chu đáo quá!
+39|Ngài quan tâm đến giọng của tôi thật tinh tế. Thật ân cần. Cảm ơn ngài!
+40|À, xin lỗi vì chưa giới thiệu. Tôi tên là Tonoyasu.
+41|Ai cũng gọi tôi là Yasu "Nịnh Hót".
+42|Rất hân hạnh!
+43|Ôi chao, ngài cuốn hút ngay cả khi không nói gì!
+44|Ngài đúng là mỹ nam! Chắc các cô gái mê ngài lắm, thưa ngài!
+45|Sao anh cứ theo tôi?
+46|Một ý nghĩ chợt đến với tôi ở sòng bạc:
+47|"Nếu theo người đàn ông này thì mọi chuyện sẽ ổn."
+48|Người bình thường sẽ không dây vào bọn đó.
+49|Chúng là côn đồ yakuza của gia đình Kyoshiro đáng sợ ở Đô thành.
+50|Ôi, việc ngài làm thật kinh ngạc!
+51|Nếu tôi là phụ nữ thì đã mềm nhũn cả chân!
+52|Có chuyện gì vậy, thưa ngài?!
+53|Trông quen quen.
+54|Ngài tinh ý thật! Thứ ngài thấy ở phía xa là Hoa Đô!
+55|Và trước đó là Ebisu, Thị trấn Đồ Thừa!
+56|Đó là quê tôi!
+57|Ebisu...? Giống thần tài lộc nhỉ?
+58|Ngài thắc mắc vì sao tên là Ebisu à? Đến nơi sẽ biết!
+59|Cho tôi một phần nữa!
+60|Có ngay!
+61|Hắn trông không quen...
+62|Hừm... Mà đông khách thật đấy...
+63|Thằng nhóc đó...
+64|Nó không biết đây là địa bàn của ai à?
+65|Phải cho nó biết...
+66|Đập sắt đi!
+67|Khuân đá đi!
+68|Nếu không làm được...
+69|thì chết quách đi...
+70|và tránh đường cho người khác!
+71|L-Là đây sao?
+72|Khuân năm tảng đá lớn thì được một cái bánh bao kê!
+73|Ông già Hyo, ông quá yếu để tự kiếm ăn rồi sao?!
+74|Cái chết cuối cùng cũng đang đến gần ông!
+75|Tôi đã làm cả ngày...
+76|Hả?! Mày vừa nói gì?!
+77|Hình phạt cho tội cãi lại quản ngục...
+78|là chặt tay chân!
+79|Tiếp theo!
+80|Ông Hyo! Đừng đánh nhau. Giữ sức đi!
+81|Không thì ông chết mất!
+82|Ồ, bốn phiếu đổi!
+83|Làm tốt lắm!
+84|Tránh ra! Tránh ra! Tránh ra! Tránh ra! Tránh ra!
+85|Tránh đường tao!
+86|Bọn mày cản đường tao! Muốn bị cán không?!
+87|Coi chừng, Jaggy!
+88|Tao cũng cán mày luôn!
+89|Khoan, khoan! Đầy rồi! Hôm nay hết!
+90|Vậy thì đem thêm tàu ra đây!
+91|Lũ chậm chạp!
+92|X-Xin lỗi!
+93|Họ đã khuân bao nhiêu tảng đá?
+94|Tôi đếm đến 500 thì bỏ...
+95|Hả?! Còn Hải Lâu Thạch thì sao?!
+96|Vẫn ở trên người họ!
+97|Họ vẫn làm được vậy dù đang yếu sao?!
+98|Khi tháo còng ra thì họ làm được gì nữa?
+99|Tôi làm xong rồi! Cho tôi đồ ăn!
+100|Cái gì?!
+101|Cái gìii?!
+102|Phải khuân bao nhiêu mới được ngần ấy đồ ăn?!
+103|Mày bị sao vậy?!
+104|Nhìn cái gì?!
+105|Tao hơn mày một cái!
+106|Thằng khốn! Tao vượt mày rồi!
+107|Mẹ kiếp! Mày không thể thắng tao đâu, Jaggy!
+108|Mày không biết đếm à, đồ khỉ ngu?!
+109|Đồ khốn!
+110|Chết tiệt!
+111|Tôi tưởng cả hai đều bị thương nặng...
+112|Họ làm việc, ăn, ngủ... Chỉ vài ngày là hồi phục hoàn toàn...
+113|Cơ thể họ là cái gì vậy?!
+114|Làm sao bẻ gãy ý chí họ đây?!
+115|Nói gì với họ đi!
+116|Gì?!
+117|N-Nhai kỹ vào!
+118|Ngươi là mẹ họ à?!
+119|Bánh bao của tôi...
+120|Chết tiệt!
+121|Tù nhân nào đã ăn hết lương thực trong kho?!
+122|Là Phó Quản ngục Dobon!
+123|Hà mã!
+124|Dẫn thủ phạm ra đây!
+125|Cứu...!
+126|Ồ! Ông Hyo bị kẹt rồi!
+127|Bò ra khỏi đó đi, ông già!
+128|Phó Quản ngục!
+129|Chúng đã ở sau song sắt rồi!
+130|Gì?! Còn bánh bao thì sao?!
+131|Chúng ăn hết rồi...
+132|Các ngươi chỉ đứng nhìn à?!
+133|Họ đã làm việc vất vả để có số đồ ăn đó,
+134|nên bọn tôi cũng chẳng nói được gì nhiều...
+135|Sao dám phớt lờ lời Phó Quản ngục!
+136|Tôi không nghe rõ ngài ấy vì con hà mã ngậm miệng lại...
+137|Hà mã?
+138|Phó Quản ngục Dobon...
+139|Dẫn thủ phạm đến đây!
+140|Phó Quản ngục, chúng đây!
+141|Hai đứa này chịu trách nhiệm!
+142|– Chúng no căng rồi! – Chúng no căng rồi!
+143|Tôi chưa từng thấy ai ở đây có bụng no!
+144|Chúng may thật!
+145|Đồ khốn...!
+146|Ta là người ăn khỏe, vậy mà nhờ lũ heo chúng mày,
+147|ta chỉ được ba cái bánh bao!
+148|Nhìn cái miệng này đi! Mày nghĩ thế là đủ sao?!
+149|Dĩ nhiên là không!
+150|Khoan đã...
+151|Để tôi tiêu hóa đã...
+152|– Gì?! – Gì?!
+153|Ta không muốn thấy tù nhân trông thỏa mãn như vậy!
+154|Đó là đồ ăn của ta!
+155|Này! Đừng được nước làm tới, lũ sâu bọ!
+156|Nghe đây! Nếu dám đụng đến quản ngục...
+157|lần đầu mất tay!
+158|Lần hai mất chân!
+159|Còn lần ba thì...
+160|bị xử tử!
+161|Đã cảnh cáo rồi nhé!
+162|Ông ấy nói đúng! Chúng mày không có quyền chống trả!
+163|Này, hiện giờ bọn tôi đang yếu vì Hải Lâu Thạch.
+164|Bọn tôi chỉ làm việc chăm chỉ thôi.
+165|Tội của mày là...
+166|ăn hết đồ ăn của ta!
+167|Đồ khốn...!
+168|Jaggy!
+169|Hà mã!
+170|Ta sẽ dạy cho mày kỷ luật!
+171|Úi! Nó ăn hắn rồi!
+172|Tội nghiệp!
+173|Trong miệng Phó Quản ngục Dobon là lò mổ!
+174|Chuyện gì vậy?!
+175|Tôi chưa từng thấy con hà mã gục thế này!
+176|Phó Quản ngục Dobon?!
+177|Xem mày làm gì kìa! Thử thoát án tử xem!
+178|Chứng minh đi.
+179|Gì?!
+180|Tao bảo mày phải chứng minh!
+181|Giỏi lắm, các cậu!
+182|Giờ các cậu là anh hùng của chúng tôi!
+183|Mua soba đặc biệt đi! Soba đặc biệt của Sangoro!
+184|Là soba đặc biệt của Sangoro!
+185|Tôi muốn thử ngay!
+186|Đây! Cảm ơn đã chờ!
+187|Ồ, trông ngon quá!
+188|Ngon quá! Ngon điên luôn!
+189|Có tin gì về Luffy không?
+190|Cậu ấy ở khu mỏ tù nhân ở Udon, phải không?
+191|Khá xa chỗ này, nhưng tôi chắc cậu ấy sẽ vượt ngục trước ngày trọng đại.
+192|Lâu rồi mới được ăn đồ của anh, Sanji! Em mừng vì anh trở về an toàn!
+193|Tôi không cần cô thích...
+194|Orobi yêu dấu của anh! Vị thế nào?
+195|Chà, ngon tuyệt!
+196|Orobi làm geisha còn tuyệt hơn!
+197|Mà này...
+198|soba ngon đấy, nhưng chỉ thu hút con gái.
+199|Hãy làm món cay ăn kèm sake để thu hút samurai!
+200|Nhìn gì vậy?! Anh không muốn tuyển thêm đồng minh sao, đồ vô dụng?!
+201|Khoan, Franky! Có mấy khách nam đến kìa.
+202|Xin phép.
+203|Xin lỗi các quý cô!
+204|Này, đừng chen hàng!
+205|Hả?! Có gì muốn nói à?! Câm mồm!
+206|Là gia đình Kyoshiro...
+207|Cái gì?!
+208|Này, tránh ra!
+209|Chỗ này có vẻ đắt khách nhỉ, anh bạn trẻ!
+210|Ừ, tôi mừng lắm!
+211|Các anh là khách à? Muốn ăn thì xếp hàng!
+212|Không, bọn tôi chỉ thắc mắc một chuyện...
+213|Ai cho phép các người buôn bán ở đây?
+214|Bọn tôi thuộc gia đình Kyoshiro, đây là địa bàn của bọn tôi...
+215|Nếu không trả tiền thì không được mở quán ở đây!
+216|Ồ, vậy sao?
+217|Mấy người đó... tôi nghĩ họ là...
+218|Cô biết gì về họ à?
+219|Vâng, hôm nọ tôi ở sảnh tiệc của một người tên Kyoshiro.
+220|Tướng quân Orochi là đồ hèn nhát!
+221|Sake! Mang thêm sake cho ta!
+222|Hắn là samurai cực kỳ ngạo mạn. Có vẻ hắn là trùm yakuza.
+223|Những người này có lẽ là thuộc hạ của hắn.
+224|Này, mày điếc à?! Tao bảo phải trả tiền!
+225|Tại sao?
+226|Tại sao ư? Vì nếu không, bọn tôi không thể bảo vệ nếu có ai tấn công quầy của anh.
+227|Tôi không cần các anh giúp. Tôi khá mạnh.
+228|Đây, cảm ơn đã chờ!
+229|Cảm ơn!
+230|Mày nghĩ mày mạnh à?
+231|Vậy thử bảo vệ quán của mày đi!
+232|Soba!
+233|Này!
+234|Đừng ăn soba của chỗ này!
+235|Cô ấy đang khóc hay cười vậy?
+236|Soba của tôi!
+237|Ôi không! Chuyện này sẽ làm Sanji tức hơn bất cứ điều gì!
+238|Cút đi, các cô! Hôm nay quán đóng cửa!
+239|Đi, biến đi! Hết soba rồi!
+240|Mau lên! Cút đi!
+241|Ôi không! Tốt nhất nên tránh ra!
+242|Này!
+243|Mày muốn gì?
+244|Tôi cần các người ăn hết phần của mình...
+245|thưa quý khách.
+246|Hả?! Mày muốn đánh nhau à, thằng nhãi?!
+247|Này! Suke! Kaku!
+248|Rõ!
+249|Dần cho nó một trận!
+250|Hử?! Đánh nhau sao?!
+251|Xuống địa ngục đi!
+252|Đồ khốn!
+253|Ui da, ui da, ui da...
+254|Khốn kiếp!
+255|Chết đi!
+256|Ui da, ui da, ui da...
+257|Đại ca!
+258|Gã nấu soba này là sao vậy?! Mạnh quá!
+259|Gã bán soba đó ngầu quá!
+260|Sanji, chừa cho tôi với!
+261|Bắt đầu nào!
+262|Dừng lại! Chết tiệt! Ông làm gì tôi vậy?!
+263|Franosuke Iron...
+264|Suplex!
+265|Cả gã thợ mộc đó nữa sao?!
+266|Lẽ ra chúng không nên làm vậy!
+267|Giờ ăn hết từng miếng đi!
+268|Chúng mày sẽ ăn hết chỗ soba đã phí!
+269|Đây, ăn đi! Đừng để phí chút nào!
+270|Đại ca! Đại ca!
+271|Gì? Mày muốn ăn à?!
+272|Mày sẽ hối hận!
+273|Nào, dậy đi!
+274|Làm ăn vui vẻ nhé!
+275|Ừ, đúng như dự đoán, nhưng đánh bại chúng có phải ý hay không?
+276|Có lẽ dây vào chúng không phải ý hay nhất...
+277|Hàng dài khách đó tản ra như gián.
+278|Thường thì đây là lúc tên to xác xuất hiện.
+279|Cô ấy là cô gái bị làm đổ soba.
+280|Cô ấy kỳ quặc, vừa khóc vừa cười.
+281|Hả? Khoan đã...
+282|Sao vậy?
+283|Tôi từng gặp cô ấy ở đâu đó rồi...
+284|Được rồi!
+285|Tôi kiếm bộn rồi!
+286|Không ngờ bán được nhiều thế này!
+287|Cô muốn gì?
+288|Này, đó là thuốc chữa mọi loại vết thương à?
+289|Hả? Vâng, đúng vậy!
+290|Cầm máu và giảm đau!
+291|Dầu cóc này là thần dược chắc chắn!
+292|Tuyệt quá!
+293|Tôi gặp cô ấy ở đền thờ.
+294|Xin lỗi về rắc rối lúc nãy.
+295|Vẫn còn soba dư. Mời cô dùng!
+296|Ồ! Cảm ơn!
+297|Ngon...
+298|N-Ngon quá!
+299|Anh làm tôi nở nụ cười thật sự!
+300|Tôi sao?
+301|Soba đặc biệt của anh rất nổi tiếng nên tôi nóng lòng muốn thử,
+302|nhưng hàng dài quá!
+303|Tôi đợi cùng mọi người lâu đến mức đã trễ giờ làm.
+304|Làm việc?
+305|Cô đi làm sao?!
+306|Ừ! Tôi làm việc chăm chỉ và dành đủ tiền mua soba,
+307|nhưng bị đổ làm tôi buồn lắm.
+308|Giờ tôi vui rồi!
+309|Đây là soba ngon nhất tôi từng ăn!
+310|Ồ, vậy à?! Cô thích đến thế sao? Cảm ơn!
+311|Nhân tiện, tên cô là gì?
+312|Là Toko, nhưng hãy thêm "O" kính ngữ ở đầu nhé!
+313|"O"?
+314|Otoko?
+315|Ồ, giống chữ "đàn ông"!
+316|Tôi không phải đàn ông! Otoko chỉ là tên tôi thôi!
+317|Tôi chỉ là một cô gái tên Otoko.
+318|Có buồn cười không? Có thú vị không?
+319|Ai cũng bảo dễ nhớ!
+320|Ừ! Đúng vậy! Tôi chắc chắn sẽ không quên!
+321|Tên hay lắm!
+322|Quá chuẩn!
+323|Ôi, ngon quá...!
+324|Cảm ơn!
+325|Được rồi! Lại ghé nhé!
+326|Ừ!
+327|Ôi không! Tôi trễ thật rồi! Rất rất trễ!
+328|À, phải rồi! Lát nữa tôi sẽ đi qua con phố này!
+329|Hôm nay là ngày đoàn rước hoa khôi!
+330|Hoa khôi ư?!
+331|Toko, chẳng lẽ cô là kamuro?
+332|Đúng vậy. Tôi là kamuro!
+333|Bắt đầu rồi! Tôi phải chạy! Tạm biệt! Hẹn gặp lại!
+334|Hoa khôi đẹp lắm, hãy đến xem nhé!
+335|Tạm biệt!
+336|Ôi, cô ấy buồn cười quá!
+337|Toko vui vẻ quá. Dễ thương!
+338|Đoàn rước hoa khôi mà tôi nghe nhiều sẽ đi qua đây sao?!
+339|Hoa khôi?
+340|Kamuro?
+341|Hoa khôi là...
+342|Bà từ đâu ra vậy, mụ già mặt đèn lồng giấy!
+343|Bà chủ!
+344|Ai mày gọi là mụ già nhăn nheo mặt đèn lồng giấy hả?!
+345|Tao sẽ đốt đít mày, thằng nhóc con!
+346|Hoa khôi giống như thần tượng hàng đầu ở Wano! Một siêu sao!
+347|– Ừ! Ừ! – Ừ! Ừ!
+348|Hiện cả nước chỉ có một hoa khôi! Người phụ nữ được chọn tên là Komurasaki!
+349|Người phụ nữ trong mộng của đàn ông! Biểu tượng của phụ nữ!
+350|Hiện thân của sự tinh tế với sắc đẹp đủ làm nghiêng nước!
+351|Ngay cả thần cũng không thể làm ô uế sự cao quý của cô ấy!
+352|Đó là hoa khôi Komurasaki!
+353|Không thể nào! Không thể có người phụ nữ hoàn hảo như vậy!
+354|Không tin thì tự xem đi!
+355|Đó! Nghe thấy chưa?!
+356|Đó là tiếng reo hò và nhạc rộn ràng vây quanh cô ấy.
+357|Hoa khôi đang rước đến Thành Orochi!
+358|Tối nay có yến tiệc cho tướng quân ở thành!
+359|Cô bé lúc nãy là kamuro, thị nữ nhỏ của hoa khôi.
+360|Hmm, ra vậy!
+361|Orobi, tôi có tin vui cho cô! Tôi đã chạy khắp Hoa Đô tìm cô.
+362|Cho tôi sao?!
+363|Chúc mừng!
+364|Gì cơ?!
+365|Cô cũng nhận được lệnh triệu vào thành!
+366|Cô mơ được gặp Tướng quân Orochi, đúng không?!
+367|Vâng!
+368|Chà! Đúng là Robin của chúng ta!
+369|Giờ về nhà chuẩn bị thôi!
+370|Vâng! Tôi nóng lòng quá!
+371|Này, anh mũ rơm!
+372|Anh đúng là phi thường! Anh thuộc gia đình nào vậy?!
+373|Hôm qua sướng quá! Từng tế bào đều đang nói về anh!
+374|Để tôi yên.
+375|Đừng thế chứ. Ai ở đây cũng mê anh chết đi được!
+376|Hừ... Vậy là lạnh nhạt rồi.
+377|Ngài Mũ Rơm!
+378|Tôi biết ơn vô cùng vì hôm qua ngài đã cứu cái mạng vô dụng của tôi!
+379|Hắn tự chuốc lấy, đừng bận tâm.
+380|À, phải rồi. Cho ông mấy cái này!
+381|Không ăn thì không làm được, đúng không?
+382|Ôi không! Xin đừng! Kẻ vô dụng như tôi không thể nhận!
+383|Dĩ nhiên là nhận được. Tôi nhất quyết.
+384|Gặp sau!
+385|T-Tôi sẽ dùng cho khôn ngoan!
+386|Cảm ơn! Cảm ơn! Cảm ơn! Cảm ơn!
+387|Ông ấy buồn cười thật!
+388|Ngài Luffy!
+389|Raizo! Sao rồi?!
+390|Xin lỗi đã để ngài chờ.
+391|Tại hạ đã tìm thấy chìa khóa còng Hải Lâu Thạch của ngài, nhưng...
+392|nó được canh giữ nghiêm ngặt.
+393|Không chỉ có lính canh mà còn nằm trong hộp Hải Lâu Thạch!
+394|Dù vậy...
+395|tại hạ sẽ đánh cắp bằng mọi giá. Xin cho tại hạ thêm chút thời gian.
+396|Được! Hiểu rồi!
+397|Được rồi!
+398|Lại là ngươi!
+399|Đại ca làm việc chăm chỉ quá!
+400|Đại ca định kiếm bao nhiêu bánh bao kê vậy?
+401|Tao không cho mày đâu!
+402|Thôi đi! Caribou!
+403|Đừng thế chứ! Chúng ta là bạn cũ mà, đúng không?
+404|Caribou "Tóc Ướt" của băng Caribou.
+405|Luffy gặp tên hải tặc hung ác nhưng xui xẻo này ở Quần đảo Sabaody.
+406|Hắn không hạ được băng Mũ Rơm khi tập kích tàu Sunny trên đường đến Đảo Người Cá.
+407|Sau khi đến Đảo Người Cá, hắn tiếp tục làm điều ác...
+408|cho đến khi bị Luffy và Pekoms đánh bại.
+409|Cuối cùng Caribou cũng đến được Tân Thế Giới, luồn lách qua nhiều thử thách.
+410|Hắn khám phá ra một lối sống mới ở đó...
+411|nhưng Drake bất ngờ xuất hiện và hạ hắn.
+412|Sau đó Caribou bị đưa đến Wano,
+413|và bị ép lao động khổ sai ở khu mỏ Udon.
+414|Ôi, đại ca...
+415|cho tôi một ít với!
+416|Bánh bao kê cho người nghèo khó!
+417|Không đời nào! Tự đi mà làm!
+418|Đại ca tàn nhẫn quá!
+419|Tôi nghe nói về còng Hải Lâu Thạch này...
+420|Chúng được làm yếu đi để tù nhân vẫn làm việc được.
+421|Dù vậy, tôi vẫn gần như tê liệt...
+422|Cố gắng hơn nữa đi!
+423|Đại ca khắc nghiệt quá.
+424|Nếu cho tôi bánh bao, tôi sẽ làm đàn em của đại ca.
+425|Tôi ở đây lâu hơn đại ca nhiều,
+426|nên tôi biết rõ nơi này hơn.
+427|Đại ca đồng ý chứ, phải không?
+428|Im đi!
+429|Đại ca định vượt ngục, đúng không?
+430|Thôi mà, cho tôi tham gia với!
+431|Đi chỗ khác!
+432|Không được lười biếng!
+433|Một gã nấu soba đánh bại các ngươi?
+434|Đúng vậy! Hắn khá mạnh!
+435|Hắn hạ cả ba bọn tôi.
+436|Hôm nay ta sẽ bận.
+437|Ta được mời đến yến tiệc của Tướng quân Orochi...
+438|Liên lạc với Queen.
+439|Bảo hắn cử một sát thủ.
+440|Chuyện đó có thể gây náo loạn...
+441|Ta không quan tâm!
+442|Rõ!
+443|Tướng quân Orochi...
+444|hoa khôi đang đến đây rồi.
+445|Tuyệt...
+446|Komurasaki...
+447|sau hôm nay, nàng sẽ là của ta!

@@ -1,0 +1,461 @@
+1|Big Sis! Stay with me!
+2|Big Sis!
+3|Hey, dumbasses!
+4|Fetch the medics!
+5|Hey!
+6|Sir!
+7|Find those two, corner them, then summon the rest of us.
+8|Yamato, you bastard...
+9|Page One!
+10|You took a pretty nasty hit too.
+11|Yeah, that was quite the punch...
+12|Think he dislocated my jaw.
+13|That's all?!
+14|More importantly, where are the medics?
+15|We're here!
+16|You're hurting my eyes!
+17|Pay-Pay!
+18|It hurts ever so much!
+19|Poor sweet little me!
+20|Maybe you should pipe down then?
+21|What did you say?!
+22|Are you trying to make me cry?!
+23|That lousy Yamato!
+24|How dare he steal Viceroy Kaido's Thunder Bagua?!
+25|She's fine all right.
+26|His is more like Blunder Bagua.
+27|It didn't even hurt...
+28|Big Sis...
+29|Master Page One!
+30|Young Master Yamato and Straw Hat have stopped!
+31|Okay!
+32|Hey, Pay-Pay!
+33|Don't leave me!
+34|Where are you taking me?!
+35|I don't have time for strangers!
+36|Please wait.
+37|I merely wish to speak.
+38|Get out of my way!
+39|Listen to what I have to say!
+40|You have five seconds!
+41|People can hear us.
+42|Let's speak in private.
+43|Then forget it!
+44|Gum-Gum...
+45|Gatling!
+46|You stubborn jerk!
+47|Red Hawk!
+48|This reminds me of...
+49|my battle against him!
+50|Damn!
+51|They're gone!
+52|What's going on?
+53|Where's Yamato?
+54|I'm sorry!
+55|We lost them both!
+56|The day Kozuki Oden fell...
+57|his stronghold, Oden Castle, fell alongside him!
+58|However, a group of people inside the castle vanished into thin air!
+59|Samurai from the Red Scabbards and this runt!
+60|Where did they disappear to?
+61|To the future!
+62|They crossed through twenty years of time...
+63|resurfacing in the Wano of today! They haven't aged a day!
+64|And who exactly was responsible for this sorcery?!
+65|I'll tell you...
+66|None other than Kozuki Toki!
+67|Oden's wife, Toki, was a witch who could send these malcontents into the future!
+68|No way!
+69|There are brats with topknots all over Wano!
+70|The Kozuki name died out decades ago!
+71|Right, brother?!
+72|Yeah, man!
+73|Y-You're totally right!
+74|Yo, yo, Shogun Orochi!
+75|Don't keep him so far from us!
+76|Bring that brat down here!
+77|I wanna gouge his freakin' eyes out!
+78|How dare you call my mother a witch?!
+79|Y-You will pay for that, Orochi!
+80|Insolent whelp! Don't try to act tough!
+81|How should I execute you?!
+82|Impalement?
+83|Shooting?
+84|Or maybe boiling?!
+85|What should we do, Boss?
+86|I can't stand watching Momo like this!
+87|The samurai will surely act.
+88|Hold fast, Nico Robin!
+89|Lord Momonosuke!
+90|Lord Momonosuke!
+91|Lord Momonosuke!
+92|Lord Momonosuke!
+93|Though frustrated by their inability to rescue Momonosuke,
+94|the raiding forces have successfully blended into the banquet!
+95|Meanwhile, Law's submarine, the Polar Tang, which was carrying the Red Scabbards samurai,
+96|reached the back of the island.
+97|Adjust trim, 38 degrees!
+98|Adjusting, 38 degrees!
+99|Get as close to the island as possible!
+100|Yes, sir!
+101|Strong currents are forming all around us!
+102|It's the same up there.
+103|When we surface, we'll only get one shot!
+104|Understood!
+105|We're counting on you, Traffy!
+106|Bepo! Shachi! Penguin!
+107|Are you ready?!
+108|Aye, aye, Captain!
+109|– Aye, aye, sir! – Aye, aye, sir!
+110|We're coming for you, Kaido!
+111|All systems clear!
+112|Ready to surface anytime!
+113|Alright! Surface!
+114|It's snowing...?
+115|Room!
+116|Shambles!
+117|They're gone!
+118|Close the door!
+119|We're resubmerging!
+120|Roger!
+121|Rapid descent!
+122|We're here!
+123|That technique of yours is remarkable!
+124|There are two entrances.
+125|No doubt Kaido will be up there.
+126|Hey!
+127|Can't you be a little more gentle?!
+128|You're asking too much!
+129|Whose great idea was this anyway?!
+130|Hey, wait!
+131|That must be...
+132|Ow, ow, ow...
+133|Come on, mew need to be careful!
+134|Nekomamushi!
+135|You have grown much bigger!
+136|Kawamatsu! You're alive!
+137|Ashura!
+138|You made it too!
+139|Yeah, it's been a while!
+140|Marco! You carried him here?!
+141|Carrying two people really takes it out of you!
+142|Two?!
+143|– Izo! – Izo!
+144|Big Brother...
+145|Big Brother!
+146|Kiku, you have become a fine samurai.
+147|– Izo! – Izo!
+148|You are a sight for sore eyes!
+149|I am so glad that you came back!
+150|I forgot to mention it before!
+151|Marco said he knew Izo's whereabouts, so I went there to see him!
+152|Marco! You haven't changed one bit!
+153|You think?
+154|We can reminisce about the good old days later!
+155|Something on the sea caught my eye earlier, so I'm gonna go check it out.
+156|Marco! Thank you!
+157|I'm glad I waited for twenty years.
+158|Let's take down Kaido at any cost!
+159|Hey, is Linlin ready yet?!
+160|Oh, Emperor Big Mom is already on her way here!
+161|You should've told me that, Bao Huang!
+162|My bad!
+163|You can go now.
+164|We'll make our grand announcement alongside Momonosuke's execution!
+165|Let's go!
+166|All right!
+167|A toast to celebrate this execution!
+168|Oh, Viceroy Kaido?
+169|Here comes Viceroy Kaido!
+170|Listen up!
+171|All you bastards!
+172|Allow me to spice up this brat's dull execution.
+173|This is... the New Onigashima Project!
+174|Five minutes!
+175|Years ago...
+176|I told my father...
+177|that I wanted to become Kozuki Oden.
+178|Huh?!
+179|In return, he disciplined me thoroughly.
+180|Why are you telling me this?!
+181|And why now of all times?!
+182|Twenty years ago, I witnessed Oden's execution...
+183|the Legendary Hour.
+184|As a samurai, he was peerless.
+185|The ones who killed him...
+186|were Orochi and my father...
+187|Kaido!
+188|It was infuriating...!
+189|Yet, above all,
+190|my heart was stirred. My tears flowed freely!
+191|Later, I found this in Kuri.
+192|Kozuki Oden's logbook.
+193|Oh, his journal!
+194|It's my bible!
+195|Not even my father or his crew know about this journal!
+196|The pages are filled with his heroic tales and other important tidbits.
+197|Now that the Red Scabbards are dead,
+198|someone has to inherit Oden's will!
+199|That's why...
+200|I'm going to open up this country!
+201|You're...
+202|Allow me to fight alongside you!
+203|You said you were Kaido's son.
+204|Kozuki Oden was a man, correct?
+205|So I became a man, too.
+206|You are incredibly strong.
+207|I could tell you were holding back when we fought before.
+208|You remind me of Ace.
+209|Wha...?!
+210|Huh?!
+211|I knew you would come...
+212|There was no trace of a samurai invasion...
+213|but I knew deep down that you could never stay away.
+214|I know your tenacity better than anyone!
+215|They're really here!
+216|After hiding like rats for twenty years since the boiling!
+217|Kanjuro...
+218|Have you betrayed us?!
+219|Your raid ends right here.
+220|Izo, you have returned... just to fight this losing battle?
+221|They're decapitated, yet still able to fight...
+222|Nicely drawn.
+223|They look just like you guys, don't they?!
+224|With Oden, you lost your head, and yet the body of the samurai writhes on.
+225|We still have our head!
+226|Our lord is Momonosuke!
+227|Is Lord Momonosuke okay?!
+228|I cannot say for certain...
+229|He was trying the best he could to escape.
+230|How can I get to Lord Orochi?!
+231|Halt!
+232|I refuse to remain a burden to them!
+233|What are you doing?
+234|If I let you get away...
+235|then I cannot fulfill my role!
+236|I only intended to knock him out...
+237|but I overdid it a little...
+238|Luckily, he clung on to life,
+239|so I was able to hand him over to Lord Orochi.
+240|Lord Momonosuke!
+241|Any minute now, Momonosuke will be executed on stage for all to see!
+242|All we have to do is stop you right here.
+243|Minutes from now, the history of the Kozuki clan will come to an end.
+244|Don't mess with us, Kanjuro!
+245|Advance!
+246|Kappa Style:
+247|Yorikiri!
+248|Flower Shuriken!
+249|Go to hell!
+250|You-gara! What happened to your leg?!
+251|It's my two-sword style!
+252|Isn't it cool?
+253|It's purrific!
+254|Now what is that?
+255|Isn't it cool?
+256|This will tear Kaido to shreds!
+257|Cool...
+258|What's wrong, Kiku?
+259|More... Cry some more!
+260|Come on...
+261|Come on...
+262|Come on!
+263|Please cease your drivel, Kanjuro.
+264|To me, Kanjuro of the Evening Shower...
+265|was a precious friend.
+266|Prepare yourself.
+267|The wounds from this blade shall follow you to your grave.
+268|Like the snow that remains in spring, so, too, shall they torment your soul forevermore!
+269|Come at me, Kiku!
+270|Hey! Turn on the video transponder snail already!
+271|Kaido's speech has started!
+272|I, as Kozuki Oden, thought that you...
+273|as Ace's brother, would allow me to board your ship, so I gathered info on you.
+274|Hey!
+275|Everyone loves Kozuki Oden!
+276|You can't just be him!
+277|Fine, you're more Oden than I am!
+278|What do you mean I'm more Oden than you?!
+279|Even if I am Oden, I'm still not free...
+280|because of these cuffs!
+281|I wanted to set out to sea along with Ace and his crew...
+282|but I've been held captive on this island since I was eight!
+283|Aren't those for prisoners?
+284|Yes!
+285|My father said they would explode should I ever leave the island.
+286|Honestly, I think that was probably a lie...
+287|because what kind of a parent would blow up their own son?!
+288|But when I think of the worst case scenario, I feel weak at the knees...
+289|because my father is that kind of man.
+290|Want me to take them off?
+291|What?!
+292|Do you really wanna fight alongside us?
+293|If you come with me, I'll be kicking Kaido's ass right in front of you!
+294|I wish I could do it myself!
+295|I've lost count of the beatings he's given me since I was a child!
+296|Every time I challenged him, I was defeated!
+297|I see.
+298|Okay, I'll take them off for you!
+299|Take them off?
+300|They've restricted my freedom for twenty years...
+301|It's not as easy as...
+302|It's been two years since the Summit War against Whitebeard!
+303|It's footage from the Performance Floor!
+304|The gears of the world are turning once again!
+305|The abolition of the Seven Warlords wasn't some act of madness by the government!
+306|It's a sign of confidence in their ability
+307|to bring us to heel with new countermeasures at Marine Headquarters.
+308|But while the World Government wallows in ignorance,
+309|we will gather the most powerful forces in this world...
+310|the ancient weapons!
+311|To accomplish that...
+312|we have entered into an alliance with Big Mom!
+313|Did I hear you...
+314|call out my name, Kaido?
+315|Oh, my...
+316|Big Mom?!
+317|Welcome back, Zeus.
+318|Ma... ma...
+319|Mama!
+320|She's terrifying up close!
+321|She's the world's strongest old hag!
+322|Zeus!
+323|Nami!
+324|They were caught?!
+325|You're finally here, Linlin!
+326|What took you so long?!
+327|Don't be such a stickler, Kaido!
+328|I made it in time.
+329|As Kaido said,
+330|we formed an alliance with a purpose in mind!
+331|A purpose?
+332|If we're at each other's throats, it's out of our reach,
+333|but if we join hands, it's already within our grasp!
+334|Listen up, you louts!
+335|We're doubling down on piracy!
+336|At long last...
+337|...we're going to claim...
+338|...the great treasure One Piece!
+339|...the great treasure One Piece!
+340|The One Piece...
+341|What the heck! That's my treasure!
+342|Those jerks!
+343|The fear of the ancient weapons...
+344|will ignite a terrible war across the world!
+345|Prepare yourselves!
+346|That is the violent world that we desire!
+347|How exciting!
+348|Any of you who serve Orochi, listen up!
+349|You've got a choice to make.
+350|A choice?
+351|This country...
+352|is a natural stronghold surrounded by the falls,
+353|which makes it difficult for the Marines and the World Government to penetrate.
+354|If we build more weapons factories...
+355|and force even the people of the Flower Capital to work,
+356|this place will become a lawless land, a paradise for pirates!
+357|Hey...
+358|Hey!
+359|Kaido, you swine!
+360|The Flower Capital is my territory!
+361|Do you hear me?!
+362|For torturing the Kurozumi Clan, I'll bring those Kozuki devils to their knees
+363|and subject them to all manner of horrors to keep them from rising up!
+364|Forever and ever!
+365|Wano is mine to destroy!
+366|This country belongs to me!
+367|Know your place, Kaido!
+368|You're not even from here!
+369|Who do you think is making it possible for you to procure weapons?!
+370|Wano can only exist with me!
+371|Don't you dare forget that!
+372|I see you understand.
+373|What we've got to do now...
+374|is kill that brat immedia–
+375|I don't care!
+376|We don't need him anymore!
+377|Utter tripe!
+378|To me...
+379|both the Kurozumi Clan...
+380|and the Kozuki Clan...
+381|mean nothing!
+382|Momo!
+383|Hey, that's Momo!
+384|Momo, wait for me!
+385|Hey, keep it down!
+386|Hey, what the hell?!
+387|What's going on?!
+388|Huh?
+389|And now the pirate-loving fly is dead.
+390|Those loyal to Orochi have five seconds to decide!
+391|Become pirates and follow me...
+392|or challenge us right here and die?
+393|To prepare for the coming worldwide war,
+394|I will turn this country into a pirate empire!
+395|We'll ramp up the expeditions for our primary business.
+396|So tonight,
+397|we will relocate Onigashima to the Flower Capital,
+398|and Wano will fall!
+399|That bastard!
+400|The country's name will be New Onigashima!
+401|And the new shogun will be my son...
+402|Yamato!
+403|What did he...
+404|just say?!
+405|You can't just force that on me!
+406|You shitty old man!
+407|Hurry up!
+408|They're gonna kill Momo!
+409|I know a shortcut!
+410|Okay!
+411|Performance Floor Skull Dome
+412|Castle Attic
+413|"Oden's Travel Record"
+414|Kaido's Daughter
+415|Kaido's Daughter
+416|Kaido's Daughter
+417|Kaido's Daughter
+418|(Self-Proclaimed Kozuki Oden)
+419|(Self-Proclaimed Kozuki Oden)
+420|Y
+421|Y
+422|Y
+423|Y
+424|Y
+425|Y
+426|a
+427|a
+428|a
+429|a
+430|a
+431|a
+432|m
+433|m
+434|m
+435|m
+436|m
+437|m
+438|a
+439|a
+440|a
+441|a
+442|a
+443|a
+444|t
+445|t
+446|t
+447|t
+448|t
+449|t
+450|o
+451|o
+452|o
+453|o
+454|o
+455|o
+456|Rear Entrance
+457|Kikunojo of the Lingering Snow A Retainer of the Kozuki Clan
+458|Kikunojo of the Lingering Snow A Retainer of the Kozuki Clan
+459|Olin the Oiran Captain of the Big Mom Pirates Bounty: 4 Billion 388 Million Berries
+460|Olin the Oiran Captain of the Big Mom Pirates Bounty: 4 Billion 388 Million Berries
+461|Olin the Oiran Captain of the Big Mom Pirates Bounty: 4 Billion 388 Million Berries

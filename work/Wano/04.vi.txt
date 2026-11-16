@@ -1,0 +1,178 @@
+1|Đã đến lúc các ngươi rút ngắn chuyến thăm này rồi.
+2|Các ngươi không biết ai giật dây đất nước này sao?
+3|Không biết!
+4|Là Kaido phải không?!
+5|Bọn tôi đến đây để...
+6|hạ gục một Tứ Hoàng!
+7|Này, Luffy!
+8|Kin'emon bảo cũng không được nói những điều như thế mà!
+9|Cái...?
+10|Đó là nói dối!
+11|Tôi không biết là ai!
+12|Xác suất hai ngươi sống sót qua tháng này...
+13|là 19 phần trăm.
+14|Nhân tiện, ngươi lấy thanh kiếm đó ở đâu?
+15|Một thanh danh kiếm nào đó, quả thật là vậy.
+16|Ừ, ta chắc chắn đó là danh kiếm.
+17|Cho ta xem một chút.
+18|Không đời nào!
+19|Ngươi cũng đâu biết dùng kiếm, đưa nó cho ta đi!
+20|Ta sẽ chém chúng, quả thật!
+21|Xông lên.
+22|Đây là đấu kiếm, quả thật!
+23|Đừng ném cả vỏ kiếm!
+24|Gomu Gomu no...
+25|Pistol!
+26|Không phải súng lục chết tiệt!
+27|Đến con thằn lằn cũng đuổi theo tôi!
+28|Đồ khốn!
+29|Kiếm Rơm.
+30|Đó là loại kiếm gì vậy?!
+31|Tội nghiệp con thằn lằn!
+32|Nhanh quá!
+33|Ấn tượng đấy.
+34|Vừa rồi là chuyện gì vậy?!
+35|Trừ Một Mạng.
+36|Những người rơm này đại diện cho thuộc hạ của ta.
+37|Ta có thể cất chúng trong cơ thể bằng sức mạnh Trái Rơm Rơm...
+38|nên ta sẽ không bị thương.
+39|Nếu cất mười người, ta có thể chết mười lần.
+40|Nào, chơi một trò chơi nhé.
+41|Trò chơi?!
+42|Đúng vậy...
+43|Với Lá bài Người Rơm này!
+44|Ta không cao thượng đến mức đối đầu ngang hàng với hai người của Thế hệ Tồi tệ nhất.
+45|Hắn phiền phức hơn tôi nghĩ...
+46|nhưng lẽ ra tôi phải đoán được!
+47|Bắt đầu thôi.
+48|Chàng Hề Ngược!
+49|Chết tiệt, điều này báo hiệu sự bất hòa nội bộ.
+50|Xin lỗi, lần sau ta sẽ rút lá tốt hơn.
+51|Ta phải chấp nhận rủi ro vì có những lá bài có thể đẩy ta vượt qua giới hạn.
+52|Này! Cậu làm gì thế, nhóc?!
+53|Hawkins!
+54|Đừng sợ.
+55|Tama! Cố lên, Tama!
+56|Em ấy sốt cao quá!
+57|Chắc vì thế mà con chó vội vã.
+58|Lũ khốn!
+59|Bọn ta sẽ không để các ngươi thoát!
+60|Hawkins! Chúng chạy thoát rồi!
+61|Ta rút được lá bài tốt.
+62|Giáo Hoàng Ngược.
+63|Lá bài của sự truy đuổi!
+64|Này, Luffy!
+65|Bảo vệ đứa bé!
+66|Tôi sẽ...
+67|lo...
+68|việc này!
+69|Ngươi cũng khá mạnh đấy.
+70|Đinh?!
+71|Nhị Đao Lưu...
+72|Nigiri...
+73|Toro...
+74|Samon!
+75|Chúng ta có đuổi theo không, Hawkins?!
+76|Giáo Hoàng.
+77|Là lá bài của sự trợ giúp.
+78|Sẽ có người dẫn họ đến nơi an toàn...
+79|Thằng cha phiền phức...
+80|Vậy đứa bé thế nào rồi?
+81|Nóng quá!
+82|Nhiệt độ của em ấy cứ tăng lên.
+83|Chó ơi!
+84|Chạy nhanh lên!
+85|Hả? Có chuyện gì thế?
+86|Khoan... cậu có phải...?
+87|Cậu lạc đường à?!
+88|Chúng ta không có thời gian để phí...
+89|Cứ...
+90|đi bên phải.
+91|Các ngươi nên đi bên trái.
+92|Các samurai mạnh quá.
+93|Cô là ai?!
+94|Không thể tin các vị đã đẩy lùi được Hawkins.
+95|Cô là...
+96|Tôi là người ngài vừa cứu lúc nãy, quý ông tóc xanh.
+97|Tên tôi là Tsuru.
+98|Cô đã trốn trong đuôi của cậu ấy suốt thời gian này sao?!
+99|Vâng!
+100|Cảm ơn ngài đã cứu tôi.
+101|Đây!
+102|Ít nhất hãy lau mồ hôi cho em ấy được không?
+103|Ồ! Cảm ơn!
+104|Tôi hy vọng nói vậy không quá đường đột...
+105|nhưng ngài cho phép tôi chăm sóc bé Otama chứ?
+106|Cô biết con bé à?
+107|Vâng.
+108|Ra vậy!
+109|Xin cô giúp!
+110|Con bé uống nước sông ô nhiễm vì quá đói.
+111|Thay vì đi tìm bác sĩ...
+112|xin hãy đưa em ấy đến quán trà của tôi.
+113|Trà á?!
+114|Giờ không phải lúc uống trà!
+115|Nếu không nhanh lên thì con bé sẽ chết!
+116|Tôi không quen đứa bé này nên có thể không phải chuyện của tôi, nhưng mà...
+117|Không, không...
+118|Chúng tôi có một loại thảo dược chữa độc nước sông.
+119|Đó sẽ là cách tốt nhất để chữa cho Otama.
+120|Tôi hiểu rồi.
+121|Vậy xin hãy giúp chúng tôi!
+122|Cảm ơn cô!
+123|Để đền ơn mà tôi nợ ngài...
+124|xin cho tôi chữa trị cho ngài nữa, quý ông tóc xanh...
+125|Của ngài đây.
+126|Bánh dango của quán trà là món hiếm có.
+127|Chúng là thứ duy nhất...
+128|giúp tôi sống tiếp.
+129|Cô nói quá rồi...
+130|Chẳng bao lâu nữa, cô sẽ lại được ăn bao nhiêu tùy thích như trước đây.
+131|Tôi hy vọng vậy...
+132|Này, ông già, quán đóng cửa rồi!
+133|Cút đi!
+134|Nào, Okiku.
+135|Em không trả nổi thuế đường phố, đúng không?
+136|Ta chỉ nói là ta sẽ giúp em.
+137|Nếu em làm vợ ta...
+138|em sẽ không phải làm việc nữa!
+139|Mỗi ngày em có thể ăn bao nhiêu món ngon từ nông trại tùy thích!
+140|Địa vị xã hội của chúng ta quá khác nhau.
+141|Nếu ông không gọi món gì, xin ông...
+142|vui lòng rời đi.
+143|Tao không muốn ăn gì ở chỗ này!
+144|Bánh dango và trà làm từ đồ thừa của người khác!
+145|Này, em biết ta là ai chứ?
+146|Ta là yokozuna nổi tiếng từ kinh đô.
+147|Ta là đô vật sumo giỏi nhất Wano,
+148|Urashima!
+149|Đến lúc em bỏ cái quán trà tồi tàn này rồi!
+150|Em phải thôi sống nhờ đồ thừa của người khác, để ta và em...
+151|để chúng ta có thể... em hiểu chứ...?
+152|Okiku!
+153|Cô Otsuru!
+154|Otama uống nước độc từ sông!
+155|Ồ! Nghiêm trọng đấy!
+156|Xin cô! Làm gì được thì giúp em ấy!
+157|Okiku!
+158|Sắc cây ngũ diệp!
+159|Vâng, ngay đây ạ!
+160|Này!
+161|Mấy thằng ngốc kia là ai?!
+162|Này!
+163|Tránh đường.
+164|Hả?!
+165|Sao tao phải làm thế...?!
+166|Okiku! Lát nữa ta có trận đấu ở thị trấn Bakura!
+167|Nếu em quan tâm thì đến xem ta mạnh thế nào!
+168|Là bọn họ phải không?!
+169|Là băng Mũ Rơm!
+170|Tôi có nên đi báo trước khi họ gây rắc rối không?!
+171|Tốt nhất đừng!
+172|Sẽ thu hút sự chú ý của mọi người!
+173|Tạm thời cứ báo cáo chuyện này cho thủ lĩnh.
+174|Otsuru Chủ quán trà
+175|Thị trấn Okobore Kuri Wano
+176|Okiku Nữ phục vụ quán trà
+177|Trên đỉnh núi...
+178|Trên đỉnh núi...

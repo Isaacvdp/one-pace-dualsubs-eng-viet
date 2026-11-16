@@ -1,0 +1,462 @@
+1|Nhớ cho kỹ, chính cậu là người đã nghi ngờ băng của tôi.
+2|Không tin nhau thì làm sao che chở cho nhau khi liều mạng chiến đấu!
+3|Traf giận đùng đùng bỏ đi rồi!
+4|Biết đâu cậu ấy có quay lại không.
+5|Shinobu nói quá lời rồi!
+6|Cậu hiểu vì sao cô ấy nổi giận chứ?
+7|Kaido xâm chiếm đất nước cô ấy, phá nát mọi thứ cô ấy từng biết,
+8|vậy mà cô ấy chịu đựng hai mươi năm để chờ ngày phản công.
+9|Kệ đi. Cho dù Bepo và mọi người có lỡ miệng kể kế hoạch, tôi cũng không trách.
+10|Ừ, dĩ nhiên rồi, cậu cũng sẽ khai thôi.
+11|Tôi cũng nói được y như vậy về cậu!
+12|Tra tấn à?
+13|Tôi chịu được ba giây.
+14|Cố chịu lâu hơn đi chứ!
+15|Cút đi!
+16|Tao không có việc gì với lũ dân đen chúng mày!
+17|Có chuyện gì thế? Tiếng quát giận dữ nghe lạc quẻ ở thị trấn Ebisu.
+18|Này bà già yêu quái rửa đậu kia!
+19|Dừng lại!
+20|Họ mới đến đây thôi. Hôm qua họ chạy trốn khỏi kinh đô tới.
+21|Nhìn cái gì?!
+22|Cút đi, lũ ranh!
+23|Họ chạy trốn khỏi kinh đô sao?
+24|Ừ.
+25|Chỉ những ai tạo ra của cải và trung thành với tướng quân mới được sống ở Hoa Đô.
+26|Nghe nói mấy người đó làm toàn chuyện đê tiện.
+27|Đầu tiên,
+28|có tên Bungo, thuộc hạ.
+29|Lũ khốn!
+30|Đêm này qua đêm khác, hắn đi khắp phố phóng hỏa,
+31|nhưng lại hối lộ quan lại để thoát tội.
+32|Kẻ đốt nhà sao?!
+33|Sao hắn lại hối lộ để phạm tội đốt nhà?
+34|Vì có kẻ khác kiếm lời từ những vụ cháy đó.
+35|Và đây là kẻ bán gỗ để xây lại những ngôi nhà ấy:
+36|Chính là Bongo.
+37|– Gì cơ?! – Gì cơ?!
+38|Chưa hết đâu.
+39|Còn một tên nữa nhắm vào những người đang khóc thương người thân chết trong đám cháy,
+40|tống tiền họ những khoản lớn.
+41|Đó là Bingo, thầy chùa kiêm người lo tang lễ.
+42|Không thể nào! Vậy ba tên đó...
+43|Đúng thế. Bingo, Bongo và Bungo là một giuộc.
+44|Tôi biết ngay mà.
+45|Kinh khủng thật!
+46|Không sai. Nhưng dù chúng làm ác thế nào,
+47|chúng cũng mua chuộc quan lại để khỏi bị buộc tội.
+48|Chúng tỏ ra tử tế trước mặt mọi người,
+49|nhưng thật ra là hạng người tệ nhất.
+50|Nhưng mà này.
+51|Thú vị là Hoa khôi Komurasaki, cô gái xinh đẹp mới mất hôm qua,
+52|đã khiến cả ba tên mê mẩn.
+53|Cả ba tiêu tiền cho nàng đến phá sản!
+54|Trời có mắt thật! Tin đồn là vậy đó!
+55|Câu chuyện hay đấy.
+56|Nhưng... tin đồn nghe có hơi quá chi tiết không?
+57|Tất cả đều là thật, phải không?
+58|Nếu vậy thì hoa khôi cố ý lừa bọn chúng!
+59|Đáng nể thật.
+60|Komurasaki thực sự là ai?
+61|Này, chính là mấy người đó!
+62|Đúng rồi! Tôi thấy họ!
+63|Họ làm náo loạn đám rước của hoa khôi.
+64|Yasu đã nhận họ về và cho chỗ ở,
+65|vậy mà họ vẫn làm bộ kiêu căng.
+66|Tonoyasu thật thích chăm sóc người khác. Kể cả mấy tên khốn như họ!
+67|Chắc chắn biểu tượng này đã truyền cảm hứng cho rất nhiều người!
+68|Nhớ nhắn với Kin'emon trẻ và mọi người:
+69|Chúng tôi sẽ chiến đấu cùng các vị đến cùng!
+70|Kin'emon trẻ sao?!
+71|Gặp lại hai cháu, ta vui lắm!
+72|Giờ thì đến lúc làm việc rồi!
+73|Này, khoan đã!
+74|Các cháu biết không, trong tuần trước trận chiến lớn sẽ có nhiều người chết đấy!
+75|Nên xin phép các cháu nhé!
+76|Gã sát gái!
+77|Cô nàng sang trọng!
+78|Và cô bé nhà bên!
+79|Gặp mọi người thật vui!
+80|Vậy ông già đó là ai?
+81|Tôi nghe lén mà vẫn không rõ ông ấy có quan hệ gì với hai người.
+82|Tôi cũng vậy.
+83|Ừ, Tonoyasu rất thân thiện. Nhưng ông ấy là ai?
+84|Hai chúng tôi...
+85|...không biết!
+86|Không biết sao?!
+87|Hai người cứ nói chuyện với ông ấy mà không biết ông ấy là ai?!
+88|Thì, ông ấy cứ nói mãi không ngừng...
+89|Làm sao quên được một người kỳ quặc như thế chứ?!
+90|Ông ấy gọi chúng tôi là "Kanjuro bé" và "Shinobu nhỏ",
+91|nên tôi nghĩ hỏi xem ông ấy từng là người quan trọng nào đó thì thất lễ.
+92|Ông ấy thoải mái quá, nên chắc là bạn thuở nhỏ?
+93|Hay thầy giáo? Hay bạn học lớn tuổi hơn?
+94|Ông ấy là ai chứ?!
+95|– Gì cơ?! – Gì cơ?!
+96|Lũ khốn!
+97|Xông lên, Madilloman!
+98|Giữ chắc nhé, ông già!
+99|Các cậu gọi là haki, nhưng ở Wano bọn ta gọi là ryuo.
+100|"Ryuo"...?
+101|Nghĩa là "chảy".
+102|Ta đoán haki của cậu cũng chảy khắp cơ thể.
+103|Trước hết cậu phải cảm nhận dòng chảy đó.
+104|Được rồi!
+105|Haki đang chảy trong người tôi...
+106|Đừng ép!
+107|Chết tiệt! Không phải thế!
+108|Đừng gắng quá sức!
+109|Hãy để haki chưa dùng trong người cậu chảy ra nắm đấm!
+110|Mũ Rơm!
+111|Mày tiêu rồi!
+112|Không phải thế!
+113|Cũng không phải thế!
+114|Chết tiệt!
+115|Không phải! Không phải!
+116|Chết tiệt! Nó đâu rồi?!
+117|Haki của tao!
+118|Nó không chịu chảy vào nắm đấm!
+119|Này, này, thằng ngốc đó hạ quá nhiều người của tao rồi.
+120|Chết tiệt!
+121|Haki không chảy vào nắm đấm đang giận dữ đâu!
+122|Lại đây! Tiếp theo là ai?!
+123|Xông lên nào!
+124|Chào ông già! Cơn đau bụng thế nào rồi?
+125|Ồ, Yasu!
+126|Không nhiều nhưng tôi mang cho ông ít kê với nước.
+127|Chúng sẽ cho ông thêm sức!
+128|Cậu tốt bụng quá, Yasu.
+129|Khen gì mà ngọt thế! Được gọi là "tốt bụng" thích thật!
+130|Tôi cho ông thêm hai hạt kê nữa!
+131|Hẹn gặp lại, ông già!
+132|Ồ, bà bán rong biển kìa! Bà còn đủ thuốc không?
+133|Hết rồi, nhưng thấy mặt cậu là bà khỏe hơn rồi.
+134|Bà đúng là sát thủ đàn ông!
+135|Ôi! Ông ơi, đầu gối sao rồi?
+136|Chơi với tôi đi, Yasu!
+137|Hanko, mẹ cháu khá hơn chưa?
+138|Osaki, em bé thế nào?
+139|Cu cu nào!
+140|Yasu!
+141|Ghé chỗ chúng tôi nữa nhé!
+142|Đây, mọi người! Cầm lấy đi!
+143|Cảm ơn lần nữa!
+144|Tonoyasu đó trông giàu có thật.
+145|Không ai khác phát đồ ăn được như vậy.
+146|Không như các cậu nghĩ đâu.
+147|Ông ấy làm công việc được trả công rẻ mạt.
+148|– Rẻ mạt? – Rẻ mạt?
+149|Con gái duy nhất của ông, Toko, bị bán lên kinh đô và làm việc ở đó từ đó đến nay.
+150|Cô ấy gửi phần lớn tiền kiếm được cho Yasu.
+151|Toko sao?
+152|Tôi không phải đàn ông!
+153|À, cô ấy!
+154|Toko gửi tiền cho ông,
+155|nhưng ông nghĩ giữ cho mình là phí.
+156|Mỗi ngày ông phát đồ ăn cho những người không thể làm việc,
+157|dù bản thân ông hầu như chẳng ăn gì.
+158|Trông ông buồn cười, nhưng ông là người được yêu mến lâu nay trong cộng đồng chúng tôi.
+159|Ông ấy là một vị thánh.
+160|Cha ơi...
+161|Cha ơi!
+162|Đến giờ ngủ rồi! Đi ngủ đi!
+163|Chết tiệt!
+164|Phải đợi đến ngày mai sao?!
+165|Cho tôi đánh thêm nữa!
+166|Đói quá...
+167|Có cho tôi ăn không đây?!
+168|Nhìn nó kìa, sủa như chó vậy.
+169|Im đi mà ngủ!
+170|Mai tôi thành xác ướp mất!
+171|Tôi hỏi cậu một chuyện được không, ngài Mũ Rơm?
+172|Gì?
+173|Sao cậu lại muốn đánh Kaido? Nghe nói cậu thua hắn ở Kuri.
+174|Mấy người này phiền thật.
+175|Được rồi, xong rồi.
+176|Ông già!
+177|Ông có nghe về Tứ Hoàng chưa?
+178|Chưa...
+179|Trên thế giới này có bốn hải tặc vĩ đại gọi là Hoàng Đế...
+180|và Kaido là một trong số đó.
+181|Tôi sẽ làm Vua Hải Tặc...
+182|nên phải hạ tất cả bọn họ!
+183|Vua Hải Tặc sao?
+184|Roger chẳng phải cũng là một người như vậy sao?
+185|Ông biết Gold Roger à?!
+186|Phải, từ lúc ông ta đến đất nước này nhiều năm trước.
+187|Ồ, Kin'emon cũng nói y như vậy.
+188|Gì cơ?! Kin'emon?!
+189|Sao cậu biết cái tên đó?!
+190|Chuyện gì thế này?!
+191|Gì cơ?!
+192|Ngươi là... R-Raizo!
+193|Mũ Rơm...
+194|Ngươi là...
+195|Đây là Raizo... phải không?
+196|Chính là tại hạ!
+197|– Gì cơ?! – Gì cơ?!
+198|Hai người bị sao vậy?!
+199|Sao ông vẫn còn sống,
+200|Raizo?!
+201|Xin cho tại hạ giải thích, Đại ca Hyogoro.
+202|– Bắt hắn! – Bắt hắn!
+203|Hắn kia rồi! Là Cậu Bé Giờ Ma!
+204|Bỏ cuộc đi!
+205|Tóm hắn!
+206|Vậy đó là sự thật sao, Raizo?!
+207|Khó tin rằng ông là Đại ca Hyogoro...!
+208|Thật khó mà hiểu nổi.
+209|Ngươi nói ngươi thực sự đã vượt qua hai mươi năm thời gian
+210|kể từ ngày định mệnh đó trong lịch sử Wano?
+211|Đúng vậy. Nhờ phép thuật của phu nhân Toki.
+212|Không thể tin được!
+213|Tôi không thể tin ông, Caribou!
+214|Ôi, đừng nói thế, Mũ Rơm!
+215|Cái quái gì vậy, Raizo?!
+216|Ông tưởng có chìa khóa còng của tôi, nhưng thật ra là của hắn!
+217|Hận thù thế này không hợp với cậu.
+218|Chắc chắn tôi giúp được gì đó.
+219|Từ giờ tôi là thuộc hạ của cậu!
+220|Nhưng đổi lại...
+221|xin cho tôi rời đi cùng cậu trên tàu.
+222|À, vậy là ông không về nhà được?
+223|Xin tha thứ cho những tội lỗi quá khứ của tôi!
+224|Tôi đã thay đổi rồi!
+225|Được thôi. Nếu ông đã thay đổi thì không sao.
+226|Gì cơ?!
+227|À, ý tôi là, cảm ơn cậu rất nhiều!
+228|Có phải bẫy không?! Dễ dàng thế này làm tôi sợ!
+229|Ngài Luffytaro, người này dùng phép thuật khá thú vị.
+230|Hắn có thể có ích.
+231|Ta chưa bao giờ biết lúc nào nên buông bỏ...
+232|cứ bướng bỉnh bám lấy sự sống...
+233|nhưng thật đáng giá.
+234|Đại ca Hyogoro!
+235|Ta suýt nữa là chết rồi.
+236|Ta tưởng sẽ chết thảm ở đây...
+237|Ta đã chấp nhận điều đó.
+238|Nếu không nhờ ngươi đến kịp lúc, ta đã chết...
+239|mà không biết gì cả.
+240|Các Hồng Bao vẫn còn sống sao?
+241|Con của Oden, Kozuki Momonosuke, đã sống sót?
+242|Ngọn lửa nổi dậy...
+243|vẫn còn cháy sao?!
+244|Raizo! Ngài Mũ Rơm!
+245|Đến nước này, kẻ già cỗi như ta vẫn còn đóng góp được!
+246|Được cùng các ngươi là vinh dự của ta!
+247|Ồ, đây là may mắn bất ngờ!
+248|Ngài Luffy, người này từng là yakuza được kính trọng nhất toàn Wano!
+249|Thật sao?! Vậy hồi xưa ông là nhân vật lớn nhỉ, ông già!
+250|Ngươi nói đang tập hợp đồng minh ở Hoa Đô phải không?
+251|Đúng vậy.
+252|Hẳn là số phận đã đưa ngươi đến Udon này.
+253|Trong trại lao động này có bốn khu mỏ liền kề có quy mô tương tự khu này.
+254|Hàng chục nghìn tù nhân bị giam giữ ở Udon!
+255|Tuy nhiên, không phải ai cũng bị bắt vì trộm cắp hay bạo lực.
+256|Phần lớn tù nhân ở đây vì một việc:
+257|phản bội Orochi!
+258|Vậy sao?! Đó là sơ suất của tại hạ!
+259|Cơn thịnh nộ của cả nước dồn về nơi này!
+260|Các đại ca yakuza từng âm thầm nâng đỡ Wano đều ở đây.
+261|Ta sẽ nói chuyện với họ. Họ sẽ vui vẻ chiến đấu cho gia tộc Kozuki.
+262|Ngoài ra, Raizo, thấy phòng giam đó không?
+263|Tại hạ đã biết rồi.
+264|Tại hạ có nói chuyện ngắn với Kawamatsu. Tại hạ định thả anh ấy ra trước.
+265|Tôi hiểu rồi.
+266|Nếu phá nát nơi này,
+267|mọi người sẽ theo chúng ta sao?!
+268|Ngài Luffy, ngài ồn quá! Không đơn giản vậy đâu!
+269|Được rồi! Quyết định vậy đi, mang đồ ăn cho bọn tôi!
+270|Làm ơn...
+271|cho tôi ăn.
+272|Tôi đói... và buồn ngủ.
+273|Chúng ta sắp tới chỗ oshiruko chưa, Okiku?
+274|Cá sấu mập cũng kiệt sức rồi, nhưng chúng ta đã đến Udon.
+275|Đợi ta nhé,
+276|oshiruko yêu quý của ta!
+277|Chúng ta ở đây có sao không?
+278|Ồ, ngon quá!
+279|Thêm một bát nữa!
+280|Oshiruko!
+281|Tin nóng! Tin nóng!
+282|Đại đạo chích của Hoa Đô,
+283|Cậu Bé Giờ Ma phiền phức,
+284|cuối cùng đã bị bắt!
+285|Tướng quân Orochi!
+286|Thưa ngài, thần có tin ngài nên nghe.
+287|Về Cậu Bé Giờ Ma bị bắt hôm trước.
+288|Im đi!
+289|Ngươi không hiểu cảm giác của ta khi mất người ta yêu nhất sao?!
+290|Thần chỉ có lòng cảm thông sâu sắc nhất trước sự ra đi của Hoa khôi Komurasaki...
+291|Nhưng xin thứ lỗi, thưa ngài...
+292|Quyết định của Kyoshiro là hết sức thận trọng.
+293|Nếu để kẻ chống đối tướng quân sống,
+294|có thể làm suy yếu quyền lực và uy tín của Ngài.
+295|Thưa ngài...!
+296|Ta chẳng quan tâm gì đến Cậu Bé Giờ Ma...
+297|Komurasaki... Không người phụ nữ nào sánh được sắc đẹp của nàng.
+298|Ngươi không hiểu điều đó sao?!
+299|Xin cảm ơn vinh dự được Tướng quân Orochi hạ giá.
+300|Nhưng xin ngài, hãy nghe thần nói.
+301|Cậu Bé Giờ Ma không phải tên trộm tầm thường.
+302|Hắn là tên trộm hèn nhát đã gây loạn khắp Hoa Đô.
+303|Hắn lấy của người giàu cho người nghèo,
+304|trở thành kẻ xấu vặt với ý định anh hùng.
+305|Hiện hắn đang bị giam ở Nhà tù Rasetsu.
+306|Thân phận thật của hắn là...
+307|Gì?!
+308|Là hắn!
+309|H-Hắn... còn sống?!
+310|Không! Ta không thể tin được!
+311|Là hắn!
+312|Ngươi thuộc gia tộc Kurozumi? Sao ngươi giấu?
+313|Là hắn! Là hắn!
+314|Thưa ngài? Thưa ngài?!
+315|Ta nên làm gì với Cậu Bé Giờ Ma?
+316|Còn phải hỏi sao?!
+317|Xử tử hắn! Biến hắn thành tấm gương công khai!
+318|Lập tức thắp sáng các cuộn ánh sáng khắp Wano!
+319|Chúng đã sẵn sàng rồi ạ.
+320|Kyoshiro!
+321|Hôm nay, lễ tang công khai của Komurasaki cũng diễn ra ở kinh đô.
+322|Đám đông đau buồn lớn có thể gây rối loạn...
+323|nên thần đã chuẩn bị sẵn.
+324|Đúng là Kyoshiro của ta!
+325|Ngài có lệnh gì, thưa ngài?
+326|Ta quyết rồi.
+327|Ta sẽ cho Cậu Bé Giờ Ma cùng Komurasaki xuống suối vàng.
+328|Hắn sẽ là vật tế tại lễ tang Komurasaki!
+329|Vâng, thưa ngài.
+330|Thật là buồn mà thơ khi hai ngôi sao lớn nhất kinh đô cùng đứng chung sân khấu cái chết!
+331|Đó chính là nét thiên tài ta mong đợi ở tướng quân của mình.
+332|Ta cũng sẽ đến dự.
+333|Ta sẽ chứng kiến hắn bị xử tử đến cùng! Mau chuẩn bị kiệu cho ta!
+334|Không thể nào!
+335|Ta không chịu nổi mấy trò đùa dở này vào buổi sáng đâu, Kaido.
+336|Không phải đùa đâu.
+337|Không... Không thể nào!
+338|Nếu không tin ta, nối ốc sên cuộn ánh sáng rồi tự xem!
+339|Không!
+340|Komurasaki của ta!
+341|Này!
+342|Hả?
+343|Hắn biết Komurasaki chết rồi.
+344|Queen sẽ cáu một thời gian đấy.
+345|Tệ rồi. Phải làm sao đây?
+346|Này, bóng bay!
+347|Mau ra đây!
+348|Im đi! Ta không có thời gian cho mấy trò vớ vẩn của các ngươi!
+349|Này, bóng bay! Khi nào bắt đầu trận sumo hôm nay?
+350|Đừng làm mất thời gian của ta!
+351|Mấy người qua một đêm mà béo ra hả?!
+352|Không, không phải! Chỉ là cậu tưởng tượng thôi!
+353|Ồ... Ra vậy.
+354|Này, có báo là súp đậu đỏ biến mất qua đêm không?
+355|Dù sao thì giờ chuyện đó không quan trọng!
+356|Không đời nào! Nếu Queen nghe thêm tin xấu thì sao?!
+357|Có lý.
+358|Nhưng không biết súp đậu đỏ đi đâu rồi...
+359|Chính vì vậy tại hạ mới dặn ngài Luffy đừng ăn nhiều...
+360|Ăn hết sạch từng giọt súp oshiruko là quá đáng rồi!
+361|Làm sao một tên ngốc như hắn sống nổi?
+362|Quan trọng hơn, đến giờ sumo rồi! Sumo!
+363|Đi nào! Dosukoi!
+364|Ta không có thời gian cho lũ ngốc. Ta phải biết sự thật!
+365|Này, lấy cho ta hình ảnh trực tiếp Hoa Đô ngay!
+366|Chuẩn bị ốc sên cuộn ánh sáng!
+367|Ốc sên cuộn ánh sáng đã sẵn sàng!
+368|Cho ta xem Hoa Đô.
+369|Ốc sên truyền hình ảnh?
+370|Gì? Vậy đó là Hoa Đô.
+371|Lũ trộm núi Atama,
+372|sao dám cướp hết lương thực và vũ khí của ta, đồ cặn bã!
+373|Giải quyết ngay tại đây!
+374|Ta cho ngươi nếm kiếm ảo thuật của ta!
+375|Ta sẽ san phẳng núi Atama!
+376|Đây là dấu chấm hết cho lũ trộm núi Atama.
+377|Muộn rồi! Lửa lan nhanh quá!
+378|Không dập được đâu, Shutenmaru!
+379|Tên khốn Holdem!
+380|Đến thị trấn Bakura!
+381|Thị trấn Bakura?! Sẽ phải đối đầu quân của Kaido!
+382|Thì sao?!
+383|Tao sẽ nghiền nát hết!
+384|Tôi hiểu. Tôi thấy tiếc cho chuyện đang xảy ra với Ashura Doji.
+385|Ừm... Nhưng chúng ta làm vì đại cục.
+386|Không thể tránh được.
+387|Chúng ta sẽ đến thị trấn Bakura.
+388|Kế hoạch bị phá và chúng ta chưa thấy giải pháp nào.
+389|Trước mắt, ta sẽ khiến Ashura coi băng Bách Thú là kẻ thù.
+390|Việc anh ấy gia nhập là then chốt cho đại nghiệp!
+391|Tôi đây... C-C-Cái gì?!
+392|Gì vậy?!
+393|Ai đây?! Cái gì đây?!
+394|Ch-Chuyện gì đây?!
+395|Brook? Cậu bị sao vậy? Sao cậu ở đây? Hả?
+396|Zoro, thấy cậu như vậy mắt tôi lòi ra khỏi hốc rồi!
+397|Nhưng tôi là bộ xương nên đâu có mắt!
+398|Xin lỗi vì đã làm phiền!
+399|Này, đừng hiểu lầm! Quay lại đây!
+400|Ồ? Vậy thì... nếu không phiền, tôi rất vui lòng.
+401|Ôi, tôi say đắm rồi!
+402|Nếu cô có lòng, cho tôi xem quần lót của cô được không?
+403|Có ma!
+404|Khoan, ông ấy đi với tôi!
+405|Tôi đói quá... Nguyền rủa cô!
+406|Đáng sợ quá!
+407|Kin'emon giao cho tôi nói câu đó quanh đây.
+408|Ồ, tôi hiểu rồi.
+409|Thảo nào ngoài kia có nhiều đồ cúng như vậy.
+410|Dù sao thì thật khó tin cô là em gái của Momonosuke.
+411|Cô đẹp như hoa khôi vậy.
+412|Đúng thế. Vì cô ấy đúng là hoa khôi mà.
+413|Tôi ghen tị đấy, Zoro. Làm sao cậu khiến người như thế chăm sóc mình vậy?!
+414|Tôi chỉ đi ngủ thôi. Vậy thôi.
+415|Tôi xin lỗi. Trông anh có vẻ lạnh thôi.
+416|Nói thật, ai nằm cạnh tôi cũng phải lòng!
+417|Anh thích chứ? Không, chắc chắn anh yêu rồi!
+418|Cô thẳng thắn quá...!
+419|Dĩ nhiên rồi!
+420|Dù sao, tôi không biết Nami và mọi người đi đâu.
+421|Hôm qua họ đi nhà tắm công cộng,
+422|nhưng khi tôi đến gặp thì họ không có ở đó.
+423|À, nhớ ra rồi. Hoa Đô đang náo loạn cực kỳ.
+424|Nghe nói hôm nay là tang lễ của Komurasaki, hoa khôi đẹp nhất Wano!
+425|Hơn nữa, họ còn bắt được Cậu Bé Giờ Ma, tên đại đạo chích chia chiến lợi phẩm cho người nghèo!
+426|Tin đó cũng gây xôn xao!
+427|Cậu Bé Giờ Ma sao?! Nhưng không thể nào!
+428|Nhưng là thật đấy.
+429|Xem này, có ngay trên tờ báo này.
+430|Nói là hôm nay hắn sẽ bị xử tử ở kinh đô. Họ còn phát hiện thân phận thật của hắn.
+431|Hình như hắn khá nổi tiếng ở thị trấn Ebisu...
+432|Cô nói thị trấn Ebisu?!
+433|Vâng, tên hắn hình như là...
+434|Tôi khá chắc là kiểu như Yasu...
+435|Tonoyasu?!
+436|À vâng, chính là hắn.
+437|Toko!
+438|Này, có chuyện gì vậy?!
+439|Khoan, Toko!
+440|Cảm ơn anh chuyện hôm qua. Tôi mãi mãi mang ơn anh.
+441|Khoan, đồ ngốc!
+442|Hôm qua cậu còn không bảo vệ được cô ấy!
+443|Cái gìii?! Tôi vừa mới về tới đây thôi mà!
+444|Đợi tôi với! Này, các cậu!
+445|Cha ơi...
+446|Này, dậy đi.
+447|Các ngươi đến đưa ta đi à? Tử tế quá...
+448|Không... Không thể nào.
+449|Trông ông ấy giống...
+450|Cô đi đâu?! Họ muốn lấy đầu ông ấy!
+451|Thả tôi ra! Tôi phải đi!
+452|Này, bình tĩnh lại!
+453|Thả tôi ra!
+454|Chuyện gì vậy?!
+455|Toko!
+456|Họ sắp xử tử ông ấy!
+457|Thả tôi ra!
+458|Họ sắp giết ông ấy!
+459|Ông ấy là cha tôi!
+460|Toko...
+461|Cô nói gì?!
+462|Lại là một ngày đẹp trời ở Hoa Đô...

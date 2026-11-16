@@ -1,0 +1,178 @@
+1|It's time you cut your visit short.
+2|Don't you know who pulls the strings in this country?
+3|No idea!
+4|It's Kaido, right?!
+5|We're here to...
+6|take down an Emperor!
+7|Hey, Luffy!
+8|Kin'emon said we shouldn't say things like that, either!
+9|Wha...?
+10|That was a lie!
+11|I don't know who!
+12|The probability of you two surviving the month...
+13|is 19 percent.
+14|By the way, where'd you get that sword?
+15|Some named blade, thus and verily.
+16|Yeah, I'm certain it's a named blade.
+17|Let me see it for a sec.
+18|No way!
+19|You can't use a sword anyway so just give it to me!
+20|I'll cut them up, verily!
+21|Charge.
+22|This is a sword fight, verily!
+23|Don't throw the scabbard!
+24|Gum-Gum...
+25|Pistol!
+26|It's not a damn pistol!
+27|Even the lizard's after me!
+28|Damn you!
+29|Straw Sword.
+30|What kind of sword is that?!
+31|That poor lizard!
+32|That was fast!
+33|Impressive.
+34|What just happened?!
+35|Minus One Life.
+36|These strawmen represent my subordinates.
+37|I can store them in my body with my Straw-Straw power...
+38|so I won't be harmed.
+39|If I store ten of them, I can die ten times.
+40|Now, let's play a game.
+41|A game?!
+42|That's right...
+43|With this Strawman's Card!
+44|I'm not so honorable that I'd face two of the Worst Generation on equal footing.
+45|He's a bigger pain in the ass than I thought...
+46|but I should've figured!
+47|Let's begin.
+48|The Reversed Fool!
+49|Damn, this signifies internal discord.
+50|Sorry, I'll draw a better card next time.
+51|I must accept the risks because some cards can push me beyond my limits.
+52|Hey! What are you doing, boy?!
+53|Hawkins!
+54|Fear not.
+55|Tama! Stay with us, Tama!
+56|She's burning up!
+57|That's must be why the dog's in a hurry.
+58|You bastards!
+59|We won't let you escape!
+60|Hawkins! They're getting away!
+61|I drew a good card.
+62|The Reversed Hierophant.
+63|The card of pursuit!
+64|Hey, Luffy!
+65|Protect the kid!
+66|I'll...
+67|handle...
+68|this!
+69|You're actually pretty tough.
+70|Nails?!
+71|Two-Sword Style...
+72|Nigiri...
+73|Toro...
+74|Samon!
+75|Should we go after them, Hawkins?!
+76|The Hierophant.
+77|It's the card of assistance.
+78|Someone will lead them away to safety...
+79|What an annoying guy...
+80|So, how's the kid doing?
+81|So warm!
+82|Her temperature keeps rising.
+83|Dog!
+84|Run faster!
+85|Huh? What's the problem?
+86|Wait... are you...?
+87|Are you lost?!
+88|We've got no time to waste...
+89|Let's just...
+90|go right.
+91|You should go left.
+92|You samurai are so strong.
+93|Who are you?!
+94|I can't believe you repelled Hawkins.
+95|You're...
+96|I'm the one you saved earlier, green gentleman.
+97|My name is Tsuru.
+98|Were you... hiding in his tail all this time?!
+99|Yes!
+100|Thank you for saving me.
+101|Here!
+102|Could you at least wipe the sweat off of her?
+103|Oh! Thanks!
+104|I hope this doesn't sound too presumptuous...
+105|but would you allow me to care for young Otama?
+106|You know her?
+107|Yes.
+108|I see!
+109|Please do!
+110|She drank the polluted river water because she was so hungry.
+111|Instead of searching for a doctor...
+112|please bring her to my teahouse.
+113|Tea?!
+114|This is no time for tea!
+115|If we don't hurry up, she's gonna die!
+116|I don't know this kid, so it might not be any of my business but...
+117|No, no...
+118|We have a medical herb that is effective against the river's poison.
+119|That'll be the best way to treat Otama's condition.
+120|I see.
+121|Then please, help us!
+122|Thank you!
+123|To return the favor I owe you...
+124|let me treat you, too, green gentleman...
+125|Here you go.
+126|The teahouse's dumplings are a rare treat.
+127|They're the only things...
+128|that keep me going.
+129|You exaggerate...
+130|Soon, you'll be able to eat as many as you want just like you used to.
+131|I hope so...
+132|Hey, old man, the place is closing now!
+133|Get lost!
+134|Now, Okiku.
+135|You can't pay the street tax, right?
+136|All I'm saying is that I'll help you.
+137|If you become my wife...
+138|you won't have to work!
+139|Every day, you'd be able to eat as much delicious food from the farm as you want!
+140|Our social standings are too different.
+141|If you're not ordering anything, would you please...
+142|take your leave?
+143|I don't wanna eat anything from this place!
+144|The dumplings and tea are made from others' leftovers!
+145|Say, you do know who I am, right?
+146|I'm a famous yokozuna from the capital.
+147|I'm the best sumo wrestler in Wano,
+148|Urashima!
+149|It's time you quit this seedy teahouse!
+150|You need to stop living off of someone's leftovers, so that you and I...
+151|so that we can... y'know...?
+152|Okiku!
+153|Miss Otsuru!
+154|Otama drank poisoned water from the river!
+155|Oh! That's serious!
+156|Please! Do what you can to help her!
+157|Okiku!
+158|Brew the cinquefoil!
+159|Of course, right away!
+160|Hey!
+161|Who are you idiots?!
+162|Hey!
+163|Get out the way.
+164|Huh?!
+165|Why would I have to do that...?!
+166|Okiku! I have a match in Bakura Town later!
+167|If you're interested, come and see how strong I am!
+168|It's them, isn't it?!
+169|It's the Straw Hats!
+170|Should I go tell them before they make any trouble?!
+171|You'd better not!
+172|You'll draw people's attention!
+173|For now, let's just report this to the captain.
+174|Otsuru Teahouse Owner
+175|Okobore Town Kuri Wano
+176|Okiku Teahouse Waitress
+177|Atop a Mountain...
+178|Atop a Mountain...

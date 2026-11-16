@@ -1,0 +1,475 @@
+1|The island is flying?!
+2|Can this... truly be happening?!
+3|Just how powerful is Kaido?!
+4|What?!
+5|Why?!
+6|How come?!
+7|Marco the Phoenix?!
+8|Well then, let's try this!
+9|Ouch! Ow, ow, ow!
+10|Chopper!
+11|Hot! Hot! I'm burning!
+12|Hey! That's going too far!
+13|I thought we were on the same side!
+14|Marco!
+15|Marco...!
+16|They sure are testy...
+17|Ow, ow, ow, ow, ow...
+18|Chopper! I'll put it out!
+19|It's burning my arm!
+20|It'll scorch me too–
+21|Or not?
+22|This flame...
+23|Ouch! Ouch! Ow, ow...
+24|Chopper, you can relax!
+25|Huh?
+26|It's really hot–
+27|Or not?
+28|I'm on fire but I'm not getting burned!
+29|This flame is comfortably...
+30|warm...
+31|– Dr. Chopper! – Dr. Chopper!
+32|We're ready to produce the antibodies!
+33|Come quickly!
+34|It's a swarm of ice ogres!
+35|Miyagi! Tristan! Get out of here!
+36|Gotta warm them up one way or another!
+37|Phoenix Pyreapple!
+38|Yeow!
+39|Ow, ow, ow, ow, ow, ow...
+40|Oh, it's not that hot...
+41|The chill in my body is fading!
+42|Ow, ow, ow, ow...
+43|What?!
+44|Wh-What was I...?!
+45|Omasa!
+46|Thank goodness! You came to your senses!
+47|Omasa...!
+48|Well, it's like you were saying. It's sapping your body heat.
+49|Once your stamina runs out, you'll turn back into an ogre!
+50|I only bought you a bit of time!
+51|You're a lifesaver!
+52|Time's just what the doctor ordered!
+53|Miyagi! Tristan!
+54|Are you two okay?!
+55|Y-Yes!
+56|We're fine!
+57|Let's hurry and get to work!
+58|We'll give you the support you need!
+59|Thank you! I can focus if I'm in that tower!
+60|Marco!
+61|He and that damn tanuki really know how to chap my ass!
+62|Hey, you bums! Catch that tanuki already!
+63|Why would he bother saving your lousy asses?!
+64|But... that tanuki...
+65|Keep your eyes on the prize!
+66|If you don't wanna bite the dust, crush that tanuki and take back the antibody!
+67|I see... I think I've got the gist of the situation.
+68|Hey, Roronoa!
+69|Weren't you on your way to slice 'n dice Kaido?
+70|If you wanna get to the rooftop...
+71|I'll give you a lift!
+72|You guys are too good to be dealing with these chumps!
+73|But Chopper needs our support...!
+74|Don't worry... Sir Skeleton!
+75|We'll hold the line for Sir Tanuki!
+76|Thanks, you guys! I'm counting on you!
+77|Hold it, you son of a bitch!
+78|Apoo!
+79|Give me back the antibody...!
+80|If I lose it...
+81|my ass is freakin' grass!
+82|Give it a rest!
+83|He won't stay down!
+84|I don't mind taking on one more job!
+85|Sir Tanuki, hurry into the tower!
+86|– Apoo! – Apoo!
+87|This guy...
+88|Drake?!
+89|So he really has switched sides!
+90|Roronoa Zoro. If you would consider me an ally...
+91|then I'll hold them here while you go ahead!
+92|At least you know how to bet on the winning horse!
+93|Sanji! Sanji!
+94|Perhaps Sanji sensed a powerful foe and went to hold them back on the third floor!
+95|Maybe...!
+96|Guess my observation haki isn't that good yet.
+97|I'm not picking up Sanji's presence at all!
+98|Do you feel something, Jinbe?!
+99|Yeah...
+100|There are quite a few enemies in here...
+101|And...
+102|they're quite strong!
+103|Seems like one of us should remain on this floor!
+104|I'll create an opening. You go on ahead!
+105|Let's do this!
+106|General...
+107|Launcher!
+108|Time to raise a little hell!
+109|General...
+110|Cannon!
+111|Get back, men!
+112|Who the hell fires something so haphazardly?!
+113|You're asking for it!
+114|I dig the look, bro!
+115|A triceratops!
+116|So you're a dinosaur!
+117|Just give up! This is the strongest creature that ever lived!
+118|You'll be nothing but scrap when I'm done with you!
+119|There's no scratching the sheen of Wapometal!
+120|It's the Soaring Six!
+121|Where did they go?!
+122|I am ever so vexed!
+123|I shall crack her detestable head wide open! That bitch!
+124|He ran off that way!
+125|Slow down, silly!
+126|Wait for us!
+127|Damn! What is this?!
+128|Let me out!
+129|You can stop struggling now...
+130|Be a good boy... Don't try to run.
+131|After all...
+132|didn't you say that you loved me?
+133|Stay by my side forever. I'll make you my pet.
+134|Don't be ridiculous! I...
+135|I have somewhere to be!
+136|But...
+137|everywhere...
+138|I look...
+139|it's women, women, women...!
+140|Is this...
+141|heaven?
+142|He's clearly lost it.
+143|You're absolutely precious...
+144|So Straw Hat went on ahead...
+145|This'll be a real headache for ol' Kaido...
+146|Would you kindly stop...
+147|picking on my men?
+148|Former Warlord Jinbe, Knight of the Sea, acting with all the decorum of a child?
+149|I am the helmsman of the Straw Hats!
+150|Would you do me the honor of using this worthier title?
+151|Oh, my bad.
+152|I caught a glimpse of you back in your Warlord days...
+153|What?!
+154|Well, it's no big deal.
+155|Who are you?
+156|Man, who could I possibly be?
+157|Perhaps removing your mask will jog my memory.
+158|I'd love to see you try.
+159|We can hide here for a bit since this room has long gone unnoticed.
+160|What am I seeing?
+161|A statue of a dragon.
+162|It once stood at the entry point of the island, but it was placed in here after my friend broke it.
+163|Your friend?
+164|Yes...
+165|A few years ago...
+166|he came to kill my father!
+167|What gives? This place is deserted...
+168|Intruders!
+169|If you're not Kaido, get lost!
+170|Ace!
+171|Guys, go save the children while you can!
+172|Got it!
+173|Leave it to us!
+174|This one won't stay down!
+175|Who are you?! Tell me your name!
+176|Right back at you!
+177|I'm Ace!
+178|I'm here to take Kaido's head!
+179|I found them! Over here!
+180|Don't be scared. We're getting all of you out of here.
+181|Yeah, but we need to hurry.
+182|You're pretty tough.
+183|Ace!
+184|All the children are okay!
+185|But we can't find Kaido anywhere!
+186|What?!
+187|My father went on an expedition!
+188|At this very moment...
+189|not a single officer is here!
+190|Your father?!
+191|– What?! – What?!
+192|So she's Kaido's daughter?!
+193|I'm Yamato!
+194|I think it's about time you stopped tearing up the place!
+195|If you have time to wonder who I am,
+196|then you have time to leave and return these children to their families!
+197|I'll take you up on that.
+198|But is it wise to let us go?
+199|It's not like I'm under any obligation to protect this island.
+200|Alright, let's get back to Wano.
+201|Your families are waiting for you.
+202|Truly, we can't thank you enough!
+203|You sure, Ace?
+204|That means going back to the mainland without you.
+205|That's right. Keep them safe. I'll catch up later.
+206|I'm not convinced someone as strong as you isn't at least one of their captains...
+207|Let's settle this!
+208|I was bored anyway.
+209|Let's fight!
+210|Fire Fist!
+211|What's the story? Shouldn't someone as strong as you be out at sea?!
+212|It's all his fault...
+213|Kaido's fault!
+214|Of all the people to have as a father...
+215|It's all your father's fault?
+216|That's your excuse?
+217|You can't...
+218|choose your parents, Yamato!
+219|Shut up! Don't you think I know that?!
+220|Do you really?
+221|Physical shackles are one thing, but if you hate your father this much...
+222|why shackle your heart as well?!
+223|Yamato!
+224|What do you want to do?!
+225|I admit...
+226|I was holding myself back.
+227|But now I realize...
+228|I wanna set out to sea and go on adventures!
+229|I wanna live freely like Oden!
+230|Set out to sea...
+231|To sea...
+232|I wanna leave this damn island...!
+233|I wanna live freely!
+234|That's the spirit, Yamato!
+235|It's good to want those things!
+236|Now you know what to do.
+237|Yeah!
+238|And he came home in tatters!
+239|When we were kids, he got us into all kinds of trouble!
+240|Your little brother sure is something!
+241|Right?!
+242|So tell me, what's it like out there?!
+243|Are there a lot of young up-and-comers?!
+244|Young...? Let me think...
+245|Everyone's talking about Caven-something.
+246|Yeah?!
+247|Well, I'm in a class of my own,
+248|but I heard some dangerous guys are running wild in every sea.
+249|Mm-hm! Mm-hm!
+250|There's Kid in the south...
+251|Law in the north and Bege in the west.
+252|But the toughest one of all will set sail in a few years...
+253|My kid brother!
+254|He'll blow 'em all outta the water!
+255|You sure do like to talk about your brother.
+256|So what?! You should listen!
+257|Ow, ow, ow!
+258|You... That hurts!
+259|H-Hey, stop!
+260|The truth is I'm the one who broke this dragon statue first.
+261|But he said...
+262|"Let this be a warning to Kaido that I'll be back!"
+263|I see...
+264|I was unaware that a pirate once tried to save Wano...
+265|It pissed off my father,
+266|but in the end, he never met Ace.
+267|Wait...
+268|Your father?
+269|Didn't I mention Kaido being my father?
+270|Wha– Hey, don't be so scared!
+271|Hey, but I really do hate him!
+272|Like I said, I'm Oden!
+273|That is even more confusing!
+274|I'm not scary! I hate Kaido!
+275|I longed for the sea and adventure, so I became Oden, who lived freely!
+276|We understand for the most part.
+277|Thank you for tending to us!
+278|Stop being so formal and get over here!
+279|But Yamato,
+280|where is this would-be savior of Wano now?
+281|Ace...
+282|died two years ago.
+283|Otama, you knew Ace?!
+284|Yes, he was like a brother to me!
+285|I decided to believe in Ace and try to become a kunoichi,
+286|but Big Bro Luffy was mean and said to me...
+287|Ace is dead.
+288|He said it to me out of the blue.
+289|It made me so sad.
+290|Oh, sorry about that.
+291|That's just the way he is.
+292|But y'know, Otama, it was really hard for Luffy, too.
+293|Back when it happened...
+294|Huh?
+295|He's ruining it!
+296|Listen up, folks!
+297|Put a stop to Marco!
+298|Don't let him run free!
+299|C'mon, he saved us...
+300|But if we don't do what His Awesomeness wants, he'll kill us anyway...
+301|Don't just stand there!
+302|I gave you an order!
+303|I won't be facing Kaido directly at this point.
+304|Nico Robin! Skeleton Man! You've got places to be!
+305|Get to the castle!
+306|Now's our chance.
+307|If you insist!
+308|Go to hell, Marco!
+309|You're finished, Marco the Phoenix!
+310|You ready?
+311|Do it!
+312|Damn that Marco!
+313|Nice going!
+314|You're pretty relaxed for someone about to face down an Emperor!
+315|Why should I be scared of Kaido?
+316|If my captain gives the order, I follow it.
+317|Look at me, rooting for Straw Hat– No...
+318|rooting for all you Worst Generation punks!
+319|I wonder how he would've felt hearing his brother picked a fight with an Emperor, too...
+320|I'm begging you, Pops!
+321|I said no, you little shit!
+322|Ace, I've told you plenty of times now...
+323|who the 2nd Division commander was before you...
+324|and why the position was vacant for so long.
+325|Wano practices a policy of isolation, so information never comes out.
+326|We were unaware that Lord Oden had died until several years after the fact.
+327|We toyed with the idea of raiding Wano, but to what end?
+328|Can you imagine the toll it would take?
+329|The toll?
+330|Then, let me go by myself!
+331|I made a promise...
+332|Kozuki Oden couldn't take that guy down...
+333|Meaning you couldn't beat him on your best day!
+334|Don't overestimate yourself, Ace!
+335|Y'know, Oden's strength was the real deal!
+336|You really wanna take down the big shots, Commander Ace!
+337|Give it a rest, Teach!
+338|Ace isn't motivated by hunting "big shots."
+339|Dammit...
+340|I need to get stronger so I can fulfill my promise...
+341|That's what you're shouldering, huh?
+342|Ace, if Pops ever gives the go-ahead, do not forget to extend an invitation my way.
+343|Count me in, too.
+344|In that case, we can probably kick his ass now...
+345|How are you still overestimating the situation...?
+346|Marco!
+347|Don't think we'd just let you through!
+348|Besides, all the samurai up top are dead by now!
+349|And when Kozuki Oden's son is dead, the battle will be over!
+350|Wano shall be reborn as the pirate empire of New Onigashima!
+351|If that's what you believe, then you really have a screw loose!
+352|Stop squawking, little bird!
+353|Damn! Is he invincible?!
+354|What kind of power is that?
+355|You're up against the force of a new era now!
+356|The Beast Pirates will crush this "new era," along with everything else!
+357|Wha–
+358|Now, now... Just let him pass!
+359|And up you go!
+360|You seriously just threw me?!
+361|What?!
+362|B...
+363|Big Bro Luffy is Ace's little bro?!
+364|That's right.
+365|You didn't know?
+366|Because when I mentioned Ace, he said so casually...
+367|Ace is dead.
+368|I said some mean things to Big Bro...
+369|He would've been mean right back if it had bothered him.
+370|Don't worry!
+371|But...
+372|Big Bro... I'm sorry!
+373|Like I said, don't worry.
+374|Anyway, let's give this "Otama Strategy" of yours a shot!
+375|What?!
+376|This person you speak of was Roger's son,
+377|and Luffy's older brother?!
+378|Is that true?!
+379|Mm-hm.
+380|You all brought Luffy to Wano, right?
+381|That is correct...
+382|There are as many pirates as there are stars in the sky, but they're the ones you met...
+383|and you brought them to this country...
+384|I can't imagine this as anything but fate!
+385|Because...
+386|Luffy's name bears the initial D!
+387|Yummy!
+388|Fire really hits the spot!
+389|Delicious!
+390|I'm so stuffed now!
+391|I'm fully recharged!
+392|Did you finish your meals?
+393|Yes, Mama!
+394|I'm good to go!
+395|Okay then, let's go!
+396|Straw Hat isn't here yet?
+397|Hey, Kaido!
+398|You can kill as many as you want as long as you leave Nico Robin alive.
+399|Don't you have a member of the three-eye people who can read the ancient script?
+400|Oh, Pudding?
+401|I'm not sure she can.
+402|I can't wait for her true awakening anymore.
+403|Yeah, that make sense...
+404|This is about all we can do to assist, so please, go on ahead!
+405|These are the stairs to the rooftop!
+406|Thanks, Shishimamushi!
+407|It's Shishilian.
+408|Yeah, I'll never forget it...
+409|The way you guys defended Raizo with your lives!
+410|Thank you!
+411|Later!
+412|So where are you planning on dropping this island?
+413|There is a castle in the Flower Capital that symbolizes the Kozuki.
+414|I heard they're having a festival.
+415|Quite a lot of people will die.
+416|Who cares?
+417|It's easy to get more slaves...
+418|It'll be a glorious capital.
+419|And the lode poneglyph?
+420|Is it there?
+421|Your true colors are already showing!
+422|Don't give me that!
+423|You're like a little brother to me!
+424|On that day when Rocks was defeated at God Valley,
+425|I gave you the Mythical Fish-Fish Fruit.
+426|You're indebted to me for life, Kaido!
+427|Whatever!
+428|Let's go get it, then we'll talk!
+429|Let's get the One Piece!
+430|Let's get the One Piece!
+431|Marco the Phoenix Former Whitebeard Pirate
+432|Marco the Phoenix Former Whitebeard Pirate
+433|Miyagi, Mink Doctor
+434|Miyagi, Mink Doctor
+435|Miyagi, Mink Doctor
+436|Tristan, Mink Nurse
+437|Tristan, Mink Nurse
+438|Tristan, Mink Nurse
+439|X Drake Formerly of the Soaring Six Ancient Saur-Saur Fruit: Allosaurus
+440|X Drake Formerly of the Soaring Six Ancient Saur-Saur Fruit: Allosaurus
+441|X Drake Formerly of the Soaring Six Ancient Saur-Saur Fruit: Allosaurus
+442|4th Floor Inside the Castle
+443|Right-Brain Tower Inside the Dome
+444|Right-Brain Tower Inside the Dome
+445|Sasaki Soaring Six Ancient Saur-Saur Fruit: Triceratops
+446|Sasaki Soaring Six Ancient Saur-Saur Fruit: Triceratops
+447|Sasaki Soaring Six Ancient Saur-Saur Fruit: Triceratops
+448|Outside the Onigashima Dome
+449|Outside the Onigashima Dome
+450|Ulti Soaring Six Ancient Saur-Saur Fruit: Pachycephalosaurus
+451|Ulti Soaring Six Ancient Saur-Saur Fruit: Pachycephalosaurus
+452|Ulti Soaring Six Ancient Saur-Saur Fruit: Pachycephalosaurus
+453|Page One Soaring Six Ancient Saur-Saur Fruit: Spinosaurus
+454|Page One Soaring Six Ancient Saur-Saur Fruit: Spinosaurus
+455|Page One Soaring Six Ancient Saur-Saur Fruit: Spinosaurus
+456|Banquet Hall 3rd Floor Inside the Castle
+457|Black Maria Soaring Six Ancient Spider-Spider Fruit: Rosamygale Grauvogeli
+458|Black Maria Soaring Six Ancient Spider-Spider Fruit: Rosamygale Grauvogeli
+459|Black Maria Soaring Six Ancient Spider-Spider Fruit: Rosamygale Grauvogeli
+460|Big Cat Cafe 4th Floor
+461|Big Cat Cafe 4th Floor
+462|Who's-Who Soaring Six Ancient Cat-Cat Fruit: Saber-Toothed Tiger
+463|Who's-Who Soaring Six Ancient Cat-Cat Fruit: Saber-Toothed Tiger
+464|Who's-Who Soaring Six Ancient Cat-Cat Fruit: Saber-Toothed Tiger
+465|Forbidden Storehouse Inside the Dome
+466|Forbidden Storehouse Inside the Dome
+467|Superstar Queen Ancient Saur-Saur Fruit: Brachiosaurus
+468|Superstar Queen Ancient Saur-Saur Fruit: Brachiosaurus
+469|Superstar Queen Ancient Saur-Saur Fruit: Brachiosaurus
+470|Superstar King Ancient Saur-Saur Fruit: Pteranodon
+471|Superstar King Ancient Saur-Saur Fruit: Pteranodon
+472|Superstar King Ancient Saur-Saur Fruit: Pteranodon
+473|Forbidden Storehouse Inside the Dome
+474|5th Floor Inside the Castle
+475|5th Floor Inside the Castle

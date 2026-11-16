@@ -1,0 +1,426 @@
+1|Ta muốn khám phá thế giới! Đó là ước mơ của ta!
+2|Hãy đưa ta ra khơi cùng các ngươi!
+3|Chúng ta hãy khởi hành ngay!
+4|– Tuyệt đối không! – Tuyệt đối không!
+5|Im đi!
+6|Ta muốn rời khỏi vùng đất gò bó này!
+7|Ta muốn thấy một thế giới tự do!
+8|Xin hãy cho ta đi cùng!
+9|Oden-sama! Xin ngài ngẩng đầu lên!
+10|Tên khốn này...! Chẳng phải ngươi vừa định giết thuyền trưởng của bọn ta sao?!
+11|Ta van xin các ngươi!
+12|Đủ rồi! Hắn là hải tặc!
+13|Hắn là cặn bã!
+14|Rời khỏi đất nước này ngay!
+15|Có muốn cũng không được.
+16|Bọn tôi mắc kẹt. Chuyến đi đến đây làm hỏng tàu rồi.
+17|Thật đáng tiếc!
+18|Hãy sửa nó ngay đi–
+19|Chết tiệt!
+20|Nếu các ngươi ở lại, Oden-sama sẽ...
+21|Sửa xong thì đi đi!
+22|Ừ, bọn tôi định làm vậy.
+23|Được rồi!
+24|Này! Khiêng cái kia đến đó!
+25|Này!
+26|Các ngươi You-gara!
+27|Đến giờ ăn rồi!
+28|Nào! Ăn đi!
+29|Trông ngon quá!
+30|Ta chưa từng nếm thứ gì như thế này!
+31|Đây là hương vị của một nước ngoài!
+32|Đó là rượu làm từ nho.
+33|Còn rất nhiều điều ngoài kia để ta khám phá, đúng không?!
+34|Hãy đưa ta ra khơi cùng các ngươi!
+35|Hãy cho ta thấy những kỳ quan chưa biết của thế giới này!
+36|Hả?
+37|Ngươi không phải loại người chịu phục tùng ai!
+38|Nếu ngươi lên tàu...
+39|Khi những kẻ ích kỷ như ngươi tụ lại...
+40|thì đội đó sẽ ra sao?
+41|Nóng quá!
+42|Ta đã học được bài học đau đớn với băng cũ.
+43|Ngươi có thể tự kiếm tàu.
+44|Nếu làm được thì ta đã làm rồi!
+45|Hàng chục lần ta cố ra khơi đều thất bại!
+46|Ta không có chút kỹ năng đi biển nào!
+47|Vậy thì bỏ cuộc đi và làm tròn bổn phận daimyo!
+48|Đất nước này quá gò bó!
+49|Ta không chịu nổi! Hãy mang ta theo!
+50|Râu Trắng!
+51|Luật Wano nghiêm cấm công dân rời khỏi đất nước!
+52|Với địa vị hiện tại là daimyo của Kuri,
+53|nếu Oden-sama phá điều cấm kỵ đó thì không thể tha thứ.
+54|Đừng nói với ngài ấy điều đó!
+55|Biết rồi!
+56|Vậy là chúng ta cùng quan điểm!
+57|Tôi không có ý định mang ngài ấy theo!
+58|Ta không quan tâm luật của đất nước này!
+59|Kuri cần Oden-sama. Đúng hơn, cả Wano cần ngài ở lại!
+60|Câm miệng, Kin'emon!
+61|Cho ta lên tàu của ngươi, Râu Trắng!
+62|Không!
+63|Ta sẽ ra khơi!
+64|Đất nước này quá gò bó! Ta không muốn về nhà!
+65|Cởi trói cho ta!
+66|Dừng lại!
+67|Mở ra!
+68|Ta sẽ không nhượng bộ!
+69|Đợi ta với!
+70|Râu Trắng!
+71|Cả thế giới chỉ có năm hòn đảo sao?!
+72|Sai bét rồi!
+73|– Gì?! – Gì?!
+74|Ít nhất cũng 10 hay 20 triệu hòn!
+75|– Gì?! – Gì?!
+76|Ngươi không biết gì cả à?
+77|Vì thế phiêu lưu mới vui! Nó khơi dậy trí tưởng tượng!
+78|Thế giới rộng lớn!
+79|Không ai đếm nổi có bao nhiêu hòn đảo!
+80|Đi đâu đấy?
+81|Izo!
+82|Ngài định đi đâu, Oden-sama?
+83|Ngươi làm ta giật mình!
+84|Dù vậy, ta vẫn yêu cầu ngài trả lời.
+85|Ta đi giải quyết nỗi buồn lúc nào cũng được!
+86|Ta chẳng phải daimyo sao?
+87|Xin thứ lỗi.
+88|Đêm có thể lạnh.
+89|Ta sắp không nhịn nổi...
+90|Tôi thấy áy náy khi lẻn đi khỏi Oden giữa đêm khuya.
+91|Chỉ riêng sức mạnh của hắn cũng là một tài sản lớn.
+92|Và Pops có vẻ khá quý hắn...
+93|Hả?! Ông nói gì vậy?!
+94|Đừng giả ngu!
+95|Dù ta có quý hắn,
+96|thì cũng như bắt cóc hoàng tộc...
+97|Sẽ có hậu quả khủng khiếp.
+98|Ông để lại rương báu để cảm ơn à?
+99|Họ cho chúng ta rất nhiều thức ăn và gỗ.
+100|Khoan, cái quái gì vậy?!
+101|Ta biết ngươi sẽ làm vậy mà...
+102|Râu Trắng!
+103|Oden?!
+104|Cho ta lên tàu!
+105|Oden-sama! Tại hạ biết ngài sẽ làm vậy!
+106|Tại hạ không cho phép!
+107|Tên ngốc đó!
+108|Cho ta đi cùng!
+109|Hãy cho ta thấy thế giới!
+110|Chúng ta phải quay về!
+111|Ngài là tướng quân kế nhiệm!
+112|Hắn hoang dã thật!
+113|Rất vui được biết ngươi, Oden!
+114|Bỏ cuộc và về nhà đi.
+115|Khoan, Marco!
+116|Gì cơ?!
+117|Kéo kẻ đã đuổi theo hắn lên đây!
+118|Phiền phức thật...
+119|Những người còn lại, bám vào thứ gì đó đi!
+120|Giờ không phải lúc lo cho người khác!
+121|Sắp rơi xuống thác rồi!
+122|Ôi không!
+123|Không thể nào!
+124|Oden-sama đi mất rồi!
+125|Tàu Râu Trắng cũng rời cảng rồi!
+126|Tôi đã sợ chuyện này!
+127|Anh trai tôi mất rồi! Cả Chó và Mèo nữa!
+128|Đừng khóc, Okiku!
+129|Chúng ta nên tìm họ trước khi nghĩ đến điều tồi tệ nhất.
+130|Được không?
+131|Được ạ...
+132|Tìm khắp nơi!
+133|Lật tung cả đất nước lên!
+134|Này, Râu Trắng!
+135|Kéo Oden-sama lên trước khi ngài ấy chết!
+136|Tương lai Wano nằm trên vai ngài ấy!
+137|Nhóc không thấy ta từ chối hắn bao nhiêu lần sao?
+138|Hắn vẫn chọn rời khỏi đất nước!
+139|Giờ bọn ta sẽ xử lý theo cách của bọn ta.
+140|Chết tiệt!
+141|Xin ngài!
+142|Ta không thể nhận một kẻ nguy hiểm như hắn và đặt gia đình mình vào hiểm nguy.
+143|Nếu muốn ngăn chuyện này, các ngươi phải thuyết phục hắn.
+144|Nghe đây, Oden!
+145|Ba ngày!
+146|Nếu ngươi bám được vào sợi xích đó ba ngày, ta sẽ chào đón ngươi lên tàu!
+147|Ngài thề chứ, Râu Trắng?!
+148|Ừ! Ta thề!
+149|Oden vẫn còn đó chứ?
+150|Còn...
+151|Nhưng trông không ổn.
+152|Nước và va đập làm mặt ngài ấy sưng đến không nhận ra!
+153|Trông như sắp nổ tung!
+154|Chỉ còn một giờ nữa!
+155|Cố lên, Oden!
+156|Này, sao các ngươi lại cổ vũ hắn?!
+157|Vì nếu hắn làm được thì hắn sẽ là người của chúng ta, đúng không?
+158|Oden sẽ là đồng đội của chúng ta!
+159|Oden...
+160|sẽ trở thành đồng đội của chúng ta?
+161|Cố lên, Oden!
+162|Cố lên nào, Oden!
+163|– Ngài làm được! – Ngài làm được!
+164|Đừng bỏ cuộc, Oden!
+165|Cố lên!
+166|Lũ hề đó...
+167|Tại hạ sẽ không bao giờ tha thứ vì ngươi bắt chủ nhân của ta chịu cảnh này, Râu Trắng!
+168|Oden, cố lên!
+169|Chỉ một chút nữa thôi!
+170|Oden!
+171|Oden!
+172|Oden-sama!
+173|Buông ra!
+174|Bỏ ta ra!
+175|Cô ấy xinh quá!
+176|Lại còn sang trọng nữa!
+177|Sao em chạy, cưng?!
+178|Tưởng em muốn bọn anh chở em đến Wano!
+179|Đi với bọn anh đi.
+180|Bọn anh không làm hại em đâu!
+181|Tôi biết.
+182|Đó là tàu nô lệ!
+183|Nếu các người làm hại tôi, giá của tôi sẽ giảm!
+184|Tôi không thể tin mình bị các người, lũ côn đồ mặt mũi xấu xa, lừa!
+185|Tôi thật ngây thơ!
+186|Sau lưng em chỉ có biển thôi!
+187|Em không còn chỗ nào để chạy!
+188|Bỏ cuộc đi!
+189|Sai rồi! Vẫn còn một nơi tôi có thể chạy!
+190|Nơi duy nhất em đi là quay lại tàu bọn anh!
+191|Bọn anh sẽ cho em vui vẻ!
+192|Đến lúc rồi.
+193|Tôi sẽ lại nhảy đến tương lai.
+194|Gì cơ?!
+195|C-C-Cái quái gì thế kia?!
+196|Là thủy quái!
+197|Ta nghe thấy tiếng phụ nữ kêu cứu.
+198|Quái vật?!
+199|Cô có sao không?!
+200|Gì?!
+201|Cô không bị thương chứ?
+202|Cô... an toàn chứ...?
+203|Gì? Ồ, vâng, tôi ổn.
+204|Vậy nghĩa là...
+205|ngài đến cứu tôi?!
+206|Đúng vậy...!
+207|Cô không sao... May quá...!
+208|N-N-Ngài có sao không?!
+209|Hãy tỉnh lại!
+210|Xin hãy tỉnh lại!
+211|Oden mất rồi!
+212|Đi đâu rồi?!
+213|Chết tiệt!
+214|Chỉ còn vài phút nữa thôi!
+215|Tiếc là hắn không chịu nổi nữa.
+216|Ông thật sự đã hành hạ hắn như địa ngục, Pops!
+217|Hắn đã cố hết sức!
+218|Sao ông không nương tay chút?!
+219|Oden-sama! Oden-sama!
+220|Này, dừng lại!
+221|Bình tĩnh!
+222|Bỏ tôi ra!
+223|Oden-sama! Oden-sama!
+224|Ngài ấy hồi phục nhanh quá!
+225|Trước giờ tôi còn không biết ngài ấy là người.
+226|Oa! Có vẻ ta đã thất bại trong việc gia nhập băng Râu Trắng!
+227|Ta đã nghĩ chỉ cần ở trên tàu là có thể đến thăm nhiều vùng đất,
+228|nhưng không sao!
+229|Nhưng thay vào đó, lần đầu tiên ta được đặt chân lên một hòn đảo nước ngoài!
+230|Ta làm được rồi!
+231|Nhìn ngài ấy kìa.
+232|Ngài ấy có vẻ vui!
+233|Cuối cùng ta cũng ra khỏi Wano!
+234|Cuộc phiêu lưu của ta đã bắt đầu!
+235|Được rồi!
+236|Đừng nhảy nhót như vậy!
+237|Ngài vẫn đang hồi phục!
+238|Cô gái! Cô đã chăm sóc ta sao?
+239|Ồ, vâng!
+240|Cảm ơn ngài rất nhiều!
+241|Không có gì!
+242|Dù sao ngài cũng cứu tôi trước mà!
+243|Cảm ơn ngài rất nhiều!
+244|Vậy sao? Ta mừng là cô không sao.
+245|Nhân tiện, cô vừa nói cô đến từ Wano à?
+246|Ừ, ngươi nghe đúng rồi.
+247|Nghe ngài nói mới nhớ,
+248|tôi đã đi một chặng đường dài đến vùng đất lạ, nhưng nhìn bộ đồ của ngài kìa!
+249|Tôi mong được thấy những bộ trang phục lạ ở ngoài này!
+250|Thật ra tôi luôn muốn đến Wano từ khi còn nhỏ!
+251|Ngài có thể đưa tôi về đó cùng ngài không?!
+252|Ồ... Ừm...
+253|Ồ, chà...
+254|Trông ngài ấy bực quá...
+255|Cô ta kia rồi!
+256|Trông cậy vào ông, Thuyền trưởng Karma!
+257|Sáu cánh tay?!
+258|Thú vị quá!
+259|Ở Wano không thấy người như thế này!
+260|Này, con quái vật các ngươi thấy đâu rồi?!
+261|Gì? N-Nó phải ở đây chứ.
+262|Nó biến mất vào không khí sao?!
+263|Một con thủy quái như thế có thể đi đâu?!
+264|Vậy các ngươi quay lại rồi sao?!
+265|Mày là ai?!
+266|S-Sao mày làm như quen bọn tao?!
+267|Mày nói gì vậy?!
+268|Ra thế! Cô thuê vệ sĩ!
+269|Phụ nữ sang trọng bán được giá cao!
+270|Bọn tao sẽ bán cả hai đứa!
+271|Phải chạy thôi!
+272|Chúng quá đông!
+273|Đây là trận đánh đầu tiên của ta ở nước ngoài.
+274|Là băng Râu Trắng!
+275|Người đàn ông tên Karma này sau cùng sẽ trở thành đồng minh của băng Râu Trắng,
+276|và chiến đấu cùng họ trong Chiến tranh Thượng đỉnh.
+277|Lên tàu đi, Oden!
+278|Gì?
+279|Nhưng ta đã buông xích rồi!
+280|Ngươi bỏ ước mơ để đáp lại tiếng kêu cứu của một phụ nữ sao?
+281|Ngươi mềm yếu thật.
+282|Nào! Đi thôi!
+283|Chúng ta sắp có một cuộc phiêu lưu vĩ đại ngoài sức tưởng tượng,
+284|Em trai nhỏ!
+285|Ông chắc chứ, Whitekichi?!
+286|Whitekichi?!
+287|Xuất phát!
+288|Oden!
+289|Mừng là ngươi không sao!
+290|Rất vui được gặp lại ngươi!
+291|Bọn tôi rất vui khi có ngài!
+292|Cảm ơn mọi người!
+293|Pops đã hành ngươi khá nặng!
+294|Nói đúng lắm!
+295|Chắc chắn rồi!
+296|Đ-Đồ đầu đất!
+297|O-Oden-sama!
+298|Tại hạ mừng thấy ngài sống sót!
+299|Quả vậy! Như các ngươi thấy, ta khỏe!
+300|– Oden-sama! – Oden-sama!
+301|Inuarashi?! Nekomamushi?!
+302|Các ngươi làm gì ở đây?!
+303|Bọn tôi nghĩ you-gara sẽ tìm được cách ra khơi, nên trốn lên tàu!
+304|You-gara đi đâu, bọn tôi theo đó!
+305|Kẻ trốn tàu!
+306|Chẳng phải ngươi nói sẽ không bao giờ tha thứ cho ta sao?
+307|Ngươi định quăng ta xuống biển vì chuyện đó à?
+308|Chỉ khi ta thích thôi.
+309|Cô gái!
+310|Tên cô là gì?
+311|Ồ, vâng!
+312|Tôi tên là Toki!
+313|Ừm...
+314|Tôi muốn đến Wano!
+315|Trông ngài ấy bực quá!
+316|T-Tôi sẽ làm bất cứ điều gì! Nên xin hãy cho tôi ở lại trên tàu này!
+317|Tùy ngươi!
+318|Ta định ghi lại mọi điều ta thấy và nghe trong chuyến đi này vào nhật ký hành trình.
+319|Tàu địch!
+320|Chuẩn bị chiến đấu!
+321|Ta đi đây! Ta đi đây!
+322|Này, khoan!
+323|Dừng lại!
+324|– Oden! – Oden!
+325|Thế nào?!
+326|Ta đánh chìm chúng rồi!
+327|Đồ ngốc! Ngươi làm gì vậy?!
+328|Sao ngươi dám tự xưng là hải tặc?!
+329|Bọn ta chưa kịp cướp nó!
+330|Những điều ta chưa từng trải qua...
+331|Đây là nơi nào?!
+332|Những tòa nhà ta chưa từng thấy!
+333|Cây rung rinh như thạch!
+334|Oden, khoan!
+335|Phải xem xét nơi này đã!
+336|Thế giới ta chưa từng thấy này...
+337|L-Là...?!
+338|– Oden! – Oden!
+339|Cái lạnh ta chưa từng trải qua...
+340|Cái nóng ta chưa từng trải qua...
+341|– Oden! – Oden!
+342|Ngài ổn chứ?!
+343|Nóng!
+344|Đây là phiêu lưu! Phiêu lưu!
+345|Thực vật kỳ lạ...
+346|Động vật kỳ lạ...
+347|Người khổng lồ...
+348|To quá!
+349|Lùi lại!
+350|Được rồi!
+351|Sức mạnh áp đảo...
+352|Và những ý tưởng...
+353|Mỗi ngày đều khác ngày trước và mở mắt ta theo những cách mới!
+354|Mọi thứ vượt ngoài sức tưởng tượng của ta!
+355|Ta chỉ là một mảnh nhỏ bé của thế giới!
+356|Tuổi tôi ư?
+357|Tôi 26, nhưng tôi sinh ra khoảng 800 năm trước.
+358|Sinh ra 800 năm trước? Mụ già cổ lỗ sĩ!
+359|Thật sự, điều gì cũng có thể.
+360|Thế giới rộng lớn, và không điều gì là không thể!
+361|Thế giới này hoàn toàn gồm bốn vùng biển và một dải đại dương.
+362|Và nghe nói thế giới tròn như nắm cơm!
+363|Thú vị quá!
+364|Cô có thích chuyến đi không, Toki?
+365|Rất thích.
+366|Tôi muốn thấy thêm nhiều về thế giới!
+367|Thật sao? Ta vui khi nghe vậy!
+368|Đó là bản đồ à?
+369|Vâng!
+370|Wano nhỏ xíu so với phần còn lại của thế giới!
+371|Cô sinh ra ở đâu, Toki?
+372|Tôi chưa bao giờ biết.
+373|Tôi chỉ biết cha mẹ tôi đến từ Wano.
+374|Vì thế Wano là nơi duy nhất tôi muốn đến...
+375|Nhưng có lẽ con tàu này sẽ không quay lại đó trong một thời gian.
+376|Tôi xin lỗi.
+377|Xin đừng! Ngài đã làm mọi thứ thật vui!
+378|Khi ở bên ngài, tôi cảm thấy mình đang ở đúng nơi mình muốn!
+379|Không hiểu sao...
+380|Ta cũng không biết vì sao...
+381|Lạ thật...
+382|Vâng, lạ thật!
+383|Này!
+384|Có thấy Oden-sama không?
+385|Ở đằng kia?
+386|Tò mò hại chết con mèo!
+387|Ngay cả Râu Trắng cũng có kẻ thù không đội trời chung...
+388|Là Hải Quân!
+389|Rút lui!
+390|Sao chúng ta lại bỏ chạy?!
+391|Chúng trông mạnh!
+392|Lẽ ra phải đánh!
+393|Họ là Hải Quân!
+394|Đó là một tổ chức lớn.
+395|Hạ họ hôm nay chỉ mời thêm nhiều kẻ khác đến săn chúng ta.
+396|Vậy tổ chức này điều hành mọi việc trên toàn thế giới sao?!
+397|Họ phải có sức mạnh khủng khiếp đến mức nào!
+398|Đợi thấy thêm về thế giới rồi hẵng đánh giá sức mạnh của họ.
+399|Dù sao đất nước ngươi vẫn tự do mà!
+400|Hôm nay báo cũng không có gì.
+401|Lại một bài về Râu Trắng à?!
+402|Nhưng bọn ta cũng gây rắc rối mà!
+403|Này! Tôi chưa đọc xong!
+404|Dù sao thì Râu Trắng có tay samurai điên từ Wano lúc nào cũng làm loạn.
+405|– Thuyền trưởng! – Thuyền trưởng!
+406|Một samurai từ một đất nước biệt lập...
+407|Mong là đường ta sẽ giao nhau!
+408|Hai tuần sau
+409|Wano
+410|Amatsuki Toki
+411|Amatsuki Toki
+412|Một hòn đảo gần đó
+413|Một hòn đảo gần đó
+414|Hôm sau
+415|Hôm sau
+416|Thuyền trưởng Karma Băng Cephaloctopus
+417|Thuyền trưởng Karma Băng Cephaloctopus
+418|South Blue
+419|East Blue
+420|West Blue
+421|West Blue
+422|North
+423|Ở một vùng biển khác
+424|Ở một vùng biển khác
+425|Gold Roger Một Đại Hải Tặc
+426|Gold Roger Một Đại Hải Tặc

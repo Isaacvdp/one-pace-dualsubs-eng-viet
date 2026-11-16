@@ -1,0 +1,302 @@
+1|Sao lại ra nông nỗi này?!
+2|Phu nhân Komurasaki!
+3|Tôi sẵn sàng đánh đổi tất cả để gặp lại người!
+4|Đây không phải đám rước hoa khôi mà tôi muốn xem.
+5|Các người đưa phu nhân Komurasaki đi đâu?!
+6|Cô ta đã chống lại Tướng quân Orochi.
+7|Cô ta sẽ bị hỏa táng như tội phạm tại Nhà tù Rasetsu.
+8|Tonoyasu bị bắt rồi sao?!
+9|Rốt cuộc chuyện gì đang xảy ra vậy?!
+10|Không ngờ Tonoyasu lại là Cậu Bé Giờ Ma!
+11|Cậu Bé Giờ Ma...
+12|Đêm này qua đêm khác, tên đại đạo chích lấy báu vật của người giàu
+13|rồi phân phát cho người nghèo và người yếu thế.
+14|Kẻ trộm sao?!
+15|Ông già đó á?
+16|Cậu Bé Giờ Ma...
+17|Cả Hoa Đô xôn xao vì cái tên đó.
+18|Tôi không hiểu. Ông ấy chẳng phải là một vị thánh sao?
+19|Tonoyasu!
+20|Sao mọi người lại cười?!
+21|Người của các người đang bị đóng đinh đấy!
+22|Tonoyasu thật sự là Cậu Bé Giờ Ma sao?!
+23|Cho dù có thật thì cũng chẳng quan trọng.
+24|Tôi nhớ ông ấy! Là mái tóc đó.
+25|Tonoyasu là bí danh.
+26|Vậy ông ấy rốt cuộc là ai?
+27|Có vẻ có chuyện lớn đang xảy ra ở Hoa Đô.
+28|Bật ốc sên cuộn ánh sáng lên.
+29|Ông biết ông ấy sao?
+30|V-Vâng. Tại hạ biết rất rõ.
+31|Vị đó...
+32|Từng là một trong các daimyo phục vụ gia tộc Kozuki cùng với ngài Oden...
+33|Tên thật của ông ấy là...
+34|Shimotsuki...
+35|Ngài Yasuie!
+36|Daimyo xứ Hakumai! Yasu Nhím!
+37|Ông là người nghiêm khắc, chưa từng mỉm cười.
+38|Tôi không nhận ra vì ông hoàn toàn khác con người trước kia!
+39|Dừng việc xử tử lại!
+40|Tôi đến từ Hakumai!
+41|Thật mừng vì được gặp lại ngài...!
+42|Thả ngài Yasuie ra ngay, lũ quan lại chết tiệt!
+43|Ngài Yasuie!
+44|Dân chúng vẫn chưa quên ta sao?!
+45|Thật vui quá!
+46|Hakumai là vùng duy nhất ở Wano có cảng chính thức.
+47|Nó đón cả khách tốt lẫn khách xấu.
+48|Vì vậy...
+49|chúng ta phải có một đạo quân bất khuất.
+50|Đúng là samurai ưu tú nhất Wano.
+51|Cắn một miếng không?
+52|Ngươi đang nhạo báng ta sao, Oden?
+53|Ngươi lảng vảng ở đây thật phiền.
+54|Ít nhất trên danh nghĩa, ngươi là con trai tướng quân.
+55|Họ đuổi tôi ra rồi. Tôi không chắc họ còn coi tôi là người nhà không.
+56|Ai cũng nói...
+57|"Oden sẽ không phải người thừa kế của Kozuki Sukiyaki...
+58|Mà là Tướng quân Yasuie."
+59|Đồ ngốc!
+60|Ái!
+61|Đánh tôi làm gì?!
+62|Đừng để tâm mấy tin đồn vô căn cứ này!
+63|Ngươi là người kế thừa duy nhất của gia tộc Kozuki!
+64|Ngài Sukiyaki từ mặt ngươi chỉ là thương cho roi cho vọt.
+65|Sao không cho ngài thấy điều ngài muốn?
+66|Yasu.
+67|Tôi muốn thử vận may ngoài biển hơn.
+68|Sao đất nước này không cho phép chứ?
+69|Chính sách bế quan này... tôi ghét sự giam hãm này!
+70|Im đi!
+71|Chỉ samurai chân chính mới được phép tùy hứng!
+72|Đau quá! Ông lấy quyền gì mà đấm tôi?!
+73|Ngươi nghĩ ta là ai?!
+74|Ngươi vẫn chỉ là kẻ vô danh. Chỉ là thằng du côn.
+75|Vô ích thôi, các bạn! Orochi sẽ không để ta đi.
+76|Nhưng trước hết, ta phải xin lỗi về hai điều.
+77|Và ta còn một điều muốn nói với tên ngốc Orochi!
+78|Toko!
+79|Nói xong, ta sẽ mỉm cười mà sang thế giới bên kia.
+80|Cha ơi!
+81|Giờ ta sẽ đọc tội danh của bị cáo.
+82|Người này đã trộm cắp ở Hoa Đô đêm qua.
+83|Thật là sa sút...
+84|Từng là daimyo Hakumai, nay hắn kiếm sống bằng nghề hề ở thị trấn Ebisu.
+85|Tên hắn là Shimotsuki Yasuie!
+86|Vì tội ác ghê tởm đã nổi loạn chống Tướng quân Orochi trong quá khứ,
+87|chúng ta dâng hắn làm vật tế cho mộ hoa khôi Komurasaki...
+88|nay tuyên án hắn tử hình nhục nhã.
+89|Giờ hắn đã thú nhận...
+90|là Cậu Bé Giờ Ma, mối họa đã biết của xã hội.
+91|Tôi nói dối chuyện đó!
+92|Ngươi nói gì?!
+93|Tôi nghĩ mình sắp chết nên nói vậy để gây chú ý.
+94|Tôi xin lỗi vì đã nói dối.
+95|Tôi không phải anh hùng như mọi người nghĩ.
+96|Ngài Yasuie!
+97|Sao ông ấy lại nói dối như vậy?
+98|Nỗi buồn quanh tang lễ Komurasaki đã chuyển sang vụ xử tử Yasuie.
+99|Drake, dân thị trấn Ebisu đang xông vào Hoa Đô!
+100|Gì cơ?!
+101|Người đó có vẻ quan trọng hơn chúng ta tưởng.
+102|Ông không được chết, Yasu!
+103|Yasu!
+104|Không có sự nâng đỡ của ông chúng tôi sẽ lạc lối!
+105|Các ngươi không được phép vào thành! Quay về thị trấn Ebisu đi, lũ dân đen chết tiệt!
+106|Yasu!
+107|Cư dân trên phố chính đang nổi loạn!
+108|Khu phía tây cũng vậy!
+109|Hết chuyện này đến chuyện khác...
+110|Quyết định của ngài Orochi phát sóng vụ xử tử qua cuộn ánh sáng có thể phản tác dụng.
+111|Duy trì cảnh giác khắp thành.
+112|Tướng quân vô năng, nghĩa là thuộc hạ phải vất vả hơn.
+113|Nghe đây, các bạn!
+114|Hãy nhìn Hoa Đô xinh đẹp!
+115|Cảnh Wano thật tuyệt vời!
+116|Phong cảnh này là thành quả của
+117|nhiều thế hệ gia tộc Kozuki và dân thường.
+118|Chúng ta tự hào về nó.
+119|Nhanh lên!
+120|Mau lên!
+121|Hắn bắt đầu nói bậy rồi!
+122|Kẻ ngốc như ngươi không có quyền nhận công vẻ đẹp này...
+123|Kurozumi Orochi!
+124|Ngươi nghe thấy không, Orochi?!
+125|Từng có những khu rừng bao la, đồng cỏ...
+126|những dòng sông...
+127|và những ngôi làng!
+128|Ngươi đã vấy bẩn tất cả bằng thứ bùn sinh ra từ lòng tham!
+129|Ngươi chỉ là con sâu bọ!
+130|Chết tiệt!
+131|Chết tiệt ngươi, Holdem!
+132|Sao dám đốt hang ổ của ta!
+133|Ngươi ở đâu?! Ra đây!
+134|Holdem!
+135|Đó là...?!
+136|Đủ rồi, ngài Yasuie!
+137|Ngài sẽ không rút lại được đâu!
+138|Còn một điều nữa...
+139|mà tôi muốn xin lỗi các vị.
+140|Về tờ truyền đơn có biểu tượng đang lan truyền.
+141|Tên Kozuki đã chết hai mươi năm rồi.
+142|Chúng ta không còn sức để báo thù cho họ.
+143|Tôi day dứt vì gia tộc Kozuki...
+144|nên đã tạo ra tờ truyền đơn đó!
+145|– Gì cơ?! – Gì cơ?!
+146|Biểu tượng đó vô nghĩa.
+147|Nó chỉ là...
+148|trò đùa!
+149|– Gì cơ?! – Gì cơ?!
+150|Ông ta nói cái quái gì vậy?!
+151|Ngươi đây rồi, Ashura!
+152|Ồ, Kin'emon! Inuarashi! Chuyện lớn rồi!
+153|Nhìn kìa!
+154|Ngài Yasuie có vẻ vẫn còn sống.
+155|Phải, tại hạ cũng vừa mới biết.
+156|Chuyện đã thành một màn kịch lớn.
+157|Oden đã chết hai mươi năm trước.
+158|Orochi nói với bốn daimyo còn lại chúng tôi.
+159|"Các ngươi sẽ phục tùng Kurozumi?
+160|Hay chiến đấu với chúng ta?"
+161|Thật nực cười!
+162|Ngươi nợ Oden một ân huệ lớn,
+163|vậy mà lại cướp ngôi tướng quân bằng âm mưu xảo quyệt!
+164|Ai sẽ thừa nhận ngươi?!
+165|Daimyo và dân chúng mỗi vùng lập tức cầm vũ khí.
+166|Chẳng may chúng tôi bị con quái vật tên Kaido đánh tan,
+167|và Wano chìm trong biển lửa.
+168|Tôi miễn cưỡng sống sót và trốn ở thị trấn Ebisu.
+169|Tuy nhiên, chết già thì thật đáng tiếc...
+170|Nên, mang tâm hồn trẻ thơ, tôi nghĩ ra ý tưởng trò đùa truyền đơn và thử xem sao.
+171|Mong các vị tha thứ.
+172|Dù vậy, sự hèn nhát của Orochi vượt xa mọi dự đoán.
+173|Hắn dường như đã bỏ tù người vô tội chỉ vì một hình xăm mặt trăng phổ biến.
+174|– Gì cơ?! – Gì cơ?!
+175|Tất cả chỉ là trong đầu Tướng quân Orochi sao?!
+176|Phải làm sao đây?! Chúng ta đã bắt quá nhiều rồi!
+177|Tướng quân Orochi! Đã thấy hắn rồi!
+178|Tên khốn Yasuie!
+179|Đợi ta bắn đầy chì vào người ngươi!
+180|Ngươi đây rồi.
+181|Lâu rồi không gặp, Orochi.
+182|Có lời trăn trối nào không, Yasuie?!
+183|Orochi! Ta nghĩ là có...
+184|Ta đọc lời nguyền đã ám ngươi nhé?
+185|"Kẻ tầm vóc nhỏ nhoi như ngươi sẽ không bao giờ biết...
+186|vị của oden suốt đời!"
+187|Thôi, vậy thôi.
+188|Đi đi... Kin'emon và các Hồng Bao.
+189|Cả con nữa, Momonosuke, tướng quân tương lai.
+190|Điều này coi như đặt lại kế hoạch của các con!
+191|Ta đã đưa ra điểm hẹn mới...
+192|cho đồng đội bị giam ở thị trấn Rasetsu.
+193|Ta biết không nhiều, nhưng đời ta không làm được gì hơn nữa.
+194|Ông ấy định hy sinh để giữ kế hoạch của chúng ta sao?!
+195|Ngài Yasuie!
+196|Chúng tôi mãi mãi mang ơn ngài!
+197|Dù tên hèn Orochi có gào thét thế nào,
+198|binh lính của hắn cũng không còn lung lay.
+199|Tướng quân không nên hành động vì sợ hãi như vậy.
+200|Dừng lại! Họ sẽ nghe thấy!
+201|Cha ơi!
+202|Yasu!
+203|Suốt hai mươi năm, không ai chặt được đầu Kaido!
+204|Nhưng lần này...!
+205|Che mắt con các người đi!
+206|Daimyo cuối cùng phục vụ gia tộc Kozuki...
+207|Không...
+208|Người đàn ông hàng xóm của thị trấn Ebisu đang đi về cõi vĩnh hằng!
+209|Yasuie!
+210|Cùng hát khi ta đi nào!
+211|♪ Ta đi đây! ♪
+212|Bắn!
+213|Hãy xâm nhập Onigashima!
+214|Báo thù cho chủ của các ngươi!
+215|Ta chờ tin vui ở thế giới bên kia!
+216|Sao các ngươi lại muốn trộm nhiều tiền thế này?
+217|Ngài Oden nghèo rớt mồng tơi!
+218|Nếu định giết bọn tôi thì làm đi...
+219|đồ nhím!
+220|Chết tiệt ngươi, Oden. Ngươi đúng là biết chọn người.
+221|Nghe đây!
+222|Ta đưa cho các ngươi số tiền các ngươi định trộm.
+223|– Gì cơ?! – Gì cơ?!
+224|Xin ngài suy nghĩ lại, ngài Yasuie!
+225|Chúng ta sẽ không duy trì nổi tài chính Hakumai!
+226|Cái này cũng cho các ngươi.
+227|Của các ngươi đấy!
+228|Còn nhiều tiền hơn nữa?!
+229|Đùa à! Có phải bẫy không?!
+230|Các ngươi có yêu Oden không?
+231|Dĩ nhiên! Chúng tôi nợ ngài ấy cả mạng sống và hơn thế nữa!
+232|– Đúng thế! – Chắc chắn!
+233|Ta hiểu rồi...
+234|Vậy cầm số tiền này, ăn mặc cho tử tế, học phép tắc, mua sách, và học đi!
+235|Có một đám thuộc hạ hạ đẳng như các ngươi chỉ làm nhục Oden!
+236|Ngài ấy là người...
+237|sẽ trở thành tướng quân của Wano một ngày nào đó!
+238|Những người phục vụ ngài phải là samurai giỏi nhất Wano!
+239|Dĩ nhiên, bảo vệ chủ nhân là điều bắt buộc.
+240|Kinh đô...
+241|Không, cả đất nước Wano sẽ có các ngươi làm người bảo vệ!
+242|Hiểu chưa?!
+243|– Ngài Yasuie! – Ngài Yasuie!
+244|Cha ơi!
+245|Cha ơi!
+246|Cha ơi!
+247|Otoko...
+248|Hãy tha thứ cho cha, Otoko...
+249|vì để con không còn cha.
+250|Cha ơi!
+251|Cha ơi! Cha ơi!
+252|Cha ơi!
+253|Đủ rồi! Ngừng bắn!
+254|Yasu!
+255|Yasu!
+256|Là dân thị trấn Ebisu! Đuổi chúng ra khỏi kinh đô!
+257|Yasu!
+258|Ngài Yasuie!
+259|C-Cha ơi!
+260|Cha ơi!
+261|C... Cha sao?
+262|Yasu...!
+263|Cuối cùng ngươi cũng chết rồi sao, Yasuie?!
+264|Ngài Yasuie...
+265|Họ đang làm gì vậy?
+266|Cái gì...
+267|vậy chứ...?
+268|Một người đã chết.
+269|Có gì mà buồn cười thế?!
+270|Cha tôi chết rồi!
+271|Đồ ranh con!
+272|Xin hãy đợi đã!
+273|Họ đều... đang khóc.
+274|Gì cơ?!
+275|Người dân thị trấn Ebisu lúc nào cũng cười...
+276|vì dù lúc đau đớn hay buồn bã...
+277|cũng không thấy trên mặt họ.
+278|Mọi biểu cảm khuôn mặt ngoài nụ cười đều bị lấy mất...
+279|Họ không thể làm gì khác ngoài cười.
+280|Đó là lỗi của Kaido và Orochi...
+281|vì mang trái SMILE đến đây!
+282|Hoa Đô
+283|Hoa Đô
+284|Thị trấn Ebisu
+285|Thị trấn Ebisu
+286|Thị trấn Bakura Kuri
+287|Thị trấn Bakura Kuri
+288|Udon
+289|Udon
+290|Khu tù nhân Thị trấn Rasetsu Hoa Đô
+291|Khu tù nhân Thị trấn Rasetsu Hoa Đô
+292|Hakumai Wano
+293|Hakumai Wano
+294|Shimotsuki Yasuie
+295|Shimotsuki Yasuie
+296|(Sau này gọi là Tonoyasu) Daimyo Hakumai
+297|(Sau này gọi là Tonoyasu) Daimyo Hakumai
+298|(Sau này gọi là Tonoyasu) Daimyo Hakumai
+299|Cổng vào Hoa Đô
+300|Cổng vào Hoa Đô
+301|Hakumai Wano
+302|Hakumai Wano

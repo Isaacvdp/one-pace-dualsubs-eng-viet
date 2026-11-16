@@ -1,0 +1,338 @@
+1|Ồ, cháu tỉnh rồi à?!
+2|Anh lớn! Cô ơi!
+3|Đây là đâu vậy?
+4|Quán trà của ta.
+5|Otama!
+6|Bụng em thế nào rồi?
+7|Còn đau không?
+8|Em khỏe hơn rồi!
+9|Hiệu nghiệm nhanh quá!
+10|Cỏ Ngũ Chỉ đúng là thần dược.
+11|Cảm ơn mọi người!
+12|Nin-nin!
+13|Nhưng mà...
+14|chất độc trong người cháu không thể loại hết được.
+15|Nên đừng bao giờ uống nước sông nữa nhé, Otama.
+16|Dạ, cháu hiểu rồi!
+17|Im đi, cái bụng! Thế này không xứng với một chiến binh!
+18|Nước!
+19|Sông!
+20|Otama! Dừng lại ngay!
+21|Em không được...!
+22|Hả?
+23|Gì vậy?!
+24|Em không được...
+25|uống nước sông nữa!
+26|Xong rồi. Nhưng đây chỉ là sơ cứu thôi...
+27|Ừ. Cảm ơn nhé.
+28|Cô to lớn quá.
+29|Big Mom còn to hơn nhiều.
+30|Cảm ơn cô đã cứu tôi khỏi màn cầu hôn của tay đô vật sumo.
+31|Tại hạ có làm gì đâu.
+32|Tại hạ quên chưa giới thiệu.
+33|Tại hạ là Okiku.
+34|Tại hạ?!
+35|Hả?!
+36|Không được! Không đời nào! Không được đâu!
+37|Làm ơn! Cô mang đi đi!
+38|Cháu còn không có tiền mua thuốc nữa!
+39|Cháu không thể nào trả nổi món oshiruko đậu đỏ của cô!
+40|Cháu không phải trả đâu.
+41|Không!
+42|Cháu không nhận được!
+43|Cháu biết cô với Okiku cũng chưa ăn gì nhiều mà!
+44|Không sao đâu. Đừng ngại.
+45|Cô đã cứu mạng cháu rồi mà còn định cho cháu ăn nữa!
+46|Sao cháu nhận cho được?!
+47|Không sao mà.
+48|Không!
+49|Ta bảo không sao mà!
+50|Thế nào cháu cũng sẽ trả tiền thuốc cho cô!
+51|Đủ rồi đấy!
+52|Hả?!
+53|Khi một người phụ nữ đã dọn đồ ăn ra...
+54|"Tôi không muốn."
+55|"Được thôi."
+56|Cậu tưởng bà ấy sẽ rút lại thật sao?
+57|Nếu mấy đứa không ăn...
+58|ta sẽ đổ ra đường!
+59|Không!
+60|Otama, ăn đi!
+61|Cô Otsuru không chấp nhận lời từ chối đâu.
+62|Còn định ngồi thế đến bao giờ?
+63|Phải vui lên chứ! Hôm nay là sinh nhật em mà!
+64|Thật ạ?
+65|Anh nghe nói vậy.
+66|Vậy thì coi như quà sinh nhật...
+67|và ăn đi nào.
+68|Ngon quá!
+69|Món súp này ngon quá!
+70|Gì cơ?
+71|Đây là lần đầu em ăn sao?!
+72|Vâng!
+73|Cậu nghĩ con bé đã nhịn đói bao nhiêu ngày rồi?!
+74|Dù ngày nào cũng vất vả đan mũ đi bán,
+75|tiền kiếm được còn không đủ nuôi nổi một người!
+76|Còn có cả bánh mochi nữa!
+77|Món ngon sang trọng quá!
+78|Cậu không làm ra từ má được à?
+79|Mấy thứ đó không làm no bụng được đâu.
+80|Ngon quá!
+81|Cô ơi! Cháu cảm ơn nhiều lắm!
+82|Chắc em không bao giờ có sinh nhật nào tuyệt vời hơn thế này nữa!
+83|Em thấy áy náy vì sư phụ không được ăn!
+84|Otsuru...
+85|Đây là ngày tuyệt vời nhất đời em!
+86|Những đứa trẻ như em ấy không hiếm đâu...
+87|ở Wano này...
+88|Không thể tin một đứa bé như thế lại không có đủ ăn!
+89|Ít ra lớn lên rồi thì chịu được chất độc.
+90|Không, không chịu được đâu!
+91|Có biển, có núi, có rừng, kiếm đồ ăn đâu có khó.
+92|Đúng thế.
+93|Giá mà chính chúng ta không hủy hoại chúng.
+94|Đồ Kaido chết tiệt!
+95|Ừ...
+96|Hai cậu thật tốt bụng.
+97|À phải rồi! Hai cậu tên gì vậy?
+98|Tôi tên là Zorojuro.
+99|Tôi là lãng nhân.
+100|Tôi là Monkey D.–
+101|Cậu ấy tên là...
+102|Luffytaro.
+103|Hả?!
+104|Đ-Đúng vậy...
+105|Tôi là Luffytaro...!
+106|À...
+107|Thật vậy...?
+108|Hai cậu là người ngoài, đúng không?
+109|Chắc vào được đất nước này cực lắm.
+110|Sao cô biết?
+111|Hai cậu nói năng lạ lắm.
+112|– Hả?! – Hả?!
+113|Đừng lo. Ta sẽ không nói với ai đâu.
+114|Ta cũng mới đến thị trấn này.
+115|Còn Okiku mới làm ở đây được một tháng.
+116|Nghe nói thị trấn này tên là Okobore.
+117|Tên gì mà kỳ vậy?
+118|Tên nói lên tất cả.
+119|Nghĩa là "đồ thừa", và chúng ta sống nhờ đồ bỏ của quan lại ở thị trấn bên cạnh.
+120|Tama nói ở đâu đó có đồ ăn không độc.
+121|Nhìn đằng kia kìa.
+122|Thấy ngọn núi không có ống khói chứ?
+123|Ngày xưa, Lâu đài Oden từng sừng sững trên đó.
+124|Đã hai mươi năm rồi.
+125|Oden... Mình từng nghe cái tên này rồi. Nhưng ở đâu nhỉ?
+126|Cho đến hai mươi năm trước...
+127|gia tộc Kozuki đã cai trị đất nước Wano từ lâu đời.
+128|Dưới chân ngọn núi đó có một nông trại rộng lớn...
+129|do cố Lãnh chúa Oden lập nên
+130|và nuôi dân vùng Kuri bằng đồ ăn ngon.
+131|Nó đâu phải để Orochi và đám tay sai độc chiếm lương thực của cả nước.
+132|Nông trại Halcyon...
+133|Tôi nghe thấy đó!
+134|Vậy đồ ăn ở đó không độc hả?
+135|Đúng vậy.
+136|Ở đó có đồ ăn ngon an toàn, nước sạch và quần áo.
+137|Nhưng tất cả đều thuộc về...
+138|Tướng quân Orochi!
+139|Bên kia cổng đền có một thị trấn nơi quan lại sinh sống.
+140|Để sống sót, chúng ta phải van xin họ bán lại đồ ăn thối và những thứ họ không dùng nữa.
+141|Okobore, thị trấn "đồ thừa"...
+142|Chúng ta vẫn sống được. Ít ra cũng đủ để sống.
+143|Ngươi làm cái gì thế?! Đừng cản đường ta!
+144|Ta nghe thấy ngươi nói rồi, đàn bà!
+145|Ngươi dám nói xấu tướng quân!
+146|Tai ta nghe tốt gấp sáu lần người thường!
+147|Ta không bỏ sót lời nào xúc phạm tướng quân đâu!
+148|Vậy là ngươi nghe thấy rồi.
+149|Thế đã đủ lý do để lấy mạng cô ấy sao?
+150|Nếu ngươi trúng đòn thì cô ấy đã chết rồi.
+151|Cứ sống yên phận thì ta hiếm khi phải làm các ngươi bị thương!
+152|Nhưng Tướng quân Orochi...
+153|không phải người để cho kẻ có lòng phản nghịch sống sót!
+154|Tên của ta!
+155|Hắn chặn hết rồi!
+156|Ngươi là ai?!
+157|Mấy tuần nay có kẻ cướp nông trại.
+158|Chúng ta đang truy tìm thủ phạm!
+159|Có khi chính là hai ngươi!
+160|Lãng nhân một mắt?!
+161|Ta từng thấy hắn trên lệnh truy nã!
+162|Buông ra!
+163|Ngươi là ai?!
+164|Otama!
+165|Cứu với!
+166|Anh lớn!
+167|Tama...
+168|Tama!
+169|Hoàn thành nhiệm vụ!
+170|Trả Tama lại đây!
+171|Okiku!
+172|Có kiếm?!
+173|Hắn chạy nhanh quá!
+174|Buông ra!
+175|Im đi, nhóc con!
+176|Tôi nhảy lên đây, ngài chó sư tử!
+177|Lại đây nào, chó con!
+178|Người phụ nữ đó có kiếm!
+179|Cô ấy nói biết dùng kiếm...
+180|Dù tôi chưa thấy cô ấy ra tay bao giờ...
+181|Ngồi xuống, chó con!
+182|Cho em đi cùng với!
+183|Nhìn cánh tay hắn kìa!
+184|Khoan!
+185|Em cũng đi!
+186|Được!
+187|Lũ chó lai!
+188|Luffytaro! Zorojuro!
+189|Sao chúng lại đuổi theo đứa bé?!
+190|Tôi không rõ, nhưng phải cứu con bé về!
+191|Tama!
+192|Anh sẽ cứu em!
+193|Anh lớn!
+194|Gazelleman! Chạy nhanh như gió đi!
+195|Rõ!
+196|Thảm hại!
+197|Chết tiệt!
+198|Chắc chắn chúng đã lên kế hoạch bắt cóc này!
+199|Chắc là do một Headliner ra lệnh!
+200|Hướng đó chỉ có một nơi để đi...
+201|Thị trấn của quan lại.
+202|Một cuốn sổ?
+203|Thị trấn đó có ba Headliner.
+204|Hawkins.
+205|Holdem.
+206|Speed.
+207|Ngoài ra...
+208|còn khoảng ba mươi chiến binh có năng lực đặc biệt từ thứ trái nhân tạo kỳ lạ đó.
+209|Cô không phải người phụ nữ bình thường.
+210|Cô là ai?
+211|Tại hạ...
+212|là một samurai.
+213|Sếp Holdem! Gazelleman đây!
+214|Tôi bắt được đứa nhóc nghe nói đã thuần hóa khỉ đầu chó của ta rồi!
+215|Thả tôi ra!
+216|Làm tốt lắm...
+217|Chúng ta sẽ tận dụng con bé.
+218|Đem nó lại đây.
+219|Rõ, thưa sếp!
+220|Anh Luffy ơi!
+221|Đây là Bakura, một thị trấn thịnh vượng ở vùng Kuri của Wano.
+222|Khốn kiếp!
+223|Tên lãng nhân phiền phức!
+224|Ta lùi lại vì khí thế áp đảo lạ lùng của hắn,
+225|nhưng ta nhất định phải cưới Okiku làm vợ!
+226|Ta có địa vị cao, danh tiếng tốt và có nguồn lương thực an toàn.
+227|Cô ta mà từ chối thì điên rồi!
+228|Đừng lo mấy chuyện vặt vãnh, đồ ngốc!
+229|Cô ta là gái ở thị trấn Okobore, đúng không?
+230|Hạng thấp kém đến mức Tướng quân Orochi còn chẳng thèm cai trị...
+231|Cô ta có yêu ngươi hay không chẳng quan trọng chút nào.
+232|Ngươi cứ ép cưới là được...
+233|Hoặc đốt nhà cô ta...
+234|và giết hết họ hàng để cô ta không còn nơi nào để đi.
+235|Cô lập cô ta, khiến cô ta phải lệ thuộc vào ngươi!
+236|Ngươi thuộc tầng lớp samurai!
+237|Ở Wano, hệ thống thân phận của chúng ta rất rõ ràng.
+238|Ngươi là ngôi sao của môn thể thao quốc gia, nên nếu ngươi bận tâm đến một kẻ hèn mọn như thế,
+239|thì không làm gương tốt cho người khác!
+240|Ngài nói đúng!
+241|Phải! Ta muốn làm gì Okiku cũng được!
+242|Ngài Yokozuna... Ngài không thích đồ ăn sao?
+243|Đó là con lửng chó, đúng không?
+244|Vâng, đây là thú cưng nuôi lâu năm của chúng tôi...
+245|Nấu nó đi!
+246|Hả?!
+247|Lửng chó là món ta thích nhất!
+248|Cuối cùng cậu cũng đến...
+249|Tôi thấy rồi!
+250|Chúng ta xông thẳng vào!
+251|Luffytaro và Zorojuro!
+252|Qua đó là thị trấn Bakura! Thị trấn của quan lại và hải tặc!
+253|Tại hạ không thể đảm bảo an toàn cho chúng ta.
+254|Sẵn sàng chưa?!
+255|– Ừ! – Ừ!
+256|Là con bé này à?
+257|Tội nghiệp...
+258|Nó sắp khóc rồi.
+259|Tôi không khóc đâu!
+260|Đừng có làm ra vẻ cứng cỏi!
+261|Ui da...
+262|Tôi bị đau thốn ở sườn!
+263|Im đi! Gazelleman!
+264|Ngươi đi được rồi! Tiếng thở hổn hển của ngươi làm ta phát bực!
+265|Tập luyện thể lực đi, đồ ngốc!
+266|Tôi đâu có nói với ông!
+267|Đừng nhìn chằm chằm vào tôi như thế!
+268|Tôi sợ quá!
+269|Bụng ông ta là sư tử!
+270|Ồ? Mày định nhìn tao bằng ánh mắt thách thức đó à?
+271|Chuyện gì vậy?
+272|Đó! Sư tử táp trúng hạ bộ hắn rồi!
+273|Nhưng mà...
+274|vì chung một thân thể nên hạ bộ của hắn cũng thuộc về sư tử!
+275|Sao hắn không biết rút kinh nghiệm nhỉ?
+276|Sếp Holdem.
+277|Ta xử lý con nhóc này thế nào?
+278|Sếp Holdem!
+279|Vậy mày tên là Otama.
+280|Một con nhãi yếu ớt như mày sao có thể...
+281|thuần hóa được con khỉ đầu chó hung dữ?!
+282|Người của tao thấy mày làm rồi!
+283|Đừng giả vờ không biết!
+284|Chắc chắn mày có sức mạnh trái ác quỷ thật sự.
+285|Nào...
+286|Khai ra đi!
+287|Otama!
+288|Năng lực của em có thể bị kẻ thù thèm muốn.
+289|Em tuyệt đối không được để người ta thấy em dùng nó!
+290|C-Chỉ là...
+291|động vật...
+292|thường quý mến em thôi.
+293|Ồ!
+294|Ra vậy!
+295|Chỉ có thế thôi à!
+296|Vâng, đúng rồi.
+297|Mày tưởng tao là đồ ngốc à?!
+298|Đồ nhãi ranh chết tiệt!
+299|"Con bé xé toạc một phần má." Họ đã nói với tao như vậy.
+300|Nếu mày không chịu nói...
+301|thì tao sẽ tự thử.
+302|Này, mang cái kìm đến đây!
+303|Rõ, thưa sếp!
+304|Không phải cái đó! Cái lớn hơn!
+305|Anh Luffy...
+306|Cứu em! Anh Luffy!
+307|Tama!
+308|Đứng lại! Chúng mày không tiếc mạng sao?!
+309|Kẻ xâm nhập!
+310|Thị trấn Bakura ở ngay sau bọn chúng!
+311|Luffy! Chúng ta không có thời gian đánh mấy tên yếu đuối này!
+312|Tôi biết!
+313|Cứ lao tới đi, chó con!
+314|Hả?!
+315|Đại ca!
+316|Có chuyện rồi!
+317|Đại ca!
+318|Gì vậy? Sao các ngươi hốt hoảng thế?
+319|Là Mũ Rơm và Roronoa!
+320|Mũ Rơm đang ở Wano ư?! Vậy là... cuối cùng hắn cũng đến...
+321|Mũ Rơm và Roronoa đang xông vào thị trấn Bakura!
+322|Này, khoan đã! Thế chỉ rước thêm rắc rối thôi!
+323|Đúng là vậy...
+324|Đại ca?
+325|Đại ca?!
+326|Đi ngăn mấy tên ngốc đó thôi!
+327|Rõ, thưa đại ca!
+328|Đừng làm vậy...
+329|Tao sẽ dừng ngay khi mày cho tao xem năng lực.
+330|Tama!
+331|Hả?!
+332|Cậu vừa làm gì đó sao?!
+333|Đó là haki!
+334|Haki?
+335|Haki Bá Vương.
+336|Zorojuro Kẻ Chém
+337|Nhà hàng
+338|Budo

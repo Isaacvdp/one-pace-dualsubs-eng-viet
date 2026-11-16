@@ -1,0 +1,386 @@
+1|Sir Kin'emon! Sir Denjiro!
+2|Best of luck!
+3|To you as well!
+4|We have no money, Lord Oden!
+5|Truly?!
+6|We have nothing to eat for supper!
+7|Okay, I have a job for you!
+8|Go to town and beg for food!
+9|Again?!
+10|I am sure it was painful, everyone.
+11|Kin...
+12|For now, let us march on.
+13|Izo...
+14|Have you made peace with perishing here?
+15|I will not miss another chance to die.
+16|Then let us go.
+17|Okiku.
+18|Make your choice, samurai of Orochi!
+19|Do you wanna die alongside your lord Orochi here?!
+20|Or will you conquer the world with us?!
+21|I'm well aware of how loyal you samurai are.
+22|I admire even those of you who challenge us!
+23|The 5,000 strong Oniwabanshu, the ninja force of Wano!
+24|Allow us to serve you!
+25|Likewise, the samurai of Wano, 5,000 strong!
+26|Henceforth, we serve you!
+27|Welcome aboard!
+28|Shogun Orochi...
+29|Well, that's that...
+30|Good to hear! I didn't wanna turn coat and have to kill you guys outta nowhere!
+31|Pleasure workin' with ya!
+32|They have no right to be called samurai!
+33|Hold it in for now, Boss Hyogoro!
+34|To think you actually brought that worthless shogun's troops to our side...
+35|You're not half bad.
+36|Now our forces are really coming together.
+37|Let me go!
+38|No! Get off me!
+39|Keep them restrained.
+40|I'm not letting you get away with this!
+41|If Shinobu can escape, we still have a chance!
+42|I'm sorry, Onami!
+43|I must advance!
+44|Hurry and help Momo!
+45|Lord Oden knew!
+46|He knew that felling Orochi would change nothing!
+47|The only one in need of defeat for the past twenty years has been Kaido!
+48|As it stands now, within Wano...
+49|there's no shogun or any samurai serving him!
+50|The unwitting citizens of the Flower Capital...
+51|must be enjoying the festivities too much to see that this will be their last day.
+52|Hey, brat!
+53|I've had my doubts for a while.
+54|A coward like you...
+55|can't be the son of a daredevil like Kozuki Oden!
+56|I...
+57|This execution will bring about an end to the old Wano.
+58|Looking back on that day twenty years ago...
+59|inside that burning castle...
+60|you never answered my question!
+61|Please... save me...!
+62|What is your name?
+63|Answer!
+64|Father!
+65|Somebody, help me!
+66|If you aren't the son of Kozuki Oden and Toki,
+67|I'll call off the execution immediately.
+68|After all, such a false accusation would tarnish my reputation.
+69|However, if you still insist on calling yourself their son...
+70|you'll face the same fate Oden did.
+71|I'll ask you one more time, brat.
+72|What is your name?!
+73|Viceroy Kaido is so generous!
+74|All the rugrat has to do is lie and he gets to live!
+75|Think up a good name, kiddo!
+76|Even if you have to lie, please choose to survive!
+77|Lord Momonosuke!
+78|What?! Then that boy...
+79|is the real Kozuki Momonosuke?!
+80|That's right!
+81|Oden's retainers are all alive!
+82|What?!
+83|Intruders!
+84|Outta my way!
+85|If all the Red Scabbards samurai I saw that day are...
+86|If they're all alive, then that's wonderful!
+87|Just wonderful!
+88|I can hardly believe it!
+89|Momonosuke is waiting for you!
+90|Let's hurry!
+91|The Nine Red Scabbards are here, right?!
+92|Lemme go, Yamabro!
+93|Yamabro? Why are you calling me that?
+94|Please stop, Young Master Yamato!
+95|Stop!
+96|Young Master Yamato and Straw Hat Luffy are heading your way!
+97|To the Performance Floor?
+98|Yes! We'll catch them!
+99|Don't bother.
+100|You're no match–
+101|They dare to mess with my men?!
+102|Yamato!
+103|You're gonna pay for this!
+104|No way! Usopp, not over here!
+105|It looks dangerous!
+106|You heard the broadcast earlier!
+107|They're gonna kill Momo!
+108|The giants!
+109|They'll gobble us up!
+110|Turn around, Usopp!
+111|Stow your fears, Chopper!
+112|We fought an Emperor to a standstill!
+113|Believe in the General Franky! It was tough enough to withstand Big Mom's attacks!
+114|I can't!
+115|I can't handle these monsters!
+116|Never give up!
+117|Never surrender!
+118|Tank Commander Chopper, what are your orders?!
+119|Retreat! Retreat!
+120|Are you scared?!
+121|Cut the "samurai" crap!
+122|I'm gonna be King of the Pirates someday!
+123|Because your father is a great man...
+124|and you will one day carry this nation on your shoulders.
+125|The meaning of your name?
+126|Yes!
+127|I want you to grow into a compassionate, open-minded, and admirable man.
+128|Momo!
+129|Momo...
+130|means peerless!
+131|My name is...
+132|Kozuki Momonosuke!
+133|One day, I will become...
+134|the shogun of Wano!
+135|Lord Momonosuke!
+136|I swear I will save you no matter the cost, Lord Momonosuke!
+137|Well said, Momonosuke!
+138|We're almost there, Luffy!
+139|Let me take these off!
+140|I promised you!
+141|If you would!
+142|However, just to be safe...
+143|please throw them far away.
+144|Although, I doubt they'll explode...
+145|Is Wano filled with only halfwits?!
+146|Father... Mother...
+147|I merely wished to be a man...
+148|who would be free of shame when next he sees you in the afterlife.
+149|Hiyori, I wish I could see you again, even if for a moment...
+150|I do not want to die!
+151|I do not want to cry!
+152|A samurai should not cry in front of others...
+153|How shameful...
+154|They came off!
+155|Hot, hot, hot, hot, hot!
+156|Wh–
+157|Luffy?!
+158|Dammit!
+159|That freaking cowrilla!
+160|He was going to kill me!
+161|What was that explosion?!
+162|Go find out, pronto!
+163|Now it's clear to me.
+164|That man is no longer my father!
+165|Was this your doing, you spoiled brat?!
+166|Hold on, Yamabro!
+167|You stupid old man!
+168|We made it just in time...
+169|but it's not gonna be me or Yamabro.
+170|We're not the ones who'll start this battle!
+171|The Red Scabbards!
+172|Where did they come from?!
+173|The rulers of the minks?!
+174|They're alive!
+175|You damn ghosts! Prepare for my counterattack!
+176|Izo!
+177|Hey, dumbasses!
+178|Quit drinking already!
+179|Go grab your weapons!
+180|It's a raid!
+181|Are you...
+182|Kyoshiro?!
+183|Kaido!
+184|You half-ghost bastards!
+185|Surrender Name And Thoughts...
+186|Calm all Hesitation!
+187|Your blades...
+188|cannot cut me!
+189|Stake your lives on this blow!
+190|Oden!
+191|Never set foot in Wano again!
+192|SNATCH!
+193|SNATCH!
+194|Oden Two-Sword Style:
+195|Halcyon Totsuka!
+196|The scar Oden left me with...
+197|Why does it hurt?
+198|How do these blades pierce my body?!
+199|Do not underestimate my samurai!
+200|They can forget me...
+201|for all I care...
+202|but...
+203|my spirit will live on!
+204|Are they using Oden's ryuo?!
+205|Pierce through!
+206|They really are Oden's retainers!
+207|They sure are strong!
+208|Quite the deadly banquet!
+209|Did Kaido kick the bucket?
+210|Fight back!
+211|Kill those Red Scabbard rats!
+212|So Straw Hat, Kid, and all the others were merely distractions for this ambush?!
+213|Stay alert, you guys!
+214|There could still be intruders around here!
+215|Spot on!
+216|Open your ears, weaklings!
+217|We won't let you bring harm to Kin'emon and his samurai!
+218|Alright! Let's get in on this!
+219|We'll give Kaido another beating!
+220|There you are!
+221|Yamato!
+222|Headbutt!
+223|Ulti!
+224|The nerve, striking me as you did!
+225|I am on your side, yet you brutally assaulted me,
+226|and now you're running around the place with that Straw Hat...
+227|Whatever are you doing?!
+228|Nothing to get upset over.
+229|The day that I become Kozuki Oden is finally here!
+230|What are you talking about?! Are you crazy?!
+231|Young Master Yamato, we have a problem!
+232|Your father was just attacked,
+233|and now the floor is swarming with enemies!
+234|Please stop fooling around!
+235|I'm well aware!
+236|I'm not your ally anymore, and I don't give a damn if my father dies!
+237|– What?! – What?!
+238|What is it this time?
+239|This banquet is getting far too rowdy...
+240|Gum-Gum...
+241|Elephant Gun!
+242|That boy...
+243|Oh crap!
+244|She saw Luffy!
+245|Big Mom!
+246|But I'm busy right now!
+247|I finally found you...
+248|Straw Hat!
+249|Ulti...
+250|Mortar!
+251|Carrot! Let's make a break for it!
+252|Got it!
+253|Better get ready!
+254|Black Ball!
+255|Hey, are you okay?!
+256|Here goes!
+257|Same here!
+258|Thundercloud Rod!
+259|Eleclaw!
+260|Ninpo: Ectoplasm Thunder!
+261|Ninpo: Ectoplasm Thunder!
+262|We did it!
+263|You came into my territory and disgraced my crew!
+264|So I came all the way from Totto Land to kill you!
+265|Straw Hat!
+266|Why are you here?
+267|And don't tell me it's to take down Kaido, because that'd be too damn rich.
+268|It's not that!
+269|What?
+270|Luffy?!
+271|What do you mean, Sir Straw Hat?!
+272|It's not, Luffy?!
+273|No!
+274|I'm...
+275|After twenty years,
+276|the Red Scabbards samurai will come to get their revenge...
+277|Nobody believed Orochi's delusions, but it would seem they're coming to pass.
+278|I can't believe you made common cause with pirates.
+279|The rumor about the shadows at the ruins of Oden Castle...
+280|Punk Hazard.
+281|Dressrosa.
+282|The phantom island Zou.
+283|And the crew behind it all, the Straw Hat Pirates!
+284|By some curious coincidence,
+285|you people were hiding in the shadows of my enemies, the Straw Hats.
+286|Some of you held out for twenty years, while others jumped ahead and ran about,
+287|and just like that, your troops were gathered.
+288|But pirates will stab you in the back!
+289|The moment they sense defeat, they'll abandon you and run.
+290|I've already taken Straw Hat Luffy out once!
+291|You slander the man!
+292|Sir Luffy and your band could not be more different!
+293|You, Kaido, the officers, Orochi, and every last person under them!
+294|I'm here to kick all your asses!
+295|He is the man who will stand at the pinnacle of the sea someday!
+296|Even if we die, he shall live on!
+297|Wano will see daybreak once more!
+298|Because...
+299|such was the promise we made to our lord!
+300|It's gonna be an all-out war!
+301|Don't push your luck.
+302|You only have a few hundred troops!
+303|She's right, numbskulls.
+304|What?
+305|It's an emergency!
+306|Thousands of intruders are entering from the rear!
+307|What?!
+308|How's that possible?!
+309|Let's go!
+310|Fine!
+311|If you want it so bad...
+312|I'll cut you up as much as you like.
+313|Screw you!
+314|Exactly...
+315|Right back at you!
+316|But why...?!
+317|A samurai...
+318|Sir Zorojuro! We are by your side!
+319|This is Point C!
+320|It's all the samurai we caught in the Flower Capital...
+321|and the prisoners from Udon!
+322|What the hell is happening?!
+323|Punk...
+324|Gibson!
+325|Don't fall behind, boys!
+326|Thank you for clearing the way for us this far.
+327|Keep your thanks.
+328|I'm only here to take Kaido's head.
+329|Get in my way, and I'll take yours too.
+330|Appreciate the warning.
+331|Room!
+332|Go to hell!
+333|Amputate!
+334|Shambles!
+335|What?
+336|The pirates that Sir Kin'emon brought...
+337|are pretty damn strong!
+338|How did this all happen?!
+339|A former Warlord, Law, has arrived as well.
+340|They're all working together and gaining power!
+341|Say what?!
+342|Your Awesomeness!
+343|There's more?!
+344|At the entrance of the island,
+345|Marco the Phoenix and Perospero are working together–
+346|Hey! What happened?!
+347|Hello?!
+348|Candy Maiden!
+349|What's going on?!
+350|Why are they teaming up?!
+351|And now begins the ogre extermination.
+352|I'll turn every last lickety-one of the Beast Pirates into candy men.
+353|Attention, drunkards of Onigashima!
+354|Tonight's banquet is canceled!
+355|Go grab your weapons!
+356|It's an enemy raid!
+357|Everyone...
+358|Kaido may be gone, but there are still three Superstars present.
+359|I'm sure there will be a chance!
+360|Lord Momonosuke!
+361|Please wait just a little longer...
+362|Let's do this!
+363|We will take back Wano!
+364|I heard that, Straw Hat!
+365|You say you'll kick my ass?
+366|Then go ahead and try!
+367|I accept your challenge!
+368|I'll show you the world's greatest army!
+369|Sir Luffy!
+370|Many thanks!
+371|Kin'emon! I'll catch up later!
+372|Kaido...
+373|I've completely sobered up.
+374|If it's a fight to the death you want, it's best out in the open.
+375|Just like that day...
+376|But unlike that day, Oden's already dead.
+377|There's one more difference from that day.
+378|We deduced that when you turn into a dragon,
+379|you wouldn't be able to fight in the dome.
+380|You can't understand how I've longed for this day!
+381|You will know our rage when we beat it into you!
+382|The minks...
+383|We brought the warriors from our kingdom.
+384|A flurry of snow in the clear sky...
+385|Perfect for watching the full moon.
+386|Rear Entrance

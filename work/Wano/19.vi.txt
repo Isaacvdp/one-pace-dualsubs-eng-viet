@@ -1,0 +1,387 @@
+1|Ka...
+2|Kawa...
+3|Kawamatsu?!
+4|Có phải...
+5|thật là ngài không?!
+6|Ngài còn sống!
+7|Còn... dù suốt mười ba năm tại hạ chỉ ăn cá ôi.
+8|Để tại hạ nhìn mặt ngài nào, Kawamatsu!
+9|Tiếc là tại hạ đang bị xiềng.
+10|Gì cơ?!
+11|Khi nào trận chiến bắt đầu?
+12|Chín ngày nữa, vào đêm Lễ hội Lửa!
+13|Chém đầu Kaido ngay trong lễ hội của hắn là cách bái tế hắn tuyệt nhất!
+14|Xin lỗi Raizo, nhưng ngài giúp tại hạ ra khỏi đây trước được không?!
+15|Tất nhiên rồi! Tại hạ làm ngay!
+16|Có vẻ phải có chìa khóa của cả cái lồng lẫn còng thì mới thả ngài ra được.
+17|Đúng vậy. Có điều rỉ sét có thể khiến chúng khó mở.
+18|Có người ở phòng giam cấm kìa!
+19|Ai đó?!
+20|Chính là hắn!
+21|Thưa Solitaire!
+22|Tìm ra tên trộm chìa khóa ở Tháp Cán bộ rồi!
+23|Đừng để hắn chạy thoát!
+24|Ôi không!
+25|Nhẫn thuật Độn Khói!
+26|Hắn biến mất rồi!
+27|Chắc chắn là ninja!
+28|Tìm hắn!
+29|Được rồi, tên trộm chìa khóa để mọi người lo, còn...
+30|mang cái đó ra đây!
+31|Rõ...
+32|Có mấy tên ngốc cần xử tử đây!
+33|– Rõ, thưa ngài! – Rõ, thưa ngài!
+34|Này! Lại đây!
+35|Bắt đầu nào!
+36|Xin mời đón xem màn trình diễn thiết bị đặc biệt của Siêu sao Queen:
+37|Sumo Địa Ngục!
+38|Sumo?
+39|Cái quái gì vậy...?!
+40|Đây chính là cái vòng cổ bọn ta vừa đeo cho tụi bây mà!
+41|Tưởng tượng cột đá này là tụi bây đi!
+42|Cứ để cái thứ đó trên võ đài và...
+43|Đáng sợ quá!
+44|Như các ngươi vừa thấy đó, hễ bước ra ngoài vòng là lưỡi dao sắc bén bật ra,
+45|chém đứt đầu ngay lập tức!
+46|Khốn kiếp! Y hệt vòng cổ của Thiên Long Nhân!
+47|Dĩ nhiên nó được thiết kế để không thể gỡ ra bằng sức, nên đừng có thử!
+48|Cứ thắng sumo thì các ngươi sẽ không sao!
+49|Nhưng bước ra khỏi vòng là chết ngay!
+50|Hai ngươi đấu cặp! Cứ coi như xử tử thành công khi cả hai cùng ra khỏi vòng!
+51|Nhưng nếu đổi ý và gia nhập băng bọn ta,
+52|ta sẽ tha riêng mình ngươi, Mũ Rơm!
+53|Phe bọn ta sẽ dùng vũ khí, đông người, và không đeo vòng cổ!
+54|Bọn ta muốn triển khai bao nhiêu người cũng được.
+55|Vì vậy ta sẽ làm cho ngươi một ân huệ này:
+56|Ta sẽ tháo còng Hải Lâu Thạch cho ngươi!
+57|C-Cái gìii?!
+58|Sau bao nhiêu công sức của tôi!
+59|Khoan, vậy đây không phải chìa khóa còng của ngài Luffy sao?!
+60|Yay!
+61|Rốt cuộc ông cũng là người tốt!
+62|Nghĩa là ông thả bọn tôi ra rồi!
+63|Quên cái vòng cổ rồi à?
+64|Giờ trên người ngươi còn có thứ tệ hơn đấy!
+65|À, ừ nhỉ.
+66|Khoan đã!
+67|Ở chung đội thì tôi chỉ cản chân Mũ Rơm thôi!
+68|Ít nhất cũng xử tử bọn tôi riêng ra được không?!
+69|Này, bóng bay!
+70|Bóng bay?!
+71|Mũ Rơm!
+72|Nếu tao đá bay mày...
+73|thì mày có thả bọn tao ra khỏi đây không?!
+74|Đây rồi.
+75|Ngươi là kẻ đã trộm kiếm của ta, đúng không?
+76|Đó không phải kiếm của ngươi...
+77|Danh kiếm Shusui đã được trả về nơi nó thuộc về rồi.
+78|Đó là bảo vật bị trộm khỏi mộ của samurai huyền thoại Wano, Ryuma!
+79|Tao biết!
+80|Vậy thì im lặng và quay về đi!
+81|Nếu không ta sẽ lấy luôn hai thanh kiếm đeo bên hông ngươi!
+82|Hóa ra là kẻ sưu tập vũ khí hả?
+83|Ngươi định làm gì với đống đó?
+84|Trùng hợp là bọn ta cũng cần cả đống vũ khí,
+85|nên ngươi đến đúng lúc lắm.
+86|Bộ sưu tập đó của ngươi...
+87|Tao sẽ lấy hết!
+88|Ngươi phải hạ được ta trước đã, tên cướp núi!
+89|Xin lỗi nếu ngươi hiểu lầm...
+90|nhưng ta là...
+91|hải tặc!
+92|Ngươi làm ta buồn cười đấy.
+93|Thưa Ngài Tuyệt Vời! Bắt đầu rồi hắn sẽ hiểu thôi!
+94|Hắn chưa biết trò này gian lận cỡ nào!
+95|Hắn không biết khả năng sống sót của mình là bao nhiêu đâu!
+96|Đúng thế!
+97|Chuẩn bị vào võ đài đi, các ngươi!
+98|– Tử chiến! Tử chiến! Tử chiến! – Tử chiến! Tử chiến! Tử chiến!
+99|Đ-Đông quá...!
+100|Chưa kể bọn chúng vũ trang tận răng.
+101|Các ngươi không có vũ khí đâu!
+102|Thấm chưa, các ngươi là người chết biết đi rồi đấy!
+103|– Tử chiến! Tử chiến! – Tử chiến! Tử chiến!
+104|– Tử chiến! Tử chiến! Tử chiến! – Tử chiến! Tử chiến! Tử chiến!
+105|An nghỉ nhé, ông Hyo và Mũ Rơm...
+106|Nhìn thẳng vào đối thủ!
+107|Sẵn sàng...!
+108|Bắt đầu!
+109|Những tù nhân còn lại, nhìn cho kỹ mà học!
+110|Chống lại lính canh sẽ ra nông nỗi này!
+111|Tiếp theo là ai?! Chưa đủ để khởi động nữa!
+112|– Cái gìii?! – Cái gìii?!
+113|Vừa rồi hắn dùng...?!
+114|Hóa ra hắn có Haki Bá Vương.
+115|Ngươi...
+116|Có vẻ sẽ thú vị đây.
+117|Bọn Pleasures, vào võ đài!
+118|Từ khi hắn xuất hiện, mọi chuyện đã ồn ào lên nhiều...
+119|Chỉ cần đừng để Đại ca Hyogoro chết.
+120|Tôi trông cậy vào cậu, Luffytaro.
+121|Có đột kích!
+122|Là Hawkins, một Headliner của băng Bách Thú!
+123|Không ai được động đậy!
+124|Các ngươi muốn gì ở một nhà tắm?
+125|Kiểm tra nhà tắm là lý tưởng nhất...
+126|vì ai cũng trần truồng nên bọn ta thấy hết mọi thứ.
+127|Drake, ngươi làm gì vậy? Vào trong đi.
+128|Nhiệm vụ của tôi chỉ là hạ tên ngốc Soba Mask đó.
+129|Việc bẩn thỉu thì tự mà làm.
+130|Làm sao đây Shinobu?! Chắc họ biết về chúng ta rồi.
+131|Họ đến vì chúng ta.
+132|Không công bằng! Ở đây chúng ta không có phòng bị!
+133|Có nên đánh không?
+134|Chỉ là biện pháp cuối cùng.
+135|Phụ nữ trưởng thành không nên tùy tiện rút vũ khí.
+136|Núp sau lưng tôi.
+137|Mọi người xếp hàng và đưa mắt cá chân ra cho bọn ta xem!
+138|– Cái gì?! – Cái gì?!
+139|Ai có hình xăm trăng khuyết ngược ở mắt cá chân thì đi theo bọn ta!
+140|Nghĩa là cả việc ra khỏi bồn tắm nữa!
+141|Không tin nổi. Sao hắn biết được?!
+142|Khám người họ.
+143|– Rõ, thưa ngài! – Rõ, thưa ngài!
+144|Kế hoạch bị lộ rồi sao?
+145|Có người ở phía sau!
+146|Ra đây!
+147|Nami! Có chuyện gì thì tôi đỡ cho cậu.
+148|Xin lỗi, tôi đâu có định trốn!
+149|Tôi chỉ là một khách tắm thôi.
+150|Cô...!
+151|– Dynamite! – Ôi trời! Cô ấy là báu vật quốc gia!
+152|Quá sức chịu đựng!
+153|Không thể tin nổi!
+154|Mạnh quá sức tưởng tượng, Nami!
+155|Là Cú Đấm Hạnh Phúc của cô ấy!
+156|Cái gì...?
+157|Đó là...? Là gã hôm qua.
+158|Soba Mask!
+159|Na... mi...
+160|Thân hình Nami tuyệt đẹp như dòng sông hùng vĩ cuộn chảy...
+161|Sanji! Sao anh lại ở đây?!
+162|Anh mặc cái gì vậy?! Đùa à?!
+163|Drake!
+164|Soba Mask?!
+165|Hắn ở trong đó suốt!
+166|Này! Soba Mask đâu?!
+167|Cái gì?!
+168|Đâu–
+169|Đáng lẽ phải nói cho tôi biết là cậu ngại đàn bà khỏa thân chứ!
+170|Tôi không...
+171|Drake... ngươi đến từ North Blue, đúng không?
+172|Ngươi cũng vậy... Thì sao?
+173|Vậy ngươi biết hắn chứ?
+174|Đó là người của Germa 66...
+175|Stealth Black!
+176|Đứng lại!
+177|Bọn ta vẫn đang tìm–
+178|Cơ hội đây rồi!
+179|Xuống địa ngục đi, Germa 66!
+180|Soba Mask!
+181|Có phải thiết bị truyền tin của Stealth Black không?!
+182|Bám chắc vào!
+183|Hắn bay rồi! Đuổi theo!
+184|Đúng là Stealth Black...!
+185|Lần sau tôi sẽ bắt hắn!
+186|Sanji, giải thích đi chứ?!
+187|Chuyện dài lắm! Lát nữa tôi kể!
+188|Anh không mất nhiều máu quá sao?
+189|Giờ tôi chết cũng mãn nguyện!
+190|Dù sao thì việc họ phát hiện ra hình xăm ở mắt cá chân thật phiền phức!
+191|Phải... Không biết họ biết bằng cách nào...
+192|Trên đường tới nhà tắm, tôi nghe thêm một tin xấu.
+193|Nhóm của Bepo bị bắt rồi!
+194|– Cái gì? – Cái gì?
+195|Có vẻ băng Bách Thú dùng thuộc hạ của Traffy làm mồi nhử.
+196|Chắc chắn cậu ấy sẽ muốn cứu họ.
+197|Họ là thuộc hạ của cậu ấy mà.
+198|Không thể để cậu ấy làm vậy.
+199|Hoa Đô sẽ rơi vào hỗn loạn!
+200|Còn các người thì lãng phí thời gian làm gì vậy?
+201|Tôi muốn ăn oshiruko ngay bây giờ.
+202|Này, vẫn chưa tới tiệm Udon đó à?
+203|Chopperemon!
+204|Tôi đói quá.
+205|Đừng có nhìn tôi mà chảy nước miếng!
+206|Sắp tới rồi, Olin!
+207|Đến Udon rồi, mình sẽ cứu anh Luffy.
+208|Và sau đó...
+209|mình sẽ được...
+210|ăn súp oshiruko!
+211|Cậu cũng thích hả, Otama?
+212|Dạ, cháu thích lắm!
+213|Chị Otsuru đã đãi cháu ăn nhân dịp sinh nhật!
+214|Miệng cháu từ từ tràn ngập vị ngọt của bột đậu đỏ...
+215|Nó thật sự làm cháu sướng cả vị giác.
+216|Biết mà!
+217|Bột đậu đỏ là nhất!
+218|Ừ! Ừ! Chắc chắn rồi!
+219|Ừm! Ừm!
+220|Bột đậu đỏ! Và mochi!
+221|Đó là thứ mềm nhất và ngon nhất tôi từng ăn!
+222|Biết mà, biết mà!
+223|Mochi sáng bóng như con mắt ếch!
+224|Cái gì?!
+225|Mắt ếch á?
+226|Olin, nghe hơi ghê đó.
+227|Vậy hả?
+228|Thì nghĩ lại...
+229|Tôi không nhịn được chảy nước miếng.
+230|Tôi không ăn được đâu!
+231|Tôi thật sự không đợi nổi để ăn oshiruko!
+232|Họ háo hức oshiruko dữ quá.
+233|Không ổn rồi.
+234|Phải làm sao đây?
+235|Khi bà biết là không có oshiruko,
+236|cú sốc có thể làm bà nhớ lại,
+237|và bà sẽ lại thành Big Mom!
+238|Mũ Rơm!
+239|Thay vì cứu Luffy, chúng ta sẽ đẩy cậu ấy vào nguy hiểm!
+240|Phải làm sao đây?!
+241|Phải làm sao đây?! Tôi biết làm gì bây giờ?!
+242|Cho thêm súp nữa!
+243|Vâng, thưa ngài!
+244|Luffytaro thắng!
+245|Cậu làm được rồi, Luffytaro!
+246|Phi thường! Cậu hạ hết bọn Pleasures rồi...!
+247|Không phải cái đó.
+248|Cái gì không phải? Cậu lại thắng rồi mà!
+249|Thì Rayleigh làm dễ dàng lắm.
+250|Rayleigh?
+251|Ừ.
+252|Luffy...
+253|hãy tưởng tượng dùng Haki Vũ Trang như mặc một bộ giáp vô hình.
+254|Hồi đó Rayleigh làm con voi bay đi mà không chạm vào nó.
+255|Lần đầu ổng cho tôi xem haki, nó đã cực kỳ cao cấp.
+256|Giá mà tôi làm được vậy...!
+257|Cứ thế này chẳng đi tới đâu!
+258|Nếu cho tôi xông vào thì xử tử xong ngay!
+259|Ngươi không hiểu cái hay của Sumo Địa Ngục!
+260|Nghe này,
+261|trận đấu hấp dẫn nhất là khi có thời gian và số đông.
+262|Nó sẽ từ từ bào mòn tinh thần và sức lực của hắn cho tới khi hắn chết thảm.
+263|"Xử tử xong ngay"?!
+264|Đừng có ngu thế.
+265|Như vậy chẳng thú vị chút nào!
+266|Cho thêm một chén nữa!
+267|Lại nữa à?! Cậu đã ăn bao nhiêu súp đậu đỏ rồi!
+268|Kệ mày! Súp đậu đỏ với tao như không khí!
+269|Của cậu đây.
+270|Không ai khác được ăn!
+271|Oshiruko này của tao vì tao thích nhất!
+272|Súp của tao!
+273|Đánh đối thủ bay đi như thể tao mặc giáp vô hình!
+274|Ngài Mũ Rơm, ngài đang...?
+275|Được rồi!
+276|Tao muốn tập! Lại đây!
+277|Tao đã gặp Ryuma.
+278|Đừng có nói dối ta!
+279|Ngươi gặp Ryuma?!
+280|Ngươi nghĩ ta tin cái thứ vớ vẩn đó sao?!
+281|Thì linh hồn ổng thuộc về một người khác mà tao quen.
+282|Đừng nói nhảm nữa!
+283|Làm sao ngươi biết Ryuma được?!
+284|Ryuma là kiếm sĩ vĩ đại có thể đánh bại bất kỳ đối thủ nào trong chớp mắt!
+285|Ngươi không biết danh kiếm Shusui quý giá thế nào đâu!
+286|Shusui là bảo vật thiêng liêng của Wano! Nó thuộc về Ryuma!
+287|Ngày xưa, khi thế giới bên ngoài
+288|coi Wano là xứ sở của vàng...
+289|Vàng? Ngươi đang nói gì vậy?
+290|Sơ hở!
+291|Hải tặc khắp thế giới thèm khát vàng của chúng ta.
+292|Bọn quý tộc muốn cai trị Wano, xứ sở của vàng này!
+293|Nhưng có một người đã cho bọn xâm lược ngoại bang thấy ông ấy đáng gờm cỡ nào...
+294|và khắc sâu samurai Wano vào tâm trí chúng!
+295|Ryuma là người như thế.
+296|Có vô số truyền thuyết về kiếm thuật của ông ấy.
+297|Chẳng hạn như...
+298|người ta kể ông từng chém chết một con rồng bay trên kinh đô!
+299|Sau khi mất, được tôn là Kiếm Thần của Wano,
+300|ông được an táng trong một ngôi đền cùng danh kiếm Shusui.
+301|Shusui là quốc bảo!
+302|Được rồi. Tao hiểu.
+303|Nhưng ngươi bỏ qua đoạn tao phải quan tâm rồi!
+304|Tao sẽ lấy lại Shusui!
+305|Có hai thanh kiếm tao thấy sao sao ấy.
+306|Chẳng phải ngươi đang đánh giá quá cao bản thân sao?
+307|Shusui là thanh kiếm đen!
+308|Nói cách khác, nó được rèn nên qua những trận chiến Ryuma đã đánh!
+309|Ta chỉ xác nhận xem ngươi có phải thằng nhóc hèn nhát không có quan hệ thật sự với thanh kiếm hay không!
+310|"Rèn nên"?
+311|À ừ, tao cũng thắc mắc chuyện đó...
+312|Cứu với!
+313|Sơ hở!
+314|Thằng khốn...!
+315|Đừng có cố bắt tao khi tao sơ hở!
+316|Tìm sơ hở là thiết yếu trong cuộc chiến sinh tử! Ta chỉ làm vậy thôi!
+317|Ai đó cứu với! Có người đang định giết bọn tôi!
+318|A! Có samurai kìa!
+319|Này! Cứu bọn tôi với!
+320|Họ nghiêm túc hay chỉ đùa vậy? Tôi không biết nữa!
+321|Các kiếm sĩ, xin hãy cứu giúp!
+322|Hửm? Máu?
+323|Chắc họ không đùa.
+324|Đứng lại đó!
+325|Sơ hở!
+326|Không đợi được sao?!
+327|Này, hiểu ý chút đi!
+328|Trận đấu của chúng ta chưa xong!
+329|Tao sẽ kết thúc trận đấu chết tiệt này! Đợi một chút!
+330|Ngươi là kẻ giết người... Zorojuro, đúng không?
+331|Zorojuro, sao ngươi lại muốn giúp người đàn bà đó?
+332|Sao ngươi lại muốn chém cô ta?
+333|Ta chỉ nhắm vào thằng nhóc cứ cười mãi.
+334|Đừng lo, Toko.
+335|Kamzo Thần Chết.
+336|Ngươi nổi tiếng là kẻ chém người bừa bãi trên phố kinh đô, nhưng thực chất...
+337|ngươi là sát thủ của Orochi giả dạng kẻ ngoài vòng pháp luật!
+338|Nếu không thì sao lại nhắm vào Otoko?
+339|Ta thấy ngươi không gọi tướng quân bằng chức danh.
+340|Mà ngươi là ai vậy?
+341|Ngài samurai, xin hãy giúp bọn tôi!
+342|Thì tất nhiên tao không đứng nhìn một đứa nhỏ và một người phụ nữ bị giết...
+343|Tôi sẽ báo đáp ngài bằng mọi cách có thể!
+344|Tao không ngại chút đồ ăn với rượu sake.
+345|Xong.
+346|Được! Thỏa thuận!
+347|Ta không phản đối. Ta được phép giết bất kỳ ai cản đường.
+348|Hạ đám tay sai như ngươi thường làm ông chủ phật ý.
+349|Đừng lo!
+350|Người sắp chết là ngươi!
+351|Hắn khá mạnh!
+352|Có vẻ ngươi bắt đầu nghiêm túc rồi.
+353|Vẫn cảm giác còn thiếu thứ gì đó.
+354|Tui đói gấu lắm rồi!
+355|Nếu tui thắng Mũ Rơm, ngài có chịu cho tui hết bánh bao của tù nhân không?
+356|Được. Cứ thoải mái!
+357|Ngài Queen thật gấu quá!
+358|Con gấu này giờ hăng hái gấp trăm lần!
+359|Cái gì?!
+360|Gấu lên đường nào!
+361|Gấu!
+362|Mấy cú đấm đó...
+363|chẳng gấu đau tí nào!
+364|Ngài Mũ Rơm!
+365|Trông nó có thể đáng yêu, nhưng vẫn là gấu!
+366|Người ta nói móng vuốt gấu đủ sắc để xé xác người!
+367|Cẩn thận!
+368|Gấu!
+369|Đánh nó bay...
+370|mà không chạm vào!
+371|Chết tiệt, khi dồn sức vào thì rốt cuộc tao vẫn đánh trúng!
+372|Ngươi đang...
+373|cố làm gì vậy?
+374|Quên đi.
+375|Tiếp tục nào!
+376|Tiếp theo!
+377|Sơ hở!
+378|Không rút ra được!
+379|Tạm dùng cái này vậy...
+380|Ba...
+381|thanh kiếm?!
+382|Tam Kiếm Lưu!
+383|Luyện Ngục...
+384|Oni Giri!
+385|Đáng sợ thật...
+386|Chết tiệt... Đây còn chưa phải trận cuối!
+387|N-Ngài samurai!

@@ -1,0 +1,281 @@
+1|Bị thương mà vẫn không bỏ cuộc...
+2|Thằng khốn đó...
+3|Dù sao cứ lần theo vệt máu này là được...
+4|Trả kiếm lại cho tao, chết tiệt!
+5|Cái nơi quái quỷ này là chỗ nào?
+6|Samurai kia đi theo gã sư khổng lồ đó sao...?
+7|Mà gã sư đó là ai vậy?
+8|Dù thế nào, tại hạ cũng mừng vì ngài bình an, Kawamatsu.
+9|Tại hạ biết ơn sự lo lắng của người vô cùng–
+10|Xin người lùi lại, thưa công chúa!
+11|Thằng khốn Kaido... Hắn truy lùng những kẻ sống sót như chúng ta không tha!
+12|Này, nhìn đằng kia kìa!
+13|Chúng bị diệt sạch rồi!
+14|Bắn nó thành tổ ong!
+15|Kappa Lưu:
+16|Yorikiri!
+17|Kawamatsu!
+18|Kawamatsu! Kawamatsu!
+19|Công chúa!
+20|Kawamatsu, ngài có bị thương không?
+21|Người không cần lo cho tại hạ.
+22|Có thể còn truy binh đang tới.
+23|Chúng ta nên rời khỏi nơi này.
+24|Lên đi! Đường phía trước hiểm trở.
+25|Khoan đã! Tôi không còn là trẻ con nữa, Kawamatsu!
+26|Vậy sao?
+27|Nhưng người lớn đâu có dỗi phồng má như cá nóc.
+28|Thôi đi, ông trêu tôi.
+29|Tôi nhớ điều này thật.
+30|Tại hạ không tin nổi mình lại được sánh bước cùng công chúa.
+31|Tôi có biết bao điều muốn nói với ngài, nhưng trước hết, sao ngài lại ở đây?
+32|Sau khi người biến mất, tại hạ đến đây vì một việc tầm thường...
+33|Vùng đất phía bắc Ringo này, cũng như Hakumai bên cạnh,
+34|do gia tộc Shimotsuki cai quản, nổi tiếng với sự dẻo dai.
+35|Vị daimyo tên là ngài Shimotsuki Ushimaru.
+36|Ngài là kiếm sĩ bậc thầy, luôn có một người bạn cáo bên cạnh.
+37|Một con cáo?
+38|Tuy nhiên, Ringo là một vùng nữa chịu cảnh tàn phá của Kaido.
+39|Công chúa, người có biết truyền thống làm Mộ Vĩnh Hằng của Ringo không?
+40|Có, thi thể trong các quan tài ở đây
+41|không bị phân hủy hàng thế kỷ nhờ cái lạnh.
+42|Đúng vậy. Hơn nữa, mộ luôn được đánh dấu bằng kiếm.
+43|Khi sinh ra, người Ringo được ban cho một thanh kiếm.
+44|Những lưỡi kiếm này ở bên họ từ thuở nhỏ đến lúc già.
+45|Khi chết, thanh kiếm họ từng mang đánh dấu ngôi mộ.
+46|Họ ở bên lưỡi kiếm của mình mãi mãi.
+47|Vì vậy nơi an nghỉ ấy được gọi là Mộ Vĩnh Hằng.
+48|Tuy nhiên, vài thanh kiếm ở đây là danh kiếm, nên nạn trộm mộ liên miên.
+49|Đó là một phần của vùng đất tên Ringo...
+50|Để tại hạ kể người nghe chuyện xảy ra khi tại hạ đến đây mười ba năm trước...
+51|Nếu phải mổ bụng tự sát, tại hạ đã quyết sẽ làm ở vùng này...
+52|Chết tiệt! Cái gì vậy, quái vật à?! Rợn người quá!
+53|Lần sau sẽ lấy vũ khí! Chạy!
+54|Đây là lời nguyền của samurai Ringo sao?!
+55|Phiền thật. Để tôi chết yên cũng không được sao?
+56|Chính là ngươi!
+57|Phải. Ta từng gặp ngươi một lần!
+58|Ngươi hẳn là Onimaru!
+59|Con cáo sư tử đó tên là Onimaru.
+60|Nó là bạn đồng hành của ngài Shimotsuki Ushimaru, daimyo quá cố của Ringo.
+61|Cái này... Ngươi đã một mình bảo vệ cái này sao?
+62|Hơn năm năm kể từ khi Ringo sụp đổ,
+63|Onimaru một mình chống lại những kẻ muốn cướp vũ khí ở Mộ Vĩnh Hằng.
+64|Giờ thì ngươi không phải sợ gì nữa.
+65|Ta là đồng minh.
+66|Ngươi bị thương rồi...!
+67|Onimaru! Cố lên!
+68|Ngươi tỉnh rồi!
+69|Đây, ta mang thức ăn cho ngươi!
+70|Ta nghe nói cáo thích đậu phụ chiên.
+71|Sao vậy? Không ăn thì vết thương không lành đâu.
+72|Ngươi phải sống để bảo vệ mộ chủ nhân.
+73|Cắn một miếng thôi. Nào, thử đi.
+74|Ôi, ta đau bụng. Chắc ăn quá nhiều!
+75|Nhưng không sao!
+76|Nào, ăn đi! Đừng ngại.
+77|Ồ! Ngươi thích sao?!
+78|Onimaru, bình tĩnh nào.
+79|Thứ lỗi! Ta biết trông thế nào!
+80|Buông ra!
+81|Làm sao giải thích cho ngươi đây?
+82|Ta không muốn làm phiền người chết đang yên nghỉ!
+83|Nhưng ta phải hành động ngay!
+84|Ngươi phải chạy trốn... đến tương lai.
+85|Mười ba năm nữa, một trận đại chiến sẽ lại bùng lên!
+86|Nghe ta nói!
+87|Sẽ có ngày samurai khắp cả nước tập hợp và ngẩng cao đầu!
+88|Khi ấy, chúng ta sẽ cần thật nhiều kiếm!
+89|Trên chiến trường, chiến binh tiến lên bằng vũ khí của đồng đội đã ngã xuống!
+90|Linh hồn trong những lưỡi kiếm này sẽ tiếp sức cho samurai giết địch!
+91|Nơi này vẫn là chiến trường!
+92|Nghe ta nói, Onimaru!
+93|Cuộc chiến giữa băng Bách Thú và Wano vẫn chưa kết thúc!
+94|Còn quá sớm để cho những thanh kiếm này yên nghỉ!
+95|Đến ngày đó, ta không thể để kẻ trộm nào đụng đến những vũ khí này!
+96|Thay vào đó, ta sẽ thu thập tất cả...
+97|và giấu chúng đi!
+98|Ta... nhận ra...
+99|đó là việc ta phải hoàn thành!
+100|Công chúa... Công chúa Hiyori!
+101|Tại hạ đã không bảo vệ được công chúa Hiyori...
+102|nhưng ít nhất...
+103|tại hạ phải làm được việc này!
+104|Tại hạ phải bận rộn với một nhiệm vụ, kẻo bị hối hận dày vò đến chết...
+105|Nếu ngươi đói,
+106|thì cứ cắn đứt tay ta rồi để ta yên!
+107|Ta sẽ không ngừng cướp những ngôi mộ này!
+108|Onimaru...
+109|Cái gì...?
+110|Thật bất ngờ... Ngươi hiểu ta nói sao?
+111|Cho ta cùng làm với ngươi, Onimaru.
+112|Đó là cách tại hạ và Onimaru bắt đầu cùng nhau
+113|bảo vệ các ngôi mộ và thu thập vũ khí.
+114|Được rồi! Lại một ngày đi cướp mộ!
+115|Hôm nay lạnh cóng!
+116|Thế này thì hai ta không có chỗ ngủ mất...
+117|Hãy đào một cái hầm để giấu vũ khí.
+118|Ta đói quá...
+119|Chỉ cần bán một hai thanh kiếm ở kinh đô...
+120|Sẽ có đủ tiền mua thức ăn một thời gian...
+121|Onimaru...
+122|Đùa thôi! Ta chỉ đùa thôi!
+123|Quân đội hành quân khi bụng no...
+124|Vì chính nghĩa! Thứ lỗi cho ta!
+125|Ta về rồi, Onimaru!
+126|Xem thức ăn ta kiếm được này.
+127|Món ngươi thích nhất, đậu phụ chiên.
+128|Chú nghĩ ở đó kiếm lời được không?
+129|Bingo, anh chắc chứ?
+130|Ừ, tao đã điều tra. Mộ Vĩnh Hằng là mỏ vàng!
+131|Kiếm cứ nằm đó chờ lấy. Nhìn đây!
+132|Bên kia cầu là trung tâm Ringo.
+133|Ai đó?!
+134|Cút đi, lũ trộm hèn hạ!
+135|Bọn ta không để lũ bây lấy đi dù chỉ một thanh kiếm!
+136|Thử cản xem! Bungo! Bongo! Xử nó!
+137|– Rõ! – Rõ!
+138|Onimaru!
+139|Chết tiệt, rốt cuộc mày là ai?!
+140|Tên ta ư? Câu hỏi hay đấy...
+141|Nhanh lên...!
+142|Ta có ý rồi!
+143|Tên ta là...
+144|Gyukimaru...
+145|của Cầu Tặc!
+146|Giờ thì để vũ khí lại rồi biến đi!
+147|Gyukimaru? Trùng hợp thật!
+148|Đó là tên gã sư mà chúng ta gặp.
+149|Không lâu sau, tại hạ lên kinh đô mua thức ăn,
+150|nhưng tình cờ không thể quay về.
+151|Người dân kinh đô, tại hạ xin lỗi...
+152|– Ngươi bị bắt! – Ngươi bị bắt!
+153|Bắt được rồi! Đứng yên, đồ trộm đậu phụ chiên!
+154|Một sai lầm tai hại.
+155|Thứ lỗi cho ta, Onimaru.
+156|Vì vậy ngài bị nhốt mười ba năm sao?
+157|Đúng là một sai lầm...
+158|Vậy hôm nay ngài quay lại đây để gặp con cáo đó?
+159|Không, Onimaru chắc đã bỏ cuộc vì tại hạ không về.
+160|Tại hạ không tin nó vẫn còn ở đây sau mười ba năm.
+161|Zorojuro!
+162|Gã sư đó đi đâu rồi?
+163|Hắn mở cánh cửa này rồi biến mất.
+164|Cửa ư? Nơi này là...
+165|Hắn định làm trò gì vậy?
+166|Chẳng lẽ...?! Lối này dẫn đến không gian ngầm mà hắn và tại hạ đã tạo ra...
+167|Là ngài sao, Kin'emon?!
+168|Ồ, Kawamatsu! Tại hạ mừng khi nghe ngài vẫn còn sống!
+169|Tại hạ có nhiều chuyện muốn kể, nhưng có việc cấp bách hơn nhiều.
+170|Ngài có biết chúng ta đã chiếm Udon không?
+171|Có, tại hạ nghe rồi.
+172|Raizo báo rằng nỗ lực của ngài Luffytaro đã tăng lực lượng của chúng ta lên nhiều lần.
+173|Phải, nhưng ngài không thiếu vũ khí sao?
+174|Đúng vậy! Giải quyết vấn đề nan giải này là ưu tiên hàng đầu của chúng tôi.
+175|Tên Orochi đáng nguyền rủa đã tịch thu vũ khí khắp nước suốt hai mươi năm!
+176|Tại hạ cũng ngờ vậy...
+177|Nhưng ngài không cần lo.
+178|Dù ngài chiêu mộ hàng ngàn binh sĩ,
+179|tại hạ có thể cung cấp đủ kiếm cho họ!
+180|Cái gì?! Ngài nói thật sao?!
+181|Hãy cử vài người đến nơi tại hạ sắp báo cho ngài!
+182|Đã hiểu! Làm ngay!
+183|Nhưng bằng cách nào...?
+184|Là Onimaru sao...? Không, chỉ bàn tay con người mới làm được việc này.
+185|Vậy rốt cuộc là ai...?
+186|Thưa ngài Kawamatsu... tôi đã hoàn thành nhiệm vụ của chúng ta...
+187|Chúc ngài may mắn!
+188|Bảy ngày trước cuộc xâm nhập Onigashima,
+189|sân khấu của trận đại chiến cuối cùng trong bối cảnh Lễ hội Lửa,
+190|các samurai đã có được một kho kiếm khổng lồ.
+191|Zorojuro!
+192|Hửm?
+193|Nếu thanh kiếm của ngài là Shusui thật,
+194|tại hạ khẩn cầu ngài trả nó về Wano.
+195|Tôi đã nói rồi, nó là của tôi!
+196|Tôi sẽ đưa ngài thanh khác để đổi.
+197|Thanh kiếm tôi thừa kế từ người cha quá cố...
+198|danh kiếm Enma.
+199|Enma...
+200|Đó là thanh kiếm huyền thoại, thanh duy nhất được biết đã chém được Kaido.
+201|Cái gì...?!
+202|Xin đừng làm vậy, công chúa Hiyori!
+203|Người không thể rời bỏ vật gia truyền của ngài Oden!
+204|Cha tôi, Kozuki Oden, là kiếm sĩ dùng
+205|Nhị Kiếm Lưu với hai thanh kiếm cỡ lớn!
+206|Trước khi Orochi xử tử cha tôi...
+207|anh Momonosuke và tôi...
+208|mỗi người được giao giữ một trong hai thanh kiếm của cha.
+209|Cho anh trai tôi...
+210|Ame no Habakiri.
+211|Và cho tôi...
+212|Enma.
+213|Cả hai đều do thợ rèn kiếm Wano lừng danh chế tác.
+214|Chúng là những thanh kiếm tuyệt hảo.
+215|Chính vì thế người không thể, thưa công chúa!
+216|Không thể để một kẻ đáng ngờ như hắn
+217|dùng kiếm của ngài Oden!
+218|Kawamatsu...
+219|Tôi hiểu cảm giác của ngài,
+220|nhưng hãy đối xử tử tế hơn với người đã cứu mạng tôi.
+221|Tại hạ không biết ngài có được Shusui, kiếm của Ryuma, Thần Kiếm, bằng cách nào.
+222|Ừm...
+223|Chắc là Moria đã cướp nó...
+224|Tuy nhiên, khi nó bị đánh cắp...
+225|cả Wano rơi vào tuyệt vọng vì nó được coi là quốc bảo.
+226|Xin hãy hiến Shusui cho đất nước này.
+227|Vì sẽ có thanh khác thay thế...
+228|Chắc vậy...
+229|Tôi hiểu rồi.
+230|Thật ra tôi gắn bó với Ryuma vì đã đấu tay đôi với ông ấy để có nó, dù đó là xác của ông ấy...
+231|Tôi sẽ trả Shusui.
+232|Đổi lại, ít nhất hãy cho tôi viếng mộ Ryuma.
+233|Hắn mê sảng rồi! Hắn bị làm sao vậy?!
+234|Công chúa!
+235|Những samurai bị bắt vì nổi loạn chống tướng quân Orochi vẫn chưa được thả.
+236|Dù Yasuie đã liều mạng đánh lạc hướng địch để cứu kế hoạch.
+237|Chuyện quái gì đang xảy ra vậy?!
+238|Chúng tôi không phải phản loạn!
+239|Bản phác họa của chúng tôi chỉ là trò đùa do ngài Yasuie bịa ra.
+240|Hình xăm trăng lưỡi liềm chỉ là mốt thôi!
+241|Ý thích của một kẻ hèn nhát mạnh đến mức
+242|bắt giam người vô tội và trưng bày như thế này sao?!
+243|Bị gán mác phản bội thật nhục nhã!
+244|Thả bọn tôi ra đi! Nhanh lên!
+245|Chết tiệt...
+246|Làm sao đây?
+247|Liên minh của các cậu rốt cuộc ra sao rồi?
+248|Tôi tưởng các cậu lập liên minh với Kid và Apoo...
+249|Chúng tôi bị gài bẫy...
+250|Scratchmen Apoo vốn luôn nằm dưới trướng Kaido.
+251|Con quái vật Kaido nói với tôi...
+252|"Phục vụ ta thì ta sẽ đón ngươi làm người của ta."
+253|Hắn luôn tìm kiếm những chiến binh mạnh hơn.
+254|Hắn đang xây dựng đội quân mạnh nhất thế giới.
+255|Cơ hội thắng khi đánh nhau lúc đó: 0 phần trăm.
+256|Cơ hội trốn thoát thành công: 0 phần trăm.
+257|Cơ hội sống sót sau khi đầu hàng: 40 phần trăm.
+258|Tôi không còn lựa chọn.
+259|Nhưng Kid và Killer không như tôi...
+260|Họ đứng lên chiến đấu với hắn đến khi không nhúc nhích nổi.
+261|Kaido sẽ không bao giờ giết một người như vậy.
+262|Hắn thà tìm cách bẻ gãy ý chí và khuất phục họ.
+263|Tôi không tưởng tượng nổi Kid sẽ chịu khuất phục.
+264|Nên cậu ta sẽ bị giết.
+265|Tôi thấy tội cho thủy thủ đoàn của Kid.
+266|Họ được bảo rằng có thể cứu thuyền trưởng nếu làm cái này cái kia...
+267|Rốt cuộc Orochi dùng họ làm con tốt.
+268|Tứ Hoàng không cùng đẳng cấp với chúng ta.
+269|Quy tắc thông thường không áp dụng.
+270|Liên minh của cậu với Mũ Rơm có vẻ suôn sẻ...
+271|Hai cậu đã cùng đến Wano...
+272|Giờ sao?
+273|Cậu đổi ý rồi à?
+274|Tôi mới là người đặt câu hỏi!
+275|Kế hoạch của cậu có bao gồm việc tôi được tự do không?
+276|Nếu vậy, tôi tham gia.
+277|Giờ còn sáu ngày nữa là đến cuộc đột kích Onigashima.
+278|Cầu Tặc
+279|Hoa Đô
+280|Ngục Rasetsu Biệt danh: Phòng giam Công khai
+281|Trong khu tù nhân Thị trấn Rasetsu

@@ -1,0 +1,447 @@
+1|Five and one; evens win.
+2|Wow!
+3|They say it all depends on the roll of the dice...
+4|but luck's on your side, milord! You're on a winning streak!
+5|Here.
+6|Take this for the sushi on the boat.
+7|Wow! This is more than I paid, mister!
+8|Don't worry. I'll win some more.
+9|Wowee!
+10|We only dropped by to take shelter from the rain!
+11|If I stay with you, I'll never go hungry!
+12|Seriously! You're the savviest man in Wano!
+13|I think the sake will taste good tonight.
+14|Now, place your bets!
+15|Odds!
+16|Wow! You're not one to mess around, mister!
+17|We've got a bet on odds!
+18|All set.
+19|Here we go!
+20|Oh!
+21|No-Sword Style...
+22|Dragon Twister!
+23|Oh?! They were cheating!
+24|How lame.
+25|Guys! Get out here!
+26|At least your hospitality doesn't seem to be lacking.
+27|Everyone! Get him!
+28|One-Sword Style...
+29|Dragon Quake!
+30|Whoa, wait a minute, mister!
+31|We live our lives on the cusp of evens and odds, just as with good and evil.
+32|Let's put an end to this here!
+33|Okay?!
+34|Now, manager, there was an objection to the last game.
+35|Damn! Just take it! Don't ever come back!
+36|Yikes! I was scared stiff! Were you scared too, mister?!
+37|Could you shut up?
+38|Wowee! That's mighty considerate of you!
+39|You're so subtle in how you care for my voice. How thoughtful. Thanks!
+40|Oh, sorry for not introducing myself sooner. My name is Tonoyasu.
+41|Everyone calls me Yasu "the Sycophant."
+42|Nice to meet you!
+43|Oh my, you're captivating even when you don't speak!
+44|You stud, you! The ladies must be all over you, mister!
+45|Why are you following me?
+46|A thought struck me back at the gambling house:
+47|"If I follow this man, everything will be alright."
+48|An ordinary person wouldn't have messed with those guys.
+49|They're yakuza thugs from the capital's terrifying Kyoshiro Family.
+50|Oh, what you did was staggering!
+51|If I were a woman, I'd be weak at the knees!
+52|What's the matter, mister?!
+53|That looks familiar.
+54|You're so perceptive! What you see in the distance is the Flower Capital!
+55|And before that, you'll find Ebisu, the Leftovers Town!
+56|That's my hometown!
+57|Ebisu...? Like the god of fortune, huh?
+58|Why is it named Ebisu, you wonder? You'll see once you get there!
+59|I'll take one, too!
+60|Coming right up!
+61|He doesn't look familiar...
+62|Hmm... It sure is popular though...
+63|That squirt...
+64|Doesn't he know who's turf this is?
+65|We oughta show him...
+66|Strike the iron!
+67|Haul the stone!
+68|If you can't work...
+69|you should just die...
+70|and get out of the way!
+71|I-Is this it?
+72|By hauling five big blocks of rock, you get one millet dumpling!
+73|Are you too decrepit to earn your own food, old man Hyo?!
+74|Death is finally closing in on you!
+75|I worked all day...
+76|Huh?! What'd you just say?!
+77|The punishment for talking back to a guard...
+78|is dismemberment!
+79|Next!
+80|Old man Hyo! Don't fight. Save your energy!
+81|Or you're gonna die!
+82|Oh, four exchange tickets!
+83|Well done!
+84|Move! Move! Move! Move! Move!
+85|Outta my way!
+86|You guys are in my way! Do you wanna get run over?!
+87|Watch it, Jaggy!
+88|I'll run you over, too!
+89|Wait, wait! It's already full! That's it for today!
+90|Then, get another ship out here!
+91|You slowpokes!
+92|I-I'm sorry!
+93|How many stones did they haul?
+94|I stopped counting at 500...
+95|Huh?! What about the seastone?!
+96|It's on them!
+97|They pulled that off even while weakened?!
+98|What can they do when the cuffs come off?
+99|I finished my work! Give me food!
+100|What?!
+101|Whaaat?!
+102|How much did they haul to get that much food?!
+103|What's your problem?!
+104|What're you looking at?!
+105|I got one more than you!
+106|You punk! I outpaced you!
+107|Screw you! No way you beat me, Jaggy!
+108|Can't you even count, you stupid monkey?!
+109|You bastard!
+110|Damn you!
+111|I thought they were both badly injured...
+112|They work, eat, and sleep... They're fully recovered after just a few days...
+113|How do their bodies work?!
+114|How are we supposed to break their spirits?!
+115|Say something to them!
+116|What?!
+117|Ch-Chew your food!
+118|Are you their mother?!
+119|My dumplings...
+120|Dammit!
+121|Which prisoner ate all the food we had in storage?!
+122|It's Vice Warden Dobon!
+123|Hippo!
+124|Bring out the perpetrator!
+125|Help...!
+126|Oh! Old man Hyo is trapped!
+127|Crawl out of there, old man!
+128|Vice Warden!
+129|They're behind bars now!
+130|What?! What about the dumplings?!
+131|They ate them all...
+132|You guys just stood there and watched?!
+133|They worked hard to earn that food,
+134|so there wasn't a whole lot we could say...
+135|How dare you disregard the words of the vice warden!
+136|I can't really hear him since the hippo closed its mouth...
+137|Hippo?
+138|Vice Warden Dobon...
+139|Bring the culprits here!
+140|Vice Warden, here they are!
+141|These two are responsible!
+142|– They're stuffed! – They're stuffed!
+143|I've never seen anyone around here with a full belly before!
+144|They're so lucky!
+145|Damn you...!
+146|I'm a big eater, but thanks to you pigs,
+147|I only got three dumplings!
+148|Look at this mouth! Think that was enough?!
+149|Of course it wasn't!
+150|Wait a minute...
+151|I need to digest this...
+152|– What?! – What?!
+153|I don't wanna see prisoners looking so satisfied!
+154|That was my food!
+155|Hey! Don't push your luck, you worms!
+156|Listen up! If you mess with the guards...
+157|the first offense will cost you your arms!
+158|For the second, your legs!
+159|And if there is a third,
+160|you'll be sentenced to death!
+161|You've been warned!
+162|He's right! You guys have no right to fight back!
+163|Hey, we're weaklings at the moment, thanks to the seastone.
+164|All we did was work hard.
+165|Your crime was...
+166|eating all my food!
+167|Son of a...!
+168|Jaggy!
+169|Hippo!
+170|I'll teach you discipline!
+171|Whoa! He ate them!
+172|Poor saps!
+173|The inside of Vice Warden Dobon's mouth is a slaughterhouse!
+174|What happened?!
+175|I've never seen the hippo go down like this!
+176|Vice Warden Dobon?!
+177|Look what you did! Just try and escape the death penalty now!
+178|Prove it.
+179|What?!
+180|I'm saying you need to prove it!
+181|Way to go, you guys!
+182|This makes you heroes to the rest of us!
+183|Get some special soba! Sangoro's special soba!
+184|It's Sangoro's special soba!
+185|I'd like to try some right away!
+186|Here! Thank you for waiting!
+187|Oh, it looks tasty!
+188|So good! This is insanely delicious!
+189|Any word on Luffy?
+190|He's at the prisoner mining camp in Udon, right?
+191|It's pretty far from here, but I'm sure he'll bust out before the big day.
+192|It's nice to eat your food again, Sanji! I'm glad that you came back safely!
+193|I don't care if you like it...
+194|Orobi my lovely! How does it taste?
+195|Well, it tastes incredible!
+196|Orobi as a geisha is more incredible!
+197|Anyway...
+198|the soba is good, but it's only drawing girls.
+199|Attract samurai by whipping up something spicy that pairs with sake!
+200|What's with that look?! Don't you wanna recruit more allies, you bum?!
+201|Wait, Franky! Here come some male customers now.
+202|Pardon us.
+203|Excuse us, ladies!
+204|Hey guys, don't cut!
+205|Huh?! You got something to say?! Shut your mouth!
+206|It's the Kyoshiro Family...
+207|What?!
+208|Hey, outta our way!
+209|This place seems to be thriving, young man!
+210|Yeah, I'm thrilled!
+211|Are you guys customers? If you wanna eat, get in line!
+212|No, we just wondering something...
+213|Who gave you permission to do business here?
+214|We're from the Kyoshiro Family, and this is our turf...
+215|Unless you pay us, you're not allowed to run a shop here!
+216|Oh, is that so?
+217|Those people... I think they're...
+218|You know something about them?
+219|Yes, the other day, I was at the banquet hall of a man named Kyoshiro.
+220|Shogun Orochi is a coward!
+221|Sake! Bring me more sake!
+222|He was an extremely arrogant samurai. It seems like he's a yakuza boss.
+223|These men are likely his underlings.
+224|Hey, are you deaf?! I said you gotta pay up!
+225|Why?
+226|Why? Because if you don't, we can't protect you if someone attacks your stand.
+227|I don't need your help. I'm pretty tough.
+228|Here, thank you for waiting!
+229|Thanks!
+230|You think you're tough?
+231|Then, just try to protect your shop!
+232|Soba!
+233|Hey!
+234|Don't eat the soba from this place!
+235|Is she crying or laughing?
+236|My soba!
+237|Oh no! This will piss off Sanji more than anything!
+238|Beat it, ladies! The shop's closed for the day!
+239|Go, get outta here! He ran out of soba!
+240|Come on! Just get lost!
+241|Oh no! We'd better get outta the way!
+242|Hey!
+243|What do you want?
+244|I'm gonna need you to finish your food...
+245|dear customer.
+246|Huh?! You wanna fight, punk?!
+247|Hey! Suke! Kaku!
+248|Yeah!
+249|Let's rough him up!
+250|Hmm?! A fight?!
+251|Go to hell!
+252|You bastard!
+253|Ow, ow, ow...
+254|Damn it!
+255|Die!
+256|Ow, ow, ow...
+257|Big Bro!
+258|What with this soba cook?! He's so strong!
+259|That soba guy is so cool!
+260|Sanji, save some for me!
+261|Here we go!
+262|Stop! Dammit! What are you doing to me?!
+263|Franosuke Iron...
+264|Suplex!
+265|That carpenter, too?!
+266|They shouldn't have done that!
+267|Now, eat every last bite!
+268|You're gonna eat every bit of soba you wasted!
+269|Here, eat up! Don't let any go to waste!
+270|Big Bro! Big Bro!
+271|What? You want some?!
+272|You'll regret this!
+273|Now, wakey wakey!
+274|Nice doing business!
+275|Well, that's about what I expected, but was it a good idea to kick their asses?
+276|Perhaps messing with them wasn't the best idea...
+277|That long line of customers scattered like roaches.
+278|This is usually when the big bruiser comes along.
+279|She's the girl who had her soba knocked over.
+280|She's an oddball, crying and laughing at the same time.
+281|Huh? Wait a sec...
+282|What is it?
+283|I've seen her somewhere before...
+284|All right!
+285|I made a killing!
+286|I didn't think I'd sell this much!
+287|What do you want?
+288|Hey, so that's a medicine that heals any kind of wound?
+289|Huh? Why, yes!
+290|This will stop bleeding and ease pain!
+291|This toad oil is a surefire remedy!
+292|That's amazing!
+293|I met her at the shrine.
+294|Sorry about the trouble earlier.
+295|There was still soba left over. Please have some!
+296|Whoa! Thank you!
+297|It's...
+298|I-It's delicious!
+299|You've really put on smile on my face!
+300|I did?
+301|Your special soba is really popular, so I couldn't wait to try it,
+302|but the line was so huge!
+303|I waited with everyone for so long that I'm already late for work.
+304|Work?
+305|You work?!
+306|Uh-huh! I worked hard and managed to save enough money to buy the soba,
+307|but it made me so sad when it was knocked over.
+308|I'm happy now!
+309|This is the best soba I've ever had!
+310|Oh, yeah?! You like it that much? Thanks!
+311|By the way, what's your name?
+312|It's Toko, but try to use the "O" honorific at the start!
+313|"O"?
+314|Otoko?
+315|Oh, like the word for "man"!
+316|I'm not a man! Otoko's just my name!
+317|I'm just a girl named Otoko.
+318|Isn't it funny? Isn't it amusing?
+319|People always say it's easy to remember!
+320|Uh-huh! Yeah! I'm sure I won't forget!
+321|That's a great name!
+322|Totally!
+323|Oh, it was delicious...!
+324|Thank you!
+325|Okay! Come back soon!
+326|Uh-huh!
+327|Oh no! I'm really late! Very, very late!
+328|Oh, yeah! I'll be passing through this street later!
+329|The oiran's procession is today!
+330|An oiran?!
+331|Toko, by any chance, are you a kamuro?
+332|That's right. I'm a kamuro!
+333|It's already started! I have to run! Bye-bye! See you later!
+334|The oiran's beautiful, so come have a look!
+335|See you!
+336|Oh, man, she's so funny!
+337|Toko's so cheerful. It's cute!
+338|The oiran's procession I've heard so much about will pass through here?!
+339|Oiran?
+340|Kamuro?
+341|An oiran is...
+342|Where did you come from, you paper lantern-faced hag!
+343|Madam!
+344|Who'd you call a wrinkled, paper lantern-faced hag?!
+345|I'll light your backside up, you little snot!
+346|An oiran is like the top idol in Wano! A superstar!
+347|– Uh-huh! Uh-huh! – Uh-huh! Uh-huh!
+348|Currently, there is only one oiran in the country! The chosen woman's name is Komurasaki!
+349|The woman of men's dreams! An icon for women!
+350|Sophistication personified with beauty to destabilize a nation!
+351|Even a god couldn't sully her nobility!
+352|She is the oiran Komurasaki!
+353|No way! Such a perfect woman can't exist!
+354|If you don't believe me, see for yourself!
+355|There! You hear that?!
+356|It's the cheering and the upbeat music that surrounds her.
+357|The oiran is in procession to Orochi Castle!
+358|There's a banquet for the shogun at the castle tonight!
+359|The girl from earlier is a kamuro, a young attendant to the oiran.
+360|Hmm, I see!
+361|Orobi, I have good news for you! I ran all around the Flower Capital looking for you.
+362|For me?!
+363|Congratulations!
+364|What?!
+365|You've also received a summons to the castle!
+366|You've dreamed of meeting Shogun Orochi, right?!
+367|Yes!
+368|Wow! That's our Robin!
+369|Now, let's go home and get ready!
+370|Yes! I can't wait!
+371|Hey, straw hat guy!
+372|You're really something! Which family are you from?!
+373|Yesterday was so cathartic! Every cell is talking about you!
+374|Leave me alone.
+375|Don't be like that. Everyone here adores the heck outta you!
+376|Hmph... The cold shoulder it is, then.
+377|Sir Straw Hat!
+378|I'm so grateful that you saved my worthless life yesterday!
+379|He was asking for it, so don't sweat it.
+380|Oh, yeah. You can have these!
+381|No food, no work, right?
+382|Oh, no! Please don't! A good-for-nothing like me can't accept those!
+383|Of course you can. I insist.
+384|Later!
+385|I-I'll use them wisely!
+386|Thank you! Thank you! Thank you! Thank you!
+387|What a funny guy!
+388|Sir Luffy!
+389|Raizo! How did it go?!
+390|Sorry for the wait.
+391|I found the key to your seastone cuffs, but...
+392|it's under tight security.
+393|Not only is it guarded, but it's in a seastone box!
+394|That said...
+395|I'll steal it at any cost. Please give me a little more time.
+396|Okay! Got it!
+397|Alright!
+398|You again!
+399|You work so hard, Boss!
+400|Just how many millet dumplings are you trying to earn, Boss?
+401|I'm not gonna give you any!
+402|Cut it out! Caribou!
+403|Don't be like that! We're old friends, right?
+404|Wet-Haired Caribou of the Caribou Pirates.
+405|Luffy met this vicious, yet ill-fated, pirate at the Sabaody Archipelago.
+406|He failed to take out the Straw Hat Pirates when he raided the Sunny on her way to Fishman Island.
+407|After arriving on Fishman Island, he continued in his wicked ways...
+408|until he was defeated by Luffy and Pekoms.
+409|Caribou would eventually reach the New World, worming his way through various challenges.
+410|He discovered a new way of life there...
+411|but Drake suddenly showed up and took him out.
+412|Caribou was then sent to Wano,
+413|and was forced into prison labor at the mining camp in Udon.
+414|Oh, Boss...
+415|give me some, too!
+416|Millet dumplings for the needy!
+417|No way! Do your own work!
+418|You're so cruel!
+419|I heard about these seastone cuffs...
+420|They were made less potent to allow prisoners to work still.
+421|Even so, I'm basically paralyzed...
+422|Push yourself harder!
+423|You're so harsh, Boss.
+424|If you give me dumplings, I'll be your henchman.
+425|I've been here way longer than you,
+426|so I know more about the place.
+427|You'll do it, won't you, Boss?
+428|Shut up!
+429|You're planning to break out, right?
+430|Come on, let me in on it!
+431|Go away!
+432|No slacking off!
+433|A soba cook beat you?
+434|That's right! He was pretty tough!
+435|He overpowered the three of us.
+436|I'm gonna be busy today.
+437|I'm invited to Shogun Orochi's banquet...
+438|Contact Queen.
+439|Let's have him send an assassin.
+440|That's likely to cause an uproar...
+441|I don't care!
+442|Yes, sir!
+443|Shogun Orochi...
+444|the oiran is heading this way now.
+445|Excellent...
+446|Komurasaki...
+447|after today, you'll be mine!

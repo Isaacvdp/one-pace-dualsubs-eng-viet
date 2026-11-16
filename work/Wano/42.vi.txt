@@ -1,0 +1,662 @@
+1|Chuyện quái gì đang xảy ra vậy?!
+2|Sao đoàn của Luffy lại ở đây?!
+3|Và chẳng phải Law đáng lẽ đang ở trong tù sao?!
+4|Thả tao ra ngay, Kanjuro!
+5|Tao đã báo cáo từng chi tiết kế hoạch của Kin'emon cho Tướng quân Orochi!
+6|Đừng nói là ngài ấy không có biện pháp đối phó nào!
+7|Chúng mày thật sự nghĩ có thể phá hủy Sunny bằng một quả bom thường sao?
+8|Lũ ngốc!
+9|Thousand Sunny...
+10|được đóng từ cây báu vật Adam, và nó sẽ vượt ngàn biển!
+11|Vụ nổ thảm hại đó không thể nào phá hủy con tàu này!
+12|Ý ngươi là nó không có tác dụng?!
+13|Dĩ nhiên rồi! Nó còn không để lại một vết xước!
+14|Nhưng buồm thì bị cháy...
+15|Xin lỗi, Kin'emon!
+16|Bọn tôi mất một lúc mới vá xong!
+17|Tại hạ hiểu rồi!
+18|Thì ra chuyện là vậy!
+19|Này, Kin!
+20|Chẳng phải lẽ ra phải có nhiều người hơn thế này sao?!
+21|Khác một chút so với những gì tôi nghe.
+22|Dù sao thì tôi sẽ phá nát mấy chiếc tàu đó, được chứ?!
+23|Quả thật...
+24|Tại hạ đã mong có nhiều đồng minh hơn nhiều.
+25|3.500 tù nhân từ trại khai thác mỏ đâu rồi?!
+26|Ừ, tôi không thấy họ.
+27|Các đại ca đã đi khắp các vùng để tập hợp yakuza...
+28|Chắc chắn phải hơn 200 người.
+29|Ở Cảng Itachi, có 200 Xạ thủ của Inuarashi,
+30|và 280 Tên Trộm Núi Atama!
+31|Mọi người lẽ ra phải gặp chúng ta ở đây trên những chiếc tàu mà chúng ta cùng sửa!
+32|Cộng thêm một kho vũ khí đủ để trang bị cho từng người một…
+33|lẽ ra phải được chuyển đến từ Ringo!
+34|Này, Kin'emon!
+35|Anh gặp rắc rối à?!
+36|Tại hạ... đã phạm một sai lầm nghiêm trọng...
+37|Luffy-dono, tại hạ xin lỗi!
+38|Toàn bộ kế hoạch của chúng ta đã bị lộ...
+39|Tại hạ không biết những người khác gặp chuyện gì!
+40|Thì ra đó là lý do không ai đến!
+41|Vậy là chúng ta chiến đấu một mình sao?!
+42|Hả?! Không thể nào!
+43|Chúng tôi cũng không biết rõ chuyện gì đang xảy ra!
+44|Có thể chúng ta đã không phá được con tàu sư tử...
+45|...nhưng đêm qua chúng ta đã đánh chìm hết các tàu neo ở cảng!
+46|Tướng quân Orochi là người tỉ mỉ.
+47|Ngài ra lệnh cho chúng ta phá hủy mọi cây cầu lớn nối các vùng!
+48|Giờ hiểu chưa?
+49|Không ai đến cứu các ngươi đâu!
+50|Dù có đến được đây, chúng cũng không thể tới Onigashima nếu không có tàu!
+51|Và nếu các ngươi bỏ lỡ cơ hội này, sẽ không còn cơ hội nào nữa!
+52|Ngày mai, chúng ta sẽ bắt đầu giết từng tên phiến quân mà chúng ta đã dụ ra!
+53|Còn một điều nữa chúng tôi chưa nói!
+54|Xin lỗi nhé.
+55|Chúng tôi không muốn đẩy các ngươi vào tuyệt vọng hơn nữa...
+56|Cái gì?!
+57|Bữa tiệc hôm nay không phải tiệc Lễ hội Lửa bình thường...
+58|Đó cũng là lễ kỷ niệm...
+59|liên minh giữa chúng ta, băng Bách Thú, và băng hải tặc Big Mom khét tiếng!
+60|Kaido và Big Mom?!
+61|Liên minh của hai Tứ Hoàng?!
+62|Chúng ta có cả thuyền trưởng Kaido lẫn Big Mom đứng về phía mình!
+63|Làm sao chúng hy vọng địch nổi sức mạnh như vậy?!
+64|Thế hệ Tồi tệ nhất á?! Chúng chẳng là gì cả!
+65|Đánh chìm hết chúng và kết thúc thôi!
+66|Chuẩn bị bắn!
+67|Sao các ngươi lại tỏ vẻ kiêu căng thế?!
+68|Tao nghe đủ rồi!
+69|Mọi người, lùi lại!
+70|Đồ ngu...
+71|Mày lùi lại đi!
+72|Mày làm gì vậy, Traffy?!
+73|Tao nói là tao sẽ làm!
+74|Như thể mày làm được ấy!
+75|Không, cả hai lùi lại!
+76|Tao sẽ làm!
+77|Đồ khốn, Jaggy!
+78|Câm miệng!
+79|Đừng chen ngang nữa, lũ ngốc!
+80|Trời ơi!
+81|Ai tới trước thắng!
+82|Đồ khốn!
+83|Tao sẽ là người đầu tiên!
+84|Mơ đi!
+85|Traffy!
+86|Thằng này...!
+87|Mày không thể vượt qua khả năng Room của tao trong mưa đâu!
+88|Gian lận! Năng lực của mày không công bằng!
+89|Ai quan tâm?
+90|Mày chỉ đang khoe mẽ thôi!
+91|Mày mà nói được câu đó à.
+92|Cút đi!
+93|Tao có thể hạ chúng bằng một đòn!
+94|Mày định nói tao không làm được trong một phát sao?!
+95|Tao sẽ làm.
+96|Hai đứa mày là đồ thua cuộc.
+97|Có ý kiến gì không?
+98|– Thua cuộc?! – Thua cuộc?!
+99|Mày gọi ai là thua cuộc hả?!
+100|Tao sẽ không thua ai hết!
+101|Tránh đường tao!
+102|M-Mày đừng mong sống sót rời khỏi đây!
+103|Đừng sủa nữa, lũ tay sai!
+104|Tao sẽ lo bọn chúng.
+105|Câm miệng!
+106|Để xem ai là kẻ thua cuộc!
+107|Room!
+108|Boundman!
+109|Punk Vise!
+110|Injection Shot!
+111|Này, thấy chưa?
+112|Giờ ai là kẻ thua cuộc?!
+113|Để tao nói rõ một điều.
+114|Tao mới là người đánh chìm chiếc tàu đó.
+115|Mày mù à?!
+116|Đừng có ngớ ngẩn!
+117|Tao đánh chìm nó!
+118|Tôi tưởng họ là đồng minh...
+119|Cái gì kia...?!
+120|Tàu của gia đình Kyoshiro!
+121|Kyoshiro đến rồi!
+122|Giờ vở kịch có thể tiếp tục!
+123|Có vẻ các ngươi đang gặp rắc rối.
+124|Chúng ta chỉ cần đánh chìm Hồng Bao theo lệnh của Tướng quân Orochi!
+125|Được thôi.
+126|Ngươi bảo đánh chìm kẻ địch sao?
+127|Để tôi lo!
+128|Ông làm gì vậy, đại ca?!
+129|Không cần phải đánh chìm tàu.
+130|Dù tôi đã tự ý vô hiệu hóa các khẩu pháo chĩa vào chúng ta.
+131|Gã đó... tại hạ nhớ hắn!
+132|Cẩn thận! Hắn là bậc thầy kiếm thuật!
+133|Hắn là chó của tướng quân!
+134|Người hiệp nghĩa đã thế chỗ đại ca Hyogoro!
+135|Các samurai Hồng Bao!
+136|Tôi là yakuza của Hoa Đô!
+137|Người ta gọi tôi là Kyoshiro Ngủ Gật!
+138|Gia đình Kyoshiro có 200 người! Xin cho chúng tôi tham gia cuộc đột kích!
+139|– Cái gì?! – Cái gì?!
+140|Ông đùa à, đại ca!
+141|Ý ông là sao?!
+142|Ông là thuộc hạ của Orochi!
+143|Ông có nghĩa vụ gì phải giúp chúng ta?
+144|Bổn phận và lòng biết ơn tôi dành cho gia tộc Kozuki là vô bờ bến…
+145|Tôi đặc biệt nhớ ngài, Kin!
+146|Kin?!
+147|Bốn mươi năm trước, Sự Cố Thần Núi đã làm rung chuyển thủ đô!
+148|Người ta đổ lỗi cho Oden-sama nổi điên...
+149|Nhưng họ sai rồi.
+150|Ngài mới là nguyên nhân: một chàng trai tham lam muốn bán một con lợn rừng con!
+151|Cái gì?
+152|Chỉ có một người có thể biết chuyện đó!
+153|Vì vậy người ta mới gọi là Thần Núi!
+154|Cái gì?!
+155|Ôi không!
+156|Tại hạ đã mang họa này đến thủ đô!
+157|Chẳng lẽ...?
+158|Là ngươi sao, Denjiro?!
+159|Cái gì?!
+160|Denjiro?!
+161|Chính xác!
+162|Có lẽ các vị không nhận ra tôi...
+163|Tôi muốn tiết lộ thân phận ngay với các vị,
+164|nhưng tôi vẫn đóng vai kẻ thù, phòng khi cần.
+165|Quả nhiên, nếu tôi tiết lộ thân phận,
+166|tôi sẽ bị gián điệp của Orochi vạch trần và diệt khẩu!
+167|Denjiro!
+168|Im lặng!
+169|Tuy nhiên, vì tôi giữ được lòng tin của Orochi đến cùng,
+170|tôi đã giải thoát được 1.000 samurai khỏi Nhà tù Rasetsu!
+171|Nhìn đằng kia kìa!
+172|Quân tiếp viện của địch ư?!
+173|Giờ chúng ta có 1.200 binh sĩ!
+174|Hãy để chúng tôi tăng cường hàng ngũ của các vị!
+175|Cuối cùng thời khắc đã đến!
+176|Cuối cùng chúng ta cũng được chiến đấu!
+177|Đ-Đại ca Kyoshiro là một trong Cửu Hồng Bao sao?!
+178|Báo ngay cho Onigashima!
+179|V-Vâng!
+180|Denjiro...
+181|Nào, Kin!
+182|Hả?
+183|Tôi biết ngài là người thông minh!
+184|Biểu tượng này ngụ ý ngày và điểm hẹn cho trận đại chiến!
+185|Hai con chim rực cháy…
+186|trên một con rắn habu...
+187|và một vầng trăng lưỡi liềm ngược biểu thị cuộc nổi dậy!
+188|"Ngày Lễ hội Lửa. Lúc hoàng hôn. Giờ Dậu thứ hai.
+189|Tại Cảng Habu."
+190|Biểu tượng gốc không có hai đường kẻ đó.
+191|Tờ rơi này đã bị lộ sang phía Orochi...
+192|nhưng ngài Yasuie đã sửa biểu tượng trước khi qua đời!
+193|Hai đường kẻ mới thêm này...
+194|gạch bỏ các chữ ở giữa!
+195|Vậy "Habuminato" bỏ phần giữa thì điểm hẹn mới là...
+196|"Hato"!
+197|Các vị đã chọn bến tàu ở Cảng Habu.
+198|Ngài Yasuie luôn yêu những khung cảnh tuyệt đẹp của rừng phong ở đó!
+199|Hả?
+200|Cái gì?!
+201|Thấy hai đường kẻ trên con rắn habu, ai cũng dễ dàng hiểu thông điệp đó.
+202|Nhưng các vị đã suy ra gián điệp của Orochi nằm trong hàng ngũ mình,
+203|và cố tình để chúng đọc sai đáp án thành "Cảng Tokage"!
+204|Các cảng của Wano đều được đặt tên theo động vật.
+205|Hơi dài dòng, nhưng thêm chân vào con rắn thì thành thằn lằn tokage:
+206|Cảng Tokage ở Udon.
+207|Đúng là... bức hình đó trông không giống thằn lằn.
+208|Tôi đã tin vì Kin quá tự tin...
+209|Tên gián điệp đã mắc mưu các vị...
+210|và báo với Orochi rằng Cảng Tokage là điểm hẹn mới!
+211|Đó là sự ngu xuẩn của một bạo chúa nằm lì ở thủ đô quá lâu!
+212|Orochi đánh giá sai khoảng cách giữa các vùng và ngồi yên đến tận đêm qua!
+213|Lúc đó mọi người đã qua các cây cầu lớn,
+214|và những chiếc tàu cần thiết đã rời cảng!
+215|Chỉ những chiếc tàu còn sót lại bị phá hủy!
+216|Đúng như kế hoạch của các vị, 4.200 quân mà các vị chiêu mộ...
+217|đã nằm yên ở bến tàu Cảng Habu cho đến lúc ấy!
+218|Vậy mọi người đều an toàn sao?!
+219|Hai mươi năm rồi, tôi vẫn nhớ cái chết huyền thoại của Oden-sama!
+220|Chúng tôi sống cả đời với niềm tin vào sự trở lại của gia tộc Kozuki!
+221|Chúng tôi sẽ đi cùng các samurai Hồng Bao!
+222|Mọi thứ đã sẵn sàng!
+223|Cuộc đột kích Onigashima sẽ diễn ra đúng như kế hoạch!
+224|Thêm 1.200 người của chúng tôi thành tổng cộng 5.400!
+225|Nào, đi thôi mọi người!
+226|Đến Onigashima!
+227|Xem kìa!
+228|Tôi không rõ chuyện gì đã xảy ra, nhưng chắc giờ ổn rồi!
+229|Có cả đống người!
+230|Đây là thảm họa!
+231|Có tin gì từ Onigashima không?!
+232|Tôi gọi mãi mà không ai nghe! Chắc họ đang bận tiệc!
+233|Thật là tai họa!
+234|Chúng ta chẳng ngăn được gì!
+235|Đồ khốn Kin'emon!
+236|Kin!
+237|Ngài đúng là thủ lĩnh của chúng tôi!
+238|Và như mong đợi, một người đáng để tôi kính trọng!
+239|Vậy không phải "tokage"...
+240|Mà là "hato", bến tàu...
+241|Nói thật đi, Kin'emon.
+242|Bọn ta biết ngươi không thể nghĩ ra điều như vậy.
+243|Nhìn đi, rốt cuộc cũng ổn.
+244|Bọn ta sẽ không giận, cứ thừa nhận đi.
+245|Thôi đi.
+246|Thật ra ngươi đã nghĩ đó là "tokage", đúng không?
+247|Thôi đi!
+248|Dù sao cuối cùng cũng ổn!
+249|Đó là một sai lầm may mắn.
+250|Có lẽ trận chiến này sẽ là trận cuối của tại hạ.
+251|Tại hạ có cảm giác vừa dùng hết may mắn cả đời!
+252|Quả thật, ngài may mắn đến kinh ngạc!
+253|Kin'emon!
+254|Thủ lĩnh yêu quý của chúng tôi!
+255|Vậy may mắn của chúng tôi cũng đã dùng hết, vì cùng chung hoài bão!
+256|Anh ấy nói đúng, Kin!
+257|Chúng tôi sẽ không để ngài chết một mình!
+258|Chúng ta đã cùng phục vụ Oden-sama như samurai!
+259|Quá khứ có thể khác nhau, nhưng trận cuối của chúng ta sẽ là một! Hãy nhớ!
+260|Nghe an ủi từ lũ côn đồ các ngươi thật lạnh lùng.
+261|Giơ kiếm lên, Kin!
+262|Chúng ta đã thắng hiệp mở màn!
+263|Hãy hoàn thành số mệnh của mình.
+264|Chúng ta sẽ cùng báo thù cho cái chết của Oden-sama!
+265|Kin'emon!
+266|Chúng ta sẽ mang lại đổi thay cho Wano bằng mọi giá!
+267|Đồ khốn Kin'emon...
+268|Tại hạ phải báo cáo cho Onigashima.
+269|Tại hạ đã hoàn thành vai diễn mà Tướng quân Orochi giao!
+270|Chỉ còn một việc nữa phải làm!
+271|Ồ không, đừng hòng!
+272|Tại hạ sẽ không để ngươi bắt Momonosuke-sama!
+273|Kawamatsu! Cố lên, tôi đến đây!
+274|Không được! Anh sẽ chết đuối!
+275|Ngươi có thích thú khi giẫm đạp giấc mơ của chúng ta và khiến chúng ta tuyệt vọng không?
+276|Kanjuro!
+277|Có! Tôi đang có khoảng thời gian tuyệt nhất đời!
+278|Lừa dối, phản bội, rồi một cái kết bất ngờ!
+279|Không có vở kịch nào trên đời hơn được thế này!
+280|Và các người đã đóng vai ngốc một cách hoàn hảo!
+281|Kanjuro!
+282|Màn cuối sẽ nhuộm đỏ sân khấu bằng máu Kozuki!
+283|Kawamatsu!
+284|Momonosuke-sama!
+285|Đừng lo, Momonosuke.
+286|Ta sẽ để em gái ngươi theo ngươi xuống âm phủ.
+287|Kawamatsu!
+288|Ta thề sẽ tìm ra Hiyori và giết luôn cô ta!
+289|Giờ ta biết cô ta còn sống rồi!
+290|Kanjuro!
+291|Từ khi nào ngươi vẽ được con chim bay thanh thoát như thế?!
+292|Chúng tôi chỉ từng thấy những nét nguệch ngoạc kinh khủng trôi mất khi gặp nước!
+293|Cao quá!
+294|Cho em xuống!
+295|Đáng sợ quá!
+296|Ai đó cứu với!
+297|Kanjuro?
+298|Momo?
+299|Này! Anh đi đâu vậy?!
+300|Tạm biệt, lũ ngốc!
+301|Dù các ngươi thử cách nào, cũng không thắng được quân của Kaido-sama!
+302|Các ngươi thậm chí không đặt chân lên đảo được!
+303|Cứu với!
+304|Khoan đã!
+305|Momonosuke-sama!
+306|Kanjuro của Hồng Bao đã phản bội chúng ta!
+307|Momonosuke-sama!
+308|Tại sao?!
+309|Vậy Kanjuro là gián điệp, đúng không, Robin?
+310|Có vẻ vậy.
+311|Chúng ta phải cứu Momo!
+312|Cái gì?!
+313|Luffy!
+314|Kanjuro là gián điệp của kẻ địch!
+315|Anh ta đang bắt Momo đi!
+316|Cái gì?!
+317|Chắc chắn chứ?!
+318|Vậy anh ta lừa chúng ta suốt thời gian qua sao?!
+319|Tên khốn đó!
+320|Hắn đang bay vào mây!
+321|Tôi sẽ bắn hạ hắn!
+322|Lethal Green Star: Platanus Shuriken!
+323|Thật đáng tiếc, nhưng...
+324|Tôi không có thời gian cho lũ nghiệp dư các cậu!
+325|Cái đám mây này là sao?!
+326|Không, Sanji-dono!
+327|Lùi lại!
+328|Tôi có linh cảm xấu!
+329|Tôi đoán lại là một chiêu chúng ta chưa từng thấy...
+330|Mây Mực!
+331|Hãy để mưa tên mực trút xuống!
+332|Ukiyo Portrait: Evening Tempest!
+333|Bẻ lái sang trái hết cỡ!
+334|Tránh xa đám mây!
+335|Không!
+336|Nami!
+337|Người duy nhất được phép bắn tên xuyên tim Nami và Robin...
+338|là tôi!
+339|Sanji!
+340|Dừng lại đi, Kanjuro!
+341|Họ sẽ chết hết!
+342|Đúng vậy...
+343|Họ sẽ chết hết...
+344|cuối cùng cũng vậy!
+345|Cha ngươi Oden,
+346|và mẹ ngươi Toki đã gieo hy vọng hão huyền,
+347|chỉ để lũ ngốc đó thoát chết suốt hai mươi năm...
+348|Ta thấy thật buồn cười khi thủ lĩnh của những samurai hung hãn đầy hận thù đó...
+349|chỉ là một đứa trẻ nhát gan sợ độ cao.
+350|Đúng là một vở hài kịch!
+351|Em biết...
+352|Em không phải Kozuki Oden...
+353|Em biết rõ điều đó hơn ai hết!
+354|Em phải làm sao đây?!
+355|Em không làm được gì cả...
+356|C...
+357|Cứ...
+358|Em đang muốn nói gì thế này?!
+359|Nếu em nói thế thì sẽ chẳng ai giúp em!
+360|Nhưng mà...
+361|Mọi người!
+362|Mọi người có nghe em không?!
+363|Momonosuke-sama!
+364|Tất cả các ngươi, đừng lo cho ta!
+365|Đó chính xác là điều chúng muốn!
+366|Ta sẽ tự thoát thân!
+367|Vì vậy ta kêu gọi các ngươi hạ Kaido và Orochi và cứu Wano!
+368|Cậu ấy nói với sự cao quý trong sáng làm sao!
+369|Momonosuke-sama!
+370|Momonosuke-sama!
+371|Momo bé nhỏ đã đứng lên như một người đàn ông...
+372|Đúng thế, Momo!
+373|Cậu...
+374|có thể chỉ là đồ nhát gan ngốc nghếch,
+375|nhưng cậu giỏi làm bộ làm tịch lắm, nhóc búi tóc!
+376|Sao hắn dám nói năng thô lỗ với Momonosuke-sama?!
+377|Tên khốn đó là ai?!
+378|Chặt hắn ra!
+379|Hãy giữ mạng sống của cậu!
+380|Tôi nhất định sẽ cứu cậu!
+381|Vì chúng ta là bạn!
+382|Được rồi...
+383|Đến Onigashima thôi!
+384|– Vâng! – Vâng!
+385|Luffy!
+386|Một chiếc tàu địch đang bỏ chạy!
+387|Kệ nó!
+388|Dù sao chúng ta cũng đi hướng đó, lát nữa đánh chìm sau!
+389|Hả?! Tôi tưởng còn một chiếc tàu nữa.
+390|À, ừ, tôi đánh chìm rồi.
+391|Kin! Tha lỗi cho tôi!
+392|Lẽ ra tôi phải cứu cậu ấy!
+393|Tại hạ chỉ mừng là ngươi an toàn.
+394|Tại hạ không nghĩ họ sẽ lấy mạng Momonosuke-sama vội.
+395|Nhân tiện, Denjiro!
+396|Mặt anh...
+397|bị làm sao vậy?!
+398|Chuyện dài lắm.
+399|Tôi mừng khi gặp lại các vị!
+400|Mọi người!
+401|Mọi người ổn cả chứ?!
+402|Có vài người bị thương và tàu hư hại!
+403|Mau lên đảo thôi!
+404|Chúng ta không muốn chết giữa biển!
+405|Này!
+406|Đây không phải nhà trẻ samurai!
+407|– Nhờ cả vào các cậu. – Nhờ cả vào các cậu.
+408|Không đâu!
+409|Xuống đi!
+410|Các cậu!
+411|Đừng tụt lại sau băng Mũ Rơm!
+412|– Vâng! – Vâng!
+413|Cái gì?! Cái đó từ đâu ra vậy?!
+414|Nó đến từ chiếc tàu bỏ chạy!
+415|Pháo tầm xa ư?!
+416|Chúng chỉ đang kéo giãn khoảng cách!
+417|Làm sao chúng bắn trúng ta từ xa thế?!
+418|Vũ khí của Wano thuộc hàng đỉnh!
+419|Nhờ các nhà máy ở Wano, băng Bách Thú chúng ta có kho vũ khí khổng lồ!
+420|Thử bay đến chỗ bọn tao như lần trước xem nào!
+421|Lùi tàu lại!
+422|Chúng ta quá gần!
+423|Chết tiệt! Tôi biết chúng rút lui hăng quá mà...
+424|Hết tốc lực tiến lên!
+425|Phải đến gần hơn!
+426|Tao không quan tâm chúng đánh chìm bao nhiêu tàu samurai!
+427|Ôi không!
+428|Nếu chúng giữ khoảng cách này...
+429|tất cả chúng ta sẽ chìm!
+430|Hết rồi!
+431|Chúng không làm được gì đâu!
+432|Bắn! Bắn!
+433|Ngư Nhân Không Thủ:
+434|Sóng Giáo!
+435|Thủng thân tàu!
+436|Cứu với!
+437|Tôi đang rơi!
+438|Ngư Nhân Không Thủ:
+439|Mưa Rào Sóng Giáo!
+440|Pháo tầm xa...!
+441|Có chuyện gì đó đang xảy ra.
+442|Có lẽ hồn ma của đứa trẻ chết đuối...
+443|đang giết chúng...
+444|Nghe còn yên bình so với chuyện này!
+445|Chuyện gì đang xảy ra vậy?!
+446|Ai ngoài kia?
+447|Mọi người!
+448|Xin cho tôi xin chú ý một chút...!
+449|Tôi sinh ra...
+450|ở Khu Ngư Nhân của Vương quốc Ryugu, dưới đáy biển...
+451|Tôi đã gây rất nhiều phiền phức cho những người tôi từng phục vụ.
+452|Và giờ tôi uống chén rượu của Đại ca Mũ Rơm...
+453|với tư cách một tân binh bé nhỏ của băng này!
+454|Người ta gọi tôi là...
+455|Jinbe, Hiệp sĩ Biển!
+456|Đùa à.
+457|Ông ta sẽ gia nhập băng Mũ Rơm sao?!
+458|Tôi xin được ra mắt một cách khiêm tốn,
+459|và mong chờ tình huynh đệ hòa thuận cùng các vị!
+460|– Jinbe! – Jinbe!
+461|– Đại ca! – Đại ca!
+462|– Jinbe! – Jinbe!
+463|Cảm ơn mọi người đã dung thứ cho tôi!
+464|Luffy!
+465|Tôi đã sống sót trở về như đã hứa với cậu!
+466|Tôi mừng vì đã kịp trận chiến!
+467|Habuminato
+468|/
+469|/
+470|Hato
+471|Bến tàu
+472|(Hato)
+473|Jinbe, "Hiệp sĩ Biển"
+474|Jinbe, "Hiệp sĩ Biển"
+475|Jinbe, "Hiệp sĩ Biển"
+476|Jinbe, "Hiệp sĩ Biển"
+477|Jinbe, "Hiệp sĩ Biển"
+478|Jinbe, "Hiệp sĩ Biển"
+479|Jinbe, "Hiệp sĩ Biển"
+480|Jinbe, "Hiệp sĩ Biển"
+481|Jinbe, "Hiệp sĩ Biển"
+482|Jinbe, "Hiệp sĩ Biển"
+483|Jinbe, "Hiệp sĩ Biển"
+484|Jinbe, "Hiệp sĩ Biển"
+485|Jinbe, "Hiệp sĩ Biển"
+486|Jinbe, "Hiệp sĩ Biển"
+487|Jinbe, "Hiệp sĩ Biển"
+488|Jinbe, "Hiệp sĩ Biển"
+489|Jinbe, "Hiệp sĩ Biển"
+490|Jinbe, "Hiệp sĩ Biển"
+491|Jinbe, "Hiệp sĩ Biển"
+492|Jinbe, "Hiệp sĩ Biển"
+493|Jinbe, "Hiệp sĩ Biển"
+494|Jinbe, "Hiệp sĩ Biển"
+495|Jinbe, "Hiệp sĩ Biển"
+496|Jinbe, "Hiệp sĩ Biển"
+497|Jinbe, "Hiệp sĩ Biển"
+498|Jinbe, "Hiệp sĩ Biển"
+499|Jinbe, "Hiệp sĩ Biển"
+500|Jinbe, "Hiệp sĩ Biển"
+501|Jinbe, "Hiệp sĩ Biển"
+502|Jinbe, "Hiệp sĩ Biển"
+503|Jinbe, "Hiệp sĩ Biển"
+504|Jinbe, "Hiệp sĩ Biển"
+505|Jinbe, "Hiệp sĩ Biển"
+506|Jinbe, "Hiệp sĩ Biển"
+507|Jinbe, "Hiệp sĩ Biển"
+508|Jinbe, "Hiệp sĩ Biển"
+509|Jinbe, "Hiệp sĩ Biển"
+510|Jinbe, "Hiệp sĩ Biển"
+511|Jinbe, "Hiệp sĩ Biển"
+512|Jinbe, "Hiệp sĩ Biển"
+513|Jinbe, "Hiệp sĩ Biển"
+514|Jinbe, "Hiệp sĩ Biển"
+515|Jinbe, "Hiệp sĩ Biển"
+516|Jinbe, "Hiệp sĩ Biển"
+517|Jinbe, "Hiệp sĩ Biển"
+518|Jinbe, "Hiệp sĩ Biển"
+519|Jinbe, "Hiệp sĩ Biển"
+520|Jinbe, "Hiệp sĩ Biển"
+521|Jinbe, "Hiệp sĩ Biển"
+522|Jinbe, "Hiệp sĩ Biển"
+523|Jinbe, "Hiệp sĩ Biển"
+524|Jinbe, "Hiệp sĩ Biển"
+525|Jinbe, "Hiệp sĩ Biển"
+526|Jinbe, "Hiệp sĩ Biển"
+527|Jinbe, "Hiệp sĩ Biển"
+528|Jinbe, "Hiệp sĩ Biển"
+529|Jinbe, "Hiệp sĩ Biển"
+530|Jinbe, "Hiệp sĩ Biển"
+531|Jinbe, "Hiệp sĩ Biển"
+532|Jinbe, "Hiệp sĩ Biển"
+533|Jinbe, "Hiệp sĩ Biển"
+534|Jinbe, "Hiệp sĩ Biển"
+535|Jinbe, "Hiệp sĩ Biển"
+536|Jinbe, "Hiệp sĩ Biển"
+537|Jinbe, "Hiệp sĩ Biển"
+538|Jinbe, "Hiệp sĩ Biển"
+539|Jinbe, "Hiệp sĩ Biển"
+540|Jinbe, "Hiệp sĩ Biển"
+541|Jinbe, "Hiệp sĩ Biển"
+542|Jinbe, "Hiệp sĩ Biển"
+543|Jinbe, "Hiệp sĩ Biển"
+544|Jinbe, "Hiệp sĩ Biển"
+545|Jinbe, "Hiệp sĩ Biển"
+546|Jinbe, "Hiệp sĩ Biển"
+547|Jinbe, "Hiệp sĩ Biển"
+548|Jinbe, "Hiệp sĩ Biển"
+549|Jinbe, "Hiệp sĩ Biển"
+550|Jinbe, "Hiệp sĩ Biển"
+551|Jinbe, "Hiệp sĩ Biển"
+552|Jinbe, "Hiệp sĩ Biển"
+553|Jinbe, "Hiệp sĩ Biển"
+554|Jinbe, "Hiệp sĩ Biển"
+555|Jinbe, "Hiệp sĩ Biển"
+556|Jinbe, "Hiệp sĩ Biển"
+557|Jinbe, "Hiệp sĩ Biển"
+558|Jinbe, "Hiệp sĩ Biển"
+559|Jinbe, "Hiệp sĩ Biển"
+560|Jinbe, "Hiệp sĩ Biển"
+561|Jinbe, "Hiệp sĩ Biển"
+562|Jinbe, "Hiệp sĩ Biển"
+563|Jinbe, "Hiệp sĩ Biển"
+564|Jinbe, "Hiệp sĩ Biển"
+565|Jinbe, "Hiệp sĩ Biển"
+566|Jinbe, "Hiệp sĩ Biển"
+567|Jinbe, "Hiệp sĩ Biển"
+568|Jinbe, "Hiệp sĩ Biển"
+569|Jinbe, "Hiệp sĩ Biển"
+570|Jinbe, "Hiệp sĩ Biển"
+571|Jinbe, "Hiệp sĩ Biển"
+572|Jinbe, "Hiệp sĩ Biển"
+573|Jinbe, "Hiệp sĩ Biển"
+574|Jinbe, "Hiệp sĩ Biển"
+575|Jinbe, "Hiệp sĩ Biển"
+576|Jinbe, "Hiệp sĩ Biển"
+577|Jinbe, "Hiệp sĩ Biển"
+578|Jinbe, "Hiệp sĩ Biển"
+579|Jinbe, "Hiệp sĩ Biển"
+580|Jinbe, "Hiệp sĩ Biển"
+581|Jinbe, "Hiệp sĩ Biển"
+582|Jinbe, "Hiệp sĩ Biển"
+583|Jinbe, "Hiệp sĩ Biển"
+584|Jinbe, "Hiệp sĩ Biển"
+585|Jinbe, "Hiệp sĩ Biển"
+586|Jinbe, "Hiệp sĩ Biển"
+587|Jinbe, "Hiệp sĩ Biển"
+588|Jinbe, "Hiệp sĩ Biển"
+589|Jinbe, "Hiệp sĩ Biển"
+590|Jinbe, "Hiệp sĩ Biển"
+591|Jinbe, "Hiệp sĩ Biển"
+592|Jinbe, "Hiệp sĩ Biển"
+593|Jinbe, "Hiệp sĩ Biển"
+594|Jinbe, "Hiệp sĩ Biển"
+595|Jinbe, "Hiệp sĩ Biển"
+596|Jinbe, "Hiệp sĩ Biển"
+597|Jinbe, "Hiệp sĩ Biển"
+598|Jinbe, "Hiệp sĩ Biển"
+599|Jinbe, "Hiệp sĩ Biển"
+600|Jinbe, "Hiệp sĩ Biển"
+601|Jinbe, "Hiệp sĩ Biển"
+602|Jinbe, "Hiệp sĩ Biển"
+603|Jinbe, "Hiệp sĩ Biển"
+604|Jinbe, "Hiệp sĩ Biển"
+605|Jinbe, "Hiệp sĩ Biển"
+606|Jinbe, "Hiệp sĩ Biển"
+607|Jinbe, "Hiệp sĩ Biển"
+608|Jinbe, "Hiệp sĩ Biển"
+609|Jinbe, "Hiệp sĩ Biển"
+610|Jinbe, "Hiệp sĩ Biển"
+611|Jinbe, "Hiệp sĩ Biển"
+612|Jinbe, "Hiệp sĩ Biển"
+613|Jinbe, "Hiệp sĩ Biển"
+614|Jinbe, "Hiệp sĩ Biển"
+615|Jinbe, "Hiệp sĩ Biển"
+616|Jinbe, "Hiệp sĩ Biển"
+617|Jinbe, "Hiệp sĩ Biển"
+618|Jinbe, "Hiệp sĩ Biển"
+619|Jinbe, "Hiệp sĩ Biển"
+620|Jinbe, "Hiệp sĩ Biển"
+621|Jinbe, "Hiệp sĩ Biển"
+622|Jinbe, "Hiệp sĩ Biển"
+623|Jinbe, "Hiệp sĩ Biển"
+624|Jinbe, "Hiệp sĩ Biển"
+625|Jinbe, "Hiệp sĩ Biển"
+626|Jinbe, "Hiệp sĩ Biển"
+627|Jinbe, "Hiệp sĩ Biển"
+628|Jinbe, "Hiệp sĩ Biển"
+629|Jinbe, "Hiệp sĩ Biển"
+630|Jinbe, "Hiệp sĩ Biển"
+631|Jinbe, "Hiệp sĩ Biển"
+632|Jinbe, "Hiệp sĩ Biển"
+633|Jinbe, "Hiệp sĩ Biển"
+634|Jinbe, "Hiệp sĩ Biển"
+635|Jinbe, "Hiệp sĩ Biển"
+636|Jinbe, "Hiệp sĩ Biển"
+637|Jinbe, "Hiệp sĩ Biển"
+638|Jinbe, "Hiệp sĩ Biển"
+639|Jinbe, "Hiệp sĩ Biển"
+640|Jinbe, "Hiệp sĩ Biển"
+641|Jinbe, "Hiệp sĩ Biển"
+642|Jinbe, "Hiệp sĩ Biển"
+643|Jinbe, "Hiệp sĩ Biển"
+644|Jinbe, "Hiệp sĩ Biển"
+645|Jinbe, "Hiệp sĩ Biển"
+646|Jinbe, "Hiệp sĩ Biển"
+647|Jinbe, "Hiệp sĩ Biển"
+648|Jinbe, "Hiệp sĩ Biển"
+649|Jinbe, "Hiệp sĩ Biển"
+650|Jinbe, "Hiệp sĩ Biển"
+651|Jinbe, "Hiệp sĩ Biển"
+652|Jinbe, "Hiệp sĩ Biển"
+653|Jinbe, "Hiệp sĩ Biển"
+654|Jinbe, "Hiệp sĩ Biển"
+655|Jinbe, "Hiệp sĩ Biển"
+656|Jinbe, "Hiệp sĩ Biển"
+657|Jinbe, "Hiệp sĩ Biển"
+658|Jinbe, "Hiệp sĩ Biển"
+659|Jinbe, "Hiệp sĩ Biển"
+660|Jinbe, "Hiệp sĩ Biển"
+661|Jinbe, "Hiệp sĩ Biển"
+662|Jinbe, "Hiệp sĩ Biển" Người lái tàu của băng Mũ Rơm. Tiền truy nã: 438 triệu Beri

@@ -1,0 +1,112 @@
+1|Các người cứ lên núi trước đi!
+2|Đại ca Shutenmaru!
+3|Tôi có linh cảm chẳng lành.
+4|Hắn điên rồi...
+5|Xong trong chớp mắt. Chưa đủ lâu để hắn tỉnh rượu.
+6|Mũ Rơm!
+7|Ngài Kaido!
+8|Chết rồi!
+9|Mẹ ơi!
+10|Khốn kiếp! Nhà tôi...! Nhà của tôi!
+11|Cha ơi!
+12|Gear Third!
+13|Gomu Gomu...
+14|Elephant Gun!
+15|Ngài Kaido đang rơi từ trên trời xuống!
+16|Ai kia?!
+17|Ồ! Đó là gã đã hạ Yokozuna Urashima và đại ca Holdem!
+18|Kiku!
+19|Tôi đây, ngài Kin!
+20|Kiku! Cô không sao chứ?!
+21|Vâng.
+22|Nhưng mà...
+23|Thành Oden!
+24|Cậu chủ Momonosuke!
+25|Xin hãy khoan!
+26|Sao?! Phải xem cậu ấy có ổn không chứ!
+27|Nếu cậu ấy xảy ra chuyện...!
+28|Tôi cũng nghĩ như vậy!
+29|Nhưng bây giờ chẳng phải còn người khác cần lo sao?!
+30|Tsuru...
+31|Hắn có thể tỉnh dậy và tiếp tục nổi điên bất cứ lúc nào!
+32|Nếu vậy thì thị trấn Okobore sẽ...
+33|Tôi hiểu rồi. Tôi sẽ đến thị trấn Okobore.
+34|Kiku, hãy chăm sóc cậu chủ Momonosuke!
+35|Dĩ nhiên rồi!
+36|Mọi người ổn chứ! Cuối cùng cũng thoát được cả rồi phải không?!
+37|Các người ơi?!
+38|Bà Speed!
+39|Cố lên! Chuyện gì đã xảy ra vậy?!
+40|Tôi tưởng bà ấy đã rời thị trấn rồi!
+41|Bà ấy vừa rơi xuống từ trên người ngài Kaido!
+42|Bà Speed! Bà Speed!
+43|Mày là cái quái gì vậy?!
+44|Này, là Horsella!
+45|Horsella!
+46|Bà Speed!
+47|Ngươi là...
+48|Sao ngươi lại ở đây?!
+49|Tama đâu?! Ngươi đã đưa cô bé về nhà rồi chứ?!
+50|Nói đi, Horsella!
+51|Tổng đốc Kaido phát hiện bọn tôi trên đường đến đó...
+52|Tôi đã cố chiến đấu...
+53|nhưng không thể bảo vệ...
+54|chủ nhân của tôi!
+55|Ngươi đi đâu vậy, Speed?!
+56|Horsella!
+57|Tôi nhận được một bản báo cáo lạ...
+58|Khốn kiếp!
+59|Lẽ ra tôi phải...
+60|ở lại với cô ấy!
+61|Mũ Rơm!
+62|Cậu làm gì vậy?! Chạy thôi!
+63|Hắn to xác thế, chắc còn chưa biết chuyện gì vừa xảy ra!
+64|Vẫn chưa muộn đâu!
+65|Hắn đã bắt Tama.
+66|Kin'emon và những người khác...
+67|Đồng đội của tôi và của cậu...
+68|Không biết họ có ổn không!
+69|Nếu bây giờ tôi đá đít hắn...
+70|thì mọi chuyện sẽ kết thúc, phải không?
+71|Kaido!
+72|Tao ở đây này!
+73|Ngươi là...
+74|Luffy.
+75|Người sẽ trở thành Vua Hải Tặc!
+76|Blast Breath!
+77|Vậy là ngươi đã đến...
+78|Wano!
+79|Gear Third!
+80|Xong đời rồi!
+81|Hắn phá hỏng hết rồi!
+82|Gomu Gomu...
+83|Tao sẽ không bao giờ quên vị súp oshiruko và quả táo tao được ăn hôm nay!
+84|Elephant Gatling!
+85|Tao sẽ đánh bay mày, Kaido!
+86|Gomu Gomu...
+87|Grizzly...
+88|Magnum!
+89|Gear Fourth!
+90|Boundman!
+91|Sao dám...
+92|động vào bạn bè của tao, đồ khốn!
+93|Gomu Gomu...
+94|Kong Gun!
+95|Gomu Gomu...
+96|Double Culverin!
+97|Gomu Gomu...
+98|Kong Organ!
+99|Gã đó là ai vậy?
+100|Gomu Gomu...
+101|King Kong Gun!
+102|Thunder Bagua!
+103|Thằng ngốc đó!
+104|Không tin nổi. Hắn vẫn còn thở.
+105|Ta đã đoán vậy.
+106|Gì?
+107|Không biết là ý chí bất khuất hay là liều lĩnh...
+108|nhưng hắn cứ trừng mắt nhìn ta.
+109|Với tôi thì hắn chỉ như bất tỉnh thôi...
+110|Ngươi nói ngươi sẽ làm vị vua thế nào nhỉ?
+111|Nhóc con?!
+112|"Oden"

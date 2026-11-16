@@ -1,0 +1,356 @@
+1|Law...
+2|Law...
+3|Đi...
+4|Law...
+5|Tên thật của tôi là...
+6|Trafalgar D. Water Law.
+7|Đó là bí mật à?
+8|Ừ.
+9|Bất ngờ thật. Vậy cậu cũng có chữ D. trong tên.
+10|Tôi nói vì tôi tin cậu.
+11|Cảm ơn cậu.
+12|Nhưng... tôi không có câu trả lời nào cho cậu cả.
+13|Luffy có thể không bận tâm,
+14|nhưng riêng tôi...
+15|tôi cũng muốn biết D. nghĩa là gì.
+16|Vậy là ta chỉ còn cách lần theo những viên đá đỏ?
+17|Đúng vậy...
+18|Và nghĩa là phải đánh đổ Tứ Hoàng.
+19|Dù sao thì họ cũng đâu tự nguyện giao ra.
+20|Không phải cái này...
+21|Phải là màu đỏ.
+22|Ở một vài nơi, những người mang chữ D. từng bị gọi là...
+23|"Kẻ Thù Tự Nhiên của Thần!"
+24|Này, Cora...
+25|Tôi vẫn muốn biết...
+26|tại sao tôi phải sống...
+27|một cuộc đời đầy thăng trầm thế này.
+28|Usopp! Cậu ổn không?!
+29|Cậu nghĩ tôi là ai hả?!
+30|Tôi chắc chắn là không ổn...
+31|Ừ, chắc chắn là không ổn rồi...
+32|Nhưng ít ra thì tôi ổn.
+33|Thật không?
+34|Này, Otama. Sao em đến được đây?
+35|Một tên địch cho em đi nhờ thuyền!
+36|Gì?! Địch á?!
+37|Pay-Pay! Nhai con chó đó đi!
+38|Tự làm đi!
+39|Chết tiệt! Con khỉ đột này là sao?!
+40|Nó từ đâu chui ra vậy?!
+41|Hihimaru!
+42|Cầm chân chúng ba phút!
+43|Hai người đó nghiêm túc đấy! Con khỉ khổng lồ kia sẽ bị thương mất!
+44|Đừng coi thường bọn ta, Onami!
+45|Bọn ta đến đây...
+46|với tư cách samurai!
+47|Tránh ra!
+48|Chúng ta đánh mãi thế này cũng được, Thiếu chủ Yamato.
+49|Có điều, ta không thể để mất thêm Đội Thiết Giáp bất khả xâm phạm của ta nữa.
+50|Sao ngươi dám làm hại nhiều người của ta như vậy?!
+51|Nhắm!
+52|Bắn!
+53|Momonosuke! Shinobu!
+54|Yamato...
+55|Nếu cứ tiếp tục trúng đạn...
+56|Chuyện nhỏ thôi.
+57|Nếu ngươi là samurai thì phải quyết định đi!
+58|Bỏ ta lại đây và đưa cậu chủ Momonosuke...
+59|Không!
+60|Nếu là Oden...
+61|Nếu là Kozuki Oden...
+62|ngài ấy sẽ không bao giờ làm vậy!
+63|Cứng đầu thật...
+64|Ngươi nghĩ mình thắng nổi ta khi còn lo cho đám yếu đuối đó sao?
+65|Thật kiêu ngạo, Thiếu chủ Yamato!
+66|Sasaki...
+67|Vừa nãy là gì vậy?!
+68|Tránh ra! Tránh ra!
+69|Tránh đường!
+70|Franosuke!
+71|Hả? Momo?!
+72|Mừng là cậu vẫn khỏe! Shinobu, cô ổn chứ?!
+73|Đó là...
+74|Ta biết hắn! Hắn thuộc băng của Luffy!
+75|Cyborg Franky! Tiền truy nã 94 triệu Beri!
+76|Khó tin là có thật!
+77|Haccha?! Sao ngươi lại ở đây?!
+78|Ôi không, tệ rồi!
+79|Đừng có mà dám, đồ ngốc!
+80|Có phải vì không bắt được tao không? Trẻ con thật!
+81|Đội Thiết Giáp! Đừng để chúng thoát! Bằng mọi giá phải ngăn chúng chạy!
+82|Hắn phá thủng sàn rồi!
+83|À đúng rồi! Bên dưới còn có một tầng nữa!
+84|Momonosuke! Shinobu! Ta cứ thế này mà đi xuống!
+85|Momo! Shinobu! Hai người ổn không?!
+86|Có bị bắt không?!
+87|Không! Đây là đồng minh!
+88|Cyborg Franky! Tại hạ giao kẻ địch cho ngươi!
+89|Các ngươi là ai?!
+90|Luffy giao hai người này cho tôi!
+91|Tôi không biết cậu là ai...
+92|nhưng tôi hiểu rồi! Cứ tin tưởng ở tôi!
+93|Shinobu, đưa Momonosuke đi!
+94|Hả?
+95|Tôi muốn trả ơn!
+96|Tôi sẽ quay lại ngay!
+97|Ít nhất tôi phải hạ hắn...
+98|Narikabura Arrow!
+99|Được rồi!
+100|Người lạ đó làm ra chuyện này sao?!
+101|Đó là ai vậy?
+102|Haccha?!
+103|Khốn kiếp!
+104|Yamato đưa Momonosuke xuống cái hố đó rồi!
+105|Lập đội truy đuổi! Đuổi theo chúng ngay!
+106|Đội Thiết Giáp! Xử lý con robot chết tiệt này!
+107|Momonosuke!
+108|Con phải sống sót!
+109|Bằng mọi giá phải sống sót!
+110|Người sẽ dẫn dắt thế giới đến một bình minh mới...
+111|chính là con!
+112|Kaido!
+113|Phiền phức thật!
+114|Các ngươi thua rồi, đồ ngu!
+115|Bà ta đến rồi!
+116|Big Mom đã quay lại!
+117|Đừng lo! Tôi chỉ muốn lên...
+118|chỗ Kaido thôi.
+119|Tôi biết cách chống virus!
+120|Anh biết sao?!
+121|Chạy đi, Apoo!
+122|Đừng để màn kịch này kết thúc sớm!
+123|Omasa!
+124|Này! Tỉnh lại đi!
+125|Không còn cách nào khác nhỉ?
+126|Không... Cuối cùng tôi cũng đến được đây...
+127|Tôi không muốn chết ở đây!
+128|Làm ơn, cứu tôi...
+129|Hắn vẫn bám theo tôi!
+130|Phiền quá! Hắn không chịu buông tha!
+131|Apoo!
+132|Đưa kháng thể đây!
+133|Drake, đồ khốn!
+134|Anh đây rồi! Yểm trợ tôi đi!
+135|Anh làm gì vậy?! Phải cùng đánh hắn chứ!
+136|Chết tiệt!
+137|Như tôi đã nói, hai người đánh tôi là không công bằng!
+138|Hắn muốn đấu đơn với tôi!
+139|Đúng không?!
+140|Tôi chẳng hiểu chuyện gì đang xảy ra. Không ngờ anh lại bình thản thế!
+141|Thôi được... Xem này!
+142|Gì?!
+143|Này! Zoro!
+144|À, Chopper.
+145|Cảm ơn nhé!
+146|Giao tầng này cho cậu được không?
+147|Tôi không ở lại xem được.
+148|Cậu sống sót được chứ?
+149|Tất nhiên!
+150|Tôi đã hiểu cách virus hoạt động rồi!
+151|Đúng là người của tôi!
+152|Hắn định gom hết kim loại trong lâu đài sao?!
+153|Chết tiệt!
+154|Eustass Captain Kid!
+155|Cản hắn lại! Đừng để hắn lên sân thượng!
+156|Chúng đến rồi.
+157|Để ta chào đón chúng...
+158|bằng khối lượng áp đảo này!
+159|Không né cũng được. Cứ lao thẳng vào bọn tao!
+160|Cậu nghĩ thế này đủ chưa, Killer?!
+161|Kẻ địch của ta là hải tặc mạnh nhất thế giới...
+162|Có bao nhiêu cũng không thừa.
+163|Đúng vậy!
+164|Cản Mũ Rơm lại!
+165|Chúng ta đang ở tầng mấy?!
+166|Sắp đến tầng ba rồi!
+167|Sân thượng nằm trên tầng năm!
+168|Được rồi! Kin'emon, đợi tôi nhé!
+169|Đó là...
+170|Này! Các cậu có nghe thấy không?
+171|Hả? Nghe gì cơ?
+172|Ôi không... Nó phát ra từ tầng ba!
+173|Thế nào hả? Thế nào hả?
+174|Xin đừng!
+175|Ta cần nó!
+176|Không nên đâu!
+177|Hư quá!
+178|Đợi bọn tôi với, Kin'emon!
+179|Sân thượng ở hướng nào?!
+180|Hướng đó!
+181|Được rồi!
+182|Thế nào hả? Thế nào hả?
+183|Không nên đâu! Không nên đâu!
+184|Hư quá!
+185|Tại hạ có việc hệ trọng phải làm.
+186|Các vị cứ đi trước!
+187|Xong việc tại hạ sẽ đuổi theo ngay!
+188|Tôi nghe thấy rồi!
+189|Hư quá!
+190|Một mỹ nhân...
+191|đang kêu cứu!
+192|Hư quá!
+193|Đúng rồi, lại đây nào!
+194|Ôi, đừng làm thế mà!
+195|Em dễ thương lắm, thế nào hả?
+196|Không nên đâu!
+197|Thế nào hả?
+198|Thật sự không nên đâu!
+199|Thế nào hả?
+200|Xin hãy dừng lại!
+201|Hư quá!
+202|Quấy rối tình dục kiểu samurai!
+203|"Thế nào hả?", "Hư quá!"
+204|Hư quá!
+205|Kẻ có quyền thế đang cởi kimono của một người phụ nữ bất lực.
+206|Thứ mà người phụ nữ xoay tròn đánh mất sau mỗi vòng...
+207|không chỉ là chiếc váy!
+208|Mà là phẩm giá!
+209|Cố lên! Cứu viện đang đến!
+210|Thế nào...?
+211|Không được đâu!
+212|Dừng lại!
+213|Gì vậy?! Cái gì thế này?!
+214|Hư quá!
+215|Mạng nhện?!
+216|Hư quá!
+217|Này, dừng lại!
+218|Hư quá!
+219|– Bẫy Hư Hỏng! – Bẫy Hư Hỏng!
+220|Lại thêm một tên biến thái mặc áo giáp sáng chói đến...
+221|Chết tiệt... Là bẫy...
+222|Chân Đen Sanji của băng Mũ Rơm.
+223|Tiền truy nã 330 triệu Beri!
+224|Chắc đang đua với đồng đội Zoro.
+225|Tôi nghĩ tên này truy nã cao hơn.
+226|Wow! Bắt được mồi lớn rồi!
+227|Cởi trói cho tao ngay thì tao bỏ qua cho!
+228|Ôi, đáng sợ quá! Anh đang tống tiền bọn em đấy!
+229|Tôi có chỗ phải đến!
+230|Nếu anh đi, chiến trường sẽ lan sang chỗ này mất.
+231|Mà bọn em không muốn sảnh tiệc bị cuốn vào đâu.
+232|Đồng minh đang đợi tao! Cởi cái dây chết tiệt này ra đi!
+233|Mấy cậu bé nói bậy làm em rạo rực quá.
+234|"Cậu bé"?! Đừng có giỡn mặt tao!
+235|Này... anh thấy sao?
+236|Anh có...
+237|thích em không?
+238|Thôi đi! Tao không...
+239|Tao không thích cô...
+240|Tao yêu cô!
+241|Này, Gorishiro! Mày làm chuối dính vào tao rồi!
+242|Ngài Poker! Mũ Rơm và Jinbe đang tiến về phía ngài!
+243|Ừ, biết rồi.
+244|Đáng tiếc là tôi để Kid lọt qua...
+245|Nhưng nhìn kìa! Tiền truy nã của Mũ Rơm là 1,5 tỷ Beri!
+246|Hạ hắn không chỉ rửa sạch tiếng xấu của tôi đâu!
+247|Trời ơi! Thôi nào!
+248|Tôi mà vào Tobiroppo á? Khá đấy chứ.
+249|Mũ Rơm! Mũ Rơm!
+250|Lối này!
+251|Họ là ai vậy?
+252|Ồ, là mấy người!
+253|Những người ở Udon!
+254|Này, Mũ Rơm chưa đến sao?!
+255|Cậu ấy sắp tới rồi!
+256|Một cái thang...
+257|Ừ, có thể leo lên tầng bốn bằng cái này.
+258|Một đám địch đang đợi ở cầu thang.
+259|Giúp ích nhiều lắm. Cảm ơn!
+260|Cậu ấy đâu rồi?!
+261|Mọi người nghe đây!
+262|Dùng lửa chống lại quỷ băng!
+263|Virus này hòa với khí lạnh đang làm cơ thể chúng ta giá buốt!
+264|Nhìn tôi này!
+265|Nếu ngăn được cái lạnh, virus sẽ không nhân lên được!
+266|Trong lúc đó, tôi sẽ điều chế đủ kháng thể cho mọi người!
+267|Tôi là bác sĩ! Tôi sẽ cứu tất cả, cả đồng minh lẫn kẻ địch!
+268|– Gì cơ?! – Gì cơ?!
+269|Tất cả?! Kể cả Omasa?!
+270|Nên hãy sống sót! Đừng để gã đáng sợ đó giết các người!
+271|Hay lắm, tanuki!
+272|Còn ngươi thật thảm hại, Apoo!
+273|Ta đã cho các ngươi một trò chơi quỷ nho nhỏ thú vị...
+274|vậy mà ngươi nhất định phải phá hỏng!
+275|Hai ngươi làm ta hết chịu nổi rồi!
+276|Gì?!
+277|Trò chơi cái quái gì!
+278|Hả?
+279|Tao đến hòn đảo này không phải để chơi đùa với lũ thua cuộc chúng mày!
+280|Tao đến để chặt Kaido...
+281|cái gã được gọi là mạnh nhất thế giới!
+282|Gì?!
+283|Cơn giận của hắn gây ra động đất sao?!
+284|Là Haki Bá Vương à?!
+285|Bám vào cái gì đó! Mọi người cố lên!
+286|Zoro, cậu làm gì vậy?! Không ngờ cậu làm ra chuyện này!
+287|Chắc chắn không phải tôi.
+288|Rung lắc gì thế này?!
+289|Tôi sợ quá!
+290|Không, tôi không sợ!
+291|Không sao đâu! Cứ tiến lên!
+292|Nhanh lên nào!
+293|Cái gì vậy?! Động đất sao, Jinbe?!
+294|Xét về địa chất, hòn đảo này rất đặc biệt, nhưng...
+295|Vô ích thôi! Không vào được bờ!
+296|Tạm thời rời khỏi Onigashima đã!
+297|Cái quái...
+298|Nôn nóng thật...
+299|Đảo đang chìm sao?!
+300|Onigashima... Chuyện quái gì đang xảy ra vậy?!
+301|Cậu nghĩ thuyền trưởng có ổn không?!
+302|Momonosuke! Cậu phải sống sót là ưu tiên hàng đầu!
+303|Lên thuyền rời khỏi đây thôi!
+304|Phải nhanh lên.
+305|Tôi có linh cảm xấu về chuyện này!
+306|Vừa rồi là gì vậy?
+307|Hết rung rồi.
+308|Tôi hiểu cảm giác của cậu, Zoro... Tôi cũng thấy rồi.
+309|Cánh tay của Okiku!
+310|Tôi cũng vậy!
+311|Tôi đến trễ buổi tiệc rồi.
+312|Ước gì tôi bay thẳng tới đó được.
+313|Nhưng đường nào cũng có trở ngại.
+314|Băng Mũ Rơm!
+315|Marco Phượng Hoàng!
+316|Ừ, chính tôi đây!
+317|Các cậu là khách quý mà! Sao còn ở dưới này?
+318|Bọn tôi cũng đâu muốn thế.
+319|Tôi có thể giúp gì không?
+320|Tàu của băng Bách Thú... Biến mất rồi!
+321|Gì?!
+322|Biển cũng vậy!
+323|Gì?! Ý ngươi là sao?!
+324|Đã quá muộn rồi!
+325|Chúng ta không thể trốn ra biển được nữa!
+326|Đây chẳng phải là cảng sao?!
+327|Trận động đất vừa rồi...
+328|Giờ tôi hiểu rồi!
+329|Chuyện gì đang xảy ra vậy, Yamato?!
+330|Rồng bay trên không bằng cách tạo ra mây lửa!
+331|Nghĩa là ngay lúc này...
+332|Kaido đang làm Onigashima bay lên!
+333|Hắn sẽ dời hòn đảo đến Hoa Đô!
+334|K-Không thể nào...
+335|Ngươi hài lòng chưa?
+336|Gia tộc Kozuki hết đời rồi.
+337|Wano, hay chính xác hơn là Tân Onigashima,
+338|sẽ trở thành thành trì của hải tặc.
+339|Hãy mở ra một thế giới bạo lực!
+340|Tầng hầm 2
+341|Narikabura
+342|Narikabura
+343|Arrow
+344|Arrow
+345|Tầng ba
+346|Tầng ba
+347|Ở nơi khác, trên tầng ba...
+348|Ở nơi khác, trên tầng ba...
+349|Mizerka Headliner băng Bách Thú Trái SMILE Khỉ Đột
+350|Mizerka Headliner băng Bách Thú Trái SMILE Khỉ Đột
+351|Mizerka Headliner băng Bách Thú Trái SMILE Khỉ Đột
+352|Poker Headliner băng Bách Thú Trái SMILE Rắn Đuôi Chuông
+353|Poker Headliner băng Bách Thú Trái SMILE Rắn Đuôi Chuông
+354|Poker Headliner băng Bách Thú Trái SMILE Rắn Đuôi Chuông
+355|Khu cảng, bên ngoài mái vòm
+356|Khu cảng, bên ngoài mái vòm

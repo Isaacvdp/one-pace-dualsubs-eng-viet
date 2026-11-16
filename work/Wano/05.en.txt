@@ -1,0 +1,338 @@
+1|Oh, are you awake?!
+2|Big Bro! Ma'am!
+3|Where am I?
+4|My teahouse.
+5|Otama!
+6|How's your tummy?
+7|Does it hurt?
+8|I feel better!
+9|That worked so fast!
+10|Five finger grass is quite the wonder drug.
+11|Thank you all!
+12|Nin-nin!
+13|But...
+14|the poison in your body can't be removed completely.
+15|So don't ever drink the river water again, Otama.
+16|Okay, I got it!
+17|Stop making noise, stomach! This is unbecoming of a warrior!
+18|Water!
+19|River!
+20|Otama! Stop right there!
+21|You must never...!
+22|Huh?
+23|What?!
+24|You must never...
+25|drink the river water again!
+26|There, all done. This is only a field dressing though...
+27|Yeah. Thank you.
+28|You're so huge.
+29|Big Mom was way bigger.
+30|Thank you for saving me from the sumo wrestler's attempt at courtship.
+31|I didn't do anything.
+32|I forgot to introduce myself.
+33|I am your humble servant, Okiku.
+34|Humble servant?!
+35|What?!
+36|I can't! No way! I can't!
+37|Please! Take it away, ma'am!
+38|I don't even have money for the herbs!
+39|I can't possibly afford your oshiruko red-bean soup!
+40|You don't have to pay for it.
+41|No!
+42|I can't have it!
+43|I know both you and Okiku haven't had much to eat either!
+44|That's okay. Don't be shy.
+45|You've already saved my life and now you're trying to give me food!
+46|How can I accept this?!
+47|It's okay.
+48|No!
+49|I said it's okay!
+50|I'll pay you back for the herbs no matter what!
+51|That's enough!
+52|What?!
+53|When a woman has served food...
+54|"I don't want it."
+55|"Okay."
+56|Do you honestly believe she'll just take it back?
+57|If you're not gonna eat it...
+58|I'll pour it in the street!
+59|No!
+60|Otama, just eat it!
+61|Miss Otsuru won't take no for an answer.
+62|How long are you gonna sit like that?
+63|You should be happy! Today's your birthday!
+64|Is that true?
+65|That's what I heard.
+66|Then, consider it a birthday gift...
+67|and eat up.
+68|It's so yummy!
+69|This soup is so delicious!
+70|What?
+71|Is this your first time having it?!
+72|Yes!
+73|How many days do you think it's been since she last ate anything?!
+74|Despite how hard she works everyday to weave and sell hats,
+75|there is barely enough money to sustain even a single person!
+76|There's even mochi in it!
+77|What a fancy treat!
+78|Can't you make some out of your cheek?
+79|You can't fill your stomach with those.
+80|Yum-yum!
+81|Ma'am! Thank you very much!
+82|I don't think I could ever top such a wonderful birthday!
+83|I feel bad that my master is missing out!
+84|Otsuru...
+85|This is the greatest day of my life!
+86|Children like her are not uncommon...
+87|here in Wano...
+88|It's unbelievable that a small child like her doesn't have enough to eat!
+89|At least when you're grown up, you can handle the poison.
+90|No, you can't!
+91|There's the sea, the mountains, and the forests, so getting food shouldn't be a problem.
+92|True.
+93|If we only we hadn't ruined them ourselves.
+94|Damn that Kaido!
+95|Yeah...
+96|You're such sweet young men.
+97|Oh, yeah! What are your names?
+98|My name is Zorojuro.
+99|I'm a ronin.
+100|I'm Monkey D.–
+101|His name is...
+102|Luffytaro.
+103|What?!
+104|R-Right...
+105|I'm Luffytaro...!
+106|Um...
+107|Verily...?
+108|You're outsiders, right?
+109|It must've been hard to enter the country.
+110|How could you tell?
+111|You speak strangely.
+112|– What?! – What?!
+113|Don't worry. I won't tell anybody.
+114|I'm new to this town, too.
+115|And Okiku has only been working here for a month.
+116|I heard this town is called Okobore.
+117|What kind of name is that?
+118|It speaks for itself.
+119|It means "leftovers," and we live off the scraps of the officials the next town over.
+120|Tama said there is non-poisonous food somewhere.
+121|Look over there.
+122|You see the mountain without chimneys?
+123|Once upon a time, Oden Castle stood atop it.
+124|It's already been twenty years.
+125|Oden... I've heard that word before. But where?
+126|Until some twenty years ago...
+127|the Kozuki clan had long governed the country of Wano.
+128|There is a vast farm at the foot of that mountain...
+129|that was created by the late Lord Oden
+130|and fed the people of Kuri delicious food.
+131|It wasn't meant for Orochi and his cronies to monopolize the country's food supplies.
+132|Halcyon Farm...
+133|I can hear you!
+134|So the food there isn't poisonous?
+135|Correct.
+136|There is safe, delicious food, clean water, and clothes.
+137|However, it all belongs to...
+138|Shogun Orochi!
+139|On the other side of the shrine gate, there is a town where the officials live.
+140|To survive, we beg them to sell us rotting food and other things they no longer use.
+141|Okobore, the "leftovers" town...
+142|We get by. At least, we have enough to live.
+143|What do you think you're doing?! Don't get in my way!
+144|I heard what you said, woman!
+145|You were bad-mouthing the shogun!
+146|I can hear six times better than normal humans!
+147|I won't miss a foul word spoken about the Shogun!
+148|So you heard her.
+149|Was that really enough reason to try and take her life?
+150|She would've died if you'd hit her.
+151|If you live quietly, I'll rarely need to hurt you!
+152|But Shogun Orochi...
+153|isn't one to let treasonous spirits live on!
+154|My arrows!
+155|He blocked all of them!
+156|Who are you?!
+157|Someone's been robbing the farm for several weeks.
+158|We are currently on the lookout for culprits!
+159|Perhaps it was you two all along!
+160|A one-eyed ronin?!
+161|I've seen him on a wanted poster!
+162|Let go of me!
+163|Who are you?!
+164|Otama!
+165|Help!
+166|Big Bro!
+167|Tama...
+168|Tama!
+169|Mission accomplished!
+170|Give Tama back!
+171|Okiku!
+172|A sword?!
+173|He runs so fast!
+174|Let go of me!
+175|Shut up, you little brat!
+176|I'm hopping on, sir lion-dog!
+177|Here, boy!
+178|That woman has a sword!
+179|She said she knew how to use it...
+180|Though I've never seen her in action...
+181|Heel, boy!
+182|Take me with you!
+183|Look at his arm!
+184|Wait!
+185|I'm coming too!
+186|Okay!
+187|Those mongrels!
+188|Luffytaro! Zorojuro!
+189|Why are they going after the kid?!
+190|I'm not sure, but we have to get her back!
+191|Tama!
+192|I'm gonna save you!
+193|Big Bro!
+194|Gazelleman! Run like the wind!
+195|Roger!
+196|How pathetic!
+197|Dammit!
+198|They must have planned this kidnapping!
+199|A headliner must've ordered it!
+200|There is only one place to go in that direction...
+201|The town of officials.
+202|A notebook?
+203|There are three headliners in that town.
+204|Hawkins.
+205|Holdem.
+206|Speed.
+207|In addition...
+208|there are about thirty warriors with special abilities from those strange artificial fruits.
+209|You're no ordinary woman.
+210|Who are you?
+211|This humble servant...
+212|is a samurai.
+213|Boss Holdem! This is Gazelleman!
+214|I caught the brat who supposedly tamed our baboon!
+215|Let me go!
+216|Well done...
+217|We'll make good use of her.
+218|Bring her here.
+219|Yes, sir!
+220|Big Bro Luffy!
+221|This is Bakura, a prosperous town in Wano's Kuri region.
+222|Damn!
+223|That pesky ronin!
+224|I backed away due to his strangely overpowering spirit,
+225|but I wanna take Okiku as my wife at any cost!
+226|I have high social status, a good name, and access to safe food supplies.
+227|She'd be crazy to reject me!
+228|Stop worrying over trifles, you idiot!
+229|She's a girl from Okobore Town, right?
+230|They're so low-class that Shogun Orochi won't even rule over them...
+231|Whether she loves you or not doesn't matter at all.
+232|You could just force the marriage...
+233|Or you could burn her house down...
+234|and kill all her relatives so she'll have nowhere else to go.
+235|Isolate her and make her dependent on you!
+236|You're of the samurai class!
+237|In Wano, our status system is very clear.
+238|You're a star of our national sport, so if you give a damn about a lowly person like that,
+239|you're not setting a good example for others!
+240|You're right!
+241|Yeah! I can do whatever I want with Okiku!
+242|Sir Yokozuna... Didn't you like the food?
+243|That's a tanuki, right?
+244|Yes, this is our long-time pet...
+245|Cook it!
+246|What?!
+247|Tanuki are my favorite food!
+248|You're finally here...
+249|I see it!
+250|We'll charge right in!
+251|Luffytaro and Zorojuro!
+252|Beyond that point is Bakura Town! The town of officials and pirates!
+253|I cannot guarantee our safety.
+254|Are you ready?!
+255|– Yeah! – Yeah!
+256|Is this her?
+257|Poor girl...
+258|She's about to cry.
+259|I'm not gonna cry!
+260|Don't try to act tough!
+261|Ouch...
+262|There's a stitch in my side!
+263|Shut up! Gazelleman!
+264|You can go now! Your heavy breathing annoys me!
+265|Build up your stamina, you idiot!
+266|I wasn't talking to you!
+267|Stop staring at me like that!
+268|I'm so scared!
+269|His tummy's a lion!
+270|Oh? You're gonna give me that defiant look?
+271|What happened?
+272|There it is! The lion got him in the nuts!
+273|But...
+274|since they share the same body, his groin also belongs to the lion!
+275|Why doesn't he learn?
+276|Boss Holdem.
+277|What should we do with this brat?
+278|Boss Holdem!
+279|So your name is Otama.
+280|How could a weak little shit like you...
+281|tame a savage baboon?!
+282|My men saw you do it!
+283|Don't pretend like you don't know!
+284|You must have a genuine devil fruit power.
+285|Come on...
+286|Spit it out!
+287|Otama!
+288|Your ability might be desirable to the enemy.
+289|You must never be seen using it!
+290|I-It's just...
+291|animals...
+292|tend to like me.
+293|Oh!
+294|I see!
+295|That's all it was!
+296|Yes, that's right.
+297|Do you think I'm a fool?!
+298|You damn brat!
+299|"She tore off part of her cheek." That's what they told me.
+300|If you're not gonna tell me...
+301|I'll try that myself.
+302|Hey, bring me some pincers!
+303|Yes, sir!
+304|Not that one! The bigger one!
+305|Big Bro Luffy...
+306|Help! Big Bro Luffy!
+307|Tama!
+308|Stop right there! Don't you value your lives?!
+309|Invaders!
+310|Bakura Town is just past them!
+311|Luffy! We don't have time to fight those weaklings!
+312|I know!
+313|Just keep charging, boy!
+314|What?!
+315|Captain!
+316|We have a problem!
+317|Captain!
+318|What? Why are you so worked up?
+319|It's Straw Hat and Roronoa!
+320|Straw Hat is in Wano?! So... he's finally here...
+321|Straw Hat and Roronoa are storming Bakura Town!
+322|Hey, wait! That's gonna cause nothing but trouble!
+323|Pretty much...
+324|Captain?
+325|Captain?!
+326|Let's go stop those idiots!
+327|Aye aye, Captain!
+328|Don't do it...
+329|I'll stop as soon as you show me your ability.
+330|Tama!
+331|What?!
+332|Did you do something?!
+333|That was haki!
+334|Haki?
+335|Conqueror's haki.
+336|Zorojuro the Slasher
+337|Restaurant
+338|Budo

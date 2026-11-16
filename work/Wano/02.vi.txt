@@ -1,0 +1,346 @@
+1|Mua nghêu nước ngọt không?!
+2|Tránh đường!
+3|Mời vào! Mời vào!
+4|Thử món udon hoa đặc biệt của quán đi!
+5|Ở đây thiếu người. Giúp tôi một tay được không?
+6|Này! Khiêng đầu bên kia đi!
+7|Này, này, này!
+8|Thằng mới!
+9|Phần này là cậu làm à?!
+10|Vâng, thưa sếp!
+11|Có gì không ổn ạ?
+12|Mày là thằng ngốc kiểu gì thế hả?!
+13|Hoàn hảo!
+14|Tao đang khen mày đấy!
+15|Đồ ngu này!
+16|Dĩ nhiên là hoàn hảo, vì tôi...!
+17|...hãy diễn tròn vai của mình!
+18|Ô-ô-ồ...
+19|Nghe thế tôi mừng lắm!
+20|Cảm ơn sếp!
+21|Đồ khoác lác!
+22|Mọi người ơi!
+23|Lại đây xem! Lại đây xem!
+24|Đây là một tờ giấy, không có mánh khóe hay sắp đặt gì cả!
+25|Một tờ thành hai!
+26|Hai tờ thành bốn! Bốn tờ thành tám!
+27|Tám thành mười sáu, rồi ba mươi hai, sáu mươi bốn!
+28|Xin dâng các vị điệu múa bay lượn của...
+29|cơn mưa hoa anh đào mùa xuân và tuyết rơi lúc chiều tà ở Wano!
+30|Giờ các vị đã thấy thanh danh kiếm này sắc bén thế nào rồi!
+31|Chỉ cần sượt qua thôi...
+32|Xem nó cắt người dễ dàng làm sao!
+33|Nhưng hãy xem này!
+34|Thứ tôi cầm đây là dầu cóc!
+35|Nếu bôi lên vết thương...!
+36|Tada!
+37|Nhìn này! Thấy chưa?!
+38|Công dụng là thế này đây!
+39|Máu cũng ngừng chảy rồi!
+40|Dầu cóc này là đặc sản của East Blue!
+41|Mau đến mua đi!
+42|– Cho tôi một lọ! – Tôi cũng vậy!
+43|Các vị tinh mắt thật!
+44|Nào, lại đây xem! Lại đây xem!
+45|Em làm tốt lắm!
+46|Đúng rồi! Đúng rồi! Quyến rũ không cưỡng nổi!
+47|Tay em thấp quá!
+48|Hạ hông xuống nữa!
+49|Vâng, thưa chị...
+50|Mục tiêu của em gần như bất khả thi, nên phải cố gắng hết sức!
+51|Cứ thế này thì tướng quân sẽ không mời em vào triều đúng hạn đâu!
+52|Cố lên nào, cưng!
+53|Vâng, thưa chị...
+54|Rượu sake này ngon thật.
+55|Tôi sẽ sớm quay lại!
+56|Cảm ơn quý khách nhiều!
+57|Trăng đẹp thật...
+58|Không!
+59|Tránh ra!
+60|Mùi máu...
+61|Đứng lại!
+62|Mùi thơm đấy, anh bạn.
+63|Như nước hoa mang mùi máu...
+64|– Bắt hắn! – Bắt hắn!
+65|Ừ, tên chém người chạy hướng đó.
+66|Bắt hắn! Bắt hắn!
+67|Hả?
+68|Mày là tên chém người! Đừng chống cự!
+69|Hả?!
+70|– Bắt hắn! Bắt hắn! – Bắt hắn! Bắt hắn!
+71|Có vẻ tôi phải dập tắt những tia lửa này...
+72|trước khi chúng bùng lên!
+73|...hãy diễn tròn vai của mình!
+74|Nghe đây, mọi người.
+75|Giờ các vị đang ở Wano.
+76|Tướng quân của đất nước này là...
+77|Kurozumi Orochi!
+78|Toàn bộ quan lại của hắn đều nằm dưới quyền Kaido.
+79|Vì thế bọn chúng mới hống hách như vậy.
+80|Cho nên, nếu các vị đụng vào chúng, Kaido sẽ biết ngay!
+81|Cho đến khi toàn bộ đồng minh đến đủ và chúng ta sẵn sàng chiến đấu,
+82|chúng ta không được để bị phát hiện!
+83|Vậy nên lúc này mọi người phải giả làm dân thường...
+84|và lặng lẽ, tôi nhắc lại, lặng lẽ,
+85|diễn tròn vai của mình!
+86|Chắc tôi không còn lựa chọn nào...
+87|Tôi hiểu rồi...
+88|quả thật...
+89|Này, trói hắn lại!
+90|– Bắt hắn! Bắt hắn! – Bắt hắn! Bắt hắn!
+91|Chính là tên đại ác đã khủng bố phố phường của chúng ta!
+92|Quan phủ cuối cùng cũng bắt được hắn!
+93|Tên tội phạm đã bị kết án mổ bụng!
+94|Chi tiết đầy đủ có ở đây!
+95|Tôi ghét hắn thấu xương!
+96|Hắn cũng đã vung kiếm vào chồng tôi!
+97|Nhẹ cả người!
+98|Chỉ trong tháng này, hắn đã chém ba người trên phố vào ban đêm.
+99|Này, cho tôi một tờ nữa được không?!
+100|Cảm ơn!
+101|Z-Zorojuro...
+102|Vậy ra tên ngươi là Zorojuro...
+103|Ai cũng khiếp sợ tên chém người...
+104|Nếu ngươi mổ bụng, thị trấn sẽ lại yên bình.
+105|Và ta khó mà tin được...
+106|ngươi còn là kẻ trộm mộ.
+107|Hai mươi ba năm trước...
+108|giữa cơn hỗn loạn của một vụ hải tặc...
+109|thi thể kiếm sĩ huyền thoại Ryuma đã biến mất...
+110|cùng với thanh danh kiếm Shusui của ông ấy!
+111|Truyền thuyết kể rằng Ryuma đã chém đầu một con rồng khổng lồ hung dữ...
+112|chính bằng thanh kiếm Shusui này.
+113|Tuy nhiên, tên chém người à...
+114|Vụ trộm mộ đó xảy ra hai mươi ba năm trước.
+115|Trông ngươi đâu có già đến thế.
+116|Ngươi cướp nó từ tên trộm ban đầu à?
+117|Ồ, thôi vậy...
+118|Thanh Shusui nổi tiếng giờ đã nằm trong tay ta!
+119|Vâng, thưa ngài.
+120|Nào, Zorojuro, đến lúc rồi.
+121|Này.
+122|Thanh kiếm này không có chuôi...
+123|quả thật.
+124|Kiếm mổ bụng thường ngắn và không có chuôi.
+125|Dù sao nó cũng không dùng để chiến đấu.
+126|Ngươi có biết nghi thức mổ bụng đúng phép không?
+127|Nếu tự xưng là samurai, hãy nhận tội và tự sát cho vẻ vang!
+128|Trước khi ngươi chịu đau đớn...
+129|ta sẽ giúp ngươi chết!
+130|Vậy thì...
+131|Tạm biệt.
+132|Chỉ đừng khóc như con nít...
+133|Cái chết đúng phép là danh dự của samurai.
+134|Chúng ta có nhân chứng!
+135|Và đủ bằng chứng!
+136|Đây sẽ là cái chết vẻ vang mà ngươi không xứng đáng!
+137|Hãy vui vì ngươi được mổ bụng.
+138|Tôi ngửi thấy mùi máu.
+139|Ngươi...
+140|chính là thủ phạm!
+141|Xin lỗi, Kin'emon.
+142|Ái!
+143|Đây là... Wano sao?
+144|Mọi người đi đâu hết rồi?
+145|Để xem nào...
+146|Chuyện gì đã xảy ra với chúng ta vậy?
+147|Bắt nó! Bắt nó!
+148|Cái gì thế?!
+149|Này!
+150|Này, các người!
+151|Đừng làm hỏng tàu của bọn tôi!
+152|Là một con chó khổng lồ!
+153|Là chó hay lợn rừng?
+154|Một con thú cầm kiếm?
+155|Chắc Wano là như vậy!
+156|Thứ đầu tiên tôi thấy ở đây là trận đánh nhau giữa hai con thú hoang à?
+157|Nghe đây, các cậu!
+158|Cứ đánh nhau thoải mái nhưng đừng làm hư tàu!
+159|À, phải rồi...
+160|Mình đang làm gì nhỉ?
+161|Sau khi leo lên thác nước, chúng ta thấy đất liền...
+162|Nhưng bị hút vào xoáy nước trước khi tới đó...
+163|Cái gì thế này?!
+164|Này, thủy triều đang chảy ngược!
+165|Cố lên, Sunny!
+166|Nami, bám vào tôi!
+167|Cảm ơn Sanji!
+168|Không có chi, Nami!
+169|Sanji!
+170|Ừ, bám vào tôi đi!
+171|Được rồi, tôi sẽ nhảy lên đất liền!
+172|Sẵn sàng chưa?!
+173|Khoan, Sanji!
+174|Đưa tôi theo với!
+175|Chobro!
+176|Không được! Nặng quá!
+177|Không! Đừng bỏ tôi lại!
+178|Xin lỗi, nhưng cậu phải buông ra thôi.
+179|Sao cậu nỡ...?!
+180|Đùa thôi.
+181|Bám chặt vào!
+182|Sanji!
+183|Vậy cho tôi tham gia với.
+184|Tôi yêu mọi người lắm!
+185|Siết chặt vào!
+186|Xương cứng quá!
+187|Đừng gọi là xương! Xương nghe ghê lắm!
+188|Dùng bụng tôi này, Sanji!
+189|Được rồi!
+190|Gặp lại sau nhé!
+191|Ừ, tôi theo sau cậu ngay!
+192|Được rồi, đến lượt tôi nhảy!
+193|Sunny! Tôi hứa sẽ tìm lại cậu sau!
+194|Tôi nhảy đây!
+195|Con bạch tuộc?!
+196|Mày còn muốn gì ở tao nữa?!
+197|Con bạch tuộc chết tiệt!
+198|Rồi tỉnh dậy thì thấy mình ở đây.
+199|Vậy mình đang ở trên thác nước? Hay đã rơi xuống?
+200|Mình đã đến được Wano chưa?
+201|Ồ?
+202|Vivre card biến mất rồi!
+203|Mình làm mất rồi!
+204|Nó rơi xuống biển à?!
+205|Chết tiệt!
+206|Thôi kệ!
+207|Quên đi.
+208|Dừng lại!
+209|Thả tôi ra! Tôi đâu có nói thế!
+210|Trả gạo lại cho tôi nữa!
+211|Không, chắc chắn ngươi đã nói!
+212|Khi gia tộc Kozuki quay lại, họ sẽ dạy cho các ngươi một bài học!
+213|Đồ phản bội...
+214|Ngươi là đồng minh của gia tộc Kozuki, cái nhà độc ác đó!
+215|Đó là trọng tội!
+216|Bọn ta sẽ bán ngươi vào nhà chứa hoặc tống vào tù.
+217|Không có khoan nhượng!
+218|Nhưng mà...!
+219|Im lặng một chút.
+220|Bọn ta đang làm nhiệm vụ!
+221|Nhìn kìa! Có một chiếc tàu trên bãi biển!
+222|Chỉ có một người sống sót à?
+223|Và con khỉ đầu chó của ta đang gặp rắc rối với con chó sư tử đó!
+224|Làm lính gác thì nó cũng chẳng đáng tin lắm nhỉ?
+225|Ồ! Komachiyo?!
+226|Các cậu, dừng lại đi...
+227|Đại ca! Có vẻ báo cáo đúng rồi!
+228|Là con tàu xâm nhập!
+229|Có thấy thủy thủ đoàn không?
+230|Chỉ có một người.
+231|Một người à?
+232|Đánh ngất rồi mang nó theo!
+233|Ít nhất nó cũng làm được phu cho bọn ta!
+234|Ngoan nào. Ngủ ngon nhé!
+235|Khi tỉnh dậy, bọn ta sẽ đối đãi mày tử tế như nô lệ!
+236|Cái gì...?!
+237|Tự nhiên tấn công tôi?
+238|Thằng khốn!
+239|Tao không đánh trúng nó!
+240|Này, chuyện gì thế?
+241|À, không có gì...
+242|Bãi biển này ồn ào quá.
+243|Chết tiệt...
+244|Này, khỉ đầu chó!
+245|Đừng đứng đó nhìn!
+246|Lát nữa hãy bắt con chó sư tử!
+247|Bắt thằng đó lại!
+248|Thật ra, giờ ngươi được phép...
+249|giết nó!
+250|Các người muốn gì?
+251|Tốt!
+252|Đừng đánh nhau nhiều thế, các cậu!
+253|Sợ cái quái gì thế hả?!
+254|Nó chỉ là một tên hải tặc quèn!
+255|Nhìn xem mày làm gì kìa, đồ nhãi ranh!
+256|Tao sẽ giết mày!
+257|Đứng lại ngay, đồ nhóc chết tiệt!
+258|T-tha cho tôi!
+259|Tôi đầu hàng!
+260|Tôi đầu hàng!
+261|Các người đang làm gì thế?
+262|Tôi bảo là tôi đầu hàng!
+263|Tôi đầu hàng!
+264|Tôi sẽ không làm gì các người đâu!
+265|A-anh nói thật chứ?
+266|Ừ!
+267|À...
+268|Xin lỗi, nhưng đã ở đây rồi, anh có thể cho tôi chút thời gian không?
+269|Đ-đây là cơ hội của mình!
+270|Cơ hội? Ý cô là gì?
+271|Được rồi. Làm thôi.
+272|Hả? Làm gì cơ?
+273|Bánh kê dango!
+274|Nào!
+275|Cái gì?!
+276|Má cô ấy rơi ra rồi!
+277|Nào. Ăn đi.
+278|C-cô đang làm gì thế?
+279|Bắt tay nào.
+280|Cái gì?!
+281|Cô bé thuần hóa được con thú đó!
+282|Mình làm được rồi!
+283|Cuối cùng mình đã làm bạn với con khỉ đầu chó núi hung dữ!
+284|Yay!
+285|Mình làm được rồi!
+286|Vậy cô là người dùng năng lực!
+287|Sức mạnh đó tiện thật!
+288|Được rồi, được rồi.
+289|Giờ cậu là bạn của bọn tôi rồi!
+290|Ngoan nào.
+291|Đó là chó của cô à?
+292|Vâng!
+293|Em đặt tên nó là Komachiyo!
+294|Ồ, Komachiyo!
+295|Rất vui được gặp!
+296|Tôi là Luffy!
+297|Còn em tên là Otama.
+298|Được, Otama!
+299|Rất vui được gặp em!
+300|Rất vui được gặp anh!
+301|Giờ thì...
+302|Tôi cần biết đất nước này có phải Wano không.
+303|Đất nước này ạ?
+304|Vâng, đây là Wano!
+305|Anh đang ở vùng Kuri của Wano...
+306|Anh hai!
+307|Vậy là mình đang ở Wano!
+308|Cuối cùng mình cũng đến được Wano!
+309|Đợi tôi đấy, Kaido!
+310|Khoan! "Anh hai" á?!
+311|Này!
+312|Tôi làm anh hai của em từ bao giờ thế?!
+313|Anh hai là anh hai mà!
+314|Thế nghĩa là sao chứ?
+315|Thôi, không sao đâu.
+316|Được rồi, anh hai!
+317|Ngươi đã phạm trọng tội, Zorojuro!
+318|Đồ chém người đáng nguyền rủa!
+319|Đến giờ mà vẫn không chịu nhận tội?!
+320|Ba thanh kiếm?!
+321|Cái gì?!
+322|C-cái quái gì...?!
+323|Long Quyển Phong!
+324|Ít nhất đất nước này có thời tiết đẹp.
+325|Liên lạc từ bãi biển Kuri dường như đã bị cắt.
+326|Có lẽ họ bị ai đó đánh bại rồi.
+327|Chúng ta không biết có bao nhiêu tên.
+328|Chúng ta nên làm gì, đại ca?
+329|Đừng báo cho Kaido.
+330|Tao sẽ giải quyết!
+331|Wano Quốc
+332|Wano Quốc
+333|Wano Quốc
+334|Wano Quốc
+335|Wano Quốc
+336|Wano Quốc
+337|Wano Quốc
+338|Wano Quốc
+339|Wano Quốc
+340|Franosuke Thợ mộc
+341|Usohachi Người bán dầu cóc
+342|Orobi Geisha
+343|"Bắt giữ"
+344|"Tên chém người Zorojuro"
+345|Một con khỉ đầu chó
+346|Otama

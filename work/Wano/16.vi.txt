@@ -1,0 +1,350 @@
+1|Nào, nhảy đi!
+2|Uống đi!
+3|Ăn đi! Đừng ngại!
+4|Ôi, không có thịt đè nặng thì nhẹ người thật.
+5|Ý tôi là, tôi làm gì có thịt.
+6|Vì tôi chỉ là bộ xương.
+7|Nói đùa về cái đầu lâu mà chỉ mình tôi nghe thì chán thật...
+8|Bắt đầu tìm kiếm thôi!
+9|Một cánh cửa gia cố đáng ngờ...
+10|Chỗ này có mùi gì đó lạ.
+11|Dù tôi làm gì có mũi.
+12|Mấy con búp bê này là gì vậy?
+13|Một poneglyph?!
+14|Bá quyền!
+15|Mất hình rồi!
+16|Mau chuyển sang camera khác đi!
+17|Thật là...
+18|Cái gì?!
+19|Chúng đã phá vỡ tuyến phòng thủ cuối cùng và đang leo lên thác!
+20|Cái gì cơ?!
+21|Tiến lên!
+22|Cá đang leo thác kìa!
+23|Không thể tin nổi luôn.
+24|Chết tiệt! Bọn ngu chúng mày làm cái quái gì vậy?!
+25|Đừng để chúng đặt chân lên đảo!
+26|Nhưng bọn tôi không có quân ở đỉnh thác!
+27|Hơn nữa kẻ địch cực kỳ mạnh!
+28|Không đủ thời gian huy động vũ khí có thể hạ chúng!
+29|Đừng hoảng!
+30|Tổng đốc Kaido!
+31|Khốn kiếp Linlin... Bà ta còn dẫn cả lũ nhóc theo.
+32|Tỉnh táo lại đi, các chú em!
+33|Đây sẽ là cuộc chiến tổng lực!
+34|Chúng ta không cần ngồi đây chờ chúng.
+35|Hứ! Xử lý một con tàu mà sao lâu thế?!
+36|Để tao lo!
+37|Sắp lên tới đỉnh rồi!
+38|Gần tới rồi!
+39|Tao đây, Kaido!
+40|Cái gì kia?!
+41|Là King sao?!
+42|Một con thằn lằn bay sao?!
+43|Bắn hạ hắn đi!
+44|Hắn bỏ chạy trong nhục nhã!
+45|Chúng ta tới Wano rồi!
+46|Giờ thì giết Mũ Rơm!
+47|Hắn vẫn còn ở đây!
+48|Không thể nào!
+49|Không thể nào!
+50|King, đồ phá đám!
+51|Tao sẽ không để mày đặt chân lên Wano!
+52|Chết tiệt!
+53|Mama!
+54|Hứ! Bị biển nuốt đi.
+55|Nhanh lên, Franosuke!
+56|Này, sao chúng ta phải chạy?!
+57|Chúng nhắm vào Sangoro, đầu bếp soba!
+58|Nhưng cậu đã giúp đầu bếp soba đó hạ một thành viên của băng Kyoshiro mà!
+59|Xin lỗi, tôi không nhịn được!
+60|Bọn chúng có liên hệ với Orochi.
+61|Nên họ phái Tobiroppo của băng Bách Thú đi trả thù!
+62|Ôi không! Bọn xấu sao?! Chết tiệt!
+63|Tạ ơn trời. Là các cậu.
+64|Ở đây không an toàn. Lối này!
+65|– Được! – Được!
+66|Tệ rồi. Giờ không còn quan trọng điều gì gây ra chuyện này nữa.
+67|Nếu ai trong các cậu bị bắt và bị lộ,
+68|mọi chuyện sẽ rắc rối.
+69|Chúng sẽ bắt đầu truy tìm những người còn lại trong băng các cậu!
+70|Ôi không! Nami và Robin sẽ gặp nguy hiểm!
+71|Hy vọng chúng chỉ bám theo ba cậu!
+72|Nhưng khoảnh khắc chúng phát hiện mối liên hệ của các cậu với gia tộc Kozuki,
+73|kế hoạch báo thù hai mươi năm này sẽ tan tành!
+74|Thật ra...
+75|dù các cậu có bị bắt và tra tấn...
+76|Ừ...?
+77|...các cậu tuyệt đối không được nói về samurai hay tộc Mink.
+78|Cứ giữ im lặng và...
+79|để chúng giết các cậu!
+80|Anh thật tệ!
+81|Luffy sẽ không nói thế đâu!
+82|Tôi thực tế hơn.
+83|Nếu chúng không biết là bọn mình thì không sao, đúng không?
+84|Vậy thì...
+85|Sao ta không chiến đấu với mặt được che đi?!
+86|Tạm thời tránh giao chiến.
+87|Đừng làm như anh là thuyền trưởng của bọn tôi!
+88|Nếu tôi bị bắt...
+89|Tôi sẽ khai hết để thoát thân!
+90|Đồ khốn!
+91|Vậy tôi sẽ bảo vệ cậu bằng mọi giá!
+92|Vâng!
+93|Tình bạn kiểu gì vậy!
+94|Có một quý cô!
+95|Không ổn rồi!
+96|Đã có kẻ nhắm vào bọn mình rồi sao?!
+97|Làm ơn dừng lại! Bọn tôi không liên quan gì đến chuyện này!
+98|Bọn tôi bán soba, nhưng không liên quan gì đến Sangoro, đầu bếp soba!
+99|Sao các người dám phá tiệm của bọn tôi?!
+100|Không có tiệm thì bọn tôi không ở lại thành được!
+101|Muốn trách ai thì trách tên ngốc Sangoro đó.
+102|Nói cho tao biết còn tiệm soba nào khác!
+103|Hoặc gọi Sangoro ra đây!
+104|Thằng khốn đó dám động đến băng Kyoshiro!
+105|Nếu chúng mày từ chối...
+106|Tao ăn thịt cả chúng mày!
+107|Sangoro!
+108|Sangoro!
+109|Này!
+110|Sangoro, ra mặt đi!
+111|– Sangoro! – Sangoro!
+112|Có lẽ vô ích thôi.
+113|Nếu hắn là kẻ hèn nhát thì sẽ không bao giờ ra mặt!
+114|Sangoro!
+115|Ôi, giờ tôi muốn ăn đồ ngọt quá!
+116|Chúng chơi bẩn!
+117|Giờ ưu tiên của chúng ta là thoát thân!
+118|Không đời nào...
+119|tôi làm vậy được!
+120|Này, khoan, Sanji!
+121|Dừng lại! Bọn tôi không liên quan gì đến hắn!
+122|Vậy thì gọi hắn ra đi...
+123|tất cả chúng mày!
+124|Gọi Sangoro, đầu bếp soba, ra đây!
+125|Tôi...
+126|ở đây!
+127|Diable Jambe:
+128|Concassé!
+129|Là hắn...
+130|Hắn là...
+131|Sangoro của Soba Đặc Biệt!
+132|Vậy mày là đầu bếp soba...
+133|Mày chịu ra rồi. Đừng làm khó tao hơn nữa.
+134|Này, Page One đây. Tao tìm thấy mục tiêu ở khu sáu, quận hai!
+135|Rõ! Bọn tôi sẽ tới ngay khi có thể.
+136|Giờ mày không trốn được đâu!
+137|Sức mạnh khủng long à?
+138|Đồ khốn...
+139|Anh làm gì vậy, Sangoro?!
+140|Bỏ đi! Nếu Drake và Hawkins đến là bọn mình xong!
+141|Tôi biết.
+142|Tuy vậy...
+143|gã này không biết tôi là ai.
+144|Không ai phát hiện ra tôi, và tôi sẽ không bị thương!
+145|Thằng thua cuộc này sẽ ngã ngay thôi.
+146|Ừ, có thêm đồng minh thì tốt...
+147|nhưng giảm số lượng bên kia cũng có lợi.
+148|Đừng nói nhảm nữa!
+149|Các cậu, đi trước đi!
+150|– Hả? – Hả?
+151|Sẽ ổn thôi miễn là...
+152|tôi giấu danh tính, đúng không?
+153|Đầu bếp soba thật sự xuất hiện rồi sao?!
+154|Hắn ngu à?! Hắn muốn chết sao?!
+155|Đây là lúc hoàn hảo để biến hình.
+156|Cái gì vậy? Là một cái lon à?
+157|Dù mặc cái này, tôi cũng không giống bọn Germa!
+158|Tôi chỉ mặc thử cho vừa thôi.
+159|Lẽ ra hắn nên bỏ thị trấn.
+160|Hắn định làm gì vậy?!
+161|Chúng ta sắp đối đầu với một Hoàng đế.
+162|Sự cố chấp của tôi có nguy cơ cản trở việc cứu ai đó.
+163|Nhưng nếu nuốt lòng tự trọng, có lẽ tôi sẽ kịp chạy đến cứu người.
+164|Lại nói nhảm tiếp!
+165|Nhất là nếu thứ này tăng sức mạnh cho tôi!
+166|Tôi đi đây!
+167|Anh làm gì vậy?
+168|Anh vừa thay đồ giữa không trung sao?
+169|Chân Đen...
+170|Ồ, anh ấy biến hình rồi?! Tuyệt quá!
+171|Ngầu quá! Nó hoạt động thế nào vậy?!
+172|Khoan. Tôi biết bộ đồ này từ đâu đó...
+173|À, phải rồi! Nhưng mà...
+174|sao anh ta có bộ đồ đó?!
+175|Chắc chắn là kẻ thù của Sora, Chiến Binh Biển Cả!
+176|Là thành viên số ba của đội quân tà ác Germa 66!
+177|Stealth Black!
+178|Này, sao cậu biết nhiều về nó vậy?!
+179|Tất nhiên rồi! Ai ở North Blue cũng biết!
+180|Kệ đi!
+181|Nghe đây! Đừng bao giờ gọi tôi là Germa nữa! Hiểu chưa?!
+182|Tôi từng là fan trung thành của Sora, Chiến Binh Biển Cả!
+183|Tôi ghét Germa; chúng là những kẻ ác đáng khinh.
+184|Tôi cũng ghét chúng!
+185|Này, mày!
+186|Mày không phải đầu bếp soba bình thường...
+187|Mày là ai?!
+188|Tôi là...
+189|Soba Mask!
+190|Soba Mask...
+191|Không... Chắc chắn là Germa.
+192|Thật tệ! Đổi tên đi!
+193|Xin hãy để bọn tôi đặt tên cho anh!
+194|Mày nói Soba Mask?! Đừng giỡn mặt với tao!
+195|Hắn đi đâu rồi?
+196|Cái gì?!
+197|Hắn đang lơ lửng giữa không trung!
+198|Sao có thể như vậy?!
+199|Không còn nghi ngờ gì... Đúng là công nghệ Germa.
+200|Thiết bị ở gót chân giúp chúng lơ lửng...
+201|Ừ, chắc chắn là vậy...
+202|Tuyệt quá!
+203|Dễ như trở bàn tay!
+204|Cố lên, Soba Mask!
+205|Đòn của mày phiền thật... Làm tao điên tiết!
+206|Cái quái gì thế này?!
+207|Oa!
+208|Cú đấm của hắn không xuyên qua được!
+209|Áo choàng của Germa 66...
+210|có thể biến thành khiên cứng...
+211|Tao biết chiêu của mày! Đòn của mày không hiệu quả lần hai đâu!
+212|Ôi không!
+213|Stealth Black thật chắc đã dùng thứ đó rồi...
+214|Giờ tao sẽ không để mày thoát!
+215|Hắn biến mất rồi sao?!
+216|Không thể nào!
+217|Người đâu thể biến mất! Hắn đâu rồi?! Hắn đi đâu?!
+218|Ra đây!
+219|Quả nhiên.
+220|Oa! Hả? Hắn đâu rồi?!
+221|Hắn di chuyển nhanh đến mức không thấy được!
+222|Không, đó là năng lực đặc biệt của Stealth Black thuộc Germa 66...
+223|Hắn trở nên vô hình bằng cách chiếu hình nền lên người!
+224|Ngay cả Sora, Chiến Binh Biển Cả, cũng khá vất vả với hắn...
+225|Đồ cặn bã Germa...!
+226|Anh về phe nào?!
+227|Anh biết quá nhiều về chuyện này!
+228|Tôi đến từ North Blue; chuyện đương nhiên.
+229|Bộ đồ này là sao?! Tôi biến mất rồi à?!
+230|Giống hệt Trái Tàng Hình?!
+231|Đây là Trái Ác Quỷ tôi luôn mơ ước...
+232|Có Trái Tàng Hình, tôi có thể trở nên vô hình.
+233|Giấc mơ đã tan vỡ...
+234|Đúng vậy. Mày đã cướp mất một giấc mơ của tao!
+235|Tôi không nhớ đã làm chuyện đó. Chắc anh nhầm rồi.
+236|Tôi muốn trở thành người vô hình!
+237|Nhưng mày ăn Trái Tàng Hình, nghiền nát một giấc mơ của tao, hiểu chưa?!
+238|C-Cái gì?!
+239|– Đó đâu phải lỗi của anh ấy! – Đó đâu phải lỗi của anh ấy!
+240|Giấc mơ đã tan vỡ...
+241|giờ lại thành hiện thực nhờ công nghệ Germa mà tôi khinh ghét?
+242|Thật trớ trêu...
+243|Nhưng khả năng này chắc chắn sẽ có ích...
+244|Tôi có thể dùng nó ở phòng tắm nữ...
+245|Không, không!
+246|Tôi có thể dùng nó để bảo vệ đồng đội! Thật tiến thoái lưỡng nan!
+247|Một người vô hình...? Nếu hỏi tôi thì thấy đáng ngờ lắm...
+248|Rốt cuộc mày là ai?!
+249|Dạng này có vẻ hợp hơn để chiến đấu với đối thủ di chuyển nhiều như vậy.
+250|Ban đầu tao định cho mày chịu khổ,
+251|nhưng chắc tốt nhất là giết quách mày.
+252|Này, Jaggy!
+253|Tao cá là mày vẫn còn bánh bao!
+254|Thôi nào, Jaggy! Đừng giả vờ ngủ!
+255|Tao biết mày nghe thấy, Jaggy!
+256|Căn phòng này khá cũ và bí ẩn...
+257|Đất nước này bị cô lập hàng thế kỷ...
+258|Và poneglyph được tạo ra ở đây.
+259|Chắc chắn có một cái ở đây.
+260|Hẳn phải có cửa ẩn ở đâu đó...
+261|Cô đang tìm gì à?
+262|Không thể nào! Sao mình lại bỏ sót chỗ này?!
+263|Tốt!
+264|Tốt, tốt, tốt, tốt...
+265|Komurasaki, chơi bản nhạc đó đi!
+266|Vâng ạ...
+267|Otama, đấu công bằng nào!
+268|Tôi không mong gì hơn, Chopperemon!
+269|Ninpo: Thuật Lá Cây!
+270|Ninpo...
+271|Chạy Ziczac!
+272|Nhận lấy này!
+273|Tôi còn đường dài phải đi nếu muốn thành kunoichi mê hoặc.
+274|Tôi né được hết rồi...
+275|Làm tốt lắm, cả hai!
+276|Tôi vẫn lo cho anh Luffy...
+277|Đừng lo! Anh ấy sẽ ổn thôi!
+278|Raizo cũng chưa báo về. Khó mà không lo lắng...
+279|Sư phụ nói chưa ai từng thoát khỏi nhà tù ở Udon...
+280|Tôi đã nói anh ấy sẽ ổn mà! Nin-nin!
+281|Giờ chúng ta chỉ có thể tự rèn luyện!
+282|Ninpo: Thuật Leo Cây!
+283|Nin! Nin-nin!
+284|Nếu tại hạ mạnh hơn, tại hạ đã cứu cậu ấy ngay lập tức.
+285|Nin!
+286|Ồ?
+287|Cái gì vậy?
+288|Nin! Nin!
+289|Lạ thật...
+290|Mỗi khi chị Komurasaki chơi nhạc đó, chị lại đeo mặt nạ đó.
+291|Đúng rồi! Đúng rồi! Là bài đó!
+292|Tôi thích lắm!
+293|Hành động đáng ngờ trước mặt ninja là sai lầm.
+294|Thật ngây thơ!
+295|Cô không biết ninja là gì sao?
+296|Cô ta có thể đến từ nước ngoài.
+297|Chà, xin chào.
+298|Cô là một geisha rắc rối đấy...
+299|Tôi sẽ cho cô một cơ hội giải thích.
+300|Tuy nhiên, cô chỉ có một cơ hội thôi.
+301|Anh ổn chứ, Sangoro?!
+302|Những người có năng lực hệ cổ đại mạnh thật. Tuy nhiên...
+303|vẫn chưa đủ để thắng Stealth Black.
+304|Hơi đau, nhưng bộ đồ này bền thật.
+305|Nhưng kinh đô không chịu nổi nữa đâu.
+306|Này! Sao chúng ta bỏ Sangoro lại?!
+307|Anh ấy bảo chúng ta đi trước.
+308|Ừ thì anh ấy nói vậy, nhưng mà...!
+309|Được rồi, đến lúc giao xác hắn cho ông chủ Kyoshiro.
+310|Mà hắn là cái quái gì vậy?
+311|Sẽ còn người khác đuổi theo, và mọi chuyện sẽ rắc rối.
+312|Tạm thời nên rời kinh đô. Đến Ebisu thôi!
+313|Shooting Star Soba Kick!
+314|Cái gì?!
+315|Chậc! Hắn cũng cứng đấy.
+316|Mày ở đâu?!
+317|Mày đi đâu rồi?! Ra đây, Soba Mask!
+318|Soba Mask à?
+319|Mình nên nhờ Franosuke và Usohachi thiết kế lại cái này!
+320|Cái gì vậy?! Một người sao?!
+321|Một người khổng lồ làm sao...!
+322|Dù vậy vẫn nhỏ hơn người khổng lồ!
+323|A-Anh nghĩ ai lớn hơn? Kaido hay người này?
+324|Là phụ nữ à?
+325|Không thể nào!
+326|Big Mo–
+327|Có chuyện gì vậy?
+328|Đừng nói! Cô ta sẽ tỉnh dậy đấy!
+329|Phải chạy thôi! Cô ta mà tỉnh là hết đời!
+330|Không, trễ rồi! Chạy cũng vô ích nếu cô ta đã theo tới đây.
+331|Anh nói gì vậy?
+332|Anh biết cô ta là ai à?
+333|Ai cũng biết cô ta! Cô ta là...
+334|Cái gì cơ?!
+335|Cô ta là Big Mom khét tiếng sao?!
+336|Anh ồn quá!
+337|Big Mom là ai?
+338|Tôi sẽ nói sau!
+339|Tôi sẽ tự mình kết liễu bà ta!
+340|Đúng rồi! Coi bà ta như Kaido đi!
+341|Bà ta giống hệt Kaido!
+342|T-Trễ rồi!
+343|Chạy thôi!
+344|Ở đâu...?
+345|Mình... đang ở đâu?
+346|Mình...
+347|là ai?!
+348|Hả?!
+349|Tiệm Soba
+350|Trái Ác Quỷ

@@ -1,0 +1,427 @@
+1|Have some more.
+2|Black Maria?
+3|Hey, why aren't you working on your task?
+4|And what task would that be?
+5|The search for my idiot son!
+6|Oh, what's the harm, Viceroy Kaido?
+7|They can handle the search just fine without me.
+8|I'd rather be here.
+9|Okay, fine! It's that time of year again to set aside rank and let loose!
+10|Right, Orochi?!
+11|It's an excellent day!
+12|Right you are, Kaido!
+13|The ghosts of the Kozuki Clan that haunted us for twenty years are finally gone!
+14|It's a day for celebration!
+15|Kanjuro had them all fooled until the very last minute,
+16|and now his career is complete after twenty long years!
+17|He'll soon arrive with the captains who sank the Red Scabbards into the sea!
+18|He's an impressive one!
+19|I could have easily killed him back then without realizing it.
+20|It's too bad though... Even after earning all that trust,
+21|Oden never opened up to him.
+22|It's likely those samurai retainers have not heard anything about it either.
+23|Are you talking about...?
+24|Yeah...
+25|The key to the location of Laugh Tale, the last island that Roger reached.
+26|Who are you?!
+27|Pardon me!
+28|I have business with Lord Orochi!
+29|Oh! There you are, Kanjuro!
+30|I've never seen him before.
+31|You here for a fight?!
+32|Calm down, you idiots!
+33|He's Orochi's man!
+34|It has been too long, Lord Orochi!
+35|The mansion is so massive that I got a little lost backstage.
+36|I had to cut down all those men who mistakenly attacked me as their enemy.
+37|I apologize for that.
+38|Well, that's alright!
+39|Oh! I see you've got something there...
+40|It is Kozuki Momonosuke, per your request.
+41|He is Oden's son.
+42|He cut his ropes and attempted to escape on the way here, so I had to knock him out.
+43|Do not fret. He is alive.
+44|So this is how you treat your former Kozuki lord's heir...
+45|How cold and heartless of you!
+46|Now that my act is over, he's just another whelp to me.
+47|What a surprise!
+48|I do remember you.
+49|You're one of the Nine Red Scabbards that I fought against twenty years ago.
+50|And you... I definitely remember you.
+51|Your father was brave, but you're nothing but a disappointment.
+52|You haven't changed one bit in twenty years!
+53|Indeed. He's nothing more than a miserable brat...
+54|who happened to inherit a great name.
+55|You poor thing.
+56|He's bleeding... How could you strike a little boy so hard?
+57|It's time to drink! Let's make a toast!
+58|You've done well playing the part of spy for so long!
+59|Bravo!
+60|No, Shogun Orochi!
+61|I failed to intercept the Red Scabbards' plan...
+62|because the Straw Hats and their allies ambushed us!
+63|What?! Failed?!
+64|The rebel forces, 5,400 strong, are advancing toward Onigashima as we speak!
+65|Unacceptable!
+66|You failed to intercept their plan?!
+67|I am deeply sorry!
+68|You're the one who told me that they'd rendezvous at Tokage Port!
+69|Why didn't you exterminate them?!
+70|K-Kin'emon outsmarted me!
+71|I have known him for a long time,
+72|but I underestimated his tactical genius!
+73|Stop with the excuses!
+74|Answer me, Kanjuro!
+75|Will the samurai fleet make it to Onigashima?!
+76|It seems like we're still safe here, Shogun Orochi.
+77|Fukurokuju!
+78|There are no suspicious ships at the port.
+79|However, three of our warships have yet to return.
+80|In fact, we have confirmation of four pirates out on the Performance Floor.
+81|Straw Hat Luffy.
+82|Pirate Hunter Zoro.
+83|Eustass "Captain" Kid.
+84|Soldier of Slaughter Killer.
+85|It's very likely that the rest of their crews are also on the island.
+86|If you knew that, why didn't you report it before?!
+87|Sir Queen was handling it,
+88|so I thought it'd be better not to spoil the banquet.
+89|Whether they're here or not, the fact remains that all of our forces are here on Onigashima.
+90|Whatever happens, this is the safest place in the country!
+91|You said it!
+92|Drink up, Orochi!
+93|Here, let me pour you a cup.
+94|No... I don't want reassurances!
+95|I want a report that the damn samurai have been slain!
+96|Luffy made it inside...
+97|Keep yourself alive!
+98|I'll rescue you for sure!
+99|I must escape!
+100|Black Maria!
+101|Give him to me!
+102|That's right! We mustn't forget! He's the leader of the enemy force!
+103|Set the execution stage!
+104|Once the renowned Kozuki family dies out, any sparks of loyalty left will fade away completely.
+105|And it'll finally be over!
+106|Luffy...!
+107|Everyone...!
+108|Father...!
+109|Is that you, Cat?! You're late!
+110|You only just arrived?!
+111|Yeah!
+112|We just climbed up the falls!
+113|Don't you know what day and time it is?!
+114|It's the night of the Fire Festival, so we're just in time for the great battle, aren't we?
+115|You-gara shouldn't say that until you get here.
+116|We're already on our way to the northwestern end of Onigashima.
+117|Got it! See you later then!
+118|No, wait!
+119|Wait, hey!
+120|Cat!
+121|That impatience of his remains unchanged.
+122|I just hope they make it in time for our raid.
+123|I have not seen Kitty since we got separated...
+124|I bet he's as big as Doggy now, too.
+125|That damn cat... He'd better get here as fast as he can!
+126|We'll reach the rear door soon!
+127|Because of the whirlpools, normal ships can only approach the island from the front.
+128|I hope Kin'emon and Denjiro were able to reach the rear door safely.
+129|Yes! I want all of us to fulfill Lord Oden's wish together!
+130|Lord Momonosuke...
+131|Please be safe!
+132|Are they all okay?
+133|Yeah, of course they are!
+134|He said everyone made it to the island already, so I guess the raid is underway!
+135|That lonely island is now called Onigashima, huh?
+136|Who would've thought that we'd arrive at the same time, even though you left before me?
+137|Turns out I didn't need to entrust you with my message to Straw Hat Luffy!
+138|You're right!
+139|I'll throw this note out!
+140|Anyway, I can't believe you came, Marco.
+141|Well, I always did like Oden.
+142|But I can't believe how much his country has changed...
+143|News about this place never crosses the sea.
+144|I didn't know the once prosperous Wano had been reduced to such a state...
+145|It's all because of Kaido.
+146|If you've made up your mind, let's hurry on to Onigashima!
+147|We must catch up to everyone!
+148|But what can we do?
+149|The raid has already begun.
+150|How will we slip past the enemy lines to join them?
+151|Leave it to me!
+152|I have an idea!
+153|As planned, Denjiro is leading the southern forces to the castle's rear door.
+154|There seems to be a gate here!
+155|Hide!
+156|Is he a top officer?
+157|What rotten luck!
+158|Listen! Find him as quickly as possible!
+159|– Yes, sir! – Yes, sir!
+160|On the contrary, it seems we have lucked out.
+161|I know him.
+162|I will talk to him.
+163|Who goes there?!
+164|Wait, it's me!
+165|Aren't you...?
+166|It's been a while...
+167|Sasaki!
+168|Kyoshiro!
+169|I heard you weren't coming this year!
+170|Yeah, I ask that you keep this a secret.
+171|You're here incognito? What happened to that pompadour you were so proud of?
+172|It's unusual to see you away from the banquet.
+173|Yeah. Kaido's kid went missing.
+174|But hey, want a drink?
+175|You bet I do!
+176|Guys! Head back to the Skull Dome!
+177|I'll join you later.
+178|A gate that was missing from the blueprints. And one of the Soaring Six, Sasaki.
+179|Such obstacles would have been difficult for Kyoshiro to overcome
+180|if he wasn't so trusted by the enemy.
+181|Seastone?!
+182|Hey, what's the big idea, Kyoshiro?!
+183|Restrain him!
+184|– Yes, sir! – Yes, sir!
+185|What's going on?! Hey!
+186|Gag him as well!
+187|– Yes, sir! – Yes, sir!
+188|Answer me, Kyoshiro!
+189|Hey, Sasaki...
+190|How much do you know of Wano's history?
+191|Is that...?!
+192|After restraining one of the formidable Soaring Six,
+193|Denjiro split his group into two, just as the eastern forces had.
+194|Get to the dome from here!
+195|Good luck!
+196|Thus, the southern forces are steadily closing in on Kaido!
+197|Fire!
+198|I won't let you get away!
+199|I knew it wouldn't work!
+200|Of course it didn't!
+201|They're gone!
+202|Chobro!
+203|That's one fierce mature woman...
+204|Even though they were frightened, they still led her in the opposite direction...
+205|We are in your debt, Commander Chopper, Driver Usopp...
+206|Let us carry on!
+207|– Yeah! – Yeah!
+208|Everyone! Do not let their sacrifice go to waste!
+209|Hey, shouldn't we do something?!
+210|I think that monstrous mature woman is too much for those two boys to handle!
+211|She's right!
+212|It's Big Mom!
+213|I know!
+214|That's why there's nothing we can do!
+215|Let's just be happy they lured her away!
+216|In any case, why's it so hot in here?
+217|Nami! Look up!
+218|We're in trouble!
+219|I found you!
+220|It's the woman who kidnapped Zeus, Mama!
+221|Fight, Pay-Pay! Fight, Pay-Pay!
+222|Hey! Go look somewhere else, you bonehead!
+223|Excuse me, Pay-Pay?!
+224|How dare you...!
+225|But...
+226|I can't run anymore...
+227|Pay-Pay! I'm ever so weary!
+228|Woe is me!
+229|Don't cry about it to me!
+230|If you're tired, just sit there!
+231|You're supposed to offer...
+232|Oh, no!
+233|...to carry me on your back!
+234|Hey, get off of me! Hey!
+235|Wait! Let go of me! Big Sis!
+236|You little...
+237|Hey! Stop it! I mean it!
+238|Pay-Pay?!
+239|Pay-Pay! Pay-Pay! Pay-Pay!
+240|Stay with me, stay with me, stay with me!
+241|Oh no, my Pay-Pay!
+242|What's that?
+243|Pay-Pay!
+244|Pay-Pay sacrificed himself to save me!
+245|Who the hell are you?!
+246|Who the hell are you?!
+247|There it is... Onigashima.
+248|King...
+249|Marco...
+250|Straw Hat...
+251|They'd better prepare themselves for a licking...
+252|And no, I don't approve of Mama's alliance!
+253|The Big Mom Pirates will have the last lick!
+254|What now, Usopp?!
+255|Big Mom turned back to go after Nami and the others!
+256|I guess she's trying to take back Zeus.
+257|I'm worried about them...
+258|The transformation switch seems to have activated when she punched us.
+259|Well, I'm sure they'll be fine... Sanji's with them, too.
+260|Sanji, huh?
+261|I hope he remembers to rescue Momonosuke instead of chasing women in the pleasure hall.
+262|I wouldn't rule that out...
+263|But let's trust Sanji!
+264|Yeah!
+265|Kin'emon's team was able to advance, so we're doing well!
+266|We showed them what the Brachio-Tank is capable of!
+267|Yeah! We're Commander Chopper and gunner Usopp driving the Brachio-Tank 5!
+268|Nothing stands in our way!
+269|Come along...
+270|An old umbrella.
+271|Old clogs and old sandals.
+272|A dirt wall!
+273|A candle!
+274|A lantern, too!
+275|I give you life!
+276|So follow me.
+277|Mama, this way!
+278|Hey! Stop calling for Big Mom, sun!
+279|What should I do, Nami?!
+280|If she catches me, I'm a goner!
+281|Is that overripe mature woman really that dangerous?
+282|She's on a whole different level!
+283|Hey, didn't we see Sanji a little while ago?
+284|Yeah!
+285|Oh, but...
+286|Sorry for making you worry...
+287|I'm not giving up on finding those women!
+288|What did he even come here for?!
+289|In any case, we need to outrun her and look for Lord Momonosuke!
+290|Okay!
+291|Mama! This way!
+292|There's no need to rush.
+293|The Performance Floor is just ahead.
+294|There's nowhere to run.
+295|So many of these guys have powers…
+296|Call us Gifters.
+297|We, too, once aimed to be King of the Pirates.
+298|If you bow down to Lord Kaido, things will be easier for you.
+299|There are almost 500 of us.
+300|Don't make this hard on yourself.
+301|It's not too late to start over.
+302|Kid! I told you it's too reckless to break through head-on!
+303|We got separated from Heat and the others...
+304|They were fighting right alongside us,
+305|but they'll be okay on their own.
+306|If we kill you guys, I bet we'll get promoted!
+307|Please stop!
+308|Lord Kaido is looking for you!
+309|Stop bothering me!
+310|Leave me alone!
+311|– Young Master! Please stop! – Young Master! Please stop!
+312|Let down your guard and you die!
+313|Pay-Pay!
+314|Pay-Pay! Are you okay?!
+315|Don't leave me! I'd be ever so distraught!
+316|Hey, you!
+317|How could you...
+318|How could you do this to Pay-Pay?!
+319|Don't you dare bully my Pay-Pay!
+320|You're the one who used him to ski down the stairs.
+321|What's your name?!
+322|Who do you work for and which unit do you belong to?!
+323|No, Big Sis...
+324|He's an intruder.
+325|What?!
+326|I'm Luffy.
+327|The man who'll become the King of the Pirates!
+328|Do you have any idea whose castle you're standing in?
+329|The one who will become King of the Pirates is obviously Lord Kaido!
+330|You freaking dumbass!
+331|I'll cave your damn skull in!
+332|A headbutt?!
+333|Ulti-Mortar!
+334|Hey, Big Sis!
+335|I know...
+336|Pay-Pay too?
+337|Yeah!
+338|Excuse me, but...
+339|why did you two transform?!
+340|Master Ulti!
+341|Master Page One!
+342|Master Ulti?
+343|Um...
+344|Quiet down, you.
+345|We did it because...
+346|this guy is the real deal!
+347|No, no, there's no way!
+348|You hit his skull so hard, he's gotta be dead!
+349|Then how do you explain that haki?!
+350|That hurt!
+351|These guys are amazing...
+352|and there are so many of them.
+353|I was wrong...
+354|to underestimate you.
+355|This castle belongs to an Emperor!
+356|Listen up, ya jerks!
+357|Shogun Orochi presents an impromptu special event starting now!
+358|Everyone!
+359|Let me introduce this brat...
+360|Lo and behold...
+361|the son of Kozuki Oden, thought to have died twenty years ago!
+362|Gum-Gum...
+363|Big Sis!
+364|Gum-Gum...
+365|Elephant Gun!
+366|– Master Page One! – Are you okay?!
+367|Master Page One...
+368|You damn rat bastard...!
+369|How dare you do that to Pay-Pay?!
+370|I'll destroy you!
+371|Master Ulti turned into a dinosaur, too!
+372|Please! The castle can't take much more!
+373|She's... so strong!
+374|Ulti-Meteor!
+375|Oh no!
+376|Gear Fourth!
+377|Thunder Bagua!
+378|Straw Hat Luffy!
+379|It's you, isn't it?!
+380|That's me.
+381|I...
+382|I...
+383|Who are you?!
+384|He's getting away!
+385|Catch him!
+386|I'm sorry!
+387|I'm not gonna hurt you!
+388|Yeah, you don't seem like you will...
+389|Listen, I gotta go!
+390|I've been waiting for you!
+391|Finally! You're finally here!
+392|Indeed, I've been waiting for you!
+393|Waiting for so very long!
+394|My name is Yamato!
+395|I'm Kaido's son!
+396|Kurozumi Kanjuro Shogun Orochi's Informant
+397|Kurozumi Kanjuro Shogun Orochi's Informant
+398|Kurozumi Kanjuro Shogun Orochi's Informant
+399|Sail: "Cat"
+400|Guardians Nekomamushi's Subordinates
+401|Guardians Nekomamushi's Subordinates
+402|Guardians Nekomamushi's Subordinates
+403|Note: "I'll be late but I'll be there. -Marco"
+404|Southern Forces Denjiro's Group
+405|Southern Forces Denjiro's Group
+406|Sasaki Soaring Six Beast Pirates
+407|Sasaki Soaring Six Beast Pirates
+408|Sasaki Soaring Six Beast Pirates
+409|Dome Infiltration Team
+410|Raid Team
+411|Raid Team
+412|Raid Team
+413|Raid Team
+414|Eastern Forces Kin'emon's Group
+415|Ulti and Page One Soaring Six Beast Pirates
+416|Ulti and Page One Soaring Six Beast Pirates
+417|Ulti and Page One Soaring Six Beast Pirates
+418|Inside the Pleasure Hall
+419|Wire Kid Pirates
+420|Wire Kid Pirates
+421|Heat Kid Pirates
+422|Heat Kid Pirates
+423|Ulti Ancient Saur-Saur Fruit Pachycephalosaurus
+424|Ulti Ancient Saur-Saur Fruit Pachycephalosaurus
+425|Ulti Ancient Saur-Saur Fruit Pachycephalosaurus
+426|Ulti Ancient Saur-Saur Fruit Pachycephalosaurus
+427|Performance Floor Skull Dome

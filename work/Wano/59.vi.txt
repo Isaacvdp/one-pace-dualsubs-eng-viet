@@ -1,0 +1,423 @@
+1|Không thể tin được!
+2|Các đội trưởng Oniwabanshu...
+3|và cả Mimawari-gumi nữa...
+4|Gần hết đã gục rồi!
+5|Daikoku!
+6|Kazekage-sama!
+7|Hotei đội trưởng!
+8|Đây là sức mạnh của yakuza huyền thoại sao?!
+9|Hắn kháng được quỷ băng mà vẫn lợi dụng sức mạnh của nó!
+10|Tôi bắt đầu hiểu ra rồi...
+11|vì sao Wano lại bị khiếp sợ đến vậy...
+12|Đại ca!
+13|Đại ca Hyogoro!
+14|Còn chờ gì nữa, Yatappe?!
+15|Hãy trút sạch đầu óc đi!
+16|Nếu tôi hóa thành quỷ băng...
+17|Tôi biết rồi!
+18|Cho tôi một chút thôi!
+19|Tôi sẽ làm!
+20|Tôi làm ngay đây!
+21|Dĩ nhiên là khó rồi...
+22|Dù sao thì người đó...
+23|như cha của bọn tôi vậy!
+24|Tsunagoro, chém tôi ngay đi!
+25|Đại ca Hyogoro...
+26|Tôi sẽ theo ngài ngay thôi!
+27|Omasa!
+28|Chết tiệt!
+29|Ông Tanuki, có cách nào làm cho kịp không?!
+30|Tôi cũng không chống cự nổi nữa rồi!
+31|Không cứu được tôi nữa đâu!
+32|Làm đi!
+33|Đừng để tôi...
+34|Đại tỷ Omasa!
+35|Đừng để tôi làm hại mọi người!
+36|Ông Tanuki!
+37|Thuốc giải chắc đã xong rồi chứ?!
+38|Cả tầng này...
+39|tất cả đồng đội của chúng ta...
+40|sẽ lại gục ngã vì quỷ băng!
+41|Ngài Awesomeness!
+42|Ngài Awesomeness!
+43|Bọn tôi làm việc cho ngài mà... Sao còn phải chết vì virus của ngài?!
+44|Câm miệng, lũ cặn bã!
+45|Lũ ranh bọn bây hết giá trị lợi dụng rồi!
+46|Nghe cho rõ!
+47|Nếu tao không dùng được bọn bây thì cũng chỉ là rác!
+48|Virus quỷ băng là kiệt tác của tao!
+49|Nói đúng ra, nó được làm riêng cho bọn bây đấy!
+50|Này, lũ Pleasures!
+51|Bọn bây đã trượt vụ bốc thăm năng lực rồi!
+52|Giờ chỉ còn là bia đỡ đạn cười ha hả thôi!
+53|Thật tàn nhẫn!
+54|Này, lũ Waiters!
+55|Bọn bây có chờ bao lâu cũng không còn trái SMILE nào nữa đâu!
+56|Bọn bây mất cơ hội trở thành người có tiếng rồi!
+57|Eternal Waiters.
+58|Tên hợp lắm, vì bọn bây chỉ biết chờ thôi!
+59|Cách duy nhất lũ ăn không ngồi rồi bọn bây có ích cho băng Bách Thú hùng mạnh...
+60|là ít nhất hóa thành quỷ trước khi chết.
+61|Như vậy là bọn bây làm được chút việc đáng giá trong những phút cuối!
+62|Vậy ý ngài là... bọn tôi cứ chết đi sao?!
+63|Ồ! Giờ mới hiểu à!
+64|Tao có đủ quân rồi.
+65|Sao ngài nỡ nói thế!
+66|Không thể nào...
+67|Bọn bây đã có cơ hội rồi!
+68|Kháng thể đó vẫn có thể cứu một số người trong các ngươi!
+69|Chết tiệt! Tao không chết mà chưa chiến đấu đâu!
+70|Chém hết quỷ băng, cả samurai lẫn đồng minh!
+71|Đúng thế chứ!
+72|Chiến đấu hết sức để sống sót đi!
+73|Cách hắn đối xử với thuộc hạ thật kinh tởm!
+74|Đúng vậy.
+75|Này, lũ samurai khốn kiếp!
+76|Có thể bọn bây không biết mình đang bảo vệ ai ở đằng kia,
+77|nhưng phòng khi bọn bây quên, con tanuki đó...
+78|cũng là hải tặc, giống bọn tao!
+79|Queen...
+80|Tổng hợp từng đó kháng thể trong thời gian ngắn thế sao?!
+81|Đừng làm tao cười!
+82|Chắc hắn tự uống thuốc giải rồi chuồn thôi!
+83|Cậu ấy không giống lũ ác nhân bọn mày!
+84|Các người chắc chứ?
+85|Hải tặc nổi tiếng là không trung thành mà!
+86|Đại ca Hyogoro!
+87|Tôi sẽ theo ngài ngay!
+88|Đừng vội vàng theo ta...
+89|– Đại ca! – Đại ca!
+90|Vĩnh biệt...
+91|Khoan đã!
+92|Đừng cản tôi, ông Tanuki!
+93|Chúng tôi không còn lựa chọn nào khác!
+94|Chờ đã!
+95|Tôi sẽ cứu ông ấy ngay!
+96|Đại ca! Nuốt đi!
+97|Tạ ơn trời! Kịp rồi!
+98|Đ-Đại ca...
+99|Được rồi! Có tác dụng rồi!
+100|Người ông đang ấm lên!
+101|Đại ca Hyogoro!
+102|Ông không sao chứ?!
+103|Ừ...
+104|Có tác dụng rồi!
+105|Tôi biết ông làm được mà, ông Tanuki!
+106|Miyagi! Tristan! Nhanh lên!
+107|Rõ ngay, bác sĩ Chopper!
+108|Cái gì vậy?
+109|Xong hết rồi, bác sĩ Chopper!
+110|Được rồi! Bắt đầu thôi!
+111|Bác sĩ Chopper! Cứ ra lệnh!
+112|– Một khẩu pháo?! – Một khẩu pháo?!
+113|Chopperphage...
+114|Nebulizer!
+115|Bắn!
+116|Mọi người! Hít sương vào!
+117|Mày đang làm cái quái gì vậy, con tanuki chết tiệt?!
+118|Đỉnh cao tác phẩm của tao... Mày đã làm gì thế!?
+119|Phát thuốc riêng cho hàng nghìn lính là điều bất khả thi!
+120|Nên tôi đã tạo ra virus của riêng mình từ các kháng thể!
+121|Mày nói sao?!
+122|Virus tốt có thể khắc chế virus xấu!
+123|Như vậy ai cũng chỉ cần hít sương là được chữa khỏi!
+124|Mày chỉ là bác sĩ tàu của một băng hải tặc quèn...
+125|Học mấy thứ này ở đâu vậy?!
+126|Bọn tôi đã đi khắp thế giới để rèn luyện cho những lúc như thế này!
+127|Mày còn chữa quỷ băng cho cả người của tao!
+128|Ai cho mày cái quyền đó?!
+129|Kẻ nào tỉnh táo lại dùng virus làm vũ khí chứ?!
+130|Không có cách nào kiểm soát nó cả!
+131|Tao không cần một con tanuki chết tiệt giảng đạo đức!
+132|Mày tưởng tao là ai hả?!
+133|Lũ Pleasures?!
+134|Tại sao?!
+135|Chúng mày làm cái quái gì vậy?!
+136|Tránh ra, lũ chuột!
+137|Đi chết đi, Queen!
+138|Ngài suýt giết anh em bọn tôi...
+139|nhưng ông Tanuki đây đã cứu mạng bọn tôi!
+140|Bọn tôi thà chết bên cạnh người đã cứu mình...
+141|còn hơn bị ông chủ điên khùng giết!
+142|Đúng không, anh em?!
+143|Cảm ơn ông, Tanuki!
+144|Tanuki!
+145|Tanuki!
+146|Tanuki!
+147|Bọn tôi nợ ông một ân tình, ông Tanuki!
+148|Ông Tanuki... Cảm ơn ông!
+149|Cậu đúng là đặc biệt, tanuki nhỏ à.
+150|– Tanuki! Tanuki! Tanuki! Tanuki! – Tanuki! Tanuki! Tanuki! Tanuki!
+151|– Tanuki! Tanuki! Tanuki! Tanuki! – Tanuki! Tanuki! Tanuki! Tanuki!
+152|Đi chết đi, Queen!
+153|Lũ khốn này!
+154|Cái quái gì thế này?!
+155|Không tệ chút nào, tanuki!
+156|Giờ thì cho hắn một trận đi.
+157|Cảm ơn, Marco!
+158|Còn một điều tôi muốn nói nữa!
+159|Tôi là tanuki!
+160|Rumble!
+161|Monster Point!
+162|– Hạ hắn đi! – Hạ hắn đi!
+163|Cậu làm được!
+164|Cái gì?!
+165|Tôi không phải tanuki!
+166|Tôi không phải tanuki!
+167|Tôi không phải tanuki!
+168|Bọn tôi xin lỗi!
+169|Bọn tôi xin lỗi!
+170|Bọn tôi xin lỗi!
+171|Bọn tôi xin lỗi!
+172|Bọn tôi xin lỗi!
+173|Bọn tôi xin lỗi!
+174|Bọn tôi xin lỗi!
+175|Bọn tôi xin lỗi!
+176|Giữa các tầng của lâu đài có rất nhiều khoảng trống!
+177|Không ai thấy chúng ta ở đó đâu!
+178|Được rồi!
+179|Momonosuke-sama! Xin ngài cố thêm chút nữa!
+180|Momonosuke, em ổn không?
+181|Ta không ổn...
+182|Ý em là sao?!
+183|Ta không ổn. Ta thấy tệ lắm.
+184|Ta ghét bản thân mình.
+185|Ai cũng đánh giá ta quá cao!
+186|Ta... Ta...
+187|Ta nông nổi, ngu ngốc...
+188|yếu đuối, khờ dại, và ta thấy ghê tởm chính mình...
+189|Momonosuke-sama, tôi thấy ngài thật tuyệt vời!
+190|Ta không tuyệt vời chút nào!
+191|Dù bây giờ ngài còn nhỏ,
+192|tôi biết rồi ngài sẽ trở thành một tướng quân đích thực!
+193|Ngài sẽ còn vĩ đại hơn cả Kozuki Oden!
+194|Ta không... Ta không...
+195|Ta không tuyệt vời chút nào!
+196|Cái gì?!
+197|Một con lươn?!
+198|Momonosuke-sama!
+199|Sao ngài lại ra thế này?
+200|Đây là chuyện xảy ra với Momonosuke-sama khi cảm xúc dâng cao.
+201|Hả?
+202|Ngài ăn trái ác quỷ hay gì à?
+203|Đúng vậy...
+204|Nhắc đến Kaido...
+205|Hồi Hải Quân giam giữ hắn...
+206|Vegapunk đã chiết xuất yếu tố di truyền của Kaido...
+207|và dùng nó để tạo ra một trái ác quỷ nhân tạo.
+208|Chính phủ yêu cầu ông ấy giao nộp trái đó,
+209|nhưng vì Vegapunk coi đó là thất bại đáng thất vọng,
+210|nên nó được cất giữ lâu dài ở Punk Hazard.
+211|Sao giờ lại nhắc chuyện này?
+212|Punk Hazard đã bị nổ tung.
+213|Trái đó chắc đã biến mất rồi.
+214|Ta chỉ mong nó đã bị phá hủy trong vụ nổ,
+215|nhưng Chi nhánh G-5 của Hải Quân báo rằng vẫn còn một cơ sở hoạt động...
+216|Ta chỉ mừng... vì nó là một thất bại.
+217|Ai đã chữa vết thương cho chúng ta?
+218|Ta không biết...
+219|Nhưng ta tin là mình đã thấy ai đó...
+220|Không, chắc chỉ là giấc mơ...
+221|Dù sao thì cũng không thể nào...
+222|Luffy-dono cùng đồng minh đang giao chiến với Kaido thay chúng ta.
+223|Chúng ta không nên ở đây ngồi yên!
+224|Trận chiến trên hòn đảo này vẫn đang bùng nổ!
+225|Đi thôi!
+226|Chúng ta vẫn còn mạng để cống hiến!
+227|Các ngươi!
+228|Trông các ngươi thảm quá!
+229|Ta nhớ các ngươi biết bao!
+230|Các ngươi già đi nhiều quá!
+231|L-Oden-sama!
+232|Oden-sama?
+233|Các ngươi ngạc nhiên cũng phải!
+234|Toki đã dùng năng lực gửi ta đến tương lai!
+235|Ta sẽ giải thích sau.
+236|Chuyện dài lắm!
+237|Oden-sama!
+238|Vậy ra đó là lý do ngài ở đây!
+239|Xin lỗi vì đến muộn!
+240|Nhưng giờ không có thời gian ôn chuyện!
+241|Đi nào!
+242|Chúng ta đến chỗ Kaido, kẻ mà chúng ta đã không hạ được vào ngày định mệnh đó!
+243|Dĩ nhiên!
+244|Bọn tại hạ theo ngài!
+245|Đó là nguyện vọng của bọn tại hạ từ đầu!
+246|Lên đường thôi!
+247|Ta biết các ngươi sẽ nói vậy mà!
+248|Khoan đã, mọi người!
+249|Không thể nào ngài ấy còn sống!
+250|Hắn nhất định là kẻ giả mạo!
+251|Ngươi nói gì vậy, Ashura?!
+252|Kin'emon!
+253|Hãy nhớ lời Toki-sama!
+254|Du hành về quá khứ là không thể...
+255|nhưng có thể nhảy tới tương lai.
+256|"Du hành về quá khứ là không thể"!
+257|Năng lực của Toki-sama là đưa người đến tương lai!
+258|Oden-sama đã chết vào ngày hôm đó!
+259|Sự thật đó không thay đổi, dù ở tương lai!
+260|Không ai thay đổi được quá khứ!
+261|Nhưng... có thể là ngài ấy!
+262|Tại hạ hiểu!
+263|Nhưng...!
+264|Tỉnh lại đi, Kin'emon!
+265|Nhìn kìa!
+266|Hắn còn không chảy máu!
+267|Không thể nào!
+268|Ashura...
+269|Ta tưởng ngươi đã thề làm samurai của ta.
+270|Hãy làm samurai của ta!
+271|Ashura!
+272|Ashura!
+273|Giờ thì bộ mặt thật của hắn lộ ra rồi...
+274|Ta biết ai cũng cảm thấy như nhau...
+275|Ta cũng ước ngài ấy là thật...
+276|Nhưng... đây là kẻ giả mạo!
+277|Thật khủng khiếp!
+278|Ai lại dám giả làm Oden-sama?!
+279|Không phải ngài ấy thật sao?!
+280|Chết tiệt!
+281|Ngươi ổn không, Ashura?!
+282|Nhưng... phong thái của hắn...
+283|Y hệt Oden!
+284|Người duy nhất có thể bắt chước hoàn hảo đến vậy...
+285|là một trong chúng ta!
+286|Vậy là ngươi!
+287|Kanjuro!
+288|Đừng nực cười! Ta là Oden!
+289|Ashura, tha lỗi cho ta!
+290|Đây là lỗi của ta!
+291|Nếu ta không bỏ sót việc hạ Kanjuro...
+292|Lưỡi kiếm sắc nhất cũng cùn khi quay sang bạn bè...
+293|Hẳn ngươi đã rất khổ sở...
+294|Đây là tranh à? Thân thể thật của ngươi đâu?!
+295|Ta đang điều khiển Oden từ xa!
+296|Việc này mệt mỏi thật đấy!
+297|Này, Kiku!
+298|Lưỡi kiếm của ngươi quả nhiên trúng đích!
+299|Ta cũng bị thương nặng!
+300|Ta đoán đây sẽ là màn cuối của ta!
+301|Nhưng điều duy nhất giúp ta tiếp tục tiến lên...
+302|là mối hận với nhà Kozuki!
+303|Cho nên, trước khi chết...
+304|Ta sẽ đâm xuyên trái tim gia tộc Kozuki!
+305|Với tư cách không ai khác ngoài Kurozumi Kanjuro!
+306|Momonosuke-sama đang gặp nguy!
+307|À, hình như ta nghe thấy một giọng nói từ đâu đó lúc nãy...
+308|nói rằng Momonosuke-sama đang ở cùng một kunoichi...
+309|Đó hẳn là Shinobu!
+310|Nghĩa là chúng ta liên lạc được với ngài ấy!
+311|Đuổi theo một kẻ sắp chết thật là thô lỗ.
+312|Các samurai Hồng Bao sẽ chết ở đây mà chẳng đạt được gì!
+313|Kể cả ta...
+314|Cùng ra đi cho thật hoành tráng nhé?
+315|Các ngươi!
+316|Các ngươi là bạn ta, phải không?
+317|Ashura!
+318|Đi đi, các ngươi!
+319|Đi ngăn Kanjuro lại!
+320|Ngươi làm gì vậy?!
+321|Buông ta ra!
+322|Hãy cứu Momonosuke-sama giúp ta!
+323|Bọn tại hạ nợ ngươi một ân tình, Ashura!
+324|Đồ khốn!
+325|Sao dám cản đường ta?!
+326|Đáng chết! Buông ta ra!
+327|Ngươi sẽ không bao giờ làm ô uế ký ức về Kozuki Oden nữa!
+328|Kanjuro!
+329|Cuối cùng cũng đến lúc ta, ngôi sao của vở diễn, bước lên sân khấu chính!
+330|Trước tiên, ta trở thành Kozuki...
+331|rồi, ta diệt Kozuki...
+332|và cuối cùng, ta chết!
+333|Đây sẽ là màn kết hoành tráng của ta!
+334|Cuộc đời ta là một vở kịch lớn tuyệt đẹp!
+335|Jack!
+336|Đồ khốn! Quay lại hiệp hai à?!
+337|Phiền phức thật...
+338|Lũ yếu đuối này dám cản đường ta...
+339|tất cả chỉ để bảo vệ những vị vua quý giá của chúng!
+340|Cat! Raizo! Các ngươi đi trước đi!
+341|Mọi người, hãy cứu Momonosuke-sama giúp ta!
+342|Đi thôi, Kin.
+343|Ừ...
+344|Nhớ đuổi theo bọn ta nhé, Inuarashi! Bọn ta sẽ đợi ngươi!
+345|Ngươi định một mình đấu với ta sao, Ruler of the Day?
+346|Cả hai ta đều bị thương.
+347|Có vẻ là một trận công bằng.
+348|Ta không ở lại để giải quyết mối thù cũ.
+349|Nếu để ngươi tự do, sẽ có thêm người bị hại! Và ta không thể cho phép, Jack!
+350|Ở đây không nhìn thấy mặt trăng!
+351|Cũng không có khí độc!
+352|Vậy thì... Xem hôm nay số phận chọn ai nào.
+353|Mau dập lửa đi!
+354|Nước! Cần thêm nước!
+355|Là ngươi...!
+356|Đến lúc dạy cho lũ ngu các ngươi một bài học.
+357|Ta tưởng ngươi chết rồi...
+358|Sao ngươi sống sót được?!
+359|Sao Kaido dám phản bội ta như vậy?!
+360|Không còn nghi ngờ gì nữa, Orochi-sama...
+361|Ngài quả thật đã bị Kaido chém đầu... một lần.
+362|Tuy nhiên...
+363|Ta sẽ thiêu rụi tất cả!
+364|Khi ta xong việc, Onigashima sẽ là một biển lửa!
+365|Trên không không có chỗ chạy.
+366|Các ngươi chỉ còn cách chết!
+367|Ta sẽ giết từng đứa một!
+368|Chúng sẽ hối hận vì đã dám chống lại ta!
+369|Momonosuke!
+370|Em trở lại bình thường được không?
+371|Trông em nổi bật quá.
+372|V-Vâng...
+373|Lần này ở yên đó nhé, Momonosuke!
+374|Xin lỗi...
+375|Trông không giống vậy, nhưng ta đã học cách kiểm soát tốt hơn...
+376|Lúc mới gặp Luffy và mọi người,
+377|ta hóa thành rồng mỗi khi giật mình hay buồn bã.
+378|Kinh ngạc thật...
+379|Không biết có giống sức mạnh của cha ta không...
+380|Nếu ta hóa thành quái vật như cha, ta sẽ giúp ích được cho mọi người...
+381|Luffy vẫn đang đánh với Kaido phải không?
+382|Không biết anh ấy có ổn không!
+383|Ta cũng muốn hạ Kaido! Với tư cách Oden!
+384|Luffy đang yếu đi rất nhiều...
+385|nhưng không hiểu sao anh ấy vẫn rất hăng!
+386|Tạ ơn trời...
+387|Cái gì?!
+388|Sao ngài biết được, Momonosuke-sama?!
+389|Làm sao hạ được bọn này đây?
+390|Chúng chịu mọi đòn của mình mà như không...!
+391|Hai Hoàng đế đúng là khác... Da dày thật.
+392|Ít nhất cũng giả vờ là đau đi chứ!
+393|Có tác dụng đấy!
+394|Bị đánh như vậy, không thể nào không đau!
+395|Chúng cũng là con người như chúng ta!
+396|Gum-Gum...
+397|Cậu thử rồi mà! Nghĩ trước khi lao vào đi!
+398|Sao có thể gọi chúng là người...
+399|khi khoảng cách giữa chúng ta lớn đến vậy?
+400|Này, nếu cậu nghĩ không thể thắng thì sao lại ở đây?
+401|Bọn này đang tìm cách thắng!
+402|Ta nên dụ một tên ra khỏi đây.
+403|Ý hay.
+404|Hai tên đứng cạnh nhau thế này...
+405|cứ như đang ở địa ngục vậy.
+406|Địa ngục à?
+407|Tôi đến đó nhiều lần rồi.
+408|Ánh sáng trong mắt cậu không bao giờ tắt...
+409|Mũ Rơm!
+410|Chúng ta chiếm ưu thế rồi!
+411|C H O P P E R P H A G E
+412|C H O P P E R P H A G E
+413|C H O P P E R P H A G E
+414|C H O P P E R P H A G E
+415|N E B U L I Z E R
+416|N E B U L I Z E R
+417|N E B U L I Z E R
+418|N E B U L I Z E R
+419|Tháp Não Phải trong Mái Vòm
+420|Tháp Não Phải trong Mái Vòm
+421|Phòng khách trong Lâu đài
+422|Phòng khách trong Lâu đài
+423|"Kho báu"

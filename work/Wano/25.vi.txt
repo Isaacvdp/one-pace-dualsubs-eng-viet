@@ -1,0 +1,372 @@
+1|Oshiruko...
+2|Olin?!
+3|Olin không hề yếu đi chút nào so với lúc còn là Big Mom!
+4|Luffy!
+5|Bà lão đáng gờm thật!
+6|Bà ấy không phải "bà lão" bình thường đâu.
+7|Bà ấy là...
+8|một trong Tứ Hoàng!
+9|Khoan... cái gì?!
+10|Queen-sama!
+11|Này.
+12|Đừng nằm đó nữa, đồ thằn lằn chết tiệt!
+13|Dừng lại đi, bà già!
+14|Bà nghĩ tao là ai hả?!
+15|Luffy!
+16|Oshiruko!
+17|Trả oshiruko cho tôi!
+18|Oshiruko!
+19|Oshiruko!
+20|Đưa đây ngay!
+21|Tránh ra, ông già!
+22|U-Udon...
+23|Udon nguy rồi!
+24|Tốt, hai người đó...
+25|Này, ông có sao không?!
+26|Queen-sama!
+27|Queen-sama! Tỉnh lại đi!
+28|Queen-sama?
+29|Ngài ngất rồi...
+30|Người có tiền truy nã 1,3 tỷ Beri bị hạ chỉ trong hai đòn!
+31|Mùi đậu đỏ ngọt ngào đó càng lúc càng nồng!
+32|Bà ta hạ Queen mà không đổ một giọt mồ hôi.
+33|Bà ta ở đẳng cấp khác...
+34|Vậy đó là Tứ Hoàng Big Mom sao?!
+35|Phải báo cáo với Lord Kaido!
+36|Rõ!
+37|Phòng giam chưa mở bị phá nát rồi!
+38|Không biết bên trong có gì...
+39|Tôi nghĩ nó bị xích lại...
+40|Nó không thoát ra được, nên không thể nào còn sống.
+41|Hiểu rồi. Tôi sẽ báo cho Onigashima ngay.
+42|Bên này có mùi oshiruko.
+43|Babanuki xin phép khai hỏa.
+44|Không được! Đừng chọc giận bà ta!
+45|Lord Kaido ra lệnh gì?
+46|Giám ngục, các Smail...
+47|Các Smail không kết nối được!
+48|Không ai liên lạc được với Onigashima!
+49|Cái quái gì vậy?!
+50|Chúng đang sơ hở vì náo loạn ở cổng trước.
+51|Caribou cũng góp một phần.
+52|Nói chung là cứ "Hắn đi hướng đó", "Hắn ở đây".
+53|Liên lạc liên tục của chúng thật phiền phức!
+54|Giờ để tôi nói điều quan trọng.
+55|Các cậu thấy đấy...
+56|Ốc sên truyền tin của Wano yếu thế vì tín hiệu yếu!
+57|Để bù lại, tín hiệu phát đi của mọi Smail...
+58|trước tiên được gửi đến cái gọi là ốc sên chủ đặt ở mỗi vùng...
+59|Rồi ốc sên chủ chuyển tiếp tín hiệu đến các Smail nhận.
+60|Hả? Tôi hiểu cách hoạt động, nhưng...
+61|Thôi nào, đừng chậm hiểu thế!
+62|Nếu tôi nuốt chửng ốc sên chủ của Udon...
+63|cậu nghĩ chuyện gì sẽ xảy ra?
+64|Ý ông là cả vùng Udon sẽ bị cắt liên lạc sao?!
+65|Chính xác!
+66|Tôi bị nhốt ở đây lâu thế không phải vô ích.
+67|Tôi đã biết ốc sên chủ ở đâu.
+68|Thật sao?!
+69|Việc cắt liên lạc của chúng cứ giao cho tôi!
+70|Chìa khóa là mấu chốt của kế hoạch, nên đi giật hết về đi, Raizo thân mến!
+71|Cố lên, Kawamatsu!
+72|Chúng tôi sẽ giải thoát cho cậu bằng mọi giá!
+73|Hả?
+74|Ở đây rồi!
+75|Mùi hương đó!
+76|Không lầm đâu!
+77|Là oshiruko!
+78|Mùi thơm ngọt đậm đà làm sao!
+79|Lại còn nhiều thế này nữa!
+80|Đi một chuyến thật đáng!
+81|Nào, xem thử.
+82|Giám ngục Babanuki!
+83|Tôi có việc khẩn cần báo cáo!
+84|Gì? Không đợi được sao?!
+85|Nồi oshiruko trống rỗng rồi!
+86|Trống rỗng ư?!
+87|Với nỗi ám ảnh đồ ăn của bà ta, Big Mom sẽ làm gì
+88|khi biết oshiruko hết sạch?!
+89|Bà ta sẽ trút giận vào đâu?! Chắc tất cả chúng ta chết chắc rồi!
+90|Oshiruko.
+91|Mọi người, sơ tán ngay lập tức!
+92|Ai lo thân nấy!
+93|Thảm họa khó lường sắp ập đến!
+94|Chết tiệt! Đứa nào ăn hết thế?!
+95|Cũng phải. Bà ấy thật sự rất muốn ăn.
+96|Tôi hiểu cảm giác của bà. Tôi cũng muốn ăn thêm.
+97|Oshiruko đó ngon thật!
+98|Ngài Mũ Rơm!
+99|Vậy...
+100|– Vậy... Vậy... – Vậy... Vậy...
+101|Vậy ra là cậu...
+102|– ...đã ăn! – ...đã ăn!
+103|Sao mọi người nhìn tôi?
+104|K-Khoan, gì cơ? Cậu vừa...
+105|thông báo với mọi người là cậu đã ăn oshiruko.
+106|Cái gì?!
+107|Tôi nói to ra sao?!
+108|Tôi nghĩ "Oshiruko ngon thật",
+109|nhưng tôi không định nói ra!
+110|Cậu lại nói nữa rồi. Cậu ổn không?
+111|Luffytaro...
+112|Cuối cùng tôi cũng tìm thấy cậu, Luffy...
+113|nhưng cậu lại là trung tâm của rắc rối!
+114|Này...!
+115|Có phải mày...
+116|đã ăn hết oshiruko không?!
+117|Mày có mùi oshiruko!
+118|Ôi không!
+119|Oshiruko!
+120|S-Suýt nữa thì!
+121|Phải nhớ là ra ngoài vòng là chết!
+122|Tôi không chấp nhận chuyện này.
+123|K-Khoan đã!
+124|Phải nghe tôi nói! Khoan, Big Mom!
+125|"Big Mom" là cái quái gì?!
+126|Mày đang nói ai thế hả?!
+127|và mày là cái quái gì, đồ ăn đậu đỏ?!
+128|Cái gì?!
+129|Bà không nhớ tôi sao?!
+130|Ồ! Tôi mặc đồ samurai nên bà không nhận ra!
+131|Chọc giận Big Mom vì đồ ăn sẽ mang thảm họa...
+132|Tệ rồi! Tệ thật rồi!
+133|Cái vòng cổ lại bắt đầu kêu tích tắc!
+134|Không ổn rồi.
+135|Thêm một cú đẩy nữa là chết cả lũ!
+136|Chúng ta không được lùi dù chỉ một tấc!
+137|Nếu cái nồi đó đầy oshiruko,
+138|tôi đã có thể chia cho mọi người trong thị trấn đó!
+139|Ăn oshiruko đi. Nào, Olin!
+140|Mọi người trong thị trấn nghèo đó đều tốt với tôi...
+141|Tôi muốn bày tỏ lòng biết ơn bằng cách mang thật nhiều oshiruko cho họ!
+142|Cái gì?!
+143|Oshiruko ngon đó...
+144|Tôi muốn chia cho họ!
+145|C-C-Cái...
+146|Vậy đây không phải cơn đói điên cuồng của bà ta sao?
+147|Bà ta hành động vì lòng tốt?!
+148|Bà ta nổi điên vì muốn tử tế!
+149|Oshiruko!
+150|Sao mày ăn hết hả?!
+151|Thằng nhóc con!
+152|Không, dừng lại!
+153|Ông già!
+154|Tháo ra!
+155|Chết tiệt! Tôi không để ông chết đâu! Ông không được chết!
+156|Tháo ra!
+157|Tháo ra!
+158|Vậy là hết sao...?
+159|Tháo ra!
+160|Tháo... ra!
+161|A, những cái vòng cổ!
+162|Sao?
+163|Vòng cổ tháo ra rồi!
+164|Tôi đã làm gì thế, ông già?!
+165|Tôi làm được rồi!
+166|Chà, thật không ngờ. Cái đó...
+167|Nó tháo ra rồi!
+168|Mày lại né tao nữa.
+169|Được rồi, chuồn thôi, ông già!
+170|Ngài Mũ Rơm!
+171|Trước khi cậu quên cảm giác đó,
+172|hãy dùng nó để bảo vệ tôi!
+173|Ông nói cái quái gì thế?! Đi thôi!
+174|Sức mạnh nở rộ trong giờ phút đen tối nhất!
+175|Lần này mày đừng hòng thoát!
+176|Ông điên à?! Giờ mà tập luyện sao?!
+177|Nếu tôi thất bại, ông chết đấy!
+178|Tôi biết!
+179|Lại đây, Tứ Hoàng!
+180|Tôi cũng làm được! Giống như Rayleigh đã làm ở Sabaody!
+181|Giờ tôi sẽ tháo vòng cổ cho cô. Được chứ, cô bé?
+182|Đừng liều lĩnh, ông ơi! Nó sẽ nổ đó!
+183|Lúc nãy chúng tôi thấy một cái vòng nô lệ phát nổ rồi!
+184|Ý đó tệ lắm! Rất tệ!
+185|Như vậy được không, Luffy?!
+186|Sẽ ổn thôi. Cứ ngồi yên.
+187|Tôi nói là quá nguy hiểm! Không có chìa khóa thì không tháo được!
+188|Nó đang kêu tích tắc! Làm sao đây?!
+189|Dừng lại! Xin hãy dừng lại đi!
+190|Camie!
+191|Cậu ấy tháo vòng cổ bằng tay không sao?!
+192|Đúng vậy.
+193|Y hệt những gì Rayleigh đã làm hồi đó!
+194|Tôi cũng vừa làm được!
+195|Nhưng lúc đó tôi quá cuống. Tôi chẳng nhớ đã làm thế nào!
+196|Mày là của tao rồi!
+197|Ngài Mũ Rơm, năng lực cậu vừa thể hiện
+198|đã vượt xa mọi thứ tôi có thể dạy cậu về ryuo.
+199|Nên tôi tin cậu có thể ngăn bà ta!
+200|Hãy đẩy lùi những nắm đấm của người đàn bà quái vật đó
+201|và cứu cả hai chúng ta!
+202|Tôi biết cậu làm được!
+203|Được, cho tôi xem ông có gì!
+204|Mày sẵn sàng chết chưa?!
+205|Chắc chắn rồi!
+206|Được!
+207|Cậu ấy không định đỡ đòn đó chứ! Quá liều lĩnh!
+208|Không...
+209|Tôi tin Luffy làm được.
+210|Tôi không cần gồng. Tôi chỉ dồn haki vào nắm đấm.
+211|Cứ đến đi!
+212|Luffytaro!
+213|Luffy!
+214|Luffy!
+215|– Mày trông đợi cái quái gì chứ?! – Mày trông đợi cái quái gì chứ?!
+216|Chết tiệt!
+217|Xin lỗi, ông già! Tôi thất bại rồi!
+218|Đừng chết nhé!
+219|Đau, đau, đau quá!
+220|Ông có sao không, ông già?!
+221|T-Tôi cũng tự bảo vệ phần nào bằng ryuo...
+222|Ông già!
+223|Ông vẫn còn sống sao?!
+224|Nghe tôi nói...
+225|Tất cả những gì tôi có thể dạy cậu...
+226|là kỹ thuật phủ ryuo lên cơ thể...
+227|Thứ cậu gọi là haki–
+228|Này, đừng nói nữa.
+229|Haki là...
+230|một sức mạnh to lớn vừa là áo giáp vô hình vừa là công cụ tấn công.
+231|Tuy nhiên, nếu cậu tiến lên cấp độ tiếp theo,
+232|haki bao phủ cậu sẽ mạnh hơn nữa,
+233|xuyên vào bên trong đối thủ và phá hủy họ từ bên trong.
+234|Cậu đã phá hủy những cái vòng thép đó từ bên trong bằng haki của mình.
+235|Cậu đã làm được rồi.
+236|Ông già...
+237|Cậu đã thành thạo việc phủ haki lên cơ thể.
+238|Chỉ là cậu chưa nhận ra thôi...
+239|Hãy tin vào năng lực của mình!
+240|Này, ông già!
+241|Đừng chết, ông già!
+242|Này! Tỉnh lại đi, ông già!
+243|Này! Đừng chết mà!
+244|Này!
+245|Ông già!
+246|Dám ăn oshiruko dành cho tao và mọi người!
+247|Tao không bao giờ tha thứ!
+248|Chúc cậu may mắn, Ngài Mũ Rơm!
+249|Này, mất tín hiệu rồi!
+250|Nghe nói ốc sên chủ biến mất rồi!
+251|Cái gì?!
+252|Tiếng ầm ầm gì thế?!
+253|– B-Big Mom?! – B-Big Mom?!
+254|Đứng lại!
+255|Lò nung của xưởng sắt nhà tù đã nổ tung!
+256|Tôi biết làm sao đây? Dù gì Big Mom cũng là Tứ Hoàng!
+257|Ngay cả Queen-sama cũng không địch nổi bà ta. Chúng ta còn hy vọng gì...?!
+258|Q-Queen-sama!
+259|Wano là lãnh thổ của Lord Kaido.
+260|Không thể để bà già đó muốn làm gì thì làm!
+261|Đứng lại!
+262|Tôi có ý này.
+263|Chúng ta chỉ có một cơ hội. Nghe cho kỹ!
+264|Mày là của tao, thằng nhóc!
+265|Các ngươi thấy đấy, Big Mom giống như con lợn rừng!
+266|Bà ta sẽ lao đi quanh Udon rồi vòng về đây.
+267|Nên chúng ta sẽ giăng bẫy!
+268|Đồ chết tiệt!
+269|Nhận lấy này!
+270|Queen-sama, mọi thứ đã sẵn sàng!
+271|Bà ta đến rồi, Queen-sama!
+272|Chết tiệt! Bà ta dai thật!
+273|Đứng lại!
+274|Oshiruko!
+275|Oshiruko!
+276|Được rồi, thành công!
+277|Hoan hô!
+278|Trống rỗng!
+279|Lại ăn hết rồi à?!
+280|Đồ khốn!
+281|Không, lần này không phải tôi!
+282|Brachio...
+283|Bomber!
+284|Thành công! Ngài đã hạ được bà ta!
+285|Vạn tuế Queen-sama!
+286|Queen-sama đúng là phong độ!
+287|Ngài là vị cứu tinh của Wano!
+288|Mama...!
+289|Mama...
+290|Mama!
+291|Các con đáng yêu của ta...
+292|Hả? Đau đầu quá.
+293|Ta đang làm gì thế nhỉ?
+294|Phải rồi!
+295|Ta đã đến tận Wano để giết Mũ Rơm...
+296|thì thằng khốn King đá ta xuống biển.
+297|Ta dạt vào bờ...
+298|đến một thị trấn nhỏ bẩn thỉu...
+299|và ăn oshiruko.
+300|Đừng đùa với Siêu Sao!
+301|Chết tiệt, bà làm tôi khổ sở đủ rồi.
+302|Đừng có đùa với tao nữa, bà già!
+303|Oshiruko.
+304|Ôi không... Tệ rồi! Tệ thật rồi!
+305|Sao thế, Chopperemon?
+306|N-Này... Đừng đùa chứ...
+307|Đòn của tôi hoàn toàn vô hiệu sao?
+308|Ồ?
+309|Ngươi là thuộc hạ của Kaido... Queen, đúng không?
+310|Tiêu đời rồi!
+311|Không, không, không, không, không, không, không, không, không...!
+312|Con quái vật này chẳng giống lúc trước chút nào!
+313|Dù sao, ta nghe nói...
+314|ngươi có oshiruko, đúng không?
+315|Đưa đây.
+316|Oshiruko... Oshiruko...
+317|Bà ta bị sao vậy?
+318|Đưa oshiruko cho ta!
+319|T-Tôi chết chắc rồi.
+320|Các người!
+321|Mang còng và xích Hải Lâu Thạch nguyên chất 100% đến đây cho ta!
+322|Mau lên!
+323|– Rõ! – Rõ!
+324|Quấn quanh bà ta 100 vòng!
+325|– Rõ! – Rõ!
+326|Xong rồi, thưa ngài!
+327|Được!
+328|Chưa đủ! Cần thêm nữa! Ta vẫn chưa thấy an toàn!
+329|Phải làm thêm nữa!
+330|Tiêm cho bà ta 100 liều thuốc mê thú hoang!
+331|– Rõ! – Rõ!
+332|Được rồi! Tàu sẵn sàng khởi hành chưa?!
+333|Rõ! Đã sẵn sàng!
+334|Vậy hãy để lại số người tối thiểu ở đây
+335|trong khi số còn lại lên tàu!
+336|Babanuki, ta giao toàn bộ Udon cho ngươi trông coi!
+337|V-Vâng!
+338|Bà già đó đã phá gần hết các cánh cửa ở Udon!
+339|Nên khi ta đi rồi, hãy phong tỏa Udon bằng cổng khẩn cấp!
+340|Tống tù nhân vào phòng giam và kiểm soát nơi này!
+341|Cứ giao cho tôi! Tuy nhiên, có một người–
+342|Đi thôi!
+343|Chúng ta đang chạy đua với thời gian!
+344|Phải đưa bà già này đến chỗ Lord Kaido!
+345|Nhanh lên!
+346|Nhổ neo!
+347|Hết tốc lực! Tiến đến Onigashima!
+348|Momo, cổng đang đóng!
+349|Chúng ta không làm gì được. Đã hứa là đợi ở đây.
+350|Ta phải tin tưởng những người khác và kiên nhẫn chờ đợi.
+351|Đi thôi!
+352|Tất cả các cổng đã đóng chưa?!
+353|Rõ!
+354|Đã mở lại liên lạc chưa?!
+355|Chưa, vẫn chưa!
+356|Udon vẫn hoàn toàn bị cô lập!
+357|Chúng ta không có cách nào liên lạc với bất cứ đâu ngoài Udon!
+358|Cái quái gì vậy?!
+359|Vậy thì tôi được tự do làm loạn rồi.
+360|Dù vậy, không có Big Mom hay cái bong bóng đó thì dễ như ăn kẹo.
+361|Chắc đến lúc tiếp tục luyện tập rồi.
+362|Đúng vậy. Thằng nhãi này vẫn còn tự do.
+363|À, nhưng mà...
+364|Tôi luôn tự do mà!
+365|Tù nhân phải biết đừng có được đà lấn tới.
+366|Tôi rất tiếc phải báo cho các người,
+367|nhưng tôi sẽ chiếm Udon!
+368|Tháp Cán bộ, Trại Khai thác Tù nhân
+369|Ốc sên truyền tin (viết tắt "Smail")
+370|Ốc sên chủ
+371|Xưởng sắt Nhà tù, Udon
+372|Oshiruko

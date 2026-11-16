@@ -1,0 +1,534 @@
+1|Twenty-eight years ago on the second year of Oden's voyage...
+2|The baby is finally here!
+3|Tamago!
+4|Konbu!
+5|Chikuwa!
+6|Tsukune!
+7|Hey, knock it off! He's a baby, not a pot of oden!
+8|This is our first child!
+9|The name I give you means peerless...
+10|You shall be called Kozuki Momonosuke!
+11|Lord Oden, they have issued wanted posters for you.
+12|I am afraid you are now a fully-fledged outlaw overseas.
+13|For Lady Toki and Lord Momonosuke's safety,
+14|perhaps you should consider returning to Wano.
+15|Not yet, Izo! I have yet to find my answer!
+16|We will be fine. Do not worry!
+17|This thing may be called a newspaper,
+18|but there's no news about Wano in it!
+19|Well, just like Zou, they have no method of sending info outside the country.
+20|I wonder meow Kin and the others are doing?
+21|What?!
+22|You are appointing commanders?!
+23|Our crew keeps on growing.
+24|How do you feel about splitting into five or so divisions?
+25|That's a great idea, Pops!
+26|I wanna be a commander!
+27|Me, too!
+28|Oden!
+29|You will lead the second division!
+30|Well... Um... Uh... Um...
+31|Just do it!
+32|Newcomers would join the crew from time to time, much like we had...
+33|Listen!
+34|This ain't no fishing boat! We're pirates!
+35|P-Please!
+36|I've got nowhere else to go!
+37|Hey, knock it off!
+38|What's your name?
+39|Teach!
+40|Very well.
+41|Come aboard!
+42|Thank you so much!
+43|Another orphan it would seem...
+44|Did you see that?
+45|Something just flew past us!
+46|No matter how far I sail, my curiosity is never satiated!
+47|Commander!
+48|We need to scout the area first!
+49|I do not know how to end such an adventure!
+50|Meanwhile, in Wano...
+51|Extra, extra!
+52|Read all about it!
+53|The shogun, Lord Sukiyaki, is in critical condition!
+54|Lord Sukiyaki!
+55|Within Wano's borders...
+56|a grave matter brought the daimyo of each region to the Flower Capital.
+57|I wish for Oden...
+58|to succeed me as shogun.
+59|Of course, Lord Sukiyaki!
+60|But seeing as Oden is abroad at the moment,
+61|it appears I must appoint a proxy in his absence...
+62|in the event anything should befall me.
+63|I have chosen the man Oden cared for as though he were his younger brother...
+64|Kurozumi Orochi!
+65|Orochi?
+66|What are you doing here?
+67|Oden cared for him as though he were his younger brother?
+68|Is that true?
+69|Thank you for allowing me to atone for the sins of the Kurozumi Clan.
+70|I am unworthy to even look Lord Sukiyaki and Lord Oden in the eye!
+71|To compensate for the follies of my grandfather,
+72|I will assist Lord Oden's enthronement to the best of my ability!
+73|I shall be your willing puppet until Lord Oden returns,
+74|so I must ask for everyone's support!
+75|So you're a Kurozumi...
+76|Why didn't you tell me?
+77|Oh, my apologies!
+78|My apologies...!
+79|I can see it!
+80|I can see the future!
+81|You'll...
+82|become shogun!
+83|You scared me, old hag!
+84|Who the hell are you?!
+85|Are you unaware of what happened to your grandfather?
+86|I don't know all the details, but I heard he committed seppuku.
+87|Wrong! It was the Kozuki Clan that killed him!
+88|What?!
+89|But I heard he committed some kind of crime!
+90|Engaging in a power struggle isn't a crime!
+91|It was... a power struggle?
+92|If you take the reins, you can make the laws!
+93|You decide what's a crime and what isn't!
+94|The previous shogun from the Kozuki Clan... was unable to sire any children!
+95|He had no heirs!
+96|Naturally, the five clans serving under the Kozuki Clan began to wonder...
+97|who was going to be the next shogun?
+98|While the others pompously assumed they would be selected,
+99|your grandfather had already begun making preparations!
+100|He devised a plan to poison those irksome daimyo one by one!
+101|He got rid of them one after another, making them all look like inside jobs!
+102|The series of daimyo deaths was too much for the shogun,
+103|and he eventually took ill.
+104|His plan had been flawless!
+105|But just as he was within reach of seizing power...
+106|that brat was born...!
+107|The heir, Kozuki Sukiyaki!
+108|– Yes! – Yes!
+109|Congratulations!
+110|A curse on you, Sukiyaki!
+111|He was only one step away from power,
+112|and to make matters worse, his plan was exposed!
+113|Your grandfather committed seppuku, and the clan was removed from power!
+114|Their territory, castle, and power were all taken away.
+115|People grew to despise the Kurozumi name,
+116|and the members of the clan ended up on the streets!
+117|Whose fault could that be?!
+118|Who was it that made your life so miserable?!
+119|Who's responsible for your poverty?!
+120|Upon whom does the blame fall?!
+121|It's because he was birthed!
+122|Kozuki Sukiyaki!
+123|That's right!
+124|If he had never been born, you would have one day become shogun!
+125|My lord, Shogun!
+126|I love you!
+127|My lord, Shogun!
+128|I love you!
+129|My lord, Shogun!
+130|My lord, Shogun!
+131|My lord, Shogun!
+132|What beauties!
+133|I'd have...
+134|become shogun?!
+135|That's right!
+136|Oh, how aggravating! How galling!
+137|Don't tell me you're my...
+138|That is to say, a fellow Kurozumi?
+139|It doesn't matter who I am!
+140|I was out of the country all this time.
+141|It was quite the ordeal...
+142|But watch my face.
+143|What?!
+144|What?!
+145|Is that my face?!
+146|It's the power of the Clone-Clone Fruit.
+147|Should you follow my instructions, I'm willing to bestow upon you a power of your own.
+148|You'll need this power if you're to become shogun!
+149|I'll...! I'll do anything!
+150|Then begin hoarding money and manufacturing weapons.
+151|Wano's craftsmen are incredibly skilled!
+152|With them as bait, I'm sure you can lure in some big-time backers!
+153|I understand!
+154|My name is Orochi.
+155|My whole family has fallen ill,
+156|so I must find a way to feed all of them...
+157|That is most unfortunate.
+158|Work for me.
+159|Lord Yasuie!
+160|What? Orochi has disappeared?
+161|Yes, sir.
+162|And while it is likely just a coincidence,
+163|the money in the safe is gone, too.
+164|What?
+165|The money is gone, too?
+166|You are that fellow from Yasu's place...
+167|My name is Orochi!
+168|I owe Lord Yasuie so much,
+169|so I can't borrow money from him!
+170|I understand. You can count on me!
+171|You have my gratitude!
+172|Lord Oden?!
+173|Lend me money!
+174|Again?!
+175|Lend me money!
+176|Again?!
+177|Please lend me money!
+178|I can pay you back for sure this time!
+179|I'm begging you!
+180|Lord Oden...!
+181|We are not doing well financially, either!
+182|He says he will pay it back!
+183|Oden, why the sudden visit?
+184|And without your retainers.
+185|Could you let this man stay here?
+186|He is a hard worker and can even prepare medicine.
+187|He is like a younger brother to me.
+188|My name is Orochi.
+189|Everyone, please look after Orochi!
+190|Very well, my lord!
+191|Shogun Sukiyaki!
+192|I've finally made it this far!
+193|Lord Sukiyaki! Stay with us!
+194|Lord Sukiyaki!
+195|Lord Sukiyaki!
+196|Should anything befall me...
+197|I'm counting on you, Orochi!
+198|Of course, my lord!
+199|You, too, men.
+200|Lend Orochi your support.
+201|– My lord. – My lord.
+202|Lord Sukiyaki!
+203|I-I'll go fetch a doctor!
+204|We'll be right back!
+205|Help! Is somebody there?!
+206|We need a doctor!
+207|Lord Sukiyaki!
+208|Are you all right, Lord Sukiyaki?!
+209|Take care of everything, Orochi!
+210|Stay strong, Lord Sukiyaki!
+211|You're gonna become shogun!
+212|Not long afterward,
+213|the news of Shogun Sukiyaki's death spread throughout Wano.
+214|One day, in the fourth year of Oden's voyage...
+215|What?!
+216|What's going on?!
+217|The fish are going crazy!
+218|Is some kinda natural disaster coming?!
+219|They are swimming away from that island, Whitekichi!
+220|Yeah...
+221|Maybe some kind of monster lives there.
+222|Marco, go take a look!
+223|No way! I don't wanna spoil the fun!
+224|Do not fret, Hiyori!
+225|It is nothing, Momonosuke!
+226|Should we check it out, Pops?
+227|Why not?
+228|Let's go ashore!
+229|– Yeah! – Yeah!
+230|What? This is unreal!
+231|Are those savage animals running away?
+232|The must be something on the island...
+233|If you really wanna catch me,
+234|at least bring Garp or Sengoku.
+235|It's no fun fighting you lackeys!
+236|Captain!
+237|Whitebeard's ship just docked on the opposite beach!
+238|Seems they've noticed us!
+239|We just wrapped up a fight, Roger.
+240|Whitebeard, huh?
+241|It's been a while.
+242|The birds seem distressed...
+243|They must've come ashore.
+244|Alright!
+245|Let's have at it!
+246|You can't fight once you're dead.
+247|And my time is almost up.
+248|This could be the last time we ever meet, Whitebeard.
+249|Who's that?!
+250|He runs so fast!
+251|Is he a samurai?!
+252|A samurai?!
+253|The one I've heard about?!
+254|Quit lagging behind!
+255|Commander Oden! Wait!
+256|Shall I plunder their treasure?!
+257|This is a totally different situation!
+258|Don't mess with the Roger Pirates!
+259|He's not listening at all!
+260|Gun Modoki!
+261|He's as strong as they say.
+262|Should we stop him already, Rayleigh?
+263|Sounds like a plan!
+264|Wait, Gaban! Rayleigh!
+265|I can't have you two getting hurt!
+266|You just wanna fight him.
+267|I smell a beast!
+268|Hey, samurai!
+269|Divine Departure!
+270|What the hell was that?!
+271|Damn! I cannot let that one slide!
+272|There you are!
+273|They are not even touching!
+274|The ship!
+275|You look well...
+276|Roger!
+277|How long has it been...
+278|Newgate?!
+279|– Drop your treasure and beat it! – Drop your treasure and beat it!
+280|Give 'em hell!
+281|Rob 'em blind!
+282|The two great pirates of the age clashed!
+283|The Roger Pirates versus the Whitebeard Pirates.
+284|This fierce battle lasted three days and three nights.
+285|Don't underestimate me!
+286|I never underestimate my opponents,
+287|young man.
+288|Then, three boxes of dried meat for a barrel?!
+289|Deal!
+290|I like this shirt! Where did you get it?!
+291|Let me have more!
+292|Wait! You took too much!
+293|It's all gotta even out!
+294|My bad.
+295|Maybe you can sweeten the deal?
+296|Yeah!
+297|From plundering to exchanging presents...
+298|Are they apprentices?
+299|Huh? Yeah.
+300|Now that you mention it, they've been here the whole time.
+301|They don't look too tough...
+302|But they behave...
+303|like veterans.
+304|Hey!
+305|Shanks!
+306|What?
+307|You see the guy with the hat over there?
+308|Yeah.
+309|I heard he didn't sleep a wink during the nightly ceasefires!
+310|Why not?
+311|Is he showing off?
+312|Not even close!
+313|They say, since the day he was born, he's never slept! Not even once!
+314|Huh? Can such a person exist?
+315|Lucky guy.
+316|I wonder if his life is twice as fun!
+317|Idiot!
+318|It's not that simple!
+319|He must be a monster!
+320|A monster...?
+321|Hey, Oden!
+322|Can you really read it?!
+323|Indeed, I can.
+324|But why in the world do you possess such writing?!
+325|Wano's Kozuki Clan has passed down knowledge of this script to only one son per generation.
+326|It's already been thirteen years...
+327|We finally made it to Lodestar Island, the last island that the log pose points to,
+328|which no man has ever set foot upon.
+329|But our celebration was cut short, as we realized...
+330|that it wasn't the final island!
+331|The needles on the log pose just kept spinning and wouldn't lock on to anything!
+332|I was convinced.
+333|There had to be one more island!
+334|When I make it there, I'll be the first person ever to travel all around the world!
+335|And the location of said island is hidden in the script of these four red stones!
+336|But the World Government has always forbidden anyone from deciphering them.
+337|They're called poneglyphs.
+338|I thought they were just cultural artifacts,
+339|but they're actually the vital map that'll point us to the final island's location.
+340|The government is telling us not to go to the final island,
+341|which is said to contain treasure untold!
+342|That makes it all the more tantalizing!
+343|If we can reach it, we will be, in both name and in deed...
+344|the world's greatest pirate crew!
+345|The world's greatest?
+346|That's right!
+347|And then, I'll...!
+348|I could not move.
+349|For the second time that day, I was left speechless.
+350|Who exactly is this man?!
+351|What are you talking about, Roger?!
+352|That's a child's fantasy!
+353|I'm serious, Newgate!
+354|Please!
+355|I only need him for a year.
+356|Let me borrow Oden!
+357|This is my last request!
+358|With him, I'm sure I can get to the final island!
+359|Hey, maybe you should ask me first!
+360|Please, Newgate!
+361|I'm begging you!
+362|Hey, stop, Captain Roger! He's our enemy!
+363|Stop! That is beneath you!
+364|Do not bow your head!
+365|Please, Oden!
+366|Accompany us on our journey for just a year!
+367|Screw you!
+368|Roger! Are you trying to take my family away from me?!
+369|But I could not help feeling excited!
+370|Why can the Kozuki Clan read the script?
+371|Why have our paths crossed?
+372|Before I knew it, the words burst forth from my mouth!
+373|Whitekichi!
+374|I want to go with him!
+375|Please allow me to go!
+376|I wish to see this final island he speaks of with my own eyes!
+377|You look annoyed!
+378|Of course I do!
+379|You're like a brother to me!
+380|It will only be a year, Whitekichi!
+381|Please!
+382|Take care of yourself!
+383|I will!
+384|We have decided to remain behind.
+385|We are fond of this ship.
+386|We await your return here.
+387|Sure thing.
+388|Men, you are fully-fledged pirates now!
+389|Let us all do as we please!
+390|Pops! Aren't you gonna send him off?
+391|Roger left us quite the thank-you gift.
+392|Tons of treasure!
+393|And look at all the grub!
+394|What?!
+395|You morons!
+396|Give the food back to them!
+397|I won't forgive them if they let Kozuki Oden's family go hungry!
+398|Hurry up!
+399|Yes!
+400|Right away!
+401|Lord Oden!
+402|I will see you again, everyone!
+403|Give it your all!
+404|Can't wait to hear the story of your journey!
+405|Take care of yourselves!
+406|The second chapter of my life as a pirate was starting.
+407|A new adventure was on the horizon!
+408|While Whitekichi is a great man, Roger has an incalculable depth to him.
+409|Fortune has truly smiled upon me!
+410|Oh, good girl, good girl.
+411|Up, up!
+412|It's been so long since we last held a baby!
+413|Yeah.
+414|It brings back memories.
+415|Momonosuke and Hiyori...
+416|Okay?
+417|Here we go! Boo!
+418|Captain Roger!
+419|We have stowaways!
+420|– Lord Oden! – Lord Oden!
+421|Inuarashi!
+422|Nekomamushi!
+423|What are you doing here?!
+424|We enjoy your company meow than anyone's!
+425|The dog and the cat have vanished!
+426|Those morons...!
+427|Oden! You're only here because the captain needs your expertise.
+428|Understood?
+429|Next, radishes!
+430|Thief!
+431|Captain's gonna kill him.
+432|Oden! Leave the civilians alone!
+433|I still need many more ingredients!
+434|Ingredients for what?!
+435|You've got some nerve!
+436|Huh?! Is this town actually lawless?!
+437|Gaban, they're...
+438|Yeah.
+439|Guess they're not civilians after all.
+440|Oden!
+441|He took it full-on!
+442|Oden!
+443|Oden! You...
+444|He's alive!
+445|Wow!
+446|Gaban, they're not civilians, right?
+447|No, they're not...
+448|Oden.
+449|Okay.
+450|I still need some kelp!
+451|Kelp?!
+452|It makes for a fine broth.
+453|You're so strange!
+454|Ah, screw it!
+455|Get 'em!
+456|– Oden! – Oden!
+457|– Oden! – Oden!
+458|– Oden! – Oden!
+459|– Oden! – Oden!
+460|♪ Oh, radish, ganmo! ♪
+461|♪ Chikuwa and eggs! ♪
+462|♪ One, two, three, go ahead and eat! ♪
+463|♪ Oden was meant... ♪
+464|♪ to boil! ♪
+465|Huh? Captain, did you catch a cold?
+466|Yeah, but it's nothing.
+467|It is something, you fool!
+468|He's only got a year to live at most!
+469|What?!
+470|I'm living life at top speed.
+471|It's coming... The Knock-Up Stream!
+472|I'm gonna die!
+473|An island!
+474|So that's...
+475|The sky island!
+476|Welcome, Blue Sea denizens. You've traveled quite a ways.
+477|– Heso! – Heso!
+478|The world is so vast! There is no end to its wonders!
+479|Buddha himself could not have imagined that people were living in the sky!
+480|It takes at least ten years to handle a waver.
+481|Run!
+482|So this is the City of Gold, Shandora!
+483|– Wow! – Wow!
+484|I found it!
+485|It was all the way up here?!
+486|That must be the grand bell of Shandora!
+487|It's pure gold!
+488|Captain, how will we bring it back with us?
+489|I don't have time.
+490|Once you become a captain, come get it yourself, Buggy.
+491|What?!
+492|We can at least grab a piece now!
+493|With such a strong voice, this stone was easy to locate.
+494|It's talking about a great power, right?
+495|The text speaks of a weapon by the name of Poseidon.
+496|I see...
+497|Oden, you can also write the script, right?!
+498|Yes, of course.
+499|Then carve this message!
+500|Roger is near the end of his life...
+501|It is difficult the fathom, but if he is living with such urgency,
+502|I will follow him to the end!
+503|How is it?
+504|It's perfect, Oden!
+505|"I made it here.
+506|I will guide this text to the ends of the world.
+507|Pirate Gol D. Roger."
+508|I must see it, Roger.
+509|The final chapter of the great adventure to which you have devoted your life!
+510|Men! Let's go back to the Blue Sea!
+511|– Yeah! – Yeah!
+512|28 Years Ago Second Year of Oden's Voyage
+513|28 Years Ago Second Year of Oden's Voyage
+514|28 Years Ago Second Year of Oden's Voyage
+515|Shimotsuki Clan
+516|Kurozumi Clan
+517|Uzuki Clan
+518|Amatsuki Clan
+519|Fugetsu Clan
+520|Hakumai
+521|A Month Later
+522|Kuri
+523|Flower Capital
+524|Kozuki Sukiyaki (Oden's Father) Shogun of Wano
+525|Back to Where We Started
+526|Second Day
+527|Second Day
+528|Third Day
+529|Third Day
+530|Fourth Day...
+531|Fourth Day...
+532|Lodestar Island
+533|Mock Town, Jaya
+534|Mock Town, Jaya

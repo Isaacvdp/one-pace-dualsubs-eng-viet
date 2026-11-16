@@ -1,0 +1,299 @@
+1|Được rồi! Đi thôi, các cậu!
+2|Sao thế, Bepo?
+3|Bepo, cậu đừng nói là...
+4|Room!
+5|Scan!
+6|Biết ngay mà.
+7|Xin lỗi.... Tôi không nhịn được, và...
+8|T-Tôi sắp chết sao, Thuyền trưởng?
+9|Không đời nào! Cậu chỉ bị tiêu chảy thôi.
+10|Tôi đã bảo đừng ăn cá sông rồi mà?
+11|Trời, thời điểm tệ hết chỗ nói!
+12|X-Xin lỗi...
+13|Đừng có làm bộ dễ thương!
+14|Trời! Sao ai cũng gây rắc rối vậy?
+15|Hy vọng họ đang yên ổn ở yên...
+16|Đồ ngốc...
+17|Là phiến quân!
+18|Sếp! Có một nhóm phiến quân hạ đẳng ở đây!
+19|Tên giết quan tòa Zorojuro cũng đi cùng chúng!
+20|Đừng lo.
+21|Ta đang đến.
+22|Một trong chúng đeo mũ rơm trên cổ, đúng không?
+23|V-Vâng, thưa sếp!
+24|Đừng giao chiến.
+25|Các ngươi không phải đối thủ của chúng!
+26|Sao ngươi dám làm vậy với yokozuna?!
+27|Ngươi chỉ là một thằng vô danh chết tiệt!
+28|Bọn tao sẽ dạy cho mày một bài học!
+29|Tama là con nhóc mà sếp Holdem đang giam giữ sao?!
+30|Muốn đón nó về à?! Xông vào đi!
+31|Trước là sumo giờ lại đấu kiếm?!
+32|Bắt chúng!
+33|Trả Tama lại cho bọn tôi!
+34|Hắn lại ném nữa...
+35|Tama!
+36|Tôi phải làm sao đây?!
+37|Cô có thể thôi giả vờ rồi.
+38|Tôi sẽ không giúp cậu đâu!
+39|Vậy tôi cũng phải... c-chém chúng sao?
+40|Chém đi!
+41|Đó là cách cứu đứa bé!
+42|Otama...
+43|Tôi muốn cứu con bé!
+44|Trả Tama lại cho bọn tôi!
+45|Nếu không sớm đưa con bé ra đây...
+46|bọn tao giết hết chúng mày!
+47|Tránh đường!
+48|Có náo loạn ở thị trấn bên kia...
+49|Con đói!
+50|Thôi đi! Con đang cư xử thiếu danh dự đấy!
+51|Con trai Wano không được mè nheo!
+52|Con đói!
+53|Đừng khóc, đừng khóc.
+54|Cô Otsuru!
+55|Cô Otsuru, cô còn Cỏ Ngũ Chỉ không?
+56|Sao?
+57|Con tôi đói nên lỡ uống nước sông!
+58|Ôi trời!
+59|Vào trong đi! Mau lên!
+60|Đến giờ thu rồi!
+61|Đặt thu hoạch của các ngươi lên bệ!
+62|T-Thưa ngài...
+63|Ồ, tiền công của ngươi à?
+64|N-Năm đồng bạc...?!
+65|Xong việc thì lủi ra cửa sau, về Okobore đi!
+66|Làm ơn! Chừng này không đủ nuôi nhà tôi một tuần!
+67|Chúng tôi còn không mua nổi nước!
+68|Im đi! Đừng có than phiền!
+69|Tên ông trùm của các ngươi là gì?!
+70|Bol... de... H-Holde...
+71|Hol... de... m...
+72|"Ball-de-boo"?
+73|Gọi lính cứu hỏa đi!
+74|Cháy! Có đám cháy!
+75|Ra đây... Ball-de-boo!
+76|Tao sẽ không tha nếu mày làm Tama bị thương!
+77|Đừng bắt bọn tao đợi!
+78|Ball-de-boo! Trả Tama lại cho bọn tao!
+79|Ball-de-boo!
+80|Ta ở ngay đây, nhóc!
+81|Vậy ông là ông trùm thị trấn này...
+82|Ball-de-boo! Đúng không?!
+83|Tên ta là Holdem!
+84|Sếp Holdem!
+85|Đá đít hắn đi!
+86|Mãi mới tới!
+87|Tao đâu có lựa chọn!
+88|Chúng mày đô vật sumo san bằng nhà tao rồi!
+89|Urashima đâm vào, giờ tòa nhà thành đống đổ nát!
+90|Chúng mày là lũ vô danh nào?!
+91|Anh lớn!
+92|Tama!
+93|Otama!
+94|Dám đứng lên chống lại bọn ta...
+95|chắc các ngươi là thuộc hạ của tên trộm Shutenmaru!
+96|Không nên động vào thị trấn Bakura!
+97|Shutenmaru? Ông nói gì vậy?
+98|Shutenmaru...
+99|Lũ ranh con...!
+100|Có vẻ chúng mày muốn đón con nhóc này về...
+101|Nhưng đừng có dám nhúc nhích!
+102|Nó có thể nhai nát con bé bất cứ lúc nào!
+103|Anh lớn...!
+104|Tama...
+105|Bụng ông ta là sư tử sao?
+106|Sếp Holdem đang nói chuyện với tên mũ rơm kia!
+107|Chúng sắp choảng nhau rồi!
+108|Sếp! Sếp có lệnh gì không?!
+109|Ta sẽ đến ngay!
+110|Tôi đang ở trước thị trấn Bakura!
+111|Đại ca... Hawkins ở lối vào!
+112|Và trong thị trấn có cháy.
+113|Nguyên nhân vụ cháy là...
+114|Đại ca, đừng bỏ rơi em...
+115|Đừng nói là hắn.
+116|Ừ... Tôi thấy Mũ Rơm...
+117|Hả?!
+118|Anh lớn!
+119|Anh cứu em ngay đây, Tama!
+120|Tao không định trả nó lại đâu!
+121|Đồ ngu chết tiệt!
+122|Lũ ngốc...!
+123|Mở cổng!
+124|Mở cổng!
+125|Như thường lệ, chuyến hàng hôm nay đầy ắp đồ ăn ngon!
+126|Đúng vậy, phu nhân Speed. Sao người không kiểm tra kỹ?
+127|Đồ ăn ở phía sau người!
+128|Ta thấy rồi!
+129|Gì?
+130|Để ta nói cho ngươi biết...
+131|tầm nhìn của ta...
+132|bao quát 350 độ!
+133|Người giống như con ngựa vậy!
+134|Ngươi nghĩ vậy sao?
+135|Nụ cười của người cũng giống ngựa nữa!
+136|Chuông báo cháy?
+137|Cháy! Cháy!
+138|Tránh đường!
+139|Di chuyển! Di chuyển!
+140|Chúng tôi là lính cứu hỏa hàng đầu của đội một, xin nhận đám cháy này!
+141|Nơi này...
+142|Dập lửa đi!
+143|Đây là nhà của Holdem...
+144|Cái gì đã phá nát nó như thế này?!
+145|Ở sau lưng người, phu nhân Speed!
+146|Ta thấy rồi.
+147|Dù sao tầm nhìn của ta cũng như ngựa mà.
+148|Ta tưởng hôm nay có sự kiện sumo...
+149|Chuyện gì đang xảy ra vậy?
+150|Anh lớn!
+151|Tama! Anh cứu em ngay đây!
+152|Cứu con bé?!
+153|Mày định cứu nó thế nào?! Hử?!
+154|Đừng nhúc nhích!
+155|Nếu chúng mày chống cự, Kamijiro, con sư tử trong bụng ta...
+156|sẽ nhai nát thân thể con nhóc này.
+157|Otama! Bọn tôi sẽ cứu em!
+158|Tao sẽ đá đít mày nếu mày không thả Tama ra, Ball-de-boo!
+159|Đã bảo tên ta là Holdem! Nhớ cho đúng đi!
+160|Anh lớn!
+161|Okiku!
+162|Komachiyo!
+163|Cứ la hét thoải mái đi, đồ ngốc!
+164|Tao sẽ không trả nó cho chúng mày!
+165|Sao chúng mày muốn đón con nhóc ngu này về thế?!
+166|Chắc chúng mày biết năng lực của nó!
+167|Giờ ta có thể bắt chúng mày làm con tin...
+168|và bắt luôn cả Shutenmaru!
+169|Ai vậy?
+170|Shutenmaru...
+171|Đừng giả ngu!
+172|Hắn là thủ lĩnh băng trộm của chúng mày!
+173|Những vụ cướp gần đây ở nông trại...
+174|là do Băng trộm núi Atama làm, đúng không?!
+175|Có thể chỉ là may mắn, nhưng chúng mày đã hạ Urashima!
+176|Nên ta cá chúng mày là phó tướng của hắn!
+177|Ông nói gì vậy?
+178|Luffytaro...
+179|xin đừng chọc giận ông ta.
+180|Ông ta đã khá giận rồi!
+181|Vì thế đừng khiêu khích ông ta nữa!
+182|Ông ta có thể mạnh, nhưng...
+183|Holdem không phải lý do thật sự khiến dân thị trấn khiếp sợ.
+184|Họ sợ kẻ đứng sau ông ta.
+185|Băng Bách Thú...
+186|Một trong những thủ hạ đắc lực của Kaido...
+187|Jack Hạn Hán...
+188|ông trùm thật sự của Kuri!
+189|Chẳng phải hắn là kẻ đã phá hủy Zou sao?
+190|Gì? À, tên đó!
+191|Hắn dùng độc với con mèo và con chó đó...
+192|Cuối cùng con voi đã đánh bay hắn, đúng không?
+193|Jack chìm cùng con tàu!
+194|Hắn không chết sao?
+195|Mèo? Chó? Voi?
+196|Ngươi đang nói về động vật à?
+197|Vậy ngươi biết chuyện Jack gặp nạn trên biển!
+198|Hắn chắc chắn chưa chết!
+199|Hắn xuất hiện ở thị trấn Bakura vài ngày trước.
+200|Hả?!
+201|Nếu các người thật sự chọc giận Holdem bây giờ...
+202|Jack, một trong Tam Tai, sẽ đến báo thù.
+203|Nếu vậy, thị trấn này sẽ thành đống đổ nát.
+204|Chúng ta không thể để chuyện đó xảy ra!
+205|Chơi bẩn quá!
+206|Như thể chúng bắt cả thị trấn làm con tin vậy!
+207|Này!
+208|Này, này, này, này, này, này, này!
+209|Chúng mày đang nói gì ở dưới đó?!
+210|Có chuyện gì vậy?
+211|Sao chúng mày không thử đoạt lại con nhóc này đi?!
+212|Nhưng nếu chúng mày nhúc nhích dù chỉ một sợi tóc...
+213|thì sẽ ra thế này!
+214|Đau quá!
+215|Dừng lại! Đồ khốn!
+216|A, tiếng kêu đau đớn ngọt ngào của lũ hạ đẳng!
+217|Đừng quên chính mày đã quăng yokozuna đó...
+218|và phá nhà tao!
+219|Có chuyện gì vậy, Holdem?!
+220|Là thuyền lương thực quý giá của phu nhân Speed! Đồ ăn hôm nay đến rồi!
+221|Nhiều đồ ăn quá!
+222|Số đồ ăn đó là từ Nông trại Halcyon...
+223|Nó được trồng bằng nước sạch, nên không có độc tố.
+224|Sao họ được giữ hết chứ?!
+225|Zoro! Cậu xử lý chỗ đó được không?!
+226|Được...
+227|Gì?
+228|Tôi sẽ cứu Tama!
+229|Gì? Gì?!
+230|Kiku! Xin lỗi, nhưng bọn tôi quyết định cướp nó rồi chạy.
+231|Gì? Khi nào?
+232|Chắc chắn sẽ làm ông ta tức, nhưng cũng không tệ bằng đá đít ông ta, đúng không?
+233|Ngài Hawkins!
+234|Chúng vượt quá tầm của chúng tôi!
+235|Holdem đâu?
+236|Ông ấy đang rối tung ở quảng trường khu thứ tư!
+237|Holdem không bắt máy.
+238|Đứng lại, Basil Hawkins!
+239|Ngươi là ai?
+240|Hắn mạnh đấy...
+241|Wano có thể bị cô lập khỏi tin tức bên ngoài...
+242|nhưng hắn nhận ra được chúng ta...
+243|Tốt nhất ta nên cho hắn biến mất!
+244|Và bây giờ...
+245|trò vui thật sự bắt đầu!
+246|Ta không quan tâm nếu chúng mày lỡ giết một hai đứa!
+247|Mau lên, bắt chúng đi!
+248|Này, đàn bà!
+249|Cô nhớ con nhóc này là con tin của bọn ta chứ?!
+250|Luffytaro... Zorojuro...
+251|Tại sao...?
+252|Nhìn xem các người đã làm gì!
+253|À, giờ ta hiểu rồi! Chúng mày không cần con nhóc đó nữa, đúng không?!
+254|Vậy thì ta sẽ cho nó bị nhai nát như chúng mày muốn!
+255|Làm đi, Kamijiro!
+256|Hả?!
+257|Con nhóc biến mất rồi!
+258|Hả?! Hắn bắt nó từ lúc nào?!
+259|Kamijiro! Mày đang làm cái quái gì vậy?!
+260|Đi khỏi đây thôi, Tama!
+261|Anh lớn...!
+262|Xin lỗi đã để em đợi!
+263|Komachiyo!
+264|Kamijiro!
+265|Ta sẽ chém ngươi nát bét bằng thanh kiếm lửa của ta!
+266|Chưa ai thoát được chiêu kiếm quỷ này!
+267|Hellfire Edge!
+268|Bắt được rồi! Nào! Mày cũng sẽ làm con tin của bọn tao!
+269|Mày không quan tâm bạn mày chết sao?!
+270|Bỏ kiếm xuống ngay!
+271|Phải, thế đấy!
+272|Zorojuro...
+273|Mày đứng yên đó! Tao sẽ đánh chết mày!
+274|Này...
+275|Tôi vẫn sẽ không giúp cậu.
+276|Cậu không quan tâm đến cô bé sao?!
+277|Tao sẽ không để mày thoát!
+278|Xin thất lễ.
+279|Tôi phải làm gì?
+280|Lo phần của cậu đi!
+281|Được!
+282|Chó con! Lối này!
+283|Cảm ơn!
+284|Đưa bọn tôi ra khỏi thị trấn!
+285|Má em làm sao vậy?
+286|Không sao đâu.
+287|Chỉ bị kìm kẹp thôi.
+288|Bánh kê của em...
+289|cũng không thể bật ra như vậy được!
+290|Kìm?!
+291|Đợi tôi một chút!
+292|Đừng chạy nữa!
+293|Anh lớn! Em ổn rồi! Anh đã cứu em rồi!
+294|Hm?! Mày muốn ăn à?!
+295|Gầm! Lion Fire!
+296|Anh lớn!
+297|Hãy chứng kiến cấp độ tiếp theo của chiêu kiếm quỷ của ta!
+298|Gum-Gum...
+299|Red Hawk!

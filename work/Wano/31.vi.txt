@@ -1,0 +1,445 @@
+1|Hội nghị Thế giới, hay còn gọi là Reverie...
+2|là cuộc họp lớn của năm mươi vị vua và nữ hoàng
+3|đại diện cho hơn 170 quốc gia trực thuộc Chính phủ Thế giới.
+4|Hội nghị được tổ chức bốn năm một lần.
+5|Như mọi khi, Reverie kết thúc trong cảnh hỗn loạn
+6|và các đại diện đều trở về nước.
+7|Rồi...
+8|một tuần sau...
+9|Trời ơi... cuối cùng cũng về đến nhà.
+10|Thế giới trên mặt đất đúng là cao xa thật.
+11|Ừm, cảm ơn ngài đã hộ tống chúng tôi,
+12|ông nội của ngài Luffy!
+13|Chuyến đi dài thật đấy nhỉ, Neptune?
+14|Ngài mệt rồi chứ!
+15|Mệt rã rời.
+16|Garp, ở lại đây với chúng tôi nghỉ ngơi lấy sức đi.
+17|À, có lẽ tôi sẽ uống một tách trà,
+18|nhưng tình hình thế này thì tôi không ở lại lâu được.
+19|Reverie lúc nào cũng gây ra sự cố lớn.
+20|Năm mươi nước tụ họp, chỉ một câu "hãy hòa thuận" thì không đủ.
+21|Nước nào cũng có rắc rối nội bộ riêng.
+22|Những nước lớn mạnh chỉ lặng lẽ nhìn nhau
+23|và để bọn tay sai cãi vã.
+24|Họ dùng tài nguyên và công nghệ làm con bài mặc cả.
+25|Họ nói các nước bình đẳng, nhưng đó chỉ là lời nói.
+26|Giàu nghèo và khác biệt tôn giáo không cho phép họ bình đẳng.
+27|Dù bề ngoài bắt tay và mỉm cười, họ vẫn sẵn sàng giẫm lên chân nhau.
+28|Không biết có bao nhiêu nhà lãnh đạo có thể nói thay cho dân nước mình lẫn dân nước khác.
+29|Chỉ là bàn tròn trên danh nghĩa mà thôi.
+30|Ngài nói đúng. Cuộc trò chuyện giữa các quốc vương rất căng thẳng.
+31|Chúng tôi cũng không ngoại lệ, nhưng tranh chấp giữa các nước đâu dễ giải quyết.
+32|Lịch sử một nước càng dài
+33|thì gốc rễ xung đột càng sâu.
+34|Dù có bất đồng, miễn là không đổ máu thì tôi gọi đó là hòa bình.
+35|Nhưng lần này thì khá tệ...
+36|Nói hơi muộn, nhưng còn một chuyện tôi chưa kể với mọi người.
+37|Ngay sau khi Reverie bế mạc và chúng ta khởi hành, đã xảy ra một sự cố,
+38|tôi nhận được báo cáo khi đang ở trên tàu.
+39|Hải Quân chúng tôi sẽ cố hết sức giải quyết, nhưng xin đừng sợ
+40|thế giới trên mặt đất hay loài người chúng tôi!
+41|Một sự cố...?
+42|Garp, ông nhận được báo cáo gì vậy?
+43|Sự cố liên quan đến Vương quốc Alabasta.
+44|Vương quốc Alabasta...
+45|Công chúa Vivi!
+46|Trước khi tất cả chuyện này xảy ra...
+47|Tại World Economic News, ngay sau khi Reverie bế mạc...
+48|Không thể tin được! Hết sự cố này đến sự cố khác!
+49|Không ngờ nhiều chuyện xảy ra cùng lúc thế này...
+50|Nghe đây! Tìm cho tôi tiêu đề lớn nhất từ trước đến nay!
+51|Sếp ơi, tin nào lên trang nhất ạ?!
+52|Nghe đây! Chúng ta có một cái chết!
+53|Cáo phó lớn thì báo bán chạy!
+54|Vậy thì tiêu đề--
+55|Không, khoan!
+56|Nghị quyết họ thông qua cũng hay.
+57|Nhưng vụ ám sát cũng giật gân lắm!
+58|Đúng rồi!
+59|Được, làm hai trang nhất!
+60|Trang cuối cùng dàn trang y vậy!
+61|– Rõ! – Rõ!
+62|Thưa sếp.
+63|Thư chuyển phát nhanh từ chính phủ.
+64|Một tấm séc à?
+65|Ồ, nhiều thật!
+66|Hiểu rồi. Đây là lệnh thao túng thông tin.
+67|Nhưng là vụ nào?
+68|Dập vụ này đi sao?!
+69|Đừng hòng!
+70|Quăng trả vào mặt họ đi!
+71|Này, có chuyện gì vậy?
+72|Ôi chao, chao ôi...
+73|Làm theo lời đi, Morgans!
+74|Cơ quan bí mật,
+75|Cipher Pol?!
+76|Ông phải tuân lệnh Chính phủ Thế giới.
+77|Đứng yên!
+78|Đừng coi thường Big News Morgans!
+79|Hắn lẻn vào từ lúc nào vậy?
+80|Sếp ơi! Thành viên Cipher Pol là công chức chính phủ đó!
+81|Tôi biết!
+82|Ở lại đây nguy hiểm lắm, các cậu.
+83|Bay thôi!
+84|Tôi có thể tham lam,
+85|nhưng trước hết tôi là nhà báo!
+86|Tôi khiến người ta nhảy múa theo lời dối trá của tôi.
+87|Tôi là DJ của ngôn từ!
+88|Tôi quyết định đăng cái gì!
+89|Ngài Morgans!
+90|Có điện thoại từ vua Wapol!
+91|Vua Wapol?
+92|Hắn muốn gì?
+93|À, nghe nói hắn có tin để tuồn ra.
+94|Cái gì?!
+95|Chuyện gì đang xảy ra vậy?
+96|Bản tin đặc biệt à?
+97|Đừng lo...
+98|Sẽ ổn thôi.
+99|Chính phủ không dập được vụ việc vừa xảy ra,
+100|các quyết định của các nhà lãnh đạo tại Reverie cùng những sự cố ở đó
+101|lập tức lan khắp thế giới và khiến nhiều người choáng váng.
+102|Cái gìììì!
+103|Cái quái gì thế này?!
+104|Không thể nào đúng được!
+105|Chỉ là chuyện trên báo thôi, đúng không?
+106|Đó chỉ là WEN thôi! Ông chủ báo mặt chim chắc viết bậy!
+107|Tôi chắc chắn thế!
+108|Đây là Sabo mà!
+109|Không thể nào...
+110|Tôi không tin!
+111|Bình tĩnh lại!
+112|Trước hết phải xác nhận sự thật.
+113|Nhưng khi tất cả đều mất liên lạc...
+114|làm sao xác nhận được?
+115|Không đúng sự thật, phải không?
+116|Sabo...
+117|Tiểu thư!
+118|Anh ấy ở Mary Geoise sao?!
+119|A-Anh tôi sao?!
+120|Makino sao rồi?
+121|Hôm nay quán đóng cửa.
+122|Cái gì?!
+123|Thế giới xảy ra nhiều chuyện quá...
+124|Tôi cần một ly.
+125|Sabo đã...
+126|Mà tôi vừa mới biết anh ấy còn sống...
+127|Nói với tôi là không phải sự thật đi!
+128|Sabo!
+129|Tôi không bao giờ chán thế giới này!
+130|Càng lúc càng thú vị!
+131|Này, các cậu!
+132|Ra khơi thôi!
+133|Thay vì nhìn Hải Quân cướp mất nó,
+134|tôi sẽ tự mình lấy!
+135|Và bây giờ, chúng ta trở về hiện tại...
+136|Koby, là tôi đây.
+137|Chờ một chút.
+138|Để tôi tìm chỗ riêng tư.
+139|Được rồi.
+140|Ồ, phải rồi! Biển!
+141|Sương mù!
+142|Như mọi khi,
+143|cậu vẫn khắt khe quá.
+144|À thì, đó là quy tắc mà...
+145|À đúng rồi! Tệ lắm!
+146|Có chuyện cần báo cáo với anh,
+147|Chỉ huy!
+148|Cái gì?!
+149|Tình hình như vậy sao?!
+150|Ừ. Dù có toàn bộ Hải Quân trên thế giới
+151|cũng không xử lý nổi.
+152|Vậy nên như đã định,
+153|Hải Quân sẽ không can dự vào chuyện bên đó.
+154|Họ không đủ nhân lực.
+155|Cũng được.
+156|Wano không trực thuộc Chính phủ Thế giới.
+157|Còn chuyện Big Mom đến Onigashima...
+158|Vâng.
+159|Kaido và Big Mom bất hòa bấy lâu
+160|nên Hải Quân hy vọng hai tên hải tặc đó sẽ tiêu diệt lẫn nhau.
+161|Ừ, chắc vậy.
+162|Như dự đoán, Kaido và Big Mom vốn đối đầu nhau...
+163|nhưng giờ họ lại bắt tay nhau!
+164|C-C-C-Cái gì cơ?!
+165|Còn về Mũ Rơm Luffy, chưa có tin gì về vụ vượt ngục.
+166|Tình hình đang bế tắc.
+167|Còn một chuyện khó chịu nữa.
+168|Hôm trước tôi thấy Cipher Pol 0 ở thủ đô.
+169|Cái gì?! Sao họ lại ở Wano?!
+170|Tôi mong là mình sai,
+171|nhưng chuyện đó nghĩa là Chính phủ Thế giới
+172|đang làm ăn với Wano, một đất nước do hải tặc cai trị.
+173|Khi biết chuyện,
+174|tôi đã chết lặng mấy phút.
+175|Tôi đã chết lặng mấy phút.
+176|Nhân tiện, giờ anh đang ở đâu?
+177|Đúng vậy.
+178|Chúng tôi đang hướng đến Đảo Nữ Nhân...
+179|để bắt Nữ Hoàng Hải Tặc Boa Hancock!
+180|Ôi chao...
+181|Những con tàu đang tiến về phía chúng ta qua Calm Belt...
+182|Là hạm đội Hải Quân sao?!
+183|Marguerite!
+184|Chuyện gì sắp xảy ra vậy?!
+185|Tin tức lan ra khắp thế giới.
+186|Lẽ ra họ nên làm vậy từ lâu rồi!
+187|Bắt tay với hải tặc là sai lầm...
+188|Chúng độc ác!
+189|Với những ai cho rằng hải tặc đều xấu...
+190|Bọn chó săn của chính phủ cuối cùng cũng biến mất!
+191|Kệ cái Nữ Hoàng Hải Tặc, Mắt Diều Hâu và Gã Hề!
+192|Chúng chỉ là lũ cướp bóc!
+193|...và với những ai ghét cướp bóc thì đây là tin tốt.
+194|Nhưng tôi tưởng họ đã làm rất tốt trong Chiến tranh Thượng đỉnh!
+195|Họ quyết định vậy sao?!
+196|Hải Quân đã sẵn sàng hành động ngay lập tức.
+197|Làm vậy có thật sự khôn ngoan không?
+198|Họ là một trong ba thế lực lớn của thế giới!
+199|Với những ai biết chiến công của họ trong Chiến tranh Thượng đỉnh,
+200|và những ai lo ngại cán cân ba thế lực bị phá vỡ,
+201|đây thật sự là tình hình đáng báo động.
+202|Tin tức từ Reverie lần này gây sốc nhất cho mọi người trên thế giới...
+203|chính là...
+204|việc bãi bỏ...
+205|chế độ Thất Vũ Hải!
+206|Thất Vũ Hải là những hải tặc được chính phủ chính thức công nhận.
+207|Họ được phép cướp bóc,
+208|còn chính phủ dùng họ để răn đe các hải tặc khác.
+209|Danh sách Thất Vũ Hải đã thay đổi theo thời gian.
+210|Crocodile.
+211|Hắn đã đụng độ băng Mũ Rơm vì Vương quốc Alabasta.
+212|Hắn định chiếm vương quốc đó
+213|nhưng cuối cùng bị Luffy đánh bại và bị trục xuất khỏi Thất Vũ Hải.
+214|Người thay thế Crocodile và gia nhập Thất Vũ Hải...
+215|là Marshall D. Teach.
+216|Tuy nhiên, hắn tuyên bố từ chức sau khi đạt được mục tiêu.
+217|Jinbe, Hiệp sĩ Biển,
+218|phản đối Chiến tranh Thượng đỉnh và trở nên khinh thường Hải Quân.
+219|Ông ấy cũng tuyên bố từ chức.
+220|Gecko Moria.
+221|Người từng đụng độ băng Mũ Rơm này cũng được triệu tập đến Chiến tranh Thượng đỉnh.
+222|Tuy nhiên...
+223|ngay sau cuộc chiến, lệnh phục kích từ cấp cao trong chính phủ được ban ra,
+224|và hắn bị trục xuất.
+225|Thiên Dạ Xoa Donquixote Doflamingo.
+226|Trong khi cai trị Dressrosa với tư cách vua,
+227|hắn buôn bán Trái Ác Quỷ nhân tạo SMILE, làm một tay môi giới có thế lực dưới lòng đất.
+228|Tuy nhiên...
+229|hắn mất vương quốc trong cuộc đấu với liên minh của Luffy,
+230|và danh hiệu Thất Vũ Hải bị thu hồi.
+231|Và cuối cùng, Trafalgar Law.
+232|Cậu ta liên minh với băng Mũ Rơm để hạ Doflamingo...
+233|và bị tước danh hiệu.
+234|Bốn hải tặc thống trị như những hoàng đế:
+235|Tứ Hoàng.
+236|Và đang tìm cách kiềm chế họ: Tổng bộ Hải Quân.
+237|Cuối cùng nhưng không kém phần quan trọng: Thất Vũ Hải.
+238|Ba thế lực lớn này đã giữ cho thế giới hòa bình.
+239|Tuy nhiên,
+240|hai vị vua đã chịu tổn thất nặng nề dưới tay Thất Vũ Hải:
+241|Vua Nefertari Cobra của Vương quốc Alabasta,
+242|và Riku Doldo III của Vương quốc Dressrosa.
+243|Họ đã đấu tranh để bãi bỏ chế độ Thất Vũ Hải.
+244|Rồi, sau cuộc tranh luận nảy lửa tại Reverie,
+245|đa số áp đảo ủng hộ đề xuất và nó được thông qua.
+246|Do đó, Thất Vũ Hải sẽ tự động bị tước mọi quyền lợi,
+247|và mối liên hệ với Chính phủ Thế giới từ nay bị cắt đứt.
+248|Điều đó có nghĩa là...!
+249|Buggy,
+250|mày chỉ còn là một tên hải tặc thôi!
+251|Thế là không công bằng, lũ khốn!
+252|Quyết định được đưa ra mà không báo cho bọn tao, rồi thấy không còn dùng được thì bắt à?!
+253|Các người chẳng có chút chính nghĩa nào cả!
+254|Crocodile với Doflamingo có qua mặt được các người hay không thì liên quan gì đến tao!
+255|Đừng trút giận lên tao!
+256|Chúng bao vây cả bờ biển rồi!
+257|Phải làm sao đây?
+258|Kế hoạch cả đời của tôi đổ bể hết rồi!
+259|Ồ?
+260|Hải Quân lẽ ra phải đứng về phía chúng ta, vậy mà lại bao vây chúng ta!
+261|Phải làm sao đây, Mẹ ơi?!
+262|Mẹ ơi!
+263|Đầu hàng ngay,
+264|Mắt Diều Hâu Mihawk!
+265|Đầu hàng ngay!
+266|Công chúa Rắn, có chuyện rồi!
+267|Danh hiệu Thất Vũ Hải của cô đã bị tước!
+268|Bà Nyon!
+269|Có tàu Hải Quân ngoài khơi!
+270|Cái gì?!
+271|Chúng đã hành động rồi sao?!
+272|Đừng hoảng!
+273|Công chúa Rắn!
+274|Rõ ràng họ đã quên mất điều gì đó...
+275|các người không nghĩ vậy sao?
+276|Không ổn rồi, Chủ tịch Buggy!
+277|Chúng ta có nên chạy không?!
+278|Tất nhiên là không! Chúng ta sẽ cho chúng thấy một trận đánh hoành tráng!
+279|Có gan lên đi, lũ thảm hại!
+280|– Đúng là Chủ tịch Buggy của chúng ta! – Đúng là Chủ tịch Buggy của chúng ta!
+281|– Buggy! Buggy! Buggy! Buggy! – Buggy! Buggy! Buggy! Buggy!
+282|Có vẻ chúng không còn đứng về phía ta nữa!
+283|Thật không thể tha thứ nổi...
+284|Weevil!
+285|Ngươi được phép hạ chúng!
+286|T-Thật sao?!
+287|Vậy thì tao sẽ giết chúng...
+288|nhân danh Râu Trắng!
+289|Ta thấy rạo rực quá.
+290|Đã lâu lắm rồi...
+291|kể từ khi ta là kẻ bị truy đuổi.
+292|Chúng ta trở thành Thất Vũ Hải...
+293|nhờ sức mạnh của mình!
+294|Tôi trông cậy vào các cậu.
+295|Trong lúc đó...
+296|tôi sẽ chuồn khỏi đây...
+297|Lâu đài Pangaea Mary Geoise
+298|Lâu đài Pangaea Mary Geoise
+299|Cung điện Ryugu, Vương quốc Ryugu Đảo Người Cá
+300|Cung điện Ryugu, Vương quốc Ryugu Đảo Người Cá
+301|Tổng biên tập Morgans Báo Kinh tế Thế giới
+302|Tổng biên tập Morgans Báo Kinh tế Thế giới
+303|Tổng bộ Quân Cách Mạng Vương quốc Kamabakka
+304|Tổng bộ Quân Cách Mạng Vương quốc Kamabakka
+305|Tàu hộ tống Hoàng gia Vương quốc Goa
+306|Tàu hộ tống Hoàng gia Vương quốc Goa
+307|Làng Cối Xay Gió Vương quốc Goa
+308|Làng Cối Xay Gió Vương quốc Goa
+309|Núi Colubo Vương quốc Goa
+310|Núi Colubo Vương quốc Goa
+311|Nhà tù dưới biển Impel Down
+312|Nhà tù dưới biển Impel Down
+313|Beehive Đảo Hải Tặc
+314|Beehive Đảo Hải Tặc
+315|Ngoại ô Thị trấn Ebisu Wano
+316|Hiện tại Một vùng biển khơi
+317|Hiện tại Một vùng biển khơi
+318|Đại tá Koby Tổng bộ Hải Quân Thành viên SWORD
+319|Đại tá Koby Tổng bộ Hải Quân Thành viên SWORD
+320|Đảo Empty Bluffs Tân Thế Giới
+321|Đảo Empty Bluffs Tân Thế Giới
+322|Một hòn đảo ở Tân Thế Giới
+323|Một hòn đảo ở Tân Thế Giới
+324|Tàn tích Vương quốc Ảm Đạm Đảo Gloom
+325|Tàn tích Vương quốc Ảm Đạm Đảo Gloom
+326|Đảo Nữ Nhân Amazon Lily
+327|Đảo Nữ Nhân Amazon Lily
+328|Chủ tịch Buggy "Gã Hề Hoành Tráng"
+329|Cựu Thất Vũ Hải
+330|Cựu Thất Vũ Hải
+331|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+332|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+333|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+334|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+335|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+336|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+337|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+338|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+339|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+340|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+341|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+342|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+343|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+344|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+345|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+346|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+347|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+348|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+349|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+350|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+351|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+352|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+353|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+354|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+355|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+356|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+357|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+358|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+359|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+360|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+361|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+362|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+363|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+364|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+365|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+366|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+367|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+368|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+369|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+370|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+371|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+372|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+373|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+374|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+375|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+376|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+377|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+378|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+379|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+380|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+381|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+382|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+383|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+384|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+385|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+386|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+387|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+388|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+389|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+390|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+391|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+392|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+393|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+394|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+395|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+396|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+397|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+398|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+399|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+400|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+401|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+402|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+403|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+404|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+405|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+406|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+407|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+408|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+409|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+410|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+411|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+412|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+413|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+414|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+415|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+416|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+417|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+418|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+419|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+420|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+421|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+422|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+423|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+424|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+425|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+426|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+427|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+428|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+429|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+430|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+431|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+432|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+433|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+434|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+435|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+436|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+437|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+438|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+439|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+440|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+441|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+442|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+443|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+444|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải
+445|Edward "Râu Trắng Đệ Nhị (tự xưng)" Weevil Cựu Thất Vũ Hải

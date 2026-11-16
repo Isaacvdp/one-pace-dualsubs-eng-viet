@@ -1,0 +1,528 @@
+1|Trời, Jaggy định ngủ đến bao giờ đây?
+2|Có chuyện rồi!
+3|Tù nhân Eustass Kid đã trốn thoát!
+4|Gì cơ?!
+5|Không thể tin nổi.
+6|Mama lại phải rơi xuống ngay đỉnh thác nước!
+7|Phòng không của King khiến ta không thể quay lại đó...
+8|Thật là phép màu khi Queen Mama Chanter không bị lật...
+9|sau cú rơi từ độ cao đó.
+10|Vậy giờ cứ đợi ở đây hả?
+11|Tạm thời là vậy.
+12|Nếu bị ném xuống biển, người có năng lực sẽ mất sức hết.
+13|Không! Vậy Mama chìm xuống biển rồi sao?!
+14|Đừng lo!
+15|Nói đến phép màu...
+16|Theo thẻ sinh mệnh của Mama, bà ấy còn sống!
+17|Tuyệt! Vậy là bà ấy còn sống!
+18|Nhưng vậy bà ấy đang ở đâu?!
+19|Chắc chắn băng Bách Thú đã vớt bà lên và đang giam giữ bà.
+20|Băng của Kaido ư? Vậy thì rắc rối rồi.
+21|Mama và Kaido từng là đồng đội,
+22|nhưng họ trở thành đối địch từ khi thành Tứ Hoàng.
+23|Hắn nhất định sẽ giết bà.
+24|Gì cơ?! Vậy chúng ta sẽ ra sao?!
+25|Nghe cho kỹ...
+26|Băng Big Mom sẽ trở thành...
+27|băng Perospero!
+28|Này, ý ngươi là sao, Peros?!
+29|Thuyền trưởng tiếp theo phải là Katakuri!
+30|Ngươi không coi trọng thâm niên sao?!
+31|Vớ vẩn! Năng lực quan trọng hơn!
+32|Con trai cả phải là người dẫn dắt!
+33|Muốn ta triệu hồi thần đèn không?! Đừng tưởng ta không dám!
+34|Thôi đi!
+35|Đừng tự cho là bà ấy sẽ chết!
+36|Đừng bao giờ coi thường Mama, lũ ngốc.
+37|Big Mom?
+38|Vâng, bà ấy là người siêu mạnh từ ngoài biển đến!
+39|Con cá sấu mập này rất hiền và dễ thương!
+40|Phải đánh hai lần mới thuần được!
+41|Khoan đã! Tại sao lại phải đến Udon cùng người tên Big Mom này?!
+42|Vì bà ấy sẽ giúp chúng ta cứu Đại ca!
+43|T-Tôi không hiểu!
+44|Quay lại đây, Otama! Ta cần biết thêm chi tiết!
+45|Ngài Kin'emon dặn tôi phải canh chừng cậu chủ Momonosuke thật kỹ!
+46|Không sao đâu, thưa thầy!
+47|Là nữ ninja, tôi sẽ bảo vệ Momo bằng mọi giá!
+48|Ai...? Ai...?!
+49|Ai là nữ ninja?! Kỹ năng của cô chỉ ở mức tầm thường!
+50|Đừng liều lĩnh nữa và quay về ngay, Otama!
+51|Ngài Hitetsu, chúng tôi đã khởi hành rồi.
+52|Gì cơ?! Không, tiểu thư Okiku...!
+53|Quay về ngay lập tức!
+54|Cho tôi gửi lời hỏi thăm Komachiyo và mọi người nhé!
+55|Nhân tiện, lúc nãy tôi nghe cậu nói "Big Mom" phải không?
+56|Nghe quen quen...
+57|Quên chuyện đó đi, Olin!
+58|Dù sao thì người dân thị trấn Okobore tốt thật.
+59|Tôi là người lạ với họ, tôi còn không biết tên mình,
+60|vậy mà cô ấy vẫn đãi tôi món oshiruko ngọt ngào ngon tuyệt đó...
+61|Cái mũ chẳng nói gì cả. Nó cũng mất trí nhớ sao?
+62|Nhắc mới nhớ...
+63|Tôi muốn ăn thêm oshiruko sớm.
+64|Đừng nhìn tôi khi nói câu đó!
+65|Không nhịn được. Cậu dễ thương đến mức tôi muốn ăn luôn...
+66|Tôi không phải đồ ăn!
+67|Cậu cố gắng quá rồi, Momo!
+68|Ta ở trung tâm cuộc xung đột này! Ta phải luôn tỉnh táo!
+69|SNATCH!
+70|Ôi, xin lỗi! Tôi xin lỗi!
+71|Này, sao cậu cứ hét "SNATCH" mãi vậy?
+72|Hét SNATCH thấy tràn đầy sức sống lắm!
+73|SNATCH!
+74|SNATCH! SNATCH! SNATCH!
+75|Đúng thật! Tôi thấy tràn đầy năng lượng!
+76|Đúng không? Vậy nào!
+77|– SNATCH! SNATCH! SNATCH! – SNATCH! SNATCH! SNATCH!
+78|Dừng lại, cả hai người!
+79|Sao vậy, Kiku?
+80|Cậu học từ đó ở đâu?
+81|Đó là tiếng hô xung trận của kiếm sĩ nước ngoài!
+82|Tôi học từ Zorojuro!
+83|Anh ấy nói đó là từ may mắn nâng cao tinh thần khi mất dũng khí.
+84|Vậy thì ta cấm dùng từ này!
+85|Gì cơ?! Tại sao?!
+86|Có thể chỉ là trùng hợp,
+87|nhưng nó cũng là tiếng hô xung trận trong một phương ngữ cổ ở Kuri.
+88|Hàm ý của nó không phù hợp với cậu.
+89|Gì cơ?! Thôi mà!
+90|Không!
+91|Nhưng hét lên thật sự rất sảng khoái.
+92|Không là không!
+93|Tôi đói. Chúng ta chưa đến Udon sao?
+94|Tôi đói đến mức có thể...
+95|Đừng nhìn tôi khi cậu đang chảy nước dãi!
+96|Tiếc là chúng ta vẫn còn xa Udon lắm, Olin.
+97|Vậy sao?!
+98|Đây là bản đồ sơ lược của Wano.
+99|Sáu vùng của đất nước đều có khí hậu riêng biệt và bị chia cắt bởi các con sông.
+100|Đây là...
+101|Tín hiệu cơm năm màu của Shinobu... Nói là kiểm tra gần cái giếng...
+102|Họ ở đó sao?!
+103|Tại hạ mừng vì các vị vẫn còn sống!
+104|Tại hạ không ngờ các vị phải chạy trốn đến Ringo để tránh truy đuổi.
+105|Người của Orochi sẽ không đi xa đến thế này.
+106|Cái chết của hoa khôi Komurasaki thật sự gây sốc.
+107|Giờ Hoa Đô đang náo loạn.
+108|Thật đấy, cô ấy chỉ đứng lên chống lại Orochi. Sao hắn giết cô ấy tàn nhẫn vậy?!
+109|Samurai đáng sợ thật...
+110|Kyoshiro Ngủ Gật mới là kẻ chém cô ấy.
+111|Kyoshiro? Tại hạ không biết cái tên này.
+112|Hai mươi năm trước, ông trùm yakuza vĩ đại nhất Wano Quốc...
+113|là Hyogoro Hoa.
+114|Tên đầy màu sắc nhỉ.
+115|Ông chủ Hyogoro coi trọng danh dự và bênh vực kẻ yếu;
+116|ông ấy sẽ không bao giờ làm điều vô tâm như vậy.
+117|Kyoshiro Ngủ Gật... Một kẻ đáng ghê tởm.
+118|Có lẽ bọn mình không nên đưa Otoko về kỹ viện của Kyoshiro.
+119|Dù con bé đã chọc giận tướng quân,
+120|tôi nghi ngờ liệu Kyoshiro này có truy sát một đứa trẻ không...
+121|Nhưng gã này đã giết người phụ nữ nổi tiếng nhất kỹ viện của mình!
+122|Tôi lo quá.
+123|Quay về Hoa Đ–
+124|Lạnh thật nhỉ?
+125|Ấm quá! Cảm ơn, Shinobu!
+126|Mọi người, nếu quay về Hoa Đô,
+127|sao không nghỉ cho đỡ mỏi ở nhà tắm công cộng?
+128|Tắm nghe hay đấy!
+129|Đúng vậy. Chúng ta có thể làm mình tươi tỉnh lại.
+130|Phải cải trang mới lẻn vào được. Orochi kiểm soát cả nước nóng lẫn nước uống.
+131|Ở Hoa Đô, mọi mặt của cuộc sống đều bị kiểm soát.
+132|Nhưng trước hết, tại hạ muốn nghe những thông tin cô đã thu thập được, cô Orobi.
+133|Tiếc là tất cả những gì tôi thu thập được cho đến giờ là...
+134|giờ Orochi thức dậy vào ngày chiến đấu,
+135|các lễ vật sẽ được đưa đến Onigashima,
+136|món ăn Kaido thích và cách băng hắn được tổ chức,
+137|số lượng binh lính và vũ khí...
+138|Nhiều thật!
+139|Nhân tiện, tôi phát hiện một poneglyph.
+140|Nhưng không phải màu đỏ...
+141|Thật sao?!
+142|Cậu đúng là may mắn với mấy tảng đá đó, Bonekichi!
+143|Nó ở sau một cánh cửa gia cố dưới tầng hầm.
+144|Đó là một căn phòng kỳ lạ đầy búp bê gỗ.
+145|Vậy Road Poneglyph cần để đến Laugh Tale chắc chắn ở trên Onigashima.
+146|Onigashima à?
+147|Ừ. Với từng này thông tin, ta có thể coi nhiệm vụ là thành công.
+148|Giờ thì, Orobi và Onami...
+149|đi nhà tắm nghỉ ngơi và ngắm đồ lót thôi!
+150|Cậu sẽ quá nổi bật!
+151|Gì cơ?! Thôi mà!
+152|Tin nóng!
+153|Thần tượng số một Hoa Đô, hoa khôi Komurasaki,
+154|đã bị ông chủ Kyoshiro chém tại yến tiệc của tướng quân!
+155|Đọc tin ở đây nhé!
+156|Komurasaki yêu dấu của tôi!
+157|Sao chuyện này lại xảy ra?!
+158|Khóc lóc gì vậy? Ông còn chẳng gặp cô ấy được mấy lần.
+159|Thế giới mất đi một mỹ nhân thật sự, đồ ngốc!
+160|Tang lễ sẽ tổ chức vào ngày mai.
+161|Các người vô tâm quá!
+162|Raid suit...
+163|Cậu nghĩ Orobi và mọi người có bị bắt không?
+164|Tôi lo quá. Có nên thử liên lạc bằng ốc sên truyền tin không?
+165|Cậu thấy sao, Sanji?
+166|Sức mạnh tàng hình...
+167|Chắc tôi phải thử ở đó...
+168|Này, Sanji!
+169|Ở nhà tắm nữ!
+170|Ồ, ừ, cậu nói đúng!
+171|Nhân tiện, Traffy, có tin gì về Udon và Luffytaro không?
+172|Ừ, chắc giờ cậu ấy sẵn sàng gây loạn rồi!
+173|Chắc chắn! Tôi nóng lòng gặp lại cậu ấy!
+174|Không có tin gì về Mũ Rơm...
+175|Khoan...
+176|Eustass?!
+177|"Cậu..." Gì?! "Cậu" thích nhà tắm nữ?!
+178|– Hả?! – Hả?!
+179|Ồ, ý cậu là gã đó ở Wano sao?!
+180|Vì đồng minh Hawkins của hắn ở đây, hắn có mặt cũng không lạ...
+181|Có vẻ hắn bị giam ở nhà tù Udon... rồi trốn thoát.
+182|Trốn thoát?!
+183|Này, còn Luffy thì sao?!
+184|Tôi nghĩ Udon đang xảy ra chuyện lớn.
+185|Nhân tiện...
+186|nhà tắm ở đâu?
+187|Khốn thật! Thôi đi!
+188|Cậu hoàn toàn không nghe gì cả!
+189|– Đồ ngốc! – Đồ ngốc!
+190|Này, khoan đã!
+191|– Chuyện gì vậy?! – Chuyện gì vậy?!
+192|Tôi lo quá.
+193|Nhóm trinh sát của Bepo vẫn chưa quay lại...
+194|Mong là không có thêm rắc rối.
+195|Ghê quá!
+196|Này, ngươi!
+197|Ta cần hỏi ngươi vài thứ.
+198|Gì cơ?!
+199|Có lẽ ngươi đã nghe, tù nhân Eustass Kid đã trốn!
+200|Tao cá là mày biết gì đó.
+201|Hôi quá!
+202|Lâu lắm rồi tôi mới được ăn nhiều thế này...
+203|Tôi mang ơn ngài, ngài Mũ Rơm!
+204|Tôi sẽ... tôi sẽ trân trọng từng miếng.
+205|Này!
+206|Cho tao ăn với!
+207|Mấy cái bánh bao đó trông ngon quá!
+208|Tao nói là...
+209|mày chắc chắn có liên quan đến vụ Kid trốn thoát!
+210|Tụi mày lúc nào cũng nói chuyện với nhau!
+211|Nước miếng hắn hôi thật.
+212|Hôi?! Mày đang chế giễu tao à?!
+213|Đừng quên mày đang đeo còng Hải Lâu Thạch!
+214|Dù sao hắn bị bắt cũng chỉ là vấn đề thời gian!
+215|Rõ ràng hắn không suy tính kỹ vụ vượt ngục này.
+216|Tên ngốc đó vẫn còn đeo còng Hải Lâu Thạch,
+217|nên hắn sẽ không đi xa trước khi bị săn lùng và trừng phạt!
+218|Thôi đi! Nước miếng mày hôi thật đấy!
+219|Mày định tiếp tục thử thách tao à?!
+220|Cần ôn lại luật không?!
+221|♪ Chống lại một lần, mất tay! ♪
+222|♪ Chống lại hai lần, mất chân! ♪
+223|♪ Chống lại ba lần, mất mạng! ♪
+224|Đồ ngốc!
+225|Tụi mày đừng có đùa với bọn tao!
+226|Đừng đánh ông già Hyo nữa! Các người đang giết ông ấy!
+227|Luật là luật. Không theo kịp thì chết đi!
+228|Những cái bánh bao kê này... quý giá lắm...
+229|Mày có đồng ý không?
+230|Những cái bánh bao...!
+231|Luật nói chỉ được ăn những gì kiếm được từ lao động.
+232|Không làm được thì chết đói!
+233|Đúng không, lão già?!
+234|Này! Mày tưởng chạy thoát được à?!
+235|Vì mày không làm việc được,
+236|sao mày có nhiều phiếu ăn thế?!
+237|Ai đưa cho mày?!
+238|Bánh bao...
+239|Bánh bao của tôi...
+240|Những cái bánh bao quý giá của tôi...
+241|Lão già tham lam!
+242|Ngon quá!
+243|Mày nghĩ mày đang làm gì vậy?!
+244|Mày không có quyền ăn gì cả!
+245|Không làm thì không có bánh bao!
+246|Nhả ra, lão già lụ khụ!
+247|Tôi sẽ không nhả ra...
+248|Ngài Mũ Rơm đã cho tôi những cái bánh bao này!
+249|Tôi sẽ không bao giờ... bao giờ...
+250|để chúng bị lãng phí!
+251|Đấy! Mày cũng nên xem cái này!
+252|Sao?! Đó là ông già...!
+253|Đáng đời! Mày cũng sẽ như vậy nếu chống lại bọn tao!
+254|Nhớ lấy!
+255|Giờ thì sự thật về mấy cái bánh bao!
+256|Thằng ngốc nào đưa phiếu cho mày?!
+257|Tôi ăn hết rồi!
+258|Mày nghĩ mày đẩy tao được đến đâu?
+259|Tôi thà chết...
+260|Hả?!
+261|...còn hơn nói cho một thằng ranh như mày...!
+262|Cậu ấy đáp lại tiếng gọi của công lý, nâng đỡ kẻ yếu...
+263|không bao giờ khuất phục trước lũ ngu...
+264|Đó thật sự là tinh thần hiệp nghĩa,
+265|xứng đáng nhận được sự kính trọng từ tinh thần hiệp nghĩa của chính tôi, kẻo tôi tự làm nhục mình!
+266|Giờ thì giết tôi đi!
+267|Gặp cậu ấy khiến tôi nhớ về một thời đã xa.
+268|Ta là Hyogoro Hoa!
+269|Lần đầu sau bao lâu, bụng và lòng ta đều đầy đủ!
+270|Đây là đất của samurai!
+271|Ngày xưa,
+272|nhiều người chia sẻ tinh thần của ông ấy!
+273|Nhưng bọn mày đã giết hết họ!
+274|Này!
+275|Dừng lại, Luffytaro!
+276|Cậu biết chống lại lính canh sẽ ra sao mà, đúng không?!
+277|Giết tao đi, đồ đần!
+278|Mày nói gì?! Có gan thì nói lại xem!
+279|Tao nói tụi mày đều là lũ đần không có não, chỉ biết dùng bạo lực!
+280|Mày mới là đồ đần!
+281|Tiếc là bọn ta đã không hạ được lũ đần các ngươi.
+282|Được, vì mày nói lại... tao sẽ giết mày!
+283|Dừng lại! Nếu cậu tấn công lính canh,
+284|họ sẽ xử tử cậu ngay tại chỗ, Luffytaro!
+285|Ông ơi!
+286|Này! Không! Đừng làm vậy!
+287|Dừng lại!
+288|Dừng lại...!
+289|Các người phải... dừng lại...
+290|Đừng cứ...
+291|làm tôi khóc mãi...!
+292|Ngài Daifugo!
+293|Kẻ nào tấn công lính canh sẽ bị xử tử ngay lập tức!
+294|Lần này bọn tôi thấy rồi! Không chối được đâu!
+295|Giết nó!
+296|Ừ, giết nó!
+297|– Giết nó! Giết nó! Giết nó! – Giết nó! Giết nó! Giết nó!
+298|Ngài Solitaire! Chìa khóa bị đánh cắp rồi!
+299|Có người lấy chìa của một cặp còng Hải Lâu Thạch!
+300|Các ngươi làm gì vậy, lũ hề?! Không ai thấy ai làm sao?!
+301|Một gã mặt to đã cua nó đi!
+302|Hắn bắt tôi cất chìa giả vào két.
+303|Tôi bị lừa rồi, cua ơi!
+304|Vì tôi chỉ đi ngang được, hắn cua ngay dưới mũi tôi!
+305|Đồ ngu!
+306|Ngươi là lính canh vô dụng!
+307|Hắn chắc vẫn còn trong tháp! Lục soát khắp nơi, cả gác mái!
+308|Đây là tinh túy của ninja!
+309|Tôi có chìa khóa rồi!
+310|Đứng lại!
+311|Có kẻ xâm nhập!
+312|Ảo ảnh sao?!
+313|Bắt tên trộm!
+314|Lẽ ra phải sớm hơn...!
+315|Ngài Luffytaro, chỉ một chút nữa thôi!
+316|Đến lúc trốn thoát rồi!
+317|Giờ chỉ cần lẻn đi trong im lặng!
+318|Ngài Tuyệt Vời!
+319|– Queen! Queen! Queen! Queen! – Queen! Queen! Queen! Queen!
+320|Ngài Tuyệt Vời, Tam Tai Queen, đã đến!
+321|Mở cổng!
+322|– Giết nó! Giết nó! Giết nó! Giết nó! – Giết nó! Giết nó! Giết nó! Giết nó!
+323|Ồn ào gì thế?
+324|Bi thảm quá...
+325|Lần này không thoát được đâu!
+326|Tôi sẽ không quên cậu, Luffytaro!
+327|Ông già Hyo cũng hết rồi!
+328|Ngài làm tốt lắm, ngài Mũ Rơm!
+329|Sao các người nói như thể hết rồi vậy?!
+330|Hả...?
+331|Cút khỏi đây thôi!
+332|Vô ích thôi! Đừng chống cự!
+333|Bị còng Hải Lâu Thạch làm yếu, mày làm được gì?!
+334|Im đi...! Nếu muốn đánh nhau...
+335|thì cứ nhào vô!
+336|Tên tù nhân đó là sao vậy?
+337|Sao hắn chiến đấu dễ dàng vậy?
+338|Quy định nói còng Hải Lâu Thạch không được cản người đeo làm việc.
+339|Nhưng cử động của hắn lẽ ra vẫn phải suy yếu nghiêm trọng!
+340|Ý ông là tôi vẫn không phải đối thủ sao?!
+341|Không, tôi không có ý đó!
+342|Hắn đang thở dốc...
+343|Quản ngục!
+344|Hải Lâu Thạch có tác dụng!
+345|Hắn chỉ có ý chí phi thường thôi!
+346|Việc cậu cưỡng lại quy luật vật lý làm tôi bất an.
+347|Tôi coi đó là một phần luyện tập...
+348|để mạnh hơn dù chỉ một chút khi được tháo thứ này ra!
+349|Với kẻ không có tương lai,
+350|cố gắng thì có ích gì?!
+351|Có vẻ tôi vừa tìm được bạn luyện tập rồi!
+352|Mày nên biết thân biết phận!
+353|Để xem mày chịu nổi cú hắt hơi voi của tao không!
+354|Hắt Xì Voi!
+355|Ngài Mũ Rơm, ngài có sao không?!
+356|Khốn, hắn mạnh thật!
+357|Quản ngục Babanuki!
+358|Tam Tai Queen đã đến một lúc rồi!
+359|Gì cơ?!
+360|Sao không báo ta sớm hơn?!
+361|Nếu ta đến trước giờ diễn, ta sẽ giết ngươi!
+362|Xin lỗi ngài!
+363|Khốn! Giá mà tôi dùng được haki...
+364|Komurasaki ngọt ngào của tôi...
+365|Cô ấy dễ thương quá!
+366|Phấn khích lên!
+367|Cô ấy quá tốt cho Orochi!
+368|Komu-Womu... Komu-Womu...
+369|Ồ, ừ...!
+370|Đến giờ diễn rồi.
+371|Lát nữa bọn ta sẽ ghé kỹ viện!
+372|Rõ!
+373|Khi nào nên báo cho ngài ấy là Komurasaki đã chết?
+374|Không bao giờ! Chúng ta sẽ là những người chết tiếp theo!
+375|Bắt đầu nào!
+376|♪ Vù, vù, vù, vù! ♪
+377|♪ Vù, vù, vù, vù! ♪
+378|♪ Vù, vù, vù, vù! ♪
+379|♪ Vù, vù, vù, vù! ♪
+380|Gầy đi thì sẽ nổi tiếng quá
+381|Nên ta không gầy đi, đó là kiểu...
+382|funk của ta!
+383|♪ Trông ta có vẻ mũm mĩm, nhưng toàn cơ bắp ♪
+384|♪ Ta hát và nhảy được, đó là kiểu... ♪
+385|funk của ta!
+386|Phấn khích lên!
+387|Cảm ơn đã chờ...
+388|lũ cặn bã chúng mày!
+389|Leo lên đi!
+390|V-Vâng...!
+391|Nào...
+392|Đưa từng vấn đề ra đây, Babanuki.
+393|Xếp hạng những rắc rối lớn nhất!
+394|Hạng ba!
+395|Eustass Kid đã trốn thoát.
+396|Gì cơ?!
+397|Hạng hai!
+398|Chìa khóa của một cặp còng Hải Lâu Thạch bị đánh cắp.
+399|Gì cơ?!
+400|Và hạng nhất!
+401|Mũ Rơm Luffy đang bỏ trốn.
+402|Cái gìii?!
+403|Đuổi theo hắn đi, đồ đần!
+404|Này, không có gì phiền hết!
+405|Cứ tự nhiên dùng bất kỳ căn nhà trống nào!
+406|Vì bạn của Thiếu gia Zorojuro, chuyện gì cũng được!
+407|Cảm ơn.
+408|Không cần cảm ơn.
+409|Dân ở đây chết đói thật sự, nên lúc nào cũng có nhà trống!
+410|Cậu thật sự không cần lo đâu!
+411|Có gì buồn cười đâu...?
+412|Mọi người cười nhiều thật.
+413|Khi đói đến mức này, chỉ còn lại tiếng cười!
+414|Mà này, các cậu vừa lỡ Thiếu gia rồi!
+415|Cậu ấy đi đâu?
+416|À, cậu ấy đột nhiên lao ra khỏi đây!
+417|Nói gì đó về thanh kiếm bị đánh cắp!
+418|Không biết giờ cậu ấy chạy đến đâu rồi...
+419|Tôi cá là cậu ấy sẽ lạc đường trên đường về...
+420|Như mọi khi...
+421|Nhân tiện, Chân Đen đi đâu rồi?
+422|Lần cuối ta thấy cậu ta là khi nào...?
+423|Thằng ngốc đó!
+424|Sức mạnh tàng hình...
+425|Chắc tôi phải thử ở đó...
+426|Nhân tiện...
+427|nhà tắm ở đâu?
+428|Đừng nói là...
+429|cậu ta đi rồi!
+430|Thư giãn quá!
+431|Đây là nhà tắm kiểu Wano sao?
+432|Nhưng có phải hơi nóng quá không?
+433|Nhưng chịu được nóng mà nói "Hôm nay nước hơi lạnh" mới là sang.
+434|Chắc tôi không hiểu được cái thú này...
+435|Orobi, cô không thích nóng sao? Sao không xuống nước nóng với bọn tôi?
+436|Tôi không thoải mái khi ngâm mình ở nhà tắm công cộng.
+437|Nếu có chuyện gì...
+438|Cô cảnh giác như ninja vậy!
+439|Người dùng ma thuật như tôi và Orobi yếu đi khi ngâm nước.
+440|Nhưng đừng lo! Không kẻ thù nào tìm thấy chúng ta ở đây.
+441|Có thể không phải kẻ thù, nhưng...
+442|Nhìn kìa. Có lẽ tôi nên thu phí họ.
+443|Không thể tin...
+444|là nhà tắm chung!
+445|Đúng vậy.
+446|Cô chưa từng gặp nhà tắm chung như thế này sao?
+447|Không ngạc nhiên khi đám đàn ông không rời mắt khỏi tôi, nhưng cũng đành thôi!
+448|Mọi chàng trai trẻ đều thích...
+449|– Này, tránh ra! – Bà già, bà cản đường!
+450|Tránh ra!
+451|– Tránh! Tránh! Tránh! – Tránh! Tránh! Tránh!
+452|Ninpo: Đá Bi!
+453|– Đau quá! – Đau quá!
+454|Sang khu rửa thôi.
+455|Khi ngâm xong, cứ nhờ Sansuke kỳ lưng cho.
+456|Sansuke là ai?
+457|Đây là Sansuke.
+458|Đó là tên gọi người kỳ lưng cho chúng ta ở nhà tắm.
+459|Sao lại là bạch tuộc?
+460|À, nó có tám chi nên hợp với công việc này.
+461|Kyoshiro là một vị khách đáng sợ! Không biết ông ta nghĩ gì...?
+462|Làm như ai biết yakuza nghĩ gì vậy...
+463|Mày nói cái gì thế, đồ ngốc?!
+464|Yakuza của Wano lẽ ra phải vì dân.
+465|Bọn trẻ bây giờ không biết ngày xưa từng có
+466|một ông trùm yakuza vĩ đại tên Hyogoro Hoa.
+467|Có phải là người Kanjuro nhắc đến không?
+468|Hai mươi năm trước, ông trùm yakuza vĩ đại nhất Wano Quốc...
+469|là Hyogoro Hoa.
+470|Đúng vậy. Nếu ông chủ Hyogoro còn đây,
+471|ông ấy có thể lập tức tập hợp từng samurai một.
+472|Tại hạ thật sự nghi ngờ bọn ta tự mình tuyển được 5.000 người trong vòng một tuần.
+473|Nhiều lắm là 500.
+474|Wow... Ông ấy giỏi đến vậy sao?
+475|Đúng vậy!
+476|Hai mươi năm trước, ông ấy là người có ảnh hưởng nhất sau hậu trường Wano,
+477|ông trùm vĩ đại kiểm soát thế giới ngầm của Hoa Đô.
+478|Ông ấy có tiếng nói trong năm ông trùm các vùng...
+479|và đối đãi tốt với dân thường.
+480|Ông ấy là yakuza hiệp nghĩa thật sự, vừa có quyền lực lại có sức hút.
+481|Ngài Oden cũng lớn lên trong sự kính trọng ông ấy.
+482|Vậy nếu tìm được ông ấy...!
+483|Đã hơn hai mươi năm rồi.
+484|Có tin đồn...
+485|Orochi giết ông ấy vì không chịu làm việc dưới trướng gia tộc Kurozumi!
+486|Ông ấy trái ngược với Fukurokuju, thủ lĩnh Oniwabanshu.
+487|Giống ông chủ Hyogoro, ông ta cũng từng ủng hộ gia tộc Kozuki,
+488|nhưng Fukurokuju chọn phục vụ Orochi.
+489|Tại hạ từng làm việc cho ông ta, nhưng không chịu nổi và bỏ chạy.
+490|Quả thật, tại hạ đã thành kẻ thù của họ!
+491|Ra vậy...
+492|Có phải cô là...
+493|Hanzo?!
+494|Vậy cô còn sống! Nữ ninja quyến rũ...
+495|đàn ông, gợi cảm.
+496|Vì thế Hanzo mới nhận ra cô! Cô ngầu quá, Shinobu!
+497|Cũng hơi hơi!
+498|Tôi nhớ người đó...
+499|Ông chủ Hyogoro...
+500|Giờ ông ấy đã thành một phần lịch sử...
+501|Chậc...! Mày gây cho bọn tao nhiều rắc rối lắm.
+502|Đừng bắt tao nhắc lại...
+503|Tao nói nếu mày gia nhập băng bọn tao, Kaido sẽ tha cho mày mọi tội!
+504|Im đi! Tao từ chối!
+505|Thật không đúng lúc!
+506|Ngài Luffy...!
+507|Tôi có chìa khóa rồi!
+508|Nghe hoài niệm nhỉ, Hyogoro!
+509|Kaido và Orochi từng háo hức đến gặp ông với lời đề nghị tương tự.
+510|Không ngờ ông trùm huyền thoại giờ chỉ là một lão già suy dinh dưỡng.
+511|Và ông ta sẽ chết thảm!
+512|Gì? Ông ta là Hyogoro sao?
+513|Nghiêm túc đi! Lão già bé tí đó á?
+514|Tôi không quan tâm bản thân...
+515|nhưng xin hãy tha cho chàng trai này!
+516|Tôi van xin các ngài!
+517|Xin các ngài!
+518|Làm sao đây...?
+519|Được rồi, tôi nghĩ ra rồi!
+520|Tôi nghĩ ra một ý tưởng thú vị!
+521|Ngài Luffy...!
+522|Tại hạ không tin nổi. Ngài thật sự trông giống hệt ngày xưa.
+523|Ai đó?!
+524|Có ai ở đó không?!
+525|Là tại hạ, Raizo...
+526|Cậu chủ Momonosuke có bình an không?
+527|Có phải cậu là...
+528|Kawamatsu?!

@@ -1,0 +1,479 @@
+1|B-Buggy!
+2|The captain...!
+3|It's Captain Roger!
+4|They're back!
+5|They're flashily back!
+6|Captain!
+7|When Roger returned from Laugh Tale, Redtaro asked him something...
+8|and broke into tears.
+9|The birth of the King of the Pirates caused quite a stir the world over...
+10|and the Marines began to take drastic measures.
+11|"Wealth, fame, power...
+12|The man who attained everything...
+13|The King of the Pirates, Gold Roger"!
+14|It should be Gol D. Roger!
+15|But "King of the Pirates" has a pretty nice ring to it.
+16|Now I understand why the World Government would want to cover up your name.
+17|The world referred to everything that Roger had obtained...
+18|as the great treasure One Piece!
+19|They don't know anything!
+20|But your notoriety has everyone after you, Roger!
+21|Take down Roger!
+22|Find Roger!
+23|Plunder his treasure!
+24|Gold Roger has everything!
+25|Looking back, it's all been miraculous.
+26|With such a limited life expectancy, I can't believe I made it this far.
+27|I have nothing but gratitude to you guys!
+28|Whoa, whoa, whoa, whoa!
+29|Why are you speaking all proper outta nowhere, Captain?!
+30|Don't make me blush, dummy!
+31|Dummy!
+32|Then I'll just say it!
+33|Lay it on us!
+34|We're ready!
+35|I am hereby disbanding the Roger Pirates!
+36|The birth is at hand...
+37|Our ruler will be born...
+38|Another will be born in a distant sea...
+39|Even the whales are happily anticipating the day the two rulers shall meet again...
+40|We have been waiting for so long, too...
+41|Very soon...
+42|I'm sure it will go well this time...
+43|Ten until the birth.
+44|Another fifteen to grow.
+45|Who are you?!
+46|How can you talk so deep under the sea?!
+47|Hey, Sharley, when will the Mermaid Princess be born?
+48|Ten!
+49|That voice...
+50|Voice?!
+51|I'm sure it was telling the truth.
+52|Someone will be born.
+53|And...
+54|that person will surpass us...
+55|We were just too early...
+56|The One Piece, huh?
+57|I wonder who will find it.
+58|That'll be my son, of course.
+59|You don't have a son.
+60|I'm gonna have one eventually!
+61|Alright! Let's drink!
+62|We'll sail to a sea with no Marines!
+63|I'll be the first off the ship!
+64|– Yeah! – Yeah!
+65|Men! Take Oden home next!
+66|– Yeah! – Yeah!
+67|Of course!
+68|Oh, yeah, Oden!
+69|I'm thinking about meeting Whitebeard before I die.
+70|Do you want him to send Izo back to Wano, too?
+71|No...
+72|His place is with that crew now.
+73|Tell him to take care of Whitekichi.
+74|Alright, I will.
+75|After some words to Rayleigh...
+76|Roger's first mate, a man known as the Dark King...
+77|Roger left the ship.
+78|He received a bundle of medicine from the ship's doctor, Crocus.
+79|His illness was in its final stages...
+80|But this was a man's farewell, so not a single tear was shed.
+81|Members of the Pirate King's crew...
+82|would never cry!
+83|It still blows my mind!
+84|So many wrecked ships that couldn't reach the country...
+85|Yeah...
+86|If you veer into the wrong current,
+87|your ship will be destroyed before even getting close to Wano.
+88|This isolation policy once served a purpose.
+89|But we must open these borders before the day of Joyboy's arrival!
+90|Be well, guys!
+91|It is not like I was dying.
+92|So of course, we said goodbye smiling.
+93|Because we knew we would see each other again some day!
+94|Oden!
+95|I missed you!
+96|You guys!
+97|Go, Hiyori!
+98|Toki!
+99|Momonosuke!
+100|Hiyori!
+101|I missed you all, too!
+102|You have grown so much, Momonosuke!
+103|Indeed! I am happy you are doing well, too!
+104|You even have proper manners!
+105|Welcome back!
+106|You deadbeat.
+107|And where are your manners?!
+108|You think you deserve proper manners?!
+109|Lord Oden!
+110|Lord Oden! Welcome back!
+111|Lord Oden!
+112|I'm happy for you, Lady Otoki!
+113|I still seem to be quite popular!
+114|I had neglected the country for so long.
+115|I thought they would be more critical of me...
+116|Thank your wife, Lady Toki!
+117|She is a very wonderful person...
+118|When she recovered from her illness,
+119|she came down into town and helped citizens every day.
+120|She has never acted arrogantly as a daimyo's wife.
+121|She labored with everyone and cheerfully shared the stories of your adventure.
+122|Lady Toki and your children are extremely popular in Kuri now!
+123|And they had nothing but praise for you.
+124|At some point, everyone stopped speaking ill of your selfish behavior!
+125|I see!
+126|I am grateful, everyone!
+127|It is because we really do love you! Right, children?
+128|I am jealous! I want to be loved, too!
+129|Kiku! I must tell you about Izo...
+130|Doggy and Kitty told me! I am just glad that he is well.
+131|I see!
+132|By the way, what happened to Denjiro and Ashura?
+133|I did not see them a year ago, either...
+134|Ashura is the new head of both the yakuza and the mountain bandits in Kuri.
+135|He's been keeping them in check.
+136|Denjiro is wandering about, borrowing money and paying it back.
+137|Wrangling bandits and borrowing money do not sound like comfortable lifestyles.
+138|Indeed.
+139|There is another reason that everyone is happy about your return.
+140|I will tell the story from the beginning.
+141|After you left, we worked alongside the citizens to run Kuri without its daimyo.
+142|I see. I am sure it wasn't easy.
+143|And what of my father?
+144|Our lord, the shogun–
+145|I understand!
+146|So he was unwell...
+147|What a shame that I could not be with him in his final moments.
+148|The problem is the shogun's successor!
+149|Though we do not know why, your father, Lord Sukiyaki, advocated for Orochi...
+150|Please lend me money!
+151|My confusion only grew as I listened to him.
+152|Orochi is like a little brother to me?!
+153|I only lent him money out of respect for Yasu.
+154|He never repaid even a single silver coin!
+155|I also learned that Orochi is a descendant of the Kurozumi Clan,
+156|which has a history of stirring up trouble.
+157|Apparently, Kurozumi Orochi has taken the title of shogun as my proxy.
+158|I am certain you saw them on your way here,
+159|but each region has several weapons factories and supervisors who oversee the labor.
+160|And the men of each region are forced to work there
+161|earning poverty wages by the shogun's order.
+162|Why is that?!
+163|Why does everyone listen to someone like Orochi?!
+164|That is because he has the support of a pirate named Kaido.
+165|His strength is truly monstrous!
+166|With his protection, Orochi can do as he pleases!
+167|Right! We tried to fight back, but–
+168|Enough, Kin'emon!
+169|Not another word!
+170|No, I must know what happened!
+171|Raizo!
+172|Take Lord Momonosuke and Lady Hiyori out of the room!
+173|Pardon me!
+174|About half a year ago...
+175|a man refused to work at one of the factories, so he and his family...
+176|were put to death!
+177|We could no longer stand idly by after witnessing Orochi's cruelty,
+178|so we took up arms and marched to Orochi's palace in the Flower Capital...
+179|But while we were away, Kaido's men sneaked into Kuri behind us!
+180|Because of our negligence...
+181|they attacked Lord Momonosuke, the Kozuki Clan's next heir after Lord Oden!
+182|In the end...
+183|the invasion was repelled by Kawamatsu and Inuarashi, who stayed to guard the castle.
+184|But the one who protected him from their first arrow attack...
+185|was Lady Toki, who threw herself in front of it!
+186|I am deeply sorry!
+187|Due to our reckless actions, Lady Toki's leg was seriously wounded!
+188|We put your family members' lives in danger!
+189|I am sorry!
+190|I am so sorry!
+191|Let me see, Toki.
+192|Do not worry, Oden!
+193|It is already healed!
+194|You protected our son... You did so well!
+195|How it must have hurt!
+196|Wait, Oden! We will just invite another attack if you lose your temper over something so trivial!
+197|T... T...
+198|Trivial?!
+199|Toki, dear...
+200|have you not heard the stories of my younger days?
+201|I understand the way Orochi does things!
+202|All of you! Protect my family!
+203|Oden!
+204|Protect Kuri!
+205|I may not understand all of the fine details, but one thing is for sure.
+206|A fool has taken control of Wano!
+207|A weak, cowardly fool, backed by a powerful pirate,
+208|has taken advantage of this country's isolation...
+209|and their goal...
+210|is to turn this country into hell!
+211|H-Hey!
+212|Y-Yeah!
+213|It's an emergency! Kozuki Oden is heading toward the Flower Capital!
+214|Report to Lord Orochi immediately!
+215|Lord Orochi!
+216|Was that...?!
+217|Lord Oden?!
+218|Lord Oden has returned?!
+219|He's the true heir!
+220|Is he taking the place of shogun?!
+221|Orochi's reign is finally over!
+222|Shogun Orochi! Please evacuate!
+223|What?
+224|What are you talking about?!
+225|Kozuki Oden has invaded the castle!
+226|Orochi...
+227|W-Wait a minute! Lor– I mean, O-Oden!
+228|Think twice!
+229|If you slice me up, Kaido won't just take it lying down!
+230|Think what'll happen to this country!
+231|Only after I have cut you down!
+232|I forgot...
+233|He's...
+234|He's crazy!
+235|Orochi!
+236|Don't do it!
+237|What the...?!
+238|What is this?!
+239|Is it glass?!
+240|No!
+241|Get out here, Orochi!
+242|Orochi!
+243|Do not be frightened, Lord Orochi...
+244|Trust my Barrier-Barrier technique.
+245|This barrier will prevent any approach.
+246|Your strength means nothing, Oden!
+247|That's right.
+248|If you were a pirate, you must be familiar with...
+249|the superhuman powers of the devil fruits!
+250|You have powers, then!
+251|That's right.
+252|But people in this country call it sorcery...
+253|Oden, if anger and violence were the answer,
+254|the daimyos from other regions would already have done it!
+255|No one can kill me!
+256|Orochi!
+257|I heard, for whatever reason, my father named you as a proxy shogun...
+258|until my return!
+259|And now, you will yield the throne to me!
+260|I had no intention of becoming someone so important...
+261|but I know I can at least do better than you!
+262|Well, unfortunately,
+263|those weren't actually the words of your father, Sukiyaki.
+264|What do you mean?
+265|Ah... It's good to have you back, Oden!
+266|What?! Father?!
+267|How are you alive...?
+268|All those daimyos and other idiots were suckered by...
+269|...me!
+270|She used the Clone-Clone Fruit's power to transform herself,
+271|and everyone fell for it!
+272|The whole country believed her lies and let me have the shogun's post!
+273|So...
+274|I'm under no obligation to give up my position!
+275|Now there's no way to know what the real Sukiyaki was thinking...
+276|You bastard! What did you do to my father?!
+277|Did he really die of an illness?!
+278|Lord Oden!
+279|Lord Oden!
+280|Oden!
+281|Lord Oden!
+282|While the townsfolk were gathered outside the castle
+283|to cheer for the return of the Kozuki Clan,
+284|poisoned arrows were loosed into the crowd.
+285|Two people were struck, and they vomited blood before falling blind.
+286|The other townsfolk who took shelter amidst the chaos...
+287|witnessed the terrifying sight of a dragon in the dark sky over the castle.
+288|He was an incorrigible youth, but he became Kuri's daimyo and went out to sea...
+289|and matched the strength of the world's greatest pirates...
+290|Now, he's returned home stronger than ever.
+291|The unrivaled Kozuki Oden!
+292|Don't worry. Lord Oden will save this country.
+293|Lord Oden!
+294|Lord Oden! We were waiting for you!
+295|Lord Oden!
+296|He would surely be the savior of the people and free them from this tyrannical rule...
+297|Lord Oden...?
+298|Lord Oden?
+299|But a few hours later, Kozuki Oden...
+300|had stripped down to his loincloth in front of Shogun Orochi's castle...
+301|and began acting the fool.
+302|Orochi and Kaido's underlings laughed at him.
+303|♪ One, two, three... ♪
+304|After groveling in the dirt and earning a pitiful amount of money, the big man went home.
+305|The return of Kozuki Oden, Wano's true heir,
+306|was the nation's last hope, so to speak.
+307|But the people's hopes were dashed, and they were sorely disappointed.
+308|Over time, they became enraged by his actions.
+309|♪ – It's Kuri's foolish lord, Kozuki Oden! ♪ ♪ – It's Kuri's foolish lord, Kozuki Oden! ♪
+310|♪ – The serpent's gaze left him petrified in fear! ♪ ♪ – The serpent's gaze left him petrified in fear! ♪
+311|♪ – You lose even if you sneer! ♪ ♪ – You lose even if you sneer! ♪
+312|♪ – Let's go, then! ♪ ♪ – Let's go, then! ♪
+313|Oden showed up in the capital once a week,
+314|and made a fool of himself in front of the castle for a pittance.
+315|Even on rainy days.
+316|Or windy days.
+317|Or snowy days.
+318|We are begging you, Lord Oden!
+319|Please tell us the truth!
+320|What did you discuss with Orochi?!
+321|Why are you doing this?!
+322|Even your most loyal followers in Kuri have given up on you.
+323|Every week, I dance in my underwear to earn money.
+324|That is my job!
+325|Word of his antics in the capital had also reached Kuri.
+326|♪ Daikon, ganmo, chikuwa, and eggs! ♪
+327|♪ Konnyaku, chikuwabu, hanpen, and potatoes! ♪
+328|Oh, don't forget shirataki noodles, too!
+329|Don't grow up to be like him!
+330|He's pathetic!
+331|A real samurai would commit seppuku before becoming Orochi's dog!
+332|♪ Konbu, important! Life, important! ♪
+333|♪ The stock decides the flavor of the broth! ♪
+334|A year later...
+335|after receiving a foreign newspaper from Shogun Orochi, Oden...
+336|ran along the seacoast, cried out loud, then, laughed... and cried again...
+337|Roger!
+338|Twenty-four years before the present day...
+339|the world was sent into a frenzy at the execution of Pirate King Gold Roger.
+340|Eager to obtain the enormous wealth and the great treasure One Piece he left behind,
+341|all sorts of people took to the sea.
+342|That was the beginning of the Great Pirate Era.
+343|Roger!
+344|You were incredible!
+345|Your whole life was incredible!
+346|Two years after Oden's return to Wano,
+347|a battle between the Gecko Pirates and the Beast Pirates broke out in Ringo.
+348|Their captains, Gecko Moria and Kaido, clashed.
+349|Go to hell!
+350|At the same time...
+351|the grave of Ryuma, God of the Blade, was vandalized.
+352|And even under these circumstances...
+353|♪ Oh, daikon, ganmo! ♪
+354|Oden continued his weekly dance in the Flower Capital.
+355|I wanna dance, too!
+356|Cut it out.
+357|♪ The stock decides the flavor of the broth! ♪
+358|♪ Oden was meant... ♪
+359|♪ to boil! ♪
+360|It's that fool of a lord again.
+361|I feel sorry for the people of Kuri.
+362|The foolish lord of Kuri, huh?
+363|He's undeserving of even being called a lord.
+364|Hey, wait, Hiyori!
+365|No!
+366|I said wait!
+367|I finally made my family targets of scorn...
+368|Father!
+369|I love your dance!
+370|As do I!
+371|Toki...
+372|Yes?
+373|Do you want to leave me?
+374|Is that a joke, or are you trying to make me mad?
+375|The foolish lord of Kuri.
+376|All of Wano called him so,
+377|and only his family, retainers, and a few supporters would speak with him.
+378|Are you all still content with serving as my retainers?
+379|Where else would we be?
+380|We have seen Lord Oden's naked dance since the olden days.
+381|Yeah! It's meowthing new!
+382|You wanna see Boss Hyogoro?!
+383|Whoa, whoa!
+384|Stay away from him, you fool of a lord!
+385|Stop it!
+386|– Ouch! – Ouch!
+387|Don't get cocky! Stand aside!
+388|Ma'am!
+389|Got it!
+390|My lady!
+391|My apologies.
+392|Now come in and have some tea!
+393|Hyo! Oden's here!
+394|Orochi won't leave me alone!
+395|Who would wanna serve a guy like that?
+396|At least stay away from danger, Hyo!
+397|I saw you the other day.
+398|Oden, you're getting better at dancing.
+399|Oh please, my lady!
+400|Come on. Have another cup!
+401|Three years pass.
+402|♪ Oh, daikon, ganmo... ♪
+403|♪ chikuwa and eggs! ♪
+404|Look, he's here again this week.
+405|In this snow? He's a helpless fool of a lord.
+406|♪ One, two, three, go ahead and eat! ♪
+407|The snow is killing me...
+408|Shame on you!
+409|You're disgusting!
+410|So annoying.
+411|Go away!
+412|Four years passed in the blink of an eye, but nothing changed in Wano.
+413|In the fifth year, Orochi made a move.
+414|It's the shogun! Shogun Orochi!
+415|It's been a while, Oden.
+416|I'd like to build several weapons factories here.
+417|I need your cooperation, Oden.
+418|Well, Shogun, what about the ship?
+419|About the promise you and Kaido made–
+420|What are you talking about?!
+421|Forcing everyone here to labor in these factories day in and day out...
+422|would certainly improve productivity!
+423|Right?!
+424|We'll make Wano...
+425|a weapons manufacturing hub!
+426|P-Please wait!
+427|Oh, yeah, by the way...
+428|Hyogoro was too much for me to handle...
+429|so I left him to Kaido.
+430|What?!
+431|I wanted to have the ruler of Wano's underworld under my thumb, but I gave up.
+432|Well, he'll probably die soon.
+433|Annoyingly enough, his men tried to stop us.
+434|Give us back our boss!
+435|So it took more effort than we expected.
+436|Oh, yeah.
+437|Speaking of which, remember Hyogoro's old bag of a wife?!
+438|I heard she screamed and threw herself on them, too!
+439|My men shot her to death!
+440|No!
+441|Stop it!
+442|Don't take him away!
+443|Hyo...
+444|You'd think that the wife of a yakuza boss would know better!
+445|By the way, your children...
+446|Momonosuke and Hiyori...
+447|How old are they now?
+448|Children are cute, huh?
+449|They must be absolutely precious now.
+450|Take good care of them.
+451|I leave the construction of the factories to you!
+452|As his family and retainers had expected,
+453|this great samurai has shouldered a great burden all alone for five long years.
+454|Orochi...
+455|and Kaido...
+456|We shall end them!
+457|We have been waiting for you to say that all this time!
+458|Let us go to his island!
+459|While he sleeps off a night of drinking, we shall take his head!
+460|You are about to witness...
+461|Kozuki Oden's greatest uproar, for which all of Wano wept.
+462|He stood with his nine samurai, whom he had taken under his wing.
+463|It was twilight.
+464|The bright red sun lit up their backs like flames as they marched.
+465|Even the swords at their waists displayed fiery souls.
+466|The people later honored their intense loyalty,
+467|and called them the Nine Red Scabbards.
+468|My jump is far higher than yours!
+469|No, mine is higher!
+470|Their enemy was Kaido. With only one target in mind, they marched.
+471|But this is sadly a thing of the past.
+472|What awaits them is Kozuki Oden's public execution.
+473|Until the Hour of Legend that would be retold for generations...
+474|please do not blink as you witness this spectacle!
+475|Off the Coast of Wano
+476|Kurozumi Semimaru A Biwa-Playing Priest
+477|Kurozumi Higurashi An Old Woman
+478|Hakumai
+479|Oden Castle Kuri

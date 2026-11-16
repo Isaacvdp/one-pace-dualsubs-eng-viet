@@ -1,0 +1,426 @@
+1|I wish to explore the world! It is my dream!
+2|Take me to sea with you!
+3|We shall leave right away!
+4|– Absolutely not! – Absolutely not!
+5|Be quiet!
+6|I wish to leave this restrictive land!
+7|I want to see a world that is free!
+8|Please! Allow me to accompany you!
+9|Lord Oden! Raise your head!
+10|Why, you...! Weren't you just trying to kill our captain?!
+11|I implore you!
+12|Enough of this! This man is a pirate!
+13|He is scum!
+14|Leave this country immediately!
+15|I couldn't even if I wanted to.
+16|We’re marooned. The trip here wrecked our ship.
+17|What a pity!
+18|Let us repair it right awa–
+19|Curses!
+20|If you remain here, Lord Oden will...
+21|Repair it and be on your way!
+22|Yeah, I intend to do just that.
+23|Alright!
+24|Hey! Carry that there!
+25|Hey!
+26|You-gara guys!
+27|Time to chow down!
+28|Go on! Dig in!
+29|That looks good!
+30|I have never tasted anything like this!
+31|This is the taste of a foreign country!
+32|It's alcohol made from grapes.
+33|There is so much out there for me to discover, right?!
+34|Take me to sea with you!
+35|Show me the unknown wonders of this world!
+36|Huh?
+37|You're not the type to serve under someone!
+38|If you were to come aboard...
+39|When selfish people like you band together...
+40|what will become of that team?
+41|Too hot!
+42|I learned the hard way with my last crew.
+43|You can get your own ship.
+44|If I could, I would have done so already!
+45|My dozens of attempts to set sail ended in failure!
+46|I do not possess any sailing skills!
+47|Then give it up and do your job as a daimyo!
+48|This country is so restrictive!
+49|I cannot abide it! Take me with you!
+50|Whitebeard!
+51|Wano's laws strictly prohibit its citizens from leaving!
+52|With his current status as daimyo of Kuri,
+53|it would be inexcusable if Lord Oden broke that taboo.
+54|Do not tell him that!
+55|Good to know!
+56|We're on the same page then!
+57|I have no intention of taking him!
+58|I care not for this country's laws!
+59|Kuri needs Lord Oden. Rather, all of Wano needs him to remain!
+60|Hold your tongue, Kin'emon!
+61|Let me aboard your ship, Whitebeard!
+62|No!
+63|I will go out to sea!
+64|This country is so restrictive! I do not wish to go home!
+65|Untie me!
+66|Stop it!
+67|Open up!
+68|I will not relent!
+69|Wait for me!
+70|Whitebeard!
+71|Only five islands in the whole world?!
+72|You're way off!
+73|– What?! – What?!
+74|There're at least 10 or 20 million!
+75|– What?! – What?!
+76|Don't you know anything?
+77|That's why adventures are fun! They ignite your imagination!
+78|The world is big!
+79|No one can count how many islands there are!
+80|Going somewhere?
+81|Izo!
+82|Where are you off to, Lord Oden?
+83|You startled me!
+84|Still, I insist you answer.
+85|I will relieve myself whenever I want!
+86|Am I not the daimyo?
+87|I beg your pardon.
+88|The night can be cold.
+89|I am close to bursting...
+90|I feel bad about sneaking out on Oden in the dead of night.
+91|His strength alone would have made him quite the asset.
+92|And Pops seemed pretty fond of him...
+93|Huh?! What are you talking about?!
+94|Don't play dumb!
+95|Even if I took a liking to him,
+96|it would've been like kidnapping royalty...
+97|There'd have been hell to pay.
+98|Did you leave the treasure chest as thanks?
+99|They gave us a lot of food and timber.
+100|Wait, what the hell?!
+101|I knew you would do this...
+102|Whitebeard!
+103|Oden?!
+104|Let me aboard the ship!
+105|Lord Oden! I knew you would do this!
+106|I will not allow it!
+107|That idiot!
+108|Let me come!
+109|Show me the world!
+110|We must return!
+111|You are the next shogun!
+112|He's a wild one!
+113|Been nice knowin' ya, Oden!
+114|Give it up and go home.
+115|Wait, Marco!
+116|What?!
+117|Bring in the one who came after him!
+118|What a pain...
+119|The rest of you, grab hold of something!
+120|This is no time to worry about others!
+121|We're about to go over the falls!
+122|Oh no!
+123|It cannot be!
+124|Lord Oden is gone!
+125|Whitebeard's ship left the port, too!
+126|I was afraid of this!
+127|My big brother is gone! So are Doggy and Kitty!
+128|Do not cry, Okiku!
+129|We should look for them before we assume the worst.
+130|Okay?
+131|Okay...
+132|Look everywhere!
+133|Turn the whole country upside down!
+134|Hey, Whitebeard!
+135|Pull in Lord Oden before he dies!
+136|Wano's future rests on his shoulders!
+137|Didn't you see how many times I turned him down, boy?
+138|He still chose to leave the country!
+139|Now we're gonna handle things our way.
+140|Damn it!
+141|Please!
+142|I can't just take in a dangerous guy like him and put my family in jeopardy.
+143|If you want to stop this, you need to convince him.
+144|Listen, Oden!
+145|Three days!
+146|If you can hang onto that chain for three days, I'll welcome you on board!
+147|Do you swear, Whitebeard?!
+148|Yeah! I swear!
+149|Is Oden still there?
+150|He is...
+151|But he doesn't look good.
+152|The water and collisions have swollen his face beyond recognition!
+153|He looks like he's gonna burst!
+154|Only one hour to go!
+155|Hang in there, Oden!
+156|Hey, why're you cheering him on?!
+157|Because he'll be one of us if he pulls this off, right?
+158|Oden's gonna be our crewmate!
+159|Oden...
+160|will become our crewmate?
+161|Hang tough, Oden!
+162|Go for it, Oden!
+163|– You got this! – You got this!
+164|Don't give up, Oden!
+165|Hang in there!
+166|Those clowns...
+167|I will never forgive you for subjecting my lord to this, Whitebeard!
+168|Oden, keep it up!
+169|Just a little longer!
+170|Oden!
+171|Oden!
+172|Lord Oden!
+173|Let go!
+174|Unhand me!
+175|She's gorgeous!
+176|Classy too!
+177|Why are you running, baby?!
+178|I thought you wanted us to sail you to Wano!
+179|Just come with us.
+180|We're not gonna hurt you!
+181|I know that.
+182|That is a slave ship!
+183|If you hurt me, my price will go down!
+184|I cannot believe I was fooled by you evil-looking miscreants!
+185|How naive of me!
+186|There's nothin' but sea behind you!
+187|You've got nowhere left to run!
+188|Just give up!
+189|Wrong! There is one place I can run!
+190|The only place you're going is back to our ship!
+191|We'll show you a good time!
+192|This is it.
+193|I will jump to the future once again.
+194|What?!
+195|Wh-Wh-What the hell is that?!
+196|It's a sea monster!
+197|I heard a woman's voice screaming for help.
+198|A monster?!
+199|Are you all right?!
+200|What?!
+201|You are uninjured, yes?
+202|You are... safe...?
+203|What? Oh, yes, I am.
+204|Does that mean...
+205|you came to rescue me?!
+206|Indeed...!
+207|You are all right... Thank goodness...!
+208|A-A-Are you all right?!
+209|Stay with me!
+210|Please stay with me!
+211|Oden's gone!
+212|Where'd he go?!
+213|Damn!
+214|There were only a few minutes to go!
+215|It's a shame he couldn't take it any longer.
+216|You really put him through hell, Pops!
+217|He did his best!
+218|Why couldn't you cut him some slack?!
+219|Lord Oden! Lord Oden!
+220|Hey, stop!
+221|Calm down!
+222|Get off me!
+223|Lord Oden! Lord Oden!
+224|He is recovering so fast!
+225|I did not even realize he was human before.
+226|Wow! Looks like I failed to join Whitebeard's crew!
+227|I thought as long as I was on board, I could visit many lands,
+228|but no matter!
+229|But instead, I was able to set foot on a foreign island for the first time!
+230|I did it!
+231|Look at him.
+232|He seems happy!
+233|I finally got out of Wano!
+234|My adventure has begun!
+235|All right!
+236|Stop jumping around like that!
+237|You are still recovering!
+238|Miss! You took care of me?
+239|Oh, yes!
+240|Thank you so much!
+241|Not at all!
+242|You saved me first, after all!
+243|Thank you very much!
+244|Is that so? I am relieved that you are okay.
+245|That aside, did you mention that you came from Wano?
+246|Yeah, you heard right.
+247|Now that you mention it,
+248|I traveled all this way to a foreign land, but look at that outfit of yours!
+249|I was hoping to see some exotic garments out here!
+250|In truth, I have always wanted to visit Wano since I was little!
+251|Could you take me back there with you?!
+252|Oh... Um...
+253|Oh, well...
+254|He looks annoyed...
+255|There she is!
+256|We're counting on you, Captain Karma!
+257|Six arms?!
+258|How interesting!
+259|You do not see people like this back in Wano!
+260|Hey, where's the monster you guys saw?!
+261|What? I-It's gotta be here.
+262|Did it vanish into thin air?!
+263|Where could a sea monster like that go?!
+264|So you all have returned?!
+265|Who the hell are you?!
+266|Wh-Why're you actin' like you know us?!
+267|What are you talking about?!
+268|I see! You hired a bodyguard!
+269|Classy women fetch high prices!
+270|We'll sell the both of you!
+271|We must run!
+272|There are too many of them!
+273|This is my first fight overseas.
+274|It's the Whitebeard Pirates!
+275|This man, Karma, would eventually become an ally of the Whitebeard Pirates,
+276|and fight alongside them in the Summit War.
+277|Come aboard, Oden!
+278|What?
+279|But I let go of the chain!
+280|You abandoned your dream to answer a woman's cry for help?
+281|You're quite the softy.
+282|Come on! Let's go!
+283|We're about to have a grand adventure beyond your wildest dreams,
+284|Little Brother!
+285|Are you sure, Whitekichi?!
+286|Whitekichi?!
+287|Off we go!
+288|Oden!
+289|I'm glad you're okay!
+290|Good to see you again!
+291|We're happy to have you!
+292|Thank you all!
+293|Pops gave you a pretty rough time!
+294|You can say that again!
+295|Absolutely!
+296|Y-You numbskulls!
+297|L-Lord Oden!
+298|I am glad to see you survived!
+299|Indeed! As you see, I am fine!
+300|– Lord Oden! – Lord Oden!
+301|Inuarashi?! Nekomamushi?!
+302|What are you doing here?!
+303|We figured you-gara would find a way to set sail, so we stowed away!
+304|Where you-gara go, we will follow!
+305|Stowaways!
+306|Didn't you say you'd never forgive me?
+307|Are you going to throw me into the sea for that?
+308|Only if I feel like it.
+309|Girl!
+310|What's your name?
+311|Oh, yes!
+312|My name is Toki!
+313|Um...
+314|I want to go to Wano!
+315|He looks annoyed!
+316|I-I would do anything! So please! Let me stay on board this ship!
+317|Do as you like!
+318|I intend to chronicle everything I see and hear on this trip in my logbook.
+319|Enemy ship!
+320|Prepare for battle!
+321|Here we go! Here we go!
+322|Hey, wait!
+323|Stop!
+324|– Oden! – Oden!
+325|How was that?!
+326|I sank them!
+327|You idiot! What are you doing?!
+328|How can you call yourself a pirate?!
+329|We didn't have a chance to plunder it!
+330|Things I have never experienced before...
+331|What is this place?!
+332|Buildings I have never seen!
+333|Trees that jiggle like jelly!
+334|Oden, wait!
+335|We need to assess the place!
+336|This world I have never seen...
+337|I-Is that...?!
+338|– Oden! – Oden!
+339|A chill I have never experienced...
+340|A heat I have never experienced...
+341|– Oden! – Oden!
+342|Are you okay?!
+343|Hot!
+344|This is an adventure! An adventure!
+345|Strange plants...
+346|Strange animals...
+347|Giant humans...
+348|So big!
+349|Stand back!
+350|All right!
+351|Overwhelming strength...
+352|And ideas...
+353|Each day is unlike the one before and opens my eyes in new ways!
+354|Everything is beyond my imagination!
+355|I am but a tiny piece of the world!
+356|My age?
+357|I am 26, but I was born about 800 years ago.
+358|Born 800 years ago? You're a ridiculously old hag!
+359|Truly, anything is possible.
+360|The world is big, and nothing is out of the question!
+361|This world consists entirely of four seas and a band of ocean.
+362|And I heard that the world is round like a rice ball!
+363|How intriguing!
+364|Are you enjoying the voyage, Toki?
+365|Very much so.
+366|I want to see more of the world!
+367|Really? I am pleased to hear it!
+368|Is that a map?
+369|Yes!
+370|Wano is tiny compared to the rest of the world!
+371|Where were you born, Toki?
+372|I never found out.
+373|All I know is my parents were from Wano.
+374|That is why Wano is the only place I want to go...
+375|But this ship will likely not return there for some time.
+376|I am sorry.
+377|Please, do not be! You have made it so much fun!
+378|When I am with you, I feel like I am right where I want to be!
+379|I wonder why...
+380|I do not know why either...
+381|How strange...
+382|Yes, it is strange!
+383|Hey!
+384|Have you seen Lord Oden?
+385|Over there?
+386|Curiosity killed the cat!
+387|Even Whitebeard has a sworn enemy...
+388|It's the Marines!
+389|Retreat!
+390|Why did we flee?!
+391|They looked strong!
+392|We should have fought!
+393|They're the Marines!
+394|It's a big organization.
+395|Taking them down today would just invite more to come after us.
+396|So this organization runs the affairs of the whole world?!
+397|What might they must possess!
+398|Wait till you've seen more of the world before you judge their might.
+399|Your country is still free, after all!
+400|Nothing in today's paper either.
+401|Another story about Whitebeard?!
+402|But we're causing trouble, too!
+403|Hey! I'm not done reading!
+404|Anyway, Whitebeard's got that crazy samurai from Wano always running amok.
+405|– Captain! – Captain!
+406|A samurai from an isolated country...
+407|I hope our paths cross!
+408|Two Weeks Later
+409|Wano
+410|Amatsuki Toki
+411|Amatsuki Toki
+412|A Certain Nearby Island
+413|A Certain Nearby Island
+414|The Next Day
+415|The Next Day
+416|Captain Karma Cephaloctopus Pirates
+417|Captain Karma Cephaloctopus Pirates
+418|South Blue
+419|East Blue
+420|West Blue
+421|West Blue
+422|North
+423|In Another Sea
+424|In Another Sea
+425|Gold Roger A Great Pirate
+426|Gold Roger A Great Pirate

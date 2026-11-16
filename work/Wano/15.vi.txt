@@ -1,0 +1,476 @@
+1|Các người cũng không muốn mở cửa đất nước, đúng không?
+2|Phải không?
+3|Vì để chống lại hải tặc, các người lại mua vũ khí từ hải tặc.
+4|Các người không thấy kỳ lạ sao?
+5|Hửm?!
+6|Giờ tên môi giới Doflamingo, hay còn gọi là Joker, đã biến mất,
+7|các người chẳng còn cách nào ngoài giao dịch thẳng với bọn ta.
+8|Ta biết các người đang bí đường, nên lợi thế thuộc về ta...
+9|Vậy mà yêu sách của ngươi đã vô lý rồi.
+10|Nghe này, Wano hoàn toàn tự cung tự cấp!
+11|Ai ở đây cũng có vẻ hạnh phúc, đúng không?
+12|Nếu có thứ gì cần, thì đó là sức mạnh lớn hơn!
+13|Lần này, ta chỉ xin một chiến hạm thôi...
+14|Lần sau, ta sẽ đòi Tiến sĩ Vegapunk!
+15|Điều đó là bất khả thi!
+16|Ta đâu có hỏi có khả thi hay không!
+17|Thiên Long Nhân? Hải Quân?
+18|Các người biết bọn ta không sợ chúng mà, đúng không?
+19|Dù các người có liên minh cũng không hạ nổi bọn ta.
+20|Dù gì ta cũng có Kaido chống lưng!
+21|Hoa khôi Komurasaki đang diễu hành!
+22|Ồ, Komurasaki-sama!
+23|Nhìn bên này đi, hoa khôi!
+24|Xin lỗi, em đến trễ!
+25|Em lo cho chị quá.
+26|Xin chị tha lỗi, chị cả!
+27|Giờ thì, đi làm việc đi.
+28|Vâng ạ!
+29|Komurasaki-sama đến rồi!
+30|Đoàn diễu hành của hoa khôi!
+31|Chưa tới sao?!
+32|Đông người quá.
+33|Không biết nàng đẹp đến mức nào!
+34|Mau lên nào, Komurasaki yêu dấu của tôi!
+35|Con đàn bà xảo quyệt đó...
+36|...Komurasaki!
+37|Komurasaki!
+38|Komurasaki...!
+39|Hình như bọn họ đang kiếm chuyện!
+40|N-Này!
+41|Tao phải...
+42|giết con khốn đó!
+43|Tao sẽ bị đuổi khỏi thành...
+44|Hết rồi!
+45|Nếu tao phải chết,
+46|tao sẽ kéo nó theo!
+47|Tránh xa hoa khôi ra!
+48|Komurasaki...
+49|Em muốn ở bên chàng mãi mãi, người yêu của em...
+50|Hả?
+51|V-Với một lão già như tôi sao?!
+52|Nếu em phải sống làm con rối của Tướng quân Orochi...
+53|Em thà chàng chuộc thân cho em...
+54|Than ôi, giá của tự do của em quá đắt đỏ,
+55|đó chỉ là giấc mơ không thể thành...
+56|Hãy tưởng tượng nếu Tướng quân Orochi nghe được cuộc trò chuyện này.
+57|Đừng lo, em yêu!
+58|Nếu đó là mong muốn của em,
+59|Bingo này sẽ biến nó thành sự thật!
+60|Thật sao?
+61|Em rất vui khi nghe vậy, dù chàng không nghiêm túc.
+62|Ngươi không đủ tiền trả lại cho ta à?!
+63|Tôi xin lỗi!
+64|Ngươi coi ta là đồ ngốc à?!
+65|Ngươi nghĩ khóc là xong sao?!
+66|Ta sẽ lấy nhà ngươi làm tài sản thế chấp!
+67|Đây, Komurasaki.
+68|Tôi chưa từng thấy nhiều tiền thế này!
+69|Komurasaki, đây là tiền ứng trước để chuộc em ra khỏi lầu xanh.
+70|Vẫn chưa đủ, nhưng ta muốn em giữ lấy.
+71|Vậy, để em ghi vào sổ.
+72|Không cần đâu!
+73|Chỉ kẻ ngốc mới nghi ngờ người phụ nữ mình yêu.
+74|Lời của em là đủ với ta rồi.
+75|Bingo-sama...
+76|Em nóng lòng chờ khoảnh khắc chàng đưa em đi.
+77|Đừng khóc.
+78|Không sao đâu!
+79|Ta sẽ lo việc tang lễ.
+80|Ta cũng cho ngươi vay thêm tiền cho việc đó và chi phí sinh hoạt.
+81|Đừng khóc nữa!
+82|Ngươi phải trả ta gấp đôi!
+83|Tại ngươi quá ngây thơ thôi!
+84|Tiền của ngươi đây!
+85|Oa! Nhiều quá!
+86|Nhưng mà...
+87|Có chuyện gì vậy?
+88|Sự thật là, gần đây có người khác cũng ngỏ ý chuộc thân cho em...
+89|Cái gì?!
+90|Mình phải nhanh lên!
+91|Mình cần thêm thật nhiều tiền để chuộc nàng... Còn gì để bán không nhỉ?
+92|Tôi đã bán kho hàng rồi, Komurasaki!
+93|Em biết ơn chàng lắm...
+94|Đủ rồi đấy!
+95|Tôi chán ông lắm rồi!
+96|Tôi về nhà bố mẹ đẻ đây!
+97|Muốn làm gì thì làm!
+98|Tôi tới đây, Komurasaki!
+99|Tôi còn bỏ cả gia đình rồi!
+100|Ôi không, chàng phải nghĩ đến sức khỏe chứ...
+101|Thuốc thang chỉ phí tiền.
+102|Tôi không sao đâu.
+103|Khi đạt được điều mình muốn, tôi sẽ là người hạnh phúc nhất thế gian.
+104|Tôi thừa nhận đêm nào tôi cũng mơ về cuộc sống bên em...
+105|Ôi... Komurasaki!
+106|Tôi gom được nốt phần cuối rồi...
+107|Có thể tôi không còn nhà, nhưng chúng ta sẽ tự do bắt đầu cuộc sống mới bên nhau!
+108|Tôi có 500 vàng cuối cùng đây.
+109|Với số này, tôi chuộc được em rồi, Komurasaki!
+110|Hả?
+111|Xin lỗi. Hôm nay hoa khôi bị bệnh...
+112|Ôi không!
+113|Nhớ đưa cái này cho nàng. Lát nữa tôi quay lại...
+114|Komurasaki!
+115|Tôi đến để giải thoát em khỏi lầu xanh! Về sống với tôi đi!
+116|Ông ta mắc bẫy thật rồi!
+117|Giỏi lắm, lão già dê!
+118|Này, các cậu!
+119|Đừng cười nữa, gọi Komurasaki ra cho tôi.
+120|Nàng sẽ sống hạnh phúc mãi mãi với tôi!
+121|Đồ ngu! Mơ đi!
+122|Ông có đủ tiền để chuộc nàng sao?
+123|Tất nhiên! Komurasaki đang giữ rồi! Tôi nhờ nàng giữ giùm!
+124|Ôi chao... Là ông Bingo.
+125|Ôi, Komurasaki! Xin em nói rõ đi!
+126|Bọn họ cứ nói bậy, hoàn toàn không biết tình yêu của chúng ta!
+127|Ồ?
+128|Chính ông đưa tiền đó cho em, phải không?
+129|Cái gì?!
+130|Em tiêu hết sạch rồi.
+131|Nhưng cảm ơn ông.
+132|Lão già này thật sự tưởng Komurasaki yêu lão!
+133|Lão già hôi hám này là sao?
+134|Cái gì?
+135|Komurasaki...
+136|B-Ông chủ Kyoshiro!
+137|Vậy...
+138|ông là lão già lẩn quẩn bên Komurasaki dạo này...
+139|Lẩn quẩn ư...? X-Xin để tôi giải thích!
+140|Komurasaki, đây là trò đùa, đúng không?
+141|Tôi thật sự đã hy sinh tất cả những gì mình có!
+142|Tôi chẳng còn gì cả!
+143|Tôi đã từ bỏ tất cả vì em!
+144|Thế thì...
+145|Đây là tên khờ thứ mấy rồi nhỉ?
+146|Không thể để ông khóc lóc ở đây cản trở việc làm ăn, lão già.
+147|Nếu xong rồi thì cút đi!
+148|Lão già dâm đãng!
+149|Dừng lại!
+150|Dừng lại...!
+151|Tôi đi! Tôi đi đây!
+152|Tôi đi, nên dừng lại đi!
+153|Komurasaki...!
+154|Hoa khôi Komurasaki...
+155|đang diễu hành!
+156|– Komurasaki-sama! – Komurasaki-sama!
+157|Nàng lộng lẫy quá!
+158|Nàng đẹp tuyệt trần!
+159|Ôi, nàng đẹp quá...!
+160|Nàng rực rỡ! Chói cả mắt!
+161|Komurasaki!
+162|Tôi đã bán nhà, bán gia đình, bán mọi thứ!
+163|Trả lại tiền cho tôi, đồ ăn trộm!
+164|Đòi lại quà tặng sao?
+165|Thật đáng thương...
+166|Với ta, đàn ông chỉ là những con chó đi tha tiền về.
+167|Nếu không làm được nữa, các người với ta là đã chết.
+168|Các quý ông, dừng ở đây thôi!
+169|Nếu ví đã rỗng thì cút đi!
+170|Kẻ không làm ra của cải thì không có chỗ ở Hoa Đô.
+171|Nhân danh Tướng quân Orochi, bọn ta sẽ đuổi ngươi khỏi thành!
+172|Xin đừng!
+173|Điều kiện bên ngoài thành thật vô nhân đạo!
+174|Chết tiệt! Xuống địa ngục đi!
+175|Komurasaki!
+176|Ta chỉ có khinh miệt...
+177|dành cho kẻ nghèo.
+178|Mở cổng ra!
+179|Hoa khôi Komurasaki đã đến!
+180|Vậy cậu có em gái nhỏ à, Momo?
+181|Này, Tama!
+182|Thật vô lễ khi gọi ta suồng sã vậy! Ngươi nghĩ ta là ai?!
+183|Cậu là Momo.
+184|Thôi bỏ đi.
+185|Ừ, ta có một đứa em gái.
+186|Nếu con bé còn sống thì nay đã hai mươi sáu tuổi.
+187|Có người chứng kiến mẹ ta chết, nhưng không ai xác nhận Hiyori đã chết hay chưa.
+188|Nên ta tin rằng con bé vẫn còn ở đâu đó!
+189|Mong cậu sẽ gặp lại em ấy.
+190|Ta thì không!
+191|Nếu thân phận con bé bị lộ, Orochi sẽ nhắm vào nó!
+192|Bọn ta chỉ đoàn tụ khi trận chiến đã thắng!
+193|Ngươi tưởng có thể đi làm trễ chỉ vì một hoa khôi xinh đẹp à, Franko?!
+194|Không, thưa sư phụ!
+195|Con xin lỗi!
+196|Ý con là, khó tin là lại có người đẹp đến vậy!
+197|Ta hiểu cảm giác của ngươi!
+198|Nhưng ngươi biết ta phải giữ danh tiếng mà, đồ ngốc!
+199|Vâng! Con xin lỗi!
+200|Con không hề có ý làm ô danh Minatomo, bậc thầy thợ mộc huyền thoại!
+201|Vì ngươi làm việc gấp mười lần người khác,
+202|nên ta cũng không phiền nếu thỉnh thoảng ngươi trốn việc.
+203|Nếu thầy cho con xem bản vẽ pháo đài Onigashima mà thầy đã xây,
+204|con sẽ làm gấp mười–
+205|Không! Gấp một trăm lần việc!
+206|À, phải rồi.
+207|Về mấy bản vẽ dinh thự Onigashima mà ngươi cứ hỏi ta...
+208|Về mấy cái đó... Ừm...
+209|À, đây chỉ là giấy lau thôi.
+210|Thôi nào!
+211|Về mấy cái đó...
+212|Ta vừa nhớ ra...
+213|Ta đã cầm chúng cách đây khoảng mười năm rồi!
+214|Ngươi nghĩ tại sao tao làm việc cho ông suốt mấy tuần nay hả?!
+215|Ái! Chết tiệt, dừng lại đi, Franko!
+216|Ngươi tấn công thầy mình! Ngươi nghĩ ngươi là ai?!
+217|Đồ đầu đất!
+218|Ông làm tôi phát điên!
+219|Ăn cái này đi!
+220|Franosuke Rocket Launcher!
+221|Ngươi bị đuổi! Cút đi, đồ ngu!
+222|Sẵn lòng! Dù sao tôi cũng hết việc ở đây rồi!
+223|Bản vẽ cầm từ mười năm trước ư?
+224|Hiếm khi bọn tôi nhận những thứ đó...
+225|À, có lẽ là mấy cái đó!
+226|Sao? Ông có chúng à?!
+227|Ừm, dĩ nhiên chúng đã sang tay người khác từ lâu rồi...
+228|Giờ, ai đã mua món đó nhỉ...?
+229|Ừm, là ai nhỉ...?
+230|Ừm...
+231|À, phải rồi!
+232|Là Kumagoro ở khu nhà trọ. Anh ta nói sẽ nghiên cứu chúng. Chắc chắn luôn!
+233|Ai?!
+234|Kumagoro!
+235|Bản vẽ à?
+236|À phải, tôi từng có chúng,
+237|nhưng tôi trễ tiền thuê nhà, nên chủ nhà Kobe-san lấy mất rồi.
+238|Tên đó là ai vậy?
+239|Kobe!
+240|À, bản vẽ. Chúng chất lượng cao, nên tôi đưa cho geisha tôi yêu thích.
+241|Cô Kisegawa.
+242|Cậu có biết cô ấy không?
+243|Không!
+244|Tôi không biết dùng làm gì, nên lấy làm miếng lót đĩa, rồi Tokijiro...
+245|Được rồi, mà người đó là ai?
+246|Tôi từng có chúng!
+247|Nhưng Lạc Đà bảo chúng bán được giá cao nên lấy đi!
+248|Hả? "Lạc Đà"?! Một con vật à?!
+249|Người ta gọi tôi là Lạc Đà!
+250|Trời, mấy bản vẽ đó chỉ toàn gây rắc rối cho tôi!
+251|Có gã nào đó đã cuỗm chúng đi!
+252|Hắn che mặt, nhưng nói là từ Kuri đến.
+253|Kuri?!
+254|Ừm...
+255|Ồ, xin lỗi. Đây là cá tráp.
+256|Cá tráp thường trông thế này à?
+257|Làm ăn với ông thật vui!
+258|Franosuke-san!
+259|Trông cậu có vẻ phấn khởi.
+260|Tất nhiên! Mà cậu đang bán cái quái gì vậy?
+261|Hả? À, tôi bán cá.
+262|Cậu nổi bật quá! Lũ trẻ bị cậu thu hút!
+263|Mà sao cậu vội vậy? Có chuyện gì à?
+264|À, phải! Quên chuyện nổi bật đi! Có việc lớn hơn rồi!
+265|Gã tôi tưởng có bản vẽ hóa ra không có!
+266|Kiểm tra mấy thanh kiếm đằng kia tiếp.
+267|Cái gì?! Bản vẽ dinh thự của Kaido ở ngay Kuri này sao?!
+268|Ừ! Tôi chạy khắp kinh đô mà không tìm thấy!
+269|Giờ tôi không biết nên làm gì!
+270|Tôi rất tiếc vì cậu phải trải qua chuyện đó.
+271|Franosuke-san, xin hãy giúp mọi người hoàn thành nhiệm vụ ở kinh đô.
+272|Rõ!
+273|Hừm... Ai lại muốn bản vẽ dinh thự của Kaido nhỉ?
+274|Chẳng lẽ là...?
+275|Điện hạ! Kin-san!
+276|Này!
+277|Phù!
+278|Nhìn những gì bọn tôi cướp được! Có thức ăn và vũ khí từ nhà máy!
+279|Làm tốt lắm. Các cậu có để lại danh thiếp chưa?
+280|Rồi ạ!
+281|Nhưng liệu có nên không?
+282|Tờ giấy đó có thể khiến băng Bách Thú tấn công Ashura Doji.
+283|Đó là điều tại hạ muốn. Bị tấn công sẽ khiến ông ấy nổi giận.
+284|Nếu không dùng cơn giận của ông ấy để dụ ông ấy chiến đấu với băng Bách Thú...
+285|thì chúng ta sẽ không bao giờ thắp lại ngọn lửa trong ông ấy.
+286|Xét nỗi hối hận ông ấy mang suốt hai mươi năm, cách này có vẻ hơi thô bạo.
+287|Tại hạ biết!
+288|Nhưng dù phương cách chính hay tà, chúng ta cần ông ấy nếu muốn lật đổ Kaido!
+289|Chúng ta cần sự giúp đỡ của Ashura Doji!
+290|Này! Tôi về rồi!
+291|Yasu!
+292|Ồ, anh về rồi, Tonoyasu!
+293|Yasu, anh về rồi, nhưng bọn tôi vẫn chưa có gì ăn!
+294|Con đói quá!
+295|Con sắp chết đói!
+296|Sao họ vui vẻ vậy?
+297|Oa!
+298|Anh nhanh trí thật đấy! Ai ở đây cũng có vẻ vui, đúng không?!
+299|Hơi khác với thị trấn Okobore ở Kuri.
+300|Trong mọi loài, chỉ con người mới biết cười!
+301|Ừ!
+302|♪ Vì thế bạn cứ phải cười! ♪
+303|♪ Bạn cứ phải cười! ♪
+304|♪ Bạn cứ phải cười! ♪
+305|Xin thứ lỗi!
+306|– Tướng quân Orochi! – Tướng quân Orochi!
+307|Đừng khách sáo! Ngẩng đầu lên!
+308|Nào, bữa tối có gì?
+309|Vâng! Mọi thứ đã sẵn sàng!
+310|Mang vào!
+311|Ồ!
+312|Chúng thần đã mổ gà nuôi trong môi trường tuyệt đẹp của Trang trại Orochi,
+313|rồi luộc sơ...
+314|Không! Ta không thích gà!
+315|Vâng, thưa ngài! Chúng thần sẽ bỏ đi!
+316|Mang đi!
+317|Món kế!
+318|Những loại rau tươi ngon này...
+319|Ta không muốn!
+320|Vâng, thưa ngài! Chúng thần sẽ vứt đi!
+321|Món kế!
+322|Chúng thần xin dâng cá thu đao béo ngậy hảo hạng nhất!
+323|Ta thích cá thu đao!
+324|Và sashimi cá ngừ!
+325|Ừ! Không gì sánh bằng cá ngừ! Cá ngừ!
+326|Và chúng thần đã chọn nhiều loại rượu sake khắp Wano...
+327|Ta hiểu rồi!
+328|Dĩ nhiên các ngươi có nhiều rượu cho mọi người!
+329|Nhưng còn phụ nữ thì sao?
+330|Dĩ nhiên, có ngay ạ!
+331|Tốt! Tốt!
+332|Mẹ ơi, con đói!
+333|Con cũng vậy!
+334|Răng con rụng vì suy dinh dưỡng!
+335|Dù sao cũng có gì để nhai đâu!
+336|Nào, Tonoyasu, lãng nhân này là ai?
+337|Ông ta đeo ba thanh kiếm bên hông!
+338|Đúng vậy! Ba thanh kiếm!
+339|Mà toàn là kiếm dài!
+340|Ông định đùa à?!
+341|Ồ, ồ! Tôi ngưỡng mộ vị quý ông này!
+342|Ôi không! Tôi rất tiếc khi cậu phải để gã kỳ quặc này theo cậu suốt.
+343|Sai rồi! Tôi là kẻ nịnh hót vĩ đại nhất thế giới!
+344|Đúng không, anh đẹp trai?!
+345|Đúng là vậy, nhưng nhìn kìa! Ông ấy có vẻ mặt đáng sợ!
+346|Nào, chàng trai. Bỏ vẻ mặt đáng sợ đó đi.
+347|Cười lên nào!
+348|Chuyện tốt vẫn đến, dù ở cái hố khốn khổ như Ebisu!
+349|Khoan, ý anh là cậu ấy đã ghé thị trấn này sao?!
+350|Đúng vậy! Cậu Bé Giờ Ma lại ghé thăm chúng ta!
+351|Tuyệt quá!
+352|Cậu Bé Giờ Ma là ai?
+353|Ừ, cậu ấy luôn đến khi chúng tôi gặp nạn!
+354|Chúng tôi còn không biết cậu ấy là ai.
+355|Cậu ấy xuất hiện vào giờ ma quái
+356|và lấy tiền của những kẻ giàu có, độc ác ở kinh đô...
+357|Cậu ấy để tiền lại ở các khu nhà trọ nghèo rồi biến mất.
+358|Không biết cậu ấy là ai.
+359|Tạ ơn trời, tạ ơn trời!
+360|Phúc đến với người biết cười!
+361|Nên bọn tôi góp tiền tự thưởng cho mình!
+362|Ồ! Thưởng gì vậy?!
+363|Đây này!
+364|Thấy chưa?
+365|Chính là nó!
+366|Mời anh uống một chén!
+367|Anh cũng nên uống chút!
+368|Là nước trong!
+369|Bọn tôi mua bằng số tiền được cho!
+370|Không, tôi không nên...
+371|Đừng lo!
+372|Nước này sạch, nên không đau bụng đâu!
+373|Yasu đưa anh đến đây, nên anh chắc là người tốt!
+374|Đừng ngại!
+375|Cứ uống đi! Ai cũng có quyền được uống!
+376|♪ Nước ngon! ♪
+377|♪ Nước trong! ♪
+378|♪ Nước ngon! ♪
+379|♪ Nước trong! ♪
+380|♪ Nước ngon! Nước trong! ♪
+381|♪ Nước ngon! Nước trong! ♪
+382|♪ Nước ngon! Nước trong! ♪
+383|Ngon chứ?! Thấm vào từng thớ thịt, đúng không?!
+384|Lại cái vẻ mặt đáng sợ đó rồi!
+385|Cười đi, nếu không phúc sẽ không cười với anh đâu!
+386|Ở đất nước này, chúng tôi gọi nụ cười của mọi người
+387|là nụ cười Ebisu, anh bạn ạ!
+388|Vì thế nơi này mới gọi là Ebisu!
+389|Chúng tôi sẽ không để nghèo khó quật ngã!
+390|♪ Khóc không chữa được nghèo! ♪ ♪ Nên bạn cứ phải cười! ♪
+391|♪ Bạn cứ phải cười! ♪
+392|Chờ đủ rồi! Cho ta xem họ!
+393|Xin chờ một lát, thưa ngài!
+394|Ồ, phải! Các cô gái này tuyệt vời! Tuyệt vời!
+395|N-Ngài có hài lòng không, thưa ngài?
+396|Họ... lộng lẫy quá!
+397|Thật xuất sắc! Bắt đầu yến tiệc ngay thôi!
+398|Uống đi!
+399|Nhảy đi!
+400|Hát đi!
+401|Đừng kiềm chế!
+402|Thiếp đã đến, thưa ngài...
+403|Ồ, Komurasaki! Ta nhớ nàng lắm!
+404|Thiếp cũng nhớ ngài...
+405|thưa ngài.
+406|Ồ, n-nàng nhớ ta sao?!
+407|Thật sao?!
+408|Traffy, cậu đến đây làm gì?
+409|Có chuyện khẩn cấp. Anh phải trốn đi, Chân Đen.
+410|Chuyện trận đánh lúc nãy à? Nếu chúng quay lại, tôi sẽ đánh bại chúng lần nữa.
+411|Không phải vậy.
+412|Những kẻ đang đến biết mặt chúng ta!
+413|Là Hawkins sao?
+414|Nếu chỉ có hắn thì cũng không tệ...
+415|Sáu Headliner mạnh nhất được gọi là Tobiroppo.
+416|Hai người trong số đó đang đến đây.
+417|Hai người?
+418|Người thứ nhất là Page One của Tobiroppo.
+419|Tobiroppo... Page One...
+420|Người còn lại là X Drake của Tobiroppo.
+421|Drake...
+422|Hắn thuộc Thế hệ Tồi tệ nhất...
+423|Page One, sao chúng ta phải làm việc này?
+424|Để làm gương, tôi đoán vậy...
+425|Phải cho chúng thấy chuyện gì xảy ra khi đắc tội băng Bách Thú ở Wano.
+426|Vậy, sao cậu lại ở đây...
+427|Hawkins?
+428|Tôi đang tìm một người.
+429|Việc này sẽ nhiều hơn những gì cậu tính, Drake...
+430|Sếp đã nghĩ về lời đề nghị lúc nãy của em chưa?
+431|Nếu sếp định vượt ngục, hãy dẫn em theo!
+432|Em làm gì cũng được!
+433|Nếu liên minh, chúng ta sẽ vô địch!
+434|Im đi! Sao mày không hợp tác với Jaggy đi?!
+435|Ý sếp là Kid?
+436|Không đời nào. Tiếng tăm hắn tệ lắm.
+437|Sếp nghe chưa, hắn định hạ Big Mom đấy!
+438|Nghe đồn một thuộc hạ của bà ta, không phải bà ta, đã lấy cánh tay hắn,
+439|rồi hắn bỏ chạy!
+440|Tin đồn? Nghe mấy thứ nhảm nhí đó thật thảm hại.
+441|Không, em nghe từ nguồn đáng tin, sếp ạ.
+442|Nguồn nào?
+443|Tao chưa bao giờ định hạ Big Mom!
+444|K-K-K-Kid!
+445|Tao làm bị thương một Tướng Ngọt của bà ta,
+446|lấy thứ tao muốn, rồi đi!
+447|N-N-N-Nhưng cánh tay anh...
+448|Tao mất nó từ trước đó, trong trận đánh với băng Tóc Đỏ.
+449|Còn câu hỏi nào nữa không?!
+450|Không.
+451|Vậy để tao nói cho mày nghe! Mày cũng nghe đi, con khỉ ngu!
+452|Cái gì?!
+453|Tao là kẻ sẽ hạ Kaido và giành lấy vinh quang!
+454|Không, là tao!
+455|Cái gì?!
+456|Mọi người, Lễ hội Lửa sắp đến rồi!
+457|Hãy coi bữa tiệc này là màn mở đầu!
+458|Cứ thỏa sức tận hưởng đi!
+459|Đây là Wano!
+460|Chẳng khác gì thiên đường!
+461|Ăn uống thỏa thích đi!
+462|Chúng đang tiến đến từ phía đông nam trên một con tàu khổng lồ!
+463|Bà ta thật sự đến rồi!
+464|Bắn chúng đi!
+465|Đừng để bà ta vào đất nước!
+466|Nhưng có vấn đề...
+467|Cá koi đang kéo tàu của chúng và lao tới!
+468|Cái gì?!
+469|Sao chúng biết cách leo thác?!
+470|Ừ thì, băng Big Mom nổi tiếng thu thập tin tình báo giỏi.
+471|Câm miệng! Tao không quan tâm!
+472|Chúng ta biết chúng sẽ đến mà!
+473|Đánh chìm chúng ngay đi!
+474|Con mụ già đó! Chắc chắn bà ta nhớ tao đã cảnh cáo...
+475|Tao sẽ giết mày nếu mày đến đây, Linlin!
+476|Tao sẽ không để mày thoát đâu, Mũ Rơm...

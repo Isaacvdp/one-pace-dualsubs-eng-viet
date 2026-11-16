@@ -1,0 +1,427 @@
+1|Uống thêm đi.
+2|Black Maria?
+3|Này, sao ngươi không lo làm nhiệm vụ?
+4|Nhiệm vụ nào vậy?
+5|Tìm thằng con ngốc của ta!
+6|Ôi, có hại gì đâu, Tổng đốc Kaido?
+7|Họ tìm cũng ổn thôi, không cần thiếp.
+8|Thiếp thích ở đây hơn.
+9|Được rồi! Đến lúc trong năm gạt bỏ cấp bậc mà tận hưởng rồi!
+10|Đúng không, Orochi?!
+11|Hôm nay thật tuyệt!
+12|Đúng vậy, Kaido!
+13|Những bóng ma gia tộc Kozuki ám chúng ta suốt hai mươi năm cuối cùng đã biến mất!
+14|Hôm nay là ngày ăn mừng!
+15|Kanjuro lừa được tất cả đến tận phút cuối,
+16|và giờ sự nghiệp của hắn đã hoàn tất sau hai mươi năm dài!
+17|Hắn sẽ sớm đến cùng các thuyền trưởng đã nhấn chìm Hồng Bao xuống biển!
+18|Hắn thật ấn tượng!
+19|Hồi đó ta có thể giết hắn dễ dàng mà không hay biết.
+20|Tiếc là... Dù đã có được bao nhiêu tin tưởng,
+21|Oden vẫn không bao giờ mở lòng với hắn.
+22|Có lẽ đám samurai thuộc hạ đó cũng chưa nghe gì về chuyện ấy.
+23|Ngươi nói đến...?
+24|Phải...
+25|Chìa khóa đến vị trí Laugh Tale, hòn đảo cuối cùng Roger đến.
+26|Ngươi là ai?!
+27|Xin thứ lỗi!
+28|Tại hạ có việc với Tướng quân Orochi!
+29|Ồ! Ngươi đây rồi, Kanjuro!
+30|Ta chưa từng thấy hắn.
+31|Ngươi đến đây để đánh nhau sao?!
+32|Bình tĩnh đi, lũ ngốc!
+33|Hắn là người của Orochi!
+34|Đã lâu quá rồi, Tướng quân Orochi!
+35|Dinh thự rộng đến nỗi tại hạ hơi lạc đường ở hậu trường.
+36|Tại hạ phải chém hết những kẻ lầm tưởng tại hạ là địch mà tấn công.
+37|Tại hạ xin lỗi chuyện đó.
+38|À, không sao!
+39|Ồ! Ta thấy ngươi mang theo thứ gì kia...
+40|Là Kozuki Momonosuke, theo yêu cầu của ngài.
+41|Cậu ta là con trai Oden.
+42|Trên đường đến đây cậu ta cắt dây và định trốn, nên tại hạ phải đánh ngất.
+43|Xin đừng lo. Cậu ta còn sống.
+44|Vậy ngươi đối xử với người thừa kế chủ cũ nhà Kozuki như thế này...
+45|Thật lạnh lùng và vô tâm!
+46|Giờ vở kịch của tại hạ đã xong, với tại hạ cậu ta chỉ là một thằng nhóc khác.
+47|Thật bất ngờ!
+48|Ta nhớ ngươi.
+49|Ngươi là một trong Cửu Hồng Bao mà ta đã đánh nhau hai mươi năm trước.
+50|Còn ngươi... Ta nhớ rất rõ.
+51|Cha ngươi dũng cảm, còn ngươi chỉ là sự thất vọng.
+52|Hai mươi năm rồi ngươi vẫn chẳng đổi chút nào!
+53|Đúng vậy. Nó chẳng hơn gì một thằng nhãi khốn khổ...
+54|tình cờ được thừa hưởng một cái tên lớn.
+55|Tội nghiệp quá.
+56|Nó đang chảy máu... Sao ngươi nỡ đánh một đứa bé mạnh tay thế?
+57|Đến lúc uống rồi! Cùng nâng cốc nào!
+58|Ngươi đã làm tốt vai gián điệp suốt thời gian dài!
+59|Hoan hô!
+60|Không, thưa Tướng quân Orochi!
+61|Tại hạ đã không chặn được kế hoạch của Hồng Bao...
+62|vì băng Mũ Rơm và đồng minh đã phục kích bọn tại hạ!
+63|Cái gì?! Thất bại?!
+64|Quân nổi loạn, 5.400 người, đang tiến về Onigashima ngay lúc này!
+65|Không thể chấp nhận!
+66|Ngươi không chặn được kế hoạch của chúng sao?!
+67|Tại hạ vô cùng xin lỗi!
+68|Chính ngươi bảo ta chúng sẽ tập hợp ở Cảng Tokage!
+69|Sao không tiêu diệt chúng?!
+70|K-Kin'emon đã qua mặt tại hạ!
+71|Tại hạ quen hắn từ lâu,
+72|nhưng đã đánh giá thấp tài thao lược của hắn!
+73|Thôi biện hộ đi!
+74|Trả lời ta, Kanjuro!
+75|Hạm đội samurai có đến được Onigashima không?!
+76|Có vẻ chúng ta vẫn an toàn ở đây, Tướng quân Orochi.
+77|Fukurokuju!
+78|Ở cảng không có tàu khả nghi nào.
+79|Tuy nhiên, ba chiến hạm của ta vẫn chưa quay về.
+80|Thật ra, đã xác nhận bốn tên hải tặc ở Tầng Biểu diễn.
+81|Mũ Rơm Luffy.
+82|Thợ Săn Hải Tặc Zoro.
+83|"Thuyền trưởng" Eustass Kid.
+84|Kẻ Giết Chóc Killer.
+85|Rất có thể phần còn lại trong băng chúng cũng đang ở trên đảo.
+86|Biết vậy sao không báo sớm hơn?!
+87|Ngài Queen đang xử lý,
+88|nên tôi nghĩ tốt hơn là đừng làm hỏng buổi yến tiệc.
+89|Dù chúng có ở đây hay không, thực tế là toàn bộ quân ta đều ở Onigashima.
+90|Dù có chuyện gì, đây vẫn là nơi an toàn nhất đất nước!
+91|Ngài nói đúng!
+92|Uống đi, Orochi!
+93|Nào, để thiếp rót cho ngài một chén.
+94|Không... Ta không cần lời trấn an!
+95|Ta muốn nghe báo cáo rằng lũ samurai khốn kiếp đã bị giết!
+96|Luffy đã vào được bên trong...
+97|Hãy giữ mạng sống!
+98|Tôi nhất định sẽ cứu cậu!
+99|Ta phải trốn thoát!
+100|Black Maria!
+101|Giao hắn cho ta!
+102|Đúng! Không được quên! Nó là thủ lĩnh của quân địch!
+103|Dựng đài hành hình!
+104|Khi gia tộc Kozuki danh tiếng tuyệt diệt, chút lòng trung thành còn sót lại sẽ tan biến hoàn toàn.
+105|Và cuối cùng mọi chuyện sẽ kết thúc!
+106|Luffy...!
+107|Mọi người...!
+108|Phụ thân...!
+109|Cat đó sao?! Ngươi trễ rồi!
+110|Giờ ngươi mới đến sao?!
+111|Ừ!
+112|Bọn ta vừa leo lên thác!
+113|Ngươi không biết hôm nay là ngày giờ nào à?!
+114|Là đêm Lễ hội Lửa, nên bọn ta đến đúng lúc cho trận chiến lớn, phải không?
+115|Các ngươi-gara đừng nói thế trước khi đến nơi.
+116|Bọn ta đang trên đường đến góc tây bắc Onigashima.
+117|Hiểu rồi! Vậy gặp sau nhé!
+118|Không, khoan!
+119|Khoan, này!
+120|Cat!
+121|Tính nóng vội đó của hắn vẫn không đổi.
+122|Tại hạ chỉ mong họ kịp cho cuộc tập kích của chúng ta.
+123|Tại hạ chưa thấy Kitty từ khi bị lạc nhau...
+124|Chắc giờ nó cũng to như Doggy rồi.
+125|Con mèo khốn đó... Nó phải đến đây nhanh nhất có thể!
+126|Chúng ta sắp tới cửa sau rồi!
+127|Vì các xoáy nước, tàu thường chỉ tiếp cận đảo từ phía trước.
+128|Tại hạ mong Kin'emon và Denjiro đã đến được cửa sau an toàn.
+129|Vâng! Tôi muốn tất cả chúng ta cùng hoàn thành tâm nguyện của ngài Oden!
+130|Cậu chủ Momonosuke...
+131|Xin hãy bình an!
+132|Họ vẫn ổn chứ?
+133|Ừ, tất nhiên rồi!
+134|Cậu ta nói mọi người đã lên đảo rồi, nên chắc cuộc tập kích đang diễn ra!
+135|Hòn đảo hiu quạnh đó giờ gọi là Onigashima sao?
+136|Ai ngờ chúng ta đến cùng lúc, dù ngươi rời đi trước ta?
+137|Hóa ra ta không cần nhờ ngươi chuyển lời đến Mũ Rơm Luffy!
+138|Đúng vậy!
+139|Tôi sẽ vứt tờ giấy này!
+140|Mà tôi không tin nổi ông đã đến, Marco.
+141|Ừ thì, tôi vẫn luôn quý Oden.
+142|Nhưng tôi không ngờ đất nước ông ấy thay đổi đến thế...
+143|Tin tức về nơi này chưa bao giờ vượt biển.
+144|Tôi không biết Wano từng thịnh vượng lại ra nông nỗi này...
+145|Tất cả là tại Kaido.
+146|Nếu ông đã quyết, mau đến Onigashima thôi!
+147|Phải đuổi kịp mọi người!
+148|Nhưng làm sao đây?
+149|Cuộc tập kích đã bắt đầu rồi.
+150|Làm sao lọt qua phòng tuyến địch để hội quân?
+151|Cứ để tôi!
+152|Tôi có ý này!
+153|Theo kế hoạch, Denjiro đang dẫn quân phía nam đến cửa sau lâu đài.
+154|Hình như có một cánh cổng ở đây!
+155|Nấp đi!
+156|Hắn là sĩ quan cấp cao à?
+157|Xui xẻo thật!
+158|Nghe đây! Tìm hắn càng nhanh càng tốt!
+159|– Rõ! – Rõ!
+160|Ngược lại, có vẻ chúng ta may mắn rồi.
+161|Tại hạ biết hắn.
+162|Tại hạ sẽ nói chuyện với hắn.
+163|Ai đó?!
+164|Khoan, là tôi đây!
+165|Chẳng phải ngươi...?
+166|Lâu rồi không gặp...
+167|Sasaki!
+168|Kyoshiro!
+169|Nghe nói năm nay ông không đến!
+170|Ừ, mong ngươi giữ bí mật chuyện này.
+171|Ông đang giấu thân phận à? Cái tóc bồng bềnh ông tự hào đâu rồi?
+172|Hiếm khi thấy ông rời yến tiệc.
+173|Ừ. Con trai Kaido mất tích.
+174|Mà này, uống không?
+175|Chắc chắn rồi!
+176|Các ngươi! Quay về Skull Dome!
+177|Ta sẽ theo sau.
+178|Một cánh cổng không có trong bản vẽ. Và một thành viên Tobiroppo, Sasaki.
+179|Những chướng ngại thế này khó mà vượt qua với Kyoshiro
+180|nếu hắn không được địch tin tưởng đến vậy.
+181|Hải Lâu Thạch?!
+182|Này, ông định làm gì vậy, Kyoshiro?!
+183|Trói hắn lại!
+184|– Rõ! – Rõ!
+185|Chuyện gì vậy?! Này!
+186|Bịt miệng hắn nữa!
+187|– Rõ! – Rõ!
+188|Trả lời tôi, Kyoshiro!
+189|Này, Sasaki...
+190|Ngươi biết bao nhiêu về lịch sử Wano?
+191|Đó là...?!
+192|Sau khi khống chế một trong những Tobiroppo đáng gờm,
+193|Denjiro chia nhóm làm hai, giống như quân phía đông.
+194|Từ đây đến thẳng mái vòm!
+195|Chúc may mắn!
+196|Vậy là quân phía nam đang dần áp sát Kaido!
+197|Bắn!
+198|Tao sẽ không để mày thoát!
+199|Tôi biết là không được mà!
+200|Tất nhiên là không rồi!
+201|Họ biến mất rồi!
+202|Chobro!
+203|Đúng là một bà già dữ dằn...
+204|Dù sợ hãi, hai người vẫn dẫn bà ta đi hướng ngược lại...
+205|Chúng tôi mang ơn hai vị, Chỉ huy Chopper, Tài xế Usopp...
+206|Chúng ta tiếp tục thôi!
+207|– Rõ! – Rõ!
+208|Mọi người! Đừng để sự hy sinh của họ thành vô ích!
+209|Này, ta không nên làm gì sao?!
+210|Em nghĩ bà già quái vật đó quá sức hai cậu nhóc ấy!
+211|Cô ấy nói đúng!
+212|Là Big Mom!
+213|Biết rồi!
+214|Vì thế nên ta chẳng làm gì được!
+215|Cứ mừng là họ đã dụ được bà ta đi!
+216|Mà sao ở đây nóng vậy?
+217|Nami! Nhìn lên!
+218|Rắc rối rồi!
+219|Tìm thấy mày rồi!
+220|Chính là mụ đàn bà bắt cóc Zeus, Mama!
+221|Cố lên, Pay-Pay! Cố lên, Pay-Pay!
+222|Này! Đi tìm chỗ khác đi, đồ đần!
+223|Xin lỗi, Pay-Pay?!
+224|Dám...!
+225|Nhưng mà...
+226|Em không chạy nổi nữa...
+227|Pay-Pay! Em mệt lắm rồi!
+228|Khổ thân em!
+229|Đừng than với tôi!
+230|Mệt thì ngồi đó đi!
+231|Lẽ ra phải đề nghị...
+232|Ôi không!
+233|...cõng em lên lưng chứ!
+234|Này, xuống khỏi người tôi! Này!
+235|Khoan! Buông ra! Chị ơi!
+236|Con nhỏ này...
+237|Này! Dừng lại! Tôi nói thật đó!
+238|Pay-Pay?!
+239|Pay-Pay! Pay-Pay! Pay-Pay!
+240|Cố lên, cố lên, cố lên!
+241|Ôi không, Pay-Pay của em!
+242|Cái gì vậy?
+243|Pay-Pay!
+244|Pay-Pay đã hy sinh để cứu em!
+245|Mày là cái thứ gì vậy?!
+246|Mày là cái thứ gì vậy?!
+247|Kia rồi... Onigashima.
+248|King...
+249|Marco...
+250|Mũ Rơm...
+251|Chúng nên chuẩn bị tinh thần chịu đòn...
+252|Và không, tôi không tán thành liên minh của Mama!
+253|Băng Big Mom sẽ là người cười cuối cùng!
+254|Giờ sao, Usopp?!
+255|Big Mom quay lại đuổi theo Nami và mọi người rồi!
+256|Chắc bà ta muốn giành lại Zeus.
+257|Tôi lo cho họ quá...
+258|Có vẻ công tắc biến hình đã kích hoạt khi bà ta đấm bọn mình.
+259|Thôi, chắc họ sẽ ổn... Có cả Sanji nữa.
+260|Sanji hả?
+261|Mong anh ta nhớ cứu Momonosuke thay vì chạy theo phụ nữ trong lầu hoan lạc.
+262|Cũng không loại trừ được...
+263|Nhưng hãy tin Sanji!
+264|Ừ!
+265|Đội Kin'emon đã tiến lên được, nên ta đang làm tốt!
+266|Ta đã cho chúng thấy Brachio-Tank làm được gì!
+267|Ừ! Bọn tôi là Chỉ huy Chopper và xạ thủ Usopp lái Brachio-Tank 5!
+268|Không gì cản nổi bọn tôi!
+269|Lại đây...
+270|Chiếc ô cũ.
+271|Guốc cũ và dép cũ.
+272|Một bức tường đất!
+273|Một ngọn nến!
+274|Cả một chiếc đèn lồng nữa!
+275|Ta ban cho các ngươi sự sống!
+276|Vậy hãy theo ta.
+277|Mama, lối này!
+278|Này! Đừng gọi Big Mom nữa, trời ơi!
+279|Làm sao đây, Nami?!
+280|Nếu bị bà ta bắt thì tôi tiêu!
+281|Mụ già chín nẫu đó nguy hiểm thật sao?
+282|Bà ta ở một đẳng cấp khác hẳn!
+283|Này, lúc nãy ta chẳng thấy Sanji sao?
+284|Ừ!
+285|Ồ, nhưng mà...
+286|Xin lỗi vì làm mọi người lo...
+287|Tôi không bỏ cuộc việc tìm các cô gái đâu!
+288|Anh ta đến đây làm gì vậy chứ?!
+289|Dù sao, ta phải cắt đuôi bà ta rồi đi tìm cậu chủ Momonosuke!
+290|Được!
+291|Mama! Lối này!
+292|Không cần vội đâu.
+293|Tầng Biểu diễn ở ngay phía trước.
+294|Chẳng còn đường chạy.
+295|Nhiều tên ở đây có năng lực quá...
+296|Hãy gọi bọn ta là Gifters.
+297|Bọn ta cũng từng nhắm đến ngôi Vua Hải Tặc.
+298|Nếu ngươi quy phục ngài Kaido, mọi chuyện sẽ dễ dàng hơn.
+299|Bọn ta có gần 500 người.
+300|Đừng tự làm khó mình.
+301|Chưa muộn để bắt đầu lại.
+302|Kid! Tôi đã bảo xông thẳng vào là quá liều lĩnh!
+303|Chúng ta lạc Heat và những người khác rồi...
+304|Họ đã chiến đấu ngay cạnh ta,
+305|nhưng họ sẽ tự lo được.
+306|Giết được bọn này chắc ta sẽ được thăng chức!
+307|Xin hãy dừng lại!
+308|Ngài Kaido đang tìm ngài!
+309|Đừng làm phiền tao nữa!
+310|Để tao yên!
+311|– Thiếu chủ! Xin dừng lại! – Thiếu chủ! Xin dừng lại!
+312|Lơ là là chết!
+313|Pay-Pay!
+314|Pay-Pay! Em có sao không?!
+315|Đừng bỏ em! Em sẽ đau khổ lắm!
+316|Này, mày!
+317|Sao mày dám...
+318|Sao mày dám làm vậy với Pay-Pay?!
+319|Đừng có dám bắt nạt Pay-Pay của tao!
+320|Chính cô mới là người dùng nó để trượt xuống cầu thang.
+321|Mày tên gì?!
+322|Mày làm cho ai, thuộc đơn vị nào?!
+323|Không, chị ơi...
+324|Hắn là kẻ xâm nhập.
+325|Cái gì?!
+326|Tôi là Luffy.
+327|Người sẽ trở thành Vua Hải Tặc!
+328|Ngươi có biết mình đang đứng trong lâu đài của ai không?
+329|Người sẽ trở thành Vua Hải Tặc hiển nhiên là ngài Kaido!
+330|Đồ ngu chết tiệt!
+331|Tao sẽ đập nát cái sọ mày!
+332|Húc đầu sao?!
+333|Ulti-Mortar!
+334|Này, chị ơi!
+335|Biết rồi...
+336|Pay-Pay cũng vậy?
+337|Ừ!
+338|Xin lỗi, nhưng...
+339|sao hai người lại biến hình?!
+340|Cô Ulti!
+341|Cậu Page One!
+342|Cô Ulti?
+343|Ừm...
+344|Im đi, ngươi.
+345|Bọn ta làm vậy vì...
+346|tên này là hàng thật!
+347|Không, không đời nào!
+348|Sọ hắn bị đập mạnh thế, chắc chắn đã chết!
+349|Vậy giải thích sao về haki đó?!
+350|Đau đấy!
+351|Mấy người này giỏi thật...
+352|mà lại đông nữa.
+353|Tôi đã sai...
+354|khi coi thường các người.
+355|Lâu đài này thuộc về một Hoàng Đế!
+356|Nghe đây, lũ khốn!
+357|Tướng quân Orochi xin giới thiệu một sự kiện đặc biệt đột xuất bắt đầu từ bây giờ!
+358|Mọi người!
+359|Hãy để ta giới thiệu thằng nhãi này...
+360|Hãy nhìn đây...
+361|con trai Kozuki Oden, kẻ tưởng đã chết hai mươi năm trước!
+362|Gum-Gum...
+363|Chị ơi!
+364|Gum-Gum...
+365|Elephant Gun!
+366|– Cậu Page One! – Cậu có sao không?!
+367|Cậu Page One...
+368|Đồ chuột khốn kiếp...!
+369|Sao mày dám làm vậy với Pay-Pay?!
+370|Tao sẽ tiêu diệt mày!
+371|Cô Ulti cũng hóa khủng long rồi!
+372|Làm ơn! Lâu đài không chịu nổi nữa!
+373|Cô ấy... mạnh quá!
+374|Ulti-Meteor!
+375|Ôi không!
+376|Gear Fourth!
+377|Thunder Bagua!
+378|Mũ Rơm Luffy!
+379|Là ngươi phải không?!
+380|Đúng là tôi.
+381|Tôi...
+382|Tôi...
+383|Ngươi là ai?!
+384|Hắn đang trốn thoát!
+385|Bắt hắn!
+386|Xin lỗi!
+387|Tôi sẽ không làm hại cậu đâu!
+388|Ừ, trông cậu cũng không có vẻ sẽ làm vậy...
+389|Nghe này, tôi phải đi!
+390|Tôi đã chờ cậu!
+391|Cuối cùng! Cuối cùng cậu cũng đến!
+392|Đúng vậy, tôi đã chờ cậu!
+393|Chờ rất lâu rồi!
+394|Tên tôi là Yamato!
+395|Tôi là con trai Kaido!
+396|Kurozumi Kanjuro Tay trong của Tướng quân Orochi
+397|Kurozumi Kanjuro Tay trong của Tướng quân Orochi
+398|Kurozumi Kanjuro Tay trong của Tướng quân Orochi
+399|Thuyền: "Cat"
+400|Hộ Vệ Thuộc hạ của Nekomamushi
+401|Hộ Vệ Thuộc hạ của Nekomamushi
+402|Hộ Vệ Thuộc hạ của Nekomamushi
+403|Ghi chú: "Tôi sẽ đến trễ nhưng chắc chắn đến. -Marco"
+404|Quân phía nam Nhóm Denjiro
+405|Quân phía nam Nhóm Denjiro
+406|Sasaki Tobiroppo Băng Bách Thú
+407|Sasaki Tobiroppo Băng Bách Thú
+408|Sasaki Tobiroppo Băng Bách Thú
+409|Đội thâm nhập Mái Vòm
+410|Đội tập kích
+411|Đội tập kích
+412|Đội tập kích
+413|Đội tập kích
+414|Quân phía đông Nhóm Kin'emon
+415|Ulti và Page One Tobiroppo Băng Bách Thú
+416|Ulti và Page One Tobiroppo Băng Bách Thú
+417|Ulti và Page One Tobiroppo Băng Bách Thú
+418|Bên trong Lầu Hoan Lạc
+419|Wire Băng Kid
+420|Wire Băng Kid
+421|Heat Băng Kid
+422|Heat Băng Kid
+423|Ulti Trái Saur-Saur Cổ Đại Pachycephalosaurus
+424|Ulti Trái Saur-Saur Cổ Đại Pachycephalosaurus
+425|Ulti Trái Saur-Saur Cổ Đại Pachycephalosaurus
+426|Ulti Trái Saur-Saur Cổ Đại Pachycephalosaurus
+427|Tầng Biểu diễn Skull Dome

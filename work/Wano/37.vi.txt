@@ -1,0 +1,534 @@
+1|Hai mươi tám năm trước, vào năm thứ hai chuyến đi của Oden...
+2|Đứa bé cuối cùng cũng chào đời rồi!
+3|Tamago!
+4|Konbu!
+5|Chikuwa!
+6|Tsukune!
+7|Này, thôi đi! Nó là em bé, không phải nồi oden!
+8|Đây là đứa con đầu lòng của chúng ta!
+9|Cái tên ta đặt cho con có nghĩa là vô song...
+10|Con sẽ là Kozuki Momonosuke!
+11|Oden-sama, họ đã phát lệnh truy nã ngài rồi.
+12|Giờ đây ngài đã là kẻ ngoài vòng pháp luật ở hải ngoại.
+13|Vì sự an toàn của phu nhân Toki và cậu chủ Momonosuke,
+14|có lẽ ngài nên cân nhắc quay về Wano.
+15|Chưa được, Izo! Ta vẫn chưa tìm ra câu trả lời của mình!
+16|Bọn ta sẽ ổn thôi. Đừng lo!
+17|Thứ này gọi là báo,
+18|vậy mà chẳng có tin tức nào về Wano trong đó!
+19|Thì giống như Zou, họ không có cách nào gửi tin ra ngoài đất nước.
+20|Không biết Kin và mọi người giờ ra sao meow?
+21|Cái gì?!
+22|Ông định bổ nhiệm các đội trưởng sao?!
+23|Băng ta cứ đông dần lên.
+24|Các con thấy chia thành khoảng năm đội thì sao?
+25|Ý hay đấy, Pops!
+26|Con muốn làm đội trưởng!
+27|Con cũng vậy!
+28|Oden!
+29|Con sẽ chỉ huy đội hai!
+30|À... Ừm... Ờ... Ừm...
+31|Cứ làm đi!
+32|Thỉnh thoảng lại có người mới gia nhập băng, giống như chúng ta ngày trước...
+33|Nghe đây!
+34|Đây không phải thuyền cá! Bọn ta là hải tặc!
+35|X-Xin ông!
+36|Tôi không còn chỗ nào để đi nữa!
+37|Này, thôi đi!
+38|Cậu tên gì?
+39|Teach!
+40|Được rồi.
+41|Lên tàu đi!
+42|Cảm ơn ông nhiều lắm!
+43|Lại thêm một đứa mồ côi, xem ra là vậy...
+44|Cậu thấy không?
+45|Có thứ gì vừa bay qua chúng ta!
+46|Dù đi xa đến đâu, ta cũng không thôi tò mò!
+47|Đội trưởng!
+48|Chúng ta cần thám thính khu vực trước!
+49|Ta không biết làm sao để kết thúc một cuộc phiêu lưu như vậy!
+50|Trong khi đó ở Wano...
+51|Tin nóng đây!
+52|Đọc ngay đi!
+53|Tướng quân Sukiyaki-sama đang nguy kịch!
+54|Sukiyaki-sama!
+55|Trong biên giới Wano...
+56|một việc hệ trọng đã triệu tập daimyo các vùng đến Hoa Đô.
+57|Ta mong rằng Oden...
+58|sẽ kế vị ta làm tướng quân.
+59|Đương nhiên rồi, Sukiyaki-sama!
+60|Nhưng vì Oden hiện đang ở hải ngoại,
+61|có vẻ ta phải chọn một người thay quyền trong lúc cậu ấy vắng mặt...
+62|phòng khi ta có mệnh hệ gì.
+63|Ta đã chọn người mà Oden quý như em ruột...
+64|Kurozumi Orochi!
+65|Orochi?
+66|Ngươi làm gì ở đây?
+67|Oden quý hắn như em ruột sao?
+68|Có thật không?
+69|Xin đa tạ vì đã cho tại hạ cơ hội chuộc tội cho gia tộc Kurozumi.
+70|Tại hạ không xứng nhìn thẳng vào mắt Sukiyaki-sama và Oden-sama!
+71|Để bù đắp cho sự dại dột của ông nội tại hạ,
+72|tại hạ sẽ hết sức phò tá Oden-sama lên ngôi!
+73|Tại hạ sẽ là con rối ngoan ngoãn cho đến khi Oden-sama trở về,
+74|nên xin mọi người ủng hộ tại hạ!
+75|Hóa ra ngươi là người nhà Kurozumi...
+76|Sao không nói với ta?
+77|Ôi, xin thứ lỗi!
+78|Xin thứ lỗi...!
+79|Ta thấy rồi!
+80|Ta thấy được tương lai!
+81|Ngươi sẽ...
+82|trở thành tướng quân!
+83|Bà làm tôi giật mình, bà già kia!
+84|Bà là ai vậy hả?!
+85|Ngươi không biết chuyện gì đã xảy ra với ông nội ngươi sao?
+86|Tôi không rõ hết, nhưng nghe nói ông ấy đã mổ bụng tự sát.
+87|Sai rồi! Chính gia tộc Kozuki đã giết ông ấy!
+88|Cái gì?!
+89|Nhưng tôi nghe nói ông ấy phạm tội gì đó!
+90|Tranh giành quyền lực đâu phải là tội!
+91|Đó là... một cuộc tranh giành quyền lực sao?
+92|Nếu nắm được quyền lực, ngươi có thể đặt ra luật pháp!
+93|Ngươi quyết định điều gì là tội và điều gì không!
+94|Vị tướng quân đời trước của gia tộc Kozuki... không thể có con!
+95|Ông ta không có người kế vị!
+96|Lẽ tự nhiên, năm gia tộc phục vụ dưới trướng gia tộc Kozuki bắt đầu tự hỏi...
+97|ai sẽ là tướng quân kế tiếp?
+98|Trong khi những kẻ khác ngạo mạn cho rằng mình sẽ được chọn,
+99|ông nội ngươi đã bắt đầu chuẩn bị từ trước!
+100|Ông ấy bày kế đầu độc từng tên daimyo chướng mắt một!
+101|Ông ấy loại bỏ chúng hết kẻ này đến kẻ khác, khiến tất cả trông như chuyện nội bộ!
+102|Chuỗi cái chết của các daimyo là quá sức chịu đựng với tướng quân,
+103|và rốt cuộc ông ta đổ bệnh.
+104|Kế hoạch của ông ấy đã hoàn hảo!
+105|Nhưng ngay khi quyền lực đã nằm trong tầm tay...
+106|thì thằng nhóc đó ra đời...!
+107|Người thừa kế, Kozuki Sukiyaki!
+108|– Vâng! – Vâng!
+109|Chúc mừng!
+110|Nguyền rủa ngươi, Sukiyaki!
+111|Chỉ còn một bước nữa là nắm quyền,
+112|vậy mà tệ hơn, kế hoạch lại bị phanh phui!
+113|Ông nội ngươi mổ bụng tự sát, và cả gia tộc bị tước quyền!
+114|Lãnh thổ, thành trì và quyền lực của họ đều bị tước đoạt.
+115|Người ta ghét bỏ cái tên Kurozumi,
+116|và các thành viên trong gia tộc phải lang thang đầu đường xó chợ!
+117|Lỗi tại ai chứ?!
+118|Ai đã khiến cuộc đời ngươi khốn khổ thế này?!
+119|Ai chịu trách nhiệm cho cảnh nghèo của ngươi?!
+120|Đổ lỗi cho ai đây?!
+121|Là vì hắn được sinh ra!
+122|Kozuki Sukiyaki!
+123|Đúng vậy!
+124|Nếu hắn chưa từng ra đời, một ngày nào đó ngươi đã trở thành tướng quân!
+125|Tướng quân-sama của em!
+126|Em yêu ngài!
+127|Tướng quân-sama của em!
+128|Em yêu ngài!
+129|Tướng quân-sama của em!
+130|Tướng quân-sama của em!
+131|Tướng quân-sama của em!
+132|Những mỹ nhân kìa!
+133|Mình sẽ...
+134|trở thành tướng quân sao?!
+135|Đúng vậy!
+136|Ôi, bực làm sao! Cay đắng làm sao!
+137|Đừng nói ngươi là...
+138|Ý ta là, cũng là người nhà Kurozumi?
+139|Ta là ai không quan trọng!
+140|Suốt thời gian qua ta ở ngoài nước.
+141|Đó là một thử thách lớn...
+142|Nhưng hãy nhìn mặt ta.
+143|Cái gì?!
+144|Cái gì?!
+145|Đó là mặt của mình sao?!
+146|Đó là sức mạnh của Trái Nhân Bản.
+147|Nếu ngươi làm theo chỉ dẫn của ta, ta sẵn lòng ban cho ngươi sức mạnh của riêng ngươi.
+148|Ngươi sẽ cần sức mạnh này nếu muốn làm tướng quân!
+149|Tôi sẽ...! Tôi làm gì cũng được!
+150|Vậy thì bắt đầu tích trữ tiền và chế tạo vũ khí.
+151|Thợ thủ công Wano tay nghề cực kỳ cao!
+152|Lấy họ làm mồi, chắc chắn ngươi sẽ dụ được vài kẻ chống lưng lớn!
+153|Tôi hiểu rồi!
+154|Tại hạ tên là Orochi.
+155|Cả nhà tại hạ đều đổ bệnh,
+156|nên tại hạ phải tìm cách nuôi tất cả họ...
+157|Thật đáng tiếc.
+158|Hãy làm việc cho ta.
+159|Yasuie-sama!
+160|Sao? Orochi biến mất rồi?
+161|Vâng, thưa ngài.
+162|Và dù có lẽ chỉ là trùng hợp,
+163|tiền trong két cũng không còn.
+164|Sao?
+165|Tiền cũng mất rồi sao?
+166|Ngươi là gã ở chỗ Yasu...
+167|Tại hạ tên là Orochi!
+168|Tại hạ mang ơn Yasuie-sama rất nhiều,
+169|nên không thể vay tiền ngài ấy!
+170|Ta hiểu rồi. Cứ tin ở ta!
+171|Tại hạ vô cùng cảm kích!
+172|Oden-sama?!
+173|Cho tôi vay tiền!
+174|Lại nữa sao?!
+175|Cho tôi vay tiền!
+176|Lại nữa sao?!
+177|Xin hãy cho tôi vay tiền!
+178|Lần này chắc chắn tôi trả được!
+179|Tôi xin ngài!
+180|Oden-sama...!
+181|Chúng tôi cũng đang khó khăn về tiền bạc!
+182|Anh ta nói sẽ trả lại!
+183|Oden, sao đột nhiên đến thăm vậy?
+184|Lại không có thuộc hạ đi cùng.
+185|Cho người này ở lại đây được không?
+186|Anh ấy chăm chỉ và còn biết bào chế thuốc.
+187|Anh ấy như em trai của ta vậy.
+188|Tại hạ tên là Orochi.
+189|Mọi người, xin hãy chăm sóc Orochi!
+190|Rất sẵn lòng, thưa ngài!
+191|Tướng quân Sukiyaki!
+192|Cuối cùng ta cũng đi được đến đây!
+193|Sukiyaki-sama! Xin ngài cố lên!
+194|Sukiyaki-sama!
+195|Sukiyaki-sama!
+196|Nếu ta có mệnh hệ gì...
+197|Ta trông cậy vào ngươi, Orochi!
+198|Tất nhiên rồi, thưa ngài!
+199|Các ngươi cũng vậy.
+200|Hãy giúp đỡ Orochi.
+201|– Vâng, thưa ngài. – Vâng, thưa ngài.
+202|Sukiyaki-sama!
+203|T-Tôi đi tìm thầy thuốc!
+204|Chúng tôi sẽ quay lại ngay!
+205|Cứu với! Có ai không?!
+206|Cần thầy thuốc!
+207|Sukiyaki-sama!
+208|Ngài có sao không, Sukiyaki-sama?!
+209|Giao hết cho ngươi, Orochi!
+210|Xin ngài hãy mạnh mẽ, Sukiyaki-sama!
+211|Ngài sẽ làm tướng quân mà!
+212|Không lâu sau đó,
+213|tin tướng quân Sukiyaki qua đời lan khắp Wano.
+214|Một ngày nọ, vào năm thứ tư chuyến đi của Oden...
+215|Cái gì?!
+216|Chuyện gì đang xảy ra vậy?!
+217|Cá đang phát điên lên!
+218|Có thiên tai nào sắp tới sao?!
+219|Chúng đang bơi khỏi hòn đảo đó, Whitekichi!
+220|Ừ...
+221|Có lẽ có quái vật nào đó sống ở đấy.
+222|Marco, đi xem thử đi!
+223|Không đời nào! Tôi không muốn phá hỏng cuộc vui!
+224|Đừng lo, Hiyori!
+225|Không có gì đâu, Momonosuke!
+226|Mình có nên đi kiểm tra không, Pops?
+227|Sao lại không?
+228|Lên bờ thôi!
+229|– Ừ! – Ừ!
+230|Cái gì? Không thể tin nổi!
+231|Những con thú hoang kia đang chạy trốn sao?
+232|Chắc có thứ gì đó trên đảo...
+233|Nếu các ngươi thật sự muốn bắt ta,
+234|ít nhất hãy mang Garp hay Sengoku đến.
+235|Đánh với lũ tay sai như các ngươi chán chết!
+236|Thuyền trưởng!
+237|Tàu của Whitebeard vừa cập bãi biển phía đối diện!
+238|Có vẻ chúng đã phát hiện ra chúng ta!
+239|Bọn ta vừa đánh xong một trận, Roger.
+240|Whitebeard, hả?
+241|Lâu rồi không gặp.
+242|Lũ chim có vẻ đang hoảng loạn...
+243|Chắc chúng đã lên bờ.
+244|Được rồi!
+245|Bắt đầu thôi!
+246|Chết rồi thì không đánh được nữa.
+247|Và thời gian của ta sắp hết.
+248|Đây có thể là lần cuối chúng ta gặp nhau, Whitebeard.
+249|Ai thế kia?!
+250|Chạy nhanh quá!
+251|Hắn là samurai sao?!
+252|Samurai?!
+253|Là người mà tôi từng nghe kể sao?!
+254|Đừng tụt lại phía sau!
+255|Đội trưởng Oden! Đợi đã!
+256|Tôi có nên cướp kho báu của chúng không?!
+257|Tình huống này hoàn toàn khác!
+258|Đừng đụng vào băng Roger!
+259|Hắn chẳng nghe gì cả!
+260|Gun Modoki!
+261|Hắn mạnh như lời đồn.
+262|Ta chặn hắn lại luôn nhé, Rayleigh?
+263|Nghe được đấy!
+264|Khoan, Gaban! Rayleigh!
+265|Ta không thể để hai người bị thương!
+266|Các anh chỉ muốn đánh với hắn thôi.
+267|Ta ngửi thấy mùi một con thú!
+268|Này, samurai!
+269|Divine Departure!
+270|Cái quái gì vậy?!
+271|Chết tiệt! Ta không thể bỏ qua chuyện này!
+272|Ra là ngươi!
+273|Họ còn chẳng chạm vào nhau!
+274|Con tàu!
+275|Trông ông vẫn khỏe...
+276|Roger!
+277|Đã bao lâu rồi...
+278|Newgate?!
+279|– Bỏ kho báu xuống rồi cút đi! – Bỏ kho báu xuống rồi cút đi!
+280|Cho chúng nếm mùi đi!
+281|Cướp sạch chúng!
+282|Hai hải tặc vĩ đại nhất thời đại đã đụng độ!
+283|Băng Roger đối đầu băng Râu Trắng.
+284|Trận chiến khốc liệt này kéo dài ba ngày ba đêm.
+285|Đừng coi thường ta!
+286|Ta chưa bao giờ coi thường đối thủ,
+287|chàng trai trẻ.
+288|Vậy thì, ba hộp thịt khô đổi lấy một thùng?!
+289|Chốt!
+290|Tôi thích cái áo này! Anh lấy ở đâu vậy?!
+291|Cho tôi thêm đi!
+292|Khoan! Anh lấy nhiều quá!
+293|Phải cân bằng chứ!
+294|Lỗi của tôi.
+295|Hay anh thêm chút gì cho đẹp giao dịch nhé?
+296|Được!
+297|Từ cướp bóc chuyển sang trao đổi quà tặng...
+298|Họ là người tập sự à?
+299|Hả? Ừ.
+300|Nghĩ lại thì, họ ở đây suốt từ đầu rồi.
+301|Trông không mạnh lắm...
+302|Nhưng hành xử...
+303|như những lão luyện.
+304|Này!
+305|Shanks!
+306|Gì thế?
+307|Thấy gã đội mũ ở đằng kia không?
+308|Ừ.
+309|Nghe nói gã không chợp mắt chút nào trong những lần ngừng chiến ban đêm!
+310|Sao vậy?
+311|Gã khoe mẽ à?
+312|Còn lâu mới phải!
+313|Họ bảo từ ngày sinh ra gã chưa từng ngủ! Chưa một lần!
+314|Hả? Có người như vậy sao?
+315|May mắn thật.
+316|Không biết đời gã có vui gấp đôi không!
+317|Đồ ngốc!
+318|Không đơn giản vậy đâu!
+319|Gã phải là quái vật!
+320|Quái vật...?
+321|Này, Oden!
+322|Ngươi thật sự đọc được nó sao?!
+323|Đúng vậy, ta đọc được.
+324|Nhưng sao ngươi lại có loại chữ này?!
+325|Gia tộc Kozuki của Wano chỉ truyền kiến thức về loại chữ này cho một người con trai mỗi đời.
+326|Đã mười ba năm rồi...
+327|Cuối cùng chúng tôi đã đến Lodestar Island, hòn đảo cuối cùng mà Log Pose chỉ tới,
+328|nơi chưa từng có ai đặt chân.
+329|Nhưng niềm vui của chúng tôi bị cắt ngang khi nhận ra...
+330|đó không phải hòn đảo cuối cùng!
+331|Kim của Log Pose cứ quay mãi và không khóa vào đâu cả!
+332|Tôi đã tin chắc.
+333|Phải còn một hòn đảo nữa!
+334|Khi đến được đó, tôi sẽ là người đầu tiên đi vòng quanh thế giới!
+335|Và vị trí của hòn đảo ấy được giấu trong chữ viết trên bốn phiến đá đỏ này!
+336|Nhưng Chính phủ Thế giới luôn cấm bất cứ ai giải mã chúng.
+337|Chúng được gọi là Poneglyph.
+338|Tôi tưởng chúng chỉ là cổ vật văn hóa,
+339|nhưng thật ra chúng là tấm bản đồ quan trọng chỉ ra vị trí hòn đảo cuối cùng.
+340|Chính phủ bảo chúng ta đừng đến hòn đảo cuối cùng,
+341|nơi được cho là chứa kho báu vô tận!
+342|Càng khiến nó hấp dẫn hơn!
+343|Nếu đến được đó, chúng ta sẽ xứng đáng cả danh lẫn thực...
+344|là băng hải tặc vĩ đại nhất thế giới!
+345|Vĩ đại nhất thế giới?
+346|Đúng vậy!
+347|Và rồi, tôi sẽ...!
+348|Tôi không thể cử động.
+349|Lần thứ hai trong ngày, tôi lặng người không nói nên lời.
+350|Rốt cuộc người đàn ông này là ai?!
+351|Ngươi đang nói gì vậy, Roger?!
+352|Đó là ảo mộng của trẻ con!
+353|Tôi nghiêm túc đấy, Newgate!
+354|Xin ông!
+355|Tôi chỉ cần cậu ấy một năm.
+356|Hãy cho tôi mượn Oden!
+357|Đây là lời thỉnh cầu cuối cùng của tôi!
+358|Có cậu ấy, tôi chắc chắn đến được hòn đảo cuối cùng!
+359|Này, có lẽ ngươi nên hỏi ta trước chứ!
+360|Xin ông, Newgate!
+361|Tôi cầu xin ông!
+362|Này, dừng lại, thuyền trưởng Roger! Hắn là kẻ thù của chúng ta!
+363|Dừng lại! Điều đó không xứng với ngài!
+364|Đừng cúi đầu!
+365|Xin cậu, Oden!
+366|Hãy đồng hành cùng chúng tôi chỉ một năm thôi!
+367|Cút đi!
+368|Roger! Ngươi định cướp gia đình của ta khỏi ta sao?!
+369|Nhưng ta không thể không thấy phấn khích!
+370|Sao gia tộc Kozuki lại đọc được loại chữ này?
+371|Sao đường đời của chúng ta lại giao nhau?
+372|Chưa kịp nghĩ, lời đã bật ra khỏi miệng ta!
+373|Whitekichi!
+374|Ta muốn đi cùng anh ấy!
+375|Xin cho phép ta đi!
+376|Ta muốn tận mắt thấy hòn đảo cuối cùng mà anh ấy nói!
+377|Ông trông bực bội kìa!
+378|Tất nhiên rồi!
+379|Cậu như em trai của tôi vậy!
+380|Chỉ một năm thôi, Whitekichi!
+381|Xin ông!
+382|Bảo trọng nhé!
+383|Ta sẽ vậy!
+384|Chúng tôi quyết định ở lại.
+385|Chúng tôi quý con tàu này.
+386|Chúng tôi sẽ đợi ngài về ở đây.
+387|Chắc chắn rồi.
+388|Các con, giờ các con đã là hải tặc thực thụ!
+389|Hãy cứ làm theo ý mình!
+390|Pops! Ông không tiễn cậu ấy sao?
+391|Roger để lại cho chúng ta một món quà cảm ơn không nhỏ.
+392|Cả đống kho báu!
+393|Và nhìn đống đồ ăn này nữa!
+394|Cái gì?!
+395|Lũ ngốc!
+396|Trả đồ ăn lại cho họ!
+397|Ta sẽ không tha thứ nếu họ để gia đình Kozuki Oden bị đói!
+398|Nhanh lên!
+399|Vâng!
+400|Làm ngay đây!
+401|Oden-sama!
+402|Hẹn gặp lại mọi người!
+403|Cố hết sức nhé!
+404|Chờ nghe câu chuyện về chuyến đi của anh!
+405|Bảo trọng nhé!
+406|Chương thứ hai trong đời hải tặc của ta đã bắt đầu.
+407|Một cuộc phiêu lưu mới đang ở phía chân trời!
+408|Whitekichi là người vĩ đại, nhưng Roger có chiều sâu không thể đong đếm.
+409|Vận may thật sự đã mỉm cười với ta!
+410|Ôi, ngoan nào, ngoan nào.
+411|Lên nào, lên nào!
+412|Đã lâu lắm rồi chúng ta không bế em bé!
+413|Ừ.
+414|Gợi lại bao kỷ niệm.
+415|Momonosuke và Hiyori...
+416|Được không?
+417|Nào! Ú òa!
+418|Thuyền trưởng Roger!
+419|Có kẻ trốn trên tàu!
+420|– Oden-sama! – Oden-sama!
+421|Inuarashi!
+422|Nekomamushi!
+423|Các ngươi làm gì ở đây?!
+424|Bọn ta thích ở bên ngài hơn bất cứ ai meow!
+425|Con chó và con mèo biến mất rồi!
+426|Lũ ngốc đó...!
+427|Oden! Ngươi ở đây chỉ vì thuyền trưởng cần chuyên môn của ngươi.
+428|Hiểu chưa?
+429|Tiếp theo, củ cải!
+430|Trộm!
+431|Thuyền trưởng sẽ giết hắn mất.
+432|Oden! Đừng đụng đến dân thường!
+433|Ta vẫn cần thêm nhiều nguyên liệu!
+434|Nguyên liệu để làm gì?!
+435|Ngươi to gan thật!
+436|Hả?! Thị trấn này thật sự vô pháp vô thiên sao?!
+437|Gaban, bọn họ...
+438|Ừ.
+439|Có vẻ họ không phải dân thường rồi.
+440|Oden!
+441|Hắn trúng đòn trực diện!
+442|Oden!
+443|Oden! Ngươi...
+444|Hắn còn sống!
+445|Ồ!
+446|Gaban, họ không phải dân thường, đúng không?
+447|Không, không phải...
+448|Oden.
+449|Được rồi.
+450|Ta vẫn cần ít tảo bẹ!
+451|Tảo bẹ?!
+452|Nó nấu nước dùng rất ngon.
+453|Ngươi kỳ quặc thật!
+454|Ôi, kệ đi!
+455|Xông lên!
+456|– Oden! – Oden!
+457|– Oden! – Oden!
+458|– Oden! – Oden!
+459|– Oden! – Oden!
+460|♪ Ôi, củ cải, ganmo! ♪
+461|♪ Chikuwa và trứng! ♪
+462|♪ Một, hai, ba, cứ ăn đi! ♪
+463|♪ Oden sinh ra là để... ♪
+464|♪ nấu sôi! ♪
+465|Hả? Thuyền trưởng, ngài bị cảm sao?
+466|Ừ, nhưng không sao đâu.
+467|Có sao đấy, đồ ngốc!
+468|Ông ấy chỉ còn sống được một năm là cùng!
+469|Cái gì?!
+470|Ta đang sống hết tốc lực.
+471|Nó đến rồi... Knock-Up Stream!
+472|Mình sắp chết rồi!
+473|Một hòn đảo!
+474|Vậy đó là...
+475|Đảo trên trời!
+476|Chào mừng, cư dân Biển Xanh. Các vị đã đi một chặng đường dài.
+477|– Heso! – Heso!
+478|Thế giới thật rộng lớn! Những điều kỳ diệu không có điểm dừng!
+479|Ngay cả Đức Phật cũng không thể tưởng tượng có người sống trên trời!
+480|Phải mất ít nhất mười năm mới điều khiển được waver.
+481|Chạy đi!
+482|Vậy đây là Thành phố Vàng, Shandora!
+483|– Ồ! – Ồ!
+484|Tôi tìm thấy rồi!
+485|Nó ở tận trên này sao?!
+486|Đó chắc là chuông lớn của Shandora!
+487|Nó bằng vàng nguyên chất!
+488|Thuyền trưởng, làm sao mang nó về đây?
+489|Ta không có thời gian.
+490|Khi nào ngươi làm thuyền trưởng, hãy tự đến lấy, Buggy.
+491|Cái gì?!
+492|Ít nhất giờ ta cũng lấy được một mảnh!
+493|Với giọng mạnh mẽ thế này, phiến đá rất dễ tìm.
+494|Nó nói về một sức mạnh to lớn, đúng không?
+495|Văn bản nhắc đến một vũ khí tên là Poseidon.
+496|Ra vậy...
+497|Oden, ngươi cũng viết được loại chữ này, đúng không?!
+498|Vâng, tất nhiên.
+499|Vậy hãy khắc thông điệp này!
+500|Roger sắp đến cuối đời...
+501|Thật khó hiểu, nhưng nếu ông ấy sống gấp gáp như vậy,
+502|tôi sẽ theo ông ấy đến cùng!
+503|Thế nào?
+504|Hoàn hảo, Oden!
+505|"Tôi đã đến được đây.
+506|Tôi sẽ dẫn dòng chữ này đến tận cùng thế giới.
+507|Hải tặc Gol D. Roger."
+508|Tôi phải thấy nó, Roger.
+509|Chương cuối của cuộc đại phiêu lưu mà ngài đã dành cả đời!
+510|Các con! Quay về Biển Xanh thôi!
+511|– Ừ! – Ừ!
+512|28 năm trước, năm thứ hai chuyến đi của Oden
+513|28 năm trước, năm thứ hai chuyến đi của Oden
+514|28 năm trước, năm thứ hai chuyến đi của Oden
+515|Gia tộc Shimotsuki
+516|Gia tộc Kurozumi
+517|Gia tộc Uzuki
+518|Gia tộc Amatsuki
+519|Gia tộc Fugetsu
+520|Hakumai
+521|Một tháng sau
+522|Kuri
+523|Hoa Đô
+524|Kozuki Sukiyaki (cha của Oden), Tướng quân Wano
+525|Trở về nơi bắt đầu
+526|Ngày thứ hai
+527|Ngày thứ hai
+528|Ngày thứ ba
+529|Ngày thứ ba
+530|Ngày thứ tư...
+531|Ngày thứ tư...
+532|Lodestar Island
+533|Thị trấn Mock, Jaya
+534|Thị trấn Mock, Jaya

@@ -1,0 +1,419 @@
+1|Cha ơi!
+2|Cha ơi!
+3|Cha ơi!
+4|Trái SMILE không chỉ là Trái Ác Quỷ nhân tạo sao?
+5|Ngài Yasuie!
+6|Tonoyasu...!
+7|Chết tiệt! Chúng ta đến muộn rồi!
+8|Sao tại hạ không nhận ra ngài ấy cho đến khi bị treo lên đó?!
+9|Tại hạ nên mổ bụng vì sai lầm này...!
+10|Ngài Yasuie!
+11|Tonoyasu!
+12|Ngài Yasuie!
+13|Ông ấy chết rồi!
+14|Cái quái gì thế này?!
+15|Dân thị trấn Ebisu yêu mến Tonoyasu.
+16|Sao họ lại cười?!
+17|Tên khốn Orochi có khiếu hài hước méo mó thật...
+18|Đúng là một lũ điên!
+19|Họ cười trước cái chết của daimyo cũ của mình!
+20|Thật tàn độc, Orochi...
+21|Ngài Yasuie... Việc ngài còn sống đến hôm nay thật khó tin...!
+22|Vậy là kẻ địch biết về cuộc đột kích chúng ta đang lên kế hoạch!
+23|Vì thế ngài, ngài Yasuie...
+24|đã liều mạng...
+25|để giữ kế hoạch của chúng ta sao?!
+26|Phải có lý do chính đáng.
+27|Dù ông ấy là ai...
+28|không ai đáng bị cười nhạo khi chết.
+29|Không ai cả!
+30|Có lẽ là do trái SMILE.
+31|Một số người trong số họ đang ở đây với chúng ta. Họ chỉ biết cười.
+32|Inuarashi, Kin'emon,
+33|các ngươi biết về trái SMILE chứ?
+34|Lẽ ra ta nên nói với các ngươi.
+35|Những gương mặt tươi cười của dân thị trấn Ebisu...
+36|chỉ là mặt nạ.
+37|Họ đeo những chiếc mặt nạ không thể tháo...
+38|không bao giờ!
+39|Vài năm trước, Kaido và Orochi...
+40|bắt đầu nhập một loại trái cây nhân tạo nào đó...
+41|để đổi lấy vũ khí chế tạo trong nước này.
+42|Trái SMILE...!
+43|Ăn một trái cây kinh khủng đó, bạn nhận cơn thịnh nộ của biển và không thể bơi.
+44|Đổi lại, bạn có sức mạnh và sự hung dữ của một loài thú.
+45|Những Trái Ác Quỷ nhân tạo đó sao?
+46|Chúng tôi đã phá hủy nhà máy sản xuất chúng.
+47|Đúng... Tại hạ nghe ngài Kin kể...
+48|nhưng đất nước đã nhận nhiều hơn mức đáng kể loại trái đó nhập vào.
+49|Mục tiêu của Kaido là dùng chúng để biến thuộc hạ thành quái thú hung tợn...
+50|và tạo ra băng hải tặc đáng sợ nhất thế giới.
+51|Nhưng thứ gì quá tốt để là thật thì luôn có cạm bẫy.
+52|Tỷ lệ thành công để tăng sức mạnh như mong muốn là khoảng 10 phần trăm.
+53|Chỉ một trong mười người ăn trái SMILE có được sức mạnh.
+54|Chín người còn lại không được tăng cường gì và chỉ chịu hậu quả.
+55|Họ đương nhiên mất khả năng bơi...
+56|nhưng do tác dụng phụ của loại thuốc lỗi này...
+57|họ không còn thể hiện được nỗi buồn hay cơn giận
+58|và không làm được gì ngoài cười.
+59|Gì cơ?!
+60|Tôi khá chắc hợp chất SAD của Caesar là thành phần hoạt tính trong trái SMILE!
+61|Ai ngờ nó có tác dụng phụ độc hại thế?
+62|Kaido chẳng quan tâm đến sự an toàn của thuộc hạ.
+63|Điều quan trọng chỉ là có những chiến binh mạnh.
+64|Băng Bách Thú có ba loại chiến binh.
+65|Những người chờ cơ hội ăn trái SMILE để có sức mạnh thú
+66|là Waiters!
+67|Những người mạnh nhất trúng tỷ lệ một phần mười để có sức mạnh thú
+68|là Gifters!
+69|Những chiến binh ăn phải trái lỗi và chỉ biết cười
+70|là Pleasures!
+71|Tệ hơn nữa, để nhạo báng những kẻ kém may đã lỡ cơ hội có sức mạnh,
+72|họ đặt tên trái nhân tạo sau khi thấy kết quả tiêu cực trên mặt những người lính đó...
+73|trái SMILE!
+74|Tôi thấy cái tên lạ, dù những Trái Ác Quỷ đó là nhân tạo, nhưng...
+75|sự thật thật kinh hoàng!
+76|Bi kịch còn sâu hơn nữa!
+77|Orochi tìm thấy những trái SMILE lỗi chỉ bị cắn một miếng.
+78|Chỉ còn tác dụng phụ bất lợi trong những trái này,
+79|nên họ có thể tạo ra thêm Pleasures mới.
+80|Hắn đã không...!
+81|Trong khu thị trấn đồ thừa ngoài Hoa Đô,
+82|những người chết đói mỗi ngày đang kêu la.
+83|Orochi đã chán ngấy tất cả,
+84|nên hắn trộn những trái SMILE hỏng vào đồ thừa của kinh đô.
+85|Nhìn kìa, táo! Còn tươi nữa!
+86|Đủ cho mọi người! Một bữa tiệc!
+87|Chỉ vài lần là mọi người đều biết...
+88|trái đó đang gây ra gì.
+89|Nhưng dù vậy, những người dân bị ruồng bỏ này...
+90|không thể cưỡng lại cơn đói!
+91|Đó là cách thị trấn Ebisu trở thành nơi ai cũng tươi cười vui vẻ.
+92|Thoạt nhìn thì có vẻ thật vui,
+93|nhưng đó là thị trấn bi thảm nơi người ta không thể khóc thương cái chết của cha mẹ.
+94|Nên...
+95|xin đừng trách những người đang cười.
+96|Trong mọi loài, chỉ con người mới biết cười!
+97|Ừ!
+98|♪ Vì thế bạn cứ phải cười! ♪
+99|Cha ơi...
+100|Cha ơi!
+101|Bi kịch này...
+102|là tội lớn nhất của Tướng quân Orochi...
+103|Hắn gây ra nỗi khổ lớn cho dân...
+104|và còn cấm họ than khóc!
+105|Nếu nơi này...
+106|không phải địa ngục...
+107|thì là gì?!
+108|Zorojuro!
+109|Cái chết này hợp với ngươi lắm, Yasuie!
+110|Sao dám sống ngang nhiên trên đất nước của ta,
+111|đồ nhím xấc xược!
+112|Hay nên nói là, đồ chuột hèn mọn!
+113|Đúng rồi, mọi người!
+114|Daimyo Hakumai yêu quý cũ của các ngươi, Shimotsuki Yasuie, đã chết!
+115|Hãy tiễn ông ta sang thế giới bên kia bằng tiếng cười gào của các ngươi!
+116|Đây là Wano! Wano tươi sáng vui vẻ!
+117|Gần như là thiên đường!
+118|Cười đi! Cứ tiếp tục cười!
+119|Toko?
+120|Toko!
+121|Không, Toko! Quay lại đây!
+122|Cha ơi...
+123|Cha ơi. Cha ơi.
+124|Cha ơi!
+125|Cha ơi...!
+126|Con có thuốc tốt đây.
+127|Đó là cô gái ở quán soba!
+128|Otoko!
+129|Chắc cô ấy là con gái của Tonoyasu!
+130|Gì cơ?!
+131|Cha ơi, quay lại với con.
+132|Thuốc này sẽ chữa lành vết thương của cha.
+133|Nó gọi là dầu cóc và hiệu quả cực kỳ!
+134|Giờ cha sẽ ổn thôi.
+135|Tôi xin lỗi, Otoko!
+136|Thuốc đó không có tác dụng đâu!
+137|Hiyori!
+138|Làm ơn, Toko! Quay lại đi!
+139|Cha ơi.
+140|Ngươi đây rồi, con nhãi ranh.
+141|Tránh đường!
+142|Ta hiểu rồi. Nó là con gái Yasuie!
+143|Thảo nào hỗn xược thế!
+144|Nếu ngươi...! Nếu ngươi...!
+145|Nếu ngươi...
+146|không cười như đồ ngốc đêm đó...
+147|thì Komurasaki đã không phải chết!
+148|Đồ ranh con!
+149|Cha ơi! Cha ơi!
+150|Hai ngươi...! Gia đình các ngươi đúng là biết cách chọc tức ta!
+151|Dậy đi, cha ơi!
+152|Ta sẽ xử tử cả ngươi!
+153|Chết đi, đồ ranh con!
+154|Otoko, chạy đi!
+155|Ta không muốn mất cả con nữa!
+156|Biến khỏi mắt ta!
+157|H-Họ là...
+158|Zorojuro kẻ giết quan tòa và Sangoro đầu bếp soba!
+159|Hai tên ngốc đó làm chuyện rồi...!
+160|Sẽ rắc rối đây.
+161|Nhưng cũng không thể trách họ được!
+162|Ừ, tôi mừng vì họ lao tới cứu Otoko.
+163|Chết tiệt các ngươi dám can thiệp vụ xử tử!
+164|Con chuột và bầy của nó cứ mọc ra từ đâu thế hả?!
+165|Con nhãi của Yasuie đã phạm trọng tội!
+166|Này, samurai! Ta cho phép các ngươi giết bất kỳ ai cản trở việc xử tử!
+167|– Rõ, thưa ngài! – Rõ, thưa ngài!
+168|Này, mấy khẩu súng đó đang chĩa vào chúng ta à?!
+169|Ôi không!
+170|Chạy đi, lũ ngốc!
+171|Chém chúng!
+172|Xin lỗi, nhưng tao không có thời gian cho mày.
+173|Tao cũng vậy!
+174|Vậy cút khỏi đây đi, Browgoro!
+175|Browgoro?
+176|Là Sangoro!
+177|Mày cút khỏi đây đi, Mossjuro!
+178|Mossjuro?!
+179|Mày có cái đầu như cục rêu!
+180|Mày nói gì?!
+181|Để tao chém mày trước khi Orochi làm thế nhé?!
+182|Im đi! Vậy tao sẽ đá vào mông mày trước khi Kaido làm!
+183|Muốn thử không?!
+184|Cha ơi!
+185|Otoko, con an toàn rồi!
+186|Anh ta là bạn của Zorojuro à?
+187|Roronoa Zoro của băng Mũ Rơm.
+188|Còn người kia là...
+189|Vinsmoke Sanji...
+190|Rốt cuộc băng Mũ Rơm đã tụ họp ở Wano.
+191|Dù vậy, tôi ngạc nhiên vì họ xuất hiện ngang nhiên thế.
+192|– Này! – Này!
+193|Có vấn đề gì với việc bọn tao ngang nhiên không?!
+194|Ừ, có không?! Với lại...
+195|đừng bao giờ gọi tao là Vinsmoke! Hiểu chưa?!
+196|Vậy giải quyết ngay tại đây!
+197|Bắn!
+198|Tên lãng nhân chết tiệt đó...
+199|Chuẩn bị!
+200|Bắn!
+201|Mau đưa Otoko ra khỏi đây đi!
+202|Không, chưa được!
+203|Hắn là của tao...!
+204|Chuột mà láo thật!
+205|Chăm sóc cô bé nhé!
+206|Gì?! K-Khoan!
+207|Hắn tấn công sao?!
+208|Xung phong! Giao chiến với hắn!
+209|Tên lãng nhân đó đang lao về phía ta!
+210|Chạy đi, Browgoro!
+211|Biết thân biết phận và giữ lễ phép đi, đồ hạ đẳng!
+212|Việc chém ngươi là phần của ta!
+213|Này, Đầu Rêu! Đừng xông vào mà không có hỗ trợ!
+214|Sẵn sàng vũ khí!
+215|Ôi không!
+216|Bắn!
+217|Dừng lại ngay, đồ ngốc!
+218|Tonoyasu chết vì cái gì chứ?!
+219|Ôi chao, khoan đã, anh ơi!
+220|Chúng tôi sống trên ranh giới chẵn lẻ, như thiện và ác vậy.
+221|Dừng chuyện này ở đây đi!
+222|Được không?!
+223|Ở đất nước này, chúng tôi gọi gương mặt tươi cười của mọi người
+224|là "nụ cười Ebisu", anh ạ!
+225|Vì thế nơi này mới gọi là Ebisu!
+226|Chúng tôi sẽ không để nghèo khó đánh gục!
+227|Yasu...
+228|Chẳng lẽ là người của các Hồng Bao?
+229|Này! Bảo vệ ta đi, samurai!
+230|Phượng Hoàng Bảy-Hai-Mươi Cân!
+231|Người đó là ai?!
+232|Đại ca Kyoshiro...
+233|Thưa ngài, ngài bất cẩn quá.
+234|Ngài không nên đến buổi xử tử với đội hộ tống nhỏ như vậy.
+235|Nhưng... tên lãng nhân đó...
+236|thực sự định giết ta.
+237|Này, Đầu Rêu! Mày nghĩ mày đang làm cái quái gì vậy?!
+238|Bình tĩnh lại!
+239|Tấn công bất ngờ từ con quái vật đó sao?!
+240|Nhận lấy này!
+241|Chuẩn bị bắn!
+242|Chà chà chà... Quả thật cảnh này sẽ thành cuộc tắm máu...
+243|Phải làm sao? Chỉ đứng đây xem à?!
+244|Giờ đứng ngoài cuộc chiến cũng vô ích!
+245|Khoan! Làm vậy sẽ phá hỏng cả chiến dịch!
+246|Và nếu can dự, chúng ta sẽ không còn được chào đón ở kinh đô.
+247|Dù vậy, chúng ta không thể để họ xúc phạm thi thể ngài Yasuie!
+248|Phải bằng cách nào đó mang ngài ấy đi!
+249|Có thể đúng, nhưng...
+250|Chia ra thôi. Tập hợp ở đâu đây?
+251|Tại hạ sẽ cùng chiến đấu!
+252|Không, khoan! Bây giờ không phải lúc để người liên quan đến ngài Oden bị nhìn thấy ở đây!
+253|Đúng vậy. Hai ngươi phải lẻn đi mà không bị thấy.
+254|Nhưng...
+255|Chúng tôi là người bắt đầu chuyện này, nên tự lo liệu.
+256|Chúng tôi không biết cảm ơn thế nào cho đủ.
+257|Chúng ta phải đi, Shinobu. Giao việc này cho phu nhân Onami.
+258|Đưa tướng quân về lâu đài.
+259|Các ngươi biết phải làm gì! Giết chúng!
+260|Giết bất kỳ ai đứng chống lại ta!
+261|Hắn không thoát được đâu!
+262|Bắn!
+263|Yểm trợ tôi!
+264|Được rồi!
+265|Chống đạn sao?!
+266|Gã thợ mộc đó là sao vậy?!
+267|Strong Right!
+268|Họ là ai?!
+269|Mấy tên này là cái quái gì vậy?!
+270|Ồ, hắn kia rồi!
+271|A! Hắn mang ngài Yasuie đi rồi!
+272|Rốt cuộc chuyện gì đang xảy ra vậy?!
+273|Đừng lo! Tôi sẽ không để họ xúc phạm thi thể ngài ấy!
+274|Ôi không!
+275|Đó là...?!
+276|Ồ, Usohachi! Cảm ơn, cậu cứu tôi rồi!
+277|Hắn ở trên cái thang đó! Hạ hắn xuống!
+278|Này, mỉa mai quá nếu xạ thủ lại bị bắn hạ!
+279|Mil Fleurs:
+280|Gigantesco Mano Spank!
+281|Cảm ơn đã giúp, Orobi!
+282|Lại thêm một người nữa à?
+283|Người phụ nữ đó... là geisha lúc nãy! Tôi biết ngay cô ta là phù thủy!
+284|Kẻ địch rất mạnh! Bao vây chúng!
+285|Onami!
+286|Giao họ cho tôi!
+287|Thunderbolt Tempo!
+288|Tránh ra!
+289|Tôi không nghĩ vậy!
+290|Vậy thì...
+291|nếm thử thép đi!
+292|Tại hạ là chó săn của tướng quân.
+293|Poêle à Frire: Spectre!
+294|Kết thúc nhanh rồi cút khỏi đây thôi!
+295|Ừ!
+296|Lethal Atlas Comet!
+297|Mil Fleurs: Gigantesco Mano!
+298|Weapons Left!
+299|Tornado Tempo!
+300|Toàn quân, tấn công! Xung phong!
+301|Phiến quân đang nổi loạn ở thị trấn Rasetsu!
+302|Theo lệnh tướng quân, những tội phạm này bị truy nã sống hay chết!
+303|Giết chúng nếu cần!
+304|Đi thôi, các cậu!
+305|Đá đít chúng đi!
+306|Này, ngài Mũ Rơm...
+307|Chính là nó!
+308|Hả?
+309|Mấy người trên hình chiếu ốc sên cuộn ánh sáng kia là bạn cậu à?
+310|Hả? Đúng rồi. Tôi được dặn giữ bí mật.
+311|Nhưng tôi không quan tâm lắm.
+312|Đi nào!
+313|Vào đó đi! Cậu làm được! Hạ chúng!
+314|Chuyện này không ổn rồi.
+315|Zorojuro! Cố lên!
+316|Này, Mũ Rơm!
+317|Gã tóc xanh lá đó đi cùng cậu à?
+318|Đó chẳng phải Zorojuro, tên tội phạm đê hèn giết quan tòa sao?
+319|Náo nhiệt thật! Trong tất cả mọi người, hắn lại nhắm vào Orochi!
+320|Có chuyện gì, Babanuki? Đang hay đây. Lát nữa quay lại.
+321|Nhưng một tên tội phạm vừa đến từ Hoa Đô...
+322|Từ Hoa Đô? Lúc này mà là ai nhỉ?
+323|Hắn sẽ đến ngay thôi.
+324|Qua cánh cổng kia.
+325|Ai đó?
+326|Tên rác vô dụng này đã thất bại nhiệm vụ tướng quân giao ở Hoa Đô.
+327|Ngài Orochi nói cứ trừng phạt hắn tùy ý chúng ta!
+328|Xin giới thiệu Kamazo Tử Thần!
+329|Vậy ngươi là Kamazo mà ta nghe nhiều đó hả?!
+330|Và còn một tên nữa!
+331|Đứng lại.
+332|Đây là báo cáo của tôi:
+333|Khi áp giải Kamazo đến đây, chúng tôi bắt thêm một tên tội phạm khác!
+334|Tên trốn thoát, Thuyền trưởng Kid!
+335|Jaggy!
+336|Tên cặn bã này vừa tiến lại gần vừa hét gì đó,
+337|nên tôi bắn cho vài phát.
+338|Vậy mà hắn vẫn không chạy!
+339|Chắc hắn quên là mình đang đeo còng đá biển!
+340|Kid! Đầu mày toàn đá hả?!
+341|Hắn thoát êm rồi, sao còn để bị bắt?!
+342|Này, dừng lại!
+343|Tao bảo dừng lại!
+344|Cậu từng nói ghét cách mình cười...
+345|Đến một lúc, cậu còn ngừng cười thành tiếng hẳn!
+346|Chẳng phải cậu là kẻ đánh nhừ tử bất kỳ ai chế nhạo cách cậu cười sao?!
+347|Vậy nên... dừng lại đi...
+348|Rồi sau đó, cậu bắt đầu đeo mặt nạ che mặt...
+349|Đó là người tôi từng biết...
+350|Rốt cuộc cậu bị sao vậy?!
+351|Sau khi chúng ta bị tách ra, Kaido đã làm gì cậu?!
+352|Hay là Orochi đã ra tay với cậu?! Mọi người còn lại đâu?!
+353|Trả lời tôi!
+354|Nào, trả lời tôi đi...!
+355|Làm ơn trả lời tôi,
+356|Killer!
+357|Gì cơ?! Là hắn sao?!
+358|Gã đeo mặt nạ đi cùng Jaggy sao?
+359|Chắc Jaggy đã cố cứu hắn...
+360|Tàn nhẫn quá...
+361|Bị ép ăn trái SMILE,
+362|hắn mắc kẹt với chiếc mặt nạ cười không thể tháo.
+363|Tên khốn Orochi làm những chuyện không thể nói thành lời...
+364|Chúng đã làm gì cậu mà cậu thay đổi nhiều thế này?!
+365|Ai đã làm điều này với bạn đồng hành của tao?!
+366|Thuyền viên của tao đâu?!
+367|Chết tiệt!
+368|Đừng có đùa với tao!
+369|Chết tiệt mày!
+370|Mày có gì muốn nói với tao à?
+371|Đúng vậy. Ta nghĩ ra một trò vui.
+372|Xin lỗi để các ngươi đợi, lũ khốn!
+373|Địa ngục Sumo...
+374|đã trở lại!
+375|Tuy nhiên, có luật mới.
+376|Lưỡi dao ở cổ áo các ngươi sẽ giết các ngươi ngay khi bước ra khỏi võ đài.
+377|Luật đó không đổi.
+378|Nhưng luật mới là...
+379|chừng nào các ngươi còn sống, hai người kia sẽ bị nhấn chìm trong nước.
+380|Nói cách khác, ngay khi ngươi và lão già đó...
+381|chết cứng...
+382|chúng ta sẽ kéo hai người đó lên khỏi nước.
+383|Thật ngu ngốc! Tao chẳng liên quan gì đến họ!
+384|Ồ, ta biết.
+385|Nhưng ta tự hỏi,
+386|sao luật này lại khiến ngươi bực bội?
+387|Có phải vì hai ngươi là đối thủ cùng thế hệ không?
+388|Nếu vậy thì hy sinh bản thân cho họ ngay đi.
+389|Tai tiếng và tiền truy nã hàng trăm triệu Beri chẳng nghĩa lý gì...
+390|khi mọi con người...
+391|đều chết đuối trong năm phân nước.
+392|Trò chơi bắt đầu!
+393|Nếu vậy...
+394|lên võ đài với tao!
+395|Tao sẽ đá đít mày và kết thúc chuyện này!
+396|Mày nghĩ mày đang nói chuyện với ai?
+397|Đừng có láo...
+398|đồ ranh con!
+399|Ngài Mũ Rơm!
+400|Này.
+401|Nhóc.
+402|Điều gì khiến ngươi bám víu hy vọng như vậy?
+403|Ngươi thực sự nghĩ sẽ sống sót rời khỏi đây sao?
+404|Ngươi nghĩ có thể đánh bại bọn ta à?
+405|Tất cả các ngươi sẽ chết!
+406|Từng người một!
+407|Câm miệng đi!
+408|Tao chết...
+409|ở nơi tao chọn!
+410|Này, tiếng gì thế?!
+411|Này, có chuyện gì vậy?!
+412|Này! Mau trả lời đi!
+413|Queen, Ngài Tuyệt Vời, chúng tôi mất liên lạc với lính gác cổng!
+414|Cuối cùng tôi cũng tới.
+415|Oshiruko!
+416|Nhà tù Rasetsu Hoa Đô
+417|Trại Mỏ Tù Nhân Udon
+418|Thị trấn Bakura Kuri
+419|X Drake Trái Saur-Saur Cổ Đại: Allosaurus

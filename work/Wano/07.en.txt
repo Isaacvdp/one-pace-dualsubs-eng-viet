@@ -1,0 +1,299 @@
+1|All right! Let's go, guys!
+2|What's the matter, Bepo?
+3|Bepo, you didn't...
+4|Room!
+5|Scan!
+6|I knew it.
+7|Sorry.... I couldn't help myself, and...
+8|A-Am I gonna die, Captain?
+9|No way! You've just got the runs.
+10|Didn't I tell you not to eat fish from the river?
+11|Boy, the timing couldn't be any worse!
+12|I-I'm sorry...
+13|Stop acting cute!
+14|Man! Why's everyone causing trouble?
+15|I hope they're laying low...
+16|Those morons...
+17|They're rebels!
+18|Boss! We have a group of lowlife rebels here!
+19|The magistrate killer, Zorojuro, is with them!
+20|Fear not.
+21|I'm on my way.
+22|One of them has a straw hat around his neck, right?
+23|Y-Yes, sir!
+24|Do not engage.
+25|You are no match for them!
+26|How could you do that to the yokozuna?!
+27|You're just a damn nobody!
+28|We'll teach you a lesson!
+29|Is Tama the brat who Boss Holdem has captive?!
+30|You want her back?! Bring it on!
+31|First a sumo match and now a sword fight?!
+32|Get them!
+33|Give us back Tama!
+34|He threw it again...
+35|Tama!
+36|What should I do?!
+37|You can stop acting.
+38|I'm not gonna help you!
+39|So I should also... c-cut them?
+40|Cut them!
+41|It's how you'll save the kid!
+42|Otama...
+43|I want to save her!
+44|Give us back Tama!
+45|If you don't bring her here soon...
+46|we'll kill you all!
+47|Get out of my way!
+48|There's a commotion in the other town...
+49|I'm hungry!
+50|Stop it! You're acting dishonorably!
+51|A man of Wano must not whine!
+52|I'm hungry!
+53|Don't cry, don't cry.
+54|Miss Otsuru!
+55|Miss Otsuru, do you have any more five finger grass?
+56|What?
+57|My child was hungry and ended up drinking the river water!
+58|Oh my!
+59|Come inside! Quickly!
+60|It's time to collect!
+61|Put your harvest on the pallet!
+62|S-Sir...
+63|Oh, your payment?
+64|F-Five silver...?!
+65|When you're done, slink out the rear entrance, back home to Okobore!
+66|Please! This isn't enough to feed my family for a week!
+67|We can't even buy water!
+68|Shut up! Don't complain!
+69|What's the name of your boss?!
+70|Bol... de... H-Holde...
+71|Hol... de... m...
+72|"Ball-de-boo"?
+73|Get the firefighters!
+74|Fire! A fire's started!
+75|Show yourself... Ball-de-boo!
+76|I won't forgive you if you've hurt Tama!
+77|Don't keep us waiting!
+78|Ball-de-boo! Give us back Tama!
+79|Ball-de-boo!
+80|I'm right here, boy!
+81|So you're this town's boss...
+82|Ball-de-boo! Right?!
+83|My name is Holdem!
+84|Boss Holdem!
+85|Kick his ass!
+86|Took you long enough!
+87|It's not like I had a choice!
+88|You sumo wrestled my house to the ground!
+89|Urashima crashed into it, and now the building's in ruins!
+90|Who are you nobodies?!
+91|Big Bro!
+92|Tama!
+93|Otama!
+94|If you're bold enough to stand up against us...
+95|you must be underlings of that thief, Shutenmaru!
+96|You shouldn't have messed with Bakura Town!
+97|Shutenmaru? What are you talking about?
+98|Shutenmaru...
+99|You punks...!
+100|It seems like you want this brat back...
+101|But don't you dare move!
+102|He can chew her up at any moment!
+103|Big Bro...!
+104|Tama...
+105|His gut is a lion?
+106|Boss Holdem is talking to the straw-hat guy now!
+107|They'll throw down any minute now!
+108|Boss! What are your orders?!
+109|I'll be there soon!
+110|I'm in front of Bakura Town!
+111|Captain... Hawkins is at the entrance!
+112|And there's a fire in town.
+113|The cause of the fire is...
+114|Captain, don't abandon me...
+115|Don't tell me it's him.
+116|Yeah... I see Straw Hat...
+117|Huh?!
+118|Big Bro!
+119|I'll save you now, Tama!
+120|I have no intention of giving her back!
+121|You damn fool!
+122|Those idiots...!
+123|Open the gate!
+124|Open the gate!
+125|As usual, today's haul is chock-full of delicious-looking food!
+126|That's right, Madam Speed. Why don't you inspect it closely?
+127|The food is behind you!
+128|I can see it!
+129|What?
+130|I'll have you know...
+131|my field of vision...
+132|covers 350 degrees!
+133|You're like a horse!
+134|You think so?
+135|You smile like a horse, too!
+136|The fire bell?
+137|Fire! Fire!
+138|Clear the way!
+139|Move! Move!
+140|As the top firefighters belonging to squad one, we hereby claim this fire!
+141|This place...
+142|Put out the fire!
+143|This is where Holdem lives...
+144|What could've destroyed it like this?!
+145|It's behind you, Madam Speed!
+146|I can see it.
+147|My field of vision is that of a horse, after all.
+148|I thought there was meant to be a sumo event today...
+149|What's going on?
+150|Big Bro!
+151|Tama! I'll save you right now!
+152|Save her?!
+153|How are you gonna you save her?! Hmm?!
+154|Don't move!
+155|If you resist, then Kamijiro, the lion in my stomach...
+156|will chew up this brat's body.
+157|Otama! We'll save you!
+158|I'm gonna kick your ass if you don't let go of Tama, Ball-de-boo!
+159|I told you my name is Holdem! Get it right already!
+160|Big Bro!
+161|Okiku!
+162|Komachiyo!
+163|Spout off all you want, moron!
+164|I'm not gonna give her back to you!
+165|Why do you even want this stupid brat back so much?!
+166|I suppose you must know about her ability!
+167|Now I can hold you guys hostage...
+168|and catch Shutenmaru, too!
+169|Who's that?
+170|Shutenmaru...
+171|Don't play dumb!
+172|He's the head of your thieves brigade!
+173|The recent robberies at the farm...
+174|are the work of the Mount Atama Thieves, aren't they?!
+175|It may have been sheer dumb luck, but you took down Urashima!
+176|So I bet you're one of his lieutenants!
+177|What are you talking about?
+178|Luffytaro...
+179|please do not anger him.
+180|He's already pretty angry!
+181|That's why you shouldn't provoke him anymore!
+182|He may be strong, but...
+183|Holdem is not the real reason the townsfolk are so terrified.
+184|They fear the man that has his back.
+185|The Beast Pirates...
+186|One of Kaido's top men...
+187|Jack the Drought...
+188|the true boss of Kuri!
+189|Isn't he the one who destroyed Zou?
+190|What? Oh, that guy!
+191|He used poison against that cat and dog...
+192|In the end, the elephant sent him flying, right?
+193|Jack went down with his ship!
+194|Didn't he die?
+195|Cat? Dog? Elephant?
+196|Are you talking about animals?
+197|So you are aware of Jack's accident at sea!
+198|Well, he's definitely not dead!
+199|He showed up here in Bakura Town several days ago.
+200|What?!
+201|If you seriously anger Holdem now...
+202|Jack, one of the Calamities, will come for revenge.
+203|If so, this town will become ruins.
+204|We can't let that happen!
+205|That's playing dirty!
+206|It's like they're holding the whole town hostage!
+207|Hey!
+208|Hey, hey, hey, hey, hey, hey, hey!
+209|What are you guys talking about down there?!
+210|What's wrong?
+211|Why don't you try to take back this little brat?!
+212|But if you move even by a hair's breadth...
+213|This is what will happen!
+214|It hurts!
+215|Stop it! You bastard!
+216|Ah, the sweet, anguished cries of the lowborn!
+217|Don't forget you're the one who tossed that yokozuna...
+218|and destroyed my house!
+219|What's going on, Holdem?!
+220|It's Madam Speed's treasure ship of provisions! Today's grub is here!
+221|That's a lot of food!
+222|That food's from Halcyon Farm...
+223|Clean water was used to grow it, meaning it's free of toxins.
+224|Why do they get to keep it all?!
+225|Zoro! Could you handle that?!
+226|Okay...
+227|What?
+228|I'll save Tama!
+229|What? What?!
+230|Kiku! I'm sorry, but we've decided to steal that and run.
+231|What? When?
+232|I'm sure it'll piss him off, but it won't be as bad as just kicking his ass, right?
+233|Sir Hawkins!
+234|They're out of our league!
+235|Where's Holdem?
+236|He's in a mess at the fourth district's plaza!
+237|Holdem's not picking up.
+238|Stop right there, Basil Hawkins!
+239|Who are you?
+240|He's strong...
+241|Wano may be isolated from news of the outside world...
+242|but he could identify us...
+243|I'd better make him disappear!
+244|And now...
+245|the real fun starts!
+246|I don't care if you happen to kill one or two of them in the process!
+247|Hurry the hell up and grab them!
+248|Hey, woman!
+249|You remember that this brat is our hostage, right?!
+250|Luffytaro... Zorojuro...
+251|Why...?
+252|Look what you've done!
+253|Oh, I see now! You don't need the brat back, right?!
+254|Then, I'll have her chewed up as you wish!
+255|Go ahead, Kamijiro!
+256|What?!
+257|The brat's gone!
+258|Huh?! When did he get her?!
+259|Kamijiro! What the hell are you doing?!
+260|Let's get out of here, Tama!
+261|Big Bro...!
+262|Sorry to keep you waiting!
+263|Komachiyo!
+264|Kamijiro!
+265|I'll cut you to shreds with my flaming sword!
+266|No one's ever gotten away from this trick sword!
+267|Hellfire Edge!
+268|I got you! Come on! You're gonna be our hostage, too!
+269|You don't care if your friend dies?!
+270|Drop your swords now!
+271|Yeah, that's it!
+272|Zorojuro...
+273|You stay right there! I'm gonna beat you to death!
+274|Hey...
+275|I still won't help you.
+276|Don't you care about her?!
+277|I won't let you get away!
+278|Pardon me.
+279|What should I do?
+280|Take care of your side!
+281|Okay!
+282|Dog! This way!
+283|Thank you!
+284|Get us out of town!
+285|What happened to your cheek?
+286|It's nothing.
+287|It was just pulled by some pincers.
+288|My millet dumplings...
+289|can't even come out like that though!
+290|Pincers?!
+291|Give me a minute!
+292|Stop running!
+293|Big Bro! I'm fine now! You already saved me!
+294|Hm?! You want some?!
+295|Roar! Lion Fire!
+296|Big Bro!
+297|Witness the next level of my trick sword!
+298|Gum-Gum...
+299|Red Hawk!

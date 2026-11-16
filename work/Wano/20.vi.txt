@@ -1,0 +1,463 @@
+1|Ồ, Inuarashi!
+2|Ngài đã ở đâu vậy?
+3|Có chuyện gì sao, Kin'emon?
+4|Chúng ta đang gặp rắc rối lớn!
+5|Địch biết về tờ truyền đơn và hình xăm trăng sao?!
+6|Đúng vậy! Tất cả rối tung cả lên!
+7|Làm sao đây, thưa công chúa?!
+8|Chúng ta đã phát những thứ này một cách bí mật...
+9|Tại hạ không biết nó bị lộ thế nào...
+10|Chúng ta chọn ký hiệu mã hóa này phòng khi nó rơi vào tay kẻ xấu.
+11|Nhưng chúng bằng cách nào đó đã phát hiện mối liên hệ giữa nó và hình xăm.
+12|Ngay lúc này trong kinh đô...
+13|Thuộc hạ của Kaido và Orochi đang bắt đồng minh của chúng ta!
+14|– Các ngươi bị bắt! – Các ngươi bị bắt!
+15|Thôi kháng cự đi, lũ phản loạn!
+16|Hắn có mang truyền đơn!
+17|Bình tĩnh!
+18|Hắn cũng có hình xăm trăng!
+19|Ai có dấu đó ở mắt cá chân đều là phản loạn!
+20|Thấy ai thì báo lại!
+21|Tin lan nhanh thật.
+22|Giờ chắc cả kinh đô đã nghe rồi.
+23|Tuần tra nhà tắm chỉ phí thời gian của chúng ta.
+24|Các ngươi may mắn thật.
+25|Ý ngươi là sao?
+26|Đúng là Stealth Black...!
+27|Lần sau tôi sẽ bắt hắn!
+28|Các ngươi để chúng trốn thoát thì cũng có tội như nhau.
+29|Ôi, Komurasaki...!
+30|Đại ca Kyoshiro...
+31|Lễ tang của Komurasaki đã bị hủy.
+32|Nếu quá nhiều người đau buồn đổ về, mọi chuyện có thể mất kiểm soát.
+33|Đám tang ngày mai có lẽ còn đông hơn nữa.
+34|Cầu cho cô ấy an nghỉ!
+35|Nhiều người đang đổ lỗi lên vai cô...
+36|Xin hãy cẩn thận.
+37|Họ nên lo chuyện của mình đi.
+38|Không còn cách nào khác...
+39|Người có nhiều thứ để mất nhất...
+40|là tôi.
+41|Quả thật.
+42|Ngài Orochi vẫn đang bực bội.
+43|Tôi đoán đây chính là cái gai trong mắt ngài ấy.
+44|Dừng lại đi, hai người!
+45|Cãi nhau không giải quyết được gì!
+46|Chúng ta cùng một phe!
+47|Họ đang bắt tất cả những ai ủng hộ mục tiêu diệt Orochi của chúng ta...
+48|kể từ khi băng cậu để lộ sơ hở!
+49|Cậu nói gì?!
+50|Con gấu nhỏ và đồng bọn của nó...
+51|chắc đã khai kế hoạch cho chúng!
+52|Bepo và mọi người thà chết còn hơn khai! Đừng coi thường họ!
+53|Khoan! Cậu đang làm đúng điều kẻ địch muốn, Traffy!
+54|Đừng có ra lệnh cho tôi, Chân Đen!
+55|Hai người, bình tĩnh lại.
+56|Cậu mới là người cần hạ hỏa!
+57|Hai người phải...
+58|Hai người phải tin nhau!
+59|Anh là người đáng ngờ nhất tôi từng biết!
+60|Tôi không thấy gì cả...
+61|Sao mặt anh ra nông nỗi đó chỉ sau vài cú đấm...?
+62|Ngươi định bỏ chạy sao?!
+63|Phải loại trừ những kẻ bị bắt!
+64|Phải bịt miệng họ!
+65|Ngươi nói gì?!
+66|Đó là đạo của thế giới ninja!
+67|Cậu đáng sợ quá, Shinobu!
+68|Đây không phải trò chơi!
+69|Chúng ta đã chờ khoảnh khắc này hai mươi năm rồi!
+70|Nếu thất bại, sẽ không có cơ hội khác!
+71|Đủ rồi, Shinobu!
+72|Kan! Chủ công!
+73|Mọi chuyện không phải lúc nào cũng theo kế hoạch!
+74|Tại hạ hiểu rõ nỗi bực bội của cậu...
+75|nhưng tìm được đồng minh có mục tiêu trùng với ta đã là một phép màu!
+76|Không có họ, ước nguyện của ngài Oden sẽ không bao giờ thành!
+77|Xin thất lễ! Xin thứ lỗi!
+78|Tôi ở ngoài và không thể không nghe lỏm!
+79|Các vị giọng hay quá!
+80|Đứng lại! Ngươi là ai?!
+81|Ồ?
+82|Ôi! Đẹp quá! Đúng là nữ thần!
+83|Ồ, là cô!
+84|Mời vào.
+85|Ôi, xin cảm ơn.
+86|Này!
+87|Trời ơi...
+88|Shinobu bé nhỏ?!
+89|Kanjuro bé nhỏ!
+90|À, hiểu rồi, hiểu rồi!
+91|Vậy thứ tôi có chính là hàng thật, đúng không?!
+92|Cả kinh đô chỉ bàn tán chuyện này!
+93|Tôi không kìm được phấn khích!
+94|Sắp bắt đầu chưa?! Trận đại chiến?!
+95|Kiếm của tôi...
+96|Kiếm của tôi!
+97|Anh...
+98|Anh làm tôi giật mình!
+99|Xin đừng cử động...
+100|Sẽ làm vết thương nặng thêm...
+101|Cô ấy nói đúng! Anh chưa cần dậy đâu!
+102|Tôi đang ở đâu?
+103|Lúc nãy anh đã cứu mạng chúng tôi. Cảm ơn anh rất nhiều.
+104|Cảm ơn anh!
+105|Nhưng vì vậy mà anh bị thương nặng!
+106|Tôi thật sự... không biết phải xin lỗi thế nào.
+107|Tại tôi tự làm mình bị thương thôi.
+108|Hai người không có gì phải xin lỗi...
+109|Gã đó đi đâu rồi?!
+110|Hắn vẫn còn giữ Shusui!
+111|Xin đừng ra ngoài khi bị thương thế này!
+112|Đau!
+113|Đó là bên bị thương của tôi, đồ ngốc!
+114|Tôi xin lỗi!
+115|Thật tình...!
+116|Gặp lại nhé!
+117|Đừng đi! Vết thương của anh chưa lành!
+118|Ái, ái, ái, đau!
+119|Tôi vừa bảo đó là cánh tay bị thương của tôi mà! Chú ý đi!
+120|T-Tôi xin lỗi!
+121|Ái, ái, ái...
+122|Sẽ ổn thôi, ngài samurai!
+123|Anh sẽ mau khỏe lại!
+124|Em trộm thuốc mỡ dầu cóc này ở kinh đô...
+125|Ý em là, em mua!
+126|Em trộm.
+127|K-Không có.
+128|Thôi, sao cũng được.
+129|Dầu cóc này tuyệt thật!
+130|Nó làm vết kiếm chém biến mất!
+131|Dầu cóc hả? Ừ, hy vọng có tác dụng!
+132|Này, ngài samurai!
+133|Đừng bỏ bọn em!
+134|Có gì ăn không?
+135|Có! Anh muốn ăn bây giờ không?!
+136|Gyukimaru?
+137|P-Phải.
+138|Cả thành phố đều biết "Gyukimaru ở Cầu Sơn Tặc".
+139|Danh kiếm Shusui đã được trả về nơi nó thuộc về rồi.
+140|Đó là bảo vật bị trộm khỏi mộ của samurai huyền thoại Wano, Ryuma!
+141|Không ai biết hắn sống ở đâu,
+142|nhưng hắn sẽ đối đầu với bất kỳ ai mang vũ khí định qua cầu.
+143|À, vậy hắn lúc nào cũng ở đó? Vậy không cần vội...
+144|Tôi vẫn tò mò về Gyukimaru,
+145|nhưng trước hết, hai người là ai?
+146|Sao gã trông như thần chết đó lại đuổi theo hai người?
+147|Vì chúng tôi đã chọc giận tướng quân của Wano.
+148|Tướng quân hả?
+149|Oro... Oroshi?
+150|Là Orochi.
+151|Này, ngài samurai!
+152|Em tên là Toko!
+153|Nếu thêm chữ "O" kính ngữ thì thành "Otoko", nghĩa là "đàn ông".
+154|Buồn cười không?!
+155|Không, chẳng buồn cười gì.
+156|Hả? Hả?!
+157|Ai cũng nói buồn cười! Sao anh không thấy vậy?!
+158|Tôi không biết.
+159|Dù anh mặc trang phục samurai Wano,
+160|nhưng thực ra anh đến từ nước ngoài, đúng không?
+161|Anh trông không giống người xấu...
+162|Người xấu...
+163|Người xấu.
+164|Cứ nói thẳng đi!
+165|Tôi xin lỗi!
+166|Ngài samurai, anh đáng sợ thật!
+167|Nhưng anh là người rất tốt vì đã cứu bọn em!
+168|Ừm...
+169|Tôi muốn nói cho anh một bí mật, nhưng anh phải hứa giữ kín.
+170|Là gì?
+171|Tôi... đang tìm anh trai.
+172|Chúng tôi bị lạc nhau hai mươi năm trước...
+173|Và giờ tôi nghĩ anh ấy có thể đang ở Wano!
+174|Tên anh ấy là...
+175|Kozuki Momonosuke.
+176|Tôi là em gái anh ấy.
+177|Tên tôi là Hiyori!
+178|Em gái của Momonosuke?!
+179|Tôi biết mà!
+180|Tôi mừng vì đã đủ can đảm nói với anh!
+181|Tôi cũng hơi liều.
+182|Anh biết anh trai tôi, đúng không?!
+183|Và anh ấy vẫn ổn chứ?!
+184|Khoan! Bình tĩnh!
+185|Tôi cần sắp xếp lại suy nghĩ.
+186|Dạo này có đồn đại khắp nơi về việc gia tộc Kozuki trở lại.
+187|Trùng hợp là có một samurai mạnh mẽ, tốt bụng từ nước ngoài ở đây.
+188|Tôi nghĩ anh ấy có thể là đồng minh của anh trai tôi!
+189|Hay anh là kẻ thù đang truy lùng anh ấy?!
+190|Tôi là đồng minh của cậu ấy.
+191|Chắc chắn là đồng minh.
+192|Tôi nhẹ cả người.
+193|Anh có biết Kin'emon còn sống không?
+194|Kanjuro, Raizo và Kikunojo đều ở cùng cậu ấy chứ?
+195|Kikunojo?
+196|À, ý cô là Kiku?
+197|Ừ, nhưng khoan... Có gì đó không khớp.
+198|Cô thật sự là em gái Momo sao?
+199|Để tôi giải thích.
+200|Tôi hiểu rồi.
+201|Đúng vậy.
+202|Momo hai mươi năm trước trông như tám tuổi,
+203|và cô được cho là em gái cậu ấy,
+204|nhưng cô đã già đi hai mươi năm và giờ hai mươi sáu tuổi...
+205|Vâng.
+206|À mà...
+207|Hả?
+208|...để cô bé nghe hết chuyện này có sao không?
+209|Không sao đâu vì em biết từ lâu rồi!
+210|Đó là bí mật giữa chị và em!
+211|Otoko là một trong số ít người bạn thân biết danh tính thật của tôi.
+212|Sự vui vẻ của em ấy giúp tôi vượt qua từng ngày...
+213|Hai mươi năm trước, tôi vẫn là một bé gái như em ấy...
+214|nhưng tôi sẽ không bao giờ quên chuyện xảy ra ngày hôm đó.
+215|Con phải trốn... đến tương lai!
+216|Mẹ ơi, xin mẹ đừng làm vậy!
+217|Mẹ! Mẹ ơi!
+218|Tôi không hiểu nổi chuyện gì đang xảy ra.
+219|Trong biển lửa rực cháy,
+220|anh trai tôi và mọi người biến mất ngay trước mắt tôi...
+221|Đó cũng là ngày tôi mất cha Oden,
+222|và cả mẹ nữa...
+223|Chỉ trong một ngày, tôi đột nhiên mất tất cả.
+224|Tôi được báo rằng anh trai sẽ trở về sau hai mươi năm...
+225|nhưng với điều quá mơ hồ, hy vọng của tôi chỉ thoáng qua...
+226|Tôi đã không còn ý chí sống suốt từng ấy năm.
+227|Sao cô không du hành thời gian luôn?
+228|Phòng khi có chuyện xảy ra với anh trai hoặc với tôi...
+229|họ không muốn huyết thống Kozuki bị đứt đoạn.
+230|Tàn nhẫn quá...
+231|Nhưng gia thần của cha tôi,
+232|Kawamatsu Kappa, đã nâng đỡ tinh thần và nuôi tôi lớn bằng sự kiên nhẫn.
+233|Kappa?!
+234|Đúng vậy.
+235|Khó tin là có sinh vật như vậy, nhưng ông ấy rất tự hào là một kappa.
+236|Hôm lâu đài cháy, chúng tôi bị địch bao vây,
+237|nhưng đã thoát ra mà không bị phát hiện qua một cống thoát nước ở hào.
+238|Công chúa! Xin hãy kiên nhẫn!
+239|Sau khi mất cha, mẹ và anh trai,
+240|tôi sốc đến nỗi không nói được, nhưng ông ấy luôn vui vẻ và an ủi tôi.
+241|Công chúa! Đây là Điệu Nhảy Kappa!
+242|♪ Nào! Kappappa, kappappa, ♪ ♪ kappappa và pa! ♪
+243|♪ Kappappa, kappappa... ♪
+244|Công chúa cứ ăn đi.
+245|Kawamatsu, ông cũng đói mà, đúng không?
+246|Không, bụng tại hạ khó chịu. Nên mới sôi ọc ọc.
+247|Xin hãy... xin hãy ăn ít nhất một nửa.
+248|Không, tại hạ không sao. Lúc nãy tại hạ thấy một con cá nướng bơi dưới sông.
+249|Cá nướng ở dưới sông?
+250|Đúng vậy!
+251|Nên tại hạ phi lê nhanh rồi ăn trên đường.
+252|Ông ấy tự ăn rất ít, nhưng cố hết sức cho tôi ăn.
+253|Nhờ lòng tốt của người bảo hộ tận tụy Kawamatsu,
+254|tôi dần học lại cách cười.
+255|Giờ ông ấy đâu rồi?
+256|Tôi nghĩ khi tôi khoảng mười ba tuổi,
+257|chúng tôi bị lạc nhau...
+258|Nhưng Kawamatsu là samurai mạnh mẽ,
+259|nên chắc ông ấy vẫn ở đâu đó, chờ ngày đại chiến!
+260|Tôi ước được gặp lại ông ấy và mọi người...
+261|Em cũng muốn thấy kappa!
+262|Ừ ừ!
+263|Zorojuro...
+264|Còn ai khác đang chuẩn bị cho đại chiến?
+265|À, để xem...
+266|Cái gì?!
+267|Vậy Chó con và Mèo con cũng đang chuẩn bị sao?!
+268|Ừ.
+269|Tôi nghe nói cả hai đã chết nên tưởng sẽ không bao giờ gặp lại!
+270|Nekomamushi có lẽ chưa đến Wano...
+271|Cô đang làm gì vậy?
+272|Tôi vui quá, vui quá...
+273|Chị làm em buồn cười quá, chị ơi!
+274|Nhưng tôi sẽ không khóc!
+275|Tôi là con gái samurai!
+276|Nếu Chó con và Mèo con ở đó,
+277|thì có thể toàn bộ Cửu Hồng Bao sẽ tề tựu!
+278|Tôi không chắc vậy đâu.
+279|Kin'emon.
+280|Kanjuro.
+281|Raizo.
+282|Okiku.
+283|Inuarashi.
+284|Nekomamushi.
+285|Chúng tôi chỉ biết sáu người đó và Momonosuke.
+286|Ba người cuối chúng tôi chưa gặp.
+287|Người đầu tiên trong ba người đó tôi đã nhắc, Kawamatsu,
+288|còn có Denjiro và Ashura Doji.
+289|Tôi không biết họ ở đâu hay có an toàn không...
+290|Nhưng giờ cả kinh đô đang náo loạn vì tờ truyền đơn này...
+291|Tôi tin chắc họ sẽ xuất hiện!
+292|Đó có phải tờ truyền đơn chúng ta phát cho quân nổi dậy không?
+293|Phải.
+294|Nhờ náo loạn đó mà thông điệp lan rất nhanh, nghe thì tưởng là tốt,
+295|nhưng thực ra lại đẩy chúng ta vào thế khó...
+296|vì điểm tập kết bị lộ và đồng minh bị bắt.
+297|Tình hình có vẻ hơi nguy.
+298|Sẽ ổn thôi.
+299|Tôi tin như vậy.
+300|Thôi...
+301|Lắm thầy thối ma. Tôi thôi lo lắng vậy.
+302|Ồ, vâng! Tất nhiên!
+303|Trước hết, tôi muốn anh khỏe lại!
+304|Giờ thì nghỉ ngơi đi.
+305|Ừ, khỏi cần nói hai lần...
+306|Otoko, đây là phép màu!
+307|Tôi vui mừng khôn xiết!
+308|Anh trai tôi còn sống!
+309|Em mừng cho chị, chị ơi!
+310|Em mừng cho chị, chị ơi!
+311|Toko, tuyệt quá!
+312|Họ không im được sao? Thế này ngủ sao nổi!
+313|Nhưng cậu ấy mới tám tuổi!
+314|Thật kỳ lạ.
+315|Anh trai tôi vẫn còn là một đứa trẻ.
+316|Chắc Kin'emon và mọi người cũng không thay đổi sau hai mươi năm.
+317|Tôi không khỏi tự hỏi cuộc tái ngộ sẽ ra sao.
+318|Có lẽ tốt hơn là đừng gặp họ trước đại chiến.
+319|Tôi không nên can thiệp vào cuộc đấu tranh của samurai.
+320|Đồng ý không, Otoko?
+321|Tôi không ngờ bắt được nhiều tên côn đồ thế!
+322|Mọi người hãy nhìn cho kỹ chúng!
+323|Hãy nhìn mặt những kẻ ngu dám nổi dậy chống lại Tướng quân Orochi và ngài Kaido!
+324|Vào trong đi, đồ khốn!
+325|Tiếc cho các ngươi.
+326|Các ngươi bị lật tẩy rồi, âm mưu bại lộ!
+327|Các ngươi đã thất bại.
+328|Thưa ngài Fukurokuju, xin hãy chờ!
+329|Dựa vào đâu mà ngài tin hình xăm ở mắt cá chân này đánh dấu chúng tôi là phản loạn?!
+330|Đây chỉ là kiểu hình xăm thịnh hành! Chúng tôi không liên quan gì đến bất kỳ cuộc nổi loạn nào!
+331|Đủ rồi! Vậy giải thích sao về tờ truyền đơn này?!
+332|Với trăng khuyết ngược ở chính giữa?
+333|Có lẽ là dấu hiệu nổi loạn chống lại Tướng quân Orochi?
+334|Giống y hệt hình xăm của các ngươi.
+335|Chính Tướng quân Orochi ra lệnh, nên ngồi xuống và câm miệng!
+336|Chúng ta gặp rắc rối to rồi...
+337|Mọi người sẽ nghĩ...
+338|là chúng ta đã tiết lộ kế hoạch sao?
+339|Đừng lo...
+340|Đại ca sẽ vẫn tin chúng ta...
+341|Nào, nào! Xử lý chúng đi!
+342|Giá mà tôi cũng được tham gia trận sumo...
+343|Tao là Madilloman! Một Gifter đã ăn Trái SMILE Armadillo!
+344|Ồ, ông có vẻ có thân thể cứng cáp!
+345|Hoàn hảo cho việc tập luyện của tôi!
+346|Thằng ngốc!
+347|Tao nhét đạn Hải Lâu Thạch trong mấy cây súng này đấy!
+348|Tụi bây tiêu rồi!
+349|"Tiêu rồi"?
+350|Đám ngốc này mù à?! Còn lâu mới "tiêu".
+351|Ông già!
+352|Sang phải, cúi xuống, rồi nhảy.
+353|Hả?!
+354|Chết đi!
+355|Chạy!
+356|Vâng!
+357|"Sang phải"!
+358|"Cúi xuống"!
+359|Và...
+360|Đồ nhãi ranh...!
+361|..."nhảy"!
+362|– Cái gìii?! – Cái gìii?!
+363|Ái, ái, ái...
+364|Chết tiệt, chết tiệt, chết tiệt, chết tiệt, chết tiệt, chết tiệt!
+365|Giỏi lắm ông già! Cứ thế nhé!
+366|Cái quái gì vậy?! Ông nhìn trước được tương lai à?
+367|Kệ mày!
+368|Vô lý hết sức! Ông thật sự đã làm gì?!
+369|Ông già! Lần sau sang trái!
+370|Cái gì?!
+371|Tại sao, đồ...!
+372|"Trái"!
+373|Chết tiệt, lão già đó!
+374|Nếm thử cái này đi!
+375|"Trái"! "Trái"! "Trái"! "Trái"!
+376|Đồ nhãi gian lận!
+377|Trúng đích!
+378|Súng không hạ được tao!
+379|Đ-Đồ nhãi xảo quyệt...!
+380|Chưa xong đâu!
+381|Đánh bay hắn mà không chạm vào!
+382|Không phải cái đó.
+383|Đó chỉ là haki vũ trang bình thường...
+384|Ôi chết rồi!
+385|Armadi-Guard!
+386|Không phải cái này...
+387|Đây vẫn chỉ là haki vũ trang bình thường...
+388|Hả?! Không phải ông định đánh tôi sao?!
+389|Alpaca Fencing!
+390|Này! Tiếp theo hướng nào?!
+391|Ngài Mũ Rơm!
+392|Được rồi! Dừng lại đó!
+393|Vậy được chưa?!
+394|Thế này sẽ dễ hơn!
+395|Tôi xin lỗi...!
+396|Sẵn sàng bất cứ lúc nào, Alpacaman!
+397|Nào!
+398|Thả tôi xuống! Để cậu gánh tôi thế này là không phải!
+399|Không. Thật ra càng nặng càng tốt.
+400|Cái gì?!
+401|Tốt cho việc tập luyện của tôi!
+402|Ra vậy, ra vậy...!
+403|Tờ truyền đơn này cho chúng ta biết mọi điều cần biết về trận chiến sắp tới!
+404|Hai con chim đang cháy... Nghĩa là hoàng hôn ngày Lễ hội Lửa!
+405|Điểm tập kết cho cuộc đột kích là Cảng Habu!
+406|Kin'emon trẻ chắc đã vắt óc hết sức cho việc này.
+407|Kin'emon... trẻ?
+408|Ôi, sao cậu lại nhìn tôi như vậy,
+409|Shinobu bé nhỏ?!
+410|Ra là vậy. Vẻ mặt chán nản của các vị giờ hoàn toàn dễ hiểu.
+411|Kế hoạch coi như hỏng,
+412|vì kẻ địch đã biết rồi.
+413|Ừm. Đúng vậy...
+414|Các đồng minh mang hình xăm trăng khuyết ngược—dấu hiệu nổi dậy của chúng ta—
+415|đang bị vây bắt.
+416|Giá mà có cách rút lại và nói với họ rằng "Tất cả chỉ là giả!"
+417|Nhưng như vậy sẽ đánh lạc hướng cả đồng minh của chúng ta.
+418|Tuy nhiên trước đây tôi đâu biết về hình xăm trăng khuyết ở mắt cá chân.
+419|Nó đã thu hút những đồng minh như tôi.
+420|Không phải cái đó! Tôi không làm đúng được!
+421|Cái gì?!
+422|Suốt từ nãy, mỗi lần đánh trúng địch cậu đều nói "Không phải cái đó"!
+423|Cậu đang cố làm gì?
+424|Tôi muốn đánh địch bay đi bằng một cú đấm thậm chí không chạm vào họ!
+425|Nếu làm được vậy...
+426|tôi nghĩ có thể phá được lớp vảy cứng của Kaido!
+427|Đánh địch bay bằng cú đấm không chạm vào...
+428|Ừ. Không thử thì không biết có được không.
+429|Vấn đề là tôi từng thấy rồi...
+430|Cả Rayleigh...
+431|lẫn gã cầm rìu chiến đó...
+432|đều dùng cùng haki vũ trang.
+433|Của họ khác của tôi chỗ nào?!
+434|Chắc haki là khái niệm xa lạ.
+435|Ông biết gì sao?!
+436|Ở Wano, chúng tôi dùng một sức mạnh vô hình xuất phát từ cơ thể và bao phủ thanh kiếm.
+437|Kiếm tốt có thể chém cả sắt khi cần,
+438|và khi không cần thì không làm xước nổi một tờ giấy.
+439|Tất cả do kiếm sĩ quyết định!
+440|Ông già...!
+441|Xem lão già này! Sẵn sàng để bọn tao tiễn mày chưa?!
+442|Ngài Mũ Rơm.
+443|Xin hãy xem tôi biểu diễn sức mạnh được mài giũa qua những ngày luyện kiếm.
+444|Dù là trung tâm của một trò xử tử bệnh hoạn,
+445|mà ông ta lại dùng nó làm cơ hội luyện tập?!
+446|Ngài Mũ Rơm! Hãy chỉ hướng cho tôi!
+447|Được!
+448|Hắn sẽ chém xuống bằng thanh kiếm phải, hết sức!
+449|Tôi hiểu rồi!
+450|Chết tiệt lão già!
+451|Ông ấy đánh bật hắn rồi!
+452|Ông già...
+453|Ông Hyo đã hạ tên Gifter đó!
+454|Alpacaman!
+455|Lão yếu ớt đó... tôi thề lão đã một chân vào quan tài.
+456|Nhưng nhanh nhẹn đến bất ngờ!
+457|Lẽ nào ông Hyo thật sự là
+458|Hyogoro Hoa lừng danh?!
+459|Ngài Mũ Rơm...
+460|nếu đây là điều ngài đang cố đạt được,
+461|có lẽ tôi có thể giúp được phần nào.
+462|Ông phải dạy tôi!
+463|Chính là vậy!

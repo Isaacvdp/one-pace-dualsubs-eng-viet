@@ -1,0 +1,509 @@
+1|Đại ca!
+2|Boss Holdem!
+3|– Boss Holdem! – Boss Holdem!
+4|Tama!
+5|Đại ca!
+6|Bám chắc vào!
+7|Vâng ạ!
+8|Được rồi! Chạy thôi!
+9|Boss Holdem!
+10|Boss Holdem!
+11|Không thể nào...! Hắn hạ một headliner chỉ bằng một đòn sao?!
+12|Hắn là ai vậy?!
+13|Luffy, đồ ngốc! Cậu gây họa rồi...
+14|Luffytaro!
+15|Otama!
+16|Đừng lo! Cứ giao con bé cho Luffytaro!
+17|Tiếp tục đi! Phải tới cổng thị trấn!
+18|Cướp lại tàu kho báu! Không thể mất thức ăn được!
+19|Bám chắc vào!
+20|Vâng, đại ca! Em sẽ không buông đâu!
+21|Đ-Đại ca...
+22|Chém hắn đi!
+23|Tránh ra!
+24|Phải đuổi kịp Zoro trước khi họ ăn hết đồ ngon!
+25|Hay quá! Đi nhờ một chuyến nào! Tôi nhảy đây!
+26|Hả?
+27|Ai đó?!
+28|Ai đang ôm ta trong tay vậy?!
+29|Ngựa ơi, tiến lên!
+30|Khoan, cậu làm gì vậy?!
+31|– Gì?! Là người sao?! – Gì?! Là người sao?!
+32|Không, là ngựa!
+33|Sao dám cưỡi lên Madam Speed như thế hả?!
+34|Lôi chúng xuống!
+35|Bỏ ta ra, lũ khốn!
+36|Này, Tama, làm bánh đi!
+37|Hả?!
+38|Cứ làm đi!
+39|Bánh Bao Kê!
+40|Giờ thì thuần phục con ngựa đi!
+41|Gì? Không thể nào! Nó đâu có tác dụng với người!
+42|Chưa thử sao biết được!
+43|Trông ngon quá!
+44|Chủ nhân muốn đi đâu ạ?!
+45|Được rồi!
+46|Có tác dụng rồi!
+47|Nhưng... tại sao?
+48|Cô ấy là nửa ngựa mà, đúng không?
+49|Madam Speed...
+50|Đuổi theo!
+51|Cô ta nhanh quá!
+52|Được rồi, Horsella! Đuổi theo tàu kho báu!
+53|Ta không phải đầy tớ của ngươi!
+54|Tên ta là Speed! Đừng gọi ta là Horsella như thể thân thiết lắm!
+55|Tôi muốn cô nghe lời đại ca, Horsella.
+56|Tuân lệnh, Chủ nhân!
+57|Không ngờ một headliner như Speed lại nghe lời bọn họ!
+58|Chẳng lẽ chúng nắm thóp cô ấy?
+59|Đại ca...
+60|Red Hawk!
+61|Hỏa Quyền!
+62|Đại ca... Lúc nãy...
+63|anh giống hệt Ace.
+64|Hm? Gì cơ?
+65|Em vừa nói gì à?
+66|Không ạ!
+67|Không có gì.
+68|Mạng của ngươi thuộc về ta.
+69|Mày nói gì?!
+70|Hạ hắn!
+71|– Rõ! – Rõ!
+72|Room!
+73|Năng lực đó...
+74|Những hình xăm đó...
+75|Chẳng lẽ là...?!
+76|Có thể lắm!
+77|Họ đã có liên minh mà!
+78|Roronoa ở cùng nhóm đó nhưng ít ra hắn biết kế hoạch.
+79|Chắc hắn sẽ không làm chuyện ngu ngốc như hạ Holdem đâu.
+80|Boss Holdem!
+81|Nguy rồi! Phải báo cho ngài Jack!
+82|Nếu họ làm gì ngài ấy...
+83|thì coi như xong...
+84|kế hoạch của chúng ta...
+85|Cút đi, Hawkins!
+86|Shambles!
+87|Cứu tôi với!
+88|Khoan?! Sao mình còn sống?!
+89|Cái quái gì vậy?! Nửa thân dưới của hắn tự cử động!
+90|Rốt cuộc... đó là năng lực gì?
+91|Kiếm Mũ Rơm!
+92|Tháo mặt nạ ra...
+93|Trafalgar Law!
+94|Ta biết là không dễ dàng thế mà, Basil Hawkins!
+95|Nhưng...
+96|Lải nhải mãi! Đến lúc bịt miệng ngươi rồi!
+97|Bắt hắn!
+98|Khoan!
+99|Amputate!
+100|Takt!
+101|Shambles!
+102|Ngươi chém nát hết con rối của ta.
+103|Ngươi thích nghi nhanh thật.
+104|Ta chỉ dọa thôi.
+105|Giết người không phải phong cách của ta. Dù sao ta cũng là bác sĩ.
+106|Chào mừng đến Wano. Cũng lâu rồi kể từ ngày định mệnh ở Sabaody.
+107|Thấy đồng bọn ngươi cũng ở đây, chắc ngươi không đến đây du lịch.
+108|Ngươi tưởng ta không biết sao?
+109|Ta đã gặp nhóm của Mũ Rơm rồi.
+110|Nếu ngươi định bịt miệng ta thì e là đã quá muộn.
+111|Bọn trộm đã chạy trốn sau khi hạ Boss Holdem!
+112|Chúng tôi đã báo cho ngài Jack rồi!
+113|Chúng hạ Holdem và giờ Jack đã được báo?
+114|Như ngươi vừa nghe đó, nỗ lực của ngươi vô ích rồi.
+115|Và tất nhiên, điều này nghĩa là Thuyền trưởng Kaido sẽ biết chuyện này.
+116|Lũ ngốc! Đây là tình huống tệ nhất!
+117|Này, các người! Tránh đường!
+118|Roronoa?!
+119|Xin lỗi! Cho chúng tôi qua! Đang vội lắm!
+120|Bắt chúng! Chúng cướp thức ăn của ta!
+121|Roronoa!
+122|À, Traffy.
+123|Đồ ngốc!
+124|Có vấn đề gì sao, Traffy?
+125|Chết tiệt!
+126|Gì?! Ai đây?!
+127|Không chỉ thành tội phạm truy nã, cậu còn khiến Jack chú ý!
+128|Cậu đã hứa là sẽ không gây chuyện mà!
+129|Lỗi của tôi.
+130|Với lại...
+131|sao cậu lại ở Kuri?!
+132|Cậu phải giả làm lãng nhân ở Hoa Đô chứ!
+133|Họ quen nhau sao?
+134|Mọi chuyện ổn chứ?
+135|Không, không ổn!
+136|Xin lỗi!
+137|Tôi đâu còn cách nào!
+138|Tôi gặp Luffy.
+139|Mũ Rơm! Lúc nào cũng là cậu ta!
+140|Zorojuro! Chúng ta rời thị trấn!
+141|Được...
+142|Đi dỡ hàng ở thị trấn Okobore!
+143|Mẹ ơi! Con đói!
+144|Con phải chịu đựng thôi.
+145|Gì vậy?
+146|Đ-Đó là...
+147|tàu kho báu!
+148|Nhiều cá quá!
+149|Thức ăn! Có thức ăn!
+150|Tàu kho báu đến rồi!
+151|Chúng ta được cứu rồi!
+152|Tuyệt quá!
+153|Nhanh lên, mọi người!
+154|Là thức ăn!
+155|Chúng tôi lấy được không?!
+156|Tạ ơn trời!
+157|Chúng ta sống được rồi!
+158|Ngon quá!
+159|Nhiều đồ ăn quá!
+160|Không phải chết đói nữa! Tuyệt vời!
+161|Nhẹ cả người...
+162|Khoan-khoan-khoan!
+163|Đó chưa phải đồ thừa đâu!
+164|Tránh xa tàu kho báu!
+165|Đồ rác rưởi!
+166|Các ngươi không được phép đụng vào thức ăn đó!
+167|Lũ ngốc quên mất thân phận rồi!
+168|Bọn ta không cho qua đâu!
+169|Vậy ra các ngươi theo phe đồ rác rưởi!
+170|Các ngươi sẽ phải trả giá, lũ ngu!
+171|Này!
+172|Xin lỗi để mọi người chờ!
+173|Là nước!
+174|Không có độc đâu! Cứ uống đi!
+175|Đã bao năm rồi mới có nhiều nước uống thế này!
+176|Tạ ơn trời! Tạ ơn trời!
+177|Tôi là Luffytaro, nếu ai có hỏi thì cứ nói vậy!
+178|Cảm ơn, Luffytaro!
+179|Đại ca!
+180|Tama!
+181|Ồ?
+182|Traffy!
+183|Gặp cậu vui quá!
+184|Mũ Rơm...
+185|ở Wano, việc này bị coi là nổi loạn.
+186|Nổi loạn sao? Đâu có như thế!
+187|Đây!
+188|Quả táo này!
+189|Tama...
+190|Em trả ơn vì đã cho em ăn.
+191|Đây mới chỉ là bắt đầu!
+192|Nhiều thịt quá!
+193|Này! Các cậu!
+194|Chừa thịt cho tôi với!
+195|Thịt! Thịt, thịt!
+196|Thịt, thịt, thịt, thịt!
+197|Thịt!
+198|Boss Holdem!
+199|Lửa đang lan rồi!
+200|Lính cứu hỏa đâu?!
+201|Boss Holdem! Tỉnh lại đi!
+202|Làm ơn tỉnh dậy!
+203|Chỉ có con sư tử tỉnh dậy! Đáng sợ quá!
+204|Đúng vậy...
+205|Là Monkey D. Luffy, Roronoa Zoro,
+206|và Trafalgar Law.
+207|Ta không muốn tự hạ thấp mình...
+208|nhưng đối thủ phiền phức như ba tên này thì ngay cả ta cũng khó xử lý.
+209|Ngon quá!
+210|Tốt cho em rồi, Tama!
+211|V-Vâng!
+212|Em không biết có sinh nhật nào tuyệt vời hơn thế này không!
+213|Tama!
+214|Đừng đặt kỳ vọng thấp quá!
+215|Anh sẽ làm cho điều này thành bình thường với em!
+216|Trước khi rời đất nước này,
+217|anh sẽ biến nó thành nơi em ăn bao nhiêu cũng được!
+218|Khi chúng ta quay lại đất nước này...
+219|chúng ta sẽ biến nó thành nơi em ăn bao nhiêu cũng được!
+220|Hm? Em không muốn vậy à?
+221|Gì cơ?!
+222|S-S-Sao vậy?!
+223|T-Tất nhiên rồi...
+224|Tất nhiên rồi, em rất vui!
+225|Chỉ là em hơi bất ngờ thôi...!
+226|Vậy à!
+227|Trời! Cậu gây họa to rồi!
+228|Giờ bọn chúng sẽ truy đuổi chúng ta! Cẩn thận đấy!
+229|Cậu có tư cách nói à!
+230|Không nên ở lại đây. Đi thôi!
+231|Theo tôi!
+232|Chúng ta sẽ đến tàn tích lâu đài Oden trên đỉnh núi kia!
+233|Được rồi, em cũng đi đây!
+234|Cảm ơn mọi người!
+235|Được rồi, chăm sóc cô ấy cho tốt nhé, Horsella!
+236|Ta là Speed, headliner của băng Bách Thú!
+237|Ta không nhận lệnh từ ngươi, đồ ngốc!
+238|Đầy tớ đương nhiên phải bảo vệ chủ nhân!
+239|Sao một headliner lại nghe lời thằng nhóc đó?
+240|Đại ca...
+241|Hm? Sao vậy?
+242|Em sẽ không bao giờ quên...
+243|Em sẽ không bao giờ quên vị của oshiruko và quả táo hôm nay!
+244|Tuyệt!
+245|Khi về làng Amigasa, em sẽ đem quả táo này cho sư phụ!
+246|Gửi lời hỏi thăm ông Mũi giúp em! Em hứa sẽ mang con chó về!
+247|Anh sẽ làm vậy!
+248|Komachiyo!
+249|Em muốn anh giúp đại ca!
+250|À, ừ!
+251|Cho tôi mượn thanh kiếm này thêm chút nữa! Không có nó, tôi không thể tự xưng là samurai!
+252|Cậu có dùng đâu!
+253|Thật đấy, cứ để tôi xem thử đi!
+254|Tôi sẽ báo cho sư phụ!
+255|Ừ, cảm ơn!
+256|Chúng ta phải đi thôi, Chủ nhân!
+257|Ồ, cảm ơn!
+258|Thượng lộ bình an!
+259|Được rồi! Vậy thì...!
+260|Hẹn gặp lại!
+261|Tạm biệt!
+262|Tama!
+263|Được rồi...
+264|Luffy!
+265|Đến lúc đi rồi!
+266|Ngài Luffytaro!
+267|– Ngài Luffytaro! – Ngài Luffytaro!
+268|Tôi chưa từng thấy nhiều thức ăn thế này!
+269|Ông tôi khỏe hơn rồi!
+270|Tôi đã sống để thấy giấc mơ này thành sự thật!
+271|Con chúng tôi khỏe lại rồi!
+272|Tôi chưa từng ăn nhiều thế này!
+273|Thế thì tốt!
+274|Được rồi, vậy nhé!
+275|– Cảm ơn vì tàu kho báu! – Cảm ơn vì tàu kho báu!
+276|– Cảm ơn! – Cảm ơn!
+277|– Ghé thăm lần nữa nhé! – Cảm ơn!
+278|Hải tặc đừng làm người tốt thế chứ.
+279|Nghe mà phát ói!
+280|Chúng ta đã làm việc tốt!
+281|Vẫn là ăn trộm thôi.
+282|Mọi người ơi!
+283|Giữ gìn sức khỏe nhé!
+284|Ăn cái bánh đó mà cô không thành đầy tớ của cậu ta nhỉ?
+285|Vậy...
+286|sao cô lại đi cùng chúng tôi?
+287|X-Xin lỗi! Tôi luôn muốn thăm lâu đài Oden!
+288|Tôi sẽ về nhà ngay sau đó, nên sẽ không làm phiền đâu.
+289|Có nên lo không nhỉ?
+290|Không đâu!
+291|Kiku là người tốt và mạnh, không sao đâu!
+292|Thật ra...
+293|cô ấy đang giấu điều gì đó!
+294|Này, Traffy, sao chúng ta lại đến lâu đài?
+295|Giờ không còn là lâu đài nữa...
+296|Chỉ còn lại tàn tích hoang vắng.
+297|Sao anh ta lại muốn đến lâu đài Oden?
+298|Luffytaro và đồng bọn là người tốt...
+299|nhưng tôi vẫn chưa thể hạ cảnh giác.
+300|Từ lần gặp cuối...
+301|chúng tôi đã lập kế hoạch và bắt tay thực hiện...
+302|Đến nơi cậu sẽ hiểu.
+303|Trước hết...
+304|cậu sẽ gặp những hồn ma của Wano.
+305|Hồn ma?
+306|Chuẩn bị tinh thần bị sốc đi...
+307|Ừ... tôi cũng từng choáng váng.
+308|Ở đó, cậu sẽ biết...
+309|một sự thật khó tin!
+310|Dù sao thì...
+311|chúng ta tiếp tục nói chuyện khi đến tàn tích lâu đài Oden trên đỉnh.
+312|Cậu chán thật!
+313|Có mối đe dọa.
+314|Ừ.
+315|Có thể là sát thủ của Orochi.
+316|Luffy, cậu đi trước đi.
+317|Tôi xử lý xong sẽ đuổi theo.
+318|Cảm ơn.
+319|Tao cảm nhận được sát khí của mày.
+320|Làm gì có lâu đài ở đây!
+321|Tôi đã nói là "tàn tích" mà.
+322|À, ừ.
+323|Lối này. Theo tôi.
+324|Gì? Này, Kiku!
+325|Cô ấy bị sao vậy?
+326|Ồ! Nghĩ lại thì Zoro cũng chưa quay về.
+327|Chỗ này rợn người quá.
+328|Nơi này bị bỏ hoang hai mươi năm rồi.
+329|Những thứ kia là gì?
+330|"Kozuki Oden..."?
+331|Nhìn mấy ngôi mộ khác nữa.
+332|"Kozuki..."
+333|Momonosuke là...
+334|Cậu biết đứa trẻ có ngôi mộ đó mà.
+335|Gì?! Anh nói gì vậy, Traffy?!
+336|Không chỉ mình cậu bé.
+337|"Raizo"?!
+338|"Kanjuro"?!
+339|"Kin'emon"?!
+340|Sao mộ của họ lại ở đây?!
+341|Khoan đã, lúc chúng ta đến Wano...
+342|tôi không liên lạc được với Kin'emon...
+343|Đ-Đừng nói là...
+344|anh ấy chết rồi!
+345|Được rồi, đến lúc quay lại.
+346|Họ đi đâu rồi?
+347|Là bến tàu.
+348|Không thể nào...
+349|Họ không thể chết được!
+350|Tôi tưởng Kin'emon đang đợi ở đây...
+351|Ông ấy đi khá lâu rồi.
+352|Đi rồi?!
+353|Có thể ban đêm ông ấy sẽ xuất hiện.
+354|Đêm qua ông ấy xuất hiện liên tục.
+355|Nghe như ông ấy là ma vậy!
+356|Mấy ngôi mộ này là sao?! Nói thẳng ra đi, Traffy!
+357|Có điều gì cậu không muốn nói à?!
+358|Tôi không phải người nên kể chuyện này.
+359|Luffy-dono!
+360|Gì vậy?
+361|Kin!
+362|Thấy ông còn sống tôi mừng quá!
+363|Tôi xin lỗi vì không thể đến đón cậu...
+364|Cậu đến nơi an toàn thì tốt quá.
+365|E rằng tại hạ bị tiêu chảy nặng.
+366|Tại hạ tưởng tối nay lại phải ở lì trong nhà xí.
+367|Nhưng giờ bắt đầu thấy khá hơn một chút.
+368|Dù sao thì, cũng khá tệ.
+369|Ông ấy còn sống, Traffy!
+370|Tôi nói ông ấy chết hồi nào?
+371|Ý tôi là tối nay ông ấy có thể ló ra từ nhà vệ sinh.
+372|Nói vậy dễ gây hiểu lầm quá!
+373|Kin-dono!
+374|Kiku!
+375|Cô về rồi!
+376|Tôi nhớ cô lắm!
+377|Tôi lo lắng lắm!
+378|À, vậy sao...
+379|Thật là! Nếu về rồi sao không đến báo cho tôi?!
+380|Tôi đã lo cho cô. Lạnh nhạt thật!
+381|X-Xin lỗi!
+382|Momonosuke-sama cũng bình an chứ?
+383|Vâng.
+384|Momo cũng còn sống nhỉ?
+385|Khoan, Kiku và Kin quen nhau à?
+386|Có vẻ họ rất thân.
+387|Gì?
+388|Kiku, sao cô lại đi cùng Luffy-dono?
+389|Gì?! Đây là những người đã...?!
+390|Tại hạ không biết nên kể gì trước!...
+391|Nhưng cô nói đúng, Kiku!
+392|Họ là đồng minh mạnh sẽ giúp chúng ta hạ Orochi!
+393|Luffy-dono và Law-dono!
+394|Wow!
+395|Này, Luffy!
+396|Cậu đến nơi an toàn rồi!
+397|Momonosuke-sama?!
+398|Luffy, ta đang luyện kiếm đây!
+399|Tốt!
+400|Xem này!
+401|Momonosuke-sama, thấy ngài bình an thần mừng quá!
+402|Đúng vậy, Kiku. Lâu rồi mới gặp.
+403|Ông Chó cũng ở Wano à, Momo?
+404|Gì? Momo?!
+405|Gọi Momonosuke-sama thân mật như vậy là vô lễ!
+406|Ồ, không sao đâu, Kiku.
+407|Gì? Được thôi.
+408|Tất nhiên, Inuarashi cũng ở đây.
+409|Đúng thế!
+410|Vậy là chỉ còn những người khác thôi.
+411|Sắp tới chưa? Chúng ta đi lâu lắm rồi.
+412|Anh ấy bảo tìm tàn tích lâu đài, nên chắc chắn ở trên ngọn núi này.
+413|Mừng là cuối cùng cũng liên lạc được với anh ấy!
+414|Này!
+415|Luffy, cậu đây rồi!
+416|– Luffy! – Luffy!
+417|Mọi người! Ở đây!
+418|Luffy!
+419|Thấy cậu bình an tôi mừng quá!
+420|Garchu!
+421|Luffy! Cậu mặc đồ samurai! Ngầu quá!
+422|Sao các cậu lâu thế?!
+423|Bọn tôi còn tìm cả đáy biển để kiếm các cậu!
+424|Bọn tôi tìm thấy vivre card của cậu nên ít ra cũng biết cậu còn sống.
+425|Onami!
+426|Momo!
+427|Kin'emon, anh khỏe không?
+428|Tôi vẫn ổn.
+429|Momonosuke, trông cậu khỏe nhỉ.
+430|Tôi biết mà, thằng nhóc hư!
+431|Vậy là cậu đã trở lại băng rồi, Sanji-dono.
+432|Ừ, xin lỗi vì làm mọi người lo.
+433|Kin!
+434|Đây là bạn của Luffytaro sao?
+435|Quý cô đáng yêu quá!
+436|Này!
+437|Đủ rồi! Buông cô ấy ra!
+438|Ngươi vô lễ quá, Bonekichi!
+439|Để cậu ấy yên, Brook!
+440|Đúng không, Momo?
+441|Onami...
+442|Momo!
+443|Momo!
+444|Đây đúng là bạn của Luffy-dono.
+445|Những người chúng ta sẽ dựa vào!
+446|Momonosuke-sama, thần mừng vì ngài lại có thể mỉm cười.
+447|Thuyền trưởng!
+448|Ồ, các cậu.
+449|Bepo sao rồi?
+450|Nó chưa ra khỏi bụi cây. Vẫn còn tiêu chảy.
+451|Mọi người bị sao vậy?
+452|Mũ Rơm.
+453|Hả?
+454|Vào trong nói chuyện.
+455|Được.
+456|Chúng tôi lấy thức ăn an toàn từ nông trại.
+457|Vậy ra là các anh làm!
+458|Lâu đài đổ nát này sẽ là bản doanh của chúng ta.
+459|Phòng bừa bộn quá!
+460|Xin lỗi mọi người...
+461|Luffy-dono! Mọi người!
+462|Cảm ơn đã đến Wano!
+463|Như mọi khi, tại hạ vô cùng biết ơn!
+464|Đừng khách sáo!
+465|Ừ!
+466|Trước hết, có một bí mật chúng tôi chưa kể với các cậu...
+467|ngoài thân phận thật của Momonosuke-sama.
+468|Các anh nhiều bí mật quá!
+469|Kể hết đi! Các anh có thể tin bọn tôi!
+470|Cậu ấy nói đúng.
+471|Chúng ta là bạn mà!
+472|Cậu nói đúng. Tại hạ xin lỗi!
+473|Chỉ là điều tại hạ sắp nói, các cậu sẽ không tin đâu.
+474|Gì vậy? Nói đi!
+475|Các cậu biết Kanjuro và Raizo.
+476|Và ba người chúng tôi đây.
+477|Năm người chúng tôi...
+478|thật ra là...
+479|đến từ quá khứ!
+480|Hả?
+481|– Gì? – Gì?
+482|Quá khứ...?
+483|Ý anh là sao?
+484|Chuyện là chúng tôi đến từ Wano hai mươi năm trước...
+485|thật sự đã vượt thời gian đến ngày nay.
+486|Hả?!
+487|Hảaaaaa?!
+488|Mộ của...
+489|Gia thần Kanjuro
+490|Gia thần Raizo
+491|Gia thần Kin'emon
+492|Kozuki Momonosuke
+493|Kozuki Oden
+494|Mo-
+495|mo-
+496|no-
+497|suke
+498|Kin'emon
+499|Mộ của Kin'emon
+500|Mộ của...
+501|Kozuki Oden
+502|Gia thần Kin'emon
+503|Kozuki Momonosuke
+504|Gia thần Kanjuro
+505|Gia thần Raizo
+506|Kin'emon
+507|Kanjuro
+508|Raizo
+509|Momonosuke

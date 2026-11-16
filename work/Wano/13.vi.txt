@@ -1,0 +1,410 @@
+1|Đây là Đảo U Ám của Grand Line, tàn tích của Vương quốc Ẩm Thấp.
+2|Trong lâu đài cổ bên hồ của vương quốc đã sụp đổ này,
+3|có một người đàn ông sinh sống...
+4|Một Thất Vũ Hải...
+5|và kiếm sĩ giỏi nhất thế giới.
+6|Tên ông ta là Dracule Mihawk.
+7|Ngài Moria...
+8|Ngài ấy... còn sống...
+9|"Gecko Moria và đội quân xác sống tấn công"...
+10|Ngài ấy còn sống!
+11|Ngài Moria thật sự còn sống!
+12|Nhìn này! Tuyệt quá! Ngài Moria còn sống!
+13|Phải, tôi đọc sáng nay rồi.
+14|Vậy mà ông không nghĩ đến chuyện nói với tôi, đồ khốn?! Chuyện này rất quan trọng với tôi!
+15|Tôi không quan tâm.
+16|Ông phải quan tâm chứ! Ngài ấy là thuyền trưởng của tôi!
+17|Tôi cứ tưởng ngài ấy đã chết trong Chiến tranh Thượng đỉnh hai năm trước!
+18|Nhẹ cả người!
+19|Nếu ngài Moria còn sống, có thể Absalom và Hogback cũng ở cùng ngài ấy!
+20|Giờ tôi phải gặp ngài ấy ngay! Đi thôi!
+21|Ừ nhỉ...
+22|Ông đã cho tôi ở lại đây bấy lâu.
+23|Từ khi Bartholomew Kuma ngắt ngang cuộc đối đầu của tôi với
+24|băng Mũ Rơm ở Thriller Bark và tống tôi bay đến đây.
+25|Vậy là đã hai năm rồi...
+26|Moria dai dẳng chẳng kém lũ xác sống hắn điều khiển.
+27|Hả? Ông đang chế nhạo ngài Moria sao?!
+28|Đồ vô ơn!
+29|Tôi không nợ hắn gì cả.
+30|Ông nợ tôi đấy!
+31|Ông biết tôi đã nấu ăn cho ông bao nhiêu lần không?!
+32|Tôi nấu nhiều hơn cô.
+33|Tôi cũng phụ làm ruộng nữa!
+34|Là tôi cho cô ở lại.
+35|Ông phiền quá đi!
+36|Được thôi!
+37|Tôi đi đây!
+38|Tùy cô.
+39|Tôi mừng vì chẳng còn gì trói buộc cô ở đây.
+40|Bảo trọng.
+41|Giờ ông lại tử tế sao?!
+42|Khốn thật! Đừng nói lời tử tế như thế bất ngờ chứ!
+43|Cảm ơn ông vì tất cả!
+44|Một người đàn bà ồn ào.
+45|Nhưng mà...
+46|lúc cô ra đi có lẽ lại là thời điểm may mắn.
+47|Gì cơ?
+48|Hội nghị Reverie ở Mary Geoise hiện đang diễn ra...
+49|và có một chuyện kỳ lạ đã nảy sinh.
+50|Xông lên!
+51|Absalom đâu?!
+52|Bọn mày giấu hắn ở đâu?!
+53|Sao ta không giết được chúng?!
+54|Absalom đâu?!
+55|Tôi không biết!
+56|Lũ lính quèn chúng mày chẳng biết cái quái gì!
+57|Râu Đen đâu?!
+58|Hắn đâu?! Dẫn Teach ra đây cho ta!
+59|Đừng có làm loạn!
+60|Chúng mày không nghe ta nói à?!
+61|Ta bảo dẫn Teach ra đây!
+62|Teach! Mày ở đâu?!
+63|Ồn ào quá meow.
+64|Là Gecko Moria, thuyền trưởng Pizarro!
+65|Cựu Thất Vũ Hải!
+66|Ôi, sao lại để hắn vào?
+67|H-Hắn xông vào! Cùng với đội quân xác sống!
+68|Cảng bị phá tan tành rồi!
+69|Hắn muốn gì?
+70|Hắn muốn gặp Đại úy Teach!
+71|Có vẻ hắn đang tìm Absalom, gã người vô hình mới đến đây gần đây.
+72|À, hắn à!
+73|Nếu mày không chịu ra,
+74|tao sẽ xông vào!
+75|Ngài Moria!
+76|Tôi đây!
+77|Có phải Absalom không?!
+78|Đại ca! Là tôi đây!
+79|Tạ ơn trời! Cậu còn sống!
+80|Tôi khỏe như mới!
+81|Sau khi chia tay bọn ta không nghe tin gì của cậu,
+82|nên bọn ta lo lắm!
+83|Xin lỗi đại ca! Tại hòn đảo này là thiên đường!
+84|Tôi vui quá nên quên liên lạc!
+85|Ừm, nghe thế thì ta cũng đủ chấp nhận rồi!
+86|Nhưng mà...
+87|có vẻ ta hơi làm quá rồi...
+88|Lũ xác sống, đủ rồi!
+89|Quay về tàu!
+90|Băng Râu Đen nổi tiếng là đi săn những kẻ có năng lực!
+91|Đúng vậy.
+92|Sức mạnh của Trái Tàng Hình của ngươi rất đáng thèm muốn...
+93|vì nó giúp ngươi trở nên vô hình.
+94|Ta cũng biết rõ...
+95|quá rõ...
+96|Cái gì...?!
+97|Úi! Khốn kiếp!
+98|Ai làm vậy?!
+99|Mày ở đâu?!
+100|Ngươi có biết ta là ai không?
+101|Shiryu... của Mưa!
+102|Ngươi là con chó của Impel Down đã phản bội theo Teach!
+103|Ngươi đoán đúng rồi.
+104|Ngươi thích sức mạnh của ta chứ?
+105|Ngươi vô hình!
+106|Sức mạnh đó thuộc về Absalom...
+107|Không thể nào...!
+108|Nghi ngờ của ngươi là có cơ sở, Gecko Moria.
+109|Ta đã có được một năng lực hữu ích.
+110|Khốn kiếp...
+111|Chết tiệt!
+112|Vậy rốt cuộc mày là ai?!
+113|Devon!
+114|– Thuyền trưởng Devon! – Thuyền trưởng Devon!
+115|Đừng nói là Absalom...
+116|Hắn không nên đến đây liều lĩnh như vậy!
+117|Nếu ngươi muốn thì xác hắn vẫn còn đây.
+118|Ngươi thích xác chết mà, đúng không?
+119|Lũ khốn chúng mày! Tao không tha đâu!
+120|Sao dám giết bạn tao?!
+121|Tao sẽ biến hết chúng mày thành xác chết!
+122|Ồ, ta muốn xem ngươi làm thế nào.
+123|Đừng phá hòa bình ở Đảo Hải Tặc này!
+124|Giọng đó...!
+125|Mẹ kiếp! Lòi mặt ra!
+126|Không thể nào!
+127|Tôi đang thư giãn đây.
+128|Đây là thiên đường của hải tặc!
+129|Phải vui chứ!
+130|Này các ngươi!
+131|Có thích tiệc tùng không?!
+132|Nếu có,
+133|thì lên tàu của ta đi!
+134|Moria!
+135|Ngươi không thích...
+136|tiệc tùng sao?!
+137|Đọc báo sáng chưa?
+138|Chẳng bao giờ hết chuyện!
+139|Vào ngày thứ tư của Reverie...
+140|các tư lệnh của Quân Cách Mạng...
+141|đã xông vào Mary Geoise Thánh Địa để đoạt lại Kuma,
+142|và đụng độ với các Đô đốc Hải Quân Ryokugyu và Fujitora!
+143|Trong khi đó...
+144|ở Wano, nơi con quái vật Kaido cư ngụ...
+145|sự xuất hiện của Mũ Rơm...
+146|cùng một đám trẻ nóng máu khác đã lên trang nhất.
+147|Và đang truy đuổi họ là...
+148|Tứ Hoàng điên Big Mom!
+149|Ngươi nghĩ chuyện gì sẽ xảy ra?!
+150|Đã bắt đầu rồi.
+151|Để ngồi lên ngai vàng...
+152|kẻ mạnh sẽ nghiền nát lẫn nhau!
+153|Hắn mạnh ngang Công tước Inuarashi!
+154|Có thể địch ngang Công tước Inuarashi... Thật ấn tượng...
+155|Sao vậy, Ashura?
+156|Sao không dùng sức mạnh to lớn đó cho Kuri, cho người dân yêu quý của ngài Oden?!
+157|Ngài ấy chết rồi!
+158|Sao các ngươi còn quay về sau ngần ấy năm?!
+159|Bọn ta quay về để thực hiện ước mơ của ngài Oden!
+160|Nhưng các ngươi-gara đã quên chuyện gì xảy ra với ngài Oden
+161|và đang tùy tiện dùng kiếm theo ý mình!
+162|Im đi!
+163|Đừng nói như thể ngươi biết hết mọi chuyện!
+164|Nếu có điều muốn nói thì nói đi!
+165|Phái Hồ Hỏa: Hỏa Liễu Thiểm!
+166|Các vị...
+167|Đủ rồi.
+168|Inuarashi!
+169|Ashura!
+170|Ta tưởng ngươi giỏi hơn thế này, Ashura!
+171|Kiku!
+172|Ta đã dõi theo Wano từ khi ngài Oden mất hai thập kỷ trước.
+173|Giờ các ngươi nghĩ có thể xuất hiện rồi giảng đạo cho ta sao?
+174|Ta không nghe!
+175|Các ngươi nên biết ơn vì trước khi đi ta không cướp sạch các ngươi!
+176|Ngươi không nhớ sao?!
+177|Hồi đó chúng ta cũng đã như thế này!
+178|Ta bị người đàn ông đó, Kozuki Oden, mê hoặc.
+179|Ta đã liều mạng vì ngài ấy với tư cách samurai!
+180|Nhưng ta chưa bao giờ thề phò tá những người còn lại của gia tộc Kozuki!
+181|Phải rồi...
+182|Momonosuke?
+183|Vậy thì ta khuyên ngươi hãy nhớ ta là người thế nào!
+184|Ta sẽ không bỏ cuộc!
+185|Ta sẽ bắt ngươi gia nhập!
+186|Đừng cho rằng ai cũng vui mừng khi samurai gia tộc Kozuki trở lại!
+187|Các ngươi đã bỏ rơi đất nước suốt hai mươi năm!
+188|Các ngươi sẽ không bao giờ bù đắp được thời gian đã mất!
+189|Cậu có bị thương không?
+190|Không.
+191|Đi thôi.
+192|Tại hạ xin lỗi vì đã ngắt lời.
+193|Raizo...!
+194|Tại hạ đã tìm được ngài Luffy.
+195|Cậu ấy ở khu mỏ tù nhân ở Udon.
+196|Ta đã nghĩ vậy! Vậy ta trông cậy vào ngươi lo liệu.
+197|Rõ!
+198|Otama! Con tỉnh chưa?!
+199|Chủ nhân, con bị sao vậy?
+200|Con bị Kaido tấn công, nhưng những người này đã chữa cho con!
+201|À, ra vậy.
+202|Cảm ơn mọi người!
+203|Con rất biết ơn!
+204|Vết thương của cháu nhẹ thôi. Sẽ khỏi sớm!
+205|Cảm ơn!
+206|Con sợ quá nên ngất đi.
+207|Con không nhớ rõ vụ tấn công lắm.
+208|Con nhớ mang máng Horsella đã chiến đấu rất dữ...
+209|Chủ nhân đi đâu vậy?!
+210|Kẻ thù mà lại trung thành với cô đến thế sao?
+211|Sức mạnh thật đáng kinh ngạc!
+212|Horsella và Đại ca sao rồi?! Họ có ổn không?!
+213|Chúng tôi không biết Horsella ra sao...
+214|Nhưng Luffy thì...
+215|Gì cơ?!
+216|Đại ca bị thương khá nặng...
+217|và bị đưa đến mỏ ở Udon sao?!
+218|Ôi không!
+219|Này, cháu bị thương mà!
+220|Con lo cho Đại ca Luffy hơn là vết thương của con!
+221|Cậu ấy sẽ ổn thôi! Luffy là thuyền trưởng của chúng tôi!
+222|Udon là một vùng của Wano.
+223|Ngày nay nơi ấy chủ yếu nổi tiếng với khu mỏ tù nhân.
+224|Đó là nơi khủng khiếp mà những tội nhân nặng
+225|bị ép lao động khổ sai cho đến chết.
+226|Chưa ai từng trốn thoát.
+227|Không, chúng tôi không cần geisha.
+228|Đừng để ai đến gần phòng này!
+229|Rõ!
+230|Cô hư quá...!
+231|Đây là đơn đặt hàng áo giáp và vũ khí.
+232|Cô chắc chắn hư lắm!
+233|Hả? Tôi sao?
+234|Ồ, nhiều quá! Sắp có chiến tranh hay gì à?
+235|Chúng tôi không biết nước ngoài đang xảy ra chuyện gì.
+236|Chúng tôi chỉ làm những gì họ muốn.
+237|Cô hư lắm, hư lắm!
+238|Hả? Tôi sao?
+239|Nhìn kỹ giùm, Onami. Mắt già của tôi không chịu nổi.
+240|Cô làm tốt lắm! Cứ bình tĩnh mà quan sát.
+241|Đầu hắn che mất tầm nhìn của tôi.
+242|Có người ở đó!
+243|Ai vậy?!
+244|Họ là ai?!
+245|Lục soát gác mái!
+246|Bắt chúng bằng mọi giá!
+247|Bình tĩnh, Shinobu!
+248|Đừng hòng chạy thoát!
+249|Im lặng!
+250|Chúng đi đâu rồi?!
+251|Ồ, chỉ là con mèo thôi sao?
+252|Chúng đâu rồi?!
+253|Cô bị sao vậy, Shinobu?!
+254|Cô ổn không?
+255|Onami...
+256|có chuyện tôi chưa nói với cô.
+257|Gì vậy?
+258|Tìm chúng! Bắt chúng!
+259|Đừng để kẻ đột nhập thoát!
+260|Tôi...
+261|sợ vật nhọn!
+262|Vậy cô không hợp với đánh nhau rồi!
+263|Nhưng Onami...
+264|người phụ nữ trưởng thành...
+265|là một thứ vũ khí...
+266|chết người.
+267|Hãy đón lấy cơn gió này.
+268|Gì cơ?
+269|Ninpo: Đại Diều!
+270|Shinobu, tuyệt quá!
+271|Vẫn chưa tìm ra chúng sao?!
+272|Cô đã thấy gì trong dinh thự, Onami?
+273|Ừm...
+274|Ồ! Tôi thấy tên cảng và ngày vận chuyển!
+275|Làm tốt lắm!
+276|Giờ ta biết khi nào và ở đâu vũ khí của chúng sẽ đến...
+277|nên có thể cướp chúng!
+278|Ừ!
+279|Nhìn kìa! Trong thị trấn có chuyện gì đó.
+280|Hàng người đó là gì vậy?
+281|Có giảm giá à?!
+282|Có nhiều cô gái trẻ quá.
+283|Mời vào! Mời vào!
+284|Các quý cô, xin mời thưởng thức!
+285|Và dĩ nhiên giọng đó là của...
+286|Ngọt tan trong miệng.
+287|Đó là độ dai vừa chuẩn đấy.
+288|Món của Sangoro...
+289|soba nihachi!
+290|Ba, năm, hai, tám!
+291|Tổng là con số đặc biệt mười tám!
+292|Đây là soba đặc biệt của tôi!
+293|Sợi mì sáng bóng!
+294|Dai quá!
+295|– Ngon quá! – Ngon quá!
+296|Mau tuyển thêm samurai đi!
+297|Cảm ơn!
+298|Tin đáng lo!
+299|Ma xuất hiện để nguyền rủa chúng ta!
+300|Có người thấy ma ở nghĩa địa phía bắc! Đây là tin mới nhất!
+301|Ồ? Chuyện gì xảy ra ở đây vậy?
+302|Để tôi xem.
+303|Kamazo "Tử Thần"?
+304|Là hắn!
+305|Thấy hắn nghĩa là ngươi đã chết rồi! Lạnh cả sống lưng!
+306|Thật ra hắn là ai?!
+307|Chồng tôi cũng bị hắn giết!
+308|Nào, lại đây! Lại đây!
+309|Còn có tin về Cậu Bé Giờ Sửu, xuất hiện vào giờ thứ ba sau nửa đêm!
+310|Hắn là tên trộm lấy của người giàu...
+311|đem cho người nghèo sống trong khu nhà ổ chuột!
+312|Hắn là anh hùng hay kẻ ác?!
+313|Danh tính thật của hắn là gì?!
+314|Muốn biết thì mua thông cáo đi!
+315|À! Ngài Giờ Sửu!
+316|Cho tôi một tờ!
+317|Vâng, cảm ơn!
+318|Lại mà lấy phần của mình!
+319|Thông cáo này đầy tin độc quyền!
+320|Cho tôi một tờ nữa!
+321|Tôi nữa!
+322|Trăng lưỡi liềm ngược!
+323|Ai đưa cho tôi cái này?
+324|Họ thật sự trở lại sao?!
+325|– Gia tộc Kozuki! – Gia tộc Kozuki!
+326|Này, đây có thể là việc của lũ ma đó.
+327|Nghi ngờ chẳng ích gì! Việc này sẽ châm ngọn lửa lớn!
+328|Tôi đi!
+329|Nếu là mười năm trước, tôi đã chiến đấu...
+330|Nhưng các người định lấy gì làm vũ khí?
+331|Đất nước này cấm tất cả mọi người trừ samurai mang vũ khí.
+332|Mọi võ đường kiếm đạo đều đã đóng cửa.
+333|Võ thuật như karate và judo cũng bị cấm.
+334|Orochi đã dập tắt tia lửa nổi dậy.
+335|Tôi sẽ chiến đấu dù chỉ bằng tay không!
+336|Đây sẽ là cơ hội cuối cùng! Tôi đã chờ đợi quá lâu!
+337|Tôi không ngừng được...
+338|run lên vì phấn khích!
+339|Ngài Luffy.
+340|Raizo!
+341|Nhỏ tiếng thôi!
+342|Sao vậy?
+343|Không có gì. Thật ra tại hạ có tin tốt.
+344|Otama đã khỏe rồi.
+345|Ồ! Thật sao?!
+346|Được rồi, lát nữa tôi quay lại.
+347|Được.
+348|Yahoo!
+349|Này, Jack...
+350|tiền thu từ Kuri thảm hại quá.
+351|Giờ Doflamingo không còn nữa...
+352|ngươi biết đối tác làm ăn tiếp theo của chúng ta là ai rồi chứ?!
+353|Xin lỗi các Huynh...
+354|Chúng ta không cần thêm gánh nặng ngoài tên ngốc Queen này.
+355|Đúng vậy! Đã có King rồi thì đâu cần thêm cặn bã!
+356|– Nghe rõ chưa, Jack tay sai?! – Nghe rõ chưa, Jack tay sai?!
+357|Còn ngươi nữa, Queen!
+358|Sao bẻ gãy lũ nhóc đó lâu thế?!
+359|Đồ vô tích sự!
+360|Im đi, đồ biến thái bạo dâm!
+361|Tân Thế Giới
+362|Tân Thế Giới
+363|Đảo Hải Tặc Tổ Ong
+364|Đảo Hải Tặc Tổ Ong
+365|"Vua Tham Nhũng"
+366|"Vua Tham Nhũng"
+367|của Mưa
+368|của Mưa
+369|"Kẻ Săn Thiếu Nữ"
+370|"Kẻ Săn Thiếu Nữ"
+371|Núi Atama, Kuri, Wano
+372|Núi Atama, Kuri, Wano
+373|Udon, Wano
+374|Udon, Wano
+375|Đại Diều
+376|Đại Diều
+377|SOBA NIHACHI CỦA SANGORO
+378|SOBA NIHACHI CỦA SANGORO
+379|SOBA NIHACHI CỦA SANGORO
+380|3
+381|3
+382|5
+383|5
+384|5
+385|2
+386|2
+387|2
+388|8
+389|8
+390|8
+391|3
+392|3
+393|3
+394|5
+395|5
+396|5
+397|2
+398|2
+399|2
+400|8
+401|8
+402|8
+403|Soba Đặc Biệt
+404|Soba Đặc Biệt
+405|Mỏ Tù Udon Wano
+406|Mỏ Tù Udon Wano
+407|Queen "Dịch Hạch" Tam Tai băng Bách Thú
+408|Queen "Dịch Hạch" Tam Tai băng Bách Thú
+409|King "Hỏa Hoạn" Tam Tai băng Bách Thú
+410|King "Hỏa Hoạn" Tam Tai băng Bách Thú

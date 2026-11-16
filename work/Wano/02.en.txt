@@ -1,0 +1,346 @@
+1|Want some freshwater clams?!
+2|Outta the way!
+3|Come in! Come in!
+4|Try our special flower udon!
+5|We're short-handed here. Could you help me a little bit?
+6|Hey! Carry the other end!
+7|Hey, hey, hey!
+8|New guy!
+9|You're the one who did this part?!
+10|Yes, Boss!
+11|Is there something wrong?
+12|What kind of idiot are you?!
+13|It's perfection!
+14|I'm praising you!
+15|You damn fool!
+16|Of course, it's perfect because I...!
+17|...play your roles!
+18|O-O-Oh...
+19|I'm pleased to hear it!
+20|Thank you, sir!
+21|You damn blowhard!
+22|Everyone!
+23|Gather 'round! Gather 'round!
+24|Here's a sheet of paper— no gimmicks or setup!
+25|One sheet becomes two!
+26|Two sheets become four! Four sheets become eight!
+27|Eight to sixteen, then thirty-two to sixty-four!
+28|I give you the fluttering dance of...
+29|a springtime sakura shower and the snowfall of Wano's early evening!
+30|Now you've witnessed how truly sharp this named blade is!
+31|A simple graze from it...
+32|See how easily it can cut you!
+33|But, watch this!
+34|What I have here is toad oil!
+35|If you apply it to a wound...!
+36|Ta-dah!
+37|Look! You see?!
+38|This is how it works!
+39|The bleeding's stopped, too!
+40|This toad oil is an East Blue specialty!
+41|Come and get some!
+42|– I'll have some! – Me too!
+43|You folks have a good eye!
+44|Now, gather 'round! Gather 'round!
+45|You're doing great!
+46|That's it! That's it! So irresistible!
+47|Your hand is too low!
+48|Lower your hips more!
+49|Yes, ma'am...
+50|Your goal is nearly impossible, so you have to push yourself!
+51|At this rate, the shogun won't invite you to his court in the time desired!
+52|Keep going, baby!
+53|Yes, ma'am...
+54|This sake is delicious.
+55|I'll come back soon!
+56|Thank you very much!
+57|The moon's beautiful...
+58|No!
+59|Move!
+60|The smell of blood...
+61|Hold it!
+62|That's a nice smell, buddy.
+63|Like a blood-scented perfume...
+64|– You're under arrest! – You're under arrest!
+65|Yeah, the slasher went that way.
+66|You're under arrest! You're under arrest!
+67|Huh?
+68|You're the slasher! Don't resist!
+69|Huh?!
+70|– You're under arrest! You're under arrest! – You're under arrest! You're under arrest!
+71|Looks like I'll have to stamp out these sparks...
+72|before they flare up!
+73|...play your roles!
+74|Listen, everyone.
+75|You're in Wano now.
+76|The shogun of this land is...
+77|Kurozumi Orochi!
+78|All of his officials are under the control of Kaido.
+79|That's what makes them all so high-handed.
+80|Therefore, if you even touch them, Kaido will hear about it!
+81|Until all of our allies get here and we're ready to fight,
+82|we cannot afford to be discovered!
+83|So you must all pretend to be regular citizens for now...
+84|and quietly—I repeat, quietly—
+85|play your roles!
+86|I guess I have no choice...
+87|I got it...
+88|verily...
+89|Hey, tie him up!
+90|– You're under arrest! You're under arrest! – You're under arrest! You're under arrest!
+91|It's the arch rogue who's been terrorizing our streets!
+92|The magistrate has finally, finally captured him!
+93|The criminal has been sentenced to seppuku!
+94|You can get all the details in here!
+95|I hate his guts!
+96|He turned his blade against my husband too!
+97|What a relief!
+98|Just this month, he slashed three people on the streets at night.
+99|Hey, can I have one, too?!
+100|Thank you!
+101|Z-Zorojuro...
+102|So your name is Zorojuro...
+103|Everyone was fearful of the slasher...
+104|If you slash your belly, the town will become peaceful again.
+105|And I can hardly believe...
+106|you're also a grave robber.
+107|Twenty-three years ago...
+108|amid the confusion of a pirate incident...
+109|the corpse of the legendary swordsman Ryuma went missing...
+110|along with his named blade Shusui!
+111|Legend has it that Ryuma sliced off the head of a giant, savage dragon...
+112|with this very sword, Shusui.
+113|Although, slasher...
+114|That grave robbery took place twenty-three years ago.
+115|You don't look that old.
+116|Did you steal it from the original thief?
+117|Oh, well...
+118|The famous Shusui is now in my hands!
+119|Yes, sir.
+120|Now, Zorojuro, it's time.
+121|Hey.
+122|This blade has no grip...
+123|verily.
+124|A seppuku blade is usually short and has no grip.
+125|It's not meant for combat after all.
+126|Do you know the proper etiquette of seppuku?
+127|If you call yourself a samurai, admit your guilt and kill yourself honorably!
+128|Before you start suffering...
+129|I'll assist in your death!
+130|Well then...
+131|So long.
+132|Just don't cry like a baby...
+133|A proper death is a samurai's honor.
+134|We have witnesses!
+135|And enough evidence!
+136|This will be an honorable death that you don't deserve!
+137|Be happy that you can perform seppuku.
+138|I smell blood.
+139|You...
+140|are the culprit!
+141|I'm sorry, Kin'emon.
+142|Ouch!
+143|Is this... Wano?
+144|Where did everyone go?
+145|Let's see...
+146|What happened to us?
+147|Get him! Get him!
+148|What the?!
+149|Hey!
+150|Hey, you!
+151|Don't break our ship!
+152|It's a giant dog!
+153|Is it a dog or a boar?
+154|An animal with a sword?
+155|I guess that's just how Wano is!
+156|The first thing I see here is a fight between two wild beasts?
+157|Listen, guys!
+158|You can fight all you want but don't damage the ship!
+159|Oh, yeah...
+160|What was I doing?
+161|After we climbed up the waterfall, we saw land...
+162|But we were sucked into a whirlpool before getting there...
+163|What's this?!
+164|Hey, the tide is running in reverse!
+165|Hang in there, Sunny!
+166|Nami, hold onto me!
+167|Thank you, Sanji!
+168|You're most welcome, Nami!
+169|Sanji!
+170|Yeah, hold onto me!
+171|Okay, I'm gonna jump to land!
+172|Ready?!
+173|Wait, Sanji!
+174|Take me with you!
+175|Chobro!
+176|I can't! Too heavy!
+177|No! Don't leave me behind!
+178|I'm sorry, but you need to let go.
+179|How could you...?!
+180|Just kidding.
+181|Hold on tightly!
+182|Sanji!
+183|Then allow me to join, too.
+184|I love you all!
+185|Squeeze!
+186|Those are some hard bones!
+187|Not bones! Bones are so creepy!
+188|Use my belly, Sanji!
+189|Okay!
+190|See you later!
+191|Yeah, I'm right behind you!
+192|Alright, it's my turn to go!
+193|Sunny! I promise I'll find you later!
+194|Here I go!
+195|The octopus?!
+196|What do you still want from me?!
+197|Damn octopus!
+198|Then, I was here when I woke up.
+199|So am I above the waterfall? Or did I fall?
+200|Did I make it to Wano?
+201|Oh?
+202|The vivre card is gone!
+203|I lost it!
+204|Is it in the sea?!
+205|Damn!
+206|Oh, well!
+207|Forget it.
+208|Stop!
+209|Let me go! I didn't say anything like that!
+210|Give me back my rice, too!
+211|No, I'm sure you said it!
+212|When the Kozuki Clan comes back, they'll teach you a lesson!
+213|You traitor...
+214|You're an ally of that evil family, the Kozuki Clan!
+215|It's a serious crime!
+216|We'll either sell you to a brothel or send you to prison.
+217|There'll be no mercy!
+218|But...!
+219|Pipe down for a second.
+220|We're on duty now!
+221|Look! There's a ship on the beach!
+222|Just one survivor?
+223|And our baboon's having trouble with that lion-dog!
+224|He's not so dependable as a guard, huh?
+225|Oh! Komachiyo?!
+226|Guys, that's enough...
+227|Boss! Looks like the report was right!
+228|It's the trespassing ship!
+229|Do you see its crew?
+230|There's just one.
+231|One, huh?
+232|We'll knock him out and take him with us!
+233|He'll at least become our laborer!
+234|Good boy. Sleep well!
+235|When you wake up, we'll treat you so well as our slave!
+236|What the...?!
+237|Attacking me all of a sudden?
+238|You bastard!
+239|I can't hit him!
+240|Hey, what's going on?
+241|Well, it's nothing...
+242|This beach is so rowdy.
+243|Dammit...
+244|Hey, baboon!
+245|Don't just stand there and watch!
+246|You can get the lion-dog later!
+247|Catch that guy!
+248|Actually, you now have permission...
+249|to kill him!
+250|What do you want?
+251|Good!
+252|Don't fight so much, guys!
+253|What the hell are you afraid of?!
+254|He's just a lousy pirate!
+255|Look what you did, you squirt!
+256|I'll kill you!
+257|Stop right there, you damn brat!
+258|F-Forgive me!
+259|I surrender!
+260|I surrender!
+261|What are you doing?
+262|I said I surrender!
+263|I surrender!
+264|I'm not gonna do anything to you!
+265|Y-You mean it?
+266|Yeah!
+267|U-Um...
+268|I'm sorry but while you're here, may I have some of your time?
+269|Th-This is my chance!
+270|Chance? What do you mean?
+271|All right. Let's do it.
+272|Huh? Do what?
+273|Millet Dumpling!
+274|Here we go!
+275|What?!
+276|Your cheek came off!
+277|Go ahead. Eat it.
+278|Wh-What are you doing?
+279|Shake.
+280|What?!
+281|She tamed that beast!
+282|I did it!
+283|I finally befriended the savage mountain baboon!
+284|Yay!
+285|I did it!
+286|So you're an ability user!
+287|That power's pretty handy!
+288|Okay, okay.
+289|You're our friend now!
+290|Good boy.
+291|Is that your dog?
+292|He is!
+293|I named him Komachiyo!
+294|Oh, Komachiyo!
+295|Nice to meet you!
+296|I'm Luffy!
+297|And my name is Otama.
+298|Okay, Otama!
+299|Nice to meet you, too!
+300|Nice to meet you!
+301|Now...
+302|I need to know if this country is Wano or not.
+303|This country?
+304|Yes, this is Wano!
+305|You're in the Kuri region of Wano...
+306|Big Bro!
+307|So I am in Wano!
+308|I finally made it to Wano!
+309|Wait for me, Kaido!
+310|Wait! "Big Bro"?!
+311|Hey!
+312|Since when am I your big brother?!
+313|A big brother is a big brother!
+314|What does that even mean?
+315|Well, it's no big deal.
+316|Okay, Big Bro!
+317|You committed a high crime, Zorojuro!
+318|Damn you, slasher!
+319|You won't even admit your guilt?!
+320|Three swords?!
+321|What?!
+322|Wh-What the...?!
+323|Dragon Twister!
+324|At least this country has some nice weather.
+325|Communication from Kuri beach seems to have been cut.
+326|They were probably beaten by someone.
+327|We don't know how many there are.
+328|What should we do, Boss?
+329|Don't tell Kaido.
+330|I'll handle it!
+331|Wano Country
+332|Wano Country
+333|Wano Country
+334|Wano Country
+335|Wano Country
+336|Wano Country
+337|Wano Country
+338|Wano Country
+339|Wano Country
+340|Franosuke Carpenter
+341|Usohachi Toad Oil Salesman
+342|Orobi Geisha
+343|"Arrest"
+344|"The Slasher, Zorojuro"
+345|A Baboon
+346|Otama

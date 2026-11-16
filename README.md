@@ -18,6 +18,9 @@ Vietnamese is added above every spoken line.
 | Dressrosa | 1, 16–48 |
 | Zou | 1–10 |
 | Whole Cake Island | 1–39 |
+| Reverie | 1–3 |
+| Wano (Extended Cut) | 1–62 |
+| End of Wano | 4 (Final Curtain) |
 
 The Vietnamese is translated by AI (Claude), following a shared
 [glossary](glossary.md) so names, terms and pronouns stay consistent.
@@ -48,19 +51,25 @@ changed: the new ones go into a `dual` folder inside your video folder:
     ...
     dual\
         Whole Cake Island 01.mkv                     with Vietnamese + English
-        Whole Cake Island 02.mkv
+        Whole Cake Island 01.ass                     the same subtitles as a file (VLC loads it by itself)
         ...
-        Whole Cake Island.m3u8                       playlist
+        Whole Cake Island.m3u8                       playlist from episode 01
+        Continue Whole Cake Island.bat               carry on where you stopped
 ```
 
 ## Watch
 
-Double-click the `.m3u8` playlist in the `dual` folder. VLC plays the episodes
-in order, one after another, with the Vietnamese + English subtitles already
-on. Opening a single `.mkv` works too.
+Double-click **`Continue <arc>.bat`** in the `dual` folder. It opens VLC at the
+episode you watched last and plays the rest of the arc in order; VLC offers to
+resume where you stopped in that episode. The first time, it starts at episode 01.
 
-The original English-only subtitles are still in each file if you ever want
-them: in VLC, **Subtitle → Sub Track**.
+The `.m3u8` playlist always starts at episode 01. Opening a single `.mkv` works too.
+Keep each `.ass` next to its `.mkv`: VLC uses it to show the subtitles.
+
+Song lyrics (karaoke) and heavy animated signs are left out of the Vietnamese +
+English subtitles: thousands of animated pieces at once can make VLC stop showing
+them. The original English-only subtitles, with all the effects, are still in each
+file if you ever want them: in VLC, **Subtitle → Sub Track**.
 
 ## What the messages mean
 
@@ -71,13 +80,23 @@ them: in VLC, **Subtitle → Sub Track**.
 | `! 6 of 580 lines have no Vietnamese` | Those lines show in English only, usually short on-screen captions or lines that are new in your version. |
 | `couldn't tell which arc this is` | Rename the folder so it contains the arc name, e.g. `Zou`. |
 | `isn't translated yet` | That episode has no Vietnamese yet (see the table above). |
+| `no English subtitles in One Pace's subtitle repo yet` | One Pace hasn't published that episode's subtitles, so there's nothing to translate from yet. |
+
+## Videos with the English burned in
+
+Some One Pace downloads (`.mp4` files marked `[En Sub]`, like the Wano Extended Cut
+pack) have the English burned into the picture instead of as a subtitle track.
+`make_videos.bat` notices this by itself. Those videos get **only the Vietnamese**,
+placed just above the burned-in English, and the English for translating comes from
+the matching episode in One Pace's subtitle repository (the Extended Cut version for
+Extended Cut episodes).
 
 ## Changing how it looks
 
 From a command prompt in the project folder:
 
 ```
-python dualsub.py mux --video-dir "D:\One Pace\Zou" --size 44        bigger Vietnamese (default 40; English is 55)
+python dualsub.py mux --video-dir "D:\One Pace\Zou" --size 52        bigger Vietnamese (default 48; English is 55)
 python dualsub.py mux --video-dir "D:\One Pace\Zou" --order en-vi    English on top
 python dualsub.py mux --video-dir "D:\One Pace\Zou" --font "Segoe UI"
 ```

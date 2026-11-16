@@ -1,0 +1,461 @@
+1|Chị ơi! Cố lên chị!
+2|Chị ơi!
+3|Này, lũ ngu!
+4|Gọi y tá lại đây!
+5|Này!
+6|Rõ, thưa ngài!
+7|Tìm hai đứa đó, dồn chúng vào đường cùng rồi gọi bọn ta tới.
+8|Yamato, thằng khốn...
+9|Page One!
+10|Cậu cũng ăn một đòn khá nặng đấy.
+11|Ừ, cú đấm đó mạnh thật...
+12|Chắc hắn làm trật khớp hàm tôi rồi.
+13|Có thế thôi sao?!
+14|Quan trọng hơn, y tá đâu rồi?
+15|Có chúng tôi đây!
+16|Cô làm đau mắt tôi quá!
+17|Pay-Pay!
+18|Đau quá đi mất!
+19|Tội nghiệp cho tôi quá!
+20|Hay là cô im đi thì hơn?
+21|Ngươi nói gì?!
+22|Ngươi muốn làm ta khóc sao?!
+23|Thằng Yamato khốn kiếp!
+24|Sao hắn dám cướp Lôi Bát Quái của Đại nhân Kaido?!
+25|Cô ấy khỏe re mà.
+26|Của hắn phải gọi là Lỗi Bát Quái thì đúng hơn.
+27|Chẳng đau chút nào...
+28|Chị ơi...
+29|Ngài Page One!
+30|Thiếu chủ Yamato và Mũ Rơm đã dừng lại rồi!
+31|Rõ!
+32|Này, Pay-Pay!
+33|Đừng bỏ tôi!
+34|Cô định đưa tôi đi đâu?!
+35|Tôi không có thời gian cho người lạ!
+36|Xin hãy khoan.
+37|Tôi chỉ muốn nói chuyện thôi.
+38|Tránh ra!
+39|Nghe tôi nói đã!
+40|Cậu có năm giây!
+41|Người ta nghe thấy mất.
+42|Ta nói chuyện riêng đi.
+43|Vậy thì thôi!
+44|Gum-Gum...
+45|Gatling!
+46|Đồ cứng đầu!
+47|Red Hawk!
+48|Cảnh này làm tôi nhớ...
+49|trận đấu của tôi với hắn!
+50|Chết tiệt!
+51|Họ biến mất rồi!
+52|Chuyện gì thế?
+53|Yamato đâu?
+54|Tôi xin lỗi!
+55|Bọn tôi để mất cả hai rồi!
+56|Ngày Kozuki Oden ngã xuống...
+57|thành trì của hắn, Lâu đài Oden, cũng sụp đổ theo!
+58|Nhưng một nhóm người trong lâu đài đã biến mất không dấu vết!
+59|Các samurai của Hồng Bao và thằng nhóc này!
+60|Họ đã biến đi đâu?
+61|Đến tương lai!
+62|Họ vượt qua hai mươi năm...
+63|rồi hiện ra ở Wano ngày nay! Không già đi một ngày nào!
+64|Vậy ai là kẻ làm ra phép thuật này?!
+65|Ta sẽ nói cho các ngươi...
+66|Chính là Kozuki Toki!
+67|Vợ của Oden, Toki, là phù thủy có thể đưa lũ phản loạn này sang tương lai!
+68|Không thể nào!
+69|Ở Wano này đâu đâu cũng có đám nhóc búi tóc!
+70|Họ Kozuki đã tuyệt diệt từ mấy chục năm trước rồi!
+71|Đúng không, đại ca?!
+72|Ừ, đúng thế!
+73|Đ-Đại ca nói đúng quá!
+74|Này, này, Tướng quân Orochi!
+75|Đừng để nó ở xa bọn tôi thế!
+76|Đưa thằng nhóc đó xuống đây!
+77|Tao muốn móc mắt nó ra!
+78|Sao ngươi dám gọi mẹ ta là phù thủy?!
+79|N-Ngươi sẽ phải trả giá, Orochi!
+80|Thằng nhãi láo xược! Đừng có làm bộ cứng cỏi!
+81|Ta nên xử tử ngươi thế nào đây?!
+82|Đóng cọc?
+83|Bắn chết?
+84|Hay là luộc?!
+85|Làm sao đây, sếp?
+86|Tôi không chịu nổi khi thấy Momo như vậy!
+87|Các samurai chắc chắn sẽ ra tay.
+88|Cố giữ nhé, Nico Robin!
+89|Cậu chủ Momonosuke!
+90|Cậu chủ Momonosuke!
+91|Cậu chủ Momonosuke!
+92|Cậu chủ Momonosuke!
+93|Tuy bực bội vì không thể cứu Momonosuke,
+94|đội đột kích đã hòa vào bữa tiệc thành công!
+95|Trong lúc đó, tàu ngầm Polar Tang của Law, chở các samurai Hồng Bao,
+96|đã tới phía sau hòn đảo.
+97|Chỉnh độ nghiêng, 38 độ!
+98|Đang chỉnh, 38 độ!
+99|Tiến sát đảo hết mức có thể!
+100|Rõ!
+101|Dòng chảy mạnh đang hình thành quanh ta!
+102|Trên kia cũng vậy.
+103|Khi nổi lên, chúng ta chỉ có một cơ hội!
+104|Hiểu rồi!
+105|Nhờ cả vào cậu, Traffy!
+106|Bepo! Shachi! Penguin!
+107|Sẵn sàng chưa?!
+108|Rõ, thuyền trưởng!
+109|– Rõ, thuyền trưởng! – Rõ, thuyền trưởng!
+110|Bọn ta đến đây, Kaido!
+111|Mọi hệ thống ổn!
+112|Sẵn sàng nổi lên bất cứ lúc nào!
+113|Được! Nổi lên!
+114|Tuyết rơi sao...?
+115|Room!
+116|Shambles!
+117|Họ đi rồi!
+118|Đóng cửa lại!
+119|Lặn xuống lại!
+120|Rõ!
+121|Lặn nhanh!
+122|Bọn tôi đến rồi!
+123|Kỹ thuật của cậu thật phi thường!
+124|Có hai lối vào.
+125|Chắc chắn Kaido ở trên đó.
+126|Này!
+127|Nhẹ tay chút được không?!
+128|Đòi hỏi nhiều quá!
+129|Ý tưởng hay ho này của ai vậy?!
+130|Này, khoan đã!
+131|Đó hẳn là...
+132|Ui da, ui da...
+133|Nào, mew phải cẩn thận chứ!
+134|Nekomamushi!
+135|Ngài lớn hơn nhiều rồi!
+136|Kawamatsu! Ông còn sống!
+137|Ashura!
+138|Ông cũng đến rồi!
+139|Ừ, lâu rồi không gặp!
+140|Marco! Cậu cõng ông ấy tới đây sao?!
+141|Cõng hai người mệt lắm đấy!
+142|Hai người?!
+143|– Izo! – Izo!
+144|Anh ơi...
+145|Anh ơi!
+146|Kiku, em đã thành một samurai tuyệt vời.
+147|– Izo! – Izo!
+148|Thấy anh là mừng quá!
+149|Em mừng lắm vì anh đã trở lại!
+150|Tôi quên nói trước!
+151|Marco bảo biết chỗ Izo, nên tôi đã tới gặp anh ấy!
+152|Marco! Anh chẳng thay đổi chút nào!
+153|Vậy sao?
+154|Chuyện xưa để sau hãy ôn!
+155|Lúc nãy có thứ gì đó trên biển làm tôi chú ý, tôi đi xem thử.
+156|Marco! Cảm ơn anh!
+157|Tôi mừng vì đã chờ hai mươi năm.
+158|Hạ Kaido bằng mọi giá!
+159|Này, Linlin sẵn sàng chưa?!
+160|Ồ, Hoàng đế Big Mom đang trên đường tới rồi!
+161|Sao không nói sớm, Bao Huang!
+162|Xin lỗi!
+163|Giờ ngươi đi được rồi.
+164|Chúng ta sẽ công bố lớn cùng lúc xử tử Momonosuke!
+165|Đi thôi!
+166|Được rồi!
+167|Cạn ly mừng buổi xử tử này!
+168|Ồ, Đại nhân Kaido?
+169|Đại nhân Kaido đến rồi!
+170|Nghe đây!
+171|Tất cả lũ khốn chúng mày!
+172|Để ta thêm chút gia vị cho buổi xử tử nhàm chán của thằng nhóc này.
+173|Đây là... Dự án Tân Onigashima!
+174|Năm phút!
+175|Nhiều năm trước...
+176|tôi đã nói với cha...
+177|rằng tôi muốn trở thành Kozuki Oden.
+178|Hả?!
+179|Đổi lại, ông ấy đã trừng phạt tôi thậm tệ.
+180|Sao cậu lại kể chuyện này với tôi?!
+181|Mà sao lại vào lúc này?!
+182|Hai mươi năm trước, tôi đã chứng kiến cuộc xử tử Oden...
+183|Giờ Truyền Thuyết.
+184|Là một samurai, ông ấy vô song.
+185|Những kẻ giết ông ấy...
+186|là Orochi và cha tôi...
+187|Kaido!
+188|Tôi đã vô cùng phẫn nộ...!
+189|Thế nhưng, hơn hết,
+190|lòng tôi rung động. Nước mắt tôi tuôn rơi!
+191|Sau này, tôi tìm thấy cuốn này ở Kuri.
+192|Nhật ký hành trình của Kozuki Oden.
+193|Ồ, cuốn nhật ký của ông ấy!
+194|Đó là kinh thánh của tôi!
+195|Ngay cả cha tôi và đồng bọn cũng không biết đến cuốn nhật ký này!
+196|Các trang giấy đầy những chiến công anh hùng và nhiều điều quan trọng khác.
+197|Giờ các Hồng Bao đã chết,
+198|phải có người kế thừa ý chí của Oden!
+199|Vì vậy...
+200|tôi sẽ mở cửa đất nước này!
+201|Cậu...
+202|Cho tôi chiến đấu cùng các cậu!
+203|Cậu nói mình là con trai Kaido.
+204|Kozuki Oden là đàn ông, đúng không?
+205|Nên tôi cũng thành đàn ông.
+206|Cậu mạnh kinh khủng.
+207|Lần trước đánh nhau, tôi nhận ra cậu đã nương tay.
+208|Cậu làm tôi nhớ đến Ace.
+209|C-Cái gì...?!
+210|Hả?!
+211|Ta biết các ngươi sẽ đến...
+212|Không có dấu vết nào của cuộc xâm nhập samurai...
+213|nhưng trong lòng ta biết các ngươi không bao giờ chịu ngồi yên.
+214|Ta hiểu sự ngoan cường của các ngươi hơn ai hết!
+215|Họ đến thật rồi!
+216|Sau hai mươi năm trốn như chuột kể từ vụ luộc!
+217|Kanjuro...
+218|Ngươi đã phản bội chúng ta sao?!
+219|Cuộc đột kích của các ngươi chấm dứt tại đây.
+220|Izo, ngươi quay lại... chỉ để chiến đấu trong trận đánh thua này sao?
+221|Bị chặt đầu mà vẫn chiến đấu được...
+222|Vẽ đẹp đấy.
+223|Giống hệt các ngươi, phải không?!
+224|Cùng với Oden, các ngươi mất đầu, vậy mà thân xác samurai vẫn giãy giụa.
+225|Bọn ta vẫn còn đầu!
+226|Chủ nhân của bọn ta là Momonosuke!
+227|Cậu chủ Momonosuke có sao không?!
+228|Tại hạ không dám chắc...
+229|Cậu ấy đã cố hết sức để trốn thoát.
+230|Làm sao để tới chỗ Đại nhân Orochi đây?!
+231|Dừng lại!
+232|Tôi không chịu làm gánh nặng cho họ nữa!
+233|Ngươi đang làm gì vậy?
+234|Nếu để ngươi thoát...
+235|thì ta không thể làm tròn vai trò của mình!
+236|Ta chỉ định đánh ngất cậu ta thôi...
+237|nhưng hơi quá tay một chút...
+238|May là cậu ta vẫn còn sống,
+239|nên ta đã giao được cho Đại nhân Orochi.
+240|Cậu chủ Momonosuke!
+241|Chẳng mấy chốc Momonosuke sẽ bị xử tử trên sân khấu cho mọi người xem!
+242|Bọn ta chỉ cần chặn các ngươi ở đây.
+243|Vài phút nữa, lịch sử gia tộc Kozuki sẽ kết thúc.
+244|Đừng giỡn mặt với bọn ta, Kanjuro!
+245|Tiến lên!
+246|Kappa Style:
+247|Yorikiri!
+248|Flower Shuriken!
+249|Xuống địa ngục đi!
+250|You-gara! Chân ngươi sao thế?!
+251|Là kiếm pháp nhị đao của tôi!
+252|Ngầu không?
+253|Tuyệt cú mèo!
+254|Cái gì thế kia?
+255|Ngầu không?
+256|Cái này sẽ xé Kaido thành từng mảnh!
+257|Ngầu quá...
+258|Sao thế, Kiku?
+259|Khóc nữa đi... Khóc thêm nữa đi!
+260|Nào...
+261|Nào...
+262|Nào!
+263|Xin ngươi thôi những lời nhảm nhí, Kanjuro.
+264|Với ta, Kanjuro của Cơn Mưa Chiều...
+265|là một người bạn quý.
+266|Chuẩn bị đi.
+267|Vết thương từ lưỡi kiếm này sẽ theo ngươi xuống mồ.
+268|Như tuyết còn sót lại giữa mùa xuân, chúng sẽ dày vò linh hồn ngươi mãi mãi!
+269|Lại đây, Kiku!
+270|Này! Bật ốc sên truyền hình lên đi!
+271|Bài phát biểu của Kaido bắt đầu rồi!
+272|Tôi, với tư cách Kozuki Oden, nghĩ rằng cậu...
+273|là em trai Ace, sẽ cho tôi lên tàu, nên tôi đã thu thập thông tin về cậu.
+274|Này!
+275|Ai cũng yêu Kozuki Oden!
+276|Cậu không thể là ông ấy được!
+277|Được rồi, cậu mới là Oden hơn tôi!
+278|Cậu nói tôi là Oden hơn cậu là sao?!
+279|Dù tôi có là Oden, tôi vẫn chưa được tự do...
+280|vì những cái còng này!
+281|Tôi muốn ra khơi cùng Ace và băng của anh ấy...
+282|nhưng tôi bị giam trên đảo này từ năm tám tuổi!
+283|Đó chẳng phải là còng của tù nhân sao?
+284|Đúng vậy!
+285|Cha tôi bảo chúng sẽ nổ nếu tôi rời đảo.
+286|Thật lòng tôi nghĩ đó có lẽ là nói dối...
+287|vì có bậc cha mẹ nào lại cho nổ chính con mình?!
+288|Nhưng khi nghĩ tới tình huống xấu nhất, chân tôi mềm nhũn...
+289|vì cha tôi là loại người như thế.
+290|Muốn tôi tháo ra không?
+291|Hả?!
+292|Cậu thật sự muốn chiến đấu cùng bọn tôi sao?
+293|Nếu cậu đi cùng tôi, tôi sẽ đá đít Kaido ngay trước mặt cậu!
+294|Tôi ước gì tự mình làm được!
+295|Từ nhỏ tôi đã bị ông ấy đánh không đếm xuể!
+296|Lần nào thách đấu tôi cũng thua!
+297|Tôi hiểu.
+298|Được, để tôi tháo cho!
+299|Tháo ra á?
+300|Chúng đã trói buộc tự do của tôi suốt hai mươi năm...
+301|Đâu có dễ như...
+302|Đã hai năm kể từ Đại chiến Thượng đỉnh với Râu Trắng!
+303|Đây là cảnh quay từ Tầng Biểu diễn!
+304|Bánh răng của thế giới lại chuyển động!
+305|Việc bãi bỏ Thất Vũ Hải không phải hành động điên rồ của chính phủ!
+306|Đó là dấu hiệu tự tin vào khả năng
+307|khuất phục chúng ta bằng các đối sách mới tại Tổng bộ Hải Quân.
+308|Nhưng trong khi Chính phủ Thế giới đắm chìm trong vô minh,
+309|chúng ta sẽ tập hợp những lực lượng mạnh nhất thế giới này...
+310|những vũ khí cổ đại!
+311|Để làm được điều đó...
+312|chúng ta đã liên minh với Big Mom!
+313|Có phải ta nghe thấy...
+314|ngươi gọi tên ta không, Kaido?
+315|Ôi trời...
+316|Big Mom?!
+317|Chào mừng trở lại, Zeus.
+318|Ma... ma...
+319|Mama!
+320|Nhìn gần đáng sợ quá!
+321|Bà già mạnh nhất thế giới!
+322|Zeus!
+323|Nami!
+324|Họ bị bắt rồi sao?!
+325|Cuối cùng ngươi cũng đến, Linlin!
+326|Sao ngươi chậm thế?!
+327|Đừng khắt khe thế, Kaido!
+328|Ta đến kịp giờ mà.
+329|Như Kaido đã nói,
+330|chúng ta lập liên minh là có mục đích!
+331|Mục đích?
+332|Nếu đánh nhau thì nó nằm ngoài tầm với,
+333|nhưng nếu bắt tay thì đã nằm trong tầm tay rồi!
+334|Nghe đây, lũ vô lại!
+335|Chúng ta sẽ làm hải tặc gấp đôi!
+336|Cuối cùng...
+337|...chúng ta sẽ chiếm lấy...
+338|...kho báu vĩ đại One Piece!
+339|...kho báu vĩ đại One Piece!
+340|One Piece...
+341|Cái quái gì! Đó là kho báu của tao!
+342|Lũ khốn!
+343|Nỗi sợ về vũ khí cổ đại...
+344|sẽ châm ngòi cho một cuộc chiến khủng khiếp khắp thế giới!
+345|Chuẩn bị đi!
+346|Đó là thế giới bạo lực mà bọn ta mong muốn!
+347|Phấn khích quá!
+348|Ai phục vụ Orochi thì nghe đây!
+349|Các ngươi phải lựa chọn.
+350|Lựa chọn?
+351|Đất nước này...
+352|là pháo đài tự nhiên được bao quanh bởi thác nước,
+353|khiến Hải Quân và Chính phủ Thế giới khó xâm nhập.
+354|Nếu xây thêm nhà máy vũ khí...
+355|và ép cả dân Hoa Đô làm việc,
+356|nơi này sẽ thành vùng đất vô pháp, thiên đường của hải tặc!
+357|Này...
+358|Này!
+359|Kaido, đồ khốn!
+360|Hoa Đô là lãnh địa của ta!
+361|Ngươi có nghe không?!
+362|Vì đã hành hạ gia tộc Kurozumi, ta sẽ bắt lũ quỷ Kozuki quỳ gối
+363|và giáng mọi cực hình lên chúng để chúng không thể trỗi dậy!
+364|Mãi mãi!
+365|Wano là của ta để hủy diệt!
+366|Đất nước này thuộc về ta!
+367|Biết thân biết phận đi, Kaido!
+368|Ngươi còn không phải người ở đây!
+369|Ngươi nghĩ ai giúp ngươi mua được vũ khí?!
+370|Wano chỉ tồn tại nhờ có ta!
+371|Đừng có quên điều đó!
+372|Ta thấy ngươi hiểu rồi.
+373|Giờ việc cần làm...
+374|là giết thằng nhóc đó ngay lập–
+375|Ta không quan tâm!
+376|Chúng ta không cần nó nữa!
+377|Nhảm nhí!
+378|Với ta...
+379|cả gia tộc Kurozumi...
+380|lẫn gia tộc Kozuki...
+381|đều chẳng có nghĩa lý gì!
+382|Momo!
+383|Này, là Momo kìa!
+384|Momo, đợi tôi với!
+385|Này, nói nhỏ thôi!
+386|Này, cái quái gì vậy?!
+387|Chuyện gì đang xảy ra?!
+388|Hả?
+389|Giờ con ruồi thích hải tặc đã chết.
+390|Ai trung thành với Orochi có năm giây để quyết định!
+391|Làm hải tặc và theo ta...
+392|hay thách đấu bọn ta ngay đây và chết?
+393|Để chuẩn bị cho cuộc chiến toàn thế giới sắp tới,
+394|ta sẽ biến đất nước này thành đế quốc hải tặc!
+395|Ta sẽ đẩy mạnh các chuyến viễn chinh cho ngành kinh doanh chính.
+396|Vậy nên đêm nay,
+397|chúng ta sẽ dời Onigashima đến Hoa Đô,
+398|và Wano sẽ sụp đổ!
+399|Thằng khốn đó!
+400|Tên đất nước sẽ là Tân Onigashima!
+401|Và tướng quân mới sẽ là con trai ta...
+402|Yamato!
+403|Ông ta vừa...
+404|nói gì vậy?!
+405|Cha không thể ép con như thế!
+406|Lão già khốn nạn!
+407|Nhanh lên!
+408|Họ sắp giết Momo!
+409|Tôi biết đường tắt!
+410|Được!
+411|Tầng Biểu diễn Skull Dome
+412|Gác mái Lâu đài
+413|"Nhật ký hành trình của Oden"
+414|Con gái Kaido
+415|Con gái Kaido
+416|Con gái Kaido
+417|Con gái Kaido
+418|(Tự xưng là Kozuki Oden)
+419|(Tự xưng là Kozuki Oden)
+420|Y
+421|Y
+422|Y
+423|Y
+424|Y
+425|Y
+426|a
+427|a
+428|a
+429|a
+430|a
+431|a
+432|m
+433|m
+434|m
+435|m
+436|m
+437|m
+438|a
+439|a
+440|a
+441|a
+442|a
+443|a
+444|t
+445|t
+446|t
+447|t
+448|t
+449|t
+450|o
+451|o
+452|o
+453|o
+454|o
+455|o
+456|Cửa sau
+457|Kikunojo của Tuyết Còn Vương Thuộc hạ của gia tộc Kozuki
+458|Kikunojo của Tuyết Còn Vương Thuộc hạ của gia tộc Kozuki
+459|Olin hoa khôi Thuyền trưởng băng hải tặc Big Mom Tiền truy nã: 4 tỷ 388 triệu Beri
+460|Olin hoa khôi Thuyền trưởng băng hải tặc Big Mom Tiền truy nã: 4 tỷ 388 triệu Beri
+461|Olin hoa khôi Thuyền trưởng băng hải tặc Big Mom Tiền truy nã: 4 tỷ 388 triệu Beri

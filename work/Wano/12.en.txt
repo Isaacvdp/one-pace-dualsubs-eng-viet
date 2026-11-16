@@ -1,0 +1,192 @@
+1|I've got to grab him and run!
+2|I should have enough stamina...
+3|Room!
+4|Shamb–
+5|I feel weak...!
+6|Stop what you're doing, Trafalgar.
+7|Not you again!
+8|The seastone used across the world originated in Wano.
+9|A seastone... nail?!
+10|Only the artisans of Wano are capable of refining it into something that small.
+11|Straw Sword!
+12|Damn! This is bad...!
+13|Room!
+14|Shambles!
+15|What an irritating ability...
+16|He can't have gotten far.
+17|He's nearby. Look for him!
+18|– Yes, sir! – Yes, sir!
+19|Lock him up!
+20|– Oh, y-yes, sir! – Oh, y-yes, sir!
+21|Once we break his spirit, he'll fight for us!
+22|– Y-Yes, sir! – Y-Yes, sir!
+23|Don't mention the word "pirate" in the notice papers.
+24|– Yes, sir! – Yes, sir!
+25|I can't have the moronic populace getting even the tiniest bit curious about the outside world.
+26|– Yes, sir! – Yes, sir!
+27|Let's take him!
+28|Hey, guys grab his feet!
+29|– Right! – Right!
+30|You have it, too?!
+31|Damn punk!
+32|No way!
+33|That was Lord Oden's technique!
+34|He can even do it while unconscious?!
+35|Who the hell is that brat?!
+36|That brat Kid uses conqueror's haki, too!
+37|As if we even need...
+38|any more conquerors!
+39|I'll deal with Trafalgar later.
+40|Time to get back to drinking.
+41|Now I'm completely sober.
+42|A seastone nail?
+43|I've never even heard of that before.
+44|This is bad.
+45|– Captain! – Captain!
+46|I hope Bepo and the others are okay.
+47|Hawkins, sir!
+48|Did you find Trafalgar?
+49|Well, we looked all over but he's nowhere to be found!
+50|He must've already left town.
+51|Cuff him!
+52|– Yes, sir! – Yes, sir!
+53|That we caught Straw Hat is enough for now...
+54|But I swear I'll track you down, too, Trafalgar Law!
+55|I won't let him get away!
+56|Mr. Gorobe!
+57|Hey, stay with us!
+58|I'll treat you right away.
+59|I think that voice belongs to...
+60|I want to apologize...
+61|I want to apologize to Luffytaro.
+62|He took the trouble to bring us food, but it went to waste...!
+63|Do not pay that any mind.
+64|I just hope he doesn't feel responsible for the town getting attacked.
+65|He is such a kind man...
+66|Still beautiful after twenty years! She hasn't changed a bit!
+67|Still, I can only see you again once I have fulfilled Lord Oden's dream!
+68|Forgive me for being such a selfish husband!
+69|That's...
+70|Ashura Doji!
+71|A massive hole?!
+72|Okiku!
+73|Don't tell me...!
+74|Help us! A big sinkhole opened up!
+75|Okiku my darling!
+76|We managed to survive!
+77|– Hey! – We're here!
+78|Thank goodness!
+79|You are all safe!
+80|The sinkhole saved us but...
+81|We're falling!
+82|Everyone!
+83|Oh dear!
+84|Hold on tight!
+85|– Thank you! – Thank you!
+86|My hero!
+87|I managed to rescue the ladies!
+88|– Why didn't you save us, too?! – Why didn't you save us, too?!
+89|It was a close call!
+90|So Shino's technique saved everyone in the nick of time!
+91|That's right!
+92|At that moment...
+93|Blast Breath!
+94|Ripe-Ripe Seduction Technique!
+95|Guard Point!
+96|We made it!
+97|My Ripe-Ripe Seduction Technique can make anything more mature!
+98|Yes! Shino can rot anything with a touch!
+99|Rot...! Don't say it like that!
+100|Anyway, about our situation...
+101|Oh, yeah!
+102|What happened to Luffy?!
+103|He looked like he wanted to pick a fight with Kaido!
+104|Brace yourselves and listen closely.
+105|How could he do something so cruel?!
+106|She's still breathing!
+107|Help her!
+108|Yes, sir!
+109|People can see us here, so let's go into the forest!
+110|That he'd even harm children...!
+111|Damn you, Kaido!
+112|News of Luffytaro's big fight in Kuri...
+113|Extra! Extra!
+114|Read all about it! Extra! Extra!
+115|...spread across Wano.
+116|Hm? Is this a notice paper?
+117|Oh! Luffy!
+118|So he's here in Wa–
+119|Oh, Luffy!
+120|So here's here in–
+121|Extra! Extra!
+122|Lu–
+123|It burns!
+124|Hmm...
+125|It's hard to believe such a wild rogue has shown up in Wano.
+126|What're you reading?
+127|It burns!
+128|Oh, a samurai named Luffytaro fought Lord Kaido.
+129|Whoa! That's disgusting, bro!
+130|Don't spew out wasabi sushi!
+131|And you ate too much! Can you pay for it all?!
+132|Let me see that!
+133|What are you doing, Luffy?!
+134|Beat, beat! Beat the iron flat!
+135|The harder and stronger the weapons we create, the more the capital will flourish!
+136|Your lives belong to Shogun Orochi!
+137|If you wanna live, beat the iron flat!
+138|If you wanna rest, I'll kill you!
+139|Move faster!
+140|Wano's Udon region...
+141|is home to the weapons factories and mines...
+142|in which prisoners are forced to work.
+143|Here you go! Poisonous fish!
+144|What's in this cell anyway?
+145|Dunno...
+146|I was told to throw in one poisonous fish each day after removing the bones.
+147|That's all.
+148|That means it likes poisonous fish?
+149|Typically, they feed poisonous fish as a method of execution.
+150|But whatever's in this cell eats them anyway and just stubbornly goes on living.
+151|Is it a shark or a crocodile or something?
+152|Why do we have to bother removing the bones? It's a pain in the ass!
+153|That's because...
+154|"Heinous criminal"?!
+155|That means the new guy everyone is talking about just arrived!
+156|What?!
+157|Welcome, new guy!
+158|You have a lot of nerve!
+159|You're as good as dead since you messed with Viceroy Kaido!
+160|Get ready!
+161|Come on! Walk faster!
+162|Hey, is that really the guy...
+163|whose fight with Viceroy Kaido devastated a town in Kuri?
+164|I think so.
+165|That little guy?!
+166|Yeah, I thought he was at least going to be huge like the Superstars!
+167|Hey, say something!
+168|He's so weak!
+169|Did this loser really challenge Viceroy Kaido?!
+170|Hey, no taking a break! Get up already!
+171|Huh? That's quite the look in his eyes!
+172|That's fine. I'll take the time to torture you until your eyes become dull!
+173|What's wrong with him?! He's glaring at us prison guards!
+174|I'm gonna teach you what happens when you defy us!
+175|Die!
+176|My neck!
+177|A fishbone came flying from the cell!
+178|Idiot! Didn't you remove the bones before feeding it?!
+179|Ouch! My neck!
+180|What is it?! What's in this cell?!
+181|No one knows!
+182|All right, you'll be staying here!
+183|Until your spirit gets broken and you bend the knee to Viceroy Kaido!
+184|Tomorrow is when we start pushing you to the brink!
+185|We're gonna work you to the bone!
+186|All right then! Rest up today!
+187|Tomorrow's gonna be hell!
+188|"Wanted Flyer"
+189|"Toad Oil"
+190|"Wasabi"
+191|"Heinous criminal"
+192|"Luffytaro"

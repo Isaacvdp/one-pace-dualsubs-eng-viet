@@ -1,0 +1,405 @@
+1|Vậy...
+2|tại sao bọn chúng truy đuổi em?
+3|Hả?
+4|Dạ...
+5|Em vào thị trấn mua ít đồ...
+6|Nhưng trên đường về nhà, em đụng phải thuộc hạ của tên ác nhân và con khỉ đầu chó của chúng.
+7|Để bảo vệ em, Komachiyo đã tấn công con khỉ đầu chó...
+8|À, thì ra đó là lý do các cậu đánh nhau.
+9|Trong lúc đó...
+10|Chúng cướp mất đồ em vừa mua!
+11|Tức quá, em lỡ nói một câu cấm kỵ.
+12|Khi gia tộc Kozuki quay lại, họ sẽ dạy cho các người một bài học!
+13|Mày nói cái gì?!
+14|Thả em ra!
+15|Em tưởng mình sẽ không bao giờ được về nhà nữa,
+16|nhưng nhờ anh mà em thoát được!
+17|Nên anh hãy để em đền ơn nhé!
+18|Ồ! Nghe hay đấy!
+19|Tôi vừa mới đến nên có rất nhiều câu hỏi.
+20|Vậy được thôi!
+21|Anh cần có đồ ăn!
+22|Chỗ này được không?
+23|Được!
+24|Ở đây kẻ địch không thể tìm thấy.
+25|Chết tiệt!
+26|Có vẻ chẳng còn gì để ăn!
+27|Anh hai!
+28|Đi thôi nào!
+29|S-sao cơ?
+30|Em muốn mời anh đến nhà đãi một bữa!
+31|Anh hai! Hihimaru! Lối này!
+32|Tên nó là Hihimaru à?
+33|Em vừa mới nghĩ ra!
+34|Ra vậy.
+35|Nhờ cậu đấy, Hihimaru!
+36|Vậy là có loại hải tặc em thích và loại em không thích!
+37|Em thích ai tùy em.
+38|Hả?
+39|Anh là kiểu người mạnh mẽ và tốt bụng.
+40|Nhà em ở đằng kia.
+41|Có một ngôi làng trong núi sao?
+42|Không, không còn nữa!
+43|Giờ chỉ còn sư phụ và em thôi.
+44|Em đang luyện tập để một ngày nào đó trở thành...
+45|một nữ ninja quyến rũ!
+46|"Quyến rũ"?
+47|Ở đây bẩn, nhỏ, lại còn hôi.
+48|Anh hai, nói vậy hơi bất lịch sự đó.
+49|Ồ, thơm quá!
+50|Sắp xong rồi!
+51|Xong chưa, Tama?!
+52|Xong rồi!
+53|Của anh đây.
+54|Anh hai cứ ăn đi!
+55|Cơm mới nấu!
+56|Cảm ơn vì bữa ăn!
+57|Ngon quá!
+58|Em không ăn à?
+59|Không, bây giờ thì không.
+60|Em không nhẹ chân thì không thể thành ninja được!
+61|Cho thêm bát nữa!
+62|Nhanh quá!
+63|Nhưng em chỉ nấu từng đó thôi.
+64|Cái gì?
+65|Dưa muối cũng hết rồi...
+66|V-vậy thì thôi.
+67|Tôi chỉ đùa khi xin thêm thôi.
+68|Cái gì?! Anh nói dối dở quá!
+69|Tôi đi vệ sinh đây.
+70|Chưa đủ no, nhưng cô bé nấu cho mình thế là tốt bụng rồi.
+71|Con bé Tama đó là đứa tốt...
+72|Mày là thằng nào hả?!
+73|Cái gì?! Usopp...
+74|Không phải!
+75|Sao mày ăn bám ở đây hả?!
+76|Đừng nói là mày đã ăn cơm đó.
+77|Tôi đã ăn.
+78|Ông là–
+79|Đồ ngu!
+80|Im đi, cái bụng!
+81|Thật nhục nhã!
+82|Khoan!
+83|A-ai thế?!
+84|Tôi ở đây chỉ vì Tama nấu cho tôi ăn.
+85|Sao Otama lại nấu cho mày?
+86|Mày nghĩ đã bao nhiêu ngày rồi nó chưa ăn gì hả?!
+87|N-nhưng mà...
+88|Dù nó làm việc vất vả mỗi ngày để đan và bán mũ,
+89|tiền kiếm được cũng chỉ vừa đủ nuôi một người!
+90|Có khi ăn cỏ lồng vực, mà đó là còn may.
+91|Nhưng ít nhất, mỗi năm hai lần,
+92|vào sinh nhật và dịp Tết, ta muốn nó được ăn cơm!
+93|Nên ta cho nó ít tiền vào thị trấn
+94|mua gạo mừng sinh nhật tám tuổi của nó!
+95|Thứ hạ đẳng nào lại ăn cơm của nó chứ?!
+96|Sư phụ!
+97|Xin đừng!
+98|Xin tha lỗi vì con nấu mà không xin phép!
+99|Nhưng mà...
+100|anh ấy đã cứu mạng con!
+101|Đừng làm con mất mặt!
+102|Con sẽ đan nhiều mũ hơn nữa!
+103|Nên xin hãy tha lỗi cho con!
+104|Cứ để con báo đáp anh hai Luffy cho đàng hoàng...
+105|Xin sư phụ...
+106|Otama!
+107|Tama!
+108|Này, Tama!
+109|Con bé đã làm chuyện dại dột!
+110|Nó uống nước sông cho đỡ đói.
+111|Nước sao?
+112|Nước sông ở đất nước này...
+113|bị ô nhiễm bởi chất thải lỏng từ các nhà máy của Kaido!
+114|Với một đứa bé như nó thì chẳng khác nào uống độc.
+115|Vậy sao ông còn sống ở đây?!
+116|Có những nơi khá hơn một chút.
+117|Nhưng con bé đang đợi ở đây.
+118|Đợi một người đã hứa sẽ quay lại...
+119|Một hải tặc tên Ace!
+120|Tama...
+121|Ace mà em đang đợi...
+122|là Portgas D. Ace phải không?
+123|Anh biết anh ấy sao?
+124|Anh hai...
+125|Ừ.
+126|Ace đã chết rồi.
+127|Anh nói dối...
+128|Nói dối!
+129|Nói dối!
+130|Anh hai là kẻ nói dối!
+131|Tama!
+132|Otama!
+133|Tỉnh lại đi, Tama!
+134|Con bé ngất rồi.
+135|Vậy là Ace cũng từng đến Wano...
+136|Mày là quỷ hay sao hả?!
+137|Sao mày có thể nói thản nhiên với Otama chuyện Ace chết như vậy?!
+138|Nhưng đó là sự thật.
+139|Dù là sự thật thì lúc đó cũng không phải lúc nói!
+140|Nhưng dù đợi bao lâu thì Ace cũng không quay lại!
+141|Dù vậy...
+142|mày phải cân nhắc nói lúc nào và nói thế nào chứ!
+143|Rõ ràng mày thiếu tinh tế!
+144|Mà mày là cái thằng nào hả?!
+145|Tao là Luffy, người sẽ trở thành Vua Hải Tặc!
+146|Cái gì?! Mày là hải tặc à?!
+147|Ta vốn không ưa hải tặc!
+148|Ông già, ông là ai?!
+149|Ta là Hitetsu.
+150|Ta là thợ rèn kiếm.
+151|Ace giờ đã không còn!
+152|Hãy đưa Tama đến chỗ tốt hơn!
+153|Ta thật sự muốn thế.
+154|Nhưng đã một thời gian rồi...
+155|ta cũng đang đợi một người ở đây.
+156|Giờ chỉ còn hai chúng ta, nhưng nơi này từng là làng Amigasa.
+157|Khoảng một năm trước...
+158|một Headliner mới gia nhập quân đội Kaido và đến đây.
+159|Hắn là một hải tặc tên X Drake.
+160|Hắn đã đánh bại năm samurai quan trọng của ngôi làng...
+161|và mọi thứ bị phá hủy.
+162|Giờ nơi duy nhất thịnh vượng ở Wano...
+163|là Hoa Đô, nơi Tướng quân Orochi sống.
+164|Mọi nơi khác...
+165|cuối cùng đều thành vùng hoang dã vô pháp luật vì Kaido và đồng bọn.
+166|Bốn năm trước, người đàn ông đó đã đến đây.
+167|Ngôi làng này luôn nghèo...
+168|không đủ sống nên người ta thường chết đói.
+169|Ngay lúc chúng ta nghĩ làng này hết đường sống...
+170|Ace dạt vào bãi biển.
+171|Dân làng cướp hết đồ ăn nước uống...
+172|của những tên hải tặc bất lực đó.
+173|Họ ăn hết để sống sót.
+174|Ace nhìn họ ăn sạch mọi thứ,
+175|rồi trước sự ngạc nhiên của mọi người, anh ấy dễ dàng tự cởi trói.
+176|Ai nấy chuẩn bị đón sự trả thù mà họ nghĩ sắp đến.
+177|Mọi người ăn đủ chưa?
+178|Hả?
+179|À... Ừ.
+180|Vậy đến lúc ăn món ngọt rồi!
+181|Cái gì?!
+182|Chỗ nào có thứ tráng miệng nhỉ?
+183|Được rồi, tôi sẽ mang về ngay đây!
+184|Mọi người đều sững sờ.
+185|Ace ở lại làng vài tuần.
+186|Otama đặc biệt quấn quýt anh ấy.
+187|Tôi vẫn không tin nổi những hải tặc bị đắm tàu lại cứu mạng chúng ta.
+188|Ừ...
+189|Ra vậy.
+190|Này!
+191|Chỗ nào có nước và đồ ăn?
+192|Và quanh đây có bác sĩ không?
+193|Đừng nói là...
+194|Ta sẽ mang Tama đi...
+195|để đền đáp việc cho ta đồ ăn!
+196|Khoan, đồ ngốc!
+197|Bộ đồ kỳ quặc của ngươi quá lộ liễu! Mặc cái này vào!
+198|Ồ, là kimono!
+199|Đứng yên!
+200|Mặc giáp samurai cũng ngầu đấy!
+201|Làm gì có ai mặc cái đó mỗi ngày!
+202|Được rồi, đi được rồi!
+203|Có lý do ta không thể vào thị trấn...
+204|nên xin hãy chăm sóc Otama!
+205|Ta sẽ trả tiền bác sĩ sau!
+206|Nếu gặp được đồng đội trước đó, bọn ta sẽ có đồ ăn và chăm sóc y tế miễn phí!
+207|Họ sẽ giúp bọn ta!
+208|Nhìn thứ ngươi có kìa!
+209|Mượn thanh kiếm này thì mình trông như samurai thật rồi!
+210|Được rồi, hẹn gặp lại!
+211|Tama! Anh đưa em đi bác sĩ ngay đây!
+212|Không, khoan đã!
+213|Đồ ngốc! Không được lấy thanh đó!
+214|Đùa với danh kiếm là báng bổ!
+215|Tổ tiên ta, Kotetsu, đã rèn nên thanh kiếm nổi tiếng thế giới đó!
+216|Nó là một trong hai mươi mốt Đại Nghiệp Vật!
+217|Nó tên là Kitetsu II!
+218|Nghe đây!
+219|Trong vô số thanh kiếm trên đời,
+220|các thợ rèn vĩ đại đã tạo ra những thanh được gọi là kiếm có phẩm cấp.
+221|Và những thanh ưu tú nhất trong số đó được gọi là...
+222|năm mươi Lương Nghiệp Vật,
+223|hai mươi mốt Đại Nghiệp Vật,
+224|và mười hai Tối Thượng Đại Nghiệp Vật.
+225|Riêng Kitetsu thì có một câu chuyện...
+226|Hả?!
+227|Hắn biến mất rồi!
+228|Hẹn gặp lại! Tôi mang thanh kiếm đi nhé!
+229|Này! Nghe ta nói đã!
+230|Khoan! Khoan!
+231|Ta đã bảo không!
+232|Vậy cho tôi mượn kiếm của ông đi!
+233|Thanh này cũng là danh kiếm!
+234|Thanh ngươi lấy là thanh bị nguyền rủa!
+235|Nó khá đáng sợ.
+236|Ta không muốn mang nó!
+237|Ngươi sẽ bị nguyền rủa!
+238|Tôi đi đây, ông Mũi!
+239|Tôi sẽ không tha thứ nếu Otama có chuyện gì!
+240|Ừ, tôi sẽ cứu con bé bằng mọi giá!
+241|Và đừng quên trả kiếm lại!
+242|Trả lời ta đi!
+243|Sao ngươi không đáp?!
+244|Ồ, là con chó!
+245|Cậu chở bọn tôi nhé, nhóc?
+246|Thế này dễ hơn nhiều!
+247|Chở bọn tôi thẳng đến thị trấn!
+248|Cái...?! Cái gì?!
+249|Hả?
+250|Ồ, Tama! Em tỉnh rồi!
+251|Anh hai, mình đang cưỡi Komachiyo đi đâu vậy?
+252|Đến bác sĩ.
+253|Con chó này biết đường không?
+254|Ace đã chết.
+255|Ối ối, dừng lại! Em sắp ngã rồi!
+256|Anh hai là kẻ nói dối!
+257|Ace không thể quay lại!
+258|Ai cũng biết chuyện gì xảy ra trong Chiến tranh Thượng đỉnh.
+259|Nhưng...
+260|anh ấy đã hứa với em...
+261|Ace sẽ quay lại!
+262|Ace!
+263|Cho em ra biển cùng anh với!
+264|Em đủ lớn rồi!
+265|Nhưng em mới năm tuổi.
+266|Em đã năm tuổi rồi!
+267|Ồ, em biết mình đang làm gì nhỉ.
+268|Biết chứ.
+269|Anh sắp rời khỏi đây rồi phải không?
+270|Ừ! Anh phải xong việc này trước đó...
+271|Em...
+272|không muốn tạm biệt... anh và mọi người...
+273|Tama...
+274|Bọn anh sẽ quay lại!
+275|Sau khi trở thành hải tặc vĩ đại hơn nữa!
+276|Vậy lúc đó anh cho em vào băng nhé?
+277|Em muốn cùng anh phiêu lưu!
+278|Muốn làm hải tặc thì phải mạnh!
+279|Khi anh quay lại...
+280|nếu em đã thành một nữ ninja quyến rũ, anh sẽ đưa em theo.
+281|Ace! Có cần phải "quyến rũ" không chứ?!
+282|Ace!
+283|– Hả? – Hả?
+284|Em hiểu rồi!
+285|Đó là lời hứa nhé?!
+286|Bọn em đã rất thân...
+287|Anh ấy nói sẽ quay lại...
+288|Anh hai không biết anh ấy tốt thế nào đâu!
+289|Nên anh không hiểu nỗi đau của em!
+290|Không đau, nhưng đừng đánh anh nữa...
+291|Sao anh có thể nói thản nhiên chuyện anh ấy chết chứ?!
+292|Anh hai ngốc!
+293|Ồ! Sắp ra khỏi rừng tre rồi!
+294|Ông Mũi nói đúng...
+295|Đúng là vùng hoang dã thật!
+296|Là con hổ!
+297|Và con lợn rừng!
+298|Cái gì thế kia?!
+299|Đ-đó là Sharkodile!
+300|Hoang dã thật!
+301|Nếu đói cứ ăn chúng đi!
+302|Không được đâu...
+303|Tất cả samurai từng săn chúng đã bị bắt hoặc thành cướp...
+304|Hơn nữa...
+305|Động vật cũng uống nước sông ô nhiễm...
+306|nên ăn thịt chúng sẽ bị trúng độc.
+307|Nhưng trông chúng ngon thế!
+308|Sao chúng dám!
+309|Khói đó là từ nhà máy à?
+310|Vâng!
+311|Họ có mỏ và nhà máy vũ khí...
+312|nên nhiều thuộc hạ của Kaido ở đó.
+313|Họ ăn gì?
+314|Tướng quân và Kaido có... một nông trại sạch...
+315|chỉ dành cho riêng họ.
+316|Vì thế họ có nước sạch và gạo...
+317|và cá...
+318|và rất nhiều... thịt...
+319|Trời! Vậy là hòn đảo này không phải không có!
+320|Này! Tama! Em ổn chứ?!
+321|Ái!
+322|Hình như em đang sốt cao hơn!
+323|Cố lên!
+324|Anh sẽ sớm đưa em đến bác sĩ!
+325|Nếu kẻ địch có đồ ăn và nước thì với tôi thế là đủ!
+326|Nhanh lên, nhóc!
+327|Xin tha cho tôi!
+328|Khoan, con đàn bà kia!
+329|Giao hết đồ ra đây!
+330|Cứu với! Ai đó!
+331|Chết tiệt! Tao sẽ bắt mày trả giá!
+332|Lùi lại, cô gái...
+333|Ngươi là tên đào phạm Zorojuro!
+334|Lũ ngu.
+335|Các ngươi có rượu sake...
+336|Giao ra đây!
+337|Ngài samurai!
+338|Tôi không biết ngài là ai, nhưng cảm ơn đã cứu mạng tôi!
+339|Ồ, đừng bận tâm.
+340|Dù sao tôi cũng muốn rượu của chúng... à...
+341|quả thật.
+342|Nhưng tôi muốn đền ơn.
+343|Vậy cho thêm rượu!
+344|Ồ, tôi không có.
+345|Là Zoro!
+346|Này, Zoro!
+347|Là tôi đây, là tôi đây!
+348|Này!
+349|Luffy!
+350|Cậu đến rồi!
+351|Cuối cùng cũng được gặp cậu!
+352|Zoro!
+353|Yahoo!
+354|Lâu quá không gặp...
+355|Lâu quá không gặp, quả thật và vân vân!
+356|Mọi người đi cùng cậu à?
+357|Ừ, nhưng bọn tôi bị lạc nhau...
+358|Chắc chắn mọi người ổn mà!
+359|Cậu có thịt!
+360|Cho tôi chút!
+361|Ở đây có cả đống cá và thú để săn, Luffy!
+362|Cậu sẽ không bao giờ thiếu đồ ăn!
+363|Không, cẩn thận!
+364|Nước quanh đây có độc!
+365|Nên tôi nghe nói thịt và cá cũng có độc!
+366|Ra vậy. Thảo nào tôi đau bụng.
+367|Mà Zoro, đi với bọn tôi!
+368|Đã xảy ra nhiều chuyện, và tôi đang đưa cô bé đi bác sĩ.
+369|Một đứa trẻ bị bệnh!
+370|Cậu không nên dừng lại để ăn!
+371|Đừng lo!
+372|Tôi sẽ ăn nhanh!
+373|Ăn đi cho rồi!
+374|Được!
+375|Ngươi có phải là...
+376|lãng nhân bị truy nã khắp nước, Zorojuro,
+377|và đồng bọn của hắn không?
+378|Ồ?! Hắn là...
+379|Đúng vậy...
+380|Có vẻ giờ hắn làm việc cho Kaido.
+381|Mũ Rơm!
+382|Ta đang trên đường đến bãi biển Kuri...
+383|nhưng chính ngươi đã gây náo loạn ở đó phải không?
+384|Hai thuộc hạ của ta và một con khỉ đầu chó mất tích...
+385|Khả năng các ngươi liên quan đến chuyện đó...
+386|là 98 phần trăm.
+387|Nhưng...
+388|chuyện đó không quan trọng.
+389|Ở Wano, hoặc là theo kẻ mạnh, hoặc là thành con mồi của chúng...
+390|Luffy, Kin'emon đã bảo chúng ta...
+391|đừng gây náo loạn.
+392|Thế thì tôi đành...
+393|xin lỗi anh ấy sau vậy!
+394|Komachiyo Một chú chó sư tử
+395|Komachiyo Một chú chó sư tử
+396|Hihimaru Người bạn mới
+397|Hihimaru Người bạn mới
+398|"Cơm"
+399|Tenguyama Hitetsu Thợ rèn kiếm (Và là người sưu tầm búp bê kokeshi đẹp)
+400|Tenguyama Hitetsu Thợ rèn kiếm (Và là người sưu tầm búp bê kokeshi đẹp)
+401|Tenguyama Hitetsu Thợ rèn kiếm (Và là người sưu tầm búp bê kokeshi đẹp)
+402|Tenguyama Hitetsu Thợ rèn kiếm (Và là người sưu tầm búp bê kokeshi đẹp)
+403|"Zorojuro, bị truy nã vì giết quan phủ"
+404|Basil Hawkins Một trong các Headliners của băng Bách Thú
+405|Basil Hawkins Một trong các Headliners của băng Bách Thú

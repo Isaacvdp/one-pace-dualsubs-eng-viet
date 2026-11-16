@@ -1,0 +1,386 @@
+1|Ngài Kin'emon! Ngài Denjiro!
+2|Chúc các ngài may mắn!
+3|Các ngươi cũng vậy!
+4|Chúng ta hết tiền rồi, Đại nhân Oden!
+5|Thật sao?!
+6|Chúng ta không có gì ăn tối!
+7|Được rồi, ta có việc cho các ngươi!
+8|Ra phố xin ăn đi!
+9|Lại nữa sao?!
+10|Tại hạ chắc chuyện này đã đau lòng lắm, mọi người.
+11|Kin...
+12|Giờ hãy cứ tiến bước đã.
+13|Izo...
+14|Ngươi đã chấp nhận chết ở đây chưa?
+15|Ta sẽ không bỏ lỡ thêm cơ hội chết nào nữa.
+16|Vậy thì đi thôi.
+17|Okiku.
+18|Chọn đi, samurai của Orochi!
+19|Các ngươi muốn chết cùng chủ nhân Orochi ở đây sao?!
+20|Hay cùng bọn ta chinh phục thế giới?!
+21|Ta biết rõ các samurai trung thành thế nào.
+22|Ta thán phục cả những kẻ dám thách thức bọn ta!
+23|Oniwabanshu năm nghìn người, đội ninja của Wano!
+24|Xin cho chúng tôi được phục vụ ngài!
+25|Cũng vậy, các samurai Wano, năm nghìn người!
+26|Từ nay, chúng tôi phục vụ ngài!
+27|Chào mừng lên tàu!
+28|Tướng quân Orochi...
+29|Thôi, thế là xong...
+30|Tốt quá! Tao không muốn trở mặt rồi đột nhiên phải giết tụi bây!
+31|Hân hạnh làm việc cùng!
+32|Chúng không có tư cách được gọi là samurai!
+33|Cứ nhịn đã, Đại ca Hyogoro!
+34|Không ngờ ngươi lại kéo được quân của tên tướng quân vô dụng đó về phía ta...
+35|Ngươi cũng không tệ.
+36|Giờ lực lượng của ta thật sự hội tụ rồi.
+37|Thả ta ra!
+38|Không! Buông ra!
+39|Giữ chặt chúng.
+40|Ta không để các ngươi yên đâu!
+41|Nếu Shinobu thoát được, chúng ta vẫn còn cơ hội!
+42|Xin lỗi, Onami!
+43|Tôi phải tiến lên!
+44|Mau giúp Momo!
+45|Đại nhân Oden đã biết!
+46|Ngài biết rằng hạ Orochi cũng chẳng thay đổi được gì!
+47|Kẻ cần bị đánh bại suốt hai mươi năm qua chỉ có Kaido!
+48|Hiện giờ, trong Wano...
+49|không còn tướng quân hay samurai nào phục vụ hắn!
+50|Những người dân Hoa Đô vô tình...
+51|chắc đang quá say mê lễ hội nên không biết đây là ngày cuối cùng của họ.
+52|Này, nhóc!
+53|Ta đã nghi ngờ từ lâu.
+54|Một đứa hèn nhát như ngươi...
+55|không thể là con trai của kẻ liều lĩnh như Kozuki Oden!
+56|Ta...
+57|Cuộc xử tử này sẽ chấm dứt Wano cũ.
+58|Nhớ lại ngày hai mươi năm trước...
+59|trong lâu đài đang cháy ấy...
+60|ngươi chưa từng trả lời câu hỏi của ta!
+61|Làm ơn... cứu tôi...!
+62|Tên ngươi là gì?
+63|Trả lời!
+64|Cha ơi!
+65|Ai đó, cứu tôi với!
+66|Nếu ngươi không phải con trai Kozuki Oden và Toki,
+67|ta sẽ hủy xử tử ngay lập tức.
+68|Dù sao lời buộc tội sai cũng làm hoen ố danh tiếng của ta.
+69|Nhưng nếu ngươi vẫn nhận là con họ...
+70|ngươi sẽ chịu chung số phận với Oden.
+71|Ta hỏi lần nữa, nhóc.
+72|Tên ngươi là gì?!
+73|Đại nhân Kaido thật rộng lượng!
+74|Nhóc con chỉ cần nói dối là được sống!
+75|Nghĩ ra cái tên hay đi, nhóc!
+76|Dù phải nói dối, xin cậu hãy chọn sống!
+77|Cậu chủ Momonosuke!
+78|Gì?! Vậy thằng bé đó...
+79|là Kozuki Momonosuke thật sao?!
+80|Đúng vậy!
+81|Các thuộc hạ của Oden vẫn còn sống!
+82|Cái gì?!
+83|Có kẻ xâm nhập!
+84|Tránh đường!
+85|Nếu tất cả Hồng Bao samurai ta thấy hôm đó...
+86|Nếu họ còn sống hết thì tuyệt quá!
+87|Thật tuyệt vời!
+88|Tôi gần như không dám tin!
+89|Momonosuke đang chờ các ngài!
+90|Mau lên!
+91|Cửu Hồng Bao có ở đây chứ?!
+92|Thả tao ra, Yamabro!
+93|Yamabro? Sao cậu gọi tôi thế?
+94|Xin dừng lại, Thiếu chủ Yamato!
+95|Dừng lại!
+96|Thiếu chủ Yamato và Mũ Rơm Luffy đang đến chỗ các ngài!
+97|Đến Tầng Biểu diễn?
+98|Vâng! Chúng tôi sẽ bắt chúng!
+99|Đừng phí công.
+100|Các ngươi không phải đối thủ–
+101|Chúng dám đụng đến người của ta sao?!
+102|Yamato!
+103|Mày sẽ phải trả giá!
+104|Không đời nào! Usopp, đừng đi lối này!
+105|Trông nguy hiểm lắm!
+106|Cậu nghe thông báo lúc nãy rồi mà!
+107|Họ sắp giết Momo!
+108|Mấy người khổng lồ kìa!
+109|Họ sẽ nuốt chửng chúng ta!
+110|Quay lại đi, Usopp!
+111|Bình tĩnh đi, Chopper!
+112|Chúng ta đã đánh hòa với một Tứ Hoàng!
+113|Hãy tin vào Đại tướng Franky! Nó đủ cứng để chịu đòn của Big Mom!
+114|Tôi không làm được!
+115|Tôi không đối phó nổi mấy con quái vật này!
+116|Đừng bao giờ bỏ cuộc!
+117|Đừng bao giờ đầu hàng!
+118|Chỉ huy xe tăng Chopper, ngài ra lệnh gì?!
+119|Rút lui! Rút lui!
+120|Cậu sợ à?!
+121|Bỏ cái trò "samurai" đi!
+122|Tôi sẽ là Vua Hải Tặc!
+123|Vì cha con là một người vĩ đại...
+124|và một ngày nào đó con sẽ gánh vác đất nước này.
+125|Ý nghĩa tên con sao?
+126|Vâng!
+127|Cha muốn con lớn lên thành người nhân hậu, khoáng đạt và đáng ngưỡng mộ.
+128|Momo!
+129|Momo...
+130|nghĩa là vô song!
+131|Tên ta là...
+132|Kozuki Momonosuke!
+133|Một ngày nào đó, ta sẽ trở thành...
+134|tướng quân của Wano!
+135|Cậu chủ Momonosuke!
+136|Tại hạ thề sẽ cứu cậu bằng mọi giá, cậu chủ Momonosuke!
+137|Nói hay lắm, Momonosuke!
+138|Sắp đến rồi, Luffy!
+139|Để tôi tháo mấy cái này ra!
+140|Tôi đã hứa với cậu rồi!
+141|Xin nhờ cậu!
+142|Nhưng để cho chắc...
+143|xin hãy ném chúng thật xa.
+144|Dù tôi nghi chúng sẽ nổ...
+145|Wano toàn là lũ ngốc sao?!
+146|Cha... Mẹ...
+147|Con chỉ muốn trở thành người đàn ông...
+148|không phải hổ thẹn khi gặp lại cha mẹ ở thế giới bên kia.
+149|Hiyori, giá mà ta được gặp lại em dù chỉ chốc lát...
+150|Ta không muốn chết!
+151|Ta không muốn khóc!
+152|Samurai không được khóc trước mặt người khác...
+153|Thật xấu hổ...
+154|Tháo ra rồi!
+155|Nóng, nóng, nóng, nóng, nóng!
+156|Gì–
+157|Luffy?!
+158|Chết tiệt!
+159|Con khỉ đột chết tiệt đó!
+160|Nó định giết tôi!
+161|Tiếng nổ đó là gì?!
+162|Đi xem ngay!
+163|Giờ ta đã rõ.
+164|Người đó không còn là cha ta nữa!
+165|Là do mày làm sao, thằng nhóc hư hỏng?!
+166|Khoan đã, Yamabro!
+167|Lão già ngu ngốc!
+168|Kịp lúc rồi...
+169|nhưng người mở màn không phải tôi hay Yamabro.
+170|Chúng ta không phải người khơi mào trận chiến này!
+171|Các Hồng Bao!
+172|Chúng từ đâu ra vậy?!
+173|Những người cai trị tộc mink?!
+174|Họ còn sống!
+175|Lũ ma quỷ chết tiệt! Chuẩn bị đón đòn phản công của tao!
+176|Izo!
+177|Này, lũ ngu!
+178|Đừng uống nữa!
+179|Đi lấy vũ khí đi!
+180|Có đột kích!
+181|Ngươi là...
+182|Kyoshiro?!
+183|Kaido!
+184|Lũ nửa người nửa ma khốn kiếp!
+185|Surrender Name And Thoughts...
+186|Calm all Hesitation!
+187|Kiếm của các ngươi...
+188|không chém được ta!
+189|Đặt cược mạng sống vào đòn này!
+190|Oden!
+191|Đừng bao giờ đặt chân đến Wano nữa!
+192|SNATCH!
+193|SNATCH!
+194|Oden Nhị Đao Lưu:
+195|Halcyon Totsuka!
+196|Vết sẹo Oden để lại cho ta...
+197|Sao lại đau thế?
+198|Sao những lưỡi kiếm này xuyên được người ta?!
+199|Đừng coi thường samurai của ta!
+200|Họ quên ta cũng được...
+201|ta không bận tâm...
+202|nhưng...
+203|tinh thần của ta sẽ trường tồn!
+204|Họ đang dùng ryuo của Oden sao?!
+205|Xuyên thấu!
+206|Họ đúng là thuộc hạ của Oden!
+207|Mạnh thật đấy!
+208|Quả là bữa tiệc chết chóc!
+209|Kaido chết rồi à?
+210|Phản công!
+211|Giết lũ chuột Hồng Bao đó!
+212|Vậy Mũ Rơm, Kid và đám còn lại chỉ là mồi nhử cho cuộc phục kích này sao?!
+213|Cảnh giác lên, tụi bây!
+214|Quanh đây có thể vẫn còn kẻ xâm nhập!
+215|Đúng rồi!
+216|Mở tai ra, lũ yếu đuối!
+217|Bọn tao không để tụi bây làm hại Kin'emon và các samurai!
+218|Được rồi! Nhập cuộc thôi!
+219|Ta sẽ cho Kaido ăn đòn nữa!
+220|Đây rồi!
+221|Yamato!
+222|Húc đầu!
+223|Ulti!
+224|Ngươi dám đánh ta như thế!
+225|Ta đứng về phía ngươi, vậy mà ngươi đánh ta tàn bạo,
+226|giờ lại chạy lung tung với thằng Mũ Rơm đó...
+227|Ngươi đang làm gì vậy?!
+228|Không có gì phải bực.
+229|Ngày tôi trở thành Kozuki Oden cuối cùng cũng đến!
+230|Ngươi nói gì vậy?! Ngươi điên rồi sao?!
+231|Thiếu chủ Yamato, có chuyện rồi!
+232|Cha ngài vừa bị tấn công,
+233|và giờ sàn nhà đầy kẻ địch!
+234|Xin đừng đùa nữa!
+235|Tôi biết rõ!
+236|Tôi không còn là đồng minh của các người, và cha tôi chết tôi cũng chẳng quan tâm!
+237|– Cái gì?! – Cái gì?!
+238|Lần này lại chuyện gì nữa?
+239|Bữa tiệc này ồn ào quá mức...
+240|Gum-Gum...
+241|Elephant Gun!
+242|Thằng nhóc đó...
+243|Ôi không!
+244|Bà ta thấy Luffy rồi!
+245|Big Mom!
+246|Nhưng tôi đang bận!
+247|Cuối cùng ta cũng tìm thấy ngươi...
+248|Mũ Rơm!
+249|Ulti...
+250|Mortar!
+251|Carrot! Chạy thôi!
+252|Rõ!
+253|Chuẩn bị đi!
+254|Black Ball!
+255|Này, cậu ổn không?!
+256|Đây nè!
+257|Tôi cũng vậy!
+258|Thundercloud Rod!
+259|Eleclaw!
+260|Ninpo: Ectoplasm Thunder!
+261|Ninpo: Ectoplasm Thunder!
+262|Làm được rồi!
+263|Ngươi xông vào lãnh địa ta và làm nhục băng ta!
+264|Nên ta đã đi từ Totto Land tới đây để giết ngươi!
+265|Mũ Rơm!
+266|Sao ngươi ở đây?
+267|Và đừng nói là để hạ Kaido, vì thế thì nực cười quá.
+268|Không phải vậy!
+269|Hả?
+270|Luffy?!
+271|Ý ngài là sao, ngài Mũ Rơm?!
+272|Không phải sao, Luffy?!
+273|Không!
+274|Tôi...
+275|Sau hai mươi năm,
+276|các samurai Hồng Bao sẽ đến trả thù...
+277|Chẳng ai tin ảo tưởng của Orochi, nhưng xem ra chúng đang thành sự thật.
+278|Không ngờ các ngươi lại bắt tay với hải tặc.
+279|Tin đồn về những bóng ma ở tàn tích Lâu đài Oden...
+280|Punk Hazard.
+281|Dressrosa.
+282|Đảo ma Zou.
+283|Và băng đứng sau tất cả, băng Mũ Rơm!
+284|Thật trùng hợp kỳ lạ,
+285|các ngươi ẩn mình trong bóng của kẻ thù ta, băng Mũ Rơm.
+286|Có kẻ cầm cự hai mươi năm, kẻ khác nhảy vọt tới rồi chạy khắp nơi,
+287|và thế là quân của các ngươi đã tập hợp.
+288|Nhưng hải tặc sẽ đâm sau lưng các ngươi!
+289|Khi cảm thấy thất bại, chúng sẽ bỏ các ngươi mà chạy.
+290|Ta đã hạ Mũ Rơm Luffy một lần rồi!
+291|Ngươi vu khống người ta!
+292|Ngài Luffy và đám của ngươi khác nhau một trời một vực!
+293|Ngươi, Kaido, các cán bộ, Orochi và từng người dưới trướng chúng!
+294|Tôi đến đây để đá đít tất cả!
+295|Ngài ấy là người một ngày nào đó sẽ đứng trên đỉnh biển cả!
+296|Dù bọn tại hạ chết, ngài ấy vẫn sống!
+297|Wano sẽ lại thấy bình minh!
+298|Vì...
+299|đó là lời hứa bọn tại hạ dành cho chủ nhân!
+300|Sẽ là một cuộc chiến toàn diện!
+301|Đừng có được nước làm tới.
+302|Các ngươi chỉ có vài trăm quân!
+303|Bà ấy nói đúng, lũ ngốc.
+304|Gì?
+305|Khẩn cấp!
+306|Hàng ngàn kẻ xâm nhập đang tiến vào từ phía sau!
+307|Gì?!
+308|Sao có thể thế được?!
+309|Đi thôi!
+310|Được!
+311|Nếu các ngươi muốn đến vậy...
+312|ta sẽ chém các ngươi cho thỏa thích.
+313|Biến đi!
+314|Đúng thế...
+315|Ngươi cũng vậy!
+316|Nhưng tại sao...?!
+317|Một samurai...
+318|Ngài Zorojuro! Bọn tôi ở bên ngài!
+319|Đây là Điểm C!
+320|Đó là toàn bộ samurai ta bắt được ở Hoa Đô...
+321|và các tù nhân từ Udon!
+322|Chuyện quái gì đang xảy ra vậy?!
+323|Punk...
+324|Gibson!
+325|Đừng tụt lại, các cậu!
+326|Cảm ơn các ngươi đã dọn đường cho bọn ta đến đây.
+327|Khỏi cảm ơn.
+328|Tôi chỉ đến để lấy đầu Kaido.
+329|Cản đường tôi, tôi lấy luôn đầu ngươi.
+330|Cảm ơn đã cảnh báo.
+331|Room!
+332|Xuống địa ngục đi!
+333|Amputate!
+334|Shambles!
+335|Gì?
+336|Những hải tặc ngài Kin'emon đưa tới...
+337|mạnh thật đấy!
+338|Sao mọi chuyện lại thành ra thế này?!
+339|Một cựu Thất Vũ Hải, Law, cũng đã tới.
+340|Tất cả đang hợp sức và ngày càng mạnh!
+341|Cái gì?!
+342|Ngài Tuyệt Hảo!
+343|Còn nữa sao?!
+344|Ở lối vào đảo,
+345|Marco Phượng Hoàng và Perospero đang hợp tác–
+346|Này! Sao thế?!
+347|A lô?!
+348|Candy Maiden!
+349|Chuyện gì đang xảy ra vậy?!
+350|Sao họ lại bắt tay nhau?!
+351|Và giờ cuộc diệt quỷ bắt đầu.
+352|Ta sẽ biến từng tên băng Bách Thú thành người kẹo.
+353|Chú ý, lũ say rượu của Onigashima!
+354|Tiệc đêm nay bị hủy!
+355|Đi lấy vũ khí đi!
+356|Kẻ địch đột kích!
+357|Mọi người...
+358|Kaido có thể đã đi, nhưng vẫn còn Tam Tai ở đây.
+359|Chắc chắn sẽ có cơ hội!
+360|Cậu chủ Momonosuke!
+361|Xin cậu chờ thêm chút nữa...
+362|Làm thôi!
+363|Chúng ta sẽ giành lại Wano!
+364|Tao nghe thấy rồi, Mũ Rơm!
+365|Mày nói sẽ đá đít tao à?
+366|Vậy thì thử đi!
+367|Ta chấp nhận lời thách đấu!
+368|Ta sẽ cho ngươi thấy đội quân mạnh nhất thế giới!
+369|Ngài Luffy!
+370|Cảm ơn nhiều!
+371|Kin'emon! Tôi sẽ đuổi theo sau!
+372|Kaido...
+373|Ta đã tỉnh rượu hoàn toàn.
+374|Nếu ngươi muốn một trận sống chết, tốt nhất là ngoài trời.
+375|Giống như ngày hôm đó...
+376|Nhưng khác với hôm đó, Oden đã chết.
+377|Còn một điểm khác nữa so với hôm đó.
+378|Bọn ta suy luận rằng khi ngươi hóa rồng,
+379|ngươi sẽ không thể chiến đấu trong mái vòm.
+380|Ngươi không thể hiểu ta đã khao khát ngày này đến mức nào!
+381|Các ngươi sẽ biết cơn thịnh nộ của bọn ta khi nó được đập vào người các ngươi!
+382|Tộc mink...
+383|Bọn ta đã mang các chiến binh từ vương quốc của mình tới.
+384|Một trận tuyết rơi giữa trời quang...
+385|Hoàn hảo để ngắm trăng tròn.
+386|Cửa sau
