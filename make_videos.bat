@@ -11,5 +11,7 @@ if "%VIDEOS:~-1%"=="\" set "VIDEOS=%VIDEOS:~0,-1%"
 set "EPS=%~2"
 if "%EPS%"=="" set /p EPS=Episodes (e.g. 1-19), or press Enter for all:
 if "%EPS%"=="" set "EPS=all"
+rem OpenCV finds where burned-in English sits (Wano), so the Vietnamese goes right above it.
+python -c "import cv2" 2>nul || python -m pip install --quiet --disable-pip-version-check opencv-python-headless
 python "%~dp0dualsub.py" mux %EPS% --video-dir "%VIDEOS%"
 pause

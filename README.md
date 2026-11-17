@@ -31,6 +31,8 @@ The Vietnamese is translated by AI (Claude), following a shared
    During installation, tick **"Add python.exe to PATH"**.
 2. **MKVToolNix**: install it from [mkvtoolnix.download](https://mkvtoolnix.download/downloads.html#windows).
    It's the free tool that puts the subtitles into the video files.
+   (`make_videos.bat` also installs OpenCV the first time, which it uses to find where
+   burned-in English sits in arcs like Wano.)
 3. **This project**: on this page click **Code → Download ZIP** and unzip it anywhere.
    (Or use `git clone` if you know git.)
 
@@ -96,7 +98,7 @@ Extended Cut episodes).
 From a command prompt in the project folder:
 
 ```
-python dualsub.py mux --video-dir "D:\One Pace\Zou" --size 52        bigger Vietnamese (default 48; English is 55; scaled up for Wano and Reverie)
+python dualsub.py mux --video-dir "D:\One Pace\Zou" --size 52        bigger Vietnamese (default 48, or 40 where the English is burned in like Wano; scaled up on 1080p scripts)
 python dualsub.py mux --video-dir "D:\One Pace\Zou" --order en-vi    English on top
 python dualsub.py mux --video-dir "D:\One Pace\Zou" --font "Segoe UI"
 ```

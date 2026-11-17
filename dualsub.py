@@ -153,21 +153,117 @@ def translatable(lines):
     return out
 
 
-def vi_style_line(font, size, scale=1.0):
+def vi_style_line(font, size, scale=1.0, margin=120):
     # Pale yellow, same outline/shadow feel as the One Pace "Main" style.
     # Sizes are for a 720-line script; scale fits them to scripts drawn on another canvas (Wano: 1080).
     r = lambda v: f"{v * scale:g}"
+    m = round(margin * scale)
     return (f"Style: {VI_STYLE},{font},{round(size * scale)},&H00A0F0FF,&H000000FF,&H00000000,&H78000000,"
-            f"0,0,0,0,100,100,0,0,1,{r(2.2)},{r(0.6)},2,{round(120 * scale)},{round(120 * scale)},{round(18 * scale)},1")
+            f"0,0,0,0,100,100,0,0,1,{r(2.2)},{r(0.6)},2,{m},{m},{round(18 * scale)},1")
+
+
+def play_res(lines):
+    """(width, height) of the script's canvas."""
+    res = {"x": 0, "y": 0}
+    for line in lines:
+        m = re.match(r"PlayRes([XY]):\s*(\d+)", line)
+        if m:
+            res[m.group(1).lower()] = int(m.group(2))
+    y = res["y"] or 720
+    return res["x"] or round(y * 16 / 9), y
 
 
 def canvas_scale(lines):
     """Script height / 720: the --size and margins are meant for One Pace's usual 720-line scripts."""
-    for line in lines:
-        m = re.match(r"PlayResY:\s*(\d+)", line)
-        if m:
-            return int(m.group(1)) / 720
-    return 1.0
+    return play_res(lines)[1] / 720
+
+
+# Bump when burned_top changes, so measurements from the old version aren't reused.
+POSITIONS_VERSION = 5
+
+
+def burned_top(frame, cv2, np, max_lines=3):
+    """Top edge of the burned-in English in a frame, as a fraction of the height; None if there's none.
+    The English is white with a black outline near the bottom: find bands of rows dense with
+    white-next-to-black pixels, and walk up from the lowest through the ones shaped like text lines
+    (a sign's border or a busy picture above stops it)."""
+    h, w = frame.shape[:2]
+    y_band = h // 2
+    band = frame[y_band:, int(w * 0.12):int(w * 0.88)]
+    g = cv2.cvtColor(band, cv2.COLOR_BGR2GRAY)
+    dark = cv2.dilate((g < 80).astype(np.uint8), np.ones((5, 5), np.uint8))
+    rows = ((g > 200).astype(np.uint8) & dark).sum(1)
+    low = rows[int(h * 0.38):]  # the last line sits in the bottom 12%
+    if low.max() < 25 * w / 1920:
+        return None
+    dense = np.nonzero(rows > max(15 * w / 1920, 0.2 * low.max()))[0]
+    if dense[-1] + y_band < h * 0.88:
+        return None
+    blocks = [[dense[0], dense[0]]]  # runs of dense rows: a text line, or two touching
+    for y in dense[1:]:
+        if y - blocks[-1][1] <= 0.012 * h:
+            blocks[-1][1] = y
+        else:
+            blocks.append([y, y])
+    top, prev, n = None, None, 0
+    for y0, y1 in reversed(blocks):
+        if y1 - y0 < 0.02 * h:  # a sliver: the tails of g, p, y, or a thin line in the picture
+            continue
+        n += 2 if y1 - y0 > 0.07 * h else 1  # a tall run is two lines that touch
+        if ((top is not None and n > max_lines) or y1 - y0 > 0.2 * h
+                or (prev is not None and prev - y1 > 0.065 * h)):
+            break
+        top = prev = y0
+    return None if top is None else (top + y_band) / h
+
+
+def english_lines(ass_text):
+    """How many lines an English subtitle takes: its line breaks, plus one where a long line wraps."""
+    text = re.sub(r"\{[^}]*\}", "", ass_text).replace(r"\n", r"\N")
+    wraps = "q2" not in ass_text  # q2: never wrapped
+    return sum(1 + (wraps and len(part) > 40) for part in text.split(r"\N"))
+
+
+def burned_positions(video, lines, indexes):
+    """Line index -> y (script pixels) where the burned-in English starts while that line is on
+    screen, measured in the video. Lines where no English shows up are left out."""
+    try:
+        import cv2
+        import numpy as np
+    except ImportError:
+        print("  ! OpenCV isn't installed, so the Vietnamese is placed by estimate: "
+              "python -m pip install opencv-python-headless")
+        return {}
+    cache_file = ENGLISH / "positions" / f"{video.stem}.v{POSITIONS_VERSION}.json"
+    cache = json.loads(cache_file.read_text(encoding="utf-8")) if cache_file.exists() else {}
+    res_y = play_res(lines)[1]
+    cap, out = None, {}
+    for i in indexes:
+        f = split_dialogue(lines[i])
+        if re.search(r"\\(an[4-9]|pos|move)\b", f[9]):  # English moved off the bottom: not measured
+            continue
+        start, end = seconds(f[1]), seconds(f[2])
+        key = f"{start:.2f}-{end:.2f}"
+        if key not in cache:
+            if cap is None:
+                print("  measuring where the English sits in the video (about a minute)...")
+                cap = cv2.VideoCapture(str(video))
+            tops = []
+            for k in (0.3, 0.5, 0.7):
+                cap.set(cv2.CAP_PROP_POS_MSEC, (start + (end - start) * k) * 1000)
+                ok, frame = cap.read()
+                top = burned_top(frame, cv2, np, english_lines(f[9])) if ok else None
+                if top is not None:
+                    tops.append(top)
+            # the middle of the samples; of two, the higher one (a gap is better than overlapping)
+            cache[key] = sorted(tops)[(len(tops) - 1) // 2] if tops else None
+        if cache[key] is not None:
+            out[i] = round(cache[key] * res_y)
+    if cap is not None:
+        cap.release()
+        cache_file.parent.mkdir(parents=True, exist_ok=True)
+        cache_file.write_text(json.dumps(cache), encoding="utf-8")
+    return out
 
 
 def is_effect(line):
@@ -177,18 +273,29 @@ def is_effect(line):
     return line.startswith("Dialogue: ") and split_dialogue(line)[8].strip().lower() == "fx"
 
 
-def build_dual(lines, vi_by_line, order, font, size, hardsub=False):
-    """With hardsub (English burned into the video), only the Vietnamese is shown: each English
-    line stays in as an invisible spacer, so the Vietnamese sits just above the burned-in English.
-    Signs, songs and untranslated lines are left out, since they're in the picture already."""
+def hardsub_lines(lines, vi_by_line):
+    """On-screen captions are signs, often stacked in layers: with the English burned in, they're
+    in the picture already and get no Vietnamese."""
+    return {i: t for i, t in vi_by_line.items()
+            if not split_dialogue(lines[i])[3].strip().lower().startswith("captions")}
+
+
+def build_dual(lines, vi_by_line, order, font, size, hardsub=False, positions=None):
+    """With hardsub (English burned into the video), only the Vietnamese is shown, just above the
+    burned-in English: at the height measured in the video (positions), or else on top of an
+    invisible copy of the English line. Signs, songs and untranslated lines are left out."""
     out = list(lines)
-    if hardsub:  # on-screen captions are signs, often stacked in layers: they're in the picture
-        vi_by_line = {i: t for i, t in vi_by_line.items()
-                      if not split_dialogue(out[i])[3].strip().lower().startswith("captions")}
+    positions = positions or {}
+    if hardsub:
+        vi_by_line = hardsub_lines(lines, vi_by_line)
+    res_x = play_res(lines)[0]
+    gap = round(6 * canvas_scale(lines))
     for i, text in vi_by_line.items():
         text = text.replace("{", "(").replace("}", ")").replace("\\", "/")
         f = split_dialogue(out[i])
-        if hardsub:
+        if hardsub and i in positions:
+            f[9] = f"{{\\r{VI_STYLE}\\an2\\pos({res_x // 2},{positions[i] - gap})}}{text}"
+        elif hardsub:
             f[9] = f"{{\\r{VI_STYLE}}}{text}\\N{{\\r{f[3]}\\alpha&HFF&}}{f[9]}"
         elif order == "en-vi":
             f[9] = f"{f[9]}\\N{{\\r{VI_STYLE}}}{text}"
@@ -203,7 +310,8 @@ def build_dual(lines, vi_by_line, order, font, size, hardsub=False):
         if line.strip().lower() in ("[v4+ styles]", "[v4 styles]"):
             in_styles = True
         elif in_styles and line.startswith("Format:"):
-            out.insert(j + 1, vi_style_line(font, size, canvas_scale(lines)))
+            # With only Vietnamese on screen it can use nearly the full width, so it wraps less.
+            out.insert(j + 1, vi_style_line(font, size, canvas_scale(lines), 40 if hardsub else 120))
             break
     return [line for line in out if not is_effect(line)]
 
@@ -345,7 +453,7 @@ def by_timing(start, end, en, reference):
     return best
 
 
-def build(arc, ep, src, args, out=None, reference=None):
+def build(arc, ep, src, args, out=None, reference=None, video=None):
     """Write the dual .ass. src may be the repo file or the track pulled from the video:
     translations are matched by English text, and lines worded differently in the video are
     matched by timing against reference (the file the translation was made from)."""
@@ -393,8 +501,15 @@ def build(arc, ep, src, args, out=None, reference=None):
     if out is None:
         video = find_video(args.video_dir, arc, ep, src) if args.video_dir else None
         out = video.with_suffix(".vi.ass") if video else out_file(arc, ep, args)
-    out.write_text("\n".join(build_dual(lines, vi_by_line, args.order, args.font, args.size, args.hardsub)) + "\n",
-                   encoding="utf-8-sig")
+    positions = {}
+    if args.hardsub and video:
+        shown = hardsub_lines(lines, vi_by_line)
+        positions = burned_positions(video, lines, shown)
+        if len(positions) < len(shown):
+            print(f"  {len(shown) - len(positions)} of {len(shown)} lines placed by estimate "
+                  "(no burned-in English found under them)")
+    out.write_text("\n".join(build_dual(lines, vi_by_line, args.order, args.font, args.size, args.hardsub,
+                                        positions)) + "\n", encoding="utf-8-sig")
     print(f"  -> {out}")
     return out
 
@@ -466,7 +581,7 @@ def mux(arc, ep, src, args):
     # Base the subs on the English track inside this video, so the timing always fits it.
     with tempfile.TemporaryDirectory() as tmp:
         ass = build(arc, ep, extract_english(video, tracks, tmp) or src, args,
-                    out=out_file(arc, ep, args), reference=src)
+                    out=out_file(arc, ep, args), reference=src, video=video)
     if not ass:
         return
     subs = [t["id"] for t in tracks if t["type"] == "subtitles"]
@@ -555,7 +670,8 @@ def main():
     p.add_argument("--out", type=Path, default=HERE / "out", help="output folder when --video-dir isn't used")
     p.add_argument("--order", choices=["en-vi", "vi-en"], default="vi-en", help="which language goes on top")
     p.add_argument("--font", default="Arial", help="font for the Vietnamese line")
-    p.add_argument("--size", type=int, default=48, help="Vietnamese font size, scaled up on 1080-line scripts like Wano (English is 55)")
+    p.add_argument("--size", type=int, help="Vietnamese font size on a 720-line script, scaled up on 1080-line "
+                   "ones like Wano (default 48; 40 when the English is burned in; English is 55)")
     args = p.parse_args()
     args.out.mkdir(parents=True, exist_ok=True)
     if args.command == "mux" and not args.video_dir:
@@ -582,6 +698,7 @@ def main():
             marker.write_text("This arc's videos have the English burned in: the English comes from One Pace's "
                               "working folders and the subtitles show Vietnamese only.\n", encoding="utf-8")
     args.hardsub = marker.exists()
+    args.size = args.size or (40 if args.hardsub else 48)
     episodes = parse_episodes(args.episodes, args.arc)
     if args.hardsub:
         sources = working_subs(args.arc, episodes, args.video_dir)
