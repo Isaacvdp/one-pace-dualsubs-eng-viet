@@ -93,6 +93,20 @@ placed just above the burned-in English, and the English for translating comes f
 the matching episode in One Pace's subtitle repository (the Extended Cut version for
 Extended Cut episodes).
 
+## Regular anime episodes
+
+Arcs One Pace hasn't done yet (like Egghead) can come from regular anime downloads with
+English subtitles inside, e.g. `[Anime Time] One Piece - 1086.mkv`. `make_videos.bat`
+notices this by itself. Episodes keep the anime's numbers (`Egghead 1086.mkv`), and the
+opening and ending songs are cut out of the new videos, so each episode goes straight
+from the recap to the story and from "To Be Continued" to the next-episode preview.
+It finds the songs by comparing the picture with other episodes, so keep the whole arc
+in one folder. To keep the songs in:
+
+```
+python dualsub.py mux --video-dir "D:\Anime\Egghead" --keep-songs
+```
+
 ## Changing how it looks
 
 From a command prompt in the project folder:

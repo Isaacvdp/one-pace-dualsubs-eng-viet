@@ -142,33 +142,63 @@ def seconds(ass_time):
     return int(h) * 3600 + int(m) * 60 + float(s)
 
 
-def is_romaji(f, styles_at):
+def sung_lines(dialogue):
     """Crunchyroll song lyrics come in pairs: the English in Default and the Japanese sung words
-    in romaji, in italics "On Top" at the same moment. The romaji isn't translated."""
-    return (f[3].strip().lower() == "on top" and f[9].startswith(r"{\i1}")
-            and len(styles_at[(f[1], f[2])]) > 1)
+    in romaji, in italics "On Top", starting at the same moment (give or take a frame or two).
+    -> (romaji line ids, all line ids of the pairs) for dialogue {id: fields}."""
+    starts = {}
+    for i, f in dialogue.items():
+        starts.setdefault(round(seconds(f[1]) * 10), []).append(i)
+    romaji, pairs = set(), set()
+    for i, f in dialogue.items():
+        if f[3].strip().lower() != "on top" or not f[9].startswith(r"{\i1}"):
+            continue
+        t = round(seconds(f[1]) * 10)
+        partners = [j for k in (t - 1, t, t + 1) for j in starts.get(k, ())
+                    if dialogue[j][3].strip().lower() != "on top"
+                    and abs(seconds(dialogue[j][1]) - seconds(f[1])) <= 0.15]
+        if partners:
+            romaji.add(i)
+            pairs.update([i] + partners)
+    return romaji, pairs
+
+
+def theme_lines(dialogue):
+    """(romaji line ids, ids of the opening and ending lyrics: pairs in the first or last four minutes)."""
+    romaji, pairs = sung_lines(dialogue)
+    end = max((seconds(f[2]) for f in dialogue.values()), default=0)
+    return romaji, {i for i in pairs if seconds(dialogue[i][1]) < 240 or seconds(dialogue[i][1]) > end - 240}
 
 
 def translatable(lines):
-    """[(line index, plain English)] for every dialogue line worth translating."""
+    """[(line index, plain English)] for every dialogue line worth translating. The romaji of
+    songs and the opening and ending lyrics are left out."""
     dialogue = {i: split_dialogue(line) for i, line in enumerate(lines) if line.startswith("Dialogue: ")}
-    styles_at = {}
-    for f in dialogue.values():
-        styles_at.setdefault((f[1], f[2]), set()).add(f[3].strip().lower())
-    # The opening and ending songs aren't translated at all: their English lyrics are the lines
-    # sung at the same moment as a romaji line, in the first or last four minutes.
-    sung = {(f[1], f[2]) for f in dialogue.values() if is_romaji(f, styles_at)}
-    end = max((seconds(f[2]) for f in dialogue.values()), default=0)
-    theme = {t for t in sung if seconds(t[0]) < 240 or seconds(t[0]) > end - 240}
+    romaji, theme = theme_lines(dialogue)
     out = []
     for i, f in dialogue.items():
         text = plain_text(f[9])
         # Events shorter than 0.25s are frame-by-frame animated typesetting, not dialogue.
         if (DIALOGUE_STYLES.match(f[3].strip()) and text and r"\p1" not in f[9]
-                and seconds(f[2]) - seconds(f[1]) >= 0.25 and not is_romaji(f, styles_at)
-                and (f[1], f[2]) not in theme):
+                and seconds(f[2]) - seconds(f[1]) >= 0.25 and i not in romaji and i not in theme):
             out.append((i, text))
     return out
+
+
+def theme_songs(lines):
+    """[(first sung second, last sung second, first romaji line)] of the opening and ending:
+    runs of romaji lyrics in the first or last four minutes."""
+    dialogue = {i: split_dialogue(line) for i, line in enumerate(lines) if line.startswith("Dialogue: ")}
+    romaji, theme = theme_lines(dialogue)
+    sung = sorted((seconds(dialogue[i][1]), seconds(dialogue[i][2]), plain_text(dialogue[i][9]))
+                  for i in romaji & theme)
+    songs = []
+    for a, b, text in sung:
+        if songs and a - songs[-1][1] < 20:
+            songs[-1][1] = max(songs[-1][1], b)
+        else:
+            songs.append([a, b, text])
+    return [tuple(s) for s in songs]
 
 
 def vi_style_line(font, size, scale=1.0, margin=120):
@@ -643,6 +673,205 @@ def extract_english(video, tracks, folder):
     return path
 
 
+# Regular anime episodes: the opening and ending songs are cut out of the dual videos.
+CUTS_VERSION = 7
+SAME_PICTURE = 5  # mean grey-level difference below which two thumbnails show the same frame
+SAME_SONG = 10  # looser, for finding a song: its staff credits differ per episode (another scene: 30+)
+SONG_EDGE = 40  # seconds searched before the first and after the last sung line
+
+
+def clock(s):
+    return f"{int(s // 3600):02d}:{int(s % 3600 // 60):02d}:{s % 60:06.3f}"
+
+
+def keyframes(video, info):
+    """Seconds of every video keyframe: the only places a cut can be made without re-encoding."""
+    number = next(t["properties"]["number"] for t in info["tracks"] if t["type"] == "video")
+    summary = subprocess.run([mkvtool("mkvinfo"), "-s", str(video)], capture_output=True, text=True,
+                             encoding="utf-8").stdout
+    found = re.findall(rf"^I frame, track {number},.*?timestamp (\d+):(\d+):([\d.]+)", summary, re.M)
+    return [int(h) * 3600 + int(m) * 60 + float(s) for h, m, s in found]
+
+
+def thumbnails(video, start, end, every, cv2, np):
+    """[(second, tiny grey picture)] of every `every`th frame between start and end."""
+    cap = cv2.VideoCapture(str(video))
+    cap.set(cv2.CAP_PROP_POS_MSEC, max(0.0, start) * 1000)
+    out, n = [], 0
+    while cap.grab():
+        t = cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
+        if t > end:
+            break
+        if n % every == 0:
+            ok, frame = cap.retrieve()
+            if ok:
+                small = cv2.resize(frame, (48, 27), interpolation=cv2.INTER_AREA)
+                out.append((t, cv2.cvtColor(small, cv2.COLOR_BGR2GRAY).astype(np.int16)))
+        n += 1
+    cap.release()
+    return out
+
+
+def same_picture(video, ref, offset, lo, hi, cv2, np):
+    """[(second, whether ref shows the same picture at second + offset)] sampled over lo..hi."""
+    mine = thumbnails(video, lo, hi, 4, cv2, np)
+    theirs = thumbnails(ref, lo + offset - 1.5, hi + offset + 1.5, 1, cv2, np)
+    if not mine or not theirs:
+        return []
+    times = np.array([t for t, _ in theirs])
+    out = []
+    for t, small in mine:
+        k = int(np.argmin(np.abs(times - (t + offset))))
+        # Subtitle timing is only a rough guide to the picture: a quarter second either way.
+        out.append((t, min(np.abs(small - s).mean() for _, s in theirs[max(0, k - 6):k + 7]) < SAME_PICTURE))
+    return out
+
+
+def song_edges(video, ref, offset, first, last, cv2, np):
+    """(start, end) of a song: the stretch around its lyrics where the picture is the same as in
+    another episode with the same song. None if the pictures don't match at all."""
+    before = same_picture(video, ref, offset, first - SONG_EDGE, first + 2, cv2, np)
+    after = same_picture(video, ref, offset, last - 2, last + SONG_EDGE, cv2, np)
+    # The ending's staff credits differ per episode, so a frame here and there doesn't match.
+    if not any(m for _, m in before[-4:]) or not any(m for _, m in after[:4]):
+        return None
+    start = max(0.0, first - SONG_EDGE)  # unless the episode's own picture shows up first:
+    for i in range(len(before) - 1, 0, -1):
+        if not before[i][1] and not before[i - 1][1]:
+            start = before[i][0]
+            break
+    end = None  # None: the song runs to the end of the video
+    for i in range(len(after) - 1):
+        if not after[i][1] and not after[i + 1][1]:
+            end = after[i][0]
+            break
+    return start, end
+
+
+def find_song(video, ref, ref_first, lo, hi, cv2, np):
+    """Where in video (between lo and hi) ref's song reaches the moment ref sings its first line
+    at ref_first; None if the song isn't there. For episodes whose subtitles leave the lyrics out."""
+    anchors = []
+    for d in range(0, 30, 3):  # a few frames with something on them (black matches anything black)
+        frames = thumbnails(ref, ref_first + d, ref_first + d + 0.2, 1, cv2, np)
+        if frames and frames[0][1].std() > 12:
+            anchors.append((frames[0][0] - ref_first, frames[0][1]))
+    if len(anchors) < 3:
+        return None
+    mine = thumbnails(video, lo, hi, 1, cv2, np)
+    if not mine:
+        return None
+    times = np.array([t for t, _ in mine])
+    stack = np.array([small for _, small in mine])
+    hits = [np.abs(stack - small).mean(axis=(1, 2)) < SAME_SONG for _, small in anchors]
+    best, best_matched = None, 0.7 * len(anchors) - 0.5  # most of them: the credits differ per episode
+    for i in np.flatnonzero(hits[0]):  # slow pans can look alike for a while: take the best fit
+        at = times[i] - anchors[0][0]
+        matched = sum(hits[k][max(0, j - 2):j + 3].any() for k, (offset, _) in enumerate(anchors)
+                      for j in [int(np.argmin(np.abs(times - (at + offset))))])
+        if matched > best_matched:
+            best, best_matched = float(at), matched
+    return best
+
+
+def lyric_offset(lines, ref_lines, first, last):
+    """Seconds from ref's song (sung first..last) to the same English lyrics in lines, for
+    episodes whose subtitles have the lyrics but not the romaji. None if they aren't there."""
+    ref = {i: split_dialogue(l) for i, l in enumerate(ref_lines) if l.startswith("Dialogue: ")}
+    romaji, pairs = sung_lines(ref)
+    english = {plain_text(ref[i][9]): seconds(ref[i][1]) for i in pairs - romaji
+               if first - 1 <= seconds(ref[i][1]) <= last}
+    shifts = sorted(seconds(f[1]) - english[t] for line in lines if line.startswith("Dialogue: ")
+                    for f in [split_dialogue(line)] for t in [plain_text(f[9])] if t in english)
+    return shifts[len(shifts) // 2] if len(shifts) >= 3 else None
+
+
+def song_cuts(arc, video, src, video_dir, info):
+    """[(start, end)] of the opening and ending in this video, cut at keyframes so that a second
+    of song may stay but nothing of the episode goes. end None = to the end of the video."""
+    cache = ENGLISH / "cuts" / f"{video.stem}.v{CUTS_VERSION}.json"
+    if cache.exists():
+        return [tuple(c) for c in json.loads(cache.read_text(encoding="utf-8"))]
+    try:
+        import cv2
+        import numpy as np
+    except ImportError:
+        print("  ! the opening and ending stay in: pip install opencv-python-headless to cut them")
+        return []
+    duration = info["container"]["properties"]["duration"] / 1e9
+    lines = src.read_text(encoding="utf-8-sig").splitlines()
+    songs = theme_songs(lines)
+    spoken = [(seconds(f[1]), seconds(f[2])) for i, _ in translatable(lines) for f in [split_dialogue(lines[i])]]
+    ep = int(re.search(r"\[Anime\]\[(\d+)\]", src.name).group(1))
+    others = []
+    for f in (ENGLISH / arc).glob("[[]Anime[]][[]*.ass"):
+        n = int(re.search(r"\[Anime\]\[(\d+)\]", f.name).group(1))
+        if n != ep:
+            others.append((abs(n - ep), n, f))
+    others.sort()
+    known = {}
+
+    def songs_of(n, f):
+        if n not in known:
+            known[n] = theme_songs(f.read_text(encoding="utf-8-sig").splitlines())
+        return known[n]
+
+    found = []  # (start, end, first sung second, last sung second)
+    for first, last, line in songs:
+        # The same song in the nearest episode that has it: the same frames at the same moment.
+        edges = None
+        for _, n, f in others:
+            match = [x for x in songs_of(n, f) if x[2] == line]
+            ref = match and find_video(video_dir, arc, n, f)
+            edges = ref and song_edges(video, ref, match[0][0] - first, first, last, cv2, np)
+            if edges:
+                break
+        if edges:
+            found.append((*edges, first, last))
+        else:
+            # e.g. a specially animated ending, or the song played over the story
+            print(f"  ! the song at {clock(first)} stays in: no other episode shows the same picture")
+    # An opening or ending whose lyrics aren't in this episode's subtitles: look for the picture
+    # of the songs in the nearest episodes.
+    for opening in (True, False):
+        if any((first < 240) == opening for first, _, _ in songs):
+            continue
+        lo, hi = (0, 150) if opening else (duration - 260, duration - 60)  # where the lyrics would start
+        tried, done = set(), False
+        for _, n, f in others:
+            for first, last, line in songs_of(n, f):
+                if (first < 240) != opening or line in tried:
+                    continue
+                tried.add(line)
+                ref = find_video(video_dir, arc, n, f)
+                shift = lyric_offset(lines, f.read_text(encoding="utf-8-sig").splitlines(), first, last)
+                at = first + shift if shift is not None else None
+                if ref and (at is None or not lo - 60 <= at <= hi + 60):
+                    at = find_song(video, ref, first, lo, hi, cv2, np)
+                edges = ref and at is not None and song_edges(video, ref, first - at, at, at + last - first, cv2, np)
+                if edges:
+                    found.append((*edges, at, at + last - first))
+                    done = True
+                    break
+            if done or len(tried) >= 3:
+                break
+    keys = keyframes(video, info) if found else []
+    cuts = []
+    for edge_start, edge_end, first, last in sorted(found):
+        # Never cut a spoken line: the shows after the ending (character profiles) look the same
+        # every week but are talked over.
+        edge_start = max([edge_start] + [b for a, b in spoken if edge_start < b < first - 1])
+        later = [a for a, _ in spoken if last + 1 < a < (edge_end or duration)]
+        edge_end = min(later) if later else edge_end
+        start = 0.0 if edge_start <= 0 else min((k for k in keys if k >= edge_start), default=None)
+        end = None if edge_end is None else max((k for k in keys if k <= edge_end), default=None)
+        if start is not None and (end is None or end - start > 10):
+            cuts.append((start, end))
+    cache.parent.mkdir(parents=True, exist_ok=True)
+    cache.write_text(json.dumps(cuts), encoding="utf-8")
+    return cuts
+
+
 def mux(arc, ep, src, args):
     """Copy the video into <video-dir>/dual/ with our subs as the first, default subtitle track."""
     video = find_video(args.video_dir, arc, ep, src)
@@ -676,13 +905,37 @@ def mux(arc, ep, src, args):
         for font in dialogue_fonts():
             cmd += ["--attachment-mime-type", "font/ttf", "--attach-file", str(font)]
     cmd += ["--track-order", ",".join([f"0:{t}" for t in others] + ["1:0"] + [f"0:{t}" for t in subs])]
+    cuts = song_cuts(arc, video, src, args.video_dir, info) if args.anime and not args.keep_songs else []
+    if cuts:
+        # Keep everything between the songs, joined into one file; mkvmerge moves the subs along.
+        keep, at = [], 0.0
+        for start, end in cuts:
+            if start - at > 0.5:
+                keep.append(f"{clock(at)}-{clock(start)}")
+            at = end
+            if end is None:
+                break
+        if at is not None:
+            keep.append(f"{clock(at)}-")
+        cmd += ["--split", "parts:" + ",+".join(keep)]
+        cut = sum((end or info["container"]["properties"]["duration"] / 1e9) - start for start, end in cuts)
+        spans = ", ".join(clock(s)[3:8] + "-" + (clock(e)[3:8] if e else "end") for s, e in cuts)
+        print(f"  opening/ending cut: {spans} ({int(cut // 60)}:{int(cut % 60):02d} shorter)")
+    target.unlink(missing_ok=True)
     result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
     if result.returncode >= 2:  # 1 = finished with warnings
         print(result.stdout[-500:])
         raise SystemExit(f"mkvmerge failed on {video.name}")
+    numbered = target.with_name(f"{target.stem}-001{target.suffix}")  # how mkvmerge names split output
+    if numbered.exists():
+        numbered.replace(target)
     # The same subs as a file next to the video: VLC loads it automatically, and it still shows
-    # if VLC ever fails to draw the embedded track.
-    shutil.copyfile(ass, target.with_suffix(".ass"))
+    # if VLC ever fails to draw the embedded track. Cut videos get the subs as cut with them.
+    if cuts:
+        subprocess.run([mkvtool("mkvextract"), str(target), "tracks", f"{len(others)}:{target.with_suffix('.ass')}"],
+                       capture_output=True, check=True)
+    else:
+        shutil.copyfile(ass, target.with_suffix(".ass"))
     print(f"  -> {target}")
 
 
@@ -749,6 +1002,8 @@ def main():
     p.add_argument("--font", default="Arial", help="font for the Vietnamese line")
     p.add_argument("--size", type=int, help="Vietnamese font size on a 720-line script, scaled up on 1080-line "
                    "ones like Wano (default 48; 40 when the English is burned in; English is 55)")
+    p.add_argument("--keep-songs", action="store_true",
+                   help="regular anime episodes: keep the opening and ending in the videos (cut by default)")
     args = p.parse_args()
     args.out.mkdir(parents=True, exist_ok=True)
     if args.command == "mux" and not args.video_dir:
