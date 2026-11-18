@@ -1,0 +1,345 @@
+1|With weakness as my ally
+2|I soar higher than anybody else
+3|It's a pity to linger in a place like this
+4|For the things that's been lost will lose their spark
+5|At times when you're lost somewhere
+6|If my heart is also adrift
+7|I won't be able to find you
+8|Your kindness, nor your strength
+9|I already know
+10|It's the break of dawn
+11|To the highest point of reach
+12|I'll dash through all the way, yeah
+13|I bet you're laughing, numbed by it all
+14|For the pain of those days is now in the past, perhaps
+15|With the world as my enemy
+16|I stand my ground on quivering legs
+17|Keep moving, just a bit more for me
+18|The awakening moment The time of resurrection has come, now
+19|The awakening moment The time of resurrection has come, now
+20|An Emperor of the Sea, Kaido.
+21|Another Emperor of the Sea, Big Mom.
+22|Both fell.
+23|That marked a turning point in time.
+24|Thus, the stunning awakening of Luffy who became an Emperor of the Sea...
+25|...shook the world.
+26|Times are beginning to change in a big and definite way.
+27|Their adventure advances to the next stage.
+28|"A New Emperor! Buggy the Genius Jester!"
+29|Hey!
+30|You're not qualified to be a captain!
+31|I... I'm... I'm sorry...
+32|You put all the crewmembers at risk!
+33|How can you be so stupid?!
+34|Well, everyone was okay, so maybe that's enough...
+35|Don't go easy on him, Jimbei!
+36|C-Color of the Supreme King?!
+37|Stop it, Boss!
+38|Don't get close to an angry Nami!
+39|Oh, did you finish the repairs?
+40|Yeah, it's perfect!
+41|Did you see how tough the Sunny was?!
+42|It fell from that height,
+43|but only broke a yard!
+44|What's that noise?
+45|I guess you can still afford to feel hungry!
+46|Robin-chan!
+47|Sorry to keep you waiting!
+48|Thanks!
+49|Love, love, love, love...
+50|Oh!
+51|Our wanted posters.
+52|Wanted posters?!
+53|Let me see!
+54|Robin-chan!
+55|The senior captain of the Straw Hat Fleet with 5,600 members,
+56|the Emperor of the Sea Straw Hat Luffy, and the nine senior officers...
+57|How did their bounty rankings turn out?
+58|Did it go up?
+59|SHIP'S DOCTOR CHOPPER THE COTTON CANDY LOVER (PET)
+60|Ship's doctor, Chopper the Cotton Candy Lover.
+61|"Pet" in brackets.
+62|BOUNTY: 1,000 BERRIES (UP BY 900 BERRIES)
+63|Bounty: 1,000 berries.
+64|Up by 900 berries.
+65|Hey! It went up but...
+66|NAVIGATOR, CAT BURGLAR NAMI
+67|Navigator, Cat Burglar Nami.
+68|Bounty: 366 million berries.
+69|BOUNTY: 366 MILLION BERRIES
+70|Over 100 million?! I wish I could have that money!
+71|Yeah!
+72|Musician, Soul King Brook.
+73|MUSICIAN, SOUL KING BROOK
+74|Bounty: 383 million berries.
+75|BOUNTY: 383 MILLION BERRIES
+76|Thank you!
+77|What the...
+78|SHIPWRIGHT, CYBORG FRANKY
+79|Shipwright, Cyborg Franky.
+80|Bounty: 394 million berries.
+81|BOUNTY: 394 MILLION BERRIES
+82|Screw them! Where am I?!
+83|SNIPER, GOD USOPP
+84|Sniper, God Usopp.
+85|Bounty: 500 million berries.
+86|BOUNTY: 500 MILLION BERRIES
+87|That's enough!
+88|I don't want it to go up anymore!
+89|I'm not a pet!
+90|Raise my bounty more!
+91|Here.
+92|Cheer up.
+93|Chopper.
+94|ARCHAEOLOGIST, DEMON CHILD NICO ROBIN
+95|Archaeologist, Demon Child Nico Robin.
+96|Bounty: 930 million berries.
+97|BOUNTY: 930 MILLION BERRIES
+98|Thanks, Robin!
+99|My bounty has increased a lot!
+100|COOK, BLACK-LEG SANJI
+101|Cook, Black-Leg Sanji.
+102|Bounty: 1 billion 32 million berries.
+103|BOUNTY: 1 BILLION 32 MILLION BERRIES
+104|Jimbei, here's yours.
+105|What an honor.
+106|They recognized me as a member of the Straw Hats.
+107|Of course, they did. You made quite a stir.
+108|What?!
+109|HELMSMAN, "FIRST SON OF THE SEA" JIMBEI
+110|Helmsman, "First Son of the Sea" Jimbei.
+111|Bounty: 1 billion 100 million berries.
+112|BOUNTY: 1 BILLION 100 MILLION BERRIES
+113|SWORDSMAN, PIRATE HUNTER ZORO
+114|Swordsman, Pirate Hunter Zoro.
+115|Bounty: 1 billion 111 million berries.
+116|BOUNTY: 1 BILLION 111 MILLION BERRIES
+117|Why am I lower than him?!
+118|1.1 BILLION 1.111 BILLION 1.032 BILLION
+119|Are you okay, Sanji?
+120|What's wrong?
+121|Oh yeah, Jimbei...
+122|You're also...
+123|1 BILLION 111 MILLION
+124|Don't worry, Jimbei.
+125|About this fourth-placer.
+126|Who did you call a "fourth-placer"?!
+127|Don't mouth off to second-place!
+128|--Shut up, Mosshead! --Calm down!
+129|I'm sorry...
+130|Please let me out...
+131|SENIOR CAPTAIN, EMPEROR OF THE SEA STRAW HAT LUFFY
+132|Senior captain and an Emperor of the Sea, Straw Hat Luffy.
+133|Bounty: 3 billion berries.
+134|BOUNTY: 3 BILLION BERRIES
+135|Stop it, you two!
+136|I'm hungry...
+137|EMPTEE BLUFFS ISLAND, NEW WORLD
+138|--Did you see them? --Yeah, I did!
+139|--It was really them! --Man!
+140|That was the world's greatest swordsman?!
+141|--I'm scared! --Gee!
+142|When the Seven Warlords were abolished and we were surrounded by the Navy ships,
+143|I thought we were finished...
+144|Because of our great Chairman Buggy, it turned out to be like this...
+145|Wait a minute!
+146|Take anything you want except for my life!
+147|Hey, please!
+148|I'll do anything!
+149|I'll even lick your shoes! Please!
+150|EMPEROR OF THE SEA BUGGY THE GENIUS JESTER
+151|FORMER WARLORD OF THE SEA
+152|Cross Guild was originally gonna be founded by me and Hawkeye.
+153|FORMER WARLORD OF THE SEA
+154|Why are you the boss? Hmm, Buggy?
+155|Well, I can only say "I'm really sorry"!
+156|Or, "Never mind"...
+157|You're the first and last person who rose to Emperor of the Sea just by saying sorry.
+158|It sets a bad example if we keep you alive.
+159|The word "humiliation" isn't enough to express how I feel.
+160|Don't kill me...
+161|That's impossible.
+162|Stop, stop, stop! Stop!
+163|Well, well...
+164|Boss!
+165|I'm so happy to serve you after a long time!
+166|FORMER BAROQUE WORKS AGENT (CROCODILE'S SUBORDINATE)
+167|You bastard! Are you betraying me, Galdino?!
+168|I don't remember becoming your subordinate, Buggy!
+169|What a douche!
+170|Call me whatever you want!
+171|Chairman is finished. What should we do now?
+172|I'll serve Crocodile!
+173|It's a cold world we live in.
+174|You pushed your luck too far!
+175|--Hey! You! Stop it! --Here! Here!
+176|You've lost your privilege as a Warlord of the Sea, Mihawk!
+177|GLOOM ISLAND
+178|What do you want, Crocodile?
+179|This island is surrounded by the Navy as we speak.
+180|No wonder.
+181|In the last Reverie, the Seven Warlords forfeited all their rights,
+182|and their connections with the World Government were cut off.
+183|That means you're just a pirate now.
+184|Only in times like this does the Navy move quickly.
+185|You're partly to blame for what happened.
+186|That was a long time ago...
+187|It's troublesome, but I have to relocate myself.
+188|Come here, then.
+189|That doesn't sound so bad, right?
+190|If we team up together, we'll be an organization the Navy can't ignore.
+191|You were once known as the Navy Hunter.
+192|You and I are the same...
+193|...in that we don't trust others.
+194|What does he want?! I'm so scared!
+195|Why am I constantly plagued by misfortune?
+196|Hurry up!
+197|--Hustle! --What are you doing?!
+198|--Captain Buggy! --Captain!
+199|Captain Buggy!
+200|What's the matter?! Fight!
+201|Are you scared of the Navy?!
+202|These fools! I'm getting ready to sneak away here!
+203|Captain!
+204|The warships surrounding the island are getting attacked!
+205|They're sinking one after another!
+206|You mean the Navy?!
+207|What?!
+208|Who's helping us?!
+209|It's Crocodile!
+210|Outta my way.
+211|Shoot, shoot!
+212|Sables!
+213|So the rumor that Crocodile is Chairman Buggy's henchman was true!
+214|He came to rescue us at the risk of his life!
+215|Because of our great Chairman Buggy!
+216|I see... That's Crocodile!
+217|He came to collect my huge debt to him!
+218|What should I do? I don't have money to pay him back!
+219|He's scarier than the Navy!
+220|I know you.
+221|I thought you'd flee without paying me back.
+222|He got that right!
+223|Well...
+224|Buggy's Delivery may look like it's doing well,
+225|but there's a lot of mouths to feed!
+226|And my biggest earners, the giants, all quit recently...
+227|If you can't pay, we can sell you into slavery.
+228|Don't say such a horrible thing!
+229|We broke out of Impel Down together!
+230|Cro-chan!
+231|I lent you money for that sake,
+232|but if you can't pay,
+233|you'll have to take full responsibility.
+234|Responsibility?
+235|I'm gonna found a new company, so I need money now.
+236|N-N-N-No...
+237|Then...
+238|...l-let me help with that business!
+239|This former Warlord of the Sea...
+240|...will serve under you!
+241|Yeah?
+242|I'll work off my debt!
+243|The establishment of a company must be flashy!
+244|We have various human resources!
+245|Advertising design.
+246|Printing.
+247|Transportation!
+248|You can boss us around!
+249|We'll work for free!
+250|Now, is this the flyer you distributed?
+251|You're standing out...
+252|President.
+253|N-No...
+254|That's not what I intended to do!
+255|If it's not deliberate, then what?!
+256|I-It really wasn't my intention!
+257|My staff respect me too much!
+258|I was surprised, too!
+259|Chairman!
+260|I made a good one!
+261|Hey, what the hell is that?!
+262|I made Chairman look the coolest!
+263|What?!
+264|You haven't shown this to anyone yet, right?
+265|--We've already... --...distributed it to the world!
+266|What?!
+267|Buggy is the mastermind of the Impel Down prison break,
+268|NAVY HEADQUARTERS
+269|and formerly a crewmember of the King of the Pirates.
+270|He was once on equal footing with the Emperor of the Sea, Red-Haired.
+271|He's so well-liked that Crocodile came to his aid at Emptee Bluffs Island.
+272|The tie between Crocodile and Mihawk was confirmed by wiretapping.
+273|Many shady organizations have already invested in "Navy soldier hunting."
+274|In view of the trend towards insurgency in the world,
+275|Cross Guild is a significant threat to us.
+276|What are the bounties of those three?
+277|The former Warlord of the Sea, Sir Crocodile!
+278|His Logia-type Devil Fruit power is still formidable.
+279|And he also has a sharp intellect and an ability to lead.
+280|So his bounty is 1 billion 965 million berries!
+281|Hawkeye Mihawk!
+282|The former Warlord exceeds the Emperor of the Sea Red-Haired at swordplay.
+283|As the greatest swordsman in the world, his bounty is...
+284|...3 billion 590 million berries!
+285|And Buggy the Genius Jester!
+286|Not just his record that I mentioned,
+287|but more importantly, he has the other two under control...
+288|So his bounty is 3 billion 189 million berries!
+289|Just like Straw Hat Luffy, we consider him to be a new emperor,
+290|and grade him as a security risk to the World Government!
+291|And...
+292|...you're an Emperor of the Sea?
+293|You've made quite a name for yourself...
+294|Clown...
+295|I'm really sorry! So sorry!
+296|I'll lick your shoes!
+297|Shut up!
+298|But on the other hand,
+299|it's not a bad idea to have him as our figurehead.
+300|I, at least,
+301|would rather live peacefully than become an Emperor of the Sea.
+302|You sure?
+303|Let him take the heat,
+304|and we can get rid of him whenever we want.
+305|You're right.
+306|Guys!
+307|To prepare for the looming new era,
+308|we founded Cross Guild!
+309|Let me introduce the executives!
+310|First...
+311|Sir Crocodile!
+312|And...
+313|Hawkeye Mihawk!
+314|--Crocodile! --Mihawk-sama!
+315|We'll follow you!
+316|Sir Crocodile!
+317|All right, guys!
+318|Let's do it in a flashy way!
+319|Chairman Buggy is crying!
+320|We're moved to tears, too!
+321|What's gonna happen to my life?!
+322|"Time's up"
+323|Someone laughed again
+324|All right, now hide-and-seek
+325|Is over
+326|Let's go, come on (We can see it soon)
+327|Make our hearts beat loudly (Our island)
+328|Something will change (We can see it soon)
+329|Be tough, there's still time (1-2-3)
+330|Let's raise it
+331|We can't go on Living a life of nothing but loneliness
+332|We're young, so we're free
+333|A foolish dream
+334|We live it
+335|We'll illuminate the dark path ahead
+336|Get on our feet and try
+337|Let's see the ends of the world together
+338|Together we can go and fly
+339|Navy Captain Koby invades, leading new Pacifistas.
+340|Seizing on the confusion, the Emperor of the Sea Blackbeard comes to raid.
+341|Pirate Empress Hancock fights back.
+342|Who will win this three-way struggle, where darkness and beauty intermingle?
+343|On the next episode of One Piece!
+344|"The War on the Island of Women! A Case Involving Koby the Hero"
+345|I'm gonna become the King of the Pirates!

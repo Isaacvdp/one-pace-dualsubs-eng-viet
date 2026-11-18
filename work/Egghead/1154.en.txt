@@ -1,0 +1,289 @@
+1|...you'll help me.
+2|That's right!
+3|Egghead. Come in.
+4|Bosses!
+5|Hey! Find out what happened to them!
+6|Yes, Boss!
+7|That was amazing!
+8|That was the Color of the Supreme King, right?!
+9|You knocked out the monsters and the Navy!
+10|You're so cool, Robo!
+11|Bosses!
+12|They really are all down!
+13|They are?! Can't believe it!
+14|I didn't sense hostility at all. Was that skill superior to Red-Hair's?
+15|How long are you gonna keep sleeping?! Get up!
+16|Get me out of here!
+17|Wake up, you fools!
+18|The Straw Hats will escape!
+19|You saved us all!
+20|Thanks!
+21|Giant Robo!
+22|See you!
+23|All right! While they're sleeping...
+24|Got it!
+25|Bosses!
+26|Let's go, guys!
+27|To Elbaph!
+28|Set sail!
+29|Let's go! To Elbaph!
+30|Luffy-san, welcome back!
+31|--Luffy! --Luffy-san!
+32|I'm tired...
+33|What?! You look terrible!
+34|Hey, Straw Hat! Are you okay?!
+35|We have Hákarl if you want.
+36|Masters!
+37|Thank you so much for coming!
+38|I missed you!
+39|Thank you all!
+40|Guys! Follow us! Don't be slowpokes!
+41|Yeah! I finally get to go to Elbaph!
+42|Jinbe!
+43|Yeah! Full speed ahead it is!
+44|It's a staggering amount of information! This world is crazy.
+45|Make the people dance to the rhythm of this new information!
+46|Let's hype up the crowd, guys!
+47|We got some dope tracks!
+48|Incite fear!
+49|Paint the worst-possible future!
+50|Make them cling to our every word!
+51|All they can do is wait for the next WEJ!
+52|You're the worst.
+53|Vegapunk was offering hope as well!
+54|Stay off of my stage, kid!
+55|Or I'll expose your whereabouts!
+56|Oh, did I offend you, you lie-spreading birdbrain?
+57|Smart people won't dance to the tune of your lies!
+58|First of all, you...
+59|Whoa-whoa, Vivi-chan, calm down.
+60|If we make him angry, we'll have nowhere else to go.
+61|You're right. The truth is sometimes interesting.
+62|The sky is my home!
+63|In that sense, it's the dawning of my era!
+64|Hey, Your Royal Highness.
+65|Won't you regret treating me that way later?
+66|No, I won't. If the world is ending, I don't wish to survive while others are dying!
+67|Well, Vivi-chan, you really need to...
+68|Hey, we've been flooded with surprising news!
+69|Emperor Blackbeard vs. Trafalgar Law!
+70|Emperor Red-Hair vs. Eustass "Captain" Kid!
+71|Emperor Straw Hat Luffy killed Vegapunk!
+72|You liar!
+73|JUSTICE
+74|Come in.
+75|What was that broadcast?!
+76|Tell me what's going on!
+77|Come in.
+78|Are they all dead?
+79|What happened?! Egghead!
+80|You're so noisy.
+81|Why are you the one answering?
+82|Borsalino! What happened to the others?!
+83|Every single one of them is unconscious.
+84|They probably won't be up for a while.
+85|St. Saturn had better be safe!
+86|What about the Power Plant?!
+87|And the fugitives?!
+88|Once the young ones wake up, I'll have them report to you.
+89|You're not doing a sloppy job, are you?
+90|Borsalino.
+91|Let me ask you, Sakazuki...
+92|Have you ever killed your close friend?
+93|Your head is huge.
+94|Nice to meet you. I'm Borsalino, a Navy soldier.
+95|How much can you provide?
+96|What?
+97|My arrest is just a cover.
+98|You people just want my brain.
+99|How much research money can you offer?
+100|You're a funny man.
+101|So this is your plan for the island?
+102|I'm gonna name it Egghead.
+103|We're creating the future, 500 years from now!
+104|Give me a hand, Borsalino!
+105|No, I'm an admiral now.
+106|Don't drop it, Uncle! You're not standing straight!
+107|I'm counting on you, Borsalino!
+108|Did you ask me if I did a sloppy job?
+109|If you have time to sit there and doubt me,
+110|then come here and see it with your own eyes, you damn brat!
+111|I'm sorry, Brother.
+112|Shut up, it's too late.
+113|I don't quite get it, Vegapunk.
+114|What you said at that moment.
+115|Is this the result you were aiming for?
+116|Answer me. I couldn't ask what you meant,
+117|but you said something crazy.
+118|We're heading down to save Bonney,
+119|and I'm going to stay down there!
+120|Huh? You're gonna die.
+121|Don't try to save me!
+122|Just let me die right there!
+123|EGGHEAD TWO WEEKS BEFORE THE STRAW HATS' ARRIVAL
+124|What?
+125|This is...!
+126|Stella! Pythagoras!
+127|There are irregularities in the readings from the Power Plant?!
+128|There's no mistake.
+129|Look at the changes in the particle number density and the neutron flux.
+130|The amount of energy expenditure on the Seraphim has been incrementally increased.
+131|If this is a mistake in our calculations, it's a grave one.
+132|Oh? These numbers don't match the ones we verified.
+133|The reaction rate is rising.
+134|So the Power Plant remains stable.
+135|Yes.
+136|Which means this data is evidence that someone stole a portion of the Mother Flame.
+137|All the readings regarding the Power Plant were carefully manipulated.
+138|The only person who is capable of this...
+139|...is Vegapunk!
+140|Is it Lilith?!
+141|Whoa-whoa, it hasn't been confirmed yet.
+142|I'm sorry to say that only the three of us have an airtight alibi.
+143|The amount of energy that was stolen is vast.
+144|So is it one of the remaining four?
+145|Most likely, Lilith!
+146|That's why you made us put our brains on stealth mode.
+147|Yes, if this experience is shared with Punk Records, Lili...
+148|the culprit will know that we've noticed.
+149|We'll find out who did it no matter what.
+150|Okay.
+151|EGGHEAD A WEEK BEFORE THE STRAW HATS' ARRIVAL
+152|Damn! There are no leads!
+153|Lilith is clean!
+154|All four of them have an alibi.
+155|Why can't we find anything?!
+156|Listen, guys! I found out who the culprit is!
+157|It's York!
+158|What?! York?!
+159|The information that she synchronized with Punk Records were dummy memories!
+160|Videos from the Camsnails on the route she took were also fabricated!
+161|I want another helping.
+162|Why did she do this?!
+163|And sorry, Lilith!
+164|There are signs of the Sea Beast Weapons being manipulated.
+165|I found evidence of the use of the White Transponder Snail to block eavesdropping!
+166|I found it!
+167|I successfully recovered the data from the Long-Distance Transponder Snail!
+168|Dr. Vegapunk is researching the Void Century.
+169|What?!
+170|Is this a transmission to Mary Geoise?!
+171|This is why Cipher Pol kept coming back to investigate!
+172|SIX DAYS BEFORE THE STRAW HATS' ARRIVAL
+173|I heard the Kingdom of Lulusia vanished.
+174|We don't know the full details yet, but I have a sense of dread!
+175|Pythagoras! Keep a close eye on the radio signals and the groundwater level!
+176|Okay.
+177|Does this have anything to do with the stolen Mother Flame?
+178|Yes.
+179|She must have transported the Mother Flame with the Sea Beast Weapons and given it to the Government.
+180|If I'm allowed to speculate,
+181|I'd say the Government has the Ancient Weapons!
+182|They were most likely activated by the Mother Flame that York gave them.
+183|We'll see the results soon.
+184|This is the likely scenario...
+185|Though I can't go public with it.
+186|This is my fault!
+187|Stella...
+188|I should never have isolated greed from the human mind!
+189|If we apprehend her, is there anything we can do?
+190|No, it's too late.
+191|Whatever her purpose is, people who learned about the Void Century will be erased!
+192|She proved her worth to them by carelessly handing over the Mother Flame.
+193|If it had been us, we would've thoroughly examined the objectives and safety aspects.
+194|Stella, we can still escape...
+195|Get a ship ready-Quasar.
+196|So that the residents of Egghead can escape.
+197|But not us.
+198|Secret orders have already been issued to all naval branches.
+199|We'll be chased to the ends of the world.
+200|If we die on the run, it would be a death in vain.
+201|But Egghead has resources that Ohara didn't have 22 years ago!
+202|It has the means to project my voice to great distances!
+203|Anyway... the closer I get to it, the darker and more obscure it becomes!
+204|What truly is the World Government?!
+205|I'm going to die but not in vain!
+206|I'm sorry for involving you two.
+207|Don't be. We're Vegapunks, too. Remember?
+208|We were thinking the same thing!
+209|But, Stella, remember our definition of "death" is unique.
+210|Indeed. There is another thing that we must protect.
+211|The Cloud Plant, the Island Clouds generator!
+212|Island Clouds could play a vital role in saving mankind in the future.
+213|Oh?
+214|Stella! What are you doing here?
+215|Oh, York.
+216|The same as always!
+217|An operational experiment using the Mother Flame.
+218|If we could run this thing with it, it would be the ideal energy source.
+219|You're right. I hope the Mother Flame will be complete soon!
+220|Yeah!
+221|Its incomplete state is our only hope.
+222|TWO DAYS BEFORE THE STRAW HATS' ARRIVAL
+223|Go ahead and talk. I started recording.
+224|Um... Hello?
+225|Check, check.
+226|I'm Dr. Vegapunk.
+227|I'm sure this will be a shock.
+228|But all of that is true, and everyone has the right to know.
+229|No one will expect that the Transponder Snail is hidden in here!
+230|My death will be the trigger for the broadcast.
+231|And to ensure she doesn't discover what we set up, even by the remotest chance,
+232|we'll wipe it from our memories.
+233|But in exchange, other memories will also be lost.
+234|We'll have to find out again that York stole the Mother Flame and sold us out.
+235|We'll also realize that we're being targeted
+236|and we'll be surprised once again.
+237|Indeed.
+238|We'll experience the terror as if for the first time.
+239|We've already taken measures!
+240|The terrible events that are coming...
+241|...will signify our victory!
+242|Shaka, what did you do?
+243|I don't know.
+244|Why are we here?
+245|This is a memory mass testing lab.
+246|Were we conducting a test?
+247|This is my handwriting.
+248|"Good morning, everyone.
+249|Now there is a two-week void in your memories,
+250|but that's what you chose.
+251|You have a lot of surprises on the way.
+252|LOL."
+253|What?!
+254|"I'll tell you just one thing.
+255|The World Government found out about our research on the Void Century,
+256|but I've taken the best possible measures.
+257|So believe in yourself
+258|and die."
+259|What?! They found it out?!
+260|And it says "die"! No way!
+261|"And another thing..."
+262|Stella! Emperor Straw Hat's group arrived along with Bonney!
+263|What?!
+264|CP-0 arrived!
+265|What?!
+266|We're surrounded by Navy ships!
+267|What?!
+268|Admiral Kizaru and St. Saturn from the Five Elders!
+269|What?!
+270|We're heading down to save Bonney,
+271|and I'm going to stay down there!
+272|Huh? You're gonna die.
+273|Don't try to save me!
+274|Just let me die right there!
+275|What?! Do you have a death wish?!
+276|No, but I have a feeling something will happen when I die!
+277|No way! I'll protect you!
+278|Yeah, I'm sure it'll cause a huge uproar! But we can't let you die!
+279|Here's to the reunion with old friends!
+280|Cheers!
+281|To Elbaph, where I always wanted to go!
+282|And about the One Piece...
+283|What?!
+284|I want you guys to be the ones to get it!
+285|No, wait... Not now, not now...
+286|Along with the Giant Pirate Crew, the Straw Hats drink, eat, and sing up a storm!
+287|Waiting beyond the horizon is the island that they dreamed of reaching.
+288|Full of anticipation for a new quest, the Sunny sails the open sea.
+289|"The Promised Horizon - Off to the Long-Awaited Elbaph!"

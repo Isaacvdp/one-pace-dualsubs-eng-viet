@@ -1,0 +1,234 @@
+1|No!
+2|Old Man Apple!
+3|You bastards...
+4|Well, Stella, you can't just start talking.
+5|Hm? What do you mean, Shaka?
+6|--People will need to get ready to hear. --What? What?
+7|JUSTICE
+8|Once some news outlet picks it up,
+9|it'll spread across the world by tomorrow and...
+10|Do you think so?
+11|What if they manipulate the information?
+12|Then what should we do?
+13|Using the Navy branches all over the world as a relay,
+14|these Mental Waves will be forcibly broadcast at maximum power.
+15|What is it?! Where is it from?!
+16|It's coming through the Snails of all fleets!
+17|Stop it now! Turn it off!
+18|B-But...
+19|...I can't!
+20|What's going on?
+21|Hey! Why am I hearing your voice?
+22|Vegapunk!
+23|They can receive audio signals with the Transponder Snails,
+24|but setting up the Video Transponder Snails may take some time...
+25|This voice...
+26|Is it Helmet?!
+27|Let's wait for an hour.
+28|What are you going to talk about, Vegapunk?
+29|An hour?!
+30|That's too long. During that time...
+31|Hey, is this...
+32|It's Vegapunk, isn't it?
+33|From where? Why now?
+34|We're trying so hard to help him escape!
+35|Yeah! Why is he being such a loose cannon?!
+36|Don't create any more mess!
+37|Did we hear Shaka's voice, too?
+38|He got shot by York.
+39|Was he alive?
+40|No, that's not possible...
+41|Stella, what are you up to?
+42|People who are not pleased with this broadcast might try to sabotage it.
+43|Looks like something is about to begin!
+44|Straw Hat! Where are you?!
+45|Look at those reckless fools. But...
+46|...we admire the gumption!
+47|Shoot!
+48|Let's move on!
+49|Yeah!
+50|I'll give you time to prepare to receive the broadcast.
+51|It's ten minutes!
+52|World!
+53|Oh, good! Seems like Old Man Apple is fine!
+54|And Helmet was alive!
+55|So now...
+56|I should just take care of you guys!
+57|What is this broadcast-eh?!
+58|What is all this about-eh?!
+59|Hey, Saturn. What happened to Vegapunk?
+60|Kizaru killed him.
+61|He should be dead.
+62|Mm-hm.
+63|I think.
+64|I saw it.
+65|Had he arranged for the message to be triggered by his death?
+66|Probably...
+67|We do not know what he will say...
+68|If only we could find the source of the broadcast...
+69|It cannot be anywhere else but the Labophase on Egghead.
+70|It is protected by the barrier now...
+71|This is bad. If nothing is done...
+72|We have nine and a half minutes. What should I do? Invent something?
+73|I'm busy.
+74|Why don't you have some coffee?
+75|DRESSROSA, NEW WORLD
+76|Hey, did you hear?!
+77|This is a big deal!
+78|What is it?
+79|The famous Dr. Vegapunk is trying to tell the entire world something!
+80|--What?! --Let's go to the plaza!
+81|Huh? H-Hey!
+82|Bring the Video Transponder Snail!
+83|Set up the screen!
+84|This way! Hurry up! We don't have time!
+85|Preparation is complete! The video will appear!
+86|I'll calculate the probability of signal jamming.
+87|Rebecca, the video is on.
+88|That's...
+89|...Vegapunk?
+90|Leo! Cub!
+91|Are you here to watch the broadcast?
+92|Is that the doctor who Luffyland took as hostage?
+93|What is going on?
+94|What?
+95|Leo, you're buying into the bad press about Lucy again.
+96|It's not true?
+97|You know him. He wouldn't do anything cowardly like taking hostages.
+98|I agree!
+99|Good!
+100|Judging by the video,
+101|it seems Dr. Vegapunk is broadcasting of his own free will.
+102|What is the "truth of the world" he's talking about?
+103|I have no idea. Not even a clue.
+104|WINDMILL VILLAGE, EAST BLUE
+105|What? I thought that the news was about Luffy doing something bad again.
+106|Who was it on the broadcast? That Vegapunk guy was so high and mighty!
+107|Cut the truth-of-the-world crap!
+108|But I'm curious.
+109|We need a Video Transponder Snail...
+110|We want one for our village! Mayor!
+111|Who's gonna pay for it?! You can't have it for free!
+112|If we can hear the audio, that's good enough.
+113|Come on!
+114|WATER SEVEN, GRAND LINE
+115|Wake up!
+116|This is serious!
+117|Oh my...
+118|Alice...
+119|Yes, President.
+120|Prepare the Video Transponder Snail immediately.
+121|It's already on in the next room.
+122|ALICE, ICEBURG'S SECRETARY
+123|You're ahead of the game, as usual...
+124|I've also set up screens at each shipbuilding dock.
+125|Even though it's nighttime, I believe the matter is of extreme importance,
+126|so I gave orders to prepare for all residents...
+127|...to be able to view the video within ten minutes.
+128|Anything else?
+129|Oh my... That's perfect.
+130|I only did my duty.
+131|WORLD ECONOMIC JOURNAL
+132|What?!
+133|What's this video?!
+134|It's relaying through Navy branches but it's an independent signal!
+135|What do you mean? Then where are Luffy-san and the others now?
+136|Look at the clock behind them, you fool.
+137|This isn't the current time on Egghead.
+138|That means... what?
+139|This footage is previously recorded.
+140|This site should be an inferno by now because of the Buster Call.
+141|I see! You're so smart, Mor-chan!
+142|This is gonna be a world-shattering piece of news!
+143|Oh, I wanna do a story on this!
+144|Did something serious enough to trigger a Buster Call happen on Egghead?
+145|Please don't die, no matter what, Luffy-san!
+146|WEST BLUE
+147|Is this the real Dr. Vegapunk?!
+148|I heard he'd still be a genius with even half his brain...
+149|Did he already try it?!
+150|NORTH BLUE
+151|The man who has the biggest brain in the world, who brought light to the world...
+152|SOUTH BLUE
+153|What does he want to take the trouble to tell the entire world?!
+154|Maybe the greatest invention of the century!
+155|KAMABAKKA QUEENDOM
+156|It'll take ten minutes to make coffee.
+157|Then I won't have time to drink!
+158|Hmmm, hmmm...
+159|The probability of signal jamming is extremely low.
+160|What is Vegapunk doing?!
+161|More importantly,
+162|his head!
+163|It's been chopped!
+164|Are they the rumored copies of Dr. Vegapunk?!
+165|I thought he was being held hostage.
+166|Can he do this in the middle of such a situation?
+167|Dragon-san.
+168|Is Vegapunk really going to reveal the truth of the world?
+169|I...
+170|...will die soon...
+171|NORTHEAST EGGHEAD
+172|We're almost there!
+173|Dad...
+174|I see it!
+175|Yeah, that's right!
+176|That's our ship!
+177|The Great Erik!
+178|That's a Giant pirate ship for you! Super big!
+179|Yeah! We'll set sail as soon as the bosses come back!
+180|Now, all we need is for everyone to be able to meet up...
+181|Vegapunk and the others... Are they gonna be okay?
+182|All those punches, and they had no effect!
+183|Until the very moment all my friends have escaped,
+184|I'm not letting you go anywhere!
+185|Gum-Gum...
+186|...Dawn...
+187|...Cymbal!
+188|If you regenerate no matter what I do,
+189|fly...
+190|...to the end of the world!
+191|Something... is flying this way!
+192|What?!
+193|How come nothing I do damages him?!
+194|Go away!
+195|Kizaru-san, what happened?!
+196|Are you okay?!
+197|Admiral!
+198|Kizaru-san?
+199|We do not have time, Saturn!
+200|We cannot let...
+201|...Vegapunk speak freely!
+202|Oh, that was close!
+203|He's so persistent!
+204|Oof... Hup!
+205|I'll begin the summoning.
+206|Yes...
+207|What?! Is that...?
+208|Black lightning!
+209|What's that?!
+210|That's exactly like when the Spider Geezer emerged...!
+211|No No No No No norenai
+212|kobiritsuichatte mou odorenai
+213|atama Feel so good, mata Unlucky demo
+214|cora de fukitobase yowaki wo
+215|soko no Boys & Girls! omae ii yatsu
+216|soko no Boys & Girls!
+217|appudeto wa shippai kori gori
+218|kinou made nara seikai?
+219|ran ran ran ran ran ran Run Run Run
+220|mo i kai
+221|junbi wa douyo odoreruno?
+222|bukkowareteru kono jidai
+223|mo i yo
+224|koko kara kakusan sekai e Drop
+225|jiyuu to kaihou no Stage e
+226|wakiagaru atama ga Punk!!!!!! No way!!!
+227|matenaiyo fuzaketa Dance
+228|afuredasu dopamin
+229|kodoku ga tsudoi utau koushin
+230|pipipi papapapapatteru
+231|mada mada mada horobinai
+232|shiranai dareka ga temaneki da
+233|uso mitai ni waratteru
+234|On the next episode of One Piece! "The Worst Nightmare - The Five Elders Come Together"

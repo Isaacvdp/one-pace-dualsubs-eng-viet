@@ -1,0 +1,306 @@
+1|Help, somebody!
+2|Dad?
+3|"A Shudder! The Evil Hand Creeping Up on the Laboratory"
+4|D... Dad...
+5|What's the matter?
+6|Da...
+7|There he is!
+8|Don't escape!
+9|Stop messing around! Come with us!
+10|No! I don't want to!
+11|Shut up! Just come with us!
+12|No! Let go of me!
+13|Please! Let go of me!
+14|Help! I can't take it anymore!
+15|You little punk! You gotta go back now!
+16|If you escape, we'll all get killed!
+17|But... But... I don't wanna go back...
+18|I don't wanna go back! Help!
+19|--I can't take it anymore! --Just come!
+20|Help!
+21|Stop it!
+22|No! I don't ever wanna go back there!
+23|Stop it! He doesn't want to!
+24|I can't get closer...
+25|Crying won't do any good!
+26|You shitty brat!
+27|No... I can't take it anymore...
+28|--Stop resisting! --Go back!
+29|--No! --You little shit!
+30|--Screw that place! --Hey!
+31|Why don't you kill me here?! Even if I go back...
+32|I will die anyway!
+33|Shut up!
+34|Stop!
+35|Stop! I said stop!
+36|Stop it!
+37|It hurts...
+38|I'm sorry!
+39|I'm sorry! I'm sorry!
+40|Stop! Stop!
+41|It hurts... I'm sorry...
+42|Just kill me...
+43|Stop...
+44|Please... stop it...
+45|Help!
+46|Help!
+47|Please stop...
+48|Stop it now!
+49|Shoot him down!
+50|Bartholomew Kuma is climbing the Red Line now seemingly headed for Marijoa!
+51|Don't let him enter Marijoa!
+52|If you do, it'll tarnish the Navy's reputation!
+53|Dad's past...
+54|I don't think I'll be able to face it...
+55|...with half-hearted determination.
+56|But I have to know it to be convinced!
+57|Hey, Dad.
+58|Show it to me again.
+59|Stella! Are you there?
+60|Oh boy...
+61|Look how much damage they caused.
+62|The Seraphim were all born here,
+63|but looks like they didn't hesitate at all.
+64|Gee! I wonder what he's doing at a time like this!
+65|Stella! Come on out already!
+66|Stella?
+67|Are you there?
+68|Hm? Was it my imagination?
+69|Stella?
+70|An explosion?!
+71|Respond! What was that explosion?
+72|Are you okay, Pythagoras?
+73|Respond!
+74|Pythagoras!
+75|Answer me!
+76|What happened?!
+77|What? Something just exploded?!
+78|Are you okay, Luffy?!
+79|This is strange...
+80|Luffy! Can you hear me?!
+81|Yeah.
+82|Is everything okay there? Has Vegapunk come back?
+83|Everything is alright here, but Old Man Apple isn't back yet...
+84|Oh please, where in the world did he go?!
+85|Is Zoro there?
+86|Yeah, he's been here the whole time.
+87|Make sure you keep an eye on him so he doesn't wander off.
+88|We don't need another one getting lost.
+89|I know.
+90|Anyway, Old Man Ap...
+91|What?
+92|--What did you say? Say it again... --It's happening again!
+93|What? Luffy? Hey!
+94|What?
+95|Luffy-san? Please respond!
+96|I guess it's not working.
+97|Building C, Cam-snail 12, scan the area.
+98|Find Pythagoras!
+99|Was it an accident? I hope he wasn't caught in it...
+100|I just saw something!
+101|Cam-snail 12, search through the smoke!
+102|A shadow?!
+103|Who is it?! Hey!
+104|The Cam-snail has been destroyed...
+105|Hey, Nami! Can you hear me?
+106|Sanji! Usopp!
+107|Oh, no.
+108|What's wrong, Luffy?
+109|This thing is broken.
+110|Didn't you break it?
+111|No, I didn't!
+112|Where are you going?
+113|I'm gonna go see Helmet for a bit.
+114|Don't go anywhere!
+115|Shut up!
+116|BUILDING C, BUILDING A, BUILDING B
+117|THIRD FLOOR, BUILDING A
+118|Where are you, Vegapunk?
+119|Gee, he's nowhere to be found.
+120|Vegapunk-san!
+121|Respond if you're there!
+122|I don't even know where to look.
+123|Yeah, this place is pretty big.
+124|If we play hide and seek here, it'll never end.
+125|Nami-san, what happened?
+126|Gotcha!
+127|Where?! Where?!
+128|They're jewels!
+129|Hey! They're not what we're looking for!
+130|Can I have them?
+131|"They're jewels!" is most commonly followed by "Beautiful!"
+132|It's fine, isn't it? You're all going to leave the island anyway!
+133|Let's take them with us!
+134|That's true, but...
+135|...is your common sense buggy?
+136|All right...
+137|It's heavy so should we go back?
+138|We came to search for Stella!
+139|You're overstuffing your bag!
+140|You'll hardly be able to look for him if you have that on your back!
+141|That's right...
+142|So you carry it!
+143|Whoa-whoa-whoa-whoa-whoa, wait!
+144|I have no choice...
+145|I'll leave it here, so make sure to lead us here on our way back!
+146|I promise I'll come for you, my treasure.
+147|Just so you know, those are man-made diamonds for industrial use.
+148|What?!
+149|Can you make diamonds?
+150|That's like a dream!
+151|What's wrong with your eyes?!
+152|The future is full of dreams.
+153|These guys are crazy! Stella! Where are you?!
+154|This place is really amazing!
+155|It's truly a facility that brings together the best of science.
+156|Hey, Atlas.
+157|You got beaten up by Lucci...
+158|But was your face a mask?!
+159|SECOND FLOOR, BUILDING A
+160|You can change your face and appearance as you like! That's what the future is like!
+161|Oh... Is this...
+162|...Vegapunk?
+163|Where?! Robin!
+164|It's not.
+165|That's an organoid.
+166|It's an artificial organ!
+167|An organoid...
+168|It's technology vital to the future of medicine!
+169|What?! You can make organs?!
+170|Awesome!
+171|It's really a stunning technology.
+172|I'm relieved. I thought...
+173|...this was a piece of a dismembered Vegapunk...
+174|Hey, that's too scary!
+175|Vegapunk, where are you?
+176|I never thought I could go on a voyage with you one day!
+177|You were at Mom's party, weren't you?
+178|You really pay attention.
+179|How can I not notice such a beautiful woman?!
+180|From that moment, I've been your...
+181|...servant!
+182|Please call me a dog.
+183|Get serious and look for Stella.
+184|You silly boy.
+185|Woof!
+186|Follow me.
+187|Woof! Woof!
+188|This is a big laboratory.
+189|If you search every nook and cranny, it'll take forever.
+190|We're on a weapons-development floor, so don't set off any shock waves.
+191|SECOND FLOOR, BUILDING B (ON THE RIGHT)
+192|You be careful, too!
+193|Woof!
+194|Hey! Helmet!
+195|What's going on?
+196|Edison! This is Shaka! Respond!
+197|Lilith! York! Somebody! Respond!
+198|I can't contact anyone.
+199|CONTROL ROOM, FOURTH FLOOR, BUILDING A
+200|Oh, this thing, right?
+201|I could hear them until a few minutes ago, but suddenly, I can't hear them.
+202|But I don't think I broke it!
+203|No...
+204|I really didn't! I didn't slam it into anything!
+205|I know.
+206|Look at this.
+207|The video feeds...
+208|...are going off one by one.
+209|Why?
+210|Someone else is...
+211|...in the lab.
+212|What?
+213|Hey! Vegapunk!
+214|Where are you, Vegapunk?!
+215|THIRD FLOOR, BUILDING C (ON THE LEFT)
+216|Keep looking, York!
+217|Okay...
+218|Where did he go?
+219|If we don't leave soon, the Government will catch us.
+220|Then, let's use this!
+221|What's that?!
+222|This is a Bubble Gun!
+223|A Bubble Gun?!
+224|Cool!
+225|That's right.
+226|With this, I can launch a very powerful bubble attack that can deflect anything!
+227|You say "deflect" but call it an attack? That's strange.
+228|If you can't imagine it, do you want a demonstration?
+229|Is it really okay?!
+230|It's made by Vegapunk. It must be an awesome weapon!
+231|Oh, you're really interested.
+232|Hey! Come here!
+233|--What? What? --Did you find Stella?
+234|That's terrible! What happened?
+235|What?! A big explosion must have taken place here!
+236|Is it an enemy?!
+237|Whoa-whoa-whoa-whoa, what's going on?!
+238|Someone's down on the floor!
+239|Hey, don't tell me that's...
+240|Pythagoras?!
+241|Hey, stay with us!
+242|His head is missing!
+243|How cruel...
+244|His head was blown off!
+245|So this was the explosion we heard earlier!
+246|Hey, Pythagoras! Stay with us!
+247|Who is it?!
+248|No, don't shoot!
+249|That voice...
+250|Everyone!
+251|It's me.
+252|Don't tell me...
+253|You're alive!
+254|Pythagoras!
+255|His head?!
+256|What?!
+257|Limbs are growing out of his head!
+258|I thought I was gonna get shot in the head as well.
+259|S-Sorry...
+260|What happened? Was it an accident?
+261|No, judging from the situation, was it an enemy attack?!
+262|Well, it's inexplicable!
+263|It can't be true...
+264|...but I don't think I was mistaken...
+265|What is it? Just say it!
+266|Is it an error in our design?
+267|It really can't be true, but...
+268|What is it?!
+269|Where's York?
+270|What?
+271|Earlier, Edison gave you an order to stop.
+272|You have to be outside waiting for us.
+273|You're so cute!
+274|York, what are you doing?!
+275|Well...
+276|...I found this cutie here.
+277|Love-Love...
+278|...Mellow!
+279|Today we'll introduce this one! Boa Hancock!
+280|She is the empress of Amazon Lily on the Island of Women,
+281|the captain of the Kuja Pirates, and one of the disbanded Seven Warlords.
+282|She is a Love-Love Fruit user and can turn anyone she charms into stone.
+283|She was born on September 2nd and likes hot pot!
+284|She is arrogant and selfish,
+285|but behind it all is the trauma of having once been a slave of the Celestial Dragons.
+286|She kept the brand on her back secret,
+287|but Luffy accidentally saw it.
+288|Hancock was gonna kill Luffy,
+289|but learning about his fearlessness in beating up a Celestial Dragon openly,
+290|and witnessing his kindness and care, she fell in love with him.
+291|You can call me Hancock.
+292|Alright, I got you, Hammock!
+293|At the request of her love, Luffy,
+294|she went to Impel Down where Ace was being held.
+295|In the Paramount War, despite being a Warlord, she apparently supported Luffy.
+296|After the Seven Warlords system was abolished,
+297|the Navy and the Blackbeard Pirates came to the Island of Women
+298|and a three-way battle erupted,
+299|but with Dark King Rayleigh's help, she escaped the crisis.
+300|See you next time!
+301|The Seraphim suddenly launch an attack on the Straw Hats.
+302|They even ignore orders from the Satellites.
+303|Who is commanding them?
+304|While all the Vegapunk Satellites are under suspicion,
+305|the Seraphim's relentless assault corners Luffy and the others!
+306|On the next episode of One Piece! "Incomprehensible! The Seraphim's Rebellion!"

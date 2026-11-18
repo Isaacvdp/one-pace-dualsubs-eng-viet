@@ -28,7 +28,10 @@ RELEASE_DIR = "main/Release/Final Subs/"
 
 # Styles that carry dialogue, also in variants like "Main-207+".
 # Signs, karaoke, credits and titles stay English-only.
-DIALOGUE_STYLES = re.compile(r"^(main|secondary|flashbacks?|thoughts|narrator|note|captions\d*)(-[\w+]+)?$", re.I)
+DIALOGUE_STYLES = re.compile(r"^(main|secondary|flashbacks?|thoughts|narrator|note|captions\d*"
+                             r"|default|defaultlow|italics|on top|os)(-[\w+]+)?$", re.I)
+# Regular anime releases instead of One Pace: "[Anime Time] One Piece - 1086.mkv"
+ANIME_EPISODE = re.compile(r"One Piece\W{0,5}(\d{3,4})(?!\d)", re.I)
 VI_STYLE = "Vietnamese"
 
 # Matching reworded lines by timing: seconds of slack for retimed lines, and how alike the
@@ -45,7 +48,7 @@ def http(url):
 
 def parse_episodes(spec, arc):
     if spec.strip().lower() in ("", "all"):  # every translated episode of the arc
-        return sorted(int(f.name[:2]) for f in (WORK / arc).glob("*.vi.txt"))
+        return sorted(int(f.name.split(".")[0]) for f in (WORK / arc).glob("*.vi.txt"))
     eps = set()
     for part in spec.split(","):
         a, _, b = part.partition("-")
@@ -53,14 +56,14 @@ def parse_episodes(spec, arc):
     return sorted(eps)
 
 
-def english_subs(arc, episodes):
+def english_subs(arc, episodes, download=True):
     """Episode -> local English .ass, downloading any that aren't cached yet."""
     # "[720p].ass" only: some episodes also have e.g. "[720p] Arabic.ass" next to the English file.
     pattern = re.compile(rf"\] {re.escape(arc)} (\d+) \[[^\]]*\]\.ass$", re.I)
     folder = ENGLISH / arc
     have = {int(m.group(1)): f for f in folder.glob("*.ass") if (m := pattern.search(f.name))}
     missing = [ep for ep in episodes if ep not in have]
-    if missing:
+    if missing and download:
         folder.mkdir(parents=True, exist_ok=True)
         for item in json.loads(http(TREE_API))["tree"]:
             path = item["path"]
@@ -71,7 +74,8 @@ def english_subs(arc, episodes):
                 have[int(m.group(1))] = f
     for ep in episodes:
         if ep not in have:
-            print(f"  ! {arc} {ep:02d}: not found in the One Pace subtitle repo")
+            print(f"  ! {arc} {ep:02d}: " + ("not found in the One Pace subtitle repo" if download
+                                             else "no video with English subtitles"))
     return {ep: have[ep] for ep in episodes if ep in have}
 
 
@@ -138,17 +142,25 @@ def seconds(ass_time):
     return int(h) * 3600 + int(m) * 60 + float(s)
 
 
+def is_romaji(f, styles_at):
+    """Crunchyroll song lyrics come in pairs: the English in Default and the Japanese sung words
+    in romaji, in italics "On Top" at the same moment. The romaji isn't translated."""
+    return (f[3].strip().lower() == "on top" and f[9].startswith(r"{\i1}")
+            and len(styles_at[(f[1], f[2])]) > 1)
+
+
 def translatable(lines):
     """[(line index, plain English)] for every dialogue line worth translating."""
+    dialogue = {i: split_dialogue(line) for i, line in enumerate(lines) if line.startswith("Dialogue: ")}
+    styles_at = {}
+    for f in dialogue.values():
+        styles_at.setdefault((f[1], f[2]), set()).add(f[3].strip().lower())
     out = []
-    for i, line in enumerate(lines):
-        if not line.startswith("Dialogue: "):
-            continue
-        f = split_dialogue(line)
+    for i, f in dialogue.items():
         text = plain_text(f[9])
         # Events shorter than 0.25s are frame-by-frame animated typesetting, not dialogue.
         if (DIALOGUE_STYLES.match(f[3].strip()) and text and r"\p1" not in f[9]
-                and seconds(f[2]) - seconds(f[1]) >= 0.25):
+                and seconds(f[2]) - seconds(f[1]) >= 0.25 and not is_romaji(f, styles_at)):
             out.append((i, text))
     return out
 
@@ -328,7 +340,8 @@ def read_numbered(path):
 
 
 def translations(arc, ep):
-    """English line -> its Vietnamese translations in order of appearance, or None if not translated yet."""
+    """English line -> its Vietnamese translations in order of appearance, or None if not translated yet.
+    Lines translated in another episode of the arc (left out of this one's export) come after."""
     en_file, vi_file = WORK / arc / f"{ep:02d}.en.txt", WORK / arc / f"{ep:02d}.vi.txt"
     if not vi_file.exists():
         return None
@@ -337,7 +350,29 @@ def translations(arc, ep):
     for n, text in en.items():
         if n in vi:
             out.setdefault(text, []).append(vi[n])
+    for other in sorted((WORK / arc).glob("*.vi.txt")):
+        if other != vi_file:
+            o_en, o_vi = read_numbered(other.with_name(other.name.replace(".vi.", ".en."))), read_numbered(other)
+            for n, text in o_en.items():
+                if n in o_vi and text not in out:
+                    out[text] = [o_vi[n]]
     return out
+
+
+def reusable(text, ass_text):
+    """Lines worth translating once per arc: songs and narration (whole line in italics), and
+    longer lines (recaps). Short ones like "What?!" are left to each episode: the Vietnamese
+    pronouns depend on who says them."""
+    return ass_text.startswith(r"{\i1}") or len(text) >= 20
+
+
+def earlier_lines(arc, ep):
+    """English lines already exported for earlier episodes of the arc."""
+    seen = set()
+    for f in (WORK / arc).glob("*.en.txt"):
+        if int(f.name.split(".")[0]) < ep:
+            seen.update(read_numbered(f).values())
+    return seen
 
 
 def chapters(name):
@@ -378,6 +413,34 @@ def english_from_videos(arc, video_dir):
         print(f"  {arc} {ep:02d}: English taken from {video.name} (not in One Pace's subtitle repo yet)")
 
 
+def is_anime_release(video_dir):
+    """Regular anime episodes (numbered like "One Piece - 1086") rather than One Pace."""
+    names = [v.name for v in video_dir.iterdir() if v.suffix.lower() in (".mkv", ".mp4")]
+    return bool(names) and not any("one pace" in n.lower() for n in names) and any(
+        ANIME_EPISODE.search(n) for n in names)
+
+
+def anime_english(arc, video_dir):
+    """Regular anime releases: episodes keep the anime's numbers (1086 ...) and the English comes
+    out of the videos, saved in english/<arc>/ under a repo-style name like the other arcs."""
+    folder = ENGLISH / arc
+    for video in sorted(video_dir.iterdir()):
+        m = ANIME_EPISODE.search(video.name)
+        if video.suffix.lower() not in (".mkv", ".mp4") or not m:
+            continue
+        ep = int(m.group(1))
+        dest = folder / f"[Anime][{ep}] {arc} {ep} [video].ass"
+        if dest.exists():
+            continue
+        with tempfile.TemporaryDirectory() as tmp:
+            src = extract_english(video, video_tracks(video), tmp)
+            if not src:
+                print(f"  ! {video.name} has no English subtitles")
+                continue
+            folder.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(src, dest)
+
+
 def find_video(video_dir, arc, ep, src):
     """Match by chapter range ("Chapter 700-701", "[700-701]"), else by "Dressrosa 01"."""
     m = re.search(r"\]\[(\d+(?:-\d+)?)\]", src.name)
@@ -401,17 +464,22 @@ def export(arc, ep, src, args):
             return
         with tempfile.TemporaryDirectory() as tmp:
             src = extract_english(video, video_tracks(video), tmp) or src
-            items = translatable(src.read_text(encoding="utf-8-sig").splitlines())
+            lines = src.read_text(encoding="utf-8-sig").splitlines()
     else:
-        items = translatable(src.read_text(encoding="utf-8-sig").splitlines())
+        lines = src.read_text(encoding="utf-8-sig").splitlines()
+    items = translatable(lines)
     (WORK / arc).mkdir(parents=True, exist_ok=True)
     out = WORK / arc / f"{ep:02d}.en.txt"
     if out.with_name(f"{ep:02d}.vi.txt").exists():
         # The .vi.txt is matched to this file line by line; re-exporting could renumber it.
         print(f"  {arc}/{out.name}: already translated, left as is")
         return
-    out.write_text("".join(f"{n}|{text}\n" for n, (_, text) in enumerate(items, 1)), encoding="utf-8")
-    print(f"  {arc}/{out.name}: {len(items)} lines")
+    seen = earlier_lines(arc, ep)
+    new = [(i, text) for i, text in items
+           if not (text in seen and reusable(text, split_dialogue(lines[i])[9]))]
+    out.write_text("".join(f"{n}|{text}\n" for n, (_, text) in enumerate(new, 1)), encoding="utf-8")
+    reused = f" ({len(items) - len(new)} more already in earlier episodes)" if len(new) < len(items) else ""
+    print(f"  {arc}/{out.name}: {len(new)} lines{reused}")
 
 
 def similarity(a, b):
@@ -533,7 +601,10 @@ def video_info(video):
 
 
 def video_tracks(video):
-    return video_info(video)["tracks"]
+    info = video_info(video)
+    if "tracks" not in info:  # e.g. a torrent that hasn't finished: full size, but zeros
+        print(f"  ! {video.name} can't be read - is it fully downloaded?")
+    return info.get("tracks", [])
 
 
 # One Pace's dialogue fonts. Releases with burned-in English (mp4) carry no fonts, so the player
@@ -698,10 +769,20 @@ def main():
             marker.write_text("This arc's videos have the English burned in: the English comes from One Pace's "
                               "working folders and the subtitles show Vietnamese only.\n", encoding="utf-8")
     args.hardsub = marker.exists()
+    anime = WORK / args.arc / "anime"
+    if args.video_dir and not anime.exists() and is_anime_release(args.video_dir):
+        anime.parent.mkdir(parents=True, exist_ok=True)
+        anime.write_text("This arc's videos are regular anime episodes, not One Pace: episodes keep the "
+                         "anime's numbers and the English comes from the videos.\n", encoding="utf-8")
+    args.anime = anime.exists()
     args.size = args.size or (40 if args.hardsub else 48)
     episodes = parse_episodes(args.episodes, args.arc)
     if args.hardsub:
         sources = working_subs(args.arc, episodes, args.video_dir)
+    elif args.anime:
+        if args.video_dir:
+            anime_english(args.arc, args.video_dir)
+        sources = english_subs(args.arc, episodes, download=False)
     else:
         if args.video_dir:
             english_from_videos(args.arc, args.video_dir)

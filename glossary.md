@@ -174,3 +174,27 @@ Keep lines short like subtitles. Keep Japanese honorifics the English subs keep
 - Wisdom Kings = Minh Vương (Ngũ Đại Minh Vương); Dragon King (Kaido, in narration) = Long Vương; Blue Dragon = Thanh Long
 - The kabuki narrator calls himself "tại hạ" and keeps a slightly literary tone
 - Luffy ↔ Momo: tao/mày in the flashback quarrel, tôi/cậu at the farewell
+
+## Egghead (regular anime episodes 1086-1155, Crunchyroll's English)
+| English | Vietnamese |
+|---|---|
+| Dr. Vegapunk / Stella / the Satellites (Shaka, Lilith, Edison, Pythagoras, Atlas, York) | Tiến sĩ Vegapunk / Stella / các Vệ tinh (Shaka, Lilith, Edison, Pythagoras, Atlas, York) |
+| Egghead / Labophase / Frontier Dome / Punk Records | Egghead / Labophase / Frontier Dome / Punk Records |
+| Seraphim / Pacifista(s) / Mother Flame | Seraphim / Pacifista / Mother Flame |
+| Emperor of the Sea | Tứ Hoàng ("an Emperor of the Sea" = một Tứ Hoàng) |
+| Five Elders / St. Jaygarcia Saturn | Ngũ Lão Tinh / Ngài Jaygarcia Saturn |
+| Holy Knights / Cross Guild / God Valley | Hiệp sĩ Thần thánh / Cross Guild / God Valley |
+| Sun God Nika / Gear 5 / Warrior of Liberation / Joy Boy | Thần Mặt Trời Nika / Gear 5 / Chiến binh Giải phóng / Joy Boy |
+| Ancient Kingdom / ancient weapons / Empty Throne | Vương quốc Cổ đại / vũ khí cổ đại / Ngai Vàng Trống |
+| Lulusia Kingdom / Sorbet Kingdom | Vương quốc Lulusia / Vương quốc Sorbet |
+| "Dad" (Bonney to Kuma) / "Kumachi" | "Bố" / "Kumachi" |
+
+- Vegapunk (Stella, Shaka, Edison, Pythagoras): tôi/các cậu, polite and talkative. Lilith: brash, tôi/mấy người. Atlas: loud, childish, tôi/các người. York: lazy and selfish, tôi/các người.
+- Sentomaru: tôi/các người; to Vegapunk "Tiến sĩ".
+- Bonney: rude, tôi/mấy người (tao/mày when furious); to Kuma con/bố; Kuma to her bố/con. Kuma and Ginny: anh/em.
+- Kizaru: ta/các ngươi to pirates, drawling; to Sentomaru ta/cậu.
+- Saturn and the Five Elders: ta/các ngươi, contemptuous.
+- Garp to Koby: ta/cậu; Koby to Garp: tôi/ngài ("ngài Garp"). Garp to Luffy: ông/cháu.
+- Lucci, CP0: ta/ngươi. Kaku to Zoro: tôi/cậu.
+- Buggy: ta/các ngươi, blustering; his crew calls him "Đội trưởng Buggy".
+- Song lyrics and the next-episode narration (in italics) are translated once and reused by later episodes.
