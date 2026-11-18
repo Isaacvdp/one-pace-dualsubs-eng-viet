@@ -242,30 +242,8 @@
 242|We'll use you...
 243|...to force our way through!
 244|We'll set sail!
-245|I can't protect anyone again
-246|It's my fault that the voice is fading away
-247|I don't even have time to look down
-248|Gravel marks on my palms
-249|Start moving again, my ship
-250|Though I can't fly in the broad sky
-251|I can light up the deep sea
-252|We
-253|EVERYDAY, can't let this be the end
-254|EVERYDAY, can't be defeated
-255|We have something here to protect
-256|This may not be what I expected
-257|But we can't stop now
-258|We go on, sharing loneliness
-259|Don't be afraid
-260|I'm not the same person I was that day
-261|No one can stand in my way
-262|Now, move aside
-263|Conquer the world, believe in the future
-264|Count up the nights
-265|What did you see? What did you learn?
-266|To realize what was important
-267|The Navy fleet led by St. Saturn and Kizaru surrounds Egghead.
-268|The Straw Hats hatch a plan to escape with Vegapunk and the others
-269|but the situation is dire and there is no way out!
-270|Will Luffy and his friends be able to carry out their plan?!
-271|"Completely Surrounded! The Operation to Escape Egghead"
+245|The Navy fleet led by St. Saturn and Kizaru surrounds Egghead.
+246|The Straw Hats hatch a plan to escape with Vegapunk and the others
+247|but the situation is dire and there is no way out!
+248|Will Luffy and his friends be able to carry out their plan?!
+249|"Completely Surrounded! The Operation to Escape Egghead"

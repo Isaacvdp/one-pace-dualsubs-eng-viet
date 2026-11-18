@@ -1,221 +1,246 @@
-1|te ni totte tsume wo tateta
-2|sono mirai wa
-3|nijimu iro ni kasunde mieta
-4|natsu no iro mo nuritsubusu youna aka ni
-5|bokura no koe kakikesareteiku you de
-6|tachidomaru sono ashi wo fumidasou ze
-7|misekake no uso yarisugosu yori
-8|nandome no asa
-9|chikai to hikikaeru yo
-10|bokura ga miteita yume
-11|The destruction from the Buster Call continued on Future Island Egghead.
-12|The Straw Hats were trying to leave the island,
-13|but the Navy's relentless attacks were holding them up.
-14|No...
-15|JUSTICE
-16|Ultra Mighty Punch!
-17|Then the Five Elders in their grotesque forms finally made landfall on Egghead
-18|and started fighting Luffy and the others.
-19|Something appeared!
-20|What?! A crab?!
-21|York.
-22|What?
-23|Don't tell me...
-24|...you're...
-25|"A Stunning Conclusion - Vegapunk's Great Prediction"
-26|Stella, it's about time.
-27|Mm-hm, okay.
-28|I feel a little self-conscious about being on a worldwide broadcast.
-29|Okay, now...
-30|It was so short a time, the coffee didn't cool down.
-31|Where did I leave off?
-32|You only introduced yourself.
-33|Oh, was that it?
-34|The biggest brain in the world...
-35|Punk Records.
-36|It will live on even if you die.
-37|Is this you?
-38|Vegapunk.
-39|What is death?
-40|Where is the seat of consciousness?
-41|Okay, let's resume.
-42|But I'm worried about...
-43|...whether the world will believe this broadcast.
-44|This broadcast will eventually bring the world together.
-45|It's about knowing and the inconvenience of being known.
-46|SYRUP VILLAGE, EAST BLUE (USOPP'S BIRTHPLACE)
-47|What?!
-48|If Kaya-san doesn't have one, no one else in the village will!
-49|How come you don't have one?!
-50|Man, I wanted to see Dr. Vegapunk's face.
-51|Video Transponder Snails are big.
-52|It's like having a giant pet.
-53|What a bummer!
-54|Well, we get to hear his voice at least,
-55|so let's listen together.
-56|Fine.
-57|Then I'll go make some tea.
-58|Dr. Vegapunk played a huge role in leading the world of medicine, too.
-59|He did, didn't he?!
-60|Don't lie! Like you'd know that.
-61|You need to study sometimes, Pepper, Carrot!
-62|Dr. Vegapunk is...
-63|It'll start soon.
-64|TWIN CAPES
-65|FUTURE LAND BALDIMORE (VEGAPUNK'S BIRTHPLACE)
-66|Was he born in this country?
-67|That's right. He's making Baldimore proud.
-68|Oh, the man who caused the Nightmare of Baldimore?!
-69|No, that's Franky. He has seemingly now transformed into a ship.
-70|I haven't seen you for decades, Vegapunk.
-71|BIRDIE KINGDOM, SOUTH BLUE (WHERE CHOPPER HONED HIS SKILLS)
-72|It seems everyone's talking about the island where Racoon Dog is.
-73|Vegapunk is the father of modern science,
-74|but his scientific expertise helped in creating a lot of weapons.
-75|Guys, be quiet!
-76|This Vega-something guy's gonna speak to us!
-77|Who's that?!
-78|You really think that'd make us forgive your cheating?!
-79|Just start talking already!
-80|Can you hear me?
-81|This is Vegapunk.
-82|This is just an ordinary Transponder Snail!
-83|World! World!
-84|World! Come in!
-85|On top of hiding it, he was planning to trick us.
-86|How dare you, Vegapunk?!
-87|Come in, World.
-88|Stella, this is a one-way signal hijack.
-89|I know that!
-90|Where is it broadcasting from?!
-91|You still haven't found it yet, Mars?!
-92|Where is the Transmission Transponder Snail?!
-93|Give me some time...
-94|I promise I will find it!
-95|All right! Now let's get on with...
-96|...the broadcast.
-97|Yeah! Do it!
-98|What's gonna start?!
-99|What is it?
-100|Go back to sleep. Some important person has something to say.
-101|It is not stopping!
-102|Mars, hurry up!
-103|I apologize!
-104|Vegapunk must have taken more serious precautions than we imagined,
-105|making sure that the broadcast would not be interrupted.
-106|I do not know what he learned and what he will talk about,
-107|but York said that he took over Ohara's research.
-108|So he tried to avoid the same fate as Clover...
-109|Was he hoping to avenge Ohara?!
-110|I can hear...
-111|...Bonney-chan calling me for help!
-112|Jewelry Bonney!
-113|I will not let you have the Navy's weapons!
-114|Get back, Bonney!
-115|Wait! Get out of my way, Franky!
-116|Sanji!
-117|I should be the only one...
-118|...Bonney-chan looks at!
-119|You think that the elderly will be treated with respect...
-120|...in a battle against pirates?!
-121|What's happening to him?!
-122|Sanji!
-123|Stella!
-124|Strong...
-125|...Righ... Whoa!
-126|What's that?!
-127|He's a friend of the king of snipers…
-128|Restrain that thing, Oimo!
-129|All right, Kashii!
-130|Sanji!
-131|Hold still!
-132|It's an extremely wild horse!
-133|Aargh! Let go of me!
-134|Distorted Future!
-135|What?! She became huge?!
+1|Reached out and dug my nails in
+2|te ni totte tsume wo tateta
+3|That future
+4|sono mirai wa
+5|Blurred, stained with color
+6|nijimu iro ni kasunde mieta
+7|A red that blotted out even summer's light
+8|natsu no iro mo nuritsubusu youna aka ni
+9|As if our voices were drowned out
+10|bokura no koe kakikesareteiku you de
+11|Let your frozen feet break free
+12|tachidomaru sono ashi wo fumidasou ze
+13|Better than slipping past the pretty lies
+14|misekake no uso yarisugosu yori
+15|These countless mornings
+16|nandome no asa
+17|We trade our sacred dreams
+18|chikai to hikikaeru yo
+19|In exchange for a vow
+20|bokura ga miteita yume
+21|The destruction from the Buster Call continued on Future Island Egghead.
+22|The Straw Hats were trying to leave the island,
+23|but the Navy's relentless attacks were holding them up.
+24|No...
+25|JUSTICE
+26|Ultra Mighty Punch!
+27|Then the Five Elders in their grotesque forms finally made landfall on Egghead
+28|and started fighting Luffy and the others.
+29|Something appeared!
+30|What?! A crab?!
+31|York.
+32|What?
+33|Don't tell me...
+34|...you're...
+35|"A Stunning Conclusion - Vegapunk's Great Prediction"
+36|Stella, it's about time.
+37|Mm-hm, okay.
+38|I feel a little self-conscious about being on a worldwide broadcast.
+39|Okay, now...
+40|It was so short a time, the coffee didn't cool down.
+41|Where did I leave off?
+42|You only introduced yourself.
+43|Oh, was that it?
+44|The biggest brain in the world...
+45|Punk Records.
+46|It will live on even if you die.
+47|Is this you?
+48|Vegapunk.
+49|What is death?
+50|Where is the seat of consciousness?
+51|Okay, let's resume.
+52|But I'm worried about...
+53|...whether the world will believe this broadcast.
+54|This broadcast will eventually bring the world together.
+55|It's about knowing and the inconvenience of being known.
+56|SYRUP VILLAGE, EAST BLUE (USOPP'S BIRTHPLACE)
+57|What?!
+58|If Kaya-san doesn't have one, no one else in the village will!
+59|How come you don't have one?!
+60|Man, I wanted to see Dr. Vegapunk's face.
+61|Video Transponder Snails are big.
+62|It's like having a giant pet.
+63|What a bummer!
+64|Well, we get to hear his voice at least,
+65|so let's listen together.
+66|Fine.
+67|Then I'll go make some tea.
+68|Dr. Vegapunk played a huge role in leading the world of medicine, too.
+69|He did, didn't he?!
+70|Don't lie! Like you'd know that.
+71|You need to study sometimes, Pepper, Carrot!
+72|Dr. Vegapunk is...
+73|It'll start soon.
+74|TWIN CAPES
+75|FUTURE LAND BALDIMORE (VEGAPUNK'S BIRTHPLACE)
+76|Was he born in this country?
+77|That's right. He's making Baldimore proud.
+78|Oh, the man who caused the Nightmare of Baldimore?!
+79|No, that's Franky. He has seemingly now transformed into a ship.
+80|I haven't seen you for decades, Vegapunk.
+81|BIRDIE KINGDOM, SOUTH BLUE (WHERE CHOPPER HONED HIS SKILLS)
+82|It seems everyone's talking about the island where Racoon Dog is.
+83|Vegapunk is the father of modern science,
+84|but his scientific expertise helped in creating a lot of weapons.
+85|Guys, be quiet!
+86|This Vega-something guy's gonna speak to us!
+87|Who's that?!
+88|You really think that'd make us forgive your cheating?!
+89|Just start talking already!
+90|Can you hear me?
+91|This is Vegapunk.
+92|This is just an ordinary Transponder Snail!
+93|World! World!
+94|World! Come in!
+95|On top of hiding it, he was planning to trick us.
+96|How dare you, Vegapunk?!
+97|Come in, World.
+98|Stella, this is a one-way signal hijack.
+99|I know that!
+100|Where is it broadcasting from?!
+101|You still haven't found it yet, Mars?!
+102|Where is the Transmission Transponder Snail?!
+103|Give me some time...
+104|I promise I will find it!
+105|All right! Now let's get on with...
+106|...the broadcast.
+107|Yeah! Do it!
+108|What's gonna start?!
+109|What is it?
+110|Go back to sleep. Some important person has something to say.
+111|It is not stopping!
+112|Mars, hurry up!
+113|I apologize!
+114|Vegapunk must have taken more serious precautions than we imagined,
+115|making sure that the broadcast would not be interrupted.
+116|I do not know what he learned and what he will talk about,
+117|but York said that he took over Ohara's research.
+118|So he tried to avoid the same fate as Clover...
+119|Was he hoping to avenge Ohara?!
+120|I can hear...
+121|...Bonney-chan calling me for help!
+122|Jewelry Bonney!
+123|I will not let you have the Navy's weapons!
+124|Get back, Bonney!
+125|Wait! Get out of my way, Franky!
+126|Sanji!
+127|I should be the only one...
+128|...Bonney-chan looks at!
+129|You think that the elderly will be treated with respect...
+130|...in a battle against pirates?!
+131|What's happening to him?!
+132|Sanji!
+133|Stella!
+134|Strong...
+135|...Righ... Whoa!
 136|What's that?!
-137|Jewelry Bonney?!
-138|What?!
-139|Giant-Like Future!
-140|It started.
-141|...committed two sins.
-142|So I might get caught or be beheaded.
-143|I'm going to program this video to be broadcast...
-144|...the very moment my heart stops.
-145|What does he mean?!
-146|Then Vegapunk is already dead?!
-147|What?! Wait a minute!
-148|It was on the news this morning that he was taken hostage by the Straw Hats...
-149|What's going on?!
-150|What?! You've got to be kidding!
-151|We've been working hard to bring you down!
-152|Whoa-whoa-whoa! Please!
-153|If you broadcast to the whole world like this,
-154|you'll ruin the newspaper business!
-155|But I really want you to understand this.
-156|Whoever my executioners may be,
-157|I don't mean to label them as evil.
-158|I don't judge right from wrong.
-159|I don't know enough about him...
-160|...to do that.
-161|Vegapunk!
-162|What is it?!
-163|Go away!
-164|So gross!
-165|Get out of my way!
-166|Guys! Get away from him!
-167|Take Robin-san somewhere safe!
-168|Got it!
-169|I have no time to play with you fools!
-170|Stop, Chopper!
-171|What?!
-172|You are...
-173|That's a bold hypothesis.
-174|The Five Elders?!
-175|You are Nico Robin, aren't you?
-176|Robin?
-177|What?!
-178|The woman who Akainu failed to kill.
-179|He is too lax.
-180|Who is he?! He knows Robin!
-181|What intense animosity!
-182|The Five Elders!
-183|Why are you here?! You monster!
-184|Protect Robin!
-185|Guard Point!
-186|We'll keep her safe no matter what!
-187|Get out of the way!
-188|You insects!
-189|You haven't found it yet, Mars?
-190|Not yet.
-191|I cannot detect it either.
-192|It is unbelievable how much trouble one old-timer is causing us.
-193|What I'm about to tell you is so hard to believe...
-194|...that it might be met with laughter.
-195|But you have the right to know the truth.
-196|Think! Think!
-197|Or I can't become a Celestial Dragon!
-198|I'm a Vegapunk, too!
-199|Where would I hide it?!
-200|No good.
-201|There are too many Transponder Snails in the lab.
-202|There are no unique Mental Waves.
-203|Tell me! What will happen if I destroy the power plant?
-204|I would advise against it.
-205|I do not mind the destruction of the Navy ships and crew surrounding the island...
-206|But we will never be able to recreate the Mother Flame!
-207|To skip to the conclusion first...
-208|...this world...
-209|...will sink into the sea.
-210|What?
-211|What did he just say?!
-212|What's going to happen to us?!
-213|Whoa-whoa-whoa!
-214|All the continents in the world will sink?!
-215|Vegapunk!
-216|Vegapunk will make a revelation about his lifelong research.
-217|Another shocking truth will be exposed!
-218|The Void Century.
-219|The identity of the first pirate who holds the key to that mystery
-220|finally comes to light!
-221|On the next episode of One Piece! "The Lost History - Joyboy, the First Pirate"
+137|He's a friend of the king of snipers…
+138|Restrain that thing, Oimo!
+139|All right, Kashii!
+140|Sanji!
+141|Hold still!
+142|It's an extremely wild horse!
+143|Aargh! Let go of me!
+144|Distorted Future!
+145|What?! She became huge?!
+146|What's that?!
+147|Jewelry Bonney?!
+148|What?!
+149|Giant-Like Future!
+150|It started.
+151|...committed two sins.
+152|So I might get caught or be beheaded.
+153|I'm going to program this video to be broadcast...
+154|...the very moment my heart stops.
+155|What does he mean?!
+156|Then Vegapunk is already dead?!
+157|What?! Wait a minute!
+158|It was on the news this morning that he was taken hostage by the Straw Hats...
+159|What's going on?!
+160|What?! You've got to be kidding!
+161|We've been working hard to bring you down!
+162|Whoa-whoa-whoa! Please!
+163|If you broadcast to the whole world like this,
+164|you'll ruin the newspaper business!
+165|But I really want you to understand this.
+166|Whoever my executioners may be,
+167|I don't mean to label them as evil.
+168|I don't judge right from wrong.
+169|I don't know enough about him...
+170|...to do that.
+171|Vegapunk!
+172|What is it?!
+173|Go away!
+174|So gross!
+175|Get out of my way!
+176|Guys! Get away from him!
+177|Take Robin-san somewhere safe!
+178|Got it!
+179|I have no time to play with you fools!
+180|Stop, Chopper!
+181|What?!
+182|You are...
+183|That's a bold hypothesis.
+184|The Five Elders?!
+185|You are Nico Robin, aren't you?
+186|Robin?
+187|What?!
+188|The woman who Akainu failed to kill.
+189|He is too lax.
+190|Who is he?! He knows Robin!
+191|What intense animosity!
+192|The Five Elders!
+193|Why are you here?! You monster!
+194|Protect Robin!
+195|Guard Point!
+196|We'll keep her safe no matter what!
+197|Get out of the way!
+198|You insects!
+199|You haven't found it yet, Mars?
+200|Not yet.
+201|I cannot detect it either.
+202|It is unbelievable how much trouble one old-timer is causing us.
+203|What I'm about to tell you is so hard to believe...
+204|...that it might be met with laughter.
+205|But you have the right to know the truth.
+206|Think! Think!
+207|Or I can't become a Celestial Dragon!
+208|I'm a Vegapunk, too!
+209|Where would I hide it?!
+210|No good.
+211|There are too many Transponder Snails in the lab.
+212|There are no unique Mental Waves.
+213|Tell me! What will happen if I destroy the power plant?
+214|I would advise against it.
+215|I do not mind the destruction of the Navy ships and crew surrounding the island...
+216|But we will never be able to recreate the Mother Flame!
+217|To skip to the conclusion first...
+218|...this world...
+219|...will sink into the sea.
+220|What?
+221|What did he just say?!
+222|What's going to happen to us?!
+223|Whoa-whoa-whoa!
+224|All the continents in the world will sink?!
+225|Vegapunk!
+226|Feeling so good in the head Though down on our luck again
+227|Hey, you boys & girls! Y'all are alright
+228|Hey, you boys & girls!
+229|Run, run, run, run, run, run Run, Run, Run...
+230|"Ready or not?"
+231|All set to go? Can you dance or not?
+232|Everything's falling apart during these times
+233|"Here I come!"
+234|Spreading out from here Drop into the world
+235|Head in a rolling boil, so punk!!!!!! No way!!!
+236|Can't wait anymore Going off on a silly dance
+237|Loners gather, communicate in song
+238|Still going strong, won't wipe us out
+239|Those unfamiliar faces, they're beckoning
+240|All the laughter feels like a dream
+241|Vegapunk will make a revelation about his lifelong research.
+242|Another shocking truth will be exposed!
+243|The Void Century.
+244|The identity of the first pirate who holds the key to that mystery
+245|finally comes to light!
+246|On the next episode of One Piece! "The Lost History - Joyboy, the First Pirate"

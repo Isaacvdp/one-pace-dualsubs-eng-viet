@@ -1,278 +1,246 @@
-1|(All of us) us, us
-2|(Dream save us us) us, all of us
-3|The end of a dream, the end of the sea
-4|We all have different places we want to go
-5|But first, we need
-6|To make a shining legend out of ourselves
-7|Sparks fly, no limit, this is where it starts
-8|ONE PIECE!!
-9|All of us, I ask you travelers
-10|Are your dreams still pure?
-11|Sleepless cells are shaken and burst
-12|Still, all of us, in the middle of an adventure
-13|All of us, I tell you travelers
-14|No such thing as a pointless fight
-15|When random contexts
-16|Start to make sense on their own
-17|The threads of time are spun back together
-18|The world keeps changing along with us
-19|(All of us) us, us
-20|(Dream save us us) us, all of us
-21|I saw something unbelievable...
-22|...at Marijoa!
-23|Sabo tried to contact the Revolutionary Army from the Kingdom of Lulusia, however...
-24|Meanwhile, Luffy and the others set out on a new quest,
-25|and ran into a mysterious girl on the sea.
-26|It's still there!
-27|Down!
-28|Look down!
-29|"A New Island! Future Island Egghead"
-30|What's going on?!
-31|Go away!
-32|--Oh god! Oh god! Oh god! --What's going on?!
-33|Help!
-34|This area isn't safe!
-35|Get us out of here!
-36|Is this it for us?!
-37|Jimbei! Hurry up!
-38|Jimbei! Get us out of here!
-39|Hold on!
-40|Hurry!
-41|What's that?!
-42|It's not an ordinary shark!
-43|It's too big and made of iron?!
-44|Hold on tight! We'll land on the water!
-45|Oh, no! Luffy and the others fell into the sea!
-46|This is no good!
-47|Franky!
-48|Take the helm!
-49|Bring the ship around to us!
-50|All right! Count on me!
-51|Luffy!
-52|Chopper!
-53|Where are you?!
-54|There they are!
-55|I said "Count on me"...
-56|...but how can I find them in this rough sea?!
-57|Well, I've just gotta find a way!
-58|Let's go, Sunny!
-59|Ship's Bottom...
-60|...Rabbit...
-61|...Screw!
-62|SHIP'S BOTTOM, RABBIT SCREW
-63|All right! Let's save Luffy and the others!
-64|Luffy! Chopper!
-65|Where are you?!
-66|Franky! Get us out of here!
-67|Torpedoes!
-68|Robin-chan! Nami-san!
-69|Oh, no!
-70|It's gonna capsize!
-71|What was that explosion?
-72|Luffy! Chopper!
-73|I'm here! You'll be fine!
-74|Hey, you three! Stay with me!
-75|We'll surface!
-76|The current is strong! It's not navigable!
-77|Is the Sunny okay?!
-78|Thank you, Jimbei...
-79|Oh, Luffy! You're okay!
-80|I'm still alive...
-81|I think I saw heaven...
-82|I'm glad that all of you are okay!
-83|The Sunny will be here soon!
-84|That's...
-85|What's the matter, Jimbei?
-86|Hold on tight!
-87|We'll escape to the sea bottom!
-88|Take a deep breath, guys!
-89|Let's go!
-90|Oh, no... The current is too fast!
-91|We can't surface!
-92|Somebody, help!
-93|Why am I in the water?! What's going on?!
-94|Hang in there, Robin-chan!
-95|Nami-san!
-96|Gee... If nothing is done, we'll all...
-97|...die...
-98|NAVAL BRANCH G-14
-99|All right, everyone!
-100|TASHIGI, NAVY HQ CAPTAIN
-101|It's time for your medication!
-102|One cup each! You can drink it!
-103|I'm drinking it for you, Tashigi-chan!
-104|Mm-hm! Thank you!
-105|--Guys, drink it all up! --It tastes strange!
-106|I don't want it because it's tastes terrible!
-107|But let's try to drink it!
-108|Do I have to drink it all?
-109|Yeah, to return to your original size.
-110|I wanna return faster, so I'll drink two!
-111|Tashigi-chan!
-112|I think I have shrunk quite a bit!
-113|Mm-hm! You've changed a lot, Mocha!
-114|I can't wait to go home!
-115|Yeah, be patient just a little longer.
-116|Mm-hm!
-117|Then I'll go see those big brothers and sisters!
-118|These slightly larger children were once...
-119|...kidnapped by Caesar Clown, an infamous scientist,
-120|and were experimentally giganticized at a lab on Punk Hazard.
-121|Luffy allied with Trafalgar Law who happened to be there,
-122|and beat Caesar.
-123|The rescued children...
-124|...were taken care of by the Navy under Tashigi's watch,
-125|and are currently undergoing treatment here in order to return to their original size.
-126|I wonder how they are doing.
-127|Like Chopper-chan!
-128|Mm-hm. I hope you can see them soon.
-129|Everyone, let's hang tough!
-130|Tashigi!
-131|Vice Admiral Doll!
-132|Can I steal you for a sec?
-133|VICE ADMIRAL DOLL NAVAL BRANCH G-14 BASE COMMANDER
-134|Could you do something about that annoying brat, Helmeppo?
-135|There's...
-136|...nothing I can do.
-137|His best friend's fate is unknown.
-138|I understand that, but...
-139|Captain Koby is a dear junior colleague to me, too...
-140|I'm begging you guys!
-141|We're comrades! Please!
-142|HIBARI - NAVY HQ COMMANDER HELMEPPO - NAVY HQ LIEUTENANT COMMANDER
-143|I'm beggin' you, too!
-144|Koby-senpai has been so good to me!
-145|PRINCE GRUS - NAVY HQ REAR ADMIRAL
-146|Please come with us to the Pirate Island!
-147|"Prince"!
-148|Please! We alone can't...
-149|We alone can't possibly...
-150|...save him!
-151|CAPTAIN KOBY
-152|Please, "Prince"!
-153|I'm begging you!
-154|Stop that and raise your head.
-155|Please! I won't move an inch until you help us!
-156|It's the Pirate Island where Koby had been taken!
-157|The Emperor of the Sea Blackbeard's home turf!
-158|You know that, right?!
-159|If you poke that island even a little,
-160|bloodthirsty pirates will swarm out and shoot you up like bees!
-161|PIRATE ISLAND OF FULLALEAD
-162|That's why it's also known as the Beehive!
-163|It's not a place we can screw with that easily.
-164|I know! That's why I'm asking for your help!
-165|Please!
-166|You guys...
-167|Egghead is close to here!
-168|Let's take the Seraphim!
-169|The Seraphim?! Are you out of your mind?!
-170|Calm down a little!
-171|We can't contact Drake now, either...
-172|There's nothing we can do!
-173|You must understand.
-174|Koby!
-175|What?!
-176|LUFFY'S GROUP
-177|Don't you know who I am?!
-178|Yeah, I don't know.
-179|I've been called the Worst Generation along with you and the others!
-180|Oh, you're one of the worst, too?!
-181|You damn fool!
-182|I was there at Sabaody too, two years ago!
-183|I'm Bonney!
-184|I'm your enemy! Don't forget!
-185|But you saved me...
-186|Thanks for that.
-187|Don't mention it, Bogey!
-188|It's Bonney!
-189|What the...
-190|That's cold!
-191|I'm invincible with my woven hat!
-192|I won't lose either, Chopper!
-193|He's an Emperor of the Sea?
-194|I don't get it.
-195|"First Son of the Sea" Jimbei is really with them, too...
-196|Oh yeah, what's wrong with that wanted poster?
-197|I thought your hair turned white. The newspapers were making a fuss about it.
-198|Oh, that's...
-199|...just how I look when I'm free!
-200|What the hell?
-201|What happened to your friends?
-202|They should be fine.
-203|What happened to your ship and friends?
-204|I came here alone.
-205|That iron monster ate my ship.
-206|Screw that thing!
-207|That's terrible...
-208|Yeah! I'm getting hungry.
-209|I'm hungry, too!
-210|Let's find a restaurant.
-211|I'm hungry, too!
-212|But, Luffy, do you have any money?
-213|Hey, you ignorant fools! There's no restaurant here!
-214|This island belongs to the Government.
-215|I'll fill you in.
-216|The name of this island is Egghead!
-217|It houses Dr. Vegapunk's lab and it is said to be "500 years in the future"!
-218|Vegapunk! I know that name!
-219|I have business with...
-220|...that guy!
-221|Everyone! Are you all right?!
-222|Is the Sunny okay?
-223|A... A...
-224|A giant robot!
-225|Who is operating this?
-226|Someone's coming out!
-227|It's no good...
-228|I failed again.
-229|Why can't I control living things' primal urges?!
-230|Boy, it troubles me...
-231|I don't know who you are but thank you!
-232|You saved us!
-233|I only ordered the Mecha-Shark...
-234|...to scout, report, and fire.
-235|If it eats them, their money and goods will be gone too.
-236|It must be a programming glitch.
-237|Now...
-238|Who said anything about rescuing you pirates?!
-239|I'm only a genius scientist working for the Government!
-240|I'm Dr. Vegapunk!
-241|What?!
-242|How far I have run
-243|Without knowing it, I counted scars
-244|A treasure map in my head all along
-245|Still looking for the future
-246|The real promise
-247|Lies much deeper in my heart
-248|A dream that no one can catch up with
-249|That's all I hold on to
-250|To you who smiles like the sun
-251|I'll sing the same song as that day
-252|This wish I don't want to forget even when I grow up
-253|Until it reaches you
-254|Robin, I can't wait to learn as always!
-255|Information can be a strong weapon. Let's keep learning!
-256|Yeah! Today we'll learn about this one! Jewelry Bonney!
-257|Her bounty is 320 million berries.
-258|She is the captain of the Bonney Pirates and her nickname is Glutton.
-259|She sure is eating a lot there!
-260|She was born on September 1st and her favorite food is pizza.
-261|She is a rookie pirate who made her name around the same time as us.
-262|At that time, those pirates were called Supernovas, now called the Worst Generation.
-263|So she is in the same generation as us and Tra-guy!
-264|After the Paramount War,
-265|she was defeated by the Blackbeard Pirates and detained by the Navy at one point,
-266|but she escaped and snuck into Sacred Marijoa.
-267|I'll never forgive them!
-268|Ever!
-269|And she met us this time on Egghead!
-270|Looks like she has an ability to manipulate the ages of herself and others.
-271|Seems like she knows Vegapunk, but what exactly is their relationship?
-272|That's it for this week! See you next time!
-273|Bye!
-274|They finally reached Egghead, an island housing Vegapunk.
-275|Fish fly in the sky and a giant monster and robot fight!
-276|Urban landscapes with the best of technology abound!
-277|An unknown world full of dreams attracts the excited Luffy.
-278|"Brimming with the Future! An Adventure on the Island of Science!"
+1|I saw something unbelievable...
+2|...at Marijoa!
+3|Sabo tried to contact the Revolutionary Army from the Kingdom of Lulusia, however...
+4|Meanwhile, Luffy and the others set out on a new quest,
+5|and ran into a mysterious girl on the sea.
+6|It's still there!
+7|Down!
+8|Look down!
+9|"A New Island! Future Island Egghead"
+10|What's going on?!
+11|Go away!
+12|--Oh god! Oh god! Oh god! --What's going on?!
+13|Help!
+14|This area isn't safe!
+15|Get us out of here!
+16|Is this it for us?!
+17|Jimbei! Hurry up!
+18|Jimbei! Get us out of here!
+19|Hold on!
+20|Hurry!
+21|What's that?!
+22|It's not an ordinary shark!
+23|It's too big and made of iron?!
+24|Hold on tight! We'll land on the water!
+25|Oh, no! Luffy and the others fell into the sea!
+26|This is no good!
+27|Franky!
+28|Take the helm!
+29|Bring the ship around to us!
+30|All right! Count on me!
+31|Luffy!
+32|Chopper!
+33|Where are you?!
+34|There they are!
+35|I said "Count on me"...
+36|...but how can I find them in this rough sea?!
+37|Well, I've just gotta find a way!
+38|Let's go, Sunny!
+39|Ship's Bottom...
+40|...Rabbit...
+41|...Screw!
+42|SHIP'S BOTTOM, RABBIT SCREW
+43|All right! Let's save Luffy and the others!
+44|Luffy! Chopper!
+45|Where are you?!
+46|Franky! Get us out of here!
+47|Torpedoes!
+48|Robin-chan! Nami-san!
+49|Oh, no!
+50|It's gonna capsize!
+51|What was that explosion?
+52|Luffy! Chopper!
+53|I'm here! You'll be fine!
+54|Hey, you three! Stay with me!
+55|We'll surface!
+56|The current is strong! It's not navigable!
+57|Is the Sunny okay?!
+58|Thank you, Jimbei...
+59|Oh, Luffy! You're okay!
+60|I'm still alive...
+61|I think I saw heaven...
+62|I'm glad that all of you are okay!
+63|The Sunny will be here soon!
+64|That's...
+65|What's the matter, Jimbei?
+66|Hold on tight!
+67|We'll escape to the sea bottom!
+68|Take a deep breath, guys!
+69|Let's go!
+70|Oh, no... The current is too fast!
+71|We can't surface!
+72|Somebody, help!
+73|Why am I in the water?! What's going on?!
+74|Hang in there, Robin-chan!
+75|Nami-san!
+76|Gee... If nothing is done, we'll all...
+77|...die...
+78|NAVAL BRANCH G-14
+79|All right, everyone!
+80|TASHIGI, NAVY HQ CAPTAIN
+81|It's time for your medication!
+82|One cup each! You can drink it!
+83|I'm drinking it for you, Tashigi-chan!
+84|Mm-hm! Thank you!
+85|--Guys, drink it all up! --It tastes strange!
+86|I don't want it because it's tastes terrible!
+87|But let's try to drink it!
+88|Do I have to drink it all?
+89|Yeah, to return to your original size.
+90|I wanna return faster, so I'll drink two!
+91|Tashigi-chan!
+92|I think I have shrunk quite a bit!
+93|Mm-hm! You've changed a lot, Mocha!
+94|I can't wait to go home!
+95|Yeah, be patient just a little longer.
+96|Mm-hm!
+97|Then I'll go see those big brothers and sisters!
+98|These slightly larger children were once...
+99|...kidnapped by Caesar Clown, an infamous scientist,
+100|and were experimentally giganticized at a lab on Punk Hazard.
+101|Luffy allied with Trafalgar Law who happened to be there,
+102|and beat Caesar.
+103|The rescued children...
+104|...were taken care of by the Navy under Tashigi's watch,
+105|and are currently undergoing treatment here in order to return to their original size.
+106|I wonder how they are doing.
+107|Like Chopper-chan!
+108|Mm-hm. I hope you can see them soon.
+109|Everyone, let's hang tough!
+110|Tashigi!
+111|Vice Admiral Doll!
+112|Can I steal you for a sec?
+113|VICE ADMIRAL DOLL NAVAL BRANCH G-14 BASE COMMANDER
+114|Could you do something about that annoying brat, Helmeppo?
+115|There's...
+116|...nothing I can do.
+117|His best friend's fate is unknown.
+118|I understand that, but...
+119|Captain Koby is a dear junior colleague to me, too...
+120|I'm begging you guys!
+121|We're comrades! Please!
+122|HIBARI - NAVY HQ COMMANDER HELMEPPO - NAVY HQ LIEUTENANT COMMANDER
+123|I'm beggin' you, too!
+124|Koby-senpai has been so good to me!
+125|PRINCE GRUS - NAVY HQ REAR ADMIRAL
+126|Please come with us to the Pirate Island!
+127|"Prince"!
+128|Please! We alone can't...
+129|We alone can't possibly...
+130|...save him!
+131|CAPTAIN KOBY
+132|Please, "Prince"!
+133|I'm begging you!
+134|Stop that and raise your head.
+135|Please! I won't move an inch until you help us!
+136|It's the Pirate Island where Koby had been taken!
+137|The Emperor of the Sea Blackbeard's home turf!
+138|You know that, right?!
+139|If you poke that island even a little,
+140|bloodthirsty pirates will swarm out and shoot you up like bees!
+141|PIRATE ISLAND OF FULLALEAD
+142|That's why it's also known as the Beehive!
+143|It's not a place we can screw with that easily.
+144|I know! That's why I'm asking for your help!
+145|Please!
+146|You guys...
+147|Egghead is close to here!
+148|Let's take the Seraphim!
+149|The Seraphim?! Are you out of your mind?!
+150|Calm down a little!
+151|We can't contact Drake now, either...
+152|There's nothing we can do!
+153|You must understand.
+154|Koby!
+155|What?!
+156|LUFFY'S GROUP
+157|Don't you know who I am?!
+158|Yeah, I don't know.
+159|I've been called the Worst Generation along with you and the others!
+160|Oh, you're one of the worst, too?!
+161|You damn fool!
+162|I was there at Sabaody too, two years ago!
+163|I'm Bonney!
+164|I'm your enemy! Don't forget!
+165|But you saved me...
+166|Thanks for that.
+167|Don't mention it, Bogey!
+168|It's Bonney!
+169|What the...
+170|That's cold!
+171|I'm invincible with my woven hat!
+172|I won't lose either, Chopper!
+173|He's an Emperor of the Sea?
+174|I don't get it.
+175|"First Son of the Sea" Jimbei is really with them, too...
+176|Oh yeah, what's wrong with that wanted poster?
+177|I thought your hair turned white. The newspapers were making a fuss about it.
+178|Oh, that's...
+179|...just how I look when I'm free!
+180|What the hell?
+181|What happened to your friends?
+182|They should be fine.
+183|What happened to your ship and friends?
+184|I came here alone.
+185|That iron monster ate my ship.
+186|Screw that thing!
+187|That's terrible...
+188|Yeah! I'm getting hungry.
+189|I'm hungry, too!
+190|Let's find a restaurant.
+191|I'm hungry, too!
+192|But, Luffy, do you have any money?
+193|Hey, you ignorant fools! There's no restaurant here!
+194|This island belongs to the Government.
+195|I'll fill you in.
+196|The name of this island is Egghead!
+197|It houses Dr. Vegapunk's lab and it is said to be "500 years in the future"!
+198|Vegapunk! I know that name!
+199|I have business with...
+200|...that guy!
+201|Everyone! Are you all right?!
+202|Is the Sunny okay?
+203|A... A...
+204|A giant robot!
+205|Who is operating this?
+206|Someone's coming out!
+207|It's no good...
+208|I failed again.
+209|Why can't I control living things' primal urges?!
+210|Boy, it troubles me...
+211|I don't know who you are but thank you!
+212|You saved us!
+213|I only ordered the Mecha-Shark...
+214|...to scout, report, and fire.
+215|If it eats them, their money and goods will be gone too.
+216|It must be a programming glitch.
+217|Now...
+218|Who said anything about rescuing you pirates?!
+219|I'm only a genius scientist working for the Government!
+220|I'm Dr. Vegapunk!
+221|What?!
+222|Robin, I can't wait to learn as always!
+223|Information can be a strong weapon. Let's keep learning!
+224|Yeah! Today we'll learn about this one! Jewelry Bonney!
+225|Her bounty is 320 million berries.
+226|She is the captain of the Bonney Pirates and her nickname is Glutton.
+227|She sure is eating a lot there!
+228|She was born on September 1st and her favorite food is pizza.
+229|She is a rookie pirate who made her name around the same time as us.
+230|At that time, those pirates were called Supernovas, now called the Worst Generation.
+231|So she is in the same generation as us and Tra-guy!
+232|After the Paramount War,
+233|she was defeated by the Blackbeard Pirates and detained by the Navy at one point,
+234|but she escaped and snuck into Sacred Marijoa.
+235|I'll never forgive them!
+236|Ever!
+237|And she met us this time on Egghead!
+238|Looks like she has an ability to manipulate the ages of herself and others.
+239|Seems like she knows Vegapunk, but what exactly is their relationship?
+240|That's it for this week! See you next time!
+241|Bye!
+242|They finally reached Egghead, an island housing Vegapunk.
+243|Fish fly in the sky and a giant monster and robot fight!
+244|Urban landscapes with the best of technology abound!
+245|An unknown world full of dreams attracts the excited Luffy.
+246|"Brimming with the Future! An Adventure on the Island of Science!"

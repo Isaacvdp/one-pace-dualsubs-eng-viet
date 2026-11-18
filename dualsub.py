@@ -155,12 +155,18 @@ def translatable(lines):
     styles_at = {}
     for f in dialogue.values():
         styles_at.setdefault((f[1], f[2]), set()).add(f[3].strip().lower())
+    # The opening and ending songs aren't translated at all: their English lyrics are the lines
+    # sung at the same moment as a romaji line, in the first or last four minutes.
+    sung = {(f[1], f[2]) for f in dialogue.values() if is_romaji(f, styles_at)}
+    end = max((seconds(f[2]) for f in dialogue.values()), default=0)
+    theme = {t for t in sung if seconds(t[0]) < 240 or seconds(t[0]) > end - 240}
     out = []
     for i, f in dialogue.items():
         text = plain_text(f[9])
         # Events shorter than 0.25s are frame-by-frame animated typesetting, not dialogue.
         if (DIALOGUE_STYLES.match(f[3].strip()) and text and r"\p1" not in f[9]
-                and seconds(f[2]) - seconds(f[1]) >= 0.25 and not is_romaji(f, styles_at)):
+                and seconds(f[2]) - seconds(f[1]) >= 0.25 and not is_romaji(f, styles_at)
+                and (f[1], f[2]) not in theme):
             out.append((i, text))
     return out
 
