@@ -1,0 +1,251 @@
+1|CP-0, kẻ nhắm vào mạng sống Vegapunk...
+2|...đã chặn mọi đường thoát có thể trên Egghead.
+3|Giờ ta nên làm gì?
+4|Không, không, không!
+5|Ừ, cậu nói đúng.
+6|Gì?
+7|"Hãy trả bố tôi về! Điều ước vô vọng của Bonney!"
+8|Giờ thì tôi hiểu.
+9|Phá nó đi.
+10|Cứ giao cho tôi.
+11|Tôi sẽ phá nó bằng một đòn!
+12|Tôi rửa bát xong rồi.
+13|Vẫn còn thời gian nên có lẽ tôi lau boong tàu luôn.
+14|Không biết tiếng chuông báo động nãy giờ là gì nhỉ.
+15|Tempest Kick!
+16|Sky Slicer!
+17|Chuyện gì vậy?!
+18|Gì?
+19|Vụ nổ đó là gì?!
+20|Ai phá giấc ngủ của tôi?
+21|Chúng là ai?!
+22|Ồ, có người canh tàu.
+23|Roronoa!
+24|Ngươi là...
+25|Nhưng kiếm thuật của tôi là số một CP9.
+26|Đừng coi thường tôi.
+27|Ngươi cứng thật. Tôi sững sờ luôn.
+28|Tao đã rèn luyện cơ thể, đồ khốn hươ-ơ-ơ-u cao cổ!
+29|Hươ-ơ-ơ-u cao cổ? Tôi là hươu cao cổ!
+30|Hươ-ơ-ơ-u cao cổ.
+31|Sai rồi!
+32|Sky Slicer!
+33|Ngươi là tên Hươ-ơ-ơ-u cao cổ của Cipher Pol mà ta gặp hồi trước.
+34|Tôi không phải Hươ-ơ-ơ-u cao cổ! Tôi là hươu cao cổ!
+35|Để tôi lo tên này.
+36|Tôi không biết các người đến đây làm gì,
+37|nhưng nếu định phá tàu bọn tôi...
+38|Thì tôi phải chém các người.
+39|Lại đây!
+40|Frontier Dome đã kích hoạt.
+41|Frontier Dome đã kích hoạt.
+42|Shaka!
+43|Frontier Dome đã phục hồi, nhưng CP-0 đã vào rồi.
+44|Ôi không! Muộn rồi!
+45|Chúng đang định phá tàu của Mũ Rơm.
+46|Ừ.
+47|Những người canh tàu đang chống trả!
+48|Phải yểm trợ họ, không thì mất phương tiện thoát thân!
+49|Thấy chưa?! Rốt cuộc vẫn phải đánh!
+50|Phải phục kích CP-0!
+51|Bình tĩnh. Tôi không muốn cô mất kiểm soát.
+52|Con Bonney đáng ghét! Nó đi đâu rồi?
+53|Tệ rồi. Ta mất dấu cô ấy hoàn toàn.
+54|Tiếng chuông báo động nãy giờ là gì vậy?
+55|Tôi có linh cảm xấu.
+56|Này! Các cậu!
+57|Gì?
+58|Luffy! Chopper!
+59|Jimbei!
+60|Các cậu cũng ở đây à!
+61|Mừng là ta gặp được nhau.
+62|Này! Ở đây có cả đống thứ ngầu lắm!
+63|Như robot!
+64|Ừ, bọn tôi biết! Bọn tôi đã xem các cậu trên màn hình.
+65|Cả lúc các cậu đánh nhau với Cipher Pol.
+66|Hơn nữa, bọn tôi nghe nói sẽ có Vegapunk lên tàu.
+67|Gì? Các cậu nghe rồi à?
+68|Bọn tôi biết hết rồi!
+69|Mau rời đảo cùng Vegapunk và mọi người thôi!
+70|Gì?! Đi rồi à?
+71|Bọn tôi vừa tới đảo! Ở thêm chút đi.
+72|Bọn tôi cũng muốn! Nhưng đây vốn là đảo của Chính phủ mà!
+73|Cậu thấy Rob Lucci rồi chứ?!
+74|Bên ngoài đang có chuyện.
+75|Chắc chắn Cipher Pol sẽ sớm tới, nên không được lãng phí thời gian.
+76|Nhưng...
+77|Các cậu có thấy Bonney không?
+78|Một nữ hải tặc tóc dài.
+79|Có phải người cậu ở cùng dưới chỗ robot không?
+80|Cô ấy định giết Vegapunk.
+81|Gì?!
+82|Tại sao?
+83|Nhắc mới nhớ, Vegapunk đâu?
+84|Ồ đúng, tôi chưa thấy ông ấy.
+85|Từ bao giờ?
+86|Sao ông ấy tự đi đâu đó mà không nói? Lão già này!
+87|Haizz! Lúc này mà đi đâu chứ?!
+88|Mong là ông ấy chưa bị Bonney giết.
+89|Không biết ông ấy có sao không...
+90|Vegapunk!
+91|Đồ khốn!
+92|Vegapunk!
+93|Đừng chạy nữa!
+94|Dừng lại, Bonney! Tôi không có thời gian cho chuyện này!
+95|Nhưng tôi muốn nói chuyện với ông! Nghe tôi trước đã!
+96|Im đi!
+97|Dừng lại, Bonney!
+98|Khoan đã, đồ khốn!
+99|Điều tôi muốn nghe...
+100|...là ông có biến bố tôi trở lại được hay không!
+101|Tôi chỉ cần câu trả lời có hay không!
+102|Tôi... không thể làm vậy.
+103|Tôi xin lỗi.
+104|Vậy thì...
+105|Tôi chỉ còn cách giết ông!
+106|Nhưng có lý do mà!
+107|Chết tiệt!
+108|Gì?
+109|Bonney.
+110|Dù thế giới không chấp nhận,
+111|cô bé vẫn được sinh ra.
+112|Cô bé chắc chắn là con người.
+113|Đã thành công.
+114|Tôi chắc rằng...
+115|...đây là bước đầu tuyệt vời hướng tới hòa bình cho thế giới.
+116|Tiến sĩ Vegapunk, giám đốc MADS, Phòng Thí nghiệm Hòa bình.
+117|Đau quá!
+118|Hình như tôi gãy xương rồi.
+119|B-Bonney.
+120|Tôi không đứng dậy nổi.
+121|Ôi không!
+122|Cô ổn không?! Tôi phải gọi đội y tế!
+123|Bonney bị thương rồi!
+124|Distorted Future!
+125|Vegapunk!
+126|Gì?!
+127|Tôi bị lừa rồi!
+128|Đừng chạy nữa!
+129|Đừng, Bonney!
+130|Dù cô có giết tôi...
+131|Age Skewer!
+132|Ông không chạy được nữa đâu.
+133|Chết tiệt...
+134|Những thứ lấp lánh này là những năm tháng tôi đã mất, đúng không?!
+135|Sao ông dám biến tôi thành đứa trẻ bất lực?!
+136|Trả lại những năm tháng rực rỡ của đời tôi!
+137|Đừng lo.
+138|Năng lực của tôi không ảnh hưởng vĩnh viễn đến sinh vật sống.
+139|Ông nói là có lý do!
+140|Vậy nói đi.
+141|Tại sao... ông giết bố tôi?!
+142|Nhưng nếu tôi nói, Bonney...
+143|nó sẽ... chỉ làm cô đau lòng.
+144|Vì vậy...
+145|tôi đã hứa với Kuma...
+146|CẢNG ĐỎ
+147|Kuma bắt đầu leo Red Line!
+148|Không đời nào hắn lên được đỉnh!
+149|Tôi đã hứa với anh ấy là sẽ không bao giờ nói lý do cho cô...
+150|Ông có lý do để giết bố tôi mà không nói được ư?!
+151|Ông tưởng tôi ngu à?!
+152|Đồ chết tiệt!
+153|Tôi không nghĩ... cô ngu!
+154|Buông tôi ra!
+155|Quyết định từ bỏ tính người...
+156|...là của chính anh ấy, không phải ai khác!
+157|Ông nói dối!
+158|Không đời nào bố bỏ tôi lại mà đi chết!
+159|Ông đã giết bố!
+160|Tôi cũng đau khổ lắm! Tôi còn không muốn nhớ lại!
+161|Kuma là người đáng kính!
+162|Tôi tự hào gọi anh ấy là bạn!
+163|Tôi rất quý anh ấy!
+164|Nên xin hãy hiểu cho tôi, Bonney!
+165|Tôi không thể nói gì cả!
+166|Không, nói cho tôi biết!
+167|Làm sao tôi tin được lời bao biện ích kỷ như vậy?
+168|Ông đang lạm dụng tôi!
+169|Xin hãy dừng lại!
+170|Gì?
+171|Cái đó thì... ừm...
+172|Không có gì. Khoan, Bonney!
+173|Chuyện này không liên quan gì đến Kuma!
+174|Dừng lại! Này, đừng đi đến đó!
+175|Có vẻ là có liên quan.
+176|Oiled Shock.
+177|Không, Bonney!
+178|Con cá to khác thường!
+179|Có vẻ đây không phải vùng biển bình thường.
+180|Tôi phấn khích quá.
+181|Đó là một hòn đảo à?
+182|Nhóc, dậy đi!
+183|Sắp đến một hòn đảo. Ta có cập bến không?
+184|Sao lại hỏi vậy?
+185|Giờ không còn hòn đảo nào ta ngại cập bến!
+186|Này, cái gì kia?
+187|Tôi đoán đó là quê hương của người khổng lồ!
+188|Là Elbaph!
+189|Elbaph...
+190|CHI NHÁNH HẢI QUÂN G-14
+191|Tha cho tôi đi, Phó Đô đốc Garp!
+192|Chúng tôi sắp lên đường đến Egghead.
+193|Đừng lấy bớt quân của tôi!
+194|Đừng căng thẳng thế, Doll.
+195|Sao ông lại cười?!
+196|Hơn nữa, nếu định tấn công đảo do một Tứ Hoàng chiếm giữ,
+197|ông đã xin phép...
+198|...cấp trên chưa?!
+199|Gì? Sao tôi cần xin?
+200|Ông làm Hải Quân mấy chục năm mà không biết điều đó à?
+201|Đừng lo.
+202|Ta đã ở đây rồi.
+203|"Ở đây"?!
+204|Tôi nên làm gì đây?
+205|Tiền bối Koby...
+206|Helmeppo!
+207|Ra đây!
+208|Gì vậy?
+209|Hải tặc à?!
+210|Họ gọi Helmeppo ra để giết riêng cậu ấy sao?!
+211|Không! Đó là...
+212|CÔNG LÝ
+213|Helmeppo! Cậu đây rồi!
+214|Phó Đô đốc Garp!
+215|Tôi muốn gặp ngài!
+216|Koby... Cậu ấy bị Râu Đen bắt...
+217|Tôi không làm được gì cả!
+218|Đừng khóc! Thật thảm hại!
+219|Phó Đô đốc Garp!
+220|Vậy thì...
+221|...lên tàu đi!
+222|Chúng ta sẽ đến Đảo Hải Tặc Beehive...
+223|...đánh bọn hải tặc một trận ra trò
+224|và giải cứu...
+225|...Đại tá Koby!
+226|Phó Đô đốc Garp!
+227|Hôm nay ta giới thiệu người này! Eustass "Captain" Kid!
+228|Cậu là thuyền trưởng băng Kid và là hải tặc thuộc Thế hệ Tồi tệ nhất.
+229|Tiền truy nã bằng Mũ Rơm, 3 tỷ beri.
+230|Cậu dùng năng lực Trái Từ Tính
+231|giúp điều khiển kim loại bằng lực từ.
+232|Cậu sinh ngày 10 tháng 1 và thích cải bắp cuốn.
+233|Nói thêm, món cậu ghét nhất là mì udon cà ri.
+234|Băng Kid hiếu chiến nhanh chóng nổi danh ngay cả ở Tân Thế Giới.
+235|Họ táo bạo thách thức các Tứ Hoàng, băng Tóc Đỏ và băng Big Mom!
+236|Khi đó cậu liên minh với Basil Hawkins và Scratchmen Apoo.
+237|Nhưng bị họ phản bội, bị Kaido bắt và giam ở Wano Quốc.
+238|Cậu trốn thoát, nhưng lại cố cứu Killer, bạn thời thơ ấu và đồng đội,
+239|nên cuối cùng bị tra tấn các kiểu.
+240|Sau khi bằng cách nào đó tự giải thoát, cậu cùng Trafalgar Law đối đầu Big Mom.
+241|Và sau cuộc chiến ác liệt, họ cuối cùng đã đánh bại Tứ Hoàng!
+242|Để ta giúp ngươi...
+243|...xuống địa ngục!
+244|Giờ Kid có tiền truy nã ngang Luffy!
+245|Tôi nóng lòng xem những trận quậy phá sắp tới của cậu!
+246|Hẹn gặp lại lần sau!
+247|CP-0 giáng xuống Labophase với lực lượng áp đảo!
+248|Seraphim bắn tia laser không thương tiếc!
+249|Liệu tia sáng đó có hoàn thành vụ ám sát Vegapunk?
+250|Phòng thí nghiệm sắp bị phá hủy. Băng Mũ Rơm hết đường rồi sao?!
+251|"Tình thế tuyệt vọng! Đòn tấn công toàn lực của Seraphim!"

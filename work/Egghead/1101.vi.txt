@@ -1,0 +1,180 @@
+1|"Hình Thái Mạnh Nhất Của Nhân Loại! Sức Mạnh Của Seraphim!"
+2|CÔNG LÝ
+3|Rìu!
+4|Xin lỗi!
+5|Lẽ ra tôi không nên nói chuyện với anh!
+6|Đồ ngốc...
+7|Đừng coi thường tao...
+8|Tao đã nhận ra rồi và...
+9|Đồ khốn!
+10|Tôi tưởng...
+11|...mình đã tự vệ được...
+12|Dai dẳng thật...
+13|Ngất đi cho rồi!
+14|Vì cấp quyền hạn của ngươi cao hơn bọn ta, khi ngươi còn tỉnh,
+15|bọn ta không thể điều khiển Seraphim!
+16|Gomu Gomu...
+17|...Dawn...
+18|...Whip!
+19|Lucci!
+20|Gì cơ?!
+21|Cơ hội đây rồi!
+22|Luffy, nhanh lên!
+23|Nếu muốn cứu cô bé này, ta phải đi gặp Vegapunk!
+24|Tôi cũng muốn thế, nhưng...
+25|Tôi không dừng lại được!
+26|Đừng có đùa nữa! Đi thôi!
+27|Gì cơ?!
+28|Cậu đi đâu vậy, Luffy?!
+29|Tôi xoay nhiều quá!
+30|Quay lại đi!
+31|Vào trong nhà máy!
+32|Seraphim không thể cản nổi! Đánh nhau với nhau chẳng được gì cả.
+33|Chúng vẫn còn là trẻ con. Tôi sợ khi tưởng tượng chúng sẽ ra sao khi lớn lên.
+34|Sentomaru...
+35|Này, Vegapunk!
+36|Có chuyện gì vậy?
+37|Chính sức mạnh đó là vấn đề!
+38|Sức mạnh mà thằng nhóc Jimbei đang dùng!
+39|Chẳng phải đó là sức mạnh Trái Bơi Bơi sao?!
+40|Trái Bơi Bơi?
+41|Đúng vậy!
+42|Đó là sức mạnh của anh em kết nghĩa của tôi trong gia tộc Donquixote...
+43|...Senor Pink!
+44|Trên đời này không thể có hai Trái giống nhau!
+45|Vậy nghĩa là ông ấy đã chết?!
+46|Anh em tôi ơi!
+47|Cậu nhận ra rồi.
+48|Hiện ông ấy đang bị giam ở Impel Down.
+49|Vậy là ông ấy còn sống?!
+50|Trời! Đừng làm tôi lo chứ!
+51|Vậy thì...
+52|...ông đã nhân bản Trái Ác Quỷ ư?!
+53|Đúng vậy. Trái Ác Quỷ...
+54|...có thể được tạo nhân tạo, nhưng chỉ hệ Zoan!
+55|Chà, các Trái SMILE của Caesar thật nhảm nhí...
+56|Ừ, hắn xuống địa ngục đi.
+57|Trái SMILE quá rủi ro.
+58|Ăn vào, nhiều nhất chỉ một trong mười người có được sức mạnh.
+59|Những người không nhận được sức mạnh sẽ phải cười suốt...
+60|Thật khủng khiếp.
+61|Caesar...
+62|Chỉ nghe cái tên đó là tôi muốn ói.
+63|Thôi, gác chuyện đó sang một bên...
+64|Có lẽ ngay cả các Trái đặc biệt cũng đều có thể tái tạo...
+65|...nếu có thật nhiều tiền và thời gian!
+66|Dù tôi không chắc chúng có thức tỉnh không!
+67|Tôi đã làm hết sức để tái tạo hệ Logia, nhưng không thể...
+68|Nhưng...
+69|...với hệ Paramythia, tôi phát hiện nếu lấy được Yếu tố Huyết thống của người dùng,
+70|tôi có thể tạo ra loại máu truyền đặc biệt và khi truyền vào,
+71|tôi có thể cho người khác sức mạnh đó!
+72|Đó là...
+73|...dòng máu chảy trong cánh tay họ!
+74|Máu Xanh!
+75|Ông đã tạo ra máu ư?!
+76|Love-Love...
+77|...Mellow!
+78|Theo suy luận của tôi, Seraphim là đỉnh cao mà khoa học của chúng tôi đạt được!
+79|Ursa Shock!
+80|Có thể nói chúng là...
+81|...hình thái mạnh nhất của nhân loại trong lịch sử thế giới!
+82|Hình thái mạnh nhất của nhân loại ư?!
+83|Có phải vì thế mà Thất Vũ Hải bị bãi bỏ không?!
+84|Sao dám tạo ra thứ mạnh hơn Thất Vũ Hải! Chết tiệt!
+85|Về cơ bản chúng là vũ khí của Hải Quân...
+86|Ừ.
+87|Chúng là mối đe dọa với chúng ta.
+88|Sentomaru-sama!
+89|Tránh ra!
+90|Hắn vẫn còn...
+91|Chạy đi, Sentomaru-sama!
+92|Gã bạn ngớ ngẩn của cậu đâu rồi?
+93|Tôi không biết!
+94|Và hắn không phải bạn tôi!
+95|Im đi, đồ phản bội!
+96|Shave!
+97|Mũ Rơm!
+98|Phiền phức thật!
+99|Gomu Gomu...
+100|...Dawn...
+101|...Rocket!
+102|Hắn mạnh cỡ nào vậy?!
+103|Tôi có thể...
+104|...sắp ngất rồi!
+105|Lối này! Nhanh lên!
+106|Chậm quá!
+107|Sao mất nhiều thời gian vậy?
+108|Đó là Vacuum Rocket!
+109|Lên ngay đi!
+110|Ồ, cảm ơn!
+111|Cậu là một Hancock tốt bụng!
+112|Cảm ơn!
+113|Cậu giúp bọn tôi nhiều lắm!
+114|Đ-Đừng có vô lễ!
+115|Tôi chỉ làm theo lệnh!
+116|Chúng ta sẽ khởi hành sau một phút.
+117|Này! Luffy!
+118|Nhanh lên!
+119|Chết rồi!
+120|Xin đừng chen lấn lên tên lửa.
+121|Mũ Rơm!
+122|Rìu!
+123|Tôi giao Ông Già Punk cho cậu!
+124|Được! Cứ để tôi!
+125|Không! Cậu đang đi ngược hướng!
+126|Cửa sắp đóng. Xin hãy cẩn thận.
+127|Bọn tôi sẽ đưa ông ấy rời khỏi đảo...
+128|...bằng mọi giá!
+129|Xin đừng chen lấn...
+130|Vì an toàn của quý vị, xin hãy thắt dây an toàn.
+131|Tất cả động cơ đang chạy.
+132|Chúng tôi khởi hành.
+133|Tôi chưa từng đi thứ gì như...
+134|Cái này ghê thật!
+135|Tôi đang ở đâu?! Vegapunk đâu?!
+136|Tôi vẫn còn chiến đấu được...
+137|Gì cơ?! Cậu là ai?!
+138|Đó là Luffy! Có nhiều chuyện lắm! Tôi sẽ kể sau!
+139|Tôi không hiểu!
+140|Ồ, mình quen dần rồi sao? Không, nhanh quá!
+141|Im đi, bác sĩ tàu!
+142|Nhanh quá...
+143|Ngươi định như vậy đến bao giờ?! Mũ Rơm!
+144|Rời Fabriophase, hướng tới Labophase.
+145|Thời gian di chuyển...
+146|...là 32 giây.
+147|--Chúng ta đã đến. --Nhanh quá!
+148|Mọi chuyến tên lửa tiếp theo bị hủy.
+149|Labophase, Egghead.
+150|Frontier Dome đã được tăng cường.
+151|Có kẻ xâm nhập. Rất nguy hiểm.
+152|Các nhà nghiên cứu, xin hãy sơ tán vào nhà máy và phong tỏa tòa nhà.
+153|Bọn tôi sẽ đưa ông ấy rời khỏi đảo...
+154|...bằng mọi giá!
+155|Chào, tôi là Lilith, một trong các Vệ tinh của Tiến sĩ Vegapunk, nhà khoa học thiên tài!
+156|Hôm nay chúng ta sẽ giới thiệu người này! Senor Pink!
+157|Ông là cán bộ của gia tộc Donquixote và là người dùng Trái Bơi Bơi.
+158|Ông có thể bơi xuyên đất và tường, ở bất cứ đâu trừ biển!
+159|Trông ông lố bịch nhưng tính cách lại rất lạnh lùng bản lĩnh!
+160|Ông sinh ngày 12 tháng 6,
+161|và thích món nhà làm của vợ ông, Russian, và loại cocktail gọi là gimlet!
+162|Lạnh lùng bản lĩnh làm sao!
+163|Đừng trèo lên người ta nữa, lũ nhóc hư!
+164|SENOR PINK - CÁN BỘ GIA TỘC DONQUIXOTE (QUÂN DIAMANTE)
+165|Đi chơi với mấy cậu trẻ hơn đi!
+166|Ông là người sẵn sàng liều mạng bảo vệ bạn bè và cả những con mèo lạ!
+167|Cả ông lẫn Franky đều không nhường nhau một li trong trận đấu tay đôi.
+168|Cuối cùng Franky thắng,
+169|nhưng anh gọi Senor Pink là "anh em" và khen ông chiến đấu điêu luyện.
+170|Quá dữ dội!
+171|Nghe nói người này có quá khứ ẩn giấu,
+172|tôi nghĩ nhắc tới nó ở đây thì không hay.
+173|Tôi muốn một ngày nào đó tận mắt thấy tính cách lạnh lùng bản lĩnh của ông!
+174|Hẹn gặp lại lần sau!
+175|Frontier Dome đã được tăng cường 100 phần trăm!
+176|CP-0 âm mưu chiếm Labophase
+177|trong khi Vegapunk tìm cách thoát khỏi Đảo Tương Lai.
+178|Trong lúc mỗi bên theo đuổi mục tiêu riêng,
+179|một tai nạn xảy ra, thay đổi vận mệnh hòn đảo!
+180|"Âm Mưu Đen Tối! Chiến Dịch Thoát Khỏi Egghead"

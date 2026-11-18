@@ -1,0 +1,309 @@
+1|Một Tứ Hoàng, Kaido.
+2|Một Tứ Hoàng khác, Big Mom.
+3|Cả hai đã ngã xuống.
+4|Đó là bước ngoặt của thời đại.
+5|Và sự thức tỉnh đáng kinh ngạc của Luffy, người đã trở thành Tứ Hoàng...
+6|...đã làm rung chuyển thế giới.
+7|Thời đại đang bắt đầu thay đổi một cách to lớn và rõ rệt.
+8|Cuộc phiêu lưu của họ bước sang chặng tiếp theo.
+9|"Tứ Hoàng mới! Buggy, Gã Hề Thiên Tài!"
+10|Này!
+11|Anh không đủ tư cách làm thuyền trưởng!
+12|Tôi... tôi... tôi xin lỗi...
+13|Anh đã đặt cả thủy thủ đoàn vào nguy hiểm!
+14|Sao anh có thể ngốc như vậy hả?!
+15|Thôi, mọi người đều không sao, vậy cũng đủ rồi...
+16|Đừng nhẹ tay với hắn, Jimbei!
+17|S-Sắc Bá Vương sao?!
+18|Dừng lại đi, Boss!
+19|Đừng lại gần Nami đang nổi giận!
+20|Ồ, cậu sửa xong chưa?
+21|Ừ, hoàn hảo luôn!
+22|Cậu thấy con Sunny cứng cáp chưa?!
+23|Rơi từ độ cao đó xuống,
+24|mà chỉ hỏng có một mét!
+25|Tiếng gì thế?
+26|Chắc cậu vẫn còn sức mà thấy đói nhỉ!
+27|Robin-chan!
+28|Xin lỗi đã để em đợi!
+29|Cảm ơn!
+30|Yêu, yêu, yêu, yêu...
+31|Ồ!
+32|Lệnh truy nã của chúng ta.
+33|Lệnh truy nã á?!
+34|Cho tôi xem với!
+35|Robin-chan!
+36|Đại thuyền trưởng của Hạm đội Mũ Rơm với 5.600 thành viên,
+37|Tứ Hoàng Mũ Rơm Luffy, và chín cán bộ cấp cao...
+38|Thứ hạng tiền truy nã của họ ra sao rồi?
+39|Có tăng không?
+40|BÁC SĨ TÀU CHOPPER NGƯỜI YÊU KẸO BÔNG (THÚ CƯNG)
+41|Bác sĩ tàu, Chopper Người Yêu Kẹo Bông.
+42|"Thú cưng" trong ngoặc.
+43|TIỀN TRUY NÃ: 1.000 BERI (TĂNG 900 BERI)
+44|Tiền truy nã: 1.000 beri.
+45|Tăng 900 beri.
+46|Này! Có tăng nhưng mà...
+47|HOA TIÊU, MÈO TRỘM NAMI
+48|Hoa tiêu, Mèo Trộm Nami.
+49|Tiền truy nã: 366 triệu beri.
+50|TIỀN TRUY NÃ: 366 TRIỆU BERI
+51|Trên 100 triệu sao?! Ước gì tôi có số tiền đó!
+52|Ừ!
+53|Nhạc công, Vua Linh Hồn Brook.
+54|NHẠC CÔNG, VUA LINH HỒN BROOK
+55|Tiền truy nã: 383 triệu beri.
+56|TIỀN TRUY NÃ: 383 TRIỆU BERI
+57|Cảm ơn nhé!
+58|Cái quái...
+59|THỢ ĐÓNG TÀU, FRANKY NGƯỜI MÁY
+60|Thợ đóng tàu, Franky Người Máy.
+61|Tiền truy nã: 394 triệu beri.
+62|TIỀN TRUY NÃ: 394 TRIỆU BERI
+63|Kệ họ đi! Tôi đang ở đâu đây?!
+64|XẠ THỦ, THẦN USOPP
+65|Xạ thủ, Thần Usopp.
+66|Tiền truy nã: 500 triệu beri.
+67|TIỀN TRUY NÃ: 500 TRIỆU BERI
+68|Đủ rồi đấy!
+69|Tôi không muốn nó tăng nữa đâu!
+70|Tôi không phải thú cưng!
+71|Tăng tiền truy nã của tôi thêm đi!
+72|Đây.
+73|Vui lên nào.
+74|Chopper.
+75|NHÀ KHẢO CỔ, ĐỨA TRẺ QUỶ NICO ROBIN
+76|Nhà khảo cổ, Đứa Trẻ Quỷ Nico Robin.
+77|Tiền truy nã: 930 triệu beri.
+78|TIỀN TRUY NÃ: 930 TRIỆU BERI
+79|Cảm ơn Robin!
+80|Tiền truy nã của tôi tăng nhiều quá!
+81|ĐẦU BẾP, CHÂN ĐEN SANJI
+82|Đầu bếp, Chân Đen Sanji.
+83|Tiền truy nã: 1 tỷ 32 triệu beri.
+84|TIỀN TRUY NÃ: 1 TỶ 32 TRIỆU BERI
+85|Jimbei, của anh đây.
+86|Vinh dự quá.
+87|Họ đã công nhận tôi là thành viên băng Mũ Rơm.
+88|Tất nhiên rồi. Anh đã gây chấn động mà.
+89|Cái gì?!
+90|HOA TIÊU LÁI, "CON TRAI ĐẦU CỦA BIỂN" JIMBEI
+91|Người lái tàu, "Con Trai Đầu Của Biển" Jimbei.
+92|Tiền truy nã: 1 tỷ 100 triệu beri.
+93|TIỀN TRUY NÃ: 1 TỶ 100 TRIỆU BERI
+94|KIẾM SĨ, THỢ SĂN HẢI TẶC ZORO
+95|Kiếm sĩ, Thợ Săn Hải Tặc Zoro.
+96|Tiền truy nã: 1 tỷ 111 triệu beri.
+97|TIỀN TRUY NÃ: 1 TỶ 111 TRIỆU BERI
+98|Sao tao lại thấp hơn hắn?!
+99|1,1 TỶ  1,111 TỶ  1,032 TỶ
+100|Cậu ổn không, Sanji?
+101|Sao vậy?
+102|À phải, Jimbei...
+103|Anh cũng...
+104|1 TỶ 111 TRIỆU
+105|Đừng lo, Jimbei.
+106|Còn tên hạng tư này.
+107|Mày vừa gọi ai là "hạng tư" hả?!
+108|Đừng có hỗn với hạng hai!
+109|--Im đi, Đầu Rêu! --Bình tĩnh nào!
+110|Tôi xin lỗi...
+111|Làm ơn thả tôi ra...
+112|ĐẠI THUYỀN TRƯỞNG, TỨ HOÀNG MŨ RƠM LUFFY
+113|Đại thuyền trưởng kiêm Tứ Hoàng, Mũ Rơm Luffy.
+114|Tiền truy nã: 3 tỷ beri.
+115|TIỀN TRUY NÃ: 3 TỶ BERI
+116|Dừng lại đi, hai người!
+117|Tôi đói quá...
+118|ĐẢO EMPTEE BLUFFS, TÂN THẾ GIỚI
+119|--Cậu thấy họ chưa? --Ừ, thấy rồi!
+120|--Đúng là họ thật! --Trời ơi!
+121|Đó là kiếm sĩ mạnh nhất thế giới sao?!
+122|--Sợ quá! --Trời!
+123|Khi Thất Vũ Hải bị bãi bỏ và chúng ta bị tàu Hải Quân bao vây,
+124|tôi tưởng mình tiêu rồi...
+125|Nhờ Chủ tịch Buggy vĩ đại của chúng ta mà mọi chuyện thành ra thế này...
+126|Khoan đã!
+127|Cái gì cũng được, trừ mạng của tôi!
+128|Này, làm ơn đi!
+129|Tôi làm gì cũng được!
+130|Tôi còn liếm giày cho các anh! Làm ơn!
+131|TỨ HOÀNG BUGGY GÃ HỀ THIÊN TÀI
+132|CỰU THẤT VŨ HẢI
+133|Cross Guild vốn dĩ định do tôi và Mắt Diều Hâu lập ra.
+134|CỰU THẤT VŨ HẢI
+135|Sao ngươi lại làm đầu lĩnh? Hả, Buggy?
+136|Ta chỉ biết nói "Thật sự xin lỗi"!
+137|Hoặc "Quên đi"...
+138|Ngươi là kẻ đầu tiên và cuối cùng leo lên Tứ Hoàng chỉ bằng lời xin lỗi.
+139|Để ngươi sống sẽ là tấm gương xấu.
+140|Hai chữ "sỉ nhục" cũng không đủ diễn tả cảm giác của ta.
+141|Đừng giết tôi...
+142|Không thể nào.
+143|Dừng lại, dừng lại, dừng lại! Dừng lại!
+144|Chà, chà...
+145|Boss!
+146|Lâu lắm rồi mới được phục vụ ngài, tôi vui quá!
+147|CỰU ĐẶC VỤ BAROQUE WORKS (THUỘC HẠ CỦA CROCODILE)
+148|Đồ khốn! Mày phản bội tao à, Galdino?!
+149|Tôi không nhớ mình từng là thuộc hạ của anh, Buggy!
+150|Đồ khốn nạn!
+151|Muốn gọi tôi là gì cũng được!
+152|Chủ tịch tiêu rồi. Giờ chúng ta làm gì?
+153|Tôi sẽ phục vụ Crocodile!
+154|Đời đúng là lạnh lùng.
+155|Các ngươi quá đáng rồi đấy!
+156|--Này! Mày! Dừng lại! --Đây! Đây!
+157|Ngươi đã mất đặc quyền Thất Vũ Hải rồi, Mihawk!
+158|ĐẢO GLOOM
+159|Ngươi muốn gì, Crocodile?
+160|Hòn đảo này đang bị Hải Quân bao vây ngay lúc này.
+161|Thảo nào.
+162|Ở Reverie vừa rồi, Thất Vũ Hải đã mất mọi quyền lợi,
+163|và mọi liên hệ với Chính phủ Thế giới bị cắt đứt.
+164|Nghĩa là giờ ngươi chỉ là hải tặc thôi.
+165|Chỉ những lúc như thế này Hải Quân mới hành động nhanh.
+166|Ngươi cũng có phần trách nhiệm trong chuyện đã xảy ra.
+167|Chuyện đó lâu rồi...
+168|Phiền thật, nhưng ta phải dời chỗ.
+169|Vậy thì qua đây đi.
+170|Nghe cũng không tệ, đúng không?
+171|Nếu liên minh với nhau, ta sẽ thành một tổ chức mà Hải Quân không thể làm ngơ.
+172|Ngươi từng được biết đến là Thợ Săn Hải Quân.
+173|Ngươi và ta giống nhau...
+174|...ở chỗ không tin người khác.
+175|Hắn muốn gì vậy?! Tôi sợ quá!
+176|Sao tôi cứ bị vận xui đeo bám thế này?
+177|Nhanh lên!
+178|--Mau lên! --Mấy người làm gì vậy?!
+179|--Đội trưởng Buggy! --Đội trưởng!
+180|Đội trưởng Buggy!
+181|Sao vậy?! Chiến đấu đi!
+182|Các ngươi sợ Hải Quân à?!
+183|Đồ ngốc! Ta đang chuẩn bị lẻn đi đây!
+184|Đội trưởng!
+185|Các tàu chiến bao quanh đảo đang bị tấn công!
+186|Chúng chìm hết chiếc này đến chiếc khác!
+187|Ý cậu là Hải Quân sao?!
+188|Cái gì?!
+189|Ai đang giúp chúng ta vậy?!
+190|Là Crocodile!
+191|Tránh đường.
+192|Bắn đi, bắn đi!
+193|Sables!
+194|Vậy tin đồn Crocodile là tay sai của Chủ tịch Buggy là thật!
+195|Ngài ấy liều mạng đến cứu chúng ta!
+196|Nhờ Chủ tịch Buggy vĩ đại của chúng ta!
+197|Ra vậy... Đó là Crocodile!
+198|Hắn đến đòi món nợ khổng lồ của ta!
+199|Làm sao đây? Ta không có tiền trả hắn!
+200|Hắn đáng sợ hơn cả Hải Quân!
+201|Ta biết ngươi.
+202|Ta nghĩ ngươi sẽ bỏ trốn mà không trả nợ.
+203|Hắn đoán đúng rồi!
+204|Thì...
+205|Buggy's Delivery trông có vẻ làm ăn tốt,
+206|nhưng có quá nhiều miệng ăn phải nuôi!
+207|Mà những người kiếm tiền giỏi nhất của tôi, bọn người khổng lồ, gần đây đều nghỉ cả rồi...
+208|Nếu không trả được, ta có thể bán ngươi làm nô lệ.
+209|Đừng nói chuyện kinh khủng như vậy!
+210|Chúng ta đã cùng vượt ngục Impel Down mà!
+211|Cro-chan!
+212|Ta cho ngươi vay tiền vì chuyện đó,
+213|nhưng nếu ngươi không trả được,
+214|ngươi phải chịu hoàn toàn trách nhiệm.
+215|Trách nhiệm sao?
+216|Ta sẽ lập một công ty mới, nên giờ ta cần tiền.
+217|K-K-K-Không...
+218|Vậy thì...
+219|...c-cho tôi giúp việc kinh doanh đó!
+220|Cựu Thất Vũ Hải này...
+221|...sẽ phục vụ dưới trướng ngài!
+222|Thế à?
+223|Tôi sẽ làm việc để trả nợ!
+224|Việc thành lập công ty phải thật hoành tráng!
+225|Chúng tôi có đủ loại nhân lực!
+226|Thiết kế quảng cáo.
+227|In ấn.
+228|Vận chuyển!
+229|Ngài cứ sai bảo chúng tôi!
+230|Chúng tôi làm không công!
+231|Giờ, đây là tờ rơi mà ngươi đã phát đúng không?
+232|Ngươi nổi bật quá...
+233|Chủ tịch.
+234|K-Không...
+235|Tôi không có ý làm vậy!
+236|Nếu không cố ý thì là gì?!
+237|T-Thật sự là tôi không cố ý!
+238|Nhân viên của tôi quá kính trọng tôi!
+239|Tôi cũng bất ngờ lắm!
+240|Chủ tịch!
+241|Tôi làm đẹp lắm đúng không!
+242|Này, cái quái gì thế này?!
+243|Tôi làm cho Chủ tịch trông ngầu nhất!
+244|Cái gì?!
+245|Các ngươi chưa cho ai xem cái này, đúng không?
+246|--Chúng tôi đã... --...phát đi khắp thế giới rồi!
+247|Cái gì?!
+248|Buggy là kẻ chủ mưu vụ vượt ngục Impel Down,
+249|TỔNG BỘ HẢI QUÂN
+250|và từng là thành viên băng của Vua Hải Tặc.
+251|Hắn từng ngang hàng với Tứ Hoàng Tóc Đỏ.
+252|Hắn được mến mộ đến mức Crocodile đã đến cứu trên đảo Emptee Bluffs.
+253|Mối quan hệ giữa Crocodile và Mihawk đã được xác nhận qua nghe lén.
+254|Nhiều tổ chức mờ ám đã đầu tư vào việc "săn lính Hải Quân".
+255|Trước xu hướng nổi loạn trên thế giới,
+256|Cross Guild là mối đe dọa đáng kể với chúng ta.
+257|Tiền truy nã của ba người đó là bao nhiêu?
+258|Cựu Thất Vũ Hải, Sir Crocodile!
+259|Sức mạnh Trái Ác Quỷ hệ Logia của hắn vẫn rất đáng gờm.
+260|Hắn còn có trí tuệ sắc bén và khả năng lãnh đạo.
+261|Nên tiền truy nã của hắn là 1 tỷ 965 triệu beri!
+262|Mắt Diều Hâu Mihawk!
+263|Cựu Thất Vũ Hải này vượt cả Tứ Hoàng Tóc Đỏ về kiếm thuật.
+264|Là kiếm sĩ mạnh nhất thế giới, tiền truy nã của hắn là...
+265|...3 tỷ 590 triệu beri!
+266|Và Buggy, Gã Hề Thiên Tài!
+267|Không chỉ vì thành tích tôi vừa nêu,
+268|mà quan trọng hơn, hắn kiểm soát được hai người kia...
+269|Nên tiền truy nã của hắn là 3 tỷ 189 triệu beri!
+270|Giống như Mũ Rơm Luffy, chúng ta coi hắn là một Tứ Hoàng mới,
+271|và xếp hắn vào mức nguy hiểm đối với Chính phủ Thế giới!
+272|Và...
+273|...ngươi là một Tứ Hoàng sao?
+274|Ngươi nổi tiếng thật đấy...
+275|Thằng hề...
+276|Tôi thật sự xin lỗi! Xin lỗi nhiều lắm!
+277|Tôi liếm giày cho các anh!
+278|Im đi!
+279|Nhưng mặt khác,
+280|dùng hắn làm bù nhìn cũng không phải ý tồi.
+281|Ít nhất là ta,
+282|thà sống yên ổn còn hơn làm Tứ Hoàng.
+283|Chắc chứ?
+284|Để hắn hứng chịu,
+285|và ta có thể loại bỏ hắn bất cứ lúc nào.
+286|Ngươi nói đúng.
+287|Các cậu!
+288|Để chuẩn bị cho thời đại mới sắp đến,
+289|chúng ta đã lập ra Cross Guild!
+290|Để tôi giới thiệu các cán bộ!
+291|Đầu tiên...
+292|Sir Crocodile!
+293|Và...
+294|Mắt Diều Hâu Mihawk!
+295|--Crocodile! --Mihawk-sama!
+296|Chúng tôi sẽ theo ngài!
+297|Sir Crocodile!
+298|Được rồi, các cậu!
+299|Làm cho thật hoành tráng nào!
+300|Chủ tịch Buggy đang khóc!
+301|Chúng tôi cũng cảm động rơi nước mắt!
+302|Cuộc đời tôi rồi sẽ ra sao đây?!
+303|Đại tá Hải Quân Koby xâm nhập, dẫn đầu các Pacifista mới.
+304|Nhân lúc hỗn loạn, Tứ Hoàng Râu Đen đến đột kích.
+305|Nữ Hoàng Hải Tặc Hancock chống trả.
+306|Ai sẽ thắng trong cuộc tranh đoạt ba bên, nơi bóng tối và cái đẹp hòa quyện?
+307|Tập tới của One Piece!
+308|"Cuộc chiến trên Đảo Nữ Nhân! Vụ án của Người Hùng Koby"
+309|Tôi sẽ trở thành Vua Hải Tặc!

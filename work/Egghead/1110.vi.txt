@@ -1,0 +1,221 @@
+1|Purgatory Oni Giri!
+2|Gum-Gum...
+3|Six King...
+4|...Kong...
+5|Shave!
+6|Hand Pistol!
+7|Gum-Gum...
+8|Yellow Lotus!
+9|...Kong Organ Gun!
+10|Tempest Kick!
+11|Slaughter!
+12|White Thunder!
+13|One-Sword Style Iai!
+14|Death Lion Song!
+15|Chúng cứng thật, nhưng giờ chắc không dậy nổi nữa đâu.
+16|Seraphim là đỉnh cao của khoa học!
+17|Đừng coi thường dạng mạnh nhất của loài người!
+18|Chúng dậy nhiều quá rồi đấy! Chúng mày là Kaido à?!
+19|Sao đòn của bọn mình không có tác dụng với chúng?!
+20|Sao lại có chuyện đó được?
+21|À phải rồi...
+22|Chúng làm tôi nhớ đến King mà tôi từng đấu ở Wano Quốc.
+23|Băng Kaido có cả một người Lunarian sao?!
+24|Tôi không biết tên tộc của hắn, nhưng...
+25|Ra vậy...
+26|Gã đó chắc là chuột thí nghiệm...
+27|...đã trốn khỏi Punk Hazard cùng Kaido từ rất lâu rồi...
+28|Alber.
+29|Ngươi là ai?!
+30|Tôi á? Tôi là hải tặc.
+31|Tôi hiểu vì sao Chính phủ không thể để ngươi đi.
+32|Ngươi là người Lunarian nhỉ?
+33|Tôi đã xem thử nghiệm độ bền lúc nãy.
+34|Tôi ấn tượng đấy, ngươi chịu được ngọn lửa dữ dội đó...
+35|Ngươi ấn tượng vì ta thuộc tộc huyền thoại à?!
+36|Quả thật Seraphim...
+37|...đã được tăng cường bằng máu Lunarian của hắn.
+38|Vậy à?!
+39|Thế thì để ý kỹ ngọn lửa trên lưng chúng nhé, mọi người!
+40|Đòn của cậu chỉ có tác dụng khi lửa tắt.
+41|Gì cơ?
+42|Khi lửa cháy, chúng gần như bất khả chiến bại.
+43|Cố gắng đấy.
+44|Xin lỗi. Thể chất của tôi khác thường.
+45|Đòn kiếm của cậu sẽ không có tác dụng với tôi đâu.
+46|Khi lửa trên lưng hắn tắt, hắn nhanh hơn...
+47|Nhưng phòng thủ yếu đi!
+48|Tôi đã vất vả với chuyện đó.
+49|Hóa ra là vậy.
+50|Xin lỗi vì đã phí sức của cậu!
+51|Lẽ ra tôi phải nhận ra sớm hơn.
+52|Không, vừa kịp lúc. Giờ ta biết cách đánh chúng rồi.
+53|Đặc điểm của King là tóc trắng,
+54|da ngăm,
+55|đôi cánh đen,
+56|và ngọn lửa trên lưng.
+57|Gì cơ?!
+58|Lẽ ra cậu phải nhận ra sớm hơn chứ!
+59|Này! Cậu đi đâu thế, Mũ Sắt?
+60|Tôi nghĩ ra một nơi Stella có thể đang ở.
+61|Tôi giao chỗ này cho các cậu.
+62|Đi đi!
+63|Xin lỗi đã làm phiền các cậu.
+64|Đừng cản đường bọn tôi! Bọn tôi đang vội!
+65|Ta không phải đối thủ của hắn! Rút lui trước đã!
+66|Rút đi đâu?!
+67|Cứ theo tôi!
+68|Tôi thuộc phòng thí nghiệm này như lòng bàn tay. Có rất nhiều đường thoát!
+69|Ơ?! Hắn không đuổi theo bọn mình!
+70|Gì cơ?
+71|Hắn đâu rồi?!
+72|Gì cơ?!
+73|Hắn vượt lên trước bọn mình rồi!
+74|Edison!
+75|Edison-san!
+76|Tôi sẽ không để ngươi tấn công nữa!
+77|Gì cơ?
+78|Brook!
+79|Lạch cạch.
+80|Lạch cạch, lạch cạch, lăn, lăn...
+81|Ôi không...
+82|Jinbe.
+83|Mình phải làm sao đây?
+84|Mình không thể làm hại cậu ấy...
+85|Tỉnh táo lại đi, Nami!
+86|Zeus!
+87|Đó không phải Jinbe. Cậu phải chiến đấu với nó!
+88|Tôi biết!
+89|Nhưng...
+90|...nó chỉ là một đứa trẻ.
+91|Tôi là đồng đội của cậu, Nami.
+92|Hãy tin tôi và cùng chiến đấu nào!
+93|Đi nào, Zeus!
+94|Ừ!
+95|Nó không phải trẻ con!
+96|Nó đang làm đau bạn của mình!
+97|Nó đã phá nát một nửa Edison!
+98|Nó là cỗ máy giết người!
+99|Nó không dễ thương! Nó không phải trẻ con!
+100|Đúng vậy, Nami! Đừng do dự!
+101|Nhắm mắt lại nếu cậu muốn!
+102|Cứ tống tôi ra! Còn lại để tôi lo!
+103|Lightning Blast!
+104|Chưa đủ!
+105|Tao sẽ không để mày thoát!
+106|Bắt được mày rồi!
+107|Xin lỗi! Jinbe.
+108|Nó lại lặn xuống rồi!
+109|Chạy đi!
+110|Nami-san, nó đang lên từ dưới!
+111|Gì cơ?!
+112|Không có tác dụng!
+113|Hiến pháp Vương quốc Sanji, Điều 1.
+114|Kẻ nào làm Nami-san sợ sẽ phải chịu...
+115|...án tử hình!
+116|Hiến pháp Vương quốc Sanji, Điều 9.
+117|Aubade...
+118|Kẻ nào làm Nami-san hét lên sẽ phải chịu...
+119|Raw Heat Strike!
+120|Sanji-kun!
+121|Nami-san, em có bị thương không? Em ổn chứ?
+122|Cảm ơn anh!
+123|Anh mừng vì em không sao.
+124|Giờ để anh lo thằng nhóc này.
+125|Tao đã cảnh cáo rồi! Thằng nhóc chết tiệt!
+126|Dù mày là nhóc con hay là Jinbe...
+127|...tao cũng sẽ xử tử mày!
+128|Jinbe bé!
+129|Sao mày dám biến York thành đá!
+130|Giờ làm sao đây?! Chúng là dạng mạnh nhất của loài người mà, đúng không?!
+131|Cứ xem đây!
+132|Nếm thử Bubble Gun đi!
+133|Này! Chẳng có tác dụng gì cả!
+134|Gì cơ?!
+135|Ngươi đã mất cảnh giác rồi!
+136|Gì cơ?
+137|Những bong bóng tạo ra trong khẩu súng này chứa đầy năng lượng của biển.
+138|Và Máu Xanh có cùng điểm yếu với người dùng năng lực!
+139|Nên bong bóng làm ngươi yếu đi.
+140|Tuyệt quá, Lilith!
+141|Ừ, đúng không?!
+142|Được rồi! Cơ hội để khống chế cô ta đây!
+143|Để tôi!
+144|Đừng chạm vào tôi!
+145|Tên hỗn xược! Giữ phép tắc đi!
+146|Nó hết tác dụng rồi!
+147|Chỉ sượt qua tay cô ta. Ít nhất nó cũng phải dính vào người cô ta chứ!
+148|Thôi nào! Trời ơi!
+149|Thôi nào! Thôi nào!
+150|Cô ta nổi điên rồi!
+151|Cô ta sắp bắn laser! Rút lui trước đã!
+152|V-V-Vâng!
+153|Chạy đi!
+154|S-Snake! Đừng làm vậy!
+155|Cô chỉ là một Seraphim! Đừng vô lễ!
+156|Sơ hở rồi nhé!
+157|Thế nào? Nhóc con chết tiệt!
+158|Cậu thông minh quá, Franky!
+159|Bubble Gun hữu dụng thật!
+160|Chịu thua đi, nhóc con!
+161|Gì cơ?
+162|Tôi... đau quá...
+163|Xin lỗi!
+164|Perfume Femur!
+165|Không! Tôi đang hóa đá!
+166|Chết tiệt!
+167|Franky hóa đá rồi!
+168|Không ổn rồi! Cậu ấy sắp chết!
+169|Cô ta đang tới đây!
+170|Dừng lại!
+171|Love-Love Mellow!
+172|Usopp! Lilith!
+173|Chết tiệt!
+174|PHÒNG NGHIÊN CỨU TRÁI ÁC QUỶ CŨ, DƯỚI LÒNG ĐẤT
+175|Nơi duy nhất Stella có thể ở...
+176|...chính là căn phòng này...
+177|Gì cơ?
+178|Các người là ai?
+179|Các người là kẻ đã làm chuyện này với chúng tôi à?
+180|Đừng nói... các người là đặc vụ Cipher Pol đã đến đảo hồi nãy!
+181|Sao các người lại ở đây?!
+182|Cứu chúng tôi...
+183|Làm ơn! Đưa chúng tôi ra khỏi đây...
+184|GOOD
+185|Tôi không muốn chết...
+186|Stella!
+187|Cô ở đây rồi!
+188|Ai đã làm chuyện này với cô?
+189|Shaka.
+190|Tôi mừng vì cô bình an! Tôi sẽ mở khóa cửa ngay!
+191|Này...
+192|Shaka... Cậu đi cùng ai vậy?
+193|Gì cơ?
+194|Shaka!
+195|Cậu ấy bị bắn rồi!
+196|Tại sao?!
+197|Ngươi là...
+198|Hôm nay chúng ta giới thiệu nhân vật này! King!
+199|Hắn là một Headliner,
+200|cán bộ tối cao của băng Bách Thú do Kaido cầm đầu,
+201|và là người dùng Trái Rồng Rồng, dạng Pteranodon!
+202|Hắn là người sống sót của tộc Lunarian đã tuyệt chủng từ lâu!
+203|Hắn sinh ngày 1 tháng 12 và thích sashimi cá chuồn!
+204|Khi còn nhỏ, hắn bị bắt và trở thành vật thí nghiệm của con người.
+205|Hắn trở nên cực kỳ trung thành với Kaido, người đã cứu hắn.
+206|Kaido-san sẽ trở thành Vua Hải Tặc!
+207|Tiếc là ngài ấy sẽ không đâu.
+208|Đặc điểm của tộc Lunarian là tóc trắng, da ngăm, đôi cánh đen,
+209|và ngọn lửa cháy trên lưng!
+210|Khi lửa còn cháy, họ không chịu bất kỳ sát thương nào.
+211|Họ bền bỉ không tưởng!
+212|Khi lửa tắt, phòng thủ yếu đi nhưng họ trở nên cực kỳ nhanh!
+213|Ở Wano Quốc, hắn đã có trận chiến dữ dội với Zoro.
+214|Hắn nhiều lần dồn Zoro vào thế khó bằng sức mạnh thể chất áp đảo,
+215|nhưng bị chém mất một cánh và cuối cùng bị đánh bại.
+216|Hẹn gặp lại lần sau!
+217|Egghead bị bỏ lại đơn độc, bất lực khi hạm đội Hải Quân khổng lồ đang áp sát.
+218|Kẻ bí ẩn nào
+219|đã ngăn Luffy và các bạn trốn thoát và hạ gục Shaka?
+220|Kẻ chủ mưu của kế hoạch truy sát Vegapunk cuối cùng đã lộ diện!
+221|Tập tiếp theo của One Piece! "Ohara thứ hai! Tham vọng của kẻ chủ mưu!"

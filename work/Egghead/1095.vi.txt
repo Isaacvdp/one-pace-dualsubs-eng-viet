@@ -1,0 +1,244 @@
+1|Nami và mọi người đã đến Labophase và chạm trán một người bất ngờ.
+2|Jimbei?!
+3|Này! Cậu là ai?!
+4|"Bộ não thiên tài - Sáu Vegapunk!"
+5|Ôi không!
+6|Đây là cái bẫy!
+7|Tôi biết ngay Chính phủ sẽ không chào đón bọn mình mà!
+8|Tôi đã thấy lạ khi bọn mình đến được tận đây dễ dàng như vậy!
+9|Dụ rồi giết sạch bọn mình... Chúng định làm vậy sao?!
+10|Chúng đã chuẩn bị sẵn Pacifista cho việc đó.
+11|Mà cậu ta trông giống Jimbei.
+12|Trời ạ, cách làm của các nhà khoa học đúng là ngoài tầm hiểu biết của bọn mình.
+13|Dừng lại, Jimbei!
+14|Cậu ta không phản ứng với cái tên đó.
+15|Vậy là cậu ta là bản sao của Jimbei sao?!
+16|Đừng để vẻ ngoài đánh lừa! Cậu ta là kẻ thù của chúng ta!
+17|Không đơn giản vậy đâu!
+18|Tôi còn ngần ngại không muốn đánh cậu ta chỉ vì cậu ta là trẻ con!
+19|Gì chứ?! Cậu ta là người dùng năng lực sao?!
+20|Chuyện gì đang xảy ra vậy?!
+21|Cậu muốn làm gì, Nami?! Muốn đánh không?!
+22|Khoan đã, Zeus!
+23|Này! Đùa à! Năng lực đó là của...
+24|Nami!
+25|Này! Dừng lại!
+26|Jimbei...
+27|Tên khốn! Buông Nami ra!
+28|Đồ chết tiệt!
+29|Dù Vegapunk có chịu trách nhiệm chuyện này thì tôi cũng bắt ngươi trả giá!
+30|Được rồi, án tử hình!
+31|Dù ngươi là...
+32|...Jimbei!
+33|Nami! Cậu ổn không?!
+34|Ừ...
+35|Tôi cũng cảm thấy giống họ! Những gì ngươi vừa làm không thể tha thứ!
+36|Gigante Fleur!
+37|Chuyện gì vậy?! Một người phụ nữ khổng lồ xuất hiện!
+38|Wow! Tuyệt quá!
+39|Cơ hội như thế này hiếm lắm!
+40|Seraphim sẽ còn mạnh hơn nữa!
+41|Sea Serpent Snapdragon!
+42|Spank!
+43|Gì chứ?!
+44|Cậu ta chặn đòn tấn công bằng nước trong không khí?!
+45|Tránh ra, Robin!
+46|Cậu ta cũng dùng Ngư Nhân Karate!
+47|Special Attack Green Star!
+48|Skull Bomb-Grass!
+49|Dù biết cậu ta không phải Jimbei, tôi vẫn không muốn làm thế này!
+50|Trúng chưa?!
+51|Ừ, chắc là trúng rồi!
+52|Cậu ta biến mất rồi!
+53|Biến mất rồi sao?!
+54|Sao vậy?! Cậu ta trúng đòn mà, đúng không?!
+55|Này! Buông tôi ra!
+56|Usopp!
+57|Sanji, để đó cho tôi!
+58|Usopp, đừng cử động!
+59|Đồ chết tiệt! Buông tôi ra!
+60|Tôi đã bảo "Đừng cử động"!
+61|Nguồn năng lượng đó... Đừng nói là...
+62|Radical...
+63|Né đi, S-Shark!
+64|...Beam!
+65|Cậu ta dùng tia laser! Cậu ta là ai vậy?!
+66|Mà công suất cực cao nữa! Suýt chết!
+67|NHÀ TƯ DUY (EDISON)
+68|Để cậu ta thoát mất rồi!
+69|Tôi tưởng mình chết chắc rồi!
+70|Cậu ta lại xuất hiện kìa!
+71|Biến đi!
+72|Cậu ta không trầy xước gì sau đòn đó. Không thể nào!
+73|Tôi không nghĩ cậu ta chỉ là bản sao.
+74|Đủ rồi!
+75|Vegapunk!
+76|Câm miệng, đồ con ranh!
+77|Seraphim vẫn còn là một đứa trẻ. Nó chưa sẵn sàng cho thí nghiệm tia laser đâu!
+78|Đúng vậy!
+79|Ông ta nghĩ một Seraphim tốn bao nhiêu tiền hả?!
+80|Tên ngốc đó! Có nên xé đầu hắn ra không?!
+81|Cô độc ác quá!
+82|Không cần phải nương tay với hải tặc!
+83|Tôi sẽ biến nơi này thành nghĩa địa của chúng!
+84|Cô tàn ác như quỷ!
+85|S-Shark, hạ chúng triệt để! Đá chúng tơi bời!
+86|Đủ rồi! Tôi đâu định làm đến mức đó!
+87|Ồ, tôi nghĩ ra ý tưởng cho một phát minh mới rồi!
+88|Vậy à? Thế thì từ giờ cứ giao hết cho tôi!
+89|Phần còn lại giao cho cậu, Pythagoras!
+90|--Gì cơ?! --Tất nhiên!
+91|Dữ liệu chiến đấu thú vị thế này khó kiếm lắm!
+92|TRÍ TUỆ (PYTHAGORAS)
+93|Tôi phải vẽ bản thiết kế ngay! Bận quá, bận quá!
+94|Giờ tôi mừng cả khi có con mèo giúp!
+95|Tuyệt vời!
+96|Tôi liên tục nhận được dữ liệu xuất sắc! Trận đánh này hay thật!
+97|Hoan hô!
+98|Các kiểu tấn công của Seraphim đang phát triển khi cậu ta lớn lên!
+99|Vậy là trải nghiệm được lưu vào Bloodline Element của chúng như tôi nghĩ sao?
+100|Nào! Cho chúng thấy sức mạnh thực sự đi!
+101|S-Shark!
+102|Tốc độ trưởng thành nhanh giúp cậu ta giải quyết vấn đề!
+103|Từ nhịp tim 90 BPM, nồng độ Green Blood đã tăng lên!
+104|Cho chúng thấy sức mạnh thật của cậu đi!
+105|Tôi không dừng được! Không dừng được!
+106|Tôi không ngăn được ý tưởng cứ tuôn ra!
+107|Chết tiệt!
+108|Tôi sắp hết năng lượng rồi!
+109|THAM LAM (YORK)
+110|Tôi đói quá!
+111|Càng viết thì bụng tôi càng sôi!
+112|Ý tưởng cứ tuôn ra không dứt! Tôi không có thời gian ăn!
+113|Ăn giúp tôi đi, York!
+114|Được thôi!
+115|Đến rồi! Dinh dưỡng đang thấm vào não tôi!
+116|Tôi có thêm nhiều ý tưởng nữa!
+117|Ăn đi! Ăn đi! York!
+118|Cho tôi thêm!
+119|Nhanh lên! Nhanh lên!
+120|Mang thêm đồ ăn cho York-sama! Mấy người nhanh lên!
+121|Xin lỗi đã để cô đợi! Có thêm đồ ăn đây! York-sama!
+122|Chưa đủ! Mang thêm cho tôi!
+123|Vâng, thưa cô! Ngay lập tức!
+124|Ngon quá!
+125|Chỉ số BMI hiện tại của cô ấy đã trên 600.
+126|Tôi không muốn thêm nữa!
+127|Đúng rồi, S-Shark!
+128|Dữ liệu chiến đấu cứ liên tục được cập nhật!
+129|Đừng lúc này...
+130|Ui da, ui da... Tạm thời đình chiến đi!
+131|Tôi không muốn bỏ lỡ sự trưởng thành của cậu ta!
+132|Tôi muốn đi vệ sinh, nhưng không muốn phí thời gian!
+133|Tôi khỏe hơn nhiều rồi!
+134|Digestion Punch!
+135|Xong rồi! Làm thí nghiệm thôi!
+136|Mang cho tôi toàn bộ tài liệu về Trái Ác Quỷ được không?!
+137|Mang toàn bộ tài liệu đến chỗ Pythagoras-sama!
+138|Chuẩn bị cho thí nghiệm của ngài Edison!
+139|Đến phòng mô phỏng 88!
+140|Tôi buồn ngủ.
+141|Đó là lần Kuu Dasu Neru (Ăn Ỉa Ngủ) thứ tư hôm nay của York-sama!
+142|Này, Pythagoras!
+143|Tôi nghĩ cậu có đủ dữ liệu rồi.
+144|Tôi cần nói chuyện với họ.
+145|Khoan, khoan! Tôi muốn thêm thông tin về sự tiến hóa của S-Shark...
+146|Im đi! Lùi lại, Shaka!
+147|Đừng ra lệnh cho bọn tôi!
+148|Tránh ra, Lilith!
+149|Chúng ta chuyển sang bước tiếp theo.
+150|Đây là mệnh lệnh.
+151|Gì vậy?
+152|Không!
+153|Có chuyện gì vậy, mọi người?!
+154|Gì chứ?!
+155|Chết tiệt! Chân tôi bị dính rồi!
+156|Dừng lại! Thế này không công bằng!
+157|Mấy người định diệt cả bọn tôi một lượt sao?!
+158|Chết tiệt!
+159|Nhúc nhích đi!
+160|Nhúc nhích đi!
+161|Đủ rồi, Seraphim. Rút lui.
+162|Edison, Lilith, Pythagoras!
+163|Tôi nghĩ các cậu đã làm đủ rồi.
+164|Ôi, tiếc quá...
+165|Chết tiệt!
+166|Ái chà!
+167|Tên đó bị làm sao vậy?! Đang đến đoạn hay nhất mà!
+168|Tôi có ý tưởng rồi!
+169|GOOD
+170|Ông ấy đến giúp bọn mình sao?!
+171|Nhìn kiểu gì ông ta cũng đáng ngờ!
+172|Có vẻ ông ta là đồng nghiệp của Lilith.
+173|Vậy có lẽ ông ta cũng...
+174|Tôi là Tiến sĩ Vegapunk Shaka.
+175|GOOD (SHAKA)
+176|Lại một người nữa sao?! Mấy người bị làm sao vậy?!
+177|Vậy các cậu là băng Mũ Rơm.
+178|Ừ! Đôi giày này bị gì vậy?! Chúng dính chặt xuống sàn!
+179|Dom Shoes luôn có thể được điều khiển dễ dàng nhờ lực từ trường trong phòng thí nghiệm.
+180|Chắc là chống cự cũng vô ích thôi.
+181|Không thể tin hải tặc được.
+182|Có một Vegapunk nữ và một Vegapunk nói chuyện qua loa.
+183|Ừ... Tôi cũng là Vegapunk.
+184|Tôi không hiểu nổi! Có bao nhiêu người như mấy người vậy?!
+185|Có khi tôi cũng là Vegapunk...
+186|Gì chứ?! Không, cậu không phải!
+187|Ở đây có gì thú vị không?
+188|Không thể tin được! Đây toàn là phát minh của Vegapunk!
+189|Nhiều vô kể.
+190|Toàn là thất bại... Ông ta chỉ làm ra đồ bỏ đi.
+191|Ồ! Có một thứ to lắm!
+192|Đi thôi, Chopper!
+193|Ừ!
+194|Các cậu thấy hòn đảo này giống tương lai không?
+195|Ừ, tuyệt vời lắm!
+196|Đây không chỉ là một tương lai bình thường. Những Hải Thú cơ khí kia nữa!
+197|Vegaforce-01 và cả điều hòa không khí trên đảo nữa!
+198|Đúng là một tương lai kinh khủng!
+199|Và tôi chưa từng thấy thành phố nào như thế...
+200|Tôi muốn đi xem để biết họ dùng loại công nghệ gì!
+201|Đừng nói chúng ta là kẻ thù! Làm bạn đi, Vega-chan!
+202|Có những thứ mà ngay cả tôi cũng không thể vượt qua.
+203|Hòn đảo này đến từ quá khứ.
+204|Không phải ai cũng có thể tạo ra công nghệ như thế này!
+205|Đến từ quá khứ nghĩa là sao?!
+206|Ví dụ, nếu tôi nói rằng...
+207|...900 năm trước từng có một vương quốc tiên tiến như Egghead,
+208|các cậu có tin không?
+209|900 năm trước?! Ông đang nói gì vậy?!
+210|Đây là thật!
+211|Nhìn này, Chopper! Không phải ảo ảnh đâu!
+212|Nó thật sự ở đó! Làm bằng sắt đấy!
+213|Tuyệt quá! Là robot khổng lồ!
+214|Ngầu quá!
+215|Cái gì đây?! Nó khá là tan nát.
+216|Nó từng hoạt động được sao?
+217|Chỉ có công nghệ của tương lai mới làm nó chạy được...
+218|Nó có quá cũ không vậy?!
+219|Tôi muốn lái nó!
+220|Ừ, lái thôi!
+221|Đi thôi, Chopper!
+222|Ừ! Hôm nay chúng ta sẽ tìm hiểu về người này! Đồng đội của chúng ta, Jimbei!
+223|Anh ấy là hoa tiêu của băng Mũ Rơm.
+224|Anh sinh ngày 2 tháng 4 và thích mozuku ngâm giấm và trái cây.
+225|Anh từng là thuyền trưởng băng Mặt Trời và là một trong Thất Vũ Hải!
+226|Nhưng anh phản đối việc hành quyết Ace và từ chức khỏi Thất Vũ Hải.
+227|Và sau đó anh đã khiển trách và động viên Luffy khi cậu ấy gục ngã trong tuyệt vọng sau khi mất Ace.
+228|Họ cũng chiến đấu cùng nhau ở Đảo Người Cá, và anh đã hiến máu để cứu Luffy.
+229|Lúc đó Luffy đã mời anh gia nhập băng,
+230|nhưng Jimbei từ chối để làm tròn bổn phận vì anh có liên hệ với Big Mom.
+231|Và sau tất cả những chuyện đã xảy ra, cuối cùng anh cũng cắt đứt được quan hệ với Big Mom.
+232|"CON TRAI ĐẦU CỦA BIỂN" JIMBEI HOA TIÊU BĂNG HẢI TẶC MŨ RƠM TIỀN TRUY NÃ: 438 TRIỆU BERI
+233|Xin hãy nhớ mặt tôi,
+234|và mong được tiếp tục ủng hộ!
+235|--Jimbei! --Jimbei-san!
+236|Và anh chính thức gia nhập băng của chúng ta ở Wano Quốc.
+237|Tôi muốn đi nhiều cuộc phiêu lưu cùng anh ấy!
+238|Nhân tiện, tên Pacifista giống Jimbei đó mạnh thật!
+239|Tạm biệt!
+240|Điều gì đã xảy ra trong Thế Kỷ Trống mà Chính phủ Thế giới đang cố che giấu?
+241|Tương lai mà các học giả đã liều mạng để cứu.
+242|Sau một khoảng thời gian dài,
+243|ý chí của họ giờ được truyền lại cho người sống sót duy nhất của Ohara, người từng là một cô bé.
+244|"Một mảnh lịch sử bị cấm! Giả thuyết về một vương quốc"

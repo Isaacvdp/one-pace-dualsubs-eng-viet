@@ -1,0 +1,234 @@
+1|ONE PIECE!!
+2|Giờ thì giải thích cho chúng tôi đi!
+3|Sự thật...
+4|Sabo bắt đầu kể về sự việc xảy ra ở Thánh địa Mary Geoise.
+5|Dừng lại!
+6|Nhưng mà...
+7|Lùi ra.
+8|Cobra-sama...
+9|Tên khốn này!
+10|Trả chìa khóa lại đây!
+11|Cậu là Sabo, đúng không?!
+12|Cái gì? Cô là...
+13|Jewelry Bonney?!
+14|Nếu cậu biết tôi thì đỡ mất thời gian.
+15|Có lẽ mục tiêu của chúng ta giống nhau.
+16|Có kẻ đột nhập vào phòng canh gác!
+17|Chúng cướp chìa khóa vòng cổ nô lệ rồi! Bắt chúng lại!
+18|Tôi nghe nói Kuma-san có một cô con gái.
+19|Tôi luôn theo dõi tin tức của Quân Cách Mạng.
+20|Nên tôi tin các cậu!
+21|Xin hãy cứu bố tôi!
+22|Ừ, bọn tôi đến đây vì việc đó mà.
+23|--Hả?! --Karasu!
+24|Ừ.
+25|Cầm lấy chìa khóa! Nhớ báo cho Morley và mọi người nữa.
+26|Khi đã mở vòng cổ cho Kuma-san và các nô lệ, hãy quay thẳng về tổng bộ.
+27|Nhiệm vụ của các cậu hoàn thành rồi!
+28|Còn cậu thì sao, Sabo?
+29|Tôi sẽ theo sau khi xong việc của mình!
+30|Được. Nhưng cẩn thận đấy!
+31|Cô tính làm gì tiếp, Bonney?
+32|Tôi sẽ đến Egghead.
+33|Một mình sao?
+34|Ừ.
+35|Cô ổn chứ? Đó là lãnh địa của Chính phủ Thế giới đấy.
+36|Tôi phải hỏi Vegapunk cách khôi phục ý thức của bố tôi!
+37|Tôi ra khơi là vì chuyện đó mà!
+38|Có cách khôi phục ý thức của ông ấy sao?
+39|Dù không có, tôi cũng sẽ bắt ông ta làm! Nếu ông ta không làm được thì...
+40|Chúng ở đằng kia!
+41|Lối này! Nhanh lên!
+42|Hả?
+43|Chúng đâu rồi?!
+44|Không có ai cả!
+45|Lạ thật. Rõ ràng tôi thấy có người ở đây...
+46|C-Cảm ơn nhé.
+47|Này, tháp này lại giảm số lính canh rồi.
+48|Dù phải trông coi một khu rộng như thế.
+49|Cậu không biết à?
+50|Phần lớn là vì chuyện đó đấy.
+51|Gì cơ?
+52|Họ đã thấy nó.
+53|Thấy gì?
+54|Căn Phòng Bị Lãng Quên.
+55|Đồ ngốc! Đừng đùa về chuyện đó!
+56|Tôi nghĩ giờ an toàn rồi.
+57|Cảm ơn.
+58|Egghead nằm ở Tân Thế Giới.
+59|Chúng ta đi hướng ngược lại.
+60|Vậy chắc đến đây là chia tay.
+61|Cẩn thận nhé.
+62|Ừ.
+63|Chúc cô may mắn.
+64|Cảm giác lạ thật.
+65|Nếu cậu là hải tặc thì không lạ đâu, nhưng một người của Quân Cách Mạng lại tử tế với tôi thế này...
+66|Chúng ta đều muốn cứu cùng một người.
+67|Ừ. Chăm sóc bố tôi nhé!
+68|Cậu không biết à?
+69|Phần lớn là vì chuyện đó đấy.
+70|Căn Phòng Bị Lãng Quên...
+71|Ngài muốn hỏi chúng tôi điều gì?
+72|Vua Cobra của Vương quốc Alabasta.
+73|Ừm...
+74|Tôi nên bắt đầu từ đâu nhỉ?
+75|Chính phủ Thế giới được thành lập bởi 20 vị vua...
+76|...cách đây 800 năm.
+77|Với tư cách là những người tạo ra thế giới, họ chuyển gia đình đến Mary Geoise.
+78|Dần dần họ được gọi là Thiên Long Nhân,
+79|và đã cai trị thế giới suốt 800 năm.
+80|Bên trong, 20 vị vua đối xử bình đẳng với nhau,
+81|và để không ai trong số họ trở thành kẻ độc tài,
+82|họ cố ý đặt một Ngai Vàng Trống,
+83|và đặt vũ khí của mình quanh nó như biểu tượng của lời thề rằng không ai được ngồi lên đó.
+84|Trong khi đó, tại 20 quốc gia mất đi hoàng tộc,
+85|các vị vua mới được chọn ra và cai trị từ đó đến nay.
+86|Vì vậy, tên các hoàng tộc của Hai Mươi Gia Tộc Đầu Tiên...
+87|...đã bị xóa khỏi quê hương của họ.
+88|Nhưng Alabasta thì khác.
+89|Nữ vương Lily của gia tộc Nefeltari vẫn giữ tên trong Hai Mươi Gia Tộc Đầu Tiên,
+90|nhưng bà không trở thành Thiên Long Nhân mà quay về Alabasta,
+91|nên gia tộc Nefeltari vẫn còn tồn tại ở đất nước bà.
+92|Vì thế, nói cho chính xác thì chỉ có 19 vũ khí bao quanh ngai vàng.
+93|Đúng vậy. Nhưng thì sao?
+94|Tôi đã đọc hết các cổ thư còn lại ở đất nước tôi.
+95|Tất cả những gì chúng ta biết được...
+96|...là lịch sử ghi trong các tài liệu sau Thế Kỷ Trống.
+97|Nhưng tên Nữ vương Lily không có ở đó!
+98|Bà ấy chưa từng trở về Vương quốc Alabasta.
+99|Em trai bà đã cai trị đất nước từ đó.
+100|Ngài có thể cho tôi biết những gì ngài biết không?
+101|Đó là điều ngài muốn hỏi chúng tôi sao?
+102|Về 800 năm trước?
+103|Đúng là chỉ có quân chủ gia tộc Nefeltari không sống ở đây,
+104|nhưng chúng tôi cũng nghĩ bà ấy đã quay về đất nước mình.
+105|Vì sao bà làm vậy và bà đã đi đâu...
+106|Chuyện xảy ra quá lâu rồi, chúng tôi không có cách nào biết được.
+107|Xin lỗi. Chúng tôi không biết gì cả.
+108|Vậy chữ D là gì?
+109|Thực ra, một bức thư ngắn bà để lại 800 năm trước...
+110|...đã được truyền lại trong hoàng tộc chúng tôi qua nhiều đời...
+111|LÂU ĐÀI PANGAEA
+112|Làm ơn dừng lại!
+113|Làm ơn!
+114|Làm ơn!
+115|Đau quá!
+116|Ai đó làm ơn cứu tôi với!
+117|Con làm được rồi! Phụ thân!
+118|Con không bỏ cuộc!
+119|Con bắt được một nàng tiên cá khổng lồ rồi!
+120|Ừ, giỏi lắm! Charlos!
+121|Ai đó làm ơn cứu tôi với!
+122|Ôi không... Công chúa Shirahoshi yêu quý của ta...
+123|Nên cho ngươi ăn gì đây?
+124|Mỗi ngày ta sẽ leo lên người ngươi rồi đi vòng quanh thị trấn!
+125|Shirahoshi là của ta!
+126|Tránh đường cho ta!
+127|Sướng thật!
+128|Nếu ngươi không nghe lời ta, ta sẽ cho ngươi nếm mùi địa ngục!
+129|Tôi không chịu!
+130|Ai đó làm ơn!
+131|Cứu tôi với!
+132|Ôi không! Cha và tất cả lính canh của chúng ta đang ở Tháp Hội đồng...
+133|Làm ơn! Ai đó!
+134|Làm ơn...
+135|Chạy đi!
+136|Đừng!
+137|Này, con tiên cá kia.
+138|Ngươi vừa nói "tôi không chịu"! Ngươi dám phản kháng!
+139|Cầu cứu là hành vi cực kỳ vô lễ!
+140|Dù sao cô ta cũng đã từ chối chúng ta rồi!
+141|Phải! Cô ta sống hay chết thì kệ!
+142|Tránh ra!
+143|Các ngươi chẳng khác gì rong biển wakame, dễ bị người khác xô đẩy!
+144|Vương quốc Ryugu!
+145|Các ngươi đừng có phản kháng họ! Đất nước các ngươi sẽ bị hủy diệt!
+146|Xin lỗi! Bọn anh đã lơ là, Shirahoshi!
+147|Các anh!
+148|Có bọn anh ở đây rồi, em an toàn rồi!
+149|Về nhà thôi! Chúng ta sẽ không bao giờ quay lại nơi này nữa!
+150|Anh Fukaboshi...
+151|Các ngươi về nhà đi.
+152|Ta sẽ nuôi con tiên cá này làm thú cưng.
+153|Đồ Thiên Long Nhân khốn kiếp!
+154|Sao ngươi dám làm vậy với em gái bọn ta!
+155|Bọn ta sẽ bắt ngươi trả giá!
+156|Làm đi!
+157|Nô Lệ Bất Bại, Kuma!
+158|Anh ơi!
+159|Shirahoshi!
+160|Rebecca-sama!
+161|Tôi sẽ giúp cô ngay!
+162|Rebecca! Lại là gã đó!
+163|Bực mình quá! Tôi sẽ không tha cho chúng!
+164|Này, Myosgard! Lần này tôi đánh hắn được chứ?!
+165|Ừ! Tôi sẽ chịu hoàn toàn trách nhiệm!
+166|Cựu Thất Vũ Hải, Bartholomew Kuma!
+167|Tội nghiệp thật!
+168|Nhưng không quan trọng! Lên thôi!
+169|Ryuboshi! Mamboshi!
+170|Rõ!
+171|Ngươi giết chúng đi, Kuma!
+172|Dù là hoàng tộc thì bọn ta cũng mua chuộc được thôi!
+173|Nhất là khi chúng là người cá!
+174|Đồ khốn!
+175|Fukaboshi-dono! Hoàng tộc phải biết kiềm chế!
+176|--Tránh ra! --Cứ để họ lo!
+177|Họ khác gì chúng ta chứ?! Myosgard!
+178|Em gái chúng ta đang gặp nguy hiểm...
+179|Chúng thoát tội được!
+180|Vì họ là hải tặc, không chịu trách nhiệm với quốc gia nào!
+181|Myosgard!
+182|Hôm trước ngươi dám đấm ta!
+183|Kuma! Giết Myosgard đi!
+184|Tontatta Combat!
+185|Bí kỹ Hasshoken! Rồng Khoan!
+186|Leo-sama! Sai-sama!
+187|--Đừng làm vậy! --Hắn là Thiên Long Nhân!
+188|Búa Đuôi!
+189|Nail!
+190|Charlos!
+191|Chúng tiêu rồi!
+192|Chắc hắn chết rồi! Đây là giết người!
+193|Giết một Thiên Long Nhân!
+194|Các Đô đốc Hải Quân sẽ đến!
+195|Không, Kuma-chan!
+196|Anh không cần nghe lệnh ai nữa đâu!
+197|Về nhà cùng nhau thôi!
+198|Cái gì?!
+199|Sao lại có Người Khổng Lồ ở đây?!
+200|Morley!
+201|Karasu!
+202|Tôi lấy được chìa khóa từ Sabo rồi!
+203|--Hắn là gì thế?! --Kẻ đột nhập à?!
+204|Đó là Morley! Một đội trưởng của Quân Cách Mạng!
+205|Được! Tôi xuống đây!
+206|Con trai!
+207|Để ta hỏi các ngươi một lần nữa.
+208|Chữ D là gì?
+209|Đi đi. Chúng ta không còn gì để nói nữa.
+210|Imu-sama.
+211|Vua Cobra vẫn còn ở đây!
+212|Vừa nói Imu sao?!
+213|Lily...
+214|Hôm nay chúng ta giới thiệu nhân vật này! Shirahoshi!
+215|Cha cô là Vua Neptune của Vương quốc Ryugu.
+216|Mẹ cô là Hoàng hậu Otohime. Cô là công chúa của Vương quốc Ryugu.
+217|Cô sinh ngày 4 tháng 4 và thích mì ống nho biển!
+218|Để tránh những lời cầu hôn dai dẳng và các đòn tấn công từ xa của hải tặc Vander Decken IX,
+219|cô đã ở lì trong tháp suốt một thời gian dài.
+220|Sau khi gặp Luffy, cô lần đầu tiên ra ngoài sau bao lâu.
+221|Nhưng Decken đã ném con tàu khổng lồ Noah vào cô.
+222|Để ngăn Noah đến đảo của mình, cô đã triệu tập các Neptunian ngăn nó lại.
+223|Sau khi năng lực giao tiếp với các Neptunian thức tỉnh,
+224|cô phải mang thêm một cái tên khác, Poseidon, Vũ khí Cổ đại.
+225|Sau đó, cô lấy hết can đảm lên mặt đất để tham dự Reverie.
+226|Phụ vương, con...
+227|Nếu có thể, con muốn sống trên đất liền!
+228|Tôi chỉ mong Shirahoshi tốt bụng sẽ không bị dùng làm Vũ khí Cổ đại.
+229|Hẹn gặp lại lần sau!
+230|Kinh ngạc trước kẻ đang ngồi trên Ngai Vàng Trống,
+231|Vua Cobra chuẩn bị đón cái chết khi biết được sự thật của thế giới.
+232|Đối mặt với số phận tàn khốc không thể cưỡng lại, ông giao phó cho Sabo
+233|bí mật 800 năm tuổi của gia tộc Nefeltari!
+234|Tập tiếp theo của One Piece! "Thông Điệp Được Giao Phó! Quyết Tâm Của Vua Cobra"

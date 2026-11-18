@@ -1,0 +1,302 @@
+1|"Sự cố xảy ra! Hãy tìm Tiến sĩ Vegapunk!"
+2|Bọn tôi đã chiếm được Fabriophase.
+3|Được rồi. Nghe đây.
+4|Nhìn kìa. Ống đó là nơi Vacuum Rocket chạy qua.
+5|Nó chạy khắp thành phố và dẫn thẳng tới Labophase.
+6|Phá hủy hết đi.
+7|Loại bỏ triệt để mọi thứ có thể giúp Vegapunk trốn thoát!
+8|Bắn!
+9|Cái gì?!
+10|Có địch sao?!
+11|Chúng ta bị ai đó tấn công!
+12|Bắn trả!
+13|Tạm thời rút lui! Rút lui!
+14|Chuyện gì vậy?
+15|Đó là...
+16|Pacifista?!
+17|Khoan! Anh là lính Hải Quân mà, đúng không?!
+18|Anh phải đứng về phía Chính phủ chứ. Đừng cản đường bọn tôi!
+19|Này! Anh làm gì vậy?!
+20|Sao dám làm vậy với đồng đội của tôi?!
+21|Đó là...
+22|Dừng lại! Đừng bắn!
+23|Hả?
+24|Đó là năng lực gì vậy?!
+25|Là Bubble Shield!
+26|Đó là cái khiên mạnh nhất thế giới mà Vegapunk phát minh sao?!
+27|Cái vượt xa các nguyên mẫu dùng trong Chiến tranh Thượng đỉnh...
+28|Pacifista Mk. III!
+29|Ngừng chiến đấu và di chuyển tới Factory B.
+30|VŨ KHÍ CHIẾN ĐẤU CỦA NHÓM KHOA HỌC HẢI QUÂN
+31|Xác nhận có hoạt động thù địch.
+32|Mọi người, đầu hàng đi! Không thì chết hết!
+33|Nhanh lên!
+34|Tôi sẽ đưa các anh đi.
+35|Tại sao?!
+36|Pacifista đâu có tự di chuyển!
+37|Ai đang ra lệnh cho nó?!
+38|Đừng cử động! Vết thương sẽ nặng thêm.
+39|Đúng là một ngày nghỉ tồi tệ...
+40|Pacifista hoạt động tốt chứ?
+41|Vâng. Nhờ nó mà tôi trú được ở đây.
+42|Mọi người khác cũng đang sơ tán.
+43|Tốt quá.
+44|Sentomaru-san, cảm ơn anh!
+45|Nhờ anh mà bọn tôi sơ tán an toàn.
+46|Cảm ơn anh!
+47|Để tôi băng cả cánh tay phải cho anh nữa.
+48|Có chuyện gì đó xảy ra ở trên.
+49|Tôi là Sentomaru. Trả lời đi!
+50|Này! Ông già Punk!
+51|Không trả lời. Mà Frontier Dome cũng đóng rồi.
+52|Không liên lạc được với ông già Punk...
+53|Mũ Rơm!
+54|Mũ Rơm!
+55|Điều đáng lo là Hải Quân cứ liên lạc liên tục với nhau...
+56|...mà bọn tôi lại bị gạt ra ngoài.
+57|Ông già Punk... Tôi vốn đã là kẻ phản bội rồi.
+58|Nên tôi sẽ làm theo ý mình.
+59|Pacifista Mk. III, kích hoạt!
+60|Cả năm mươi người, xuất phát!
+61|Mũ Rơm Luffy sẽ cho Tiến sĩ Vegapunk lên tàu của cậu ấy!
+62|Nhiệm vụ của các ngươi là giúp con tàu rời đi an toàn!
+63|Rõ.
+64|CÔNG LÝ
+65|Hải Quân có gì đó lạ!
+66|Canh chừng bờ biển!
+67|Sẽ có chuyện xảy ra trên đảo.
+68|Hãy đảm bảo người tạo ra các ngươi...
+69|...rời khỏi hòn đảo này!
+70|Dừng lại! Đừng chạm vào!
+71|Im đi! Biến đi!
+72|Bonney!
+73|Bố...
+74|Ký ức của bố...
+75|Chuyện... Chuyện gì xảy ra vậy?!
+76|Nói cho con biết đi, bố!
+77|Bố ơi!
+78|Mình đang ở đâu?
+79|Này! Có ai không?!
+80|Mình chịu hết nổi rồi...
+81|Mình chịu hết nổi rồi...
+82|Mình không thể...
+83|Sao vậy? Này.
+84|Chuyện gì thế?
+85|Mình chịu hết nổi rồi...
+86|Mình thật sự không chịu nổi...
+87|Mình không... chịu nổi...
+88|Cứu với, ai đó!
+89|Em không muốn quay lại đâu!
+90|Bố?
+91|Cái gì?! Vegapunk mất tích nghĩa là sao? Ổng đi đâu rồi?!
+92|Cậu tìm kỹ chưa? Ổng phải ở đây chứ? Trong phòng thí nghiệm!
+93|Thì tôi thật sự đã...
+94|...chạy khắp nơi.
+95|Nhưng không tìm thấy ổng.
+96|Cậu thật sự tìm rồi à?
+97|Có chứ! Cậu ấy làm hỏng chức năng bay của giày nên chạy suốt đấy!
+98|Đừng nói với họ chuyện đó! Tôi không có tiền đền đâu!
+99|Giờ không phải lúc nói chuyện đó!
+100|Vegapunk đi đâu rồi?!
+101|Usopp, bình tĩnh nào!
+102|Làm sao bình tĩnh được?!
+103|Phải đi sớm thôi, không thì lại có thứ đáng sợ khác tới!
+104|Chắc chưa thể ra khơi được rồi.
+105|Ông già Táo đi đâu rồi? Còn Bonney nữa...
+106|Không biết cô ấy có ổn không.
+107|Cô ấy cũng đang rối bời,
+108|nhưng không thể bỏ mặc cô ấy được. Tôi lo lắm.
+109|À, tôi thấy Bonney rồi.
+110|Hả?
+111|Màn hình chiếu mọi thứ trong phòng thí nghiệm.
+112|Sao giờ mới nói?
+113|--Tôi thấy cô ấy từ nãy rồi. --Sao giờ mới nói?!
+114|Này.
+115|Trời ạ...
+116|Zoro!
+117|Sao cậu lâu thế?
+118|Chúng ta không ra khơi sao?
+119|Bọn tôi có vấn đề rồi!
+120|Mà nói chung, chỗ này tuyệt vời về nhiều mặt!
+121|Đúng là tương lai!
+122|Quá là tương lai!
+123|Có cái mũ hợp với cô nè!
+124|Đó là điều cậu thấy tuyệt vời về tương lai à?
+125|Chỗ này tệ hơn tôi tưởng.
+126|Stussy-sama!
+127|Cô đi trước thời đại và mặc đồ tương lai! Thật là... thật là...
+128|Đẹp quá!
+129|Anh khéo nịnh thật.
+130|Tôi là người đàn ông yêu mọi quý cô ở mọi thời đại!
+131|Shaka, Atlas sao rồi?
+132|Edison. Lilith.
+133|Đừng triệu tập bọn tôi như thể anh là sếp, Shaka!
+134|Bọn tôi không phải cấp dưới của anh!
+135|Tránh ra.
+136|Tôi vừa làm xong. Xem thử đi.
+137|Đừng nói như thể anh làm một mình! Tôi sửa cùng anh mà!
+138|Chào! Xin lỗi để mọi người đợi!
+139|Giờ tôi hồi phục hoàn toàn rồi!
+140|Thôi đi!
+141|Tôi khỏe rồi!
+142|Rồi rồi!
+143|Vừa sửa xong mà đã nhiều năng lượng thế này? Làm ơn đi!
+144|Chào buổi sáng, Atlas.
+145|Này!
+146|Lại ngủ nữa à? Cậu ngủ bao lâu rồi?
+147|Muốn tôi đánh thức cậu cho tỉnh hẳn không?
+148|Đừng làm gì không cần thiết!
+149|Dễ thương! Xinh đẹp! Đáng yêu!
+150|Dễ thương! Xinh đẹp! Đáng yêu! Dễ thương! Xinh đẹp! Đáng yêu!
+151|Mỹ nhân! Mỹ nhân! Mỹ nhân!
+152|Viễn cảnh tương lai! Mỹ nhân khắp mọi hướng!
+153|Hướng tới tương lai!
+154|Tương lai đầy mỹ nhân!
+155|Tương lai là nhất!
+156|--Ổng bị sao vậy? --Kệ ổng đi.
+157|Vậy là mặt cô ấy đã sửa xong.
+158|Chúng tôi có linh kiện thay thế.
+159|Là cô! Cô đã cứu mạng tôi, đúng không?!
+160|Cảm ơn!
+161|Ừ, vì cô cho bọn tôi đồ ăn. Mừng là giờ cô ổn rồi.
+162|Ừ!
+163|Sao dám làm tổn thương cô bé dễ thương đó!
+164|Mấy tên khốn này vẫn y như hồi ở Water Seven!
+165|Nếu còn dám nhắm vào Robin nữa, tôi đá cho nát mặt!
+166|Nami...
+167|Giờ chúng không làm gì được đâu.
+168|Nhưng...
+169|Cảm ơn cậu đã quan tâm đến tôi.
+170|Tấm lòng mới là quan trọng.
+171|Robin...
+172|Tất cả là để che giấu thân phận thật của tôi, nhưng thật đau lòng.
+173|Không, cậu đã quyết định đúng.
+174|Chúng ta vô hiệu hóa được CP-0 là nhờ cậu giấu được thân phận thật.
+175|Cậu tốt bụng quá.
+176|Giờ tôi muốn gặp Stella, mà sao rồi?
+177|Có hai chuyện bất thường đang xảy ra.
+178|Nghe đây, nhưng đừng hoảng. Thứ nhất...
+179|Stella đã biến mất.
+180|Thứ hai...
+181|Chúng tôi mất quyền kiểm soát Frontier Dome.
+182|Hả? Nghĩa là sao?
+183|Nghĩa là chúng ta không thể rời khỏi Labophase nữa.
+184|Nếu cố ra ngoài, tia laser sẽ thiêu chết các cậu.
+185|Khoan, khoan! Chúng ta ra khơi cùng Vegapunk mà, đúng không?!
+186|Đúng, nhưng mục tiêu cần cứu đã biến mất.
+187|Giờ phải làm sao?!
+188|Việc chúng ta làm được là tìm Stella.
+189|Tôi sẽ thử sửa Dome bằng cách nào đó.
+190|Nhưng nếu Vegapunk không có trên màn hình chiếu mọi thứ,
+191|thì đi tìm ổng để làm gì?
+192|Bình thường nó chiếu mọi thứ trong phòng thí nghiệm,
+193|nhưng do cú sốc từ vụ Seraphim nổi loạn lúc nãy,
+194|các Cam-snail hoặc đã rời vị trí hoặc đã ngất.
+195|Tôi cứ liên tục cử các Vệ tinh và công nhân đi kiểm tra từng khu vực.
+196|Ổng có thể đã ngất trong điểm mù của các Cam-snail.
+197|Shaka. Pythagoras đây.
+198|Có vẻ tầng ba tòa C không có ai.
+199|Hiểu rồi. Vậy kiểm tra cả tòa bên cạnh nữa.
+200|Chúng ta cũng nên đi tìm. Phải tìm ra ổng và ra khơi càng sớm càng tốt.
+201|Tôi cũng hứng thú với kho báu của tương lai!
+202|Ồ, nghe vui đấy. Tôi đi với!
+203|Khoan, khoan, khoan! Tôi cá là mấy người đang nghĩ mấy chuyện không nên!
+204|Không, bọn tôi đâu có. Đúng không, Nami-san?
+205|Không biết nữa.
+206|Thấy chưa! Mấy người đang âm mưu gì đó.
+207|Tôi cũng đi tìm. Ổng biến mất làm tôi lo lắm.
+208|Tôi đi cùng.
+209|Ồ, cảm ơn cô.
+210|Stussy-sama!
+211|Cho tôi đi cùng với!
+212|Hết cách rồi.
+213|Tôi cũng nên đi tìm.
+214|Khoan đã, Đầu Rêu!
+215|Hả? Tôi chỉ cần tìm một ông già bị cắt đầu thôi, đúng không?
+216|Cậu á?! Đi tìm người á?!
+217|Im đi! Buông tao ra, Đầu Bếp Quèn!
+218|Vậy ai sẽ đi tìm cậu đây?!
+219|Thì...
+220|Ảnh nói đúng, Zoro! Ở lại đây!
+221|Cả cậu cũng vậy sao?!
+222|Làm ơn. Ở yên đây nhé.
+223|Được rồi...
+224|Đợi tôi nhé, Vegapunk! Giờ đi đâu đây?!
+225|Tôi không biết! Hành lang như mê cung vậy!
+226|Tôi sợ chúng ta sẽ bị lạc.
+227|Hải tặc đúng là phiền phức.
+228|Theo tôi!
+229|Ừ! Cảm ơn!
+230|Lại ngủ nữa à?
+231|Cậu ngủ nhiều quá. Đi thôi.
+232|Được rồi.
+233|Trời, chẳng hiểu họ đang nói gì...
+234|Chắc tìm người cũng không quá khó, kể cả với họ.
+235|Không ngờ cậu chạy hết sức.
+236|Tôi lúc nào cũng làm hết sức mà...
+237|Dù sao...
+238|Không ngờ lại gặp lại mấy người này.
+239|Làm tôi nhớ về Water Seven.
+240|Không biết Ice pops sao rồi.
+241|Lạch cạch.
+242|Thấy chưa! Tôi có tin nóng hổi đây!
+243|Chính phủ Thế giới đang ám sát Tiến sĩ Vegapunk lừng danh!
+244|Giết thiên tài vĩ đại nhất thế giới ư?!
+245|Đây lại là Vụ Ohara nữa rồi!
+246|Nhưng Chính phủ không có lợi thế đâu!
+247|Vegapunk là người được cả thế giới yêu mến.
+248|Ổng thắp sáng các thị trấn khắp thế giới bằng nhiều phát minh năng lượng.
+249|Người tình cờ có mặt ở đó...
+250|...chính là cậu ta!
+251|Vậy thì đây là tiêu đề tiếp theo của World Economic Journal chúng ta!
+252|"Tứ Hoàng Mũ Rơm Luffy bắt Vegapunk làm con tin ở Egghead!
+253|Lao vào cuộc chiến toàn diện với Hải Quân!"
+254|Nếu hải tặc bị vu là thủ phạm,
+255|cái chết của Vegapunk sẽ không gây tiếng xấu cho Chính phủ!
+256|Chính phủ sẽ cảm ơn tôi!
+257|--Đi lấy tiền thưởng từ họ đi! --Rõ, thưa sếp!
+258|Bài báo ngớ ngẩn quá.
+259|Cô vừa nói gì à?
+260|Đúng vậy!
+261|Sao dám bịa ra chuyện bậy bạ?
+262|Luffy-san không bao giờ làm chuyện như vậy!
+263|NEFELTARI VIVI CÔNG CHÚA VƯƠNG QUỐC ALABASTA
+264|Vì vậy tôi ghét WEJ!
+265|Này!
+266|Nhỏ giọng thôi!
+267|WAPOL VUA CỦA CÁI ÁC VƯƠNG QUỐC BLACK DRUM
+268|Nếu có con bọ Ốc Sên Truyền Tin quanh đây mà Chính phủ biết bọn tôi ở đây,
+269|họ sẽ xóa sổ bọn tôi ngay!
+270|Hơn nữa, Mor-chan đang cho bọn tôi trú ẩn. Đừng cãi lại ổng nữa!
+271|Sao tôi bỏ qua nổi lời nói dối như vậy được?!
+272|Đừng bóp méo sự thật rồi viết thành chuyện! Không còn chút liêm sỉ sao?!
+273|Tôi cho cô ấy mượn quần áo! Tôi sẽ không bao giờ giặt chúng nữa!
+274|Hả?! Tôi cũng muốn cho cô ấy mượn đồ của tôi!
+275|Vivi-sama!
+276|Cô còn khóc cho đến hôm qua mà!
+277|Đừng có làm ra vẻ cao ngạo rồi xen vào chuyện của tôi!
+278|Người duy nhất có thể làm rung chuyển thế giới...
+279|...là tôi!
+280|Thật hay không không quan trọng!
+281|Báo chí là giải trí!
+282|Hôm nay chúng ta giới thiệu người này! Morgans!
+283|Biệt danh là Big News, ông là chủ tịch của World Economic Journal.
+284|Ông cũng là người dùng Trái Chim Hót, hệ Chim Hải Âu!
+285|Ông sinh ngày 14 tháng 7 và thích bắp rang bơ!
+286|Hải âu tiếng Nhật là ahoudori.
+287|Ông luôn ở Dạng Người-Thú và không có dữ liệu về gương mặt thật.
+288|Ông là nhà báo từ trong máu, ám ảnh với việc viết tin độc quyền.
+289|Ông từng đăng một bài có thể chọc giận Big Mom,
+290|và phớt lờ lệnh thao túng thông tin của Ngũ Lão Tinh.
+291|Ông sẵn sàng đánh đổi mọi thứ vì một tin độc quyền thú vị.
+292|Tôi sẽ không để họ thao túng thông tin!
+293|Sự thật là thứ thú vị nhất khi thời đại thay đổi như bây giờ!
+294|Tôi thích việc mọi thứ diễn ra theo thời gian thực!
+295|Dù tốt hay xấu, ông luôn tạo nên chấn động trong thế giới.
+296|Tôi nóng lòng xem ông sẽ có tin độc quyền gì tiếp theo!
+297|Hẹn gặp lại lần sau!
+298|Nhiễu liên lạc bí ẩn chia rẽ băng Mũ Rơm.
+299|Các Vệ tinh bị đánh úp và tính mạng bị đe dọa!
+300|Ai đó hẳn đang xâm nhập Labophase đã bị đóng kín!
+301|Một trò chơi sinh tử không lối thoát đầy nghi ngờ và sợ hãi nuốt chửng Luffy và những người khác!
+302|Trong tập tiếp theo của One Piece! "Rùng mình! Bàn tay ác độc đang len lỏi vào phòng thí nghiệm"

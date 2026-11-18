@@ -1,0 +1,252 @@
+1|Nika?
+2|Phải, anh ấy là người hùng của tôi.
+3|Anh ấy sẽ đến trong tiếng cười, nhún nhảy theo nhịp điệu này.
+4|"Cuộc đời của Kuma"
+5|HAI NĂM TRƯỚC
+6|Này, Bonney!
+7|Bonney!
+8|Bonney!
+9|Trời ạ!
+10|Đừng gọi tôi là Bonney!
+11|Thuyền-trưởng!
+12|Rồi rồi, thuyền trưởng!
+13|Hòn đảo ngay trước mặt đây! Kumachi chắc chắn ở đó!
+14|Tôi khá chắc đấy!
+15|Nhưng vấn đề là Hải Quân cũng ở đây...
+16|Bố!
+17|Đi thôi, các cậu!
+18|Chúng ta sẽ cập bờ!
+19|Là băng Bonney!
+20|Toàn bộ Hải Quân đã nhận lệnh bắt chúng!
+21|Nghe nói chúng để lại người già bị thương và trẻ em nằm la liệt!
+22|Cái gì?!
+23|Chỉ nhắm vào kẻ yếu! Đúng là lũ cặn bã!
+24|Bắn!
+25|Tránh đường cho tôi!
+26|Age Skewer!
+27|Kumachi! Bố ở đâu?! Ra đây đi!
+28|Một người đàn ông khổng lồ? Có, tôi vừa thấy ở rìa thị trấn!
+29|--Thuyền trưởng Bonney! --Có người thấy Kumachi!
+30|Tôi đến ngay!
+31|--Ở đâu?! --Ông ấy nói là hướng kia!
+32|Được rồi!
+33|Chúng ta không được gặp nhau.
+34|Bonney, hãy hiểu cho bố.
+35|Đừng tìm bố.
+36|Sao bố không ở đó chứ?!
+37|Giờ chúng ta là hải tặc rồi, cứ thong thả tìm ông ấy thôi, thuyền trưởng.
+38|Nika à?
+39|Vậy tôi cũng muốn đi tìm Nika!
+40|Khi gặp bố,
+41|bố sẽ vui nếu tôi kể là đã tìm thấy Nika trên một hòn đảo nào đó.
+42|Trong khi đó ở East Blue...
+43|TRONG KHI ĐÓ Ở EAST BLUE
+44|Gomu Gomu...
+45|...Battle-Ax!
+46|Sau khi đánh bại băng Arlong, một nhánh của băng Hải Tặc Người Cá,
+47|Mũ Rơm Luffy nổi lên như một hải tặc.
+48|Yay! Tôi có tiền truy nã rồi!
+49|MŨ RƠM LUFFY
+50|Tôi sẽ đến Roguetown.
+51|Roguetown? Để làm gì?
+52|Ừm... Mà này, ai đang phụ trách khu vực đó?
+53|Là Đại tá Smoker.
+54|ĐÃ ĐÁNH BẠI BĂNG ARLONG
+55|Jinbe, Jinbe! Đoán xem cậu ta là em của ai nào!
+56|Đáp án là em trai tôi!
+57|Cái gì?! Thằng nhóc hạ băng Arlong là em của anh sao?!
+58|Buồn cười thật, Dragon...
+59|Con của hai ta đều thành hải tặc...
+60|Đây là những quy tắc sắt của hải tặc!
+61|Cướp những gì mình muốn!
+62|Cướp!
+63|Chỉ cướp của kẻ xấu!
+64|Đừng giúp người khác!
+65|Đừng!
+66|Nếu tránh được thì cứ tránh!
+67|Thế này à?
+68|Đúng rồi! Chắc là tô son như vậy!
+69|Được rồi! Trông tôi giống người lớn rồi!
+70|Nếu không tô gì lên má, bố có thể không nhận ra tôi.
+71|Và...
+72|...tôi nên nổi tiếng!
+73|Thế thì chắc chắn bố sẽ để ý đến tôi!
+74|Đúng không, bố?
+75|EGGHEAD, TÂN THẾ GIỚI
+76|Rợn người thật.
+77|Chắc là với anh thì đúng vậy.
+78|Việc sản xuất binh lính nhân bản đang suôn sẻ, đúng như những cải tiến của anh.
+79|Mà này, anh có nghe về thằng nhóc tuyên chiến với Chính phủ Thế giới chưa?
+80|Bắn xuyên lá cờ đó.
+81|Rõ.
+82|Cái gì?! Nó là con của Dragon?!
+83|Dù sao anh cũng sẽ thấy ký ức của tôi, nên giấu cũng vô ích.
+84|Dù trùng hợp hay không, nó cũng chống lại Chính phủ bằng sức mạnh cao su.
+85|Nó giống hệt Nika, người hùng của tôi.
+86|Anh nói đúng.
+87|Gomu Gomu...
+88|...Giant JET Shell!
+89|THRILLER BARK, GRAND LINE
+90|Chính phủ ra lệnh cho ta tiêu diệt tất cả các ngươi,
+91|nhưng các ngươi chỉ cần giao nộp đầu của Mũ Rơm Luffy.
+92|Chỉ cần ta có được cái đầu đó, Chính phủ sẽ không phàn nàn.
+93|Ông muốn bọn tôi bán đứng bạn mình sao?
+94|Không đời nào!
+95|Thật đáng tiếc.
+96|Ursa Shock!
+97|Tôi sẽ đưa ông một cái đầu.
+98|Nhưng thay vì lấy đầu cậu ấy,
+99|xin hãy lấy mạng tôi!
+100|Luffy sẽ trở thành Vua Hải Tặc!
+101|Nếu ngươi muốn thế chỗ cậu ấy,
+102|hãy gánh lấy toàn bộ đau đớn và khổ sở của cậu ấy.
+103|Thế này thì ngay cả ta cũng ngất mất.
+104|Cậu ấy có những đồng đội tốt.
+105|Đúng là con trai của anh, Dragon.
+106|Thất Vũ Hải, triệu tập bắt buộc!
+107|Từ chối thì danh hiệu sẽ bị thu hồi!
+108|Đừng làm quá lên. Chuyện gì vậy?
+109|Người cầm cờ của thế hệ mới, Portgas D. Ace, đã có lịch hành quyết công khai.
+110|Nghĩa là sẽ có chiến tranh với băng Râu Trắng!
+111|Chiến tranh với Râu Trắng ư?
+112|Tôi nhất định sẽ kịp có mặt.
+113|QUẦN ĐẢO SABAODY
+114|Phần thứ hai của tôi đâu?!
+115|Chúng ta sắp hết đồ ăn rồi!
+116|Mang thêm pizza cho tôi!
+117|Họ nói đang làm hết sức rồi, thuyền trưởng.
+118|Vẫn chưa đủ nhanh!
+119|Thuyền trưởng! Nếu cậu làm ầm lên, Hải Quân sẽ...
+120|Đây sẽ là lần cuối ta thấy cô bé.
+121|Con bé đã trở thành một hải tặc khá cứng cáp...
+122|Có hải tặc đánh Thiên Long Nhân!
+123|"Cửa hàng Nô lệ"?!
+124|Ai đã làm gì Thiên Long Nhân?!
+125|Đó là điều cấm kỵ toàn thế giới.
+126|Mà lại gần Tổng bộ Hải Quân.
+127|Đó là hành động tự sát!
+128|Lại là băng Mũ Rơm!
+129|Họ định bảo vệ một người cá và một nàng tiên cá sao?!
+130|Nhìn đi, Mũ Rơm Luffy.
+131|Đây có lẽ là một hành động phản nghịch...
+132|...mà chưa ai làm nổi...
+133|...suốt nhiều thế kỷ!
+134|Khoan, PX-1.
+135|Iva-chan.
+136|Thứ lỗi vì tôi biến mất không một lời.
+137|Để làm dấu tích cho sự tồn tại của mình, tôi sẽ lặng lẽ để lại...
+138|...Bonney
+139|và tương lai của cậu bé này.
+140|Tôi đã không cứu được...
+141|...dù chỉ một người bạn...!
+142|Không phải vậy đâu.
+143|Nhưng Tân Thế Giới khắc nghiệt đến mức này.
+144|Các cậu chưa sẵn sàng đâu.
+145|Đừng đến vội.
+146|Vì một ngày nào đó các cậu sẽ...
+147|...cứu thế giới.
+148|Một công tắc tự hủy?!
+149|Các người sợ Kuma đến mức nào chứ?!
+150|Các người biến ông ấy thành vũ khí người chết chóc.
+151|Các người đứng đầu hệ thống quyền lực mà!
+152|Nhưng nếu ông ấy nổi điên khi ở ngoài tầm ra lệnh,
+153|ai sẽ ngăn ông ấy và bằng cách nào?
+154|Ừm...
+155|Dừng ngay sự hỗn xược đó. Ngươi chỉ là một nhà khoa học làm thuê hèn mọn.
+156|Vậy thì, đổi lại việc cài thứ đó vào ông ấy, hãy để ông ấy giữ lại một chút ý chí tự do!
+157|Tôi đã phát minh một mạch não có thể chuyển đổi giữa các nhân cách!
+158|Nếu các vị cho tôi thử...
+159|Ta cũng là nhà khoa học. Ngươi không lừa được ta đâu.
+160|Nhưng như vậy Kuma
+161|và Bonney sẽ không thể gặp lại nhau...!
+162|Cạch.
+163|Tôi cảm kích tấm lòng của anh, Vegapunk.
+164|Cái gì?! Không thể nào anh nghe được cuộc nói chuyện đó.
+165|Ai đã cho tôi thính giác siêu phàm vậy?
+166|CÔNG LÝ
+167|Được rồi! Hôm nay là ngày anh mất đi ý chí tự do.
+168|Tôi chỉ biết anh hai năm, nhưng chúng ta đã vui biết bao!
+169|Đúng vậy.
+170|Tôi nghĩ nhiệm vụ đầu tiên của anh sẽ là trận chiến với băng Râu Trắng.
+171|Họ yêu cầu điều động rất nhiều binh lính nhân bản.
+172|Tôi muốn anh lập trình cho tôi một nhiệm vụ sau đó.
+173|Bảo vệ con tàu của băng Mũ Rơm?!
+174|Cho đến khi một người trong băng quay lại, tôi muốn bảo vệ mái nhà của họ.
+175|Tôi sẽ không thể thấy họ trưởng thành nữa, nhưng...
+176|Anh kỳ vọng gì ở thằng nhóc đó?
+177|Hành động của cậu ấy lay động tâm hồn tôi.
+178|Nika chỉ là một huyền thoại.
+179|Nhưng tôi đã nói với Bonney...
+180|...có một chiến binh sẽ khiến mọi người mỉm cười, nhún nhảy theo nhịp điệu của sự giải phóng.
+181|Nếu có một người hùng sẽ thay đổi thế giới này một cách triệt để...
+182|Tôi tin đó sẽ là cậu ấy.
+183|Một nhà cách mạng đặt cược vào một hải tặc...
+184|Anh chọn khá là một con ngựa ô đấy.
+185|Mâu thuẫn đó là bằng chứng cho nhân tính của anh.
+186|Giờ thì, cung cấp vật liệu cho nghiên cứu khoa học của tôi đi.
+187|Chúng ta đã có thỏa thuận.
+188|Khi đẩy chúng ra khỏi người, anh có mất ký ức không?
+189|Không, nó giống như một bản sao.
+190|Nhưng nó sẽ biến mất khi bị chạm vào.
+191|Không sao. Tôi đã tạo ra một hệ thống cho phép tôi nghiên cứu nó từ xa.
+192|Đặt nó ngay đó.
+193|Nào, làm cho xong thôi.
+194|Đây chỉ là một quy trình lâm sàng. Tôi là nhà khoa học.
+195|Vậy đây là...
+196|...cuộc đời của mình...
+197|Mình đã làm phiền bao nhiêu người rồi?
+198|Làm phiền người khác!
+199|Đúng vậy, sống là làm phiền người khác!
+200|Kumachi!
+201|Kumachi!
+202|Kumachi!
+203|Kumachi!
+204|Kumachi! Kumachi!
+205|Bố!
+206|Bố!
+207|Bố!
+208|Bố!
+209|Lũ khốn đó...
+210|Trông xấu xí lắm sao?
+211|Tôi không chịu nổi!
+212|Tôi không muốn...
+213|...mất thêm ai nữa!
+214|Nika?
+215|Phải, anh ấy là người hùng của tôi.
+216|Liệu anh ấy có đến giải thoát cho tôi nữa không?!
+217|Tôi sẽ chấp nhận...
+218|BỐ
+219|...mọi số phận!
+220|Tôi chắc chắn mà.
+221|Không thể chờ nổi! Và con muốn đi thật nhiều chuyến nữa!
+222|Kuma!
+223|Kumachi!
+224|Kuma!
+225|Kuma!
+226|Kumachi!
+227|Bố ơi!
+228|Chữa được rồi!
+229|Bố!
+230|Con vui quá!
+231|Làm phiền người khác!
+232|Đúng vậy, sống là làm phiền người khác!
+233|Cái chết của anh sẽ làm phiền...
+234|...tất cả những ai yêu thương anh!
+235|Tôi nói cho anh biết, Kuma.
+236|Anh là người hùng...
+237|Của Bonney!
+238|Và của tất cả mọi người!
+239|Cảm ơn anh.
+240|Này, Vegapunk.
+241|Được, tôi sẽ làm.
+242|Nika?
+243|Phải, anh ấy là người hùng của tôi.
+244|Liệu anh ấy có đến giải thoát cho tôi nữa không?!
+245|...vì đã cứu Bonney.
+246|Khi gặp con bé, anh nói giúp tôi điều này nhé?
+247|Chúc mừng...
+248|...sinh nhật lần thứ mười.
+249|Từ các thí nghiệm thuốc trên Ginny đến bản chất thật sự của năng lực Bonney.
+250|Saturn tiết lộ sự thật tàn nhẫn trong khi không cho Bonney phản kháng.
+251|Nỗi kinh hoàng bóp méo tương lai. Liệu trái tim Bonney có bị tuyệt vọng nuốt chửng?
+252|Tập tới của One Piece! "Xin lỗi bố - Nước mắt của Bonney và nắm đấm của Kuma"

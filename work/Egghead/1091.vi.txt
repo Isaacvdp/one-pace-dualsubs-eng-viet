@@ -1,0 +1,337 @@
+1|Cái gì?!
+2|Vegapunk đó sao?!
+3|Các người ồn ào quá...
+4|Vegapunk! Tôi rất kính trọng ông!
+5|Tôi đã dành...
+6|...2 năm ở phòng thí nghiệm tại quê hương ông...
+7|...Baldimore!
+8|Có rất nhiều thứ tôi muốn cho ông xem!
+9|Này!
+10|Giấc mơ của tôi...
+11|...người máy khổng lồ!
+12|Không biết nó lớn gấp mấy lần Tướng quân Franky nhỉ?
+13|Ước gì Luffy và Chopper ở đây để xem!
+14|Đ...
+15|Đẹp quá!
+16|Vegapunk là một quý cô xinh đẹp!
+17|Cho tôi xem quần lót của cô đi!
+18|--Quần lót! --Dễ thương!
+19|Người máy khổng lồ!
+20|Siêu quá!
+21|--Người máy! --Siêu quá!
+22|Khoan đã!
+23|Sao thế, Robin?
+24|Tôi chưa từng nghe nói Vegapunk...
+25|...là phụ nữ.
+26|À đúng rồi, Vegapunk...
+27|...được cho là có bộ não lớn nhất thế giới.
+28|Tất nhiên là không!
+29|Tôi không đời nào là Stella!
+30|Stella?
+31|Tôi là Punk-02!
+32|Vegapunk "Lilith"!
+33|VEGAPUNK ÁC (LILITH)
+34|Lilith? Punk-02?
+35|Mỹ nhân!
+36|Ngân sách nghiên cứu của bọn tôi lúc nào cũng eo hẹp!
+37|Giao hết đồ quý giá ra đây! Rồi tôi sẽ không làm phiền mấy người nữa!
+38|Cái gì?! Cô nói gì vậy?! Biển ở đây lạnh cóng!
+39|Cô đã cứu bọn tôi khỏi chết đuối thì làm cho trót đi!
+40|Tôi đâu có định cứu mấy người!
+41|Về cơ bản, tàu thuyền không thể vào vùng này!
+42|Nếu thử, mấy con này sẽ đánh chìm mấy người và mấy người sẽ chết!
+43|Những con này...
+44|...Vũ khí Hải Thú!
+45|Vũ khí Hải Thú ư?!
+46|Ngầu quá!
+47|--Giờ tôi sợ nhiều hơn là phấn khích! --Ôi không!
+48|Robin!
+49|Nếu không muốn bị đánh chìm,
+50|thì cứ...
+51|...giao hết đồ quý giá ra đây!
+52|Được thôi!
+53|Này, Lilith! Cô đang làm gì vậy?
+54|Shaka! Im đi! Tôi chỉ làm việc tôi vẫn luôn làm thôi!
+55|Lại đi cướp bóc nữa à?! Hãy có chút tự trọng của một nhà khoa học!
+56|Tự trọng đâu có cho tôi thêm ngân sách!
+57|Cô ta đang nói chuyện với ai vậy?
+58|Đừng có lên mặt với tôi!
+59|Họ sẽ không đầu hàng đâu.
+60|THIỆN
+61|Họ là băng Mũ Rơm.
+62|Thuyền trưởng của họ vừa trở thành Tứ Hoàng.
+63|Tôi biết!
+64|Tứ Hoàng thì chắc có cả đống kho báu!
+65|Nếu cô muốn vậy thì cô đã sai lầm rồi.
+66|Sai lầm?
+67|Tôi đã bao vây họ bằng Hải Thú theo chiến thuật! Không có đường thoát đâu!
+68|Không, cô đã đánh giá thấp họ.
+69|Hãy nhìn kiếm sĩ trên tàu.
+70|Tiền truy nã của anh ta là 1 tỷ 111 triệu Beri.
+71|Thợ Săn Hải Tặc Zoro.
+72|Anh ta bình tĩnh vì...
+73|...biết rằng từ đó anh ta có thể giết cô ngay lập tức.
+74|Đứa Con Quỷ Nico Robin phía sau anh ta cũng vậy.
+75|Nhưng làm sao họ chống lại được từng này Vũ khí Hải Thú?!
+76|Kẻ mạnh biết mình cần hạ ai trước!
+77|Người gặp rắc rối là cô đấy.
+78|Mấy tên ồn ào kia...
+79|--...là mồi nhử! --Ngầu quá!
+80|Tôi sơ hở rồi!
+81|Này, Vegapunk.
+82|Tôi cần ông đồng ý với yêu cầu của bọn tôi...
+83|Được chứ?
+84|Cô đang đe dọa tôi à?!
+85|Không sao. Đưa họ đến đây.
+86|Tôi thấy hứng thú với nhóm đó.
+87|THIỆN (SHAKA)
+88|Đi đường này đúng không?
+89|Cô chắc chứ?
+90|Cô định đi xa đến đâu, Bonney?
+91|Cô từng đến đây chưa?
+92|Rồi, hồi tôi còn nhỏ. Lúc đó nó chỉ là một phòng thí nghiệm bình thường.
+93|Vậy cô quay lại vì chuyện gì?
+94|Cô bảo có việc với Vegapunk...
+95|Tùy vào câu trả lời của ông ta,
+96|tôi có thể giết ông ta!
+97|Khoan đã!
+98|Có chuyện gì vậy?!
+99|Bố tôi...
+100|...đã bị Vegapunk biến thành người máy.
+101|Người máy ư?! Ngầu quá!
+102|Đồ chết tiệt!
+103|Giờ ông ấy mất hết ý thức về bản thân...
+104|...thậm chí không biết mình là ai...
+105|Ông ấy chẳng còn gì hơn một vũ khí sống.
+106|Trời! Nghe rùng rợn thật...
+107|Ừ, tôi sẽ bắt ông ta trả giá.
+108|Xin lỗi, Bogey!
+109|Là Bonney!
+110|Xin lỗi, Bonney!
+111|Cứ leo lên đi!
+112|Tôi nghĩ chúng ta có thể lên đến mặt nước.
+113|Được!
+114|Các cậu định làm gì?
+115|Tùy thuyền trưởng của bọn tôi, nhưng trước hết phải tìm các đồng đội còn lại.
+116|Tôi hiểu rồi...
+117|Tôi sẽ bắt ông ta trả giá...
+118|Ồ! Sắp đến rồi!
+119|Tôi nóng lòng muốn thấy Đảo Tương Lai quá!
+120|Đợi tôi nhé, đồ ăn!
+121|Chúng ta lên đến mặt nước rồi!
+122|Được rồi! Đi tìm đồ ăn thôi...
+123|Luffy! Ngoài kia có gì thế?!
+124|Tôi đi với cậu!
+125|À đúng rồi! Tôi đã thấy Sabo ở Marijoa.
+126|Thôi kệ.
+127|Nơi này là gì vậy?!
+128|Tất cả những thứ này là gì thế?!
+129|Người máy khổng lồ ư?!
+130|Tất cả là gì vậy?!
+131|Quái vật vũ trụ ư?! Bao nhiêu thứ đang bay!
+132|Ngầu quá!
+133|Được rồi! Tôi sẽ cưỡi thứ đó!
+134|Luffy! Cẩn thận đấy!
+135|Này! Chúng ta là kẻ xâm nhập đấy!
+136|Gomu Gomu...
+137|Nghe tôi nói này!
+138|...Rocket!
+139|Cái gì?!
+140|Luffy bị nuốt rồi!
+141|Cậu không sao chứ?! Luffy!
+142|Tôi đã cảnh báo rồi.
+143|Ơ?
+144|Tôi tưởng mình bị nuốt rồi...
+145|Này! Cậu không sao chứ?!
+146|Trời! Cậu ta bị gì vậy?!
+147|Sao cậu ta lại muốn đói thêm nữa?
+148|Đừng nói đó là...
+149|Một cái parfait khổng lồ!
+150|Đồ ăn!
+151|Bánh quy! Trái cây!
+152|Này! Cậu đi đâu vậy?! Chắc chắn là bẫy!
+153|Parfait!
+154|Đồ ăn!
+155|Nhiều kem quá!
+156|Tôi ăn đây!
+157|Parfait!
+158|Đồ ăn!
+159|Nhiều kem quá!
+160|Tôi ăn đây!
+161|Chuyện gì vậy?!
+162|Cái gì?! Tay tôi xuyên qua rồi! Cái gì thế này?!
+163|Nó ở đó mà tôi không chạm được!
+164|Càng làm tôi đói hơn!
+165|Tôi không ăn được!
+166|GRRRR
+167|Đừng nói là chúng ta...
+168|Cái gì?! Luffy!
+169|Chúng ta chết mà không nhận ra sao?!
+170|Chúng ta chết rồi à?!
+171|Khoan đã, Luffy.
+172|Im đi! Tôi chết rồi!
+173|Không đời nào cậu chết đâu!
+174|Vậy sao lại thế này?
+175|Không phải vì chúng ta là ma.
+176|Có vẻ như...
+177|Tôi đã nghĩ vậy...
+178|Cái parfait này là ảnh ba chiều.
+179|Holoholo?
+180|Ảnh ba chiều.
+181|Làm sao ăn được?
+182|Ừm... Nói đơn giản thì,
+183|cái parfait đó không phải thật.
+184|Vậy đưa tôi cái thật đi.
+185|Tôi đói rồi. Nó ở đâu?
+186|Tôi không biết, nhưng có một điều chắc chắn là...
+187|...ở đây không có đồ ăn!
+188|Vậy là không có sao?!
+189|Không đời nào họ để đồ ăn ở đây tiện lợi thế được.
+190|Tôi chưa từng thấy ảnh ba chiều bao giờ.
+191|Không thể tin nổi! Không thể tha thứ!
+192|Một hình ảnh ba chiều do ánh sáng tạo ra.
+193|Giống như thứ trong truyện tranh hay chuyện viễn tưởng.
+194|Hình ảnh ư?!
+195|Dám lừa tôi! Có đó mà không có đó! Đồ holoholo chết tiệt!
+196|Thảo nào tôi xuyên qua con quái vật vũ trụ đó!
+197|Người máy khổng lồ kia chắc cũng là ảnh ba chiều. Không ai làm được thứ như vậy.
+198|Đã làm thì sao không làm đồ ăn đi?!
+199|Này, nhìn cái này đi!
+200|Cái gì đây?
+201|Có hình đồ ăn và các nút bấm.
+202|Cậu vừa thấy rồi còn gì?
+203|Thôi đi. Mọi thứ trên đảo này đều giả.
+204|Vậy tôi nên làm gì?
+205|Tôi không biết.
+206|Tôi vừa nhận ra...
+207|...chỗ này ấm quá trong khi biển quanh đây cực kỳ lạnh.
+208|Ừ.
+209|Đây là một hòn đảo nhiệt đới.
+210|Hả?
+211|Nhưng chắc chắn đây là Đảo Mùa Đông.
+212|Chỗ này ấm là nhờ Máy điều hòa đảo do tôi chế tạo.
+213|Tôi điều khiển nhiệt độ của cả hòn đảo từ lớp đất của nó.
+214|Mấy đứa mày trông lạ hoắc...
+215|Một cô gái?!
+216|Hơn hết...
+217|Cô ta to quá!
+218|Đứa trẻ đó là sao vậy?
+219|Cô ta còn to hơn Kaido.
+220|Tôi không biết các cậu là ai, nhưng nhiệt độ ở đây dễ chịu nên cứ ở lại đi.
+221|Tôi đang trên đường đi làm nên...
+222|...cho tôi qua.
+223|Này, cô gái to lớn! Tôi đói!
+224|Cô làm cái parfait giả đó đúng không?!
+225|Ồ, nếu cậu đói...
+226|Cô chắc cũng là holoholo!
+227|Hả? Tôi đánh trúng cô ấy! Cô ấy là thật sao?!
+228|Đừng có nói nhảm "đánh trúng, có thật không" nữa!
+229|Cậu làm gì vậy, đồ ngốc?!
+230|Xin lỗi!
+231|Ôi không! Cô ấy là thật!
+232|Hả?
+233|Hả?
+234|Hả?
+235|Kết cấu này... Mùi này...
+236|Một cái hamburger kèm nước uống và khoai chiên!
+237|Là thật sao?!
+238|Không phải holoholo à?!
+239|Tôi chạm được không?
+240|Tôi ăn được không?
+241|Ngon quá!
+242|Đây là thật!
+243|Hả? Ai làm ra vậy?!
+244|Không phải thứ này sao?!
+245|Không phải người...
+246|Cậu ấy bấm nút rồi nó ra.
+247|Sao cũng được, miễn có đồ ăn! Bấm cái tiếp theo đi!
+248|Được rồi!
+249|Bít tết! Cơm omelet! Cốt lết heo!
+250|Ngon quá!
+251|Tiếp theo!
+252|--Bánh kẹo bông! --Không, pizza!
+253|Tôi chọn trước! Mì ramen, gà rán và hot dog!
+254|Khoan! Nếu bấm cùng lúc thì có thể tất cả ra cùng lúc đấy!
+255|Cậu thông minh thật!
+256|Cậu thông minh thật, Chopper!
+257|Khen vậy tôi cũng không vui đâu!
+258|Jimbei, cậu cũng chọn một món đi!
+259|Tôi không sao.
+260|Ngon quá!
+261|Ngon! Ngon!
+262|Chà, các cậu ăn nhiều thật.
+263|Tất nhiên! Tôi đói suốt từ nãy giờ!
+264|Tôi cũng vậy!
+265|Tôi cũng thế!
+266|Cả cái này nữa!
+267|Thấy họ thích thì tôi mừng.
+268|Chuyện gì vậy? Cái thứ đó là gì?
+269|Các cậu muốn biết không?
+270|Đó là Máy Nấu Ăn Tự Động!
+271|Chỉ cần có nguyên liệu, nó có thể làm 500 món khác nhau trong vòng một phút!
+272|Chế độ tự động cho nguyên liệu thừa đặc biệt tiện lợi!
+273|Giá mà chúng ta xây được nó theo bản thiết kế!
+274|Nhưng vì thiếu kỹ thuật viên nên chúng ta không thể sản xuất hàng loạt!
+275|Máy điều hòa đảo cũng vậy.
+276|Nếu kiểm soát được nhiệt độ cả hòn đảo,
+277|chúng ta cũng có thể xác định chính xác mọi sinh vật trên đó.
+278|Tôi đã phát minh ra thứ tuyệt vời như vậy,
+279|nhưng hoàn cảnh xung quanh không theo kịp giá trị của nó!
+280|Nếu có thêm tiền tiêu, tôi còn điều khiển được cả thời tiết!
+281|Thế giới thiếu công nghệ và ngân quỹ!
+282|Tôi làm việc chăm chỉ để phát minh mà sao lại thế này?!
+283|Chết tiệt!
+284|Không đủ nguồn lực!
+285|Cô ấy đấm một ảnh ba chiều!
+286|--Tôm chiên! --Bánh waffle!
+287|Tôi thấy khá hơn rồi!
+288|Sao có thể thế được?
+289|Sao cô đấm được ảnh ba chiều?
+290|Các cậu muốn biết không? Tôi sẽ nói.
+291|Với Găng Tay Áp Suất Ánh Sáng này, ánh sáng không còn chỉ là thứ để nhìn.
+292|Chào!
+293|Người ta coi một thứ là vật thể khi chạm vào nó.
+294|Cái gì? Vậy cô ấy không thật sao?
+295|Thật ư?
+296|Luffy! Nhìn lên đi!
+297|Vậy là cô ấy không thật. Tôi tưởng cô ấy thật.
+298|Đừng hỏi tôi cái gì thật hay không thật!
+299|Cậu quyết định cái gì thật, cái gì không!
+300|Ngay cả từ "thật" cũng là khái niệm lỗi thời với tôi!
+301|Ngon quá!
+302|Cậu không nghe gì cả!
+303|Rốt cuộc cô là ai?
+304|Tôi ư?
+305|Tôi chỉ là một nhà khoa học thiên tài nhận làm thuê thôi!
+306|Tiến sĩ Vegapunk!
+307|BẠO LỰC (ATLAS)
+308|Ngon quá!
+309|Cô là Tiến sĩ Vegapunk ư?!
+310|Koby đã kể về ông cho tôi! Cô to quá và trẻ quá!
+311|Không thể nào! Cô ta nói gì vậy?
+312|Ừ! Hôm nay chúng ta sẽ học về người này! Tiến sĩ Vegapunk!
+313|Nhà khoa học thiên tài của Chính phủ, được cho là có bộ não lớn nhất thế giới.
+314|Ông đến từ Vùng Đất Tương Lai Baldimore.
+315|Tôi biết đất nước đó! Nơi Kuma đã đưa Franky đến!
+316|Đúng vậy.
+317|Franky đã rất ấn tượng với tài liệu nghiên cứu của ông ấy.
+318|Không thể tin tất cả đây đều từ thời trẻ của ông ấy.
+319|Có nhiều ý tưởng cần vài trăm năm mới thực hiện được hoàn toàn.
+320|Sau khi Tiến sĩ Vegapunk rời Baldimore,
+321|ông gia nhập nhóm nghiên cứu MADS cùng Caesar và Vinsmoke Judge.
+322|Và ông đã khám phá ra Yếu tố Huyết thống bên trong sinh vật sống.
+323|Chỉ còn một bước nữa là chiếm lấy vị trí của Thần,
+324|vì nó chẳng khác nào khám phá ra bản thiết kế của sự sống.
+325|Ngoài ra, ông đã chế tạo một chiến hạm phủ Hải Lâu Thạch,
+326|và Trái Ác Quỷ nhân tạo,
+327|đồng thời xây dựng kỹ thuật cho phép vật thể "ăn" Trái Ác Quỷ.
+328|Ông có rất nhiều thành tựu.
+329|Biết đâu ông sẽ tạo ra những phát minh tuyệt vời trong lĩnh vực y học!
+330|Nhiều Vegapunk với ngoại hình và độ tuổi khác nhau xuất hiện,
+331|khiến bí ẩn càng thêm sâu.
+332|Tạm biệt!
+333|Một người đàn ông đuổi theo Mũ Rơm và mọi người đang vui đùa với các thiết bị tương lai.
+334|Ông ta giống hệt Bartholomew Kuma!
+335|Bonney ngăn Luffy đang định chống trả!
+336|Không kìm nổi cảm xúc dâng trào, cô tiết lộ mối quan hệ gây sốc với Kuma!
+337|"Nỗi Đau Của Bonney! Bóng Tối Rình Rập Trên Đảo Tương Lai"

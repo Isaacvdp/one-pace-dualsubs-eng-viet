@@ -188,6 +188,14 @@ Keep lines short like subtitles. Keep Japanese honorifics the English subs keep
 | Ancient Kingdom / ancient weapons / Empty Throne | Vương quốc Cổ đại / vũ khí cổ đại / Ngai Vàng Trống |
 | Lulusia Kingdom / Sorbet Kingdom | Vương quốc Lulusia / Vương quốc Sorbet |
 | "Dad" (Bonney to Kuma) / "Kumachi" | "Bố" / "Kumachi" |
+| Paw-Paw / Age-Age / Brain-Brain Fruit | Trái Nhục Cầu / Trái Tuổi Tác / Trái Brain-Brain |
+| Flame Emperor (Sabo) / Color of the Supreme King | Hỏa Đế / Bá Vương Sắc |
+| Buccaneer(s) / Lunarian / Iron Giant | Buccaneer / tộc Lunarian / Người Khổng Lồ Sắt |
+| Sea Beast Weapons / Authority Chip / Mental Waves | Vũ khí Hải Thú / Chip Quyền Hạn / Sóng Tinh Thần |
+| Godhead of X (Five Elders' titles) / Fleet Admiral | Thần X / Thủy sư Đô đốc |
+| Twenty Kingdoms / Heavenly Tribute / Six Powers | Hai Mươi Vương Quốc / Thiên Cống / Lục Thức |
+| Old Man Apple (Luffy for Vegapunk) / Mosshead | ông Apple / Đầu Rêu |
+| Buster Call / Ponegliff / Fabriophase / SWORD | kept in English |
 
 - Vegapunk (Stella, Shaka, Edison, Pythagoras): tôi/các cậu, polite and talkative. Lilith: brash, tôi/mấy người. Atlas: loud, childish, tôi/các người. York: lazy and selfish, tôi/các người.
 - Sentomaru: tôi/các người; to Vegapunk "Tiến sĩ".
@@ -197,4 +205,4 @@ Keep lines short like subtitles. Keep Japanese honorifics the English subs keep
 - Garp to Koby: ta/cậu; Koby to Garp: tôi/ngài ("ngài Garp"). Garp to Luffy: ông/cháu.
 - Lucci, CP0: ta/ngươi. Kaku to Zoro: tôi/cậu.
 - Buggy: ta/các ngươi, blustering; his crew calls him "Đội trưởng Buggy".
-- Song lyrics and the next-episode narration (in italics) are translated once and reused by later episodes.
+- Opening and ending lyrics aren't translated (they're cut out of the videos). The next-episode narration and other repeated lines are translated once and reused by later episodes.

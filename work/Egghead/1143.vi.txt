@@ -1,0 +1,238 @@
+1|Không!
+2|Ông Apple!
+3|Lũ khốn...
+4|Này Stella, cậu không thể cứ thế mà bắt đầu nói đâu.
+5|Hử? Ý cậu là sao, Shaka?
+6|--Mọi người cần thời gian chuẩn bị để nghe. --Gì? Gì cơ?
+7|JUSTICE
+8|Khi có tòa báo nào đó đưa tin,
+9|thì đến ngày mai nó sẽ lan khắp thế giới và...
+10|Cậu nghĩ vậy sao?
+11|Nếu họ thao túng thông tin thì sao?
+12|Vậy chúng ta nên làm gì?
+13|Dùng các chi nhánh Hải Quân khắp thế giới làm trạm chuyển tiếp,
+14|những Sóng Tinh Thần này sẽ bị cưỡng ép phát sóng hết công suất.
+15|Cái gì vậy?! Từ đâu tới?!
+16|Nó đang phát ra từ ốc sên của toàn bộ hạm đội!
+17|Dừng lại ngay! Tắt đi!
+18|N-Nhưng...
+19|...tôi không tắt được!
+20|Chuyện gì đang xảy ra?
+21|Này! Sao tôi lại nghe thấy giọng cậu?!
+22|Vegapunk!
+23|Họ có thể nhận tín hiệu âm thanh bằng ốc sên truyền tin,
+24|nhưng việc lắp ốc sên truyền hình có thể mất chút thời gian...
+25|Giọng này...
+26|Là Mũ Sắt sao?!
+27|Hãy đợi một tiếng.
+28|Ông định nói về chuyện gì, Vegapunk?
+29|Một tiếng?!
+30|Lâu quá. Trong lúc đó...
+31|Này, đây là...
+32|Là Vegapunk, đúng không?
+33|Từ đâu vậy? Sao lại là lúc này?
+34|Bọn tôi đang cố hết sức giúp ông ấy trốn thoát mà!
+35|Phải! Sao ông ấy cứ liều lĩnh thế?!
+36|Đừng gây thêm rắc rối nữa!
+37|Có phải chúng ta cũng nghe thấy giọng Shaka không?
+38|Cậu ấy bị York bắn rồi.
+39|Cậu ấy còn sống sao?
+40|Không, không thể nào...
+41|Stella, cậu định làm gì vậy?
+42|Những kẻ không hài lòng với buổi phát sóng này có thể sẽ phá hoại nó.
+43|Có vẻ sắp có chuyện bắt đầu rồi!
+44|Mũ Rơm! Cậu ở đâu?!
+45|Nhìn bọn liều lĩnh kia kìa. Nhưng mà...
+46|...bọn ta khâm phục sự gan dạ đó!
+47|Chết thật!
+48|Đi tiếp thôi!
+49|Ừ!
+50|Tôi sẽ cho mọi người thời gian chuẩn bị đón nhận buổi phát sóng.
+51|Là mười phút!
+52|Thế giới!
+53|Ôi, tốt quá! Ông Apple có vẻ không sao!
+54|Và Mũ Sắt vẫn còn sống!
+55|Vậy thì giờ...
+56|Tao chỉ cần xử lý bọn mày thôi!
+57|Buổi phát sóng này là gì vậy?!
+58|Rốt cuộc chuyện này là sao vậy?!
+59|Này Saturn. Vegapunk bị làm sao rồi?
+60|Kizaru đã giết hắn.
+61|Hắn hẳn phải chết rồi.
+62|Ừm.
+63|Ta nghĩ vậy.
+64|Ta đã thấy tận mắt.
+65|Chẳng lẽ hắn đã sắp đặt để thông điệp được kích hoạt khi hắn chết?
+66|Có lẽ vậy...
+67|Chúng ta không biết hắn sẽ nói gì...
+68|Giá mà tìm được nguồn phát sóng...
+69|Chỉ có thể là Labophase trên Egghead.
+70|Hiện giờ nó được bảo vệ bằng hàng rào...
+71|Tệ rồi. Nếu không làm gì...
+72|Còn chín phút rưỡi. Mình nên làm gì đây? Phát minh gì đó chăng?
+73|Tôi đang bận.
+74|Sao cậu không uống chút cà phê?
+75|DRESSROSA, TÂN THẾ GIỚI
+76|Này, nghe chưa?!
+77|Đây là chuyện lớn đấy!
+78|Có chuyện gì?
+79|Tiến sĩ Vegapunk nổi tiếng đang định nói điều gì đó với cả thế giới!
+80|--Cái gì?! --Ra quảng trường thôi!
+81|Hả? N-Này!
+82|Mang ốc sên truyền hình ra đây!
+83|Dựng màn hình lên!
+84|Lối này! Nhanh lên! Không còn thời gian đâu!
+85|Chuẩn bị xong rồi! Hình ảnh sắp hiện lên!
+86|Tôi sẽ tính xác suất nhiễu tín hiệu.
+87|Rebecca, video đã bật rồi.
+88|Đó là...
+89|...Vegapunk?
+90|Leo! Nhóc!
+91|Hai người đến xem phát sóng à?
+92|Đó là vị tiến sĩ mà Luffyland bắt làm con tin sao?
+93|Chuyện gì đang xảy ra vậy?
+94|Sao?
+95|Leo, cậu lại tin vào mấy tin xấu về Lucy rồi.
+96|Không đúng sao?
+97|Cậu biết anh ấy mà. Anh ấy sẽ không làm chuyện hèn hạ như bắt con tin đâu.
+98|Tôi đồng ý!
+99|Tốt!
+100|Nhìn video thì,
+101|có vẻ Tiến sĩ Vegapunk đang phát sóng theo ý muốn của chính mình.
+102|"Sự thật của thế giới" mà ông ấy nói là gì vậy?
+103|Tôi không biết. Hoàn toàn không có manh mối.
+104|LÀNG CỐI XAY GIÓ, EAST BLUE
+105|Gì vậy? Tôi tưởng tin này lại là chuyện Luffy làm gì xấu nữa chứ.
+106|Người trong buổi phát sóng là ai vậy? Gã Vegapunk đó kiêu ngạo quá!
+107|Bỏ cái trò sự thật của thế giới đi!
+108|Nhưng tôi tò mò đấy.
+109|Chúng ta cần một ốc sên truyền hình...
+110|Làng mình cũng muốn một con! Trưởng làng!
+111|Ai sẽ trả tiền?! Không có miễn phí đâu!
+112|Nghe được tiếng là đủ rồi.
+113|Thôi nào!
+114|WATER SEVEN, GRAND LINE
+115|Dậy đi!
+116|Chuyện nghiêm trọng đấy!
+117|Ôi chao...
+118|Alice...
+119|Vâng, thưa Chủ tịch.
+120|Chuẩn bị ốc sên truyền hình ngay lập tức.
+121|Phòng bên cạnh đã bật sẵn rồi ạ.
+122|ALICE, THƯ KÝ CỦA ICEBURG
+123|Cô lúc nào cũng đi trước một bước...
+124|Tôi cũng đã lắp màn hình ở từng bến đóng tàu.
+125|Dù là ban đêm, tôi cho rằng việc này cực kỳ quan trọng,
+126|nên tôi đã ra lệnh chuẩn bị để toàn thể cư dân...
+127|...có thể xem video trong vòng mười phút.
+128|Còn gì nữa không?
+129|Ôi chao... Hoàn hảo.
+130|Tôi chỉ làm tròn bổn phận.
+131|WORLD ECONOMIC JOURNAL
+132|Cái gì?!
+133|Video này là sao?!
+134|Nó được chuyển tiếp qua các chi nhánh Hải Quân nhưng là tín hiệu độc lập!
+135|Ý cô là sao? Vậy giờ Luffy-san và mọi người đang ở đâu?
+136|Nhìn đồng hồ phía sau họ đi, đồ ngốc.
+137|Đây không phải giờ hiện tại ở Egghead.
+138|Vậy nghĩa là... gì?
+139|Đây là đoạn phim đã ghi sẵn.
+140|Giờ này nơi đó hẳn đã thành địa ngục vì Buster Call rồi.
+141|Ra vậy! Cô thông minh quá, Mor-chan!
+142|Đây sẽ là tin chấn động thế giới!
+143|Ôi, tôi muốn viết bài về chuyện này!
+144|Có chuyện nghiêm trọng đến mức kích hoạt Buster Call đã xảy ra trên Egghead sao?
+145|Làm ơn đừng chết nhé, bất kể thế nào, Luffy-san!
+146|WEST BLUE
+147|Đây là Tiến sĩ Vegapunk thật sao?!
+148|Nghe nói dù chỉ còn nửa bộ não ông ấy vẫn là thiên tài...
+149|Ông ấy đã thử rồi sao?!
+150|NORTH BLUE
+151|Người có bộ não lớn nhất thế giới, người mang ánh sáng đến cho thế giới...
+152|SOUTH BLUE
+153|Ông ấy muốn nhọc công nói với cả thế giới điều gì chứ?!
+154|Có thể là phát minh vĩ đại nhất thế kỷ!
+155|VƯƠNG QUỐC KAMABAKKA
+156|Pha cà phê mất mười phút.
+157|Vậy thì tôi không có thời gian uống!
+158|Hừm, hừm...
+159|Xác suất nhiễu tín hiệu cực kỳ thấp.
+160|Vegapunk đang làm gì vậy?!
+161|Quan trọng hơn,
+162|đầu của ông ấy!
+163|Bị chặt rồi!
+164|Có phải đó là các bản sao của Tiến sĩ Vegapunk như lời đồn không?!
+165|Tôi tưởng ông ấy bị bắt làm con tin.
+166|Giữa tình cảnh này mà ông ấy làm được vậy sao?
+167|Dragon-san.
+168|Vegapunk thật sự sắp tiết lộ sự thật của thế giới sao?
+169|Tôi...
+170|...sắp chết rồi...
+171|ĐÔNG BẮC EGGHEAD
+172|Sắp tới rồi!
+173|Bố...
+174|Tôi thấy rồi!
+175|Ừ, đúng rồi!
+176|Đó là tàu của bọn mình!
+177|Great Erik!
+178|Đúng là tàu hải tặc của Người Khổng Lồ! Siêu to!
+179|Ừ! Bọn ta sẽ ra khơi ngay khi các Đại ca trở về!
+180|Giờ chỉ cần mọi người gặp được nhau...
+181|Vegapunk và mọi người... Họ sẽ ổn chứ?
+182|Bao nhiêu cú đấm mà chẳng có tác dụng gì!
+183|Cho đến khi tất cả đồng đội của tao thoát được,
+184|tao sẽ không để mày đi đâu cả!
+185|Gum-Gum...
+186|...Dawn...
+187|...Cymbal!
+188|Nếu mày cứ hồi phục bất kể tao làm gì,
+189|thì bay...
+190|...đến tận cùng thế giới đi!
+191|Có thứ gì đó... đang bay tới!
+192|Cái gì?!
+193|Sao làm gì ông ta cũng không bị thương vậy?!
+194|Biến đi!
+195|Kizaru-san, chuyện gì xảy ra vậy?!
+196|Ngài có sao không?!
+197|Đô đốc!
+198|Kizaru-san?
+199|Chúng ta không còn thời gian, Saturn!
+200|Không thể để...
+201|...Vegapunk nói tự do!
+202|Ôi, suýt soát!
+203|Dai thật!
+204|Ôi... Hự!
+205|Ta sẽ bắt đầu triệu hồi.
+206|Vâng...
+207|Cái gì?! Đó là...?
+208|Sét đen!
+209|Cái gì vậy?!
+210|Giống hệt lúc Lão Nhện xuất hiện...!
+211|♪
+212|♪
+213|♪
+214|♪
+215|♪
+216|♪
+217|♪
+218|♪
+219|♪
+220|♪
+221|♪
+222|♪
+223|♪
+224|♪
+225|♪
+226|♪
+227|♪
+228|♪
+229|♪
+230|♪
+231|♪
+232|♪
+233|♪
+234|♪
+235|♪
+236|♪
+237|♪
+238|Tập tiếp theo của One Piece! "Cơn Ác Mộng Tồi Tệ Nhất - Ngũ Lão Tinh Hội Tụ"

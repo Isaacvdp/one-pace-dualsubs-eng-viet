@@ -1,0 +1,244 @@
+1|Xin chi viện!
+2|Quân nổi dậy ở Tumi, South Blue đang bị áp đảo về quân số!
+3|Xin hãy chi viện ngay lập tức!
+4|Quân nổi dậy ở Tumi, South Blue đang bị áp đảo về quân số!
+5|Xin hãy chi viện ngay lập tức!
+6|Chúng ta không đi được!
+7|Chúng ta đang chở rất nhiều người bị thương từ Vương quốc Goa!
+8|Iva-chan, để tôi đi.
+9|Không được, Kuma! Cậu quá liều lĩnh...
+10|...kể từ hồi đó!
+11|Kuma!
+12|Khoan đã!
+13|TUMI, SOUTH BLUE
+14|Chết tiệt!
+15|Tới giờ rồi, bọn nổi dậy!
+16|Anh ta là đồng minh của chúng ta à?
+17|Ginny bị bắt đi rồi sao?!
+18|Ừ... Có vẻ một Thiên Long Nhân đã để mắt tới cô ấy...
+19|Cô ấy bị tàu của Chính phủ đưa đi để làm vợ tên Thiên Long Nhân đó.
+20|Ursa Shock.
+21|Quân Cách Mạng ư?
+22|T-Tuyệt quá!
+23|Ba năm chiến đấu cuối cùng cũng đáng giá!
+24|Tất cả là nhờ Quân Cách Mạng!
+25|Họ là anh hùng của người dân thường!
+26|Đơn vị của chúng tôi bị tiêu diệt bởi một cuộc đột kích bất ngờ.
+27|Tôi xin lỗi!
+28|Reng, reng, reng...
+29|Cạch.
+30|Dragon, là tôi đây.
+31|Tôi mệt rồi...
+32|Tôi sẽ đi tàu về nhà.
+33|"Lời thề với Ginny - Kuma trở thành người cha"
+34|Khoảng hai năm đã trôi qua...
+35|...kể từ khi Ginny, đội trưởng Quân Cách Mạng, bị bắt đi làm vợ một Thiên Long Nhân...
+36|Tôi xin lỗi.
+37|Tới nơi rồi, Bonney.
+38|Kuma! Ginny gọi cho chúng ta!
+39|Nhanh lên nào, mấy cưng!
+40|Ginny!
+41|Anh cả?
+42|Ginny!
+43|Này, Kumachi!
+44|Em đã trở lại thế giới bên dưới rồi!
+45|Ồ! Em làm bọn anh lo quá!
+46|Ginny... Anh mừng là em còn sống!
+47|Em bị bệnh...
+48|...nên họ không cần em nữa và vứt bỏ em.
+49|May cho em ghê!
+50|Bệnh sao?
+51|Em nói vậy là sao, Ginny?
+52|Em muốn gặp lại mọi người,
+53|nhưng đây là lời tạm biệt của em.
+54|Cái gì?!
+55|E-Em đang nói gì vậy, Ginny?!
+56|Anh tưởng sẽ không bao giờ gặp lại em nữa!
+57|Em đang ở đâu?! Anh tới ngay!
+58|Em xin lỗi, Kumachi.
+59|Em sắp chết rồi. Không còn lâu nữa.
+60|Cái gì?
+61|Em sắp chết sao?
+62|Tại sao?
+63|Tại sao chứ?!
+64|Anh đi ngay đây!
+65|Kumachi.
+66|Em cảm ơn lòng tốt của anh, nhưng đừng bao giờ đến gặp em.
+67|Ginny! Bọn anh sẽ tới giúp em ngay!
+68|Em đang ở đâu?!
+69|Nhanh lên!
+70|Kuma!
+71|Cậu đi đâu vậy?!
+72|Chỉ có một nơi cô ấy sẽ quay về thôi!
+73|Dragon, anh cả...
+74|Kumachi tốt bụng quá. Xin hãy trông chừng anh ấy.
+75|Và Kumachi...
+76|Em sẽ luôn...
+77|...luôn...
+78|...yêu anh.
+79|Kuma? Cậu về rồi à?!
+80|Ginny đâu?! Tôi biết cô ấy ở đây!
+81|Cô ấy ở đây, nhưng...
+82|Ginny!
+83|Ginny!
+84|Sao lại... Em bị làm sao thế này?!
+85|Mặt và cả người em...
+86|Cô ấy nói khi tiếp xúc với ánh sáng tự nhiên, da cô ấy sẽ chuyển xanh và cứng như đá.
+87|Tội nghiệp con bé... Không biết nó đã gặp chuyện gì.
+88|Ngon quá!
+89|Kumachi!
+90|Kumachi!
+91|Để đảm bảo con của mình sống được dù có chuyện gì xảy ra với mình...
+92|...cô ấy đã vượt biển đầy nắng để đến đây khi còn sống.
+93|Đừng lo, Ginny.
+94|Anh sẽ nuôi con của em.
+95|Không phải!
+96|Bình sữa nghiêng sai góc rồi!
+97|T-T-Thế này được chưa?
+98|Ồ, xin lỗi!
+99|Cậu định dìm chết con bé à?!
+100|Để tôi làm cho!
+101|Khi ngủ thì nhốt con bé vào lồng sắt đi.
+102|Cậu có thể đè bẹp con bé bằng cái thân khổng lồ đó đấy.
+103|Con bé dễ thương thật.
+104|Bonney-chan uống nhiều thật.
+105|Lớn lên con bé sẽ háu ăn y như Ginny.
+106|Muốn thêm nữa.
+107|Ừ, chắc vậy...
+108|Chớp mắt cái đã bò xa thế rồi. Phải để mắt tới con bé mới được!
+109|Đúng rồi! Cứ thế, Bonney!
+110|B...
+111|Bố!
+112|Bố!
+113|Ừ, bố là bố của con đây!
+114|Này! Bonney!
+115|Ồ, cậu về rồi!
+116|Chào mừng về nhà!
+117|Kuma?!
+118|Sao cậu lại đóng ván hết cửa sổ trong nhà thờ vậy?!
+119|Đóng cửa lại!
+120|Nhìn này.
+121|Đá xanh?!
+122|Đây là...
+123|Giống hệt lúc Ginny chết--
+124|Đừng nói ra!
+125|Tôi đi gọi bác sĩ!
+126|Cảm ơn...
+127|Chà...
+128|Khi tiếp xúc với mặt trời?
+129|Thật sao?
+130|Phải.
+131|Thử đưa con bé ra ngoài xem--
+132|Đừng có điên!
+133|Đây không phải bệnh Chì Trắng...
+134|Tôi xin lỗi. Tôi chưa từng thấy triệu chứng này.
+135|Tôi hiểu rồi...
+136|Bố?
+137|Đừng lo, Bonney.
+138|Cậu bỏ Quân Cách Mạng sao?!
+139|Bonney thật sự mắc cùng bệnh với mẹ con bé à?!
+140|Ừ...
+141|Tôi không biết phải làm sao...
+142|...nhưng tôi muốn ở bên con bé.
+143|Tôi hiểu. Hãy sống cuộc đời không hối tiếc.
+144|Bọn tôi cũng sẽ hỏi các bác sĩ khắp thế giới về chuyện này.
+145|Cảm ơn anh, Dragon!
+146|BẢY NĂM TRƯỚC
+147|Thời gian trôi qua và khi Bonney lên năm...
+148|Chạy đi!
+149|Ma cà rồng sẽ ăn thịt chúng ta đó!
+150|BONNEY (5 TUỔI)
+151|Cút đi, lũ nhóc ranh!
+152|Lêu lêu!
+153|Ha! Mày không đi xa hơn chỗ này được đâu!
+154|Mày là ma cà rồng không ra ngoài được!
+155|Ăn thánh giá này! Xeeen!
+156|Ái!
+157|Tụi bây đang ở trong nhà thờ đó!
+158|Muốn tao ra ngoài bắt tụi bây hả?!
+159|Khoan đã, Bonney!
+160|Bố.
+161|Xin đừng ra ngoài. Chỉ thấy con đứng ở cửa thôi bố cũng thấy đau lòng.
+162|Bố nhát quá. Con chỉ đùa thôi mà.
+163|Thì đừng làm vậy, kể cả là đùa.
+164|Được rồi.
+165|Con không muốn làm bố buồn.
+166|Bonney!
+167|Con đã lớn thành một đứa trẻ ngoan rồi!
+168|Thôi đi, đồ mít ướt!
+169|Mấy thằng nhóc đó...
+170|...chọc cười mấy viên đá trên mặt con!
+171|Trông xấu lắm sao?
+172|Nhưng đây là bệnh mà. Con không làm gì được.
+173|Mấy viên ngọc đó á?!
+174|Làm con giật mình!
+175|Chắc tụi nó cũng muốn có vì chúng đẹp quá.
+176|Gì cơ?
+177|Con nghĩ vậy sao?!
+178|Vâng! Con thích chúng lắm!
+179|Bonney, nếu sau khi khỏi bệnh con được đi du lịch, con muốn đi đâu?
+180|Ồ! Bố biết Đảo Trên Trời không?
+181|Có đảo trên bầu trời sao?
+182|Đúng vậy! Con thấy trong sách!
+183|Thấy chưa?!
+184|Đảo Trên Trời gần mặt trời hơn, nên biết đâu Nika sẽ ở đó!
+185|Đó là điều đáng mong chờ đấy!
+186|Nika hả?!
+187|Bắt đầu nào! Điệu nhảy của Nika!
+188|Bay lên trời sẽ là một cuộc phiêu lưu lớn!
+189|Mình làm vậy khi con tròn 20 nhé?
+190|Dạ!
+191|Khi con tròn 19 mình đi đâu đây?
+192|Đảo Người Cá!
+193|Triệu chứng của con gái anh... Đó là căn bệnh nan y gọi là Vảy Sapphire.
+194|Ông biết đó là bệnh gì sao?
+195|Vâng.
+196|Xin lỗi nhưng hãy nói nhỏ thôi.
+197|Gần đây tôi nghe về rất ít ca.
+198|Ánh nắng, ánh trăng, mọi loại ánh sáng tự nhiên đều khiến đá lan rộng.
+199|Nhưng dù tránh hoàn toàn ánh sáng, bệnh vẫn tiến triển.
+200|Cái gì?
+201|Thật sự không chữa được sao?!
+202|Bonney... Con gái tôi có cách sống sót, đúng không?!
+203|Tôi sẽ nói thẳng với anh. Con gái anh...
+204|...nhiều nhất chỉ còn sống được năm năm.
+205|Con bé sẽ không sống đến sinh nhật lần thứ mười.
+206|Ông không làm gì được sao?
+207|Hiện tại chưa có cách chữa nào được biết đến.
+208|Mười tuổi sao?!
+209|Nhưng con bé đang lớn lên rất khỏe mạnh mà!
+210|Không có cách chữa sao?
+211|Họ có chắc là không có không?!
+212|Gì?! Bonney! Bố tưởng con đang ngủ!
+213|Con nghe hết rồi!
+214|Gì cơ?
+215|Mười tuổi á?
+216|Mười tuổi? Mười tuổi thì sao?
+217|Con nghe ai đó nói mười tuổi!
+218|Ồ? Bố đang khóc một chút à?
+219|Là nói về con, đúng không?!
+220|Ư-Ừ...
+221|Mười năm... Mười tuổi...
+222|Về bệnh của con, Bonney...
+223|Bác sĩ đó nói con sẽ không khỏi cho đến khi tròn mười tuổi.
+224|Gì cơ?
+225|Con chỉ thất vọng vì phải đợi lâu như vậy.
+226|Yay!
+227|Con sẽ khỏi bệnh khi tròn mười tuổi sao?!
+228|Con đi du lịch với bố được không?!
+229|T-Tất nhiên rồi! Con sẽ khỏe lại khi tròn mười tuổi.
+230|Hoan hô!
+231|Ôi không... Mình phải làm sao đây?
+232|Rồi một năm nữa trôi qua,
+233|và cơn ác mộng quay trở lại Vương quốc Sorbet.
+234|Kuma!
+235|Kumachi, cứu với!
+236|Vua Bekori lại làm nữa rồi!
+237|Giống hệt 16 năm trước!
+238|Ông ta nói sẽ thiêu sống những kẻ kéo lùi đất nước!
+239|Hắn không phải người! Hắn bắt đầu thanh trừng dân rồi!
+240|Để cứu mạng đứa con gái yêu quý, Kuma lên đường.
+241|Anh gặp một nhà khoa học thiên tài ở tận cùng thế giới.
+242|Người đàn ông đó là quỷ dữ hay thánh thần?
+243|Điều kiện kỳ lạ mà vĩ đại được đưa ra để đổi lấy việc chữa bệnh cho Bonney là gì?
+244|Tập tiếp theo của One Piece! "Để cứu con gái - Kuma, Pacifista nhút nhát"

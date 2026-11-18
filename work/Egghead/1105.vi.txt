@@ -1,0 +1,275 @@
+1|"Hành động phản bội tuyệt đẹp! Điệp viên Stussy!"
+2|Gì?!
+3|Khoan đã! Chuyện gì vậy?!
+4|Sao một CP-0 lại hạ một CP-0 khác?
+5|Tôi không có tư cách nói, nhưng...
+6|...cô làm vậy có ổn không?
+7|Anh là Roronoa Zoro, đúng không?
+8|Không cần lo đâu.
+9|Tôi không hiểu cách làm của Chính phủ.
+10|Còn bộ xương kia là Vua Linh Hồn, đúng không?
+11|Anh định đứng đó bao lâu?
+12|Anh sợ tôi à?
+13|Thịch!
+14|Vâng, về nhiều mặt...
+15|Nào, chuyện gì vậy? Hai người cãi nhau à?
+16|Không, tôi làm vậy có mục đích.
+17|Đừng lo. Tôi sẽ không làm hại các anh.
+18|Tôi không tin kẻ phản bội bạn bè.
+19|Đây là Stussy. Tôi đã cho cả hai ngủ rồi.
+20|Xin lỗi vì đã làm phiền.
+21|Cô ấy làm được rồi!
+22|Cô ấy không cần...
+23|Tôi cũng hạ được người của Chính phủ mà!
+24|Là của ai?! Đồng minh của các cậu à?!
+25|Rob Lucci bị hạ rồi sao?!
+26|Chuyện gì đang xảy ra vậy?!
+27|Ngay cả Lucci khôn ngoan cũng không lường được.
+28|Zoro và Brook ổn không?
+29|Ừ.
+30|Tôi khỏe như mới!
+31|Tốt!
+32|Cảnh giác nhé!
+33|Ôi, tuyệt! Stussy làm được rồi!
+34|York, cậu đâu rồi?
+35|Cứu...
+36|York, cậu ổn không?!
+37|Cố lên! York!
+38|Tôi thấy buồn nôn...
+39|Tôi không ăn nổi nữa.
+40|Cậu ấy chỉ đang nói mớ.
+41|Dậy đi! Có chuyện lớn đang xảy ra!
+42|Mà Stussy là ai?
+43|Cô ấy hạ hai người đó. Chắc là nguy hiểm.
+44|Suốt hơn 20 năm hoạt động ngầm,
+45|cô ấy đã là đồng minh của chúng ta.
+46|Gì?! Ông cài gián điệp vào cơ quan tình báo à?!
+47|Mà tận hơn 20 năm?
+48|Đó không phải kế hoạch của chúng tôi... Nhưng rốt cuộc thành ra vậy.
+49|Nhưng, Tiến sĩ...
+50|Quyền hạn của tôi bằng Lucci.
+51|Tôi không thể ghi đè lệnh của anh ta cho Seraphim.
+52|Tôi không ngăn chúng được!
+53|Cô làm đủ rồi! Stussy!
+54|Bọn tôi đến đây!
+55|Bằng mọi giá bọn tôi sẽ ngăn chúng lại!
+56|Dù sao cũng phải ngăn mấy đứa nhóc đó, không thì bạn bè mình đều bị chôn sống!
+57|Cậu nói đúng!
+58|Nhưng mấy đứa đó...
+59|Trông quen quen nhỉ?
+60|Đúng vậy!
+61|Nhất là...
+62|...cậu ta!
+63|Sao các ngươi dám làm vậy, lũ nhóc?!
+64|Chết tiệt!
+65|Các ngươi phá nát phòng thí nghiệm rồi!
+66|Nhưng nhờ vậy ra ngoài dễ hơn!
+67|Tôi đi trước!
+68|Không! Sẽ gây rắc rối đấy!
+69|Được rồi! Tôi ra được rồi!
+70|Này!
+71|Seraphim!
+72|Có lệnh đây!
+73|Nhìn kỹ lại...
+74|cậu còn giống con người hơn hắn.
+75|Cậu là ai?!
+76|Làm tôi giật mình!
+77|Cô ổn không, Lilith?!
+78|Được rồi! Giao cho tôi!
+79|Seraphim!
+80|Dừng...
+81|...chiến đấu!
+82|Edison!
+83|Kịp lúc quá!
+84|Cậu...
+85|Edison!
+86|Này... Đừng nói là...
+87|Lilith-chan.
+88|Cô đang lo cho...
+89|...tên này à?
+90|Edison!
+91|--Suýt nữa! --May quá!
+92|--Tôi tưởng là hết rồi! --Edison! Cậu làm tôi sợ chết khiếp!
+93|Mấy bản sao đó dừng lại rồi.
+94|Này! Bọn chúng là ai vậy?!
+95|Giải thích cho tôi!
+96|Đừng lo! Chúng là chiến binh tôi khá tự hào!
+97|Chúng sẽ không tấn công chúng ta nữa!
+98|Cấp bậc quyền hạn của ta cao hơn CP-0 và ta ra lệnh trực tiếp,
+99|nên lệnh cho Seraphim đã bị ghi đè.
+100|Ồ...
+101|Khó quá nên cậu không hiểu đâu, Đầu Rêu.
+102|Đừng phiền nữa, tên đầu bếp ngu!
+103|Thôi đi, Zoro-phim!
+104|Đừng coi tôi như Seraphim!
+105|--Thôi đi, Xanh-phim! --Im đi, Xoắn-phim!
+106|--Giờ ta làm gì? --Tôi sẽ giết cậu, Mù-đường-phim!
+107|Chúng ta được giao nhiệm vụ quan trọng.
+108|Hãy chung sức đưa Vegapunk rời khỏi đảo!
+109|Ồ! Các cậu đầy năng lượng nhỉ!
+110|Giờ ta thở phào được chút rồi.
+111|Seraphim đáng sợ khi là kẻ thù...
+112|Nhưng có chúng về phe mình thì thật tuyệt.
+113|Giờ ta có đồng minh khá đáng tin cậy.
+114|Shaka.
+115|Tôi đã đeo còng Hải Lâu Thạch cho Lucci và Kaku.
+116|Nên dù tỉnh dậy, họ cũng không dùng được năng lực Trái Ác Quỷ.
+117|Cảm ơn cô, Stussy.
+118|Chúng ta sẽ rời đảo bằng tàu cùng băng Mũ Rơm!
+119|Đi cùng chúng tôi nhé.
+120|Rõ.
+121|Này! Cậu vừa mời thêm một người lên tàu Sunny đấy!
+122|Cạch.
+123|Stussy-sama cũng đi cùng chúng ta...
+124|Tuyệt vời!
+125|Nào, đi hội họp với mọi người thôi!
+126|Được!
+127|Này!
+128|Bonney! Lão Punk!
+129|Hai người đâu rồi?!
+130|Luffy!
+131|Chopper!
+132|Cậu thấy họ chưa?
+133|Tôi không thấy ở đâu cả.
+134|Lạ thật! Họ đâu rồi?
+135|Tôi đi kiểm tra hướng này!
+136|Cảm ơn.
+137|Ừ!
+138|Trời ơi...
+139|Này!
+140|Lão Punk!
+141|Không có ông thì bọn tôi không ra khơi được!
+142|Cứu Bonney đã dẫn băng Mũ Rơm đến Đảo Tương Lai Egghead.
+143|Họ gặp Tiến sĩ Vegapunk và sáu Vệ tinh của ông
+144|và biết về nền văn minh tiên tiến cách đây 900 năm
+145|cùng sự thật về những người kế thừa ý chí của Ohara.
+146|Sau khi được Vegapunk Stella nhờ, Luffy quyết định đưa tất cả ra khơi.
+147|Tuy nhiên, họ đã giao chiến...
+148|...với CP-0 do Rob Lucci dẫn đầu, đến đảo để giết Vegapunk.
+149|Sau khi khuất phục Lucci và Kaku,
+150|Luffy và mọi người muốn rời Egghead ngay...
+151|Nhưng đã xảy ra một sự cố.
+152|Ông già!
+153|Tiến sĩ Vegapunk Stella đã biến mất!
+154|Đây là Sphinx ở Tân Thế Giới.
+155|Quê hương của hải tặc Râu Trắng.
+156|Chào mừng về nhà, Marco!
+157|Này, Marco. Tôi sợ lắm!
+158|Tôi đâu có sợ!
+159|Đột nhiên Hải Quân ập tới!
+160|Tôi thật sự...
+161|...xin lỗi-yoi vì không có mặt để bảo vệ mọi người.
+162|Tôi đâu có sợ!
+163|Rồi chuyện gì xảy ra?
+164|Nghe này, nghe này!
+165|Bọn Hải Quân thật kinh khủng!
+166|Chúng nói sẽ tịch thu kho báu của Râu Trắng!
+167|Chúng chẳng khác gì hải tặc!
+168|VÀI NGÀY TRƯỚC
+169|Tập hợp tất cả dân làng.
+170|Rõ!
+171|Ta sẽ không làm hại các ngươi nếu hợp tác.
+172|Hòn đảo này không thuộc Chính phủ Thế giới!
+173|Các người không được luật pháp bảo vệ!
+174|Ta tin kho báu khổng lồ của Râu Trắng nằm đâu đó trên đảo.
+175|Nói ta nghe nó ở đâu!
+176|N-Nhưng chúng tôi chưa từng nghe về kho báu của ông ấy!
+177|Đừng nói dối!
+178|Không phải nói dối! Chúng tôi không thể nói điều mình không biết!
+179|Ồ...
+180|Ra vậy...
+181|C-Chúng tôi thật sự...
+182|Nếu các ngươi không nói,
+183|bọn ta sẽ coi đó là phản quốc!
+184|Hoặc...
+185|...nếu ta bắn từng người, các ngươi có nói không?
+186|K-Không có chuyện đó!
+187|Đừng chĩa súng vào em trai tôi!
+188|Dừng lại!
+189|Nếu không nộp tiền cho Chính phủ thì chúng tôi không đáng được coi là con người sao?!
+190|Lũ cầm thú!
+191|Bà không sợ à?
+192|Marco giờ không ở đây để bảo vệ các người.
+193|Khống chế bà ta.
+194|Bà ơi!
+195|Dừng lại! Tôi bảo dừng lại!
+196|Đừng làm vậy! Bà là người lớn tuổi!
+197|Không! Dừng lại! Bà ơi!
+198|Không! Buông tôi ra!
+199|Đừng làm vậy!
+200|Đừng có đụng vào...
+201|...quê hương của bố tôi!
+202|Là Edward Weevil!
+203|C-Chạy thôi!
+204|--Ừ! --N-Này!
+205|Chắc chắn họ đã gửi quân bắt cậu ta khi chế độ Thất Vũ Hải bị bãi bỏ!
+206|Nhưng giờ ta không liên lạc được với đám quân đó!
+207|Chắc chúng bị đánh bại rồi! Tất cả!
+208|Vậy là hắn mạnh như quái vật!
+209|Rút về tàu! Chờ quân tiếp viện!
+210|Đây là Sphinx! Chúng tôi bị cựu Thất Vũ Hải Weevil tấn công!
+211|Cần chi viện!
+212|Và binh lính Hải Quân đến cướp phá làng đã rời đảo!
+213|Nếu không có người đàn ông khổng lồ đó, chúng tôi đã tiêu rồi.
+214|--Đúng không? --Ừ!
+215|Vậy cậu ấy là anh hùng. Tôi mừng là mọi người đều bình an-yoi.
+216|Nhưng, Marco!
+217|Anh nghĩ ai đến sau đó?!
+218|Đô đốc Hải Quân Ryokugyu đã đến...
+219|Và dù Weevil chống cự, họ vẫn bắt cậu ấy đi!
+220|Weevil!
+221|Con ơi!
+222|Trả con trai tôi cho tôi! Và...
+223|MISS BUCKIN, KẺ ĂN BÁM Ở MADS, TỰ XƯNG NHÀ KHOA HỌC, CỰU THÀNH VIÊN BĂNG ROCKS
+224|...hãy giao di sản của "Râu Trắng" Edward Newgate!
+225|TÊN THẬT BUCKINGHAM STUSSY
+226|Đó có thật là lý do các ngươi đến đây không-yoi?
+227|Ực!
+228|Cậu ấy vào tù vì bảo vệ ngôi làng của cha! Thật là chàng trai đáng khâm phục!
+229|Tôi và con trai của Newgate!
+230|Tôi thật sự biết ơn cậu ấy vì đã bảo vệ ngôi làng-yoi...
+231|Marco!
+232|Anh cũng không tin Weevil là con ruột của Râu Trắng, đúng không?!
+233|Có một người chứng minh được!
+234|Là Tiến sĩ Vegapunk!
+235|Kizaru-san! Chúng tôi mang đến ít bánh trà.
+236|CÔNG LÝ
+237|Đã kiểm tra độc chưa?
+238|Tất nhiên!
+239|Ta nhận. Các cậu đi được rồi.
+240|Rõ!
+241|Tôi vào được không?
+242|Tôi mang chút quà...
+243|Mời vào.
+244|Ngài đã từng gặp Tiến sĩ Vegapunk chưa?
+245|Ừm.
+246|Chỉ một lần, cách đây lâu rồi.
+247|Tôi không thể tin...
+248|...ông ta lại phản bội các vị.
+249|NGÀI JAYGARCIA SATURN CỦA NGŨ LÃO TINH, QUYỀN LỰC TỐI CAO CỦA THẾ GIỚI
+250|Tôi thật lòng thấy những gì xảy ra thật đáng tiếc.
+251|Hôm nay ta giới thiệu người này! Marco!
+252|Anh là cựu chỉ huy hải đội 1 và bác sĩ trên tàu của băng Râu Trắng
+253|sử dụng Trái Chim Hót, hệ Thần thoại, mẫu Phượng Hoàng.
+254|Anh sinh ngày 5 tháng 10 và thích dứa!
+255|Trong Chiến tranh Thượng đỉnh,
+256|anh đã chiến đấu với các Đô đốc Hải Quân để bảo vệ Ace và Luffy.
+257|Các ngươi không thể chạm tới...
+258|...nhà vua...
+259|...dễ dàng vậy đâu-yoi!
+260|Anh đã mất Râu Trắng,
+261|và từ khi băng Râu Trắng tan rã trong Chiến tranh Hận thù,
+262|anh vẫn bảo vệ Sphinx, quê hương của Râu Trắng.
+263|Nhưng khi băng Mũ Rơm lên đường hạ Kaido,
+264|anh đã đến Wano Quốc và giúp họ.
+265|Nếu thuyền trưởng ra lệnh, tôi chỉ việc theo.
+266|Tôi cũng trông cậy vào Mũ Rơm. Không...
+267|Vào các cậu, Thế hệ Tồi tệ nhất.
+268|Với băng Mũ Rơm, anh là người luôn đáng tin cậy.
+269|Hãy cùng mong chờ thấy anh nhiều hơn trong tương lai.
+270|Hẹn gặp lại lần sau!
+271|Sắp thoát khỏi Egghead, Tiến sĩ Vegapunk, nhân vật then chốt của nhiệm vụ,
+272|bỗng dưng biến mất một cách khó hiểu!
+273|Ông đã đi đâu trong phòng thí nghiệm bị phong tỏa?
+274|Băng Mũ Rơm bị bỏ lại bắt đầu tìm kiếm nhà khoa học thiên tài!
+275|Tập tiếp theo của One Piece! "Sự cố xảy ra! Tìm Tiến sĩ Vegapunk!"

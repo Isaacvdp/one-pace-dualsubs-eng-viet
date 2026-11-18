@@ -1,0 +1,202 @@
+1|Brogy!
+2|Ừ!
+3|Svalinn Sun-Shield!
+4|Ừ!
+5|Tất nhiên!
+6|Cậu ấy là bạn của bọn ta!
+7|Skilja Split!
+8|Mở còng cho tôi!
+9|Sắp tới rồi.
+10|Này, nhìn kìa!
+11|Toàn bộ Pacifista Mk. III đã bị vô hiệu hóa!
+12|Tăng cường pháo kích Egghead!
+13|Đừng để đám Tứ Hoàng Mũ Rơm trốn thoát!
+14|Đừng để Jewelry Bonney thoát!
+15|Con bé mới 12 tuổi...
+16|Không thể tin hắn lại trao cho một bé gái sức mạnh hủy diệt cả một quốc gia...
+17|Phản bội ngu xuẩn làm sao, Vegapunk!
+18|"Mối Đe Dọa Cận Kề - Quyết Tâm Của Stussy và Edison"
+19|Mau quay về tàu!
+20|Có mấy tên nguy hiểm đã đổ bộ!
+21|Đừng để chúng ra khơi!
+22|Đánh chìm tàu Elbaph!
+23|Đến bờ đông bắc!
+24|JUSTICE
+25|Ối ối! Các người muốn gì?!
+26|Đến đây là hết với các ngươi!
+27|Hết công suất!
+28|Biến đi!
+29|Tao sẽ không để mày qua!
+30|Tránh đường!
+31|Mạnh thật...
+32|Steam...
+33|...Right!
+34|...Knuc-hự!
+35|Jewelry Bonney!
+36|Chuẩn bị tinh thần!
+37|Trông chừng bố tôi giúp, ông Khổng Lồ!
+38|Ừ, cứ giao ông ấy cho tôi!
+39|Con nhóc đáng ghét Jewelry Bonney!
+40|Tao sẽ không để mày có những vũ khí đó!
+41|Đừng gọi bố tôi là vũ khí!
+42|Không...
+43|Đ-Đừng...
+44|Bố tôi là một anh hùng!
+45|Đồ thua cuộc cằm to!
+46|Rút lại lời đó đi!
+47|Cảnh này thảm hại quá! Dừng lại!
+48|Ultra Mighty Punch!
+49|Mũ Rơm và mọi người đâu rồi?!
+50|Họ chưa tới. Mình phải rời khỏi đây thôi...
+51|Phải dọn dẹp mớ hỗn độn này trước khi họ tới.
+52|Phải làm thôi!
+53|LABOPHASE
+54|Không!
+55|Đi đi! Đi đi!
+56|T-T-Tôi không ngon đâu!
+57|Nên... nên làm ơn đừng ăn tôi!
+58|Im đi!
+59|Không!
+60|York.
+61|Gì?
+62|Căn phòng trên màn hình ở đâu? Nói ngay.
+63|Cậu cũng là Vegapunk. Cậu phải biết.
+64|Đừng nói là...
+65|...ngươi...
+66|Lại đây!
+67|Gì?
+68|Tôi biết ngươi sẽ nuốt tôi mà! Đồ khốn!
+69|Cứu!
+70|Cậu không uống Vega Coffee sao?
+71|Nóng quá, mà lưỡi tôi nhạy cảm!
+72|Shaka, cậu thật xấu tính khi hỏi vậy dù biết cậu ấy không chịu được đồ nóng.
+73|Còn bốn phút, Stella.
+74|Ồ, được rồi.
+75|Ái!
+76|Cậu có chắc là phòng này không?
+77|Tôi chắc là họ đã ghi hình ở đây...
+78|Gì cơ?
+79|Gì vậy?! Này!
+80|Khoan, khoan! Đừng liều lĩnh!
+81|Stella, không còn nhiều thời gian đâu...
+82|Thấy chưa? Nó chưa dừng lại!
+83|Dùng bộ phận nhiệt điện,
+84|nếu ta làm nguội cà phê bằng cách chuyển hóa nhiệt năng...
+85|Nếu là Stella, tôi sẽ giấu Ốc Sên Truyền Phát gốc ở đâu đó!
+86|Vậy thì ta sẽ phá hủy toàn bộ phòng thí nghiệm.
+87|Tốt nhất đừng làm vậy.
+88|Tầng hai Tòa B...
+89|...là khu phát triển vũ khí.
+90|Tầng một là nhà máy điện.
+91|Ở tầng ba Tòa C,
+92|các bình khí áp suất cao được xếp thành hàng.
+93|Nếu bất kỳ bình nào bị phá,
+94|nó sẽ kích nổ mọi thứ trong phòng thí nghiệm,
+95|và phòng thí nghiệm sẽ nổ tung cùng Punk Records!
+96|Vậy thì hãy nghĩ cách đi.
+97|Cách suy nghĩ của cậu hẳn giống hắn.
+98|Tất nhiên là tôi sẽ chặn cái buổi phát sóng ngu ngốc này.
+99|Nếu họ phạm thêm tội, tôi sẽ càng khó chơi với các người hơn.
+100|Có chuyện gì vậy?
+101|Tôi cảm nhận được tiếng của một sinh vật nhỏ.
+102|Trong Punk Records?
+103|Ồ! Có thể là một ốc sên truyền tin không?
+104|Ốc Sên Truyền Phát mới được phát triển gần đây.
+105|Nó có vỏ xoắn hình nón như thế này.
+106|Dẫn tôi đến lối vào.
+107|May cho cậu. Hắn chẳng thèm quan tâm đến cậu.
+108|Hắn cũng đâu có quan tâm đến cậu.
+109|Giờ thì, con quái vật đó là gì?
+110|Qua cuộc trò chuyện, hắn là một trong Ngũ Lão Tinh.
+111|Tôi cũng nghĩ vậy. Biến hình thật ghê rợn.
+112|Cậu bị bỏ rơi rồi sao, Stussy?
+113|Sau khi cậu nhọc công phản bội chúng tôi. Tội nghiệp.
+114|Giữ lòng thương hại của các người lại đi.
+115|Tôi tự nguyện ở lại đây.
+116|Phải có người hoàn thành nhiệm vụ cuối cùng.
+117|Cái gì?!
+118|Vậy chúng ta bỏ lại Stussy sao?!
+119|Không còn cách nào! Hàng rào phải hạ xuống ngay khi tàu thoát đi!
+120|Frontier Dome chỉ có thể tắt từ phòng điều khiển.
+121|Cô ấy tình nguyện!
+122|Cảm ơn cô ấy rồi chúng ta trốn thoát chẳng phải là cách báo đáp tốt nhất sao?
+123|Tất nhiên tôi sẽ cố hết sức để thoát ra...
+124|Robin.
+125|Nhờ cô ấy có thể ta hạ được hàng rào,
+126|nhưng chúng ta không thể bay xa như Vegaforce-01 lẽ ra phải đưa chúng ta...
+127|Đúng vậy, Nico Robin.
+128|Tôi đã tính rồi. Dựa trên vật lý cơ bản,
+129|con tàu này chắc chắn sẽ rơi xuống đất!
+130|Cái gì?!
+131|Cái gì?!
+132|Này, Coup De Burst sẵn sàng dùng rồi!
+133|Khi Zoro và Jinbe tới, chúng ta sẽ nhảy một cú lớn về phía biển!
+134|Chúng ta có vấn đề lớn!
+135|Chỉ Coup De Burst thôi không đủ để tới biển!
+136|Cái gì?!
+137|Nếu có vẻ không tới được biển, tôi giao cho các cậu! Cảm ơn!
+138|Con tàu của các cậu phiền phức thật!
+139|Nhưng tôi thích cái tinh thần dám làm đó!
+140|Chính sức mạnh như vậy mới tạo nên phép màu!
+141|Nhưng tôi là nhà khoa học!
+142|Tôi sẽ đảm bảo tàu của các cậu hạ cánh an toàn xuống nước!
+143|Hãy tin tôi!
+144|Edison!
+145|Đừng!
+146|Các cậu phải thoát ra bằng mọi giá, băng Mũ Rơm.
+147|Ước tính thiệt hại. 78 phần trăm.
+148|Chưa đủ để giết tôi! Đi thôi!
+149|Edison!
+150|Chúng ta đang bị kéo...
+151|...về phía hòn đảo!
+152|Sức hút điên rồ quá!
+153|Tôi không tiến lên được!
+154|Chết tiệt!
+155|Nếu đói,
+156|thì ăn mấy tòa nhà đi!
+157|Đã quá!
+158|Ôi không...
+159|Tôi đang mất sức...
+160|Hay đấy!
+161|Tôi mệt rồi...
+162|Cái gì?!
+163|Cậu bị sao vậy, Mũ Rơm?! Cậu thành ông già lạ hoắc rồi!
+164|Tôi đang cạn năng lượng thức ăn...
+165|Thức ăn?! Cậu có muốn Hákarl không?
+166|Hákarl?
+167|Cái này.
+168|Mùi gì vậy?
+169|Là cá mập lên men. Thức ăn khẩn cấp của Elbaph!
+170|Cảm ơn...
+171|Ăn hết đi.
+172|Quen rồi sẽ thấy ngon.
+173|Tôi cảm nhận được rồi!
+174|Mùi thì hôi nhưng cho tôi năng lượng!
+175|Cơ thể cậu đơn giản thật!
+176|Giờ cậu trở lại như cũ rồi!
+177|Tránh ra! Con lợn rừng tới rồi!
+178|Cứ để tôi! Sức mạnh thức ăn hết công suất!
+179|Này, Mũ Rơm!
+180|Nhận này! Gear Three!
+181|Gum-Gum...
+182|...Red...
+183|...Roc!
+184|Ái! Người cậu cứng cỡ nào vậy?!
+185|Cơ thể cậu đúng là buồn cười thật!
+186|Mau rời khỏi đây khi còn kịp!
+187|Edison...
+188|Cái gì?! Chuyện gì vậy?!
+189|Ối ối ối! Cái gì vậy?! Cái gì vậy?!
+190|Có thứ gì xuất hiện!
+191|Cái gì?! Một con cua?!
+192|Đó là những con cuối cùng!
+193|Mọi người, lên tàu ngay!
+194|Stella, còn một phút.
+195|Không cần cậu nhắc!
+196|Chắc là hết rồi.
+197|Vận may của ông hết rồi, Vegapunk.
+198|Để chặn buổi phát sóng toàn cầu của Vegapunk,
+199|Ngũ Lão Tinh tìm cách dò ra nguồn phát và áp sát băng Mũ Rơm!
+200|Sao họ lại cố che giấu sự thật đến vậy?
+201|Trên hòn đảo hỗn loạn Egghead, một thông điệp chấn động thế giới mà không ai ngờ tới được tung ra!
+202|Tập tiếp theo của One Piece! "Hồi Kết Choáng Váng - Lời Tiên Đoán Vĩ Đại Của Vegapunk"

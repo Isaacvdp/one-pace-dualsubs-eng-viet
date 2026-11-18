@@ -1,0 +1,306 @@
+1|Cứu với, ai đó!
+2|Bố?
+3|"Rùng mình! Bàn tay ác độc đang len lỏi vào phòng thí nghiệm"
+4|B... Bố...
+5|Sao vậy?
+6|Bố...
+7|Nó kia rồi!
+8|Đừng hòng trốn!
+9|Đừng giở trò nữa! Đi với bọn tao!
+10|Không! Em không muốn!
+11|Câm miệng! Đi với bọn tao!
+12|Không! Buông em ra!
+13|Làm ơn! Buông em ra!
+14|Cứu với! Em chịu hết nổi rồi!
+15|Thằng nhóc này! Mày phải quay về ngay!
+16|Mày mà trốn thì tất cả bọn tao sẽ bị giết!
+17|Nhưng... nhưng... em không muốn quay về...
+18|Em không muốn quay về! Cứu với!
+19|--Em chịu hết nổi rồi! --Đi đi!
+20|Cứu với!
+21|Dừng lại!
+22|Không! Em không bao giờ muốn quay lại đó!
+23|Dừng lại! Cậu ấy không muốn!
+24|Mình không lại gần được...
+25|Khóc cũng chẳng ích gì!
+26|Thằng nhóc khốn kiếp!
+27|Không... em chịu hết nổi rồi...
+28|--Đừng có chống cự! --Quay về!
+29|--Không! --Thằng ranh con!
+30|--Cái chỗ đó thì kệ nó! --Này!
+31|Sao không giết em ngay tại đây đi?! Dù có quay về...
+32|em cũng sẽ chết thôi!
+33|Câm miệng!
+34|Dừng lại!
+35|Dừng lại! Tôi bảo dừng lại!
+36|Dừng lại!
+37|Đau quá...
+38|Em xin lỗi!
+39|Em xin lỗi! Em xin lỗi!
+40|Dừng lại! Dừng lại!
+41|Đau quá... Em xin lỗi...
+42|Giết em đi...
+43|Dừng lại...
+44|Làm ơn... dừng lại...
+45|Cứu với!
+46|Cứu với!
+47|Làm ơn dừng lại...
+48|Dừng lại ngay!
+49|Bắn hạ hắn!
+50|Bartholomew Kuma đang leo lên Red Line, có vẻ đang tiến về Marijoa!
+51|Đừng để hắn vào Marijoa!
+52|Nếu để vậy, danh dự Hải Quân sẽ bị vấy bẩn!
+53|Quá khứ của bố...
+54|Mình không nghĩ có thể đối mặt với nó...
+55|...nếu chỉ có quyết tâm nửa vời.
+56|Nhưng mình phải biết để thuyết phục bản thân!
+57|Này, bố.
+58|Cho con xem lại lần nữa.
+59|Stella! Cậu có ở đây không?
+60|Trời ơi...
+61|Xem họ gây ra thiệt hại lớn thế nào kìa.
+62|Các Seraphim đều được sinh ra ở đây,
+63|vậy mà có vẻ chúng chẳng hề do dự.
+64|Trời! Không biết ổng đang làm gì vào lúc này nữa!
+65|Stella! Ra đây đi chứ!
+66|Stella?
+67|Cậu có ở đây không?
+68|Hả? Mình tưởng tượng sao?
+69|Stella?
+70|Một vụ nổ?!
+71|Trả lời đi! Vụ nổ đó là gì?
+72|Cậu ổn không, Pythagoras?
+73|Trả lời đi!
+74|Pythagoras!
+75|Trả lời tôi!
+76|Chuyện gì vậy?!
+77|Hả? Có gì vừa nổ sao?!
+78|Cậu ổn không, Luffy?!
+79|Lạ thật...
+80|Luffy! Nghe tôi không?!
+81|Ừ.
+82|Ở đó ổn cả chứ? Vegapunk về chưa?
+83|Ở đây ổn cả, nhưng ông Apple vẫn chưa về...
+84|Ôi trời, ổng đi đâu mất rồi?!
+85|Zoro có ở đó không?
+86|Ừ, cậu ấy ở đây suốt.
+87|Nhớ trông chừng cậu ấy kẻo đi lạc.
+88|Không cần thêm một người lạc nữa đâu.
+89|Biết rồi.
+90|Dù sao, ông già Tá...
+91|Hả?
+92|--Cậu nói gì? Nói lại đi... --Lại nữa rồi!
+93|Gì vậy? Luffy? Này!
+94|Gì thế?
+95|Luffy-san? Làm ơn trả lời!
+96|Chắc không dùng được rồi.
+97|Tòa C, Cam-snail 12, quét khu vực.
+98|Tìm Pythagoras!
+99|Là tai nạn sao? Mong là cậu ấy không bị cuốn vào...
+100|Tôi vừa thấy gì đó!
+101|Cam-snail 12, tìm trong làn khói!
+102|Một cái bóng?!
+103|Ai đó?! Này!
+104|Cam-snail bị phá hủy rồi...
+105|Này, Nami! Nghe tôi không?
+106|Sanji! Usopp!
+107|Ôi không.
+108|Sao vậy, Luffy?
+109|Cái này hỏng rồi.
+110|Cậu làm hỏng đấy à?
+111|Không, tôi đâu có!
+112|Cậu đi đâu vậy?
+113|Tôi đi gặp Mũ Sắt một lát.
+114|Đừng đi đâu hết!
+115|Im đi!
+116|TÒA C, TÒA A, TÒA B
+117|TẦNG BA, TÒA A
+118|Vegapunk, ông ở đâu?
+119|Trời, chẳng thấy ổng đâu cả.
+120|Vegapunk-san!
+121|Nếu có ở đó thì trả lời đi!
+122|Tôi còn chẳng biết tìm ở đâu.
+123|Ừ, chỗ này khá rộng.
+124|Chơi trốn tìm ở đây thì không bao giờ xong.
+125|Nami-san, có chuyện gì vậy?
+126|Bắt được rồi!
+127|Đâu?! Đâu?!
+128|Là đá quý!
+129|Này! Đâu phải thứ chúng ta đang tìm!
+130|Cho tôi lấy được không?
+131|Sau câu "Là đá quý!" thường là "Đẹp quá!"
+132|Có sao đâu? Dù gì mọi người cũng sắp rời đảo mà!
+133|Mang theo luôn đi!
+134|Đúng là vậy, nhưng...
+135|...lẽ thường của cô hỏng rồi à?
+136|Được rồi...
+137|Nặng quá, hay chúng ta quay lại nhé?
+138|Chúng ta đến để tìm Stella mà!
+139|Cô nhét đầy túi rồi kìa!
+140|Đeo thứ đó trên lưng thì khó mà đi tìm lắm!
+141|Đúng vậy...
+142|Vậy cậu mang đi!
+143|Khoan, khoan, khoan, khoan, khoan!
+144|Hết cách rồi...
+145|Tôi để ở đây, nhớ dẫn bọn tôi quay lại chỗ này khi về nhé!
+146|Anh hứa sẽ quay lại đón em, bảo bối của anh.
+147|Nói trước, đó là kim cương nhân tạo dùng trong công nghiệp.
+148|Hả?!
+149|Làm ra kim cương được sao?
+150|Như mơ vậy!
+151|Mắt cô bị sao vậy?!
+152|Tương lai đầy những giấc mơ.
+153|Mấy người này điên rồi! Stella! Cậu đâu rồi?!
+154|Chỗ này thật sự tuyệt vời!
+155|Đúng là cơ sở quy tụ tinh hoa của khoa học.
+156|Này, Atlas.
+157|Cậu bị Lucci đánh tơi tả...
+158|Nhưng mặt cậu là mặt nạ sao?!
+159|TẦNG HAI, TÒA A
+160|Cậu có thể thay đổi gương mặt và ngoại hình tùy ý! Tương lai là vậy đó!
+161|Ồ... Đây là...
+162|...Vegapunk?
+163|Đâu?! Robin!
+164|Không phải.
+165|Đó là organoid.
+166|Là cơ quan nhân tạo!
+167|Organoid...
+168|Là công nghệ thiết yếu cho y học tương lai!
+169|Hả?! Làm được cả nội tạng sao?!
+170|Tuyệt quá!
+171|Công nghệ thật sự đáng kinh ngạc.
+172|Nhẹ cả người. Tôi tưởng...
+173|...đây là một phần thi thể bị phân xác của Vegapunk...
+174|Này, nghe đáng sợ quá!
+175|Vegapunk, ông ở đâu?
+176|Không ngờ có ngày tôi được ra khơi cùng cô!
+177|Anh có mặt ở tiệc của Mama phải không?
+178|Anh thật tinh ý.
+179|Làm sao tôi không để ý một mỹ nhân như vậy được?!
+180|Từ khoảnh khắc đó, tôi đã là...
+181|...tôi tớ của cô!
+182|Xin hãy gọi tôi là chó.
+183|Nghiêm túc đi và tìm Stella.
+184|Cậu bé ngốc này.
+185|Gâu!
+186|Đi theo tôi.
+187|Gâu! Gâu!
+188|Đây là phòng thí nghiệm lớn.
+189|Tìm từng ngóc ngách thì mất cả đời.
+190|Đây là tầng phát triển vũ khí, nên đừng gây ra sóng xung kích nhé.
+191|TẦNG HAI, TÒA B (BÊN PHẢI)
+192|Cậu cũng cẩn thận nhé!
+193|Gâu!
+194|Này! Mũ Sắt!
+195|Có chuyện gì vậy?
+196|Edison! Shaka đây! Trả lời đi!
+197|Lilith! York! Ai đó! Trả lời đi!
+198|Không liên lạc được với ai cả.
+199|PHÒNG ĐIỀU KHIỂN, TẦNG BỐN, TÒA A
+200|Ồ, là cái này đúng không?
+201|Cách đây vài phút tôi còn nghe được họ, vậy mà đột nhiên mất tiếng.
+202|Nhưng tôi không nghĩ là tôi làm hỏng!
+203|Không...
+204|Tôi thật sự không làm! Tôi đâu có đập nó vào đâu!
+205|Tôi biết.
+206|Nhìn này.
+207|Các video...
+208|...đang tắt từng cái một.
+209|Tại sao?
+210|Có người khác...
+211|...trong phòng thí nghiệm.
+212|Hả?
+213|Này! Vegapunk!
+214|Vegapunk, ông ở đâu?!
+215|TẦNG BA, TÒA C (BÊN TRÁI)
+216|Tìm tiếp đi, York!
+217|Được rồi...
+218|Ổng đi đâu mất rồi?
+219|Nếu không đi sớm, Chính phủ sẽ bắt chúng ta.
+220|Vậy dùng cái này đi!
+221|Gì vậy?!
+222|Đây là Bubble Gun!
+223|Bubble Gun?!
+224|Ngầu quá!
+225|Đúng vậy.
+226|Với nó, tôi có thể phóng một đợt tấn công bong bóng cực mạnh có thể đẩy lùi mọi thứ!
+227|Nói là "đẩy lùi" mà lại gọi là tấn công? Lạ thật.
+228|Nếu không hình dung được, muốn tôi biểu diễn không?
+229|Thật sự được sao?!
+230|Do Vegapunk làm ra. Chắc chắn là vũ khí tuyệt vời!
+231|Ồ, cậu hứng thú thật.
+232|Này! Lại đây!
+233|--Gì? Gì vậy? --Tìm thấy Stella rồi à?
+234|Kinh khủng quá! Chuyện gì xảy ra vậy?
+235|Hả?! Chắc chắn đã có một vụ nổ lớn ở đây!
+236|Là địch sao?!
+237|Khoan, khoan, khoan, khoan, chuyện gì vậy?!
+238|Có người nằm dưới sàn!
+239|Này, đừng nói là...
+240|Pythagoras?!
+241|Này, cố lên!
+242|Đầu cậu ấy biến mất rồi!
+243|Tàn nhẫn quá...
+244|Đầu cậu ấy bị thổi bay rồi!
+245|Vậy ra đây là vụ nổ chúng ta nghe lúc nãy!
+246|Này, Pythagoras! Cố lên!
+247|Ai đó?!
+248|Không, đừng bắn!
+249|Giọng đó...
+250|Mọi người!
+251|Là tôi đây.
+252|Đừng nói là...
+253|Cậu còn sống!
+254|Pythagoras!
+255|Đầu cậu ấy?!
+256|Cái gì?!
+257|Tay chân mọc ra từ đầu cậu ấy!
+258|Tôi tưởng mình cũng sắp bị bắn vào đầu.
+259|X-Xin lỗi...
+260|Chuyện gì xảy ra? Là tai nạn sao?
+261|Không, xét tình hình thì có phải địch tấn công không?!
+262|Thật khó giải thích!
+263|Không thể nào...
+264|...nhưng tôi nghĩ mình không nhầm...
+265|Gì vậy? Nói đi!
+266|Là lỗi thiết kế của chúng ta sao?
+267|Thật sự không thể nào, nhưng...
+268|Là gì vậy?!
+269|York đâu?
+270|Hả?
+271|Lúc nãy Edison đã ra lệnh cho cậu dừng lại.
+272|Cậu phải ở ngoài đợi chúng tôi chứ.
+273|Cô dễ thương quá!
+274|York, cậu đang làm gì vậy?!
+275|Thì...
+276|...tôi gặp cô gái dễ thương này.
+277|Love-Love...
+278|...Mellow!
+279|Hôm nay chúng ta giới thiệu người này! Boa Hancock!
+280|Cô là nữ hoàng Amazon Lily trên Đảo Nữ Nhân,
+281|thuyền trưởng băng hải tặc Kuja, và là một trong các Thất Vũ Hải đã bị giải thể.
+282|Cô là người dùng Trái Yêu Đương, có thể biến bất kỳ ai bị mê hoặc thành đá.
+283|Cô sinh ngày 2 tháng 9 và thích lẩu!
+284|Cô kiêu ngạo và ích kỷ,
+285|nhưng đằng sau là nỗi ám ảnh từng là nô lệ của Thiên Long Nhân.
+286|Cô giữ bí mật dấu nô lệ trên lưng,
+287|nhưng Luffy vô tình nhìn thấy.
+288|Hancock định giết Luffy,
+289|nhưng khi biết cậu dám công khai đánh một Thiên Long Nhân không chút sợ hãi,
+290|và chứng kiến lòng tốt cùng sự quan tâm của cậu, cô đã phải lòng cậu.
+291|Cứ gọi tôi là Hancock.
+292|Được rồi, nhớ rồi, Hammock!
+293|Theo lời nhờ của người cô yêu là Luffy,
+294|cô đã tới Impel Down nơi Ace bị giam giữ.
+295|Trong Chiến tranh Thượng đỉnh, dù là Thất Vũ Hải, cô dường như đã ủng hộ Luffy.
+296|Sau khi chế độ Thất Vũ Hải bị bãi bỏ,
+297|Hải Quân và băng hải tặc Râu Đen đã tới Đảo Nữ Nhân
+298|và một cuộc chiến tay ba nổ ra,
+299|nhưng nhờ sự giúp đỡ của Vua Bóng Tối Rayleigh, cô đã thoát hiểm.
+300|Hẹn gặp lại lần sau!
+301|Các Seraphim đột ngột tấn công băng Mũ Rơm.
+302|Chúng thậm chí phớt lờ lệnh của các Vệ tinh.
+303|Ai đang chỉ huy chúng?
+304|Trong khi tất cả Vệ tinh Vegapunk đều bị nghi ngờ,
+305|đòn tấn công không ngừng của các Seraphim dồn Luffy và những người khác vào đường cùng!
+306|Trong tập tiếp theo của One Piece! "Không thể hiểu nổi! Cuộc nổi loạn của các Seraphim!"

@@ -1,0 +1,289 @@
+1|...cậu sẽ giúp tôi.
+2|Đúng vậy!
+3|Egghead. Trả lời đi.
+4|Các ông chủ!
+5|Này! Tìm hiểu xem họ bị sao!
+6|Rõ, thưa ông chủ!
+7|Tuyệt vời quá!
+8|Đó là Bá Vương Sắc đúng không?!
+9|Cậu đã hạ gục lũ quái vật và cả Hải Quân!
+10|Ngầu quá, Robo!
+11|Các ông chủ!
+12|Họ gục hết thật rồi!
+13|Thật sao?! Không tin nổi!
+14|Tôi không cảm nhận được chút địch ý nào. Kỹ năng đó có hơn của Tóc Đỏ không?
+15|Định ngủ đến bao giờ nữa?! Dậy đi!
+16|Đưa tôi ra khỏi đây!
+17|Tỉnh dậy đi, lũ ngốc!
+18|Băng Mũ Rơm sẽ trốn mất!
+19|Cậu đã cứu tất cả chúng tôi!
+20|Cảm ơn!
+21|Robo khổng lồ!
+22|Hẹn gặp lại!
+23|Được rồi! Nhân lúc họ đang ngủ...
+24|Rõ!
+25|Các ông chủ!
+26|Đi thôi mọi người!
+27|Tới Elbaph!
+28|Ra khơi!
+29|Đi nào! Tới Elbaph!
+30|Luffy-san, mừng cậu trở về!
+31|--Luffy! --Luffy-san!
+32|Tôi mệt rồi...
+33|Gì?! Trông cậu tệ quá!
+34|Này, Mũ Rơm! Cậu không sao chứ?!
+35|Bọn tôi có Hákarl nếu cậu muốn.
+36|Các sư phụ!
+37|Cảm ơn mọi người rất nhiều vì đã đến!
+38|Nhớ mọi người lắm!
+39|Cảm ơn tất cả!
+40|Mọi người! Theo bọn tôi! Đừng có chậm chạp!
+41|Ừ! Cuối cùng mình cũng được tới Elbaph!
+42|Jinbe!
+43|Ừ! Vậy thì hết tốc lực tiến lên!
+44|Lượng thông tin khổng lồ! Thế giới này điên rồi.
+45|Hãy khiến mọi người nhảy theo nhịp điệu của thông tin mới này!
+46|Hâm nóng đám đông nào, các cậu!
+47|Bọn tôi có mấy bản nhạc đỉnh lắm!
+48|Gieo rắc nỗi sợ!
+49|Vẽ ra tương lai tồi tệ nhất có thể!
+50|Khiến họ bám lấy từng lời của chúng ta!
+51|Họ chỉ còn biết chờ WEJ tiếp theo!
+52|Ông tệ thật.
+53|Vegapunk cũng đã trao hy vọng mà!
+54|Tránh xa sân khấu của ta ra, nhóc!
+55|Không thì ta sẽ tiết lộ chỗ ẩn náu của ngươi!
+56|Ồ, tôi làm ông phật lòng sao, đồ óc chim phát tán lời dối trá?
+57|Người thông minh sẽ không nhảy theo điệu nhạc dối trá của ông!
+58|Trước hết, ông...
+59|Úi, Vivi-chan, bình tĩnh nào.
+60|Nếu chọc giận ông ta, chúng ta sẽ không còn chỗ nào để đi.
+61|Cô nói đúng. Sự thật đôi khi cũng thú vị.
+62|Bầu trời là nhà của ta!
+63|Theo nghĩa đó, đây là buổi bình minh của kỷ nguyên của ta!
+64|Này, Công chúa điện hạ.
+65|Đối xử với ta như vậy, sau này cô không hối hận sao?
+66|Không. Nếu thế giới tận thế, tôi không muốn sống sót khi người khác đang chết!
+67|Chà, Vivi-chan, cô thật sự cần...
+68|Này, chúng ta vừa nhận được hàng loạt tin gây sốc!
+69|Tứ Hoàng Râu Đen đối đầu Trafalgar Law!
+70|Tứ Hoàng Tóc Đỏ đối đầu Eustass "Captain" Kid!
+71|Tứ Hoàng Mũ Rơm Luffy đã giết Vegapunk!
+72|Đồ dối trá!
+73|CÔNG LÝ
+74|Trả lời đi.
+75|Buổi phát sóng đó là gì?!
+76|Nói cho tôi biết chuyện gì đang xảy ra!
+77|Trả lời đi.
+78|Họ chết hết rồi sao?
+79|Chuyện gì xảy ra vậy?! Egghead!
+80|Ồn ào quá.
+81|Sao lại là ngươi trả lời?
+82|Borsalino! Những người khác sao rồi?!
+83|Tất cả đều bất tỉnh.
+84|Chắc họ sẽ không dậy sớm đâu.
+85|Ngài Saturn mà không an toàn thì liệu hồn!
+86|Còn Power Plant thì sao?!
+87|Và những kẻ đào tẩu?!
+88|Khi mấy đứa nhỏ tỉnh dậy, ta sẽ bảo chúng báo cáo với ngươi.
+89|Ngươi không làm ẩu đấy chứ?
+90|Borsalino.
+91|Cho ta hỏi, Sakazuki...
+92|Ngươi đã bao giờ giết người bạn thân của mình chưa?
+93|Đầu ông to thật.
+94|Hân hạnh. Tôi là Borsalino, một lính Hải Quân.
+95|Các ông cung cấp được bao nhiêu?
+96|Gì cơ?
+97|Việc bắt giữ tôi chỉ là vỏ bọc.
+98|Các người chỉ muốn bộ não của tôi.
+99|Các ông đưa được bao nhiêu tiền nghiên cứu?
+100|Ông là người thú vị đấy.
+101|Vậy đây là kế hoạch của ông cho hòn đảo à?
+102|Tôi sẽ đặt tên nó là Egghead.
+103|Chúng ta đang tạo ra tương lai, 500 năm sau!
+104|Giúp tôi một tay, Borsalino!
+105|Không, giờ tôi là Đô đốc rồi.
+106|Đừng làm rơi, chú ơi! Chú đứng không thẳng kìa!
+107|Trông cậy vào cậu, Borsalino!
+108|Ngươi hỏi ta có làm ẩu không à?
+109|Nếu có thời gian ngồi đó nghi ngờ ta,
+110|thì lại đây tận mắt xem đi, đồ nhóc chết tiệt!
+111|Xin lỗi anh.
+112|Im đi, quá muộn rồi.
+113|Tôi không hiểu lắm, Vegapunk.
+114|Những gì ông nói lúc đó.
+115|Đây có phải là kết quả ông nhắm tới không?
+116|Trả lời tôi đi. Tôi không kịp hỏi ông có ý gì,
+117|nhưng ông đã nói một điều điên rồ.
+118|Chúng ta sẽ xuống cứu Bonney,
+119|còn tôi sẽ ở lại dưới đó!
+120|Hả? Ông sẽ chết đấy.
+121|Đừng cố cứu tôi!
+122|Cứ để tôi chết ngay tại đó!
+123|EGGHEAD, HAI TUẦN TRƯỚC KHI BĂNG MŨ RƠM ĐẾN
+124|Gì vậy?
+125|Đây là...!
+126|Stella! Pythagoras!
+127|Các chỉ số từ Power Plant có bất thường sao?!
+128|Không nhầm đâu.
+129|Hãy xem sự thay đổi của mật độ hạt và thông lượng neutron.
+130|Lượng năng lượng tiêu hao cho các Seraphim đã tăng dần lên.
+131|Nếu đây là sai sót trong tính toán của chúng ta thì nó rất nghiêm trọng.
+132|Ồ? Những con số này không khớp với số chúng ta đã kiểm chứng.
+133|Tốc độ phản ứng đang tăng.
+134|Vậy Power Plant vẫn ổn định.
+135|Đúng.
+136|Nghĩa là dữ liệu này là bằng chứng có ai đó đã đánh cắp một phần Mother Flame.
+137|Mọi chỉ số về Power Plant đều bị thao túng cẩn thận.
+138|Người duy nhất có khả năng làm vậy...
+139|...là Vegapunk!
+140|Là Lilith sao?!
+141|Úi, chưa được xác nhận mà.
+142|Tiếc là chỉ ba chúng ta có bằng chứng ngoại phạm hoàn hảo.
+143|Lượng năng lượng bị đánh cắp rất lớn.
+144|Vậy là một trong bốn người còn lại sao?
+145|Nhiều khả năng là Lilith!
+146|Vì vậy ông mới bắt chúng ta để não ở chế độ ẩn.
+147|Đúng, nếu trải nghiệm này được chia sẻ với Punk Records, Lili...
+148|thủ phạm sẽ biết chúng ta đã nhận ra.
+149|Dù thế nào chúng ta cũng sẽ tìm ra ai làm.
+150|Được.
+151|EGGHEAD, MỘT TUẦN TRƯỚC KHI BĂNG MŨ RƠM ĐẾN
+152|Chết tiệt! Không có manh mối nào cả!
+153|Lilith trong sạch!
+154|Cả bốn người đều có bằng chứng ngoại phạm.
+155|Sao chúng ta không tìm ra gì hết?!
+156|Nghe này mọi người! Tôi biết thủ phạm là ai rồi!
+157|Là York!
+158|Gì cơ?! York sao?!
+159|Thông tin cô ấy đồng bộ với Punk Records là ký ức giả!
+160|Video từ các Camsnail dọc tuyến đường cô ấy đi cũng bị làm giả!
+161|Tôi muốn thêm phần nữa.
+162|Tại sao cô ấy làm vậy?!
+163|Và xin lỗi nhé, Lilith!
+164|Có dấu hiệu Vũ khí Hải Thú bị can thiệp.
+165|Tôi tìm thấy bằng chứng việc dùng ốc sên truyền tin trắng để chặn nghe lén!
+166|Tìm thấy rồi!
+167|Tôi đã khôi phục thành công dữ liệu từ ốc sên truyền tin tầm xa!
+168|Tiến sĩ Vegapunk đang nghiên cứu Thế Kỷ Trống.
+169|Cái gì?!
+170|Đây là bản truyền tin tới Mary Geoise sao?!
+171|Vì vậy Cipher Pol cứ quay lại điều tra!
+172|SÁU NGÀY TRƯỚC KHI BĂNG MŨ RƠM ĐẾN
+173|Nghe nói Vương quốc Lulusia đã biến mất.
+174|Chúng ta chưa biết hết chi tiết, nhưng tôi có linh cảm chẳng lành!
+175|Pythagoras! Theo dõi sát tín hiệu radio và mực nước ngầm!
+176|Được.
+177|Chuyện này có liên quan đến Mother Flame bị đánh cắp không?
+178|Có.
+179|Hẳn cô ấy đã vận chuyển Mother Flame bằng Vũ khí Hải Thú và đưa cho Chính phủ.
+180|Nếu cho phép suy đoán,
+181|tôi cho rằng Chính phủ có Vũ khí Cổ đại!
+182|Nhiều khả năng chúng được kích hoạt bằng Mother Flame mà York đưa.
+183|Chúng ta sẽ sớm thấy kết quả.
+184|Đây là kịch bản khả dĩ nhất...
+185|Dù tôi không thể công bố.
+186|Đây là lỗi của tôi!
+187|Stella...
+188|Lẽ ra tôi không bao giờ nên tách lòng tham ra khỏi tâm trí con người!
+189|Nếu bắt được cô ấy, chúng ta có làm gì được không?
+190|Không, quá muộn rồi.
+191|Dù mục đích của cô ấy là gì, những người biết về Thế Kỷ Trống sẽ bị xóa sổ!
+192|Cô ấy đã chứng tỏ giá trị với họ bằng cách đưa Mother Flame một cách bất cẩn.
+193|Nếu là chúng ta, chúng ta đã xem xét kỹ mục tiêu và các khía cạnh an toàn.
+194|Stella, chúng ta vẫn có thể trốn...
+195|Chuẩn bị một con tàu đi-Quasar.
+196|Để cư dân Egghead có thể trốn thoát.
+197|Nhưng không phải chúng ta.
+198|Lệnh bí mật đã được gửi tới mọi chi nhánh Hải Quân.
+199|Chúng ta sẽ bị truy đuổi tới tận cùng thế giới.
+200|Nếu chết trên đường chạy trốn thì chết vô ích.
+201|Nhưng Egghead có những nguồn lực mà Ohara 22 năm trước không có!
+202|Nó có phương tiện truyền giọng nói của tôi đi rất xa!
+203|Dù sao... càng tới gần nó, nó càng tối tăm và mờ mịt!
+204|Chính phủ Thế giới rốt cuộc là gì?!
+205|Tôi sẽ chết nhưng không chết vô ích!
+206|Xin lỗi vì đã kéo hai người vào.
+207|Đừng nói vậy. Chúng ta cũng là Vegapunk mà. Nhớ không?
+208|Chúng tôi cũng đang nghĩ như vậy!
+209|Nhưng Stella, nhớ rằng định nghĩa "cái chết" của chúng ta rất đặc biệt.
+210|Đúng vậy. Còn một thứ nữa chúng ta phải bảo vệ.
+211|Cloud Plant, máy tạo Mây Đảo!
+212|Mây Đảo có thể đóng vai trò quan trọng trong việc cứu nhân loại sau này.
+213|Ồ?
+214|Stella! Cô làm gì ở đây vậy?
+215|Ồ, York.
+216|Vẫn như mọi khi!
+217|Một thí nghiệm vận hành dùng Mother Flame.
+218|Nếu chạy được thứ này bằng nó, đó sẽ là nguồn năng lượng lý tưởng.
+219|Cô nói đúng. Hy vọng Mother Flame sớm hoàn thiện!
+220|Ừ!
+221|Trạng thái chưa hoàn chỉnh của nó là hy vọng duy nhất của chúng ta.
+222|HAI NGÀY TRƯỚC KHI BĂNG MŨ RƠM ĐẾN
+223|Cứ nói đi. Tôi bắt đầu ghi âm rồi.
+224|Ừm... A-lô?
+225|Thử, thử.
+226|Tôi là Tiến sĩ Vegapunk.
+227|Chắc chắn điều này sẽ gây sốc.
+228|Nhưng tất cả đều là sự thật, và mọi người có quyền được biết.
+229|Sẽ không ai ngờ ốc sên truyền tin được giấu trong này!
+230|Cái chết của tôi sẽ là tín hiệu kích hoạt buổi phát sóng.
+231|Và để cô ấy không phát hiện ra điều chúng ta bố trí, dù chỉ là khả năng nhỏ nhất,
+232|chúng ta sẽ xóa nó khỏi ký ức của mình.
+233|Nhưng đổi lại, những ký ức khác cũng sẽ mất.
+234|Chúng ta sẽ phải tìm ra lần nữa việc York đánh cắp Mother Flame và bán đứng chúng ta.
+235|Chúng ta cũng sẽ nhận ra mình đang bị nhắm tới
+236|và lại sẽ ngạc nhiên một lần nữa.
+237|Đúng vậy.
+238|Chúng ta sẽ trải nghiệm nỗi kinh hoàng như lần đầu tiên.
+239|Chúng ta đã có biện pháp rồi!
+240|Những sự kiện khủng khiếp sắp tới...
+241|...sẽ đánh dấu chiến thắng của chúng ta!
+242|Shaka, cậu đã làm gì vậy?
+243|Tôi không biết.
+244|Sao chúng ta ở đây?
+245|Đây là phòng thí nghiệm kiểm tra khối ký ức.
+246|Chúng ta đang làm thí nghiệm sao?
+247|Đây là chữ viết của tôi.
+248|"Chào buổi sáng mọi người.
+249|Giờ ký ức của các cậu có khoảng trống hai tuần,
+250|nhưng đó là điều các cậu đã chọn.
+251|Có rất nhiều bất ngờ đang chờ các cậu.
+252|LOL."
+253|Cái gì?!
+254|"Tôi chỉ nói một điều.
+255|Chính phủ Thế giới đã phát hiện nghiên cứu của chúng ta về Thế Kỷ Trống,
+256|nhưng tôi đã có biện pháp tốt nhất có thể.
+257|Nên hãy tin vào bản thân
+258|và chết đi."
+259|Gì?! Họ phát hiện rồi sao?!
+260|Và còn ghi "chết đi"! Không thể nào!
+261|"Và một điều nữa..."
+262|Stella! Nhóm của Tứ Hoàng Mũ Rơm đã tới cùng Bonney!
+263|Cái gì?!
+264|CP-0 đã đến!
+265|Cái gì?!
+266|Chúng ta bị tàu Hải Quân bao vây!
+267|Cái gì?!
+268|Đô đốc Kizaru và Ngài Saturn của Ngũ Lão Tinh!
+269|Cái gì?!
+270|Chúng ta sẽ xuống cứu Bonney,
+271|còn tôi sẽ ở lại dưới đó!
+272|Hả? Ông sẽ chết đấy.
+273|Đừng cố cứu tôi!
+274|Cứ để tôi chết ngay tại đó!
+275|Gì?! Ông muốn chết sao?!
+276|Không, nhưng tôi có cảm giác sẽ có chuyện xảy ra khi tôi chết!
+277|Không đời nào! Tôi sẽ bảo vệ ông!
+278|Ừ, tôi chắc sẽ gây náo loạn lớn! Nhưng không thể để ông chết!
+279|Cạn ly mừng cuộc hội ngộ với bạn cũ!
+280|Cạn ly!
+281|Tới Elbaph, nơi tôi luôn muốn đến!
+282|Và về One Piece...
+283|Cái gì?!
+284|Tôi muốn các cậu là người lấy được nó!
+285|Không, khoan... Chưa phải lúc, chưa phải lúc...
+286|Cùng băng hải tặc Người Khổng Lồ, Băng Mũ Rơm ăn, uống và hát vang tưng bừng!
+287|Chờ đợi bên kia đường chân trời là hòn đảo họ từng mơ ước đặt chân tới.
+288|Tràn đầy mong đợi một cuộc phiêu lưu mới, Sunny rẽ sóng ra khơi.
+289|"Chân trời hứa hẹn - Hướng tới Elbaph đã mong chờ bấy lâu!"

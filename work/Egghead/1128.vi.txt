@@ -1,0 +1,173 @@
+1|Edison! Bây giờ!
+2|...Tiến sĩ Vegapunk!
+3|Tất cả Pacifista!
+4|Tiêu diệt...
+5|Không xong rồi... Lần này, chúng ta...
+6|Đổi mục tiêu.
+7|Tiêu diệt binh lính Hải Quân.
+8|Tránh xa các Pacifista ra!
+9|Chắc chắn Vegapunk đã ghi đè mệnh lệnh!
+10|Trời ạ! Không ngờ lại mất cả Pacifista...
+11|Vegapunk chết tiệt!
+12|Thế là hết! Các Pacifista!
+13|Tiếp tục tấn công!
+14|Có vẻ thành công rồi!
+15|Ừ!
+16|Này!
+17|Sao chúng ta lại đi thẳng xuống thế này?!
+18|Chẳng phải đang rơi sao?!
+19|Mây Đảo có đặc tính bám dính vào nhau.
+20|Bánh xe của Vegatank này làm từ Mây Đảo nên sẽ không rơi đâu!
+21|Thôi khỏi nói chuyện đó. Atlas, tìm Bonney đi!
+22|Chắc cô ấy đang một mình và sợ hãi lắm!
+23|Bonney!
+24|Em ở đâu?! Bonney!
+25|Bonney-chan!
+26|Bonney!
+27|Mình phải tập trung!
+28|Cảm nhận cô ấy!
+29|Dồn cả trái tim và linh hồn của mình cho cô ấy!
+30|Radar Quý Cô của tôi có tín hiệu rồi! Tôi tìm thấy cô ấy!
+31|Cô ấy đâu?! Tôi chỉ thấy lính Hải Quân thôi!
+32|Cậu chắc chứ, Sanji?!
+33|Radar của tôi có bao giờ sai chưa?!
+34|Ừ, chưa...
+35|Thiếu khoa học, nhưng tôi sẽ tin nó!
+36|Cảm ơn!
+37|Nhưng cái xe tăng này...
+38|...chậm quá, không theo kịp trái tim nôn nóng của tôi!
+39|Anh tới đây! Bonney-chan!
+40|Mừng quá...
+41|...là các Pacifista lại về phe chúng ta.
+42|Cuối cùng cũng tìm thấy ngươi!
+43|Hải tặc Jewelry Bonney!
+44|POMSKY, PHÓ ĐÔ ĐỐC TỔNG BỘ HẢI QUÂN
+45|Sao ngươi dám làm vậy với người của ta!
+46|Cô ấy ở đằng này!
+47|N.D.E.!
+48|Này! Mấy người sao vậy?!
+49|Tôi đã sang phe bên kia rồi...
+50|Quay lại đây, Bonney!
+51|Tao không để mày đi đâu!
+52|Cái gì?!
+53|Tại sao?!
+54|Dù chỉ một con này thôi, ta vẫn điều khiển được, bất kể thứ bậc quyền lực!
+55|Ta điều khiển được mọi thứ ta cưỡi!
+56|BLUEGRASS, PHÓ ĐÔ ĐỐC TỔNG BỘ HẢI QUÂN
+57|Vì ta là Người Lái đã ăn Trái Cưỡi!
+58|Nếu giết ngươi thì lời nguyền ngươi giáng lên người của bọn ta có được hóa giải không?!
+59|Trả lại tuổi tác mà ngươi đã thao túng!
+60|Bonney-chan, em phải chú ý chứ!
+61|Chân Đen!
+62|Tôi nghe rồi. Kuma là bố cô, đúng không?
+63|Nhưng cô phải chấp nhận rằng đó không phải ông ấy! Nếu không thì cô...
+64|Otter Hammer!
+65|Hết kẻ địch này đến kẻ địch khác!
+66|Rời khỏi đây thôi!
+67|Đừng để chúng thoát, Pacifista!
+68|Cái gì?!
+69|Bonney!
+70|Lên đi, Sanji-kun! Bonney!
+71|Giờ các Pacifista đứng về phía chúng ta! Quay lên thôi!
+72|Rũ bỏ đi chứ!
+73|Ối!
+74|Cẩn thận. Đặt cô ấy xuống nhẹ nhàng.
+75|Tôi biết.
+76|Robin, cậu ổn chứ?
+77|Xin lỗi, nhưng cậu phải chịu đựng thêm một lát nữa.
+78|Ừ, cảm ơn.
+79|Được rồi, đi thôi!
+80|Tôi ở lại.
+81|Tôi vẫn còn việc phải làm.
+82|Stussy?
+83|Được rồi, vậy bọn tôi đi thôi.
+84|Hả? Cô chắc chứ?!
+85|Đó là điều cô ấy muốn! Đi thôi!
+86|N-Này!
+87|Nhưng...
+88|Vậy hẹn gặp lại sau nhé!
+89|Chống cự vô ích thôi! Bọn mày không thắng được bọn tao đâu!
+90|Hắn chẳng bao giờ học được.
+91|Bọn tôi có lý do riêng.
+92|Tao không quan tâm!
+93|Bọn mày tiêu rồi!
+94|Cứ sủa thoải mái đi!
+95|Xin lỗi, nhưng nếu tôi mất thời gian với các người, tôi sẽ không hoàn thành được nhiệm vụ!
+96|Và đó là...
+97|...nhiệm vụ của tôi!
+98|Phải làm sao đây?
+99|Khoan!
+100|Có chuyện gì vậy, Chopper?
+101|Ừm...
+102|Tôi không biết đó là gì, nhưng...
+103|Cái khí tức phi thường này là gì vậy?
+104|Không thể tin được!
+105|Dừng lại, các Pacifista.
+106|Dừng lại, các Pacifista.
+107|Cái gì?! Các Pacifista ngừng bảo vệ chúng ta rồi!
+108|Nào, các Pacifista! Bảo vệ bọn ta đi!
+109|Làm theo lệnh của ta!
+110|Chuyện gì đang xảy ra vậy?!
+111|Những người duy nhất có thứ bậc quyền lực cao hơn chúng ta...
+112|...chính là...
+113|...Ngũ Lão Tinh!
+114|Địch tấn công sao?!
+115|Ngôi sao năm cánh?!
+116|Cái quái...
+117|Kỳ lạ quá! Lên chỗ cao đi!
+118|Ừ!
+119|Các binh sĩ trên đảo!
+120|Ngài Saturn của Ngũ Lão Tinh sẽ đổ bộ lên Egghead!
+121|Ai dưới cấp Chuẩn tướng không được phép nhìn ngài!
+122|Một Lão Tinh sao?!
+123|Ngài Saturn của Ngũ Lão Tinh sẽ đổ bộ lên Egghead!
+124|Vụ nổ đó là gì vậy?!
+125|Ngũ Lão Tinh ư?! Một trong số họ đến tận hòn đảo này sao?!
+126|Ngũ Lão Tinh?! Họ là cái quái gì vậy?!
+127|Họ là những người có quyền lực cao nhất thế giới!
+128|Cái gì?!
+129|Có thứ gì đang ra từ đó!
+130|Cái gì vậy? Là quái vật!
+131|Dừng lại đi!
+132|Chắc chắn đó là...
+133|Mặt đất vững chắc...
+134|Đã lâu rồi...
+135|NGÀI JAYGARCIA SATURN, THẦN KHOA HỌC VÀ PHÒNG VỆ NGŨ LÃO TINH, QUYỀN LỰC TỐI CAO CỦA CHÍNH PHỦ THẾ GIỚI
+136|Con quái vật đó là gì vậy?!
+137|Nhìn lên! Né đi!
+138|Ối...
+139|Suýt nữa...
+140|Không xong! Mây Đảo...
+141|Bonney-chan!
+142|Kizaru!
+143|Đứng lại! Kizaru!
+144|Tôi nghĩ cậu sắp chạm giới hạn với dạng đó rồi...
+145|Làm ơn đi, Luffy!
+146|Hãy làm gì đó đi!
+147|Cứ tin...
+148|...ở tôi...!
+149|Gomu Gomu no...
+150|...Star...
+151|...Gun!
+152|Nika...
+153|Tôi đã đến giới hạn rồi...
+154|Bonney-chan!
+155|Ông ổn chứ, Vegapunk?!
+156|Đừng lo.
+157|Atlas-chan, con có bị thương không?!
+158|Tôi ổn!
+159|Ngài là Ngài Saturn à?
+160|Đúng vậy.
+161|Ta tưởng ngươi chết rồi chứ, Vegapunk.
+162|Ta đã ra lệnh cho ngươi, Vegapunk.
+163|Bonney-chan!
+164|Các ngươi sẽ không để lại cho hắn chút ý chí tự do nào!
+165|Nhưng vậy thì Kuma...
+166|Ngài Saturn!
+167|Tôi là bác sĩ của băng Mũ Rơm, Chopper!
+168|Tôi sẽ kể cho các bạn nghe hết về Jewelry Bonney và Bartholomew Kuma!
+169|Garchu!
+170|Tôi hào hứng quá, Chobro!
+171|Carrot? Sao cậu lại ở đây?
+172|"Buổi Khám Phiêu Lưu của Bác sĩ Chopper -Khúc Ballad của Hai Cha Con-"
+173|Cứ để tôi lo!

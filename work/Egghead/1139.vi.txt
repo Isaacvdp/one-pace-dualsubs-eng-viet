@@ -1,0 +1,168 @@
+1|Hòn đảo này...
+2|"Phá hủy Egghead - Buster Call được kích hoạt"
+3|Thu hồi mệnh lệnh đi, ngài Saturn!
+4|Hòn đảo này...
+5|...là tương lai của nhân loại!
+6|Rút lui! Rút lui!
+7|Toàn quân, sơ tán khỏi đảo! Lên tàu!
+8|CÔNG LÝ
+9|Chuyện gì xảy ra ở trung tâm đảo vậy?!
+10|Tôi không biết! Cứ làm theo lệnh thôi!
+11|Này! Đừng lề mề! Nhanh lên!
+12|Bố...
+13|Egghead là tương lai của nhân loại!
+14|Không bao giờ được phá hủy nó!
+15|Ngài Saturn! Đô đốc Borsalino!
+16|Nguy hiểm lắm. Xin hãy mau đến tàu của các ngài.
+17|Kizaru và ta sẽ ở lại đây.
+18|Ngay khi chuẩn bị xong,
+19|bắt đầu pháo kích!
+20|Cái gì?! Nhưng...
+21|Đi đi.
+22|Rõ, thưa ngài!
+23|Chẳng phải...
+24|Chẳng phải mọi chuyện sẽ kết thúc nếu các vị giết tôi sao?!
+25|Ngài Saturn!
+26|Egghead...
+27|...chứa những thành quả nghiên cứu mới nhất của mọi lĩnh vực!
+28|Nếu phá hủy nó, tiến bộ khoa học sẽ lùi lại 100 năm!
+29|Thu hồi Buster Call đi!
+30|Làm ơn, Kizaru!
+31|Ngươi còn giấu chúng ta điều gì nữa sao?
+32|Có lẽ điều đó...
+33|...cũng gây rắc rối cho Chính phủ Thế giới.
+34|Chúng ta không cần tiến bộ!
+35|Tôi cầu xin các vị!
+36|Vì nhân loại!
+37|À...
+38|Ta quên nói với ngươi...
+39|Là về con tàu rời đảo hôm qua.
+40|Ta đã ra lệnh truy đuổi và tấn công nó rồi.
+41|Vì có thể có ai đó trên tàu đã biết điều gì về Thế Kỷ Trống.
+42|Để chắc chắn không ai sống sót...
+43|Ta đã cử một chiến hạm.
+44|Sao các người có thể làm vậy?!
+45|Họ không biết gì cả!
+46|Họ là những người vô tội!
+47|Ngươi đã kéo họ vào chuyện này, Vegapunk!
+48|Giống như người dân Ohara, ngươi đã phạm luật...
+49|...khuất phục trước thôi thúc khám phá
+50|và đào sâu vào quá khứ.
+51|Đồ ngốc.
+52|Cùng với hòn đảo này,
+53|diệt vong đi!
+54|Pacifista, ở lại trên đảo!
+55|Các binh sĩ khác, nhanh lên tàu!
+56|Ngay khi chuẩn bị xong, chúng ta sẽ bắt đầu pháo kích!
+57|Tàu 54, sẵn sàng!
+58|Tàu 21, sẵn sàng!
+59|Chúng tôi sẵn sàng khai hỏa!
+60|Nhanh lên! Vào Vacuum Rocket!
+61|Trong lúc Vegapunk đang đánh lạc hướng chúng!
+62|Điểm hẹn là cửa sau của Labophase!
+63|Chúng ta sẽ rời Egghead khi mọi người đến đủ!
+64|Rõ!
+65|Sanji! Vegapunk thì sao?!
+66|Đừng lo, Bonney-chan!
+67|Anh sẽ lo cho ông ấy!
+68|Giao cho cậu đấy, Sanji!
+69|Cứ tin tôi!
+70|Nami-san, là anh đây! Tình hình em thế nào?
+71|Bọn em đã ở cửa sau rồi!
+72|Dưới kia ồn ào gì vậy?!
+73|LABOPHASE
+74|CỬA SAU
+75|Cái gì?!
+76|Buster Call sao?!
+77|Hòn đảo này xong đời rồi!
+78|Chúng ta còn phải đối mặt với Buster Call bao nhiêu lần nữa?!
+79|Tôi lo cho Stella...
+80|Mau lên!
+81|Chạy thôi! Nhanh lên, mọi người!
+82|Nếu tôi có thể làm gì...
+83|Robin!
+84|Mọi chuyện ổn rồi, nên cậu cứ nghỉ ngơi tiếp đi.
+85|Cảm ơn cậu, Chopper.
+86|Sanji-kun? Luffy đang làm gì vậy?
+87|Cậu ấy ở đó, đúng không?
+88|Franky và Bonney cũng xuống đó rồi!
+89|Cậu ấy không nằm trong tầm mắt anh, nhưng vẫn ổn!
+90|Báo tình hình bên em đi!
+91|Zoro vẫn bị Lucci cầm chân...
+92|Cái tên đầu rêu chết tiệt đó đang làm gì thế!
+93|Jinbe đang đến đó để chặn lại.
+94|Nếu bỏ Zoro, cậu ấy sẽ lạc mất.
+95|Và...
+96|...Brook đã đi giúp Lilith, người ở lại Sunny.
+97|Nhưng có một vấn đề.
+98|Kế hoạch dùng Vegaforce-01 chở chúng ta từ đây không còn khả thi nữa.
+99|Vì nó đã bị Kizaru phá hủy!
+100|Cái gì?! Vậy làm sao thoát khỏi đây?!
+101|Ừm...
+102|Có vẻ Brook có ý tưởng...
+103|Với tôi thì,
+104|đưa tàu chạy trên đất liền dễ như ăn kẹo!
+105|Tuyệt quá, Bone!
+106|Với cái này, chúng ta sẽ tới cửa sau trong nháy mắt!
+107|Đóng băng Mây Đảo rồi cho tàu trượt trên đó là ý tưởng tuyệt vời!
+108|Được thiên tài vĩ đại nhất thế giới khen thật vinh dự!
+109|Vui quá!
+110|Và làm sao chúng ta dừng lại?
+111|Ồ, tôi chưa nghĩ đến chuyện đó.
+112|Vậy chúng ta sẽ rơi mất!
+113|Anh định làm gì đây?!
+114|Tôi phải làm sao đây, Lilith-san?!
+115|Mau nghĩ ra cái gì đi!
+116|Rào chắn ở Labophase vẫn còn.
+117|Vậy thì...
+118|Toàn bộ tàu!
+119|Mục tiêu là khu đô thị của Egghead.
+120|Phá hủy nhà máy trung tâm và thành phố tương lai!
+121|Buster Call...
+122|Bắt đầu!
+123|Khai hỏa!
+124|Này! Hắn là Mũ Rơm đúng không?!
+125|Tôi không ăn nổi nữa...
+126|Bắt hắn ngay! Hắn là một Tứ Hoàng!
+127|Ôi không... tôi không cử động nổi, no quá...
+128|Khoan! Chúng tôi chưa lên tàu!
+129|C-Cẩn thận Pacifista!
+130|Egghead...
+131|Tương lai của nhân loại...
+132|Ước mơ của tôi...
+133|Làm đi.
+134|Vâng, thưa ngài.
+135|Ôi-ôi-ôi-ôi!
+136|Chạy đi! Vegapunk!
+137|Rời Fabiriophase, hướng đến Labophase. Chúng ta đang khởi hành.
+138|Được rồi!
+139|Đi nào, Vacuum Rocket!
+140|Phóng!
+141|Cái quái gì thế này?! Nhanh quá!
+142|Thời gian di chuyển là 32 giây.
+143|Kizaru chết tiệt!
+144|Bonney-chan! Anh đến đây!
+145|Pacifista.
+146|Bắn chết Bonney và Kuma...
+147|...đi!
+148|Bố!
+149|Thật là tuyệt hảo!
+150|Đứa con gái mà hắn hy sinh bản thân để cứu...
+151|...giờ lại bị chính bản sao của hắn giết. Thật là ngu xuẩn tột cùng.
+152|Đỉnh cao của sự ngốc nghếch...
+153|...đúng là xứng với một con côn trùng hèn mọn!
+154|Khi nghe tin con trở thành hải tặc,
+155|điều tồi tệ nhất lóe lên trong đầu bố.
+156|Theo lệnh của Hải Quân, các Pacifista mang hình dạng cha ngươi...
+157|...bắn ngươi...
+158|...mà không nhận ra ngươi là con gái!
+159|Bonney-chan!
+160|Bố...
+161|Phá hủy tàu thoát thân thất bại...
+162|L-Liên lạc với ngài Kizaru...
+163|Và báo ngài ấy là chúng đang hướng đến Egghead!
+164|Tiếng Trống Giải Phóng lại vang vọng khắp Egghead!
+165|Liệu một sức mạnh phi thường, khiến cả mặt đất và các tòa nhà nhảy múa,
+166|có thật sự là sức mạnh cứu Egghead?
+167|Nika, Thần Mặt Trời mà Bonney và cha cô luôn mơ ước, cuối cùng đã xuất hiện!
+168|"Người hùng được ngưỡng mộ - Chiến binh Giải phóng cứu Bonney"
