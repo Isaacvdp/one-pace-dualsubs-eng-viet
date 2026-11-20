@@ -31,8 +31,8 @@ The Vietnamese is translated by AI (Claude), following a shared
    During installation, tick **"Add python.exe to PATH"**.
 2. **MKVToolNix**: install it from [mkvtoolnix.download](https://mkvtoolnix.download/downloads.html#windows).
    It's the free tool that puts the subtitles into the video files.
-   (`make_videos.bat` also installs OpenCV the first time, which it uses to find where
-   burned-in English sits in arcs like Wano.)
+   (`make_videos.bat` also installs OpenCV and Pillow the first time, which it uses to find
+   where burned-in English sits in arcs like Wano.)
 3. **This project**: on this page click **Code → Download ZIP** and unzip it anywhere.
    (Or use `git clone` if you know git.)
 

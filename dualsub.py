@@ -227,7 +227,7 @@ def canvas_scale(lines):
 
 
 # Bump when burned_top changes, so measurements from the old version aren't reused.
-POSITIONS_VERSION = 5
+POSITIONS_VERSION = 6
 
 
 def burned_top(frame, cv2, np, max_lines=3):
@@ -265,11 +265,77 @@ def burned_top(frame, cv2, np, max_lines=3):
     return None if top is None else (top + y_band) / h
 
 
-def english_lines(ass_text):
-    """How many lines an English subtitle takes: its line breaks, plus one where a long line wraps."""
+def styles_of(lines):
+    """Style name -> its fields (Name, Fontname, Fontsize, ..., Alignment at 18, MarginL, MarginR)."""
+    return {s[0].strip(): s for s in (line[6:].strip().split(",") for line in lines if line.startswith("Style:"))}
+
+
+def alignment(f, styles):
+    """Numpad alignment of a dialogue line (2 = bottom centre, 8 = top centre)."""
+    m = re.search(r"\\an([1-9])", f[9])
+    style = styles.get(f[3].strip())
+    return int(m.group(1)) if m else int(style[18]) if style and len(style) > 18 and style[18].strip().isdigit() else 2
+
+
+_fonts = {}
+
+
+def text_width(text, italic, size):
+    """Width of text in One Pace's dialogue font at an .ass font size, or None without Pillow/the font."""
+    key = (italic, size)
+    if key not in _fonts:
+        try:
+            from PIL import ImageFont
+            path = dialogue_fonts()[2 if italic else 1]
+            probe = ImageFont.truetype(str(path), 1000)
+            # An .ass font size is the font's full height (ascent + descent), not its em size.
+            _fonts[key] = ImageFont.truetype(str(path), round(size * 1000 / sum(probe.getmetrics())))
+        except Exception:
+            _fonts[key] = None
+    return _fonts[key] and _fonts[key].getlength(text)
+
+
+def english_lines(ass_text, style=None, res_x=None):
+    """How many lines an English subtitle takes: its line breaks, plus where a long line wraps.
+    Measured in One Pace's font when the style uses it, else estimated from the length."""
     text = re.sub(r"\{[^}]*\}", "", ass_text).replace(r"\n", r"\N")
-    wraps = "q2" not in ass_text  # q2: never wrapped
-    return sum(1 + (wraps and len(part) > 40) for part in text.split(r"\N"))
+    if "q2" in ass_text:  # never wrapped
+        return text.count(r"\N") + 1
+    try:
+        width = (res_x - int(style[19]) - int(style[20])) / (float(style[11]) / 100)
+        italic, size = style[8].strip() == "-1" or r"\i1" in ass_text, float(style[2])
+        measure = "impress" in style[1].lower() and text_width("x", italic, size) is not None
+    except (TypeError, ValueError, IndexError):
+        measure = False
+    n = 0
+    for part in text.split(r"\N"):
+        if not measure:
+            n += 1 + (len(part) > 40)
+            continue
+        n += 1
+        line = ""
+        for word in part.split():
+            if line and text_width(f"{line} {word}", italic, size) > width:
+                n += 1
+                line = word
+            else:
+                line = f"{line} {word}".strip()
+    return n
+
+
+def bottom_english(lines):
+    """[(start, end, how many lines)] of the dialogue shown at the bottom (burned in, in hardsub videos)."""
+    styles, res_x = styles_of(lines), play_res(lines)[0]
+    out = []
+    for line in lines:
+        if not line.startswith("Dialogue: ") or is_effect(line):
+            continue
+        f = split_dialogue(line)
+        name = f[3].strip()
+        if (DIALOGUE_STYLES.match(name) and not name.lower().startswith("captions") and plain_text(f[9])
+                and alignment(f, styles) in (1, 2, 3) and not re.search(r"\\(pos|move)\b", f[9])):
+            out.append((seconds(f[1]), seconds(f[2]), english_lines(f[9], styles.get(name), res_x)))
+    return out
 
 
 def burned_positions(video, lines, indexes):
@@ -285,10 +351,12 @@ def burned_positions(video, lines, indexes):
     cache_file = ENGLISH / "positions" / f"{video.stem}.v{POSITIONS_VERSION}.json"
     cache = json.loads(cache_file.read_text(encoding="utf-8")) if cache_file.exists() else {}
     res_y = play_res(lines)[1]
+    styles, bottom = styles_of(lines), bottom_english(lines)
     cap, out = None, {}
     for i in indexes:
         f = split_dialogue(lines[i])
-        if re.search(r"\\(an[4-9]|pos|move)\b", f[9]):  # English moved off the bottom: not measured
+        # English at the top of the screen, or moved elsewhere: not measured
+        if alignment(f, styles) not in (1, 2, 3) or re.search(r"\\(pos|move)\b", f[9]):
             continue
         start, end = seconds(f[1]), seconds(f[2])
         key = f"{start:.2f}-{end:.2f}"
@@ -298,9 +366,12 @@ def burned_positions(video, lines, indexes):
                 cap = cv2.VideoCapture(str(video))
             tops = []
             for k in (0.3, 0.5, 0.7):
-                cap.set(cv2.CAP_PROP_POS_MSEC, (start + (end - start) * k) * 1000)
+                at = start + (end - start) * k
+                cap.set(cv2.CAP_PROP_POS_MSEC, at * 1000)
                 ok, frame = cap.read()
-                top = burned_top(frame, cv2, np, english_lines(f[9])) if ok else None
+                # All the English at the bottom at that moment: two subtitles on screen stack.
+                shown = sum(n for a, b, n in bottom if a <= at < b) or 1
+                top = burned_top(frame, cv2, np, shown) if ok else None
                 if top is not None:
                     tops.append(top)
             # the middle of the samples; of two, the higher one (a gap is better than overlapping)
@@ -336,13 +407,18 @@ def build_dual(lines, vi_by_line, order, font, size, hardsub=False, positions=No
     positions = positions or {}
     if hardsub:
         vi_by_line = hardsub_lines(lines, vi_by_line)
-    res_x = play_res(lines)[0]
+    res_y = play_res(lines)[1]
+    styles = styles_of(lines)
     gap = round(6 * canvas_scale(lines))
     for i, text in vi_by_line.items():
         text = text.replace("{", "(").replace("}", ")").replace("\\", "/")
         f = split_dialogue(out[i])
         if hardsub and i in positions:
-            f[9] = f"{{\\r{VI_STYLE}\\an2\\pos({res_x // 2},{positions[i] - gap})}}{text}"
+            # A bottom margin rather than \pos: two lines on screen at once then stack instead of overlapping.
+            f[3], f[5], f[6], f[7], f[9] = VI_STYLE, "0", "0", str(max(1, res_y - positions[i] + gap)), text
+        elif hardsub and alignment(f, styles) in (7, 8, 9):
+            # English at the top of the screen: the Vietnamese goes under it.
+            f[9] = f"{{\\alpha&HFF&}}{f[9]}\\N{{\\r{VI_STYLE}}}{text}"
         elif hardsub:
             f[9] = f"{{\\r{VI_STYLE}}}{text}\\N{{\\r{f[3]}\\alpha&HFF&}}{f[9]}"
         elif order == "en-vi":
